@@ -18,4 +18,4 @@ https://apileague.com/apis/search-drinks-api/
 
 Coffee
 
-[https://ethicaroasters.com/products/ethiopia-gubeta-natural](https://hugo.cafe/all-time#data](https://hugo.cafe/all-time#data)
+https://hugo.cafe/all-time#data
