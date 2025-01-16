@@ -1,7 +1,9 @@
 # AAI
 
 # Potential APIs:
-- Alchohol -
+
+Alcohol 
+
 https://www.thecocktaildb.com/api.php
 
 https://winevybe.com/apis/
@@ -13,5 +15,7 @@ https://untappd.com/api/docs
 https://apileague.com/apis/search-drinks-api/
 
 # Websites
-- Coffee -
+
+Coffee
+
   https://ethicaroasters.com/products/ethiopia-gubeta-natural
