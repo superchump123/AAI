@@ -1,6 +1,12 @@
 # AAI
 
-# Potential APIS:
+# Potential APIs:
 https://www.thecocktaildb.com/api.php
 
 https://winevybe.com/apis/
+
+https://rapidapi.com/globalwinescore/api/global-wine-score
+
+https://untappd.com/api/docs
+
+https://apileague.com/apis/search-drinks-api/
