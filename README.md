@@ -19,3 +19,6 @@ https://apileague.com/apis/search-drinks-api/
 Coffee
 
 https://hugo.cafe/all-time#data
+
+# Presentation Archive
+Presentation 1 - Introduction: https://docs.google.com/presentation/d/1Qrw5IpsYFwXUvDhPVNJODLJtqknsuEySacBW_5hVmv4/edit?usp=sharing
