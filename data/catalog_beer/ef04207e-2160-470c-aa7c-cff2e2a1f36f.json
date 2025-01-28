@@ -1,0 +1,11 @@
+{
+  "id": "ef04207e-2160-470c-aa7c-cff2e2a1f36f",
+  "object": "beer",
+  "name": "Second Best Collab Ever",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

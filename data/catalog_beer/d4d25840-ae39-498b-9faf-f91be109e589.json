@@ -1,0 +1,11 @@
+{
+  "id": "d4d25840-ae39-498b-9faf-f91be109e589",
+  "object": "beer",
+  "name": "Party Guy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7e0b8454-dd5d-4930-a526-0f8fcd44442c",
+  "object": "beer",
+  "name": "Fly Bye Farmhouse Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

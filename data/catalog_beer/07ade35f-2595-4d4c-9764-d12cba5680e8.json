@@ -1,0 +1,11 @@
+{
+  "id": "07ade35f-2595-4d4c-9764-d12cba5680e8",
+  "object": "beer",
+  "name": "IMPERIAL PORTER",
+  "style": "Wood- and Barrel-Aged Dark Beer",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "37fccdf1-47fa-41cd-b0e7-242ad5025556",
+  "object": "beer",
+  "name": "Baehr's Cave",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

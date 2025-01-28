@@ -1,0 +1,11 @@
+{
+  "id": "1124b4ce-df32-4cbb-93a1-04a03169ce5b",
+  "object": "beer",
+  "name": "Mashie",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

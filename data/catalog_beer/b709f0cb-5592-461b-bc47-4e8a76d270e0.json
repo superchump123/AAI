@@ -1,0 +1,11 @@
+{
+  "id": "b709f0cb-5592-461b-bc47-4e8a76d270e0",
+  "object": "beer",
+  "name": "Alabaster",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6cc41568-da2d-4750-a5f6-7db17529f4cc",
+  "object": "beer",
+  "name": "Arena Premium Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

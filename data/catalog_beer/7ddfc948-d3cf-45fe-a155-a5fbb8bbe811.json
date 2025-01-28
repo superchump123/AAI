@@ -1,0 +1,11 @@
+{
+  "id": "7ddfc948-d3cf-45fe-a155-a5fbb8bbe811",
+  "object": "beer",
+  "name": "Belgian IPA",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

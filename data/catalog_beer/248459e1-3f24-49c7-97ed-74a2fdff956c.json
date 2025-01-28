@@ -1,0 +1,11 @@
+{
+  "id": "248459e1-3f24-49c7-97ed-74a2fdff956c",
+  "object": "beer",
+  "name": "Gentleman's Relish",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

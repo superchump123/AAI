@@ -1,0 +1,11 @@
+{
+  "id": "1dad6d1a-8ff9-4e20-8e62-d2de10c94ca5",
+  "object": "beer",
+  "name": "Silk Lady",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

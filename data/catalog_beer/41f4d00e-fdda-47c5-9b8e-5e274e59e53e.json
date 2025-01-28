@@ -1,0 +1,11 @@
+{
+  "id": "41f4d00e-fdda-47c5-9b8e-5e274e59e53e",
+  "object": "beer",
+  "name": "Ellie's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

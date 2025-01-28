@@ -1,0 +1,11 @@
+{
+  "id": "339264bb-b1a9-4ef5-b8c4-62ad21a97aef",
+  "object": "beer",
+  "name": "Sweet Potato Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bfc779f2-66fa-429d-bce2-a817c5980be7",
+  "object": "beer",
+  "name": "The Beer that Saved Christmas",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

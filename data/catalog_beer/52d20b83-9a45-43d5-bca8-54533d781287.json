@@ -1,0 +1,11 @@
+{
+  "id": "52d20b83-9a45-43d5-bca8-54533d781287",
+  "object": "beer",
+  "name": "Sovereign Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

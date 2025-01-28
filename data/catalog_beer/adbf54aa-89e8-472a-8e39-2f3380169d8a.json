@@ -1,0 +1,11 @@
+{
+  "id": "adbf54aa-89e8-472a-8e39-2f3380169d8a",
+  "object": "beer",
+  "name": "Power & Light Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

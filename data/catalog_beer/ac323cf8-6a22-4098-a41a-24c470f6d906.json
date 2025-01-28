@@ -1,0 +1,11 @@
+{
+  "id": "ac323cf8-6a22-4098-a41a-24c470f6d906",
+  "object": "beer",
+  "name": "Midnight Mocha Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "205c7266-e768-4144-9abf-2bdec6bb4194",
+  "object": "beer",
+  "name": "Scottish MISTS",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

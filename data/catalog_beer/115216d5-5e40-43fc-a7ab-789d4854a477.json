@@ -1,0 +1,11 @@
+{
+  "id": "115216d5-5e40-43fc-a7ab-789d4854a477",
+  "object": "beer",
+  "name": "Forbidden Planet",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

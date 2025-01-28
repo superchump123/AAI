@@ -1,0 +1,11 @@
+{
+  "id": "9ace3c0a-91a7-412a-a37f-d551d213c4d8",
+  "object": "beer",
+  "name": "Integral IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

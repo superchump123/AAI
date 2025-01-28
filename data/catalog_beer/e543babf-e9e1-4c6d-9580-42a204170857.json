@@ -1,0 +1,11 @@
+{
+  "id": "e543babf-e9e1-4c6d-9580-42a204170857",
+  "object": "beer",
+  "name": "Myrtle",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

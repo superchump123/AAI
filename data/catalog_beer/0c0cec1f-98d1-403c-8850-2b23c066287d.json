@@ -1,0 +1,11 @@
+{
+  "id": "0c0cec1f-98d1-403c-8850-2b23c066287d",
+  "object": "beer",
+  "name": "The Pit & The Pendulum",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

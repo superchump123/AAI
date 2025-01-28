@@ -1,0 +1,11 @@
+{
+  "id": "6da8c074-5e34-4a61-ae73-bc65097d739f",
+  "object": "beer",
+  "name": "D'ICER",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

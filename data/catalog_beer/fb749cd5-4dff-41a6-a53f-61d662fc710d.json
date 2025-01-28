@@ -1,0 +1,11 @@
+{
+  "id": "fb749cd5-4dff-41a6-a53f-61d662fc710d",
+  "object": "beer",
+  "name": "Paradise Lost",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

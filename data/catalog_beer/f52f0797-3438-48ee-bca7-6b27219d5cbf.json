@@ -1,0 +1,11 @@
+{
+  "id": "f52f0797-3438-48ee-bca7-6b27219d5cbf",
+  "object": "beer",
+  "name": "Cafe Muy Especial",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

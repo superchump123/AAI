@@ -1,0 +1,11 @@
+{
+  "id": "5eee0001-be23-4b71-b8fe-42cb9fea2963",
+  "object": "beer",
+  "name": "Winter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

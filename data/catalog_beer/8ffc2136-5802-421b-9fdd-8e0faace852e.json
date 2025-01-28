@@ -1,0 +1,11 @@
+{
+  "id": "8ffc2136-5802-421b-9fdd-8e0faace852e",
+  "object": "beer",
+  "name": "Silly House Tripel Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

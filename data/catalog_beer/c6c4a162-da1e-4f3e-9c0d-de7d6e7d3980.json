@@ -1,0 +1,11 @@
+{
+  "id": "c6c4a162-da1e-4f3e-9c0d-de7d6e7d3980",
+  "object": "beer",
+  "name": "Norma Jeane",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

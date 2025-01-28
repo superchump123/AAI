@@ -1,0 +1,11 @@
+{
+  "id": "5e6beeba-6e10-4e49-aaf4-ddfa03775f96",
+  "object": "beer",
+  "name": "Andelot Cuvee Diabolique",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c6b8a70c-1dd5-4090-873a-31f539493ec4",
+  "object": "beer",
+  "name": "Desert Dragon",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

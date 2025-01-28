@@ -1,0 +1,11 @@
+{
+  "id": "7a8f737e-72ef-425e-a318-2b5cd7bcbc02",
+  "object": "beer",
+  "name": "Bug Eyed Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

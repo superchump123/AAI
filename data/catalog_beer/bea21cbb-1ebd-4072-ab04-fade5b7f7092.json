@@ -1,0 +1,11 @@
+{
+  "id": "bea21cbb-1ebd-4072-ab04-fade5b7f7092",
+  "object": "beer",
+  "name": "Seneca Indian Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

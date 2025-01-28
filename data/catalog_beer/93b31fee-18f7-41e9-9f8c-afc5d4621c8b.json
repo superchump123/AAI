@@ -1,0 +1,11 @@
+{
+  "id": "93b31fee-18f7-41e9-9f8c-afc5d4621c8b",
+  "object": "beer",
+  "name": "Birds & Bees",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

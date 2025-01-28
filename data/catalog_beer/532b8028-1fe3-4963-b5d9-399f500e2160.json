@@ -1,0 +1,11 @@
+{
+  "id": "532b8028-1fe3-4963-b5d9-399f500e2160",
+  "object": "beer",
+  "name": "Nitro CEO Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

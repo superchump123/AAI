@@ -1,0 +1,11 @@
+{
+  "id": "421fc0cc-acb7-44e6-8e31-247e47dd5cc0",
+  "object": "beer",
+  "name": "Baba Yaga",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

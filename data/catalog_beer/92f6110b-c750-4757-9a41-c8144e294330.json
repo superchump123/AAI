@@ -1,0 +1,11 @@
+{
+  "id": "92f6110b-c750-4757-9a41-c8144e294330",
+  "object": "beer",
+  "name": "People's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

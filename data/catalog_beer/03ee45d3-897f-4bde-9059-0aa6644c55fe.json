@@ -1,0 +1,11 @@
+{
+  "id": "03ee45d3-897f-4bde-9059-0aa6644c55fe",
+  "object": "beer",
+  "name": "Three Ridges",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

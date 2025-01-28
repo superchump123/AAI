@@ -1,0 +1,11 @@
+{
+  "id": "21ac35cd-d23b-473b-ba45-3ddf7854d8bd",
+  "object": "beer",
+  "name": "Waapaahsiiki Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "24c74393-3679-46af-8b85-f06dcf615f9a",
+  "object": "beer",
+  "name": "K-Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

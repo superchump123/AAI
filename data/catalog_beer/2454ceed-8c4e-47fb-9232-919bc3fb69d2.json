@@ -1,0 +1,11 @@
+{
+  "id": "2454ceed-8c4e-47fb-9232-919bc3fb69d2",
+  "object": "beer",
+  "name": "Stout of Jefferson",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

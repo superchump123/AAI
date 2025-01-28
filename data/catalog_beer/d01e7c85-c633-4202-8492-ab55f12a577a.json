@@ -1,0 +1,11 @@
+{
+  "id": "d01e7c85-c633-4202-8492-ab55f12a577a",
+  "object": "beer",
+  "name": "Aprinaut",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

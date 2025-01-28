@@ -1,0 +1,11 @@
+{
+  "id": "a32fd52f-0f20-4cf0-a614-b8666adbcba2",
+  "object": "beer",
+  "name": "Schlappeseppel Dunkel",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

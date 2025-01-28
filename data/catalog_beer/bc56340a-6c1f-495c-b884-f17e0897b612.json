@@ -1,0 +1,11 @@
+{
+  "id": "bc56340a-6c1f-495c-b884-f17e0897b612",
+  "object": "beer",
+  "name": "Nutter Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

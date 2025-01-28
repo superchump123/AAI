@@ -1,0 +1,11 @@
+{
+  "id": "78e0af31-370c-4737-ab7f-57c29693d6f6",
+  "object": "beer",
+  "name": "Hiawassee",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

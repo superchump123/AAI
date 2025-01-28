@@ -1,0 +1,11 @@
+{
+  "id": "81777a8e-6ada-46b4-924b-5230fa87236e",
+  "object": "beer",
+  "name": "Organic Cherry Fruit Beer",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

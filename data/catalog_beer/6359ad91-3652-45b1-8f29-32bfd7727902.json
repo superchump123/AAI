@@ -1,0 +1,11 @@
+{
+  "id": "6359ad91-3652-45b1-8f29-32bfd7727902",
+  "object": "beer",
+  "name": "Eponymous",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

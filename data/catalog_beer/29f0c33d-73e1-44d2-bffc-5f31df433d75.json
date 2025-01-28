@@ -1,0 +1,11 @@
+{
+  "id": "29f0c33d-73e1-44d2-bffc-5f31df433d75",
+  "object": "beer",
+  "name": "No Boundary IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

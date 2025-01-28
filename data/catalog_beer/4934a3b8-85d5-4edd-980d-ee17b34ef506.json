@@ -1,0 +1,11 @@
+{
+  "id": "4934a3b8-85d5-4edd-980d-ee17b34ef506",
+  "object": "beer",
+  "name": "Birra Peroni",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

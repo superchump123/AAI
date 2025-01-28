@@ -1,0 +1,11 @@
+{
+  "id": "b4d6e9b8-c40a-4ebe-9a48-31aac3259e18",
+  "object": "beer",
+  "name": "Ransom Note",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

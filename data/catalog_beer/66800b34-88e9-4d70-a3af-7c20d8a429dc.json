@@ -1,0 +1,11 @@
+{
+  "id": "66800b34-88e9-4d70-a3af-7c20d8a429dc",
+  "object": "beer",
+  "name": "Point the Way IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

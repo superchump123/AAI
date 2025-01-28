@@ -1,0 +1,11 @@
+{
+  "id": "d78bf7a7-edfb-43a6-929f-aee8d67198fd",
+  "object": "beer",
+  "name": "TRIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c5e27545-a82c-4959-88c8-bd0770ea6b4a",
+  "object": "beer",
+  "name": "Threes Arboretum",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

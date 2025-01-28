@@ -1,0 +1,11 @@
+{
+  "id": "6099d800-e93d-4bb7-9f38-85d985e0c94f",
+  "object": "beer",
+  "name": "Festivus Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

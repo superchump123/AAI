@@ -1,0 +1,11 @@
+{
+  "id": "05b46966-3fb4-41e3-9c49-e174e4c40f46",
+  "object": "beer",
+  "name": "Blueberry Belch",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

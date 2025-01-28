@@ -1,0 +1,11 @@
+{
+  "id": "67ef3421-22ea-4aab-a631-463727b80b64",
+  "object": "beer",
+  "name": "Snack Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

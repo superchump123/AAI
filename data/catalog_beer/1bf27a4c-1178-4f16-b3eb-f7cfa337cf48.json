@@ -1,0 +1,11 @@
+{
+  "id": "1bf27a4c-1178-4f16-b3eb-f7cfa337cf48",
+  "object": "beer",
+  "name": "Invisible Art",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

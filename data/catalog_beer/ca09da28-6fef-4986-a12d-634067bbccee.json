@@ -1,0 +1,11 @@
+{
+  "id": "ca09da28-6fef-4986-a12d-634067bbccee",
+  "object": "beer",
+  "name": "Hop Dog",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4d80d6ec-b610-4f95-8d21-270c5d23aa75",
+  "object": "beer",
+  "name": "Mack in Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

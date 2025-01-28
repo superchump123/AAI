@@ -1,0 +1,11 @@
+{
+  "id": "44a84793-9e0a-4ac9-ad1f-c69183a15e1a",
+  "object": "beer",
+  "name": "Lil' Hershey Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

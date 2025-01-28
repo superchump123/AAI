@@ -1,0 +1,11 @@
+{
+  "id": "374f644a-f601-42d0-bfd6-90f787975dd9",
+  "object": "beer",
+  "name": "Midnight Toker",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

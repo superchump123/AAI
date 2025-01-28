@@ -1,0 +1,11 @@
+{
+  "id": "20a01d1b-b84b-470f-a31e-037b9474f4f3",
+  "object": "beer",
+  "name": "Dankosaurus IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

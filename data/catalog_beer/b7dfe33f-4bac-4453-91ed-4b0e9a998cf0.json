@@ -1,0 +1,11 @@
+{
+  "id": "b7dfe33f-4bac-4453-91ed-4b0e9a998cf0",
+  "object": "beer",
+  "name": "Hawaiian Lounge Juice",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

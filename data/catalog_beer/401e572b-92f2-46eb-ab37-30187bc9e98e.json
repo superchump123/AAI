@@ -1,0 +1,11 @@
+{
+  "id": "401e572b-92f2-46eb-ab37-30187bc9e98e",
+  "object": "beer",
+  "name": "Big Eddy Baltic Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

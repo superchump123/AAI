@@ -1,0 +1,11 @@
+{
+  "id": "be14f221-d9c9-41c9-af90-88c8d9bb3e5d",
+  "object": "beer",
+  "name": "Freight Hopper",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7834269c-9427-488c-816b-b1fc3fa02d24",
+  "object": "beer",
+  "name": "Swashbuckler",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

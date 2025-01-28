@@ -1,0 +1,11 @@
+{
+  "id": "9a7f24c8-903a-4f1d-9c4f-e09475162e1b",
+  "object": "beer",
+  "name": "Nera",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

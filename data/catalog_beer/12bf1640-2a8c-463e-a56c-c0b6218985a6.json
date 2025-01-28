@@ -1,0 +1,11 @@
+{
+  "id": "12bf1640-2a8c-463e-a56c-c0b6218985a6",
+  "object": "beer",
+  "name": "Clamper's Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

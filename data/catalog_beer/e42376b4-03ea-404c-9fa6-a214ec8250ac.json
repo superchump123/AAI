@@ -1,0 +1,11 @@
+{
+  "id": "e42376b4-03ea-404c-9fa6-a214ec8250ac",
+  "object": "beer",
+  "name": "Tail Feather",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

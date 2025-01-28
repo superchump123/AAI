@@ -1,0 +1,11 @@
+{
+  "id": "1c832a86-fec9-4303-89dd-8abae928c378",
+  "object": "beer",
+  "name": "Tropical Bliss",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

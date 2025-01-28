@@ -1,0 +1,11 @@
+{
+  "id": "5b9a928a-d395-4fb2-9d3d-ddf3267c66ee",
+  "object": "beer",
+  "name": "Traditional Dry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

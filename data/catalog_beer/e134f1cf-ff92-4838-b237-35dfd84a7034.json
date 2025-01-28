@@ -1,0 +1,11 @@
+{
+  "id": "e134f1cf-ff92-4838-b237-35dfd84a7034",
+  "object": "beer",
+  "name": "Colorado Peach",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

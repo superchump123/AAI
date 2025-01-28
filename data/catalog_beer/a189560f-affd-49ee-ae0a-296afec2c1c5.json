@@ -1,0 +1,11 @@
+{
+  "id": "a189560f-affd-49ee-ae0a-296afec2c1c5",
+  "object": "beer",
+  "name": "Worker Bee",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

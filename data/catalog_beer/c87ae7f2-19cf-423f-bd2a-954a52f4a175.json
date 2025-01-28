@@ -1,0 +1,11 @@
+{
+  "id": "c87ae7f2-19cf-423f-bd2a-954a52f4a175",
+  "object": "beer",
+  "name": "Creme Brulee Java Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

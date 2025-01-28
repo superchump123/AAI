@@ -1,0 +1,11 @@
+{
+  "id": "b34a992b-afd4-46ee-bc33-a2aed909013c",
+  "object": "beer",
+  "name": "OK Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

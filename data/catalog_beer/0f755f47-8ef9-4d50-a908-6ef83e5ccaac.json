@@ -1,0 +1,11 @@
+{
+  "id": "0f755f47-8ef9-4d50-a908-6ef83e5ccaac",
+  "object": "beer",
+  "name": "Southern Helles Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

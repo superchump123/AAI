@@ -1,0 +1,11 @@
+{
+  "id": "5a5d9b8b-f711-4acd-bc96-946a3791eca7",
+  "object": "beer",
+  "name": "Simpleton",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 2.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

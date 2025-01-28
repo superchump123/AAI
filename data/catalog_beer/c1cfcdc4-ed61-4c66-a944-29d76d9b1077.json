@@ -1,0 +1,11 @@
+{
+  "id": "c1cfcdc4-ed61-4c66-a944-29d76d9b1077",
+  "object": "beer",
+  "name": "Gold",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

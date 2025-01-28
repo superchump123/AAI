@@ -1,0 +1,11 @@
+{
+  "id": "59f1908b-ffb8-4aea-92b5-e89bdc865765",
+  "object": "beer",
+  "name": "Bornsteiner Landbier Spezial",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

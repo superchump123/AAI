@@ -1,0 +1,11 @@
+{
+  "id": "b795aea8-55ab-47d8-9a3a-c023c2b667b2",
+  "object": "beer",
+  "name": "Monocle",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

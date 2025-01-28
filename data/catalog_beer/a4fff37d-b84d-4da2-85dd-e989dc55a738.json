@@ -1,0 +1,11 @@
+{
+  "id": "a4fff37d-b84d-4da2-85dd-e989dc55a738",
+  "object": "beer",
+  "name": "Portage Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

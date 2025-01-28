@@ -1,0 +1,11 @@
+{
+  "id": "e9f51086-a1c7-40f2-8f7d-1b93628bf816",
+  "object": "beer",
+  "name": "Belgian Honey Blonde",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "826cc572-bd7a-4095-855f-4a392812297b",
+  "object": "beer",
+  "name": "Duveneck's Dortmunder",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

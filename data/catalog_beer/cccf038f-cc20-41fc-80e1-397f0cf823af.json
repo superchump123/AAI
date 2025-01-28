@@ -1,0 +1,11 @@
+{
+  "id": "cccf038f-cc20-41fc-80e1-397f0cf823af",
+  "object": "beer",
+  "name": "The Damsel",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

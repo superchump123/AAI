@@ -1,0 +1,11 @@
+{
+  "id": "f2d87b22-523e-4494-b37e-f70fd085193c",
+  "object": "beer",
+  "name": "Lake Effect",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f0a4dffb-31ad-4e1b-9753-ea702f62df32",
+  "object": "beer",
+  "name": "C Squared IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

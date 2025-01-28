@@ -1,0 +1,11 @@
+{
+  "id": "9474b461-3100-44df-9dbf-0ea346752e0a",
+  "object": "beer",
+  "name": "SummerBright Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

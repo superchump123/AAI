@@ -1,0 +1,11 @@
+{
+  "id": "b24ea4ce-cc29-4817-838d-bc4853c3863e",
+  "object": "beer",
+  "name": "Pyramid Amber Weizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

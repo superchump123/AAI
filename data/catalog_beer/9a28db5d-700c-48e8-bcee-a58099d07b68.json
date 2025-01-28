@@ -1,0 +1,11 @@
+{
+  "id": "9a28db5d-700c-48e8-bcee-a58099d07b68",
+  "object": "beer",
+  "name": "Gose",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cfab81c2-b67d-43b1-98f8-86f583e0425d",
+  "object": "beer",
+  "name": "St. Vrain",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

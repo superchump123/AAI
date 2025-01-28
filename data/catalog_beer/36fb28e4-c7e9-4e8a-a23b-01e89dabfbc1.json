@@ -1,0 +1,11 @@
+{
+  "id": "36fb28e4-c7e9-4e8a-a23b-01e89dabfbc1",
+  "object": "beer",
+  "name": "Imperial Kristalweizen",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 10,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

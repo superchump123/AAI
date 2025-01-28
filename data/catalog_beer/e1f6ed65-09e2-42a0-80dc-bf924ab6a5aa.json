@@ -1,0 +1,11 @@
+{
+  "id": "e1f6ed65-09e2-42a0-80dc-bf924ab6a5aa",
+  "object": "beer",
+  "name": "CHAllie Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

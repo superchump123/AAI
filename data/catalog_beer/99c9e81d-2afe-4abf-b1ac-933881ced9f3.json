@@ -1,0 +1,11 @@
+{
+  "id": "99c9e81d-2afe-4abf-b1ac-933881ced9f3",
+  "object": "beer",
+  "name": "Head Trip",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

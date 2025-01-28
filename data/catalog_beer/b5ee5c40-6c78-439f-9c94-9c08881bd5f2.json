@@ -1,0 +1,11 @@
+{
+  "id": "b5ee5c40-6c78-439f-9c94-9c08881bd5f2",
+  "object": "beer",
+  "name": "Hibernation Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

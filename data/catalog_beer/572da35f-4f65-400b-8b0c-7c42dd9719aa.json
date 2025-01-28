@@ -1,0 +1,11 @@
+{
+  "id": "572da35f-4f65-400b-8b0c-7c42dd9719aa",
+  "object": "beer",
+  "name": "Newcastle Werewolf",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

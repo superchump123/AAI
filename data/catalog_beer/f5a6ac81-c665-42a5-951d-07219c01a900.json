@@ -1,0 +1,11 @@
+{
+  "id": "f5a6ac81-c665-42a5-951d-07219c01a900",
+  "object": "beer",
+  "name": "Thai Dyed",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

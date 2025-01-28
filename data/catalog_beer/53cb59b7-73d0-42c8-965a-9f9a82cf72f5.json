@@ -1,0 +1,11 @@
+{
+  "id": "53cb59b7-73d0-42c8-965a-9f9a82cf72f5",
+  "object": "beer",
+  "name": "K Sutra Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 101,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

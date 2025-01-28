@@ -1,0 +1,11 @@
+{
+  "id": "04ccf824-714f-4ab2-851c-89d146c27407",
+  "object": "beer",
+  "name": "Barrel Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

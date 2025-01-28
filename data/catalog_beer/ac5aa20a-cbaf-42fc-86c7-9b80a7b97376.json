@@ -1,0 +1,11 @@
+{
+  "id": "ac5aa20a-cbaf-42fc-86c7-9b80a7b97376",
+  "object": "beer",
+  "name": "The Tripper",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

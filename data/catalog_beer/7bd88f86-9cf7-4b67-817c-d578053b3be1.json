@@ -1,0 +1,11 @@
+{
+  "id": "7bd88f86-9cf7-4b67-817c-d578053b3be1",
+  "object": "beer",
+  "name": "Y'alls Nuts",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

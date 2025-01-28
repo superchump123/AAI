@@ -1,0 +1,11 @@
+{
+  "id": "ce1b260d-1aa2-4d67-a7a0-05d1ec23511b",
+  "object": "beer",
+  "name": "Smell Ya Later",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

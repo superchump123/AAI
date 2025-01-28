@@ -1,0 +1,11 @@
+{
+  "id": "9da3956b-765d-4c33-9760-8396eede0890",
+  "object": "beer",
+  "name": "Chestnut Street",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

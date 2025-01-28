@@ -1,0 +1,11 @@
+{
+  "id": "b3788990-237b-4339-aa3e-054a8e188900",
+  "object": "beer",
+  "name": "Brandy Barrel-Aged Framinghammer",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 11.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

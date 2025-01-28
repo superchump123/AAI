@@ -1,0 +1,11 @@
+{
+  "id": "c8358865-372a-4cfa-ac4b-b1518bb66b77",
+  "object": "beer",
+  "name": "Eight Miles High",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

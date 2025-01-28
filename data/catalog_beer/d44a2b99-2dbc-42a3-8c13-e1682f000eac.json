@@ -1,0 +1,11 @@
+{
+  "id": "d44a2b99-2dbc-42a3-8c13-e1682f000eac",
+  "object": "beer",
+  "name": "Furry",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

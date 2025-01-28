@@ -1,0 +1,11 @@
+{
+  "id": "db07f1ef-47d4-48c3-8d12-3e71eeb6aa2e",
+  "object": "beer",
+  "name": "Sweetheart",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

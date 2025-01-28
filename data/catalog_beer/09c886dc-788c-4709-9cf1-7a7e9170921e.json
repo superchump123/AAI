@@ -1,0 +1,11 @@
+{
+  "id": "09c886dc-788c-4709-9cf1-7a7e9170921e",
+  "object": "beer",
+  "name": "Mexican Honey Imperial Lager",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d852012b-2ad3-40db-84ff-8e4756295fa7",
+  "object": "beer",
+  "name": "San O Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

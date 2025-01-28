@@ -1,0 +1,11 @@
+{
+  "id": "c080a3e9-1f67-4179-8591-875991558a97",
+  "object": "beer",
+  "name": "Corktown Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

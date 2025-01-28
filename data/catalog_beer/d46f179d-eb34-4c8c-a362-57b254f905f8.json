@@ -1,0 +1,11 @@
+{
+  "id": "d46f179d-eb34-4c8c-a362-57b254f905f8",
+  "object": "beer",
+  "name": "Black Noddy",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

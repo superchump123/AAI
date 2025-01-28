@@ -1,0 +1,11 @@
+{
+  "id": "ef8abfe4-a6f9-4ead-a3b5-d01b6b9030ff",
+  "object": "beer",
+  "name": "Groupe G",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

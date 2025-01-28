@@ -1,0 +1,11 @@
+{
+  "id": "f206bb03-ca14-4b6c-a6aa-bc13c38e825b",
+  "object": "beer",
+  "name": "HONORABLE BYRON",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

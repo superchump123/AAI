@@ -1,0 +1,11 @@
+{
+  "id": "5a72fa8d-07f6-40a4-b902-d94ae1e83617",
+  "object": "beer",
+  "name": "Psychopath",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

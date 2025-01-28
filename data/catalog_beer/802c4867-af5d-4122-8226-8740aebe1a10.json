@@ -1,0 +1,11 @@
+{
+  "id": "802c4867-af5d-4122-8226-8740aebe1a10",
+  "object": "beer",
+  "name": "Salty Dog",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

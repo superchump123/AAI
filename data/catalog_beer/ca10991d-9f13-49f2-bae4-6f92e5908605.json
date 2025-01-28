@@ -1,0 +1,11 @@
+{
+  "id": "ca10991d-9f13-49f2-bae4-6f92e5908605",
+  "object": "beer",
+  "name": "Smell The Rug",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

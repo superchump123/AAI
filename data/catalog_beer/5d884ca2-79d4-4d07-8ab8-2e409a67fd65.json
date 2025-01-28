@@ -1,0 +1,11 @@
+{
+  "id": "5d884ca2-79d4-4d07-8ab8-2e409a67fd65",
+  "object": "beer",
+  "name": "Circum Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

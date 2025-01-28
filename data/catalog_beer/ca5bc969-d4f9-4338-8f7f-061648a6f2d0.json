@@ -1,0 +1,11 @@
+{
+  "id": "ca5bc969-d4f9-4338-8f7f-061648a6f2d0",
+  "object": "beer",
+  "name": "Uncle Dave's Rye IPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

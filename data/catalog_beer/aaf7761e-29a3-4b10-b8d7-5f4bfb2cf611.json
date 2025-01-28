@@ -1,0 +1,11 @@
+{
+  "id": "aaf7761e-29a3-4b10-b8d7-5f4bfb2cf611",
+  "object": "beer",
+  "name": "Somner Hvede",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

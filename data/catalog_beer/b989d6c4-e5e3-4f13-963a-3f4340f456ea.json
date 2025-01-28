@@ -1,0 +1,11 @@
+{
+  "id": "b989d6c4-e5e3-4f13-963a-3f4340f456ea",
+  "object": "beer",
+  "name": "Dubbel Dragon",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

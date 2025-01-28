@@ -1,0 +1,11 @@
+{
+  "id": "aed344bb-c871-491e-8ec5-8af4c566aef0",
+  "object": "beer",
+  "name": "Brilliant Barstool",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

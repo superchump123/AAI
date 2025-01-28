@@ -1,0 +1,11 @@
+{
+  "id": "d046ffed-97b5-41b6-852e-3a43929990fb",
+  "object": "beer",
+  "name": "Sinister Minister",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

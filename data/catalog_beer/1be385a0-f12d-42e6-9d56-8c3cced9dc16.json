@@ -1,0 +1,11 @@
+{
+  "id": "1be385a0-f12d-42e6-9d56-8c3cced9dc16",
+  "object": "beer",
+  "name": "First Flight",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 13.7,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

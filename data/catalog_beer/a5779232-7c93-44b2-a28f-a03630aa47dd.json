@@ -1,0 +1,11 @@
+{
+  "id": "a5779232-7c93-44b2-a28f-a03630aa47dd",
+  "object": "beer",
+  "name": "Cow Palace Scotch Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

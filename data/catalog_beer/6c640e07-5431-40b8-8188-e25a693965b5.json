@@ -1,0 +1,11 @@
+{
+  "id": "6c640e07-5431-40b8-8188-e25a693965b5",
+  "object": "beer",
+  "name": "East Coast IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

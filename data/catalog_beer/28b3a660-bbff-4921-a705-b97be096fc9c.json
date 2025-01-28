@@ -1,0 +1,11 @@
+{
+  "id": "28b3a660-bbff-4921-a705-b97be096fc9c",
+  "object": "beer",
+  "name": "Dry Raspberry Cider",
+  "style": "Traditional Perry",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

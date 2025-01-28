@@ -1,0 +1,11 @@
+{
+  "id": "ff2f7eed-0994-4757-954a-62e2428d733e",
+  "object": "beer",
+  "name": "Danke Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 13.1,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

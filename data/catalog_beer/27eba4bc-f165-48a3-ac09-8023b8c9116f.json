@@ -1,0 +1,11 @@
+{
+  "id": "27eba4bc-f165-48a3-ac09-8023b8c9116f",
+  "object": "beer",
+  "name": "Rose",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d3f3c07-6a1c-4922-9fd3-15f5458e5d27",
+  "object": "beer",
+  "name": "Blueliner",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

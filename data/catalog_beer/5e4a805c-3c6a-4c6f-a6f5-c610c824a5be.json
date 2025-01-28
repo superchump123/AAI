@@ -1,0 +1,11 @@
+{
+  "id": "5e4a805c-3c6a-4c6f-a6f5-c610c824a5be",
+  "object": "beer",
+  "name": "Mulligan Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bed29cb3-adfb-4d8f-a232-f82fe499da3d",
+  "object": "beer",
+  "name": "South Side Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

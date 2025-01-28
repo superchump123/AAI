@@ -1,0 +1,11 @@
+{
+  "id": "9a4517b8-a718-4844-9e3c-fd62fedd3c68",
+  "object": "beer",
+  "name": "Samuel Adams Rustic Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

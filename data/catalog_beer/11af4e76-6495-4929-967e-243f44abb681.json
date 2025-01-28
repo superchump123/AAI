@@ -1,0 +1,11 @@
+{
+  "id": "11af4e76-6495-4929-967e-243f44abb681",
+  "object": "beer",
+  "name": "Spacetown Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

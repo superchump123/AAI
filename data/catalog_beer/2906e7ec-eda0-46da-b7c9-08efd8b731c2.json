@@ -1,0 +1,11 @@
+{
+  "id": "2906e7ec-eda0-46da-b7c9-08efd8b731c2",
+  "object": "beer",
+  "name": "Honey Badger",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

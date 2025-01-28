@@ -1,0 +1,11 @@
+{
+  "id": "a44c1e49-ed63-433a-8f04-d107ce2f7dcd",
+  "object": "beer",
+  "name": "Light",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

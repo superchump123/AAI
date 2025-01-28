@@ -1,0 +1,11 @@
+{
+  "id": "e140203f-a90e-43fa-a8c7-729ae8107f2c",
+  "object": "beer",
+  "name": "Raz-Berry Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

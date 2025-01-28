@@ -1,0 +1,11 @@
+{
+  "id": "4928491f-e19a-49c7-ad1d-3f5efc22744a",
+  "object": "beer",
+  "name": "King George",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

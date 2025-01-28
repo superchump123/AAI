@@ -1,0 +1,11 @@
+{
+  "id": "4e5668ad-5e1b-4b6a-aa6f-d853724d6941",
+  "object": "beer",
+  "name": "Midnight Marauder",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

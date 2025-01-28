@@ -1,0 +1,11 @@
+{
+  "id": "4090fc27-ddcd-4aa8-9b4d-7c965509e596",
+  "object": "beer",
+  "name": "Black Kettle Chocolate Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

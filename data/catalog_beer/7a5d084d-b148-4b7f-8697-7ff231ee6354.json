@@ -1,0 +1,11 @@
+{
+  "id": "7a5d084d-b148-4b7f-8697-7ff231ee6354",
+  "object": "beer",
+  "name": "Copperhead White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

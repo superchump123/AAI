@@ -1,0 +1,11 @@
+{
+  "id": "8b005236-04b1-4743-9e19-1deb14af9f6c",
+  "object": "beer",
+  "name": "Kenny Sours",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

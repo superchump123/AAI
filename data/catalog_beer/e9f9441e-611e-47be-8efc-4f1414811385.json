@@ -1,0 +1,11 @@
+{
+  "id": "e9f9441e-611e-47be-8efc-4f1414811385",
+  "object": "beer",
+  "name": "Monks' Dubbel Reserve",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

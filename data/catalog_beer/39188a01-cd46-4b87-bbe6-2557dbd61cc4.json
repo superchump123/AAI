@@ -1,0 +1,11 @@
+{
+  "id": "39188a01-cd46-4b87-bbe6-2557dbd61cc4",
+  "object": "beer",
+  "name": "Hellion",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

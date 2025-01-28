@@ -1,0 +1,11 @@
+{
+  "id": "bbdc6e4f-f14d-4adf-8aec-eb8b6e67f518",
+  "object": "beer",
+  "name": "Punkuccino",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

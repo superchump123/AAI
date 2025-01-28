@@ -1,0 +1,11 @@
+{
+  "id": "ead99582-c740-4ec0-aaea-141156c2655c",
+  "object": "beer",
+  "name": "Samurai",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

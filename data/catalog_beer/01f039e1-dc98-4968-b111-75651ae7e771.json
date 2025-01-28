@@ -1,0 +1,11 @@
+{
+  "id": "01f039e1-dc98-4968-b111-75651ae7e771",
+  "object": "beer",
+  "name": "PROFESSIONAL PILS",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

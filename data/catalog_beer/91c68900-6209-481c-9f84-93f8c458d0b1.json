@@ -1,0 +1,11 @@
+{
+  "id": "91c68900-6209-481c-9f84-93f8c458d0b1",
+  "object": "beer",
+  "name": "Wowee Zowee",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "44da5a22-383c-4dac-9c67-b5f6283d164a",
+  "object": "beer",
+  "name": "Seeing Eye Rye",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

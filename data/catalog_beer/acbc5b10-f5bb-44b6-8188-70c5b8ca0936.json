@@ -1,0 +1,11 @@
+{
+  "id": "acbc5b10-f5bb-44b6-8188-70c5b8ca0936",
+  "object": "beer",
+  "name": "Small Ale",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

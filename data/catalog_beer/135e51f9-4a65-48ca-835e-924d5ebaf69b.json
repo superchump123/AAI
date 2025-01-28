@@ -1,0 +1,11 @@
+{
+  "id": "135e51f9-4a65-48ca-835e-924d5ebaf69b",
+  "object": "beer",
+  "name": "Aries Spring Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

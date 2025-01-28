@@ -1,0 +1,11 @@
+{
+  "id": "848a97b8-42f7-46b4-96e1-c91bb60ba599",
+  "object": "beer",
+  "name": "Aurora Arborealis",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

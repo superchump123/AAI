@@ -1,0 +1,11 @@
+{
+  "id": "74ee2d6e-fddc-4ab3-9075-6bcf4e19e476",
+  "object": "beer",
+  "name": "Affligem Blond",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

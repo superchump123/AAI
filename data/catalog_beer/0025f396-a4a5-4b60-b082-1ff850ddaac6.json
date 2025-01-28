@@ -1,0 +1,11 @@
+{
+  "id": "0025f396-a4a5-4b60-b082-1ff850ddaac6",
+  "object": "beer",
+  "name": "Groundswell Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

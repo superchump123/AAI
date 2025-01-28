@@ -1,0 +1,11 @@
+{
+  "id": "b52e5a88-82c7-4a35-b307-eedb3efa959f",
+  "object": "beer",
+  "name": "Spiteful IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

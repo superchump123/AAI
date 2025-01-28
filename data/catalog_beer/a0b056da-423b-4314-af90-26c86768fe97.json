@@ -1,0 +1,11 @@
+{
+  "id": "a0b056da-423b-4314-af90-26c86768fe97",
+  "object": "beer",
+  "name": "Wild & Funky",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

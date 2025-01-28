@@ -1,0 +1,11 @@
+{
+  "id": "07cb6288-aeb7-438d-b34e-3e4bcb73e50e",
+  "object": "beer",
+  "name": "Classic American",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

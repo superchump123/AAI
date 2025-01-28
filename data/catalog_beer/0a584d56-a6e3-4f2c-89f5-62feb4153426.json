@@ -1,0 +1,11 @@
+{
+  "id": "0a584d56-a6e3-4f2c-89f5-62feb4153426",
+  "object": "beer",
+  "name": "Pogue's Run Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

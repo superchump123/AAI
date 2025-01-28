@@ -1,0 +1,11 @@
+{
+  "id": "c0c5dd93-8f21-45a0-a472-2740b59939ad",
+  "object": "beer",
+  "name": "The Hypocrite",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

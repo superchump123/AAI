@@ -1,0 +1,11 @@
+{
+  "id": "3edd535f-c00e-4c8a-8f51-98323e07053b",
+  "object": "beer",
+  "name": "Burly Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

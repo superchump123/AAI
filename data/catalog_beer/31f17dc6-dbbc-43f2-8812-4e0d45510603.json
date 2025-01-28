@@ -1,0 +1,11 @@
+{
+  "id": "31f17dc6-dbbc-43f2-8812-4e0d45510603",
+  "object": "beer",
+  "name": "London Bridge ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

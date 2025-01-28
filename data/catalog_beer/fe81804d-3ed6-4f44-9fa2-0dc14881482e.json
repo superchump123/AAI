@@ -1,0 +1,11 @@
+{
+  "id": "fe81804d-3ed6-4f44-9fa2-0dc14881482e",
+  "object": "beer",
+  "name": "Cape May The Bog",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

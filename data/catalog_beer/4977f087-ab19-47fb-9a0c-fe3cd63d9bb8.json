@@ -1,0 +1,11 @@
+{
+  "id": "4977f087-ab19-47fb-9a0c-fe3cd63d9bb8",
+  "object": "beer",
+  "name": "Slue's Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0cac4b5a-3496-4f7c-8253-d88e9c729482",
+  "object": "beer",
+  "name": "STUART Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

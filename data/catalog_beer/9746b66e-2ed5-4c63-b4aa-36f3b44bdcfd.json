@@ -1,0 +1,11 @@
+{
+  "id": "9746b66e-2ed5-4c63-b4aa-36f3b44bdcfd",
+  "object": "beer",
+  "name": "Weekend Dark Wheat",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

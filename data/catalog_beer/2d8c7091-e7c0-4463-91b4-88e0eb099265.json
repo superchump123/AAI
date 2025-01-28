@@ -1,0 +1,11 @@
+{
+  "id": "2d8c7091-e7c0-4463-91b4-88e0eb099265",
+  "object": "beer",
+  "name": "Boris The Spider",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

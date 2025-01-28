@@ -1,0 +1,11 @@
+{
+  "id": "07f9f397-bb85-4ad7-ab05-d2a1b05ce51a",
+  "object": "beer",
+  "name": "Shiver Chai Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

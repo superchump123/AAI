@@ -1,0 +1,11 @@
+{
+  "id": "e799dae5-12a0-4b28-8152-b8b93111d93f",
+  "object": "beer",
+  "name": "Schloppy Monster",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

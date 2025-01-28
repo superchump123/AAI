@@ -1,0 +1,11 @@
+{
+  "id": "2da3b62c-72bf-49fc-abb4-9c4e549a7d53",
+  "object": "beer",
+  "name": "Baptized by Fire",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

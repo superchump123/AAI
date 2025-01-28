@@ -1,0 +1,11 @@
+{
+  "id": "02e55728-2cde-4351-9198-a6697fadd6d7",
+  "object": "beer",
+  "name": "Day Break",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7c050517-6bc0-4eff-8b46-4b9a02bbdb84",
+  "object": "beer",
+  "name": "Clock Out",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

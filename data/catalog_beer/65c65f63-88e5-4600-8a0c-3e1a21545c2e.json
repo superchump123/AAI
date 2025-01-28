@@ -1,0 +1,11 @@
+{
+  "id": "65c65f63-88e5-4600-8a0c-3e1a21545c2e",
+  "object": "beer",
+  "name": "Chouffe Soleil",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

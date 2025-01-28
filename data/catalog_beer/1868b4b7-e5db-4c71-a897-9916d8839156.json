@@ -1,0 +1,11 @@
+{
+  "id": "1868b4b7-e5db-4c71-a897-9916d8839156",
+  "object": "beer",
+  "name": "Emmalynn",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

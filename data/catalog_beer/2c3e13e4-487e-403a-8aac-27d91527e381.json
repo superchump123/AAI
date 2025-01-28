@@ -1,0 +1,11 @@
+{
+  "id": "2c3e13e4-487e-403a-8aac-27d91527e381",
+  "object": "beer",
+  "name": "Jeanneke",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

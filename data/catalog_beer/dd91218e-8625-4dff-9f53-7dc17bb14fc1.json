@@ -1,0 +1,11 @@
+{
+  "id": "dd91218e-8625-4dff-9f53-7dc17bb14fc1",
+  "object": "beer",
+  "name": "Big Horn Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

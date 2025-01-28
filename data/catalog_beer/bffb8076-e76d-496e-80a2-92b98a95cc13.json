@@ -1,0 +1,11 @@
+{
+  "id": "bffb8076-e76d-496e-80a2-92b98a95cc13",
+  "object": "beer",
+  "name": "Quackalope",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

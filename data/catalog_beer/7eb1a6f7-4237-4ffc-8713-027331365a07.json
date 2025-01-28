@@ -1,0 +1,11 @@
+{
+  "id": "7eb1a6f7-4237-4ffc-8713-027331365a07",
+  "object": "beer",
+  "name": "Southside",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

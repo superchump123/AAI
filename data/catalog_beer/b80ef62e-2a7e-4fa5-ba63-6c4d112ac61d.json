@@ -1,0 +1,11 @@
+{
+  "id": "b80ef62e-2a7e-4fa5-ba63-6c4d112ac61d",
+  "object": "beer",
+  "name": "Itty Bitty Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "03e0d10a-3bad-4abd-94aa-28829fd77177",
+  "object": "beer",
+  "name": "Tripel B \"Bad Boy Brew\"",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

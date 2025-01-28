@@ -1,0 +1,11 @@
+{
+  "id": "2f41aa4a-d86c-4584-976f-77ca6420b3e5",
+  "object": "beer",
+  "name": "Cascade Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

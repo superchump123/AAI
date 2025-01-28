@@ -1,0 +1,11 @@
+{
+  "id": "2b3b7c8f-eae4-41e3-bed0-3e8a2c85b19e",
+  "object": "beer",
+  "name": "Buffalo Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

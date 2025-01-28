@@ -1,0 +1,11 @@
+{
+  "id": "ccea0ad6-887d-46e7-9523-04f7671eff2d",
+  "object": "beer",
+  "name": "James River Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1bdfd07c-4ea6-4438-8812-bb875a15586a",
+  "object": "beer",
+  "name": "Hubbard & Cravens Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

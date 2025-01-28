@@ -1,0 +1,11 @@
+{
+  "id": "01c356d2-317c-48ec-9c87-779e9a636cf6",
+  "object": "beer",
+  "name": "Autumn",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

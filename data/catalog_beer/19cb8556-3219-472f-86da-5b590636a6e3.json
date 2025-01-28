@@ -1,0 +1,11 @@
+{
+  "id": "19cb8556-3219-472f-86da-5b590636a6e3",
+  "object": "beer",
+  "name": "Creekside Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

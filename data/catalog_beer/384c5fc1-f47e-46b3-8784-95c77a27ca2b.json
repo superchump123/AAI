@@ -1,0 +1,11 @@
+{
+  "id": "384c5fc1-f47e-46b3-8784-95c77a27ca2b",
+  "object": "beer",
+  "name": "Red or Green",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

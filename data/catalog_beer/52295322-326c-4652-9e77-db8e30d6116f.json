@@ -1,0 +1,11 @@
+{
+  "id": "52295322-326c-4652-9e77-db8e30d6116f",
+  "object": "beer",
+  "name": "Soothsayer",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "07a29446-9906-42b1-8011-257066f92ce9",
+  "object": "beer",
+  "name": "Virmalised",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

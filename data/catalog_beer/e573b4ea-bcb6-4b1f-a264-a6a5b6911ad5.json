@@ -1,0 +1,11 @@
+{
+  "id": "e573b4ea-bcb6-4b1f-a264-a6a5b6911ad5",
+  "object": "beer",
+  "name": "Belgian Dry Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

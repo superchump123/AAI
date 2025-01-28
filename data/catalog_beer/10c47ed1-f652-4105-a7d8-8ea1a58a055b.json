@@ -1,0 +1,11 @@
+{
+  "id": "10c47ed1-f652-4105-a7d8-8ea1a58a055b",
+  "object": "beer",
+  "name": "Drayman's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74bc3c78-0425-4809-92f9-2992874ed004",
+  "object": "beer",
+  "name": "Peacock IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

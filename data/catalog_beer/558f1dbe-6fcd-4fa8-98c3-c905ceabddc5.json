@@ -1,0 +1,11 @@
+{
+  "id": "558f1dbe-6fcd-4fa8-98c3-c905ceabddc5",
+  "object": "beer",
+  "name": "Local's Stash: Black Barleywine Style Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

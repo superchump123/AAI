@@ -1,0 +1,11 @@
+{
+  "id": "38a5b6b7-4c87-4d9d-ace5-26c8f5688523",
+  "object": "beer",
+  "name": "Carnutes Brune",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

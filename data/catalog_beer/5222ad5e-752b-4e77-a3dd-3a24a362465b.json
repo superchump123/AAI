@@ -1,0 +1,11 @@
+{
+  "id": "5222ad5e-752b-4e77-a3dd-3a24a362465b",
+  "object": "beer",
+  "name": "Watou Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

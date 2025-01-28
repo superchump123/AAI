@@ -1,0 +1,11 @@
+{
+  "id": "a21c634b-4792-4ce9-8e23-b0a9d0d2b7e7",
+  "object": "beer",
+  "name": "Graf Ignaz Premium Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

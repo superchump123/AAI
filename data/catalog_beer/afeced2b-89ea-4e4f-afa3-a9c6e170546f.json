@@ -1,0 +1,11 @@
+{
+  "id": "afeced2b-89ea-4e4f-afa3-a9c6e170546f",
+  "object": "beer",
+  "name": "Spruce Tip Ale",
+  "style": "Field Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

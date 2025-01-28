@@ -1,0 +1,11 @@
+{
+  "id": "ad304a9f-1446-4661-a6db-ce300d4057b6",
+  "object": "beer",
+  "name": "SoHo E.S.B.",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

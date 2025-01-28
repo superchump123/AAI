@@ -1,0 +1,11 @@
+{
+  "id": "c6fd93c9-9278-4413-b85a-6705df8d3314",
+  "object": "beer",
+  "name": "Skumring",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

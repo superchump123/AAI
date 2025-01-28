@@ -1,0 +1,11 @@
+{
+  "id": "1d5b1d75-c9e0-44b2-ad7d-68c0f3baecfd",
+  "object": "beer",
+  "name": "Saens Blond",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d11bc754-e78c-41ae-b576-8fcbbe72b6fa",
+  "object": "beer",
+  "name": "Alpine Trail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

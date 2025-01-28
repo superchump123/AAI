@@ -1,0 +1,11 @@
+{
+  "id": "98b3c9a5-f961-45ba-b751-f1eede6d89c8",
+  "object": "beer",
+  "name": "Burton Ale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

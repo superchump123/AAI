@@ -1,0 +1,11 @@
+{
+  "id": "b6c1f5ac-6442-45fd-bc29-46afb745c643",
+  "object": "beer",
+  "name": "Southside Weiss",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

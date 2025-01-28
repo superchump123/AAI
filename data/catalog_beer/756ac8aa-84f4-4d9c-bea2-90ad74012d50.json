@@ -1,0 +1,11 @@
+{
+  "id": "756ac8aa-84f4-4d9c-bea2-90ad74012d50",
+  "object": "beer",
+  "name": "Bagpiper's Scottish Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

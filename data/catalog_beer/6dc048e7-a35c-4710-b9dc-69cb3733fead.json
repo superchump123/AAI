@@ -1,0 +1,11 @@
+{
+  "id": "6dc048e7-a35c-4710-b9dc-69cb3733fead",
+  "object": "beer",
+  "name": "Goofy Footed",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

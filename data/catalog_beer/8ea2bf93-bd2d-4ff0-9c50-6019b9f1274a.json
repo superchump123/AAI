@@ -1,0 +1,11 @@
+{
+  "id": "8ea2bf93-bd2d-4ff0-9c50-6019b9f1274a",
+  "object": "beer",
+  "name": "Sticky Icky",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

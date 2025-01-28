@@ -1,0 +1,11 @@
+{
+  "id": "4b03d2af-16b1-417a-ac8a-cee0e7a042bf",
+  "object": "beer",
+  "name": "Nut Hugger Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "38a5a886-b0fd-4f8d-99d3-c28c5bbb6eb4",
+  "object": "beer",
+  "name": "Passifire",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

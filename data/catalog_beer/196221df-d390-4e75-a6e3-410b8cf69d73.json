@@ -1,0 +1,11 @@
+{
+  "id": "196221df-d390-4e75-a6e3-410b8cf69d73",
+  "object": "beer",
+  "name": "Mariposa",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

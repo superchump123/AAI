@@ -1,0 +1,11 @@
+{
+  "id": "0278617d-7cc0-4a3e-ac14-0564d3f11e2b",
+  "object": "beer",
+  "name": "Golden Hour",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

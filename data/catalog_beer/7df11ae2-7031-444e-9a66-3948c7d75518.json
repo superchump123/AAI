@@ -1,0 +1,11 @@
+{
+  "id": "7df11ae2-7031-444e-9a66-3948c7d75518",
+  "object": "beer",
+  "name": "Roadside American Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

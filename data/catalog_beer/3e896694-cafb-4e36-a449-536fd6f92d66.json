@@ -1,0 +1,11 @@
+{
+  "id": "3e896694-cafb-4e36-a449-536fd6f92d66",
+  "object": "beer",
+  "name": "Bright",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

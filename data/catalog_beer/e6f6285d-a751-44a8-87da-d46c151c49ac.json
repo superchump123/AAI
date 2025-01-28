@@ -1,0 +1,11 @@
+{
+  "id": "e6f6285d-a751-44a8-87da-d46c151c49ac",
+  "object": "beer",
+  "name": "Cerveza Crema (Nitro)",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

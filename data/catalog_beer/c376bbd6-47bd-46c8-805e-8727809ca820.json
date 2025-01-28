@@ -1,0 +1,11 @@
+{
+  "id": "c376bbd6-47bd-46c8-805e-8727809ca820",
+  "object": "beer",
+  "name": "Braggarts",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

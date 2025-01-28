@@ -1,0 +1,11 @@
+{
+  "id": "100b3c4a-2d18-4872-ae92-479575f93fad",
+  "object": "beer",
+  "name": "Newcastle Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

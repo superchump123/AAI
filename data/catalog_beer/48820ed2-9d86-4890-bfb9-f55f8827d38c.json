@@ -1,0 +1,11 @@
+{
+  "id": "48820ed2-9d86-4890-bfb9-f55f8827d38c",
+  "object": "beer",
+  "name": "Mikkeller Recipe 1000",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

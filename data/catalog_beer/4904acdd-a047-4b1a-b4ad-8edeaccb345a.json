@@ -1,0 +1,11 @@
+{
+  "id": "4904acdd-a047-4b1a-b4ad-8edeaccb345a",
+  "object": "beer",
+  "name": "Bloomin' Berries",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

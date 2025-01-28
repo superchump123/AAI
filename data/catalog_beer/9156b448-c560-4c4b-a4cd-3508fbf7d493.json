@@ -1,0 +1,11 @@
+{
+  "id": "9156b448-c560-4c4b-a4cd-3508fbf7d493",
+  "object": "beer",
+  "name": "EagleMonk IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

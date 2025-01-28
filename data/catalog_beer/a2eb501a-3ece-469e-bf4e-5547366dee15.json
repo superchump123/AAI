@@ -1,0 +1,11 @@
+{
+  "id": "a2eb501a-3ece-469e-bf4e-5547366dee15",
+  "object": "beer",
+  "name": "Sotto Voce",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

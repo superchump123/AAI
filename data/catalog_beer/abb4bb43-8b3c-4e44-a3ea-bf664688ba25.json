@@ -1,0 +1,11 @@
+{
+  "id": "abb4bb43-8b3c-4e44-a3ea-bf664688ba25",
+  "object": "beer",
+  "name": "Level Line",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

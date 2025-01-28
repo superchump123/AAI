@@ -1,0 +1,11 @@
+{
+  "id": "d4c1877c-7d87-4a5c-8394-b23f995ebca4",
+  "object": "beer",
+  "name": "London lager",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

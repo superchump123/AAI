@@ -1,0 +1,11 @@
+{
+  "id": "a0b5e659-ee57-4132-b2c0-9d0cd47f1fb5",
+  "object": "beer",
+  "name": "Bisikel IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

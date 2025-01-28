@@ -1,0 +1,11 @@
+{
+  "id": "c7037cf9-c403-4804-b53d-d84117512109",
+  "object": "beer",
+  "name": "Fiddlesticks",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

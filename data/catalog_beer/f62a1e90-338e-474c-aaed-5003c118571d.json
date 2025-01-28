@@ -1,0 +1,11 @@
+{
+  "id": "f62a1e90-338e-474c-aaed-5003c118571d",
+  "object": "beer",
+  "name": "Daywalker",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

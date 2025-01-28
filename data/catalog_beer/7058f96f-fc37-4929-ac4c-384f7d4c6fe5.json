@@ -1,0 +1,11 @@
+{
+  "id": "7058f96f-fc37-4929-ac4c-384f7d4c6fe5",
+  "object": "beer",
+  "name": "Home Grown",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

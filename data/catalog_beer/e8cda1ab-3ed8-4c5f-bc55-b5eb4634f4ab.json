@@ -1,0 +1,11 @@
+{
+  "id": "e8cda1ab-3ed8-4c5f-bc55-b5eb4634f4ab",
+  "object": "beer",
+  "name": "Good Good",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

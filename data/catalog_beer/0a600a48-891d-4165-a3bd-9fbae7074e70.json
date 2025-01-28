@@ -1,0 +1,11 @@
+{
+  "id": "0a600a48-891d-4165-a3bd-9fbae7074e70",
+  "object": "beer",
+  "name": "Fibonacci",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

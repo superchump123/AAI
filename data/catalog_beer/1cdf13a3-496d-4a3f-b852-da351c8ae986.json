@@ -1,0 +1,11 @@
+{
+  "id": "1cdf13a3-496d-4a3f-b852-da351c8ae986",
+  "object": "beer",
+  "name": "Good Company",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

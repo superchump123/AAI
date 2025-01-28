@@ -1,0 +1,11 @@
+{
+  "id": "38ca9865-5423-42f3-969c-2b9002eda54a",
+  "object": "beer",
+  "name": "Hairpin",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

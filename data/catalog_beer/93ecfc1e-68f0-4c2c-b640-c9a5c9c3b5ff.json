@@ -1,0 +1,11 @@
+{
+  "id": "93ecfc1e-68f0-4c2c-b640-c9a5c9c3b5ff",
+  "object": "beer",
+  "name": "OMG",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 20,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

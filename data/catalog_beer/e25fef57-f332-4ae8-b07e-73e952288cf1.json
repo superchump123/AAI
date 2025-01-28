@@ -1,0 +1,11 @@
+{
+  "id": "e25fef57-f332-4ae8-b07e-73e952288cf1",
+  "object": "beer",
+  "name": "Saw-Whet Saison",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

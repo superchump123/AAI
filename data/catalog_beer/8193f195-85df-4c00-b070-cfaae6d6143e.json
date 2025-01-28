@@ -1,0 +1,11 @@
+{
+  "id": "8193f195-85df-4c00-b070-cfaae6d6143e",
+  "object": "beer",
+  "name": "Breakline Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

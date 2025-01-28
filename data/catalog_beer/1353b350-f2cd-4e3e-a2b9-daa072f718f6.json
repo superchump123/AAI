@@ -1,0 +1,11 @@
+{
+  "id": "1353b350-f2cd-4e3e-a2b9-daa072f718f6",
+  "object": "beer",
+  "name": "West End Draught",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

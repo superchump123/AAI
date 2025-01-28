@@ -1,0 +1,11 @@
+{
+  "id": "ea77883f-0783-4e6a-a454-48f7ba5aa42a",
+  "object": "beer",
+  "name": "El Toro India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

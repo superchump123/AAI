@@ -1,0 +1,11 @@
+{
+  "id": "a88dc8d5-f120-4933-97c3-90fe048d8207",
+  "object": "beer",
+  "name": "Mr. Pink",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

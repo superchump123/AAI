@@ -1,0 +1,11 @@
+{
+  "id": "5798e9e2-3b23-4913-acb6-f5a748ccb1e5",
+  "object": "beer",
+  "name": "Hoban House IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

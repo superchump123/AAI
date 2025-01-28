@@ -1,0 +1,11 @@
+{
+  "id": "55b8d59e-d721-4f63-a648-dbdf374c346a",
+  "object": "beer",
+  "name": "Golden Glowe",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

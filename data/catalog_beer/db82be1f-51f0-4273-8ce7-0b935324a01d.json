@@ -1,0 +1,11 @@
+{
+  "id": "db82be1f-51f0-4273-8ce7-0b935324a01d",
+  "object": "beer",
+  "name": "XV",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

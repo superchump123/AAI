@@ -1,0 +1,11 @@
+{
+  "id": "2eccecd4-c520-4642-bd9e-916f44a66e0e",
+  "object": "beer",
+  "name": "Galloping Gertie Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

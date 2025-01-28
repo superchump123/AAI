@@ -1,0 +1,11 @@
+{
+  "id": "51cf06ee-e394-4694-a92c-24b11be1101b",
+  "object": "beer",
+  "name": "Nightfall Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

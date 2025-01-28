@@ -1,0 +1,11 @@
+{
+  "id": "e318f218-8902-40b6-83ee-64821e7a17b4",
+  "object": "beer",
+  "name": "Haywire Double American Black Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

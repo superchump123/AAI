@@ -1,0 +1,11 @@
+{
+  "id": "e2d4201b-9ebd-4ae2-8a24-3103735e8fd7",
+  "object": "beer",
+  "name": "Hell of a Rye'd",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

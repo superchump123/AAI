@@ -1,0 +1,11 @@
+{
+  "id": "62b25ac5-1408-4484-a8c6-a45b65e09fea",
+  "object": "beer",
+  "name": "The Abominator \u2013 Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

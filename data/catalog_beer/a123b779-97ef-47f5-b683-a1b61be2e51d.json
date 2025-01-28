@@ -1,0 +1,11 @@
+{
+  "id": "a123b779-97ef-47f5-b683-a1b61be2e51d",
+  "object": "beer",
+  "name": "Evil Princess Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

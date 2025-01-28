@@ -1,0 +1,11 @@
+{
+  "id": "91fd5c01-96d2-4d43-89d4-48f31acd4dc0",
+  "object": "beer",
+  "name": "Joy Rye'd",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

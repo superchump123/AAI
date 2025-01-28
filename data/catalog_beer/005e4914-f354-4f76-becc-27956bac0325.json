@@ -1,0 +1,11 @@
+{
+  "id": "005e4914-f354-4f76-becc-27956bac0325",
+  "object": "beer",
+  "name": "Smelters Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

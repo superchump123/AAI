@@ -1,0 +1,11 @@
+{
+  "id": "963898b3-e28e-4bfe-95c4-fc88c54f9cb8",
+  "object": "beer",
+  "name": "Lehman's First",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

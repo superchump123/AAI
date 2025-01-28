@@ -1,0 +1,11 @@
+{
+  "id": "7e4ba86c-8d6a-4126-8a09-e260360f3fd2",
+  "object": "beer",
+  "name": "Cranberry Blend",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

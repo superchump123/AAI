@@ -1,0 +1,11 @@
+{
+  "id": "ba6b4784-b444-4a15-b1f0-8968685e3700",
+  "object": "beer",
+  "name": "Banjo Cat",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

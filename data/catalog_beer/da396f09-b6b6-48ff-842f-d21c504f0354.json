@@ -1,0 +1,11 @@
+{
+  "id": "da396f09-b6b6-48ff-842f-d21c504f0354",
+  "object": "beer",
+  "name": "Kronen",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

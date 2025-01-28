@@ -1,0 +1,11 @@
+{
+  "id": "99431f8a-192c-4c70-ba6d-48b7789f0861",
+  "object": "beer",
+  "name": "Lava",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

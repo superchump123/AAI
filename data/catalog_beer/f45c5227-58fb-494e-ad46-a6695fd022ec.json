@@ -1,0 +1,11 @@
+{
+  "id": "f45c5227-58fb-494e-ad46-a6695fd022ec",
+  "object": "beer",
+  "name": "Huitzi",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

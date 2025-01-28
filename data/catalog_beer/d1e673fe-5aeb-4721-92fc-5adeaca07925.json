@@ -1,0 +1,11 @@
+{
+  "id": "d1e673fe-5aeb-4721-92fc-5adeaca07925",
+  "object": "beer",
+  "name": "August IPA of the Month - \"Coral\"",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

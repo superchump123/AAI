@@ -1,0 +1,11 @@
+{
+  "id": "85b8e44d-22f4-4ea7-b0f3-f88754300cc4",
+  "object": "beer",
+  "name": "Mad Dog Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

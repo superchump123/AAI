@@ -1,0 +1,11 @@
+{
+  "id": "072b3576-06df-4cfb-8f20-21eb42a71167",
+  "object": "beer",
+  "name": "Estes Park Gold",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

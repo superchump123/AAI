@@ -1,0 +1,11 @@
+{
+  "id": "fa01fa56-b285-458c-aaff-739b31627454",
+  "object": "beer",
+  "name": "Nightmare",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

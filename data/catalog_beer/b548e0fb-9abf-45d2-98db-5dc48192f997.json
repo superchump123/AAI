@@ -1,0 +1,11 @@
+{
+  "id": "b548e0fb-9abf-45d2-98db-5dc48192f997",
+  "object": "beer",
+  "name": "Hot Box Honey Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

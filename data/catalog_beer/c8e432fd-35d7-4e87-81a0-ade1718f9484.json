@@ -1,0 +1,11 @@
+{
+  "id": "c8e432fd-35d7-4e87-81a0-ade1718f9484",
+  "object": "beer",
+  "name": "Blue Law Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cc7c7709-409f-4f2d-a6d0-29c4b4a719ac",
+  "object": "beer",
+  "name": "Magic Runes",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

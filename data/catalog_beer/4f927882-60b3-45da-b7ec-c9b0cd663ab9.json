@@ -1,0 +1,11 @@
+{
+  "id": "4f927882-60b3-45da-b7ec-c9b0cd663ab9",
+  "object": "beer",
+  "name": "Hungry Hefer",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

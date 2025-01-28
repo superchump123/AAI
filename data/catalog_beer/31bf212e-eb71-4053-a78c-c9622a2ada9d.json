@@ -1,0 +1,11 @@
+{
+  "id": "31bf212e-eb71-4053-a78c-c9622a2ada9d",
+  "object": "beer",
+  "name": "Licher Pilsner Alkoholfrei",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

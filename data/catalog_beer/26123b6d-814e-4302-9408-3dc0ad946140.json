@@ -1,0 +1,11 @@
+{
+  "id": "26123b6d-814e-4302-9408-3dc0ad946140",
+  "object": "beer",
+  "name": "Roza Reserve",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

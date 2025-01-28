@@ -1,0 +1,11 @@
+{
+  "id": "784fa835-409c-4577-81a0-1bb2b239252f",
+  "object": "beer",
+  "name": "Bone Dusters",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

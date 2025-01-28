@@ -1,0 +1,11 @@
+{
+  "id": "a892e063-532c-43d0-a253-97005adb1539",
+  "object": "beer",
+  "name": "The Prickly Peach",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

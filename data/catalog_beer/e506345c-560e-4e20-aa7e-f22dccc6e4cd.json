@@ -1,0 +1,11 @@
+{
+  "id": "e506345c-560e-4e20-aa7e-f22dccc6e4cd",
+  "object": "beer",
+  "name": "Grodziskie",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

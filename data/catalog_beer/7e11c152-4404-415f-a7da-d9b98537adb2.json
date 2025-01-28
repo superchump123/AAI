@@ -1,0 +1,11 @@
+{
+  "id": "7e11c152-4404-415f-a7da-d9b98537adb2",
+  "object": "beer",
+  "name": "Brass Monkey Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9408f772-31a0-4c92-91cf-b3841908f936",
+  "object": "beer",
+  "name": "Fool Me Twice",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

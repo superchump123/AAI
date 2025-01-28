@@ -1,0 +1,11 @@
+{
+  "id": "2590d8cd-9f29-4051-a396-6df8c44297c1",
+  "object": "beer",
+  "name": "Black Monster",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

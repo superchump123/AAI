@@ -1,0 +1,11 @@
+{
+  "id": "67a02d3f-f68d-478b-b902-6782c5274128",
+  "object": "beer",
+  "name": "Big Pond",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

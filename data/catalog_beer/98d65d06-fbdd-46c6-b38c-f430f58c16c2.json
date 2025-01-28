@@ -1,0 +1,11 @@
+{
+  "id": "98d65d06-fbdd-46c6-b38c-f430f58c16c2",
+  "object": "beer",
+  "name": "Hertog Jan Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

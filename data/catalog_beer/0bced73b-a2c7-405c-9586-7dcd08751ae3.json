@@ -1,0 +1,11 @@
+{
+  "id": "0bced73b-a2c7-405c-9586-7dcd08751ae3",
+  "object": "beer",
+  "name": "Whippersnapper",
+  "style": "Cyser (Apple Melomel)",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

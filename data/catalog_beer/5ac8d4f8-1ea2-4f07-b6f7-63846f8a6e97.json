@@ -1,0 +1,11 @@
+{
+  "id": "5ac8d4f8-1ea2-4f07-b6f7-63846f8a6e97",
+  "object": "beer",
+  "name": "Wildebok",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

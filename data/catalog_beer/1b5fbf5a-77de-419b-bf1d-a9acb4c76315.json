@@ -1,0 +1,11 @@
+{
+  "id": "1b5fbf5a-77de-419b-bf1d-a9acb4c76315",
+  "object": "beer",
+  "name": "Maple Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

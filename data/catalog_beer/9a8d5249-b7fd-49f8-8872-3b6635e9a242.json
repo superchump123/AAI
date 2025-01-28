@@ -1,0 +1,11 @@
+{
+  "id": "9a8d5249-b7fd-49f8-8872-3b6635e9a242",
+  "object": "beer",
+  "name": "To Dan!",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

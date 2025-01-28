@@ -1,0 +1,11 @@
+{
+  "id": "9eb5a1af-1030-41fd-8021-29fb1f867b60",
+  "object": "beer",
+  "name": "Crumble",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

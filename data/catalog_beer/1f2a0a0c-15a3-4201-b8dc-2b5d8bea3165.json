@@ -1,0 +1,11 @@
+{
+  "id": "1f2a0a0c-15a3-4201-b8dc-2b5d8bea3165",
+  "object": "beer",
+  "name": "Washington's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

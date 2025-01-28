@@ -1,0 +1,11 @@
+{
+  "id": "51bdb596-00a8-4e69-8c44-32db5142b1c3",
+  "object": "beer",
+  "name": "Hop Solution",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

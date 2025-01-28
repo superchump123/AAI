@@ -1,0 +1,11 @@
+{
+  "id": "ca9c5924-5a67-40cd-8c8d-f6ca62d40083",
+  "object": "beer",
+  "name": "Daybreak",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

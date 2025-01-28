@@ -1,0 +1,11 @@
+{
+  "id": "c93e30ff-3a2e-490e-9e22-31a93e4865d1",
+  "object": "beer",
+  "name": "Allergeez",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

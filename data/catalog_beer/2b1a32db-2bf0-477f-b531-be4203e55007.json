@@ -1,0 +1,11 @@
+{
+  "id": "2b1a32db-2bf0-477f-b531-be4203e55007",
+  "object": "beer",
+  "name": "Bigfoot",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

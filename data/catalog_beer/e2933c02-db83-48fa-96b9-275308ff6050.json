@@ -1,0 +1,11 @@
+{
+  "id": "e2933c02-db83-48fa-96b9-275308ff6050",
+  "object": "beer",
+  "name": "Summer Vice",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

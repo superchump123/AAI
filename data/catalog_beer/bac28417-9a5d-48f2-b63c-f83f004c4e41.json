@@ -1,0 +1,11 @@
+{
+  "id": "bac28417-9a5d-48f2-b63c-f83f004c4e41",
+  "object": "beer",
+  "name": "Fresh Bongwater Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

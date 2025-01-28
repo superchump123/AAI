@@ -1,0 +1,11 @@
+{
+  "id": "8312c524-6ae0-4537-9e77-fa6013dd51b0",
+  "object": "beer",
+  "name": "Saint Saltan",
+  "style": "Historical Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

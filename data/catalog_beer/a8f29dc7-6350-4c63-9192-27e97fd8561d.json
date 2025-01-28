@@ -1,0 +1,11 @@
+{
+  "id": "a8f29dc7-6350-4c63-9192-27e97fd8561d",
+  "object": "beer",
+  "name": "Reverend Freds Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

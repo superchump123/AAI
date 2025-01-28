@@ -1,0 +1,11 @@
+{
+  "id": "1fc250a6-4bdb-4fd6-8a47-4b49d75c384a",
+  "object": "beer",
+  "name": "Double Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

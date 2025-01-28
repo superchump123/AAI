@@ -1,0 +1,11 @@
+{
+  "id": "9696e168-9404-408b-8403-1123421ad671",
+  "object": "beer",
+  "name": "To-Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

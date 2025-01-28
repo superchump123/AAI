@@ -1,0 +1,11 @@
+{
+  "id": "a691dbbf-2c93-470a-9b2d-8c6d980abfdb",
+  "object": "beer",
+  "name": "Puffy Stack",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a7f1589-1266-49ef-82a8-2ee20bb0c0f9",
+  "object": "beer",
+  "name": "Shake Chocolate Porter",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

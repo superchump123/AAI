@@ -1,0 +1,11 @@
+{
+  "id": "c9cb846f-6b45-47fa-b7b0-82425828e98f",
+  "object": "beer",
+  "name": "UNREP",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6a2f039c-70df-4508-b289-f5ea803a7cb3",
+  "object": "beer",
+  "name": "Beast Mode",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

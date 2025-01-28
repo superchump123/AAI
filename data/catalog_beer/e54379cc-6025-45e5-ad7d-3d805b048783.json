@@ -1,0 +1,11 @@
+{
+  "id": "e54379cc-6025-45e5-ad7d-3d805b048783",
+  "object": "beer",
+  "name": "Soul Shine",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

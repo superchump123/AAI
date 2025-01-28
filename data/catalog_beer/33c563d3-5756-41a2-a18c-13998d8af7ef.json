@@ -1,0 +1,11 @@
+{
+  "id": "33c563d3-5756-41a2-a18c-13998d8af7ef",
+  "object": "beer",
+  "name": "Dark Mild",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

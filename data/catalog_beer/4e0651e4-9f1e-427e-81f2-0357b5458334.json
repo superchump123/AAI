@@ -1,0 +1,11 @@
+{
+  "id": "4e0651e4-9f1e-427e-81f2-0357b5458334",
+  "object": "beer",
+  "name": "Be-Bop-A-Ree-Bop",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

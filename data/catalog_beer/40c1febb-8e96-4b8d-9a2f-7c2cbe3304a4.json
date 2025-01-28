@@ -1,0 +1,11 @@
+{
+  "id": "40c1febb-8e96-4b8d-9a2f-7c2cbe3304a4",
+  "object": "beer",
+  "name": "Ollie's Army",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

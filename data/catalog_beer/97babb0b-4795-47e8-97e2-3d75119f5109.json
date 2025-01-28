@@ -1,0 +1,11 @@
+{
+  "id": "97babb0b-4795-47e8-97e2-3d75119f5109",
+  "object": "beer",
+  "name": "Burdock Sahti",
+  "style": "Field Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

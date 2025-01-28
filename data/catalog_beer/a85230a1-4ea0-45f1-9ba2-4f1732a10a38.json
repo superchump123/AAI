@@ -1,0 +1,11 @@
+{
+  "id": "a85230a1-4ea0-45f1-9ba2-4f1732a10a38",
+  "object": "beer",
+  "name": "Amarillo Brillo",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 101,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f5a0cdc-2664-46cb-943b-fe157d372298",
+  "object": "beer",
+  "name": "Boffo Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

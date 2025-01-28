@@ -1,0 +1,11 @@
+{
+  "id": "2ad028ab-48ad-4191-a370-2df25f25fe76",
+  "object": "beer",
+  "name": "Here's Your Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

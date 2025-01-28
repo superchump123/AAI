@@ -1,0 +1,11 @@
+{
+  "id": "60f52328-d4a8-45b4-bf26-7fe131ecfd0c",
+  "object": "beer",
+  "name": "Clementine Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

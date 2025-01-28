@@ -1,0 +1,11 @@
+{
+  "id": "8213376e-47eb-40dd-98d4-1e1241f90227",
+  "object": "beer",
+  "name": "M-43 N.E. IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

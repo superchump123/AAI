@@ -1,0 +1,11 @@
+{
+  "id": "798dc34a-8943-49e3-a3cf-8bed4bcdb814",
+  "object": "beer",
+  "name": "Bourbon Barrel Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

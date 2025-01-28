@@ -1,0 +1,11 @@
+{
+  "id": "e9f20814-ee61-4dd8-aff7-f57be40b4544",
+  "object": "beer",
+  "name": "Ruby",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

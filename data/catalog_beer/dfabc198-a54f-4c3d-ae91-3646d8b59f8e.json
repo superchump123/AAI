@@ -1,0 +1,11 @@
+{
+  "id": "dfabc198-a54f-4c3d-ae91-3646d8b59f8e",
+  "object": "beer",
+  "name": "Just a Minor Threat",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

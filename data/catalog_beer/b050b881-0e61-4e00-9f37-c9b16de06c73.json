@@ -1,0 +1,11 @@
+{
+  "id": "b050b881-0e61-4e00-9f37-c9b16de06c73",
+  "object": "beer",
+  "name": "King for a Day",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

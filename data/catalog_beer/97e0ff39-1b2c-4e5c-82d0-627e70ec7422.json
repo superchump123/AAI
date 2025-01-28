@@ -1,0 +1,11 @@
+{
+  "id": "97e0ff39-1b2c-4e5c-82d0-627e70ec7422",
+  "object": "beer",
+  "name": "5th Anniversary",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

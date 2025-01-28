@@ -1,0 +1,11 @@
+{
+  "id": "d7a852ee-02b8-4e2a-bcdf-43555ffc7341",
+  "object": "beer",
+  "name": "Residenz Premium Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

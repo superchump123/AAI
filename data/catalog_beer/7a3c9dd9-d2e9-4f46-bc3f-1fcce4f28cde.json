@@ -1,0 +1,11 @@
+{
+  "id": "7a3c9dd9-d2e9-4f46-bc3f-1fcce4f28cde",
+  "object": "beer",
+  "name": "Raspberry Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

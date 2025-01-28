@@ -1,0 +1,11 @@
+{
+  "id": "6ea5cbaa-4c2c-44ce-963e-37def17eb43d",
+  "object": "beer",
+  "name": "Alhambra Reserva 1925",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

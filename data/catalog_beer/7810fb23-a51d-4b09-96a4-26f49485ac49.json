@@ -1,0 +1,11 @@
+{
+  "id": "7810fb23-a51d-4b09-96a4-26f49485ac49",
+  "object": "beer",
+  "name": "Stoppage Time",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

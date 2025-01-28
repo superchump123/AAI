@@ -1,0 +1,11 @@
+{
+  "id": "1ddb61cf-5168-478e-b4f7-542b9fc5b435",
+  "object": "beer",
+  "name": "Saison Lamoille",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

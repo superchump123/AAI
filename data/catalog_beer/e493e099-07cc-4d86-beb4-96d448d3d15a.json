@@ -1,0 +1,11 @@
+{
+  "id": "e493e099-07cc-4d86-beb4-96d448d3d15a",
+  "object": "beer",
+  "name": "Pot O' Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

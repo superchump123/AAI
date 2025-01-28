@@ -1,0 +1,11 @@
+{
+  "id": "0469fec0-2220-454c-b054-0e8fdd95c614",
+  "object": "beer",
+  "name": "Frosty Goggles",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

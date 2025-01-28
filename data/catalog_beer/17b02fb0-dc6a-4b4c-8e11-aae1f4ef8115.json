@@ -1,0 +1,11 @@
+{
+  "id": "17b02fb0-dc6a-4b4c-8e11-aae1f4ef8115",
+  "object": "beer",
+  "name": "Dry - Hopped Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

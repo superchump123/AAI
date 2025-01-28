@@ -1,0 +1,11 @@
+{
+  "id": "e525523a-b2d2-4000-ba22-8539aaf80a9e",
+  "object": "beer",
+  "name": "Mango Dagger Falls IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "937eec1d-5030-4fcf-9e64-69b3210dd4b5",
+  "object": "beer",
+  "name": "Dark Star",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

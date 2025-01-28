@@ -1,0 +1,11 @@
+{
+  "id": "f35c9fed-3391-4e12-88fe-96943b45c25e",
+  "object": "beer",
+  "name": "Artemis Cranberry",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

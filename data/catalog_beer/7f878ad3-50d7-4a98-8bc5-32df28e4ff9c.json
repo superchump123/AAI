@@ -1,0 +1,11 @@
+{
+  "id": "7f878ad3-50d7-4a98-8bc5-32df28e4ff9c",
+  "object": "beer",
+  "name": "Grand Cru",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

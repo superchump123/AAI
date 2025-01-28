@@ -1,0 +1,11 @@
+{
+  "id": "096f9041-d543-4763-b706-e828c2e7fccb",
+  "object": "beer",
+  "name": "Blackberry Wheat (Sour Series)",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

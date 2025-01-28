@@ -1,0 +1,11 @@
+{
+  "id": "00c6c4f8-5845-4125-ab10-232c002e46d9",
+  "object": "beer",
+  "name": "Mach 10",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

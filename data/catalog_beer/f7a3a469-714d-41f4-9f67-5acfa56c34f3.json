@@ -1,0 +1,11 @@
+{
+  "id": "f7a3a469-714d-41f4-9f67-5acfa56c34f3",
+  "object": "beer",
+  "name": "Commonwealth",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

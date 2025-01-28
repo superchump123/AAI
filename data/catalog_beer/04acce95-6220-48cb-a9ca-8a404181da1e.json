@@ -1,0 +1,11 @@
+{
+  "id": "04acce95-6220-48cb-a9ca-8a404181da1e",
+  "object": "beer",
+  "name": "Raspberry Blush",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

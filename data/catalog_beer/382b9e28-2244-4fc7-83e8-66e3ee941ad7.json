@@ -1,0 +1,11 @@
+{
+  "id": "382b9e28-2244-4fc7-83e8-66e3ee941ad7",
+  "object": "beer",
+  "name": "Maize To Black",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1c2cdecc-3727-4b50-a055-bd2e74e23a96",
+  "object": "beer",
+  "name": "WOLFGANG PILS",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

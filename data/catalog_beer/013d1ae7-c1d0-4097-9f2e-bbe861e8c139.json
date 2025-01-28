@@ -1,0 +1,11 @@
+{
+  "id": "013d1ae7-c1d0-4097-9f2e-bbe861e8c139",
+  "object": "beer",
+  "name": "Heritage",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

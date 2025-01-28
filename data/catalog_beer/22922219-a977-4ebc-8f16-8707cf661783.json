@@ -1,0 +1,11 @@
+{
+  "id": "22922219-a977-4ebc-8f16-8707cf661783",
+  "object": "beer",
+  "name": "Red Brick Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

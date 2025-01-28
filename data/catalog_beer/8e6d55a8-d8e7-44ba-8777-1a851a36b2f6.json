@@ -1,0 +1,11 @@
+{
+  "id": "8e6d55a8-d8e7-44ba-8777-1a851a36b2f6",
+  "object": "beer",
+  "name": "Strawberry Wheat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

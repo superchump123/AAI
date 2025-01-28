@@ -1,0 +1,11 @@
+{
+  "id": "6547d64e-02c0-4d84-9371-d42c555b84ca",
+  "object": "beer",
+  "name": "Foam Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

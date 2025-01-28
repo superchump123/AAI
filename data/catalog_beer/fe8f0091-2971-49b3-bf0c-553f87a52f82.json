@@ -1,0 +1,11 @@
+{
+  "id": "fe8f0091-2971-49b3-bf0c-553f87a52f82",
+  "object": "beer",
+  "name": "Guy Fawkes",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

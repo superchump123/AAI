@@ -1,0 +1,11 @@
+{
+  "id": "5ed8b9b5-811b-4adf-9558-9edc0e05a69b",
+  "object": "beer",
+  "name": "Frosty Lime Wit",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

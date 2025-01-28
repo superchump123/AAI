@@ -1,0 +1,11 @@
+{
+  "id": "d515e741-5cb3-432f-9b27-6e1c4dbbbb11",
+  "object": "beer",
+  "name": "Arrowhead Red IPA",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

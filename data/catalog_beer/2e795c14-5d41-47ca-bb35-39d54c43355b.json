@@ -1,0 +1,11 @@
+{
+  "id": "2e795c14-5d41-47ca-bb35-39d54c43355b",
+  "object": "beer",
+  "name": "Ichabod Crane's Midnight Ride",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

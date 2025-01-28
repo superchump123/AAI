@@ -1,0 +1,11 @@
+{
+  "id": "2a549913-01eb-41c5-89af-8b3c7f2a27e6",
+  "object": "beer",
+  "name": "Landsberger Schwarzes",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

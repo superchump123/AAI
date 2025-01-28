@@ -1,0 +1,11 @@
+{
+  "id": "8bf25b63-8ed8-4c0f-bfb1-6076b45ddd58",
+  "object": "beer",
+  "name": "Polly 2",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

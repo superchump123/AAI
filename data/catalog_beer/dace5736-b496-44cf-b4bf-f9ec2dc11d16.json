@@ -1,0 +1,11 @@
+{
+  "id": "dace5736-b496-44cf-b4bf-f9ec2dc11d16",
+  "object": "beer",
+  "name": "Hopstar",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

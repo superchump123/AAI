@@ -1,0 +1,11 @@
+{
+  "id": "1d69e4ff-dbd6-4ce9-97b3-08f0cc814869",
+  "object": "beer",
+  "name": "South Pacific IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

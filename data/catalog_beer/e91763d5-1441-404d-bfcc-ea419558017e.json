@@ -1,0 +1,11 @@
+{
+  "id": "e91763d5-1441-404d-bfcc-ea419558017e",
+  "object": "beer",
+  "name": "PYNK",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

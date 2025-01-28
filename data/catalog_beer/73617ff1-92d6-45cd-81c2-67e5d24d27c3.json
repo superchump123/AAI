@@ -1,0 +1,11 @@
+{
+  "id": "73617ff1-92d6-45cd-81c2-67e5d24d27c3",
+  "object": "beer",
+  "name": "Chocolate Pistachio Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

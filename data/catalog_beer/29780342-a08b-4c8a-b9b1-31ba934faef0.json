@@ -1,0 +1,11 @@
+{
+  "id": "29780342-a08b-4c8a-b9b1-31ba934faef0",
+  "object": "beer",
+  "name": "Erik the Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

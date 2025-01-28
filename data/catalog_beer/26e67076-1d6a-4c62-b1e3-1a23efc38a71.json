@@ -1,0 +1,11 @@
+{
+  "id": "26e67076-1d6a-4c62-b1e3-1a23efc38a71",
+  "object": "beer",
+  "name": "Don't Tread on Maize",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

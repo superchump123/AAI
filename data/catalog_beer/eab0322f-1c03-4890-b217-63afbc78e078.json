@@ -1,0 +1,11 @@
+{
+  "id": "eab0322f-1c03-4890-b217-63afbc78e078",
+  "object": "beer",
+  "name": "Chicago Daily",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "efb48027-d2b0-42ee-a620-4bb7d0e82aae",
+  "object": "beer",
+  "name": "Just Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "87de548a-7818-419a-95a3-3aaa498787e9",
+  "object": "beer",
+  "name": "Bobber Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "45a1e758-08bc-493c-a604-18e6d87778ed",
+  "object": "beer",
+  "name": "Yardbird Dubbel Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

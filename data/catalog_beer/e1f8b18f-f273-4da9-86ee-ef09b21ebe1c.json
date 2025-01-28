@@ -1,0 +1,11 @@
+{
+  "id": "e1f8b18f-f273-4da9-86ee-ef09b21ebe1c",
+  "object": "beer",
+  "name": "Turnbuckle",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

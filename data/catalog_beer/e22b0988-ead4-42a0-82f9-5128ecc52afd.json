@@ -1,0 +1,11 @@
+{
+  "id": "e22b0988-ead4-42a0-82f9-5128ecc52afd",
+  "object": "beer",
+  "name": "Crescendo of Doom",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

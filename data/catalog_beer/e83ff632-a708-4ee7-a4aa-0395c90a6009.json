@@ -1,0 +1,11 @@
+{
+  "id": "e83ff632-a708-4ee7-a4aa-0395c90a6009",
+  "object": "beer",
+  "name": "Fogcutter",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

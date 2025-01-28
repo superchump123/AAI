@@ -1,0 +1,11 @@
+{
+  "id": "2bda95ed-3ff7-47db-ba0b-ee4a68f91194",
+  "object": "beer",
+  "name": "Golden Child",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

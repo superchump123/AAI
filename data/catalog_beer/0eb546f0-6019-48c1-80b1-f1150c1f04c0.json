@@ -1,0 +1,11 @@
+{
+  "id": "0eb546f0-6019-48c1-80b1-f1150c1f04c0",
+  "object": "beer",
+  "name": "Lambda",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

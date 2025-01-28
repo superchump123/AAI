@@ -1,0 +1,11 @@
+{
+  "id": "ef5f58b5-2cc7-4e14-8d41-1703865876f4",
+  "object": "beer",
+  "name": "Out Of Bounds Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

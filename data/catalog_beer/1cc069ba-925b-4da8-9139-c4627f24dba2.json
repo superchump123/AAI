@@ -1,0 +1,11 @@
+{
+  "id": "1cc069ba-925b-4da8-9139-c4627f24dba2",
+  "object": "beer",
+  "name": "Fernetic",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

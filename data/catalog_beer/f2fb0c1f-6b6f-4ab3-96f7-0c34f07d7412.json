@@ -1,0 +1,11 @@
+{
+  "id": "f2fb0c1f-6b6f-4ab3-96f7-0c34f07d7412",
+  "object": "beer",
+  "name": "Schmucker Kristallweizen",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

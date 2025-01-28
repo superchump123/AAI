@@ -1,0 +1,11 @@
+{
+  "id": "efedd653-54de-4454-8f00-9092851d2199",
+  "object": "beer",
+  "name": "Dunkel Lager",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

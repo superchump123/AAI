@@ -1,0 +1,11 @@
+{
+  "id": "212df5db-fff7-46af-9dc1-6ff038a21de1",
+  "object": "beer",
+  "name": "Johnny's American IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

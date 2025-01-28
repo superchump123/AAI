@@ -1,0 +1,11 @@
+{
+  "id": "7a01a2b0-192e-4011-9be9-80a24ceb7692",
+  "object": "beer",
+  "name": "Churchville Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

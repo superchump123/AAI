@@ -1,0 +1,11 @@
+{
+  "id": "d16b2bdf-2982-4a9a-978a-cdb294a71a47",
+  "object": "beer",
+  "name": "ODIS",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

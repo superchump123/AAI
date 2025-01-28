@@ -1,0 +1,11 @@
+{
+  "id": "79be2752-b166-4130-a832-1db5d2b52595",
+  "object": "beer",
+  "name": "Brothel",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

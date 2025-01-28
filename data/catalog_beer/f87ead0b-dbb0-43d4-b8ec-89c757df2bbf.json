@@ -1,0 +1,11 @@
+{
+  "id": "f87ead0b-dbb0-43d4-b8ec-89c757df2bbf",
+  "object": "beer",
+  "name": "Portsmouth Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

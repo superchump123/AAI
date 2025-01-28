@@ -1,0 +1,11 @@
+{
+  "id": "d4707c15-a13d-4da1-9ac7-9da74611d27d",
+  "object": "beer",
+  "name": "Robonaut",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

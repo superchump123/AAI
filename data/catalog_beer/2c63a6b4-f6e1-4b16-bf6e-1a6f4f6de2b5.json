@@ -1,0 +1,11 @@
+{
+  "id": "2c63a6b4-f6e1-4b16-bf6e-1a6f4f6de2b5",
+  "object": "beer",
+  "name": "Pallido Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

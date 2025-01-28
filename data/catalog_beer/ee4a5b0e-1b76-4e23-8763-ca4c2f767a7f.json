@@ -1,0 +1,11 @@
+{
+  "id": "ee4a5b0e-1b76-4e23-8763-ca4c2f767a7f",
+  "object": "beer",
+  "name": "Mask of Agamemnon",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

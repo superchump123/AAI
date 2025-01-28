@@ -1,0 +1,11 @@
+{
+  "id": "91191d1b-544d-4c8f-88c9-a865148b3234",
+  "object": "beer",
+  "name": "Canyon Road Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

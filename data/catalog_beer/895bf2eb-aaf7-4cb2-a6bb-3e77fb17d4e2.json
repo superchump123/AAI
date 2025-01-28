@@ -1,0 +1,11 @@
+{
+  "id": "895bf2eb-aaf7-4cb2-a6bb-3e77fb17d4e2",
+  "object": "beer",
+  "name": "Berliner Weisse Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

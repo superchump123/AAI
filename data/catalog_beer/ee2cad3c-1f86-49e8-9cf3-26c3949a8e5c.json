@@ -1,0 +1,11 @@
+{
+  "id": "ee2cad3c-1f86-49e8-9cf3-26c3949a8e5c",
+  "object": "beer",
+  "name": "Voodoo",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "064e0327-de87-42ec-be7b-29258a28a071",
+  "object": "beer",
+  "name": "Occoquan Oats",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

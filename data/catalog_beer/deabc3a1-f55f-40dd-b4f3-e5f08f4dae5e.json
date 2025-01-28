@@ -1,0 +1,11 @@
+{
+  "id": "deabc3a1-f55f-40dd-b4f3-e5f08f4dae5e",
+  "object": "beer",
+  "name": "Golden Boy",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

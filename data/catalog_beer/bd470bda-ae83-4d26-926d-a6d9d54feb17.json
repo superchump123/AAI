@@ -1,0 +1,11 @@
+{
+  "id": "bd470bda-ae83-4d26-926d-a6d9d54feb17",
+  "object": "beer",
+  "name": "Snowblower Beer",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "89776692-eb36-4ce6-b964-6a5700c3c0aa",
+  "object": "beer",
+  "name": "Dick Tracy",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

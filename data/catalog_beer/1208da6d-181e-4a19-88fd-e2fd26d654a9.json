@@ -1,0 +1,11 @@
+{
+  "id": "1208da6d-181e-4a19-88fd-e2fd26d654a9",
+  "object": "beer",
+  "name": "La Phare",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

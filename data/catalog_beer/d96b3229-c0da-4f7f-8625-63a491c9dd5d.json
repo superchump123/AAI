@@ -1,0 +1,11 @@
+{
+  "id": "d96b3229-c0da-4f7f-8625-63a491c9dd5d",
+  "object": "beer",
+  "name": "San Diego Pale Ale .394",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

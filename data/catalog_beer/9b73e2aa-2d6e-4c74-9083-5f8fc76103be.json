@@ -1,0 +1,11 @@
+{
+  "id": "9b73e2aa-2d6e-4c74-9083-5f8fc76103be",
+  "object": "beer",
+  "name": "Monkey Knife Fight",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

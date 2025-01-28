@@ -1,0 +1,11 @@
+{
+  "id": "50110468-ee60-4da8-b435-84e39780fdb6",
+  "object": "beer",
+  "name": "Solitude",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

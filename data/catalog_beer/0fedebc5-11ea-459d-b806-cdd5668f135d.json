@@ -1,0 +1,11 @@
+{
+  "id": "0fedebc5-11ea-459d-b806-cdd5668f135d",
+  "object": "beer",
+  "name": "Black Sunday Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

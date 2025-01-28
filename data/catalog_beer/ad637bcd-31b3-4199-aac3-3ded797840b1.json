@@ -1,0 +1,11 @@
+{
+  "id": "ad637bcd-31b3-4199-aac3-3ded797840b1",
+  "object": "beer",
+  "name": "Cortadito Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 81,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

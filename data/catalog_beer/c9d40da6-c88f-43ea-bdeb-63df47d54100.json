@@ -1,0 +1,11 @@
+{
+  "id": "c9d40da6-c88f-43ea-bdeb-63df47d54100",
+  "object": "beer",
+  "name": "The Brunette",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

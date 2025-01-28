@@ -1,0 +1,11 @@
+{
+  "id": "6d1dc2f6-9134-4c8e-b627-ccf0909da026",
+  "object": "beer",
+  "name": "Twee Horsen",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

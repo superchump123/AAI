@@ -1,0 +1,11 @@
+{
+  "id": "98a76dab-b055-48e3-9a47-6510ba6d58dc",
+  "object": "beer",
+  "name": "HI- SEA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

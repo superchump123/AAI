@@ -1,0 +1,11 @@
+{
+  "id": "75fcf4f0-9ef1-4085-bb48-f7b5fc8f6207",
+  "object": "beer",
+  "name": "New Morning",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

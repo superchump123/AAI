@@ -1,0 +1,11 @@
+{
+  "id": "cabf0415-6d35-471e-8f6d-7dc1fcdd3994",
+  "object": "beer",
+  "name": "Myron's Walk - Beer Camp Across America",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

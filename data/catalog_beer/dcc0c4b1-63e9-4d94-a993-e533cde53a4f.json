@@ -1,0 +1,11 @@
+{
+  "id": "dcc0c4b1-63e9-4d94-a993-e533cde53a4f",
+  "object": "beer",
+  "name": "Pumpkin Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

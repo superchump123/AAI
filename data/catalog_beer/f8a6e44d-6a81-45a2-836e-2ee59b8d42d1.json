@@ -1,0 +1,11 @@
+{
+  "id": "f8a6e44d-6a81-45a2-836e-2ee59b8d42d1",
+  "object": "beer",
+  "name": "July IPA of the Month - \"Yankee Doodle Dani\"",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

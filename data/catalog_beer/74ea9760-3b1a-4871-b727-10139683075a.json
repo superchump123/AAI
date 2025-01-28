@@ -1,0 +1,11 @@
+{
+  "id": "74ea9760-3b1a-4871-b727-10139683075a",
+  "object": "beer",
+  "name": "Force of Nature",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9f8d7f22-0474-4d08-b62c-02fcbcb0af0d",
+  "object": "beer",
+  "name": "Nut Brown",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

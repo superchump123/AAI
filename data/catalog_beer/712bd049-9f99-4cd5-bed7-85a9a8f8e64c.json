@@ -1,0 +1,11 @@
+{
+  "id": "712bd049-9f99-4cd5-bed7-85a9a8f8e64c",
+  "object": "beer",
+  "name": "Arsenal Amber",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 105,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

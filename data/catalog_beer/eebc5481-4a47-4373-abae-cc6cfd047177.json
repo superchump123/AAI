@@ -1,0 +1,11 @@
+{
+  "id": "eebc5481-4a47-4373-abae-cc6cfd047177",
+  "object": "beer",
+  "name": "Amadeus Vienna Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

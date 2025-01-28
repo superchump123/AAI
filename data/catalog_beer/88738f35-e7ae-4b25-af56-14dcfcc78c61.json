@@ -1,0 +1,11 @@
+{
+  "id": "88738f35-e7ae-4b25-af56-14dcfcc78c61",
+  "object": "beer",
+  "name": "Legbiter Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

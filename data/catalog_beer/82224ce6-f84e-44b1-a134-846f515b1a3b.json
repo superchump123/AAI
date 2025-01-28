@@ -1,0 +1,11 @@
+{
+  "id": "82224ce6-f84e-44b1-a134-846f515b1a3b",
+  "object": "beer",
+  "name": "Comes & Gose",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cdaf8016-b326-4a50-8d7e-af401741c4fe",
+  "object": "beer",
+  "name": "Dead Dweller",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

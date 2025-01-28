@@ -1,0 +1,11 @@
+{
+  "id": "f4a2c4da-7837-4525-b395-1bc4df66254d",
+  "object": "beer",
+  "name": "Bourbon County Brand Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "112ee126-fa62-493a-8961-9b8a6eee6739",
+  "object": "beer",
+  "name": "Mr Elegante",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

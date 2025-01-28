@@ -1,0 +1,11 @@
+{
+  "id": "3828ac5e-91ab-4f8d-b3bb-bfeae72f9f3e",
+  "object": "beer",
+  "name": "Barenmarder",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

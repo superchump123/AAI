@@ -1,0 +1,11 @@
+{
+  "id": "1050eba8-2202-4c54-9f29-ac277c5d22d3",
+  "object": "beer",
+  "name": "Flying Brick IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 101,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

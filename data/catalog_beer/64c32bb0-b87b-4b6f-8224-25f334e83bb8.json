@@ -1,0 +1,11 @@
+{
+  "id": "64c32bb0-b87b-4b6f-8224-25f334e83bb8",
+  "object": "beer",
+  "name": "Apricot Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

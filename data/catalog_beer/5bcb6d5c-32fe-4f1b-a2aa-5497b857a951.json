@@ -1,0 +1,11 @@
+{
+  "id": "5bcb6d5c-32fe-4f1b-a2aa-5497b857a951",
+  "object": "beer",
+  "name": "Overpowered",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

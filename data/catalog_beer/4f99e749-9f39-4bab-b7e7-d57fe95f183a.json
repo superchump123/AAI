@@ -1,0 +1,11 @@
+{
+  "id": "4f99e749-9f39-4bab-b7e7-d57fe95f183a",
+  "object": "beer",
+  "name": "Covert on Mosaic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

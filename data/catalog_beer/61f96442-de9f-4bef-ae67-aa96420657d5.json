@@ -1,0 +1,11 @@
+{
+  "id": "61f96442-de9f-4bef-ae67-aa96420657d5",
+  "object": "beer",
+  "name": "White Lager",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

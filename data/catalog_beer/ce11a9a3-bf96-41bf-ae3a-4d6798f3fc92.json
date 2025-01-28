@@ -1,0 +1,11 @@
+{
+  "id": "ce11a9a3-bf96-41bf-ae3a-4d6798f3fc92",
+  "object": "beer",
+  "name": "Top Rope",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

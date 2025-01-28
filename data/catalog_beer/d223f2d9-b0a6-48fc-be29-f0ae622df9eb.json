@@ -1,0 +1,11 @@
+{
+  "id": "d223f2d9-b0a6-48fc-be29-f0ae622df9eb",
+  "object": "beer",
+  "name": "David's Slingshot Hoppy Summer Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

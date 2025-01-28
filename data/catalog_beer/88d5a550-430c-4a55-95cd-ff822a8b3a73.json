@@ -1,0 +1,11 @@
+{
+  "id": "88d5a550-430c-4a55-95cd-ff822a8b3a73",
+  "object": "beer",
+  "name": "MexiCali Stout",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

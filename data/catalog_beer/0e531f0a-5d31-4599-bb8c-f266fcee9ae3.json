@@ -1,0 +1,11 @@
+{
+  "id": "0e531f0a-5d31-4599-bb8c-f266fcee9ae3",
+  "object": "beer",
+  "name": "Berliner Weiss with Blackberry",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "31b51df8-d029-4610-8c77-4a9dc6b74b44",
+  "object": "beer",
+  "name": "Heisenberg Green Chile Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dff3bc2b-e2c3-4cdb-8c73-06e5ae58f68f",
+  "object": "beer",
+  "name": "Frost Line Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

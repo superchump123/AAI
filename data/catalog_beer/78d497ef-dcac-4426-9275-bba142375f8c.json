@@ -1,0 +1,11 @@
+{
+  "id": "78d497ef-dcac-4426-9275-bba142375f8c",
+  "object": "beer",
+  "name": "Tri Brathair",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

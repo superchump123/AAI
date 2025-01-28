@@ -1,0 +1,11 @@
+{
+  "id": "97fa88fa-67f2-4ec0-8845-67c27ef2437e",
+  "object": "beer",
+  "name": "Town Beach",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

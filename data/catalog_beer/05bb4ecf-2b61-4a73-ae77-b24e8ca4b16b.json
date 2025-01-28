@@ -1,0 +1,11 @@
+{
+  "id": "05bb4ecf-2b61-4a73-ae77-b24e8ca4b16b",
+  "object": "beer",
+  "name": "Banana Nut Beer",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

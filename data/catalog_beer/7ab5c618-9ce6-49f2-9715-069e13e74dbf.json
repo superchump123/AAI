@@ -1,0 +1,11 @@
+{
+  "id": "7ab5c618-9ce6-49f2-9715-069e13e74dbf",
+  "object": "beer",
+  "name": "ABSURDITY: BELGIAN IPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

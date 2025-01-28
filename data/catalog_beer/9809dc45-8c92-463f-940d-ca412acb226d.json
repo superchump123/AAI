@@ -1,0 +1,11 @@
+{
+  "id": "9809dc45-8c92-463f-940d-ca412acb226d",
+  "object": "beer",
+  "name": "Smoked Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

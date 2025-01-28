@@ -1,0 +1,11 @@
+{
+  "id": "f16c5799-f42d-496b-9fbb-7d64cd916089",
+  "object": "beer",
+  "name": "Big Bad Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

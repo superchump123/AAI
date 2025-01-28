@@ -1,0 +1,11 @@
+{
+  "id": "ae0259f8-4018-494b-9e79-ab5d4f91464c",
+  "object": "beer",
+  "name": "Paddle Out",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

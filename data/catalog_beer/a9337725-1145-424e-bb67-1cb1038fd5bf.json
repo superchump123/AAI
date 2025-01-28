@@ -1,0 +1,11 @@
+{
+  "id": "a9337725-1145-424e-bb67-1cb1038fd5bf",
+  "object": "beer",
+  "name": "Cougar Bait",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

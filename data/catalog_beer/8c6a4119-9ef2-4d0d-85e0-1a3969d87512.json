@@ -1,0 +1,11 @@
+{
+  "id": "8c6a4119-9ef2-4d0d-85e0-1a3969d87512",
+  "object": "beer",
+  "name": "Summertime Siesta",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

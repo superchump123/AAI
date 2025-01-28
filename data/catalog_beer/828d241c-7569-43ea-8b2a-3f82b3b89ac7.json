@@ -1,0 +1,11 @@
+{
+  "id": "828d241c-7569-43ea-8b2a-3f82b3b89ac7",
+  "object": "beer",
+  "name": "Swill Beer",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

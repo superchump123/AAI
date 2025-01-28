@@ -1,0 +1,11 @@
+{
+  "id": "0f68f53b-b727-45d7-b02d-fcf2b2d877ca",
+  "object": "beer",
+  "name": "Cinnamon Girl",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

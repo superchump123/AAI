@@ -1,0 +1,11 @@
+{
+  "id": "6b28b1b0-2ed5-476f-b139-fc67ae0e79a3",
+  "object": "beer",
+  "name": "Bristol Octoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

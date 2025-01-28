@@ -1,0 +1,11 @@
+{
+  "id": "4a06a7a0-59d5-4978-ba3d-8a531c8bfeb9",
+  "object": "beer",
+  "name": "Porter For Procrastinators",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

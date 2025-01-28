@@ -1,0 +1,11 @@
+{
+  "id": "2cab6d0c-434a-48d4-8c59-4b31d46a94ec",
+  "object": "beer",
+  "name": "Swamp Donkey",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

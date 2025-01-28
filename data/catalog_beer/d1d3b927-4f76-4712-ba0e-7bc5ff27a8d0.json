@@ -1,0 +1,11 @@
+{
+  "id": "d1d3b927-4f76-4712-ba0e-7bc5ff27a8d0",
+  "object": "beer",
+  "name": "Lil' Walker IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

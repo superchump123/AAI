@@ -1,0 +1,11 @@
+{
+  "id": "9a893175-2d99-4fce-92a1-2fe79c51a264",
+  "object": "beer",
+  "name": "Stinger Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "59f720ae-4e94-4b92-86a0-7e4c0a8400f1",
+  "object": "beer",
+  "name": "Heavy Bag",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

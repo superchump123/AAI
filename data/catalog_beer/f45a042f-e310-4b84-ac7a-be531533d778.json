@@ -1,0 +1,11 @@
+{
+  "id": "f45a042f-e310-4b84-ac7a-be531533d778",
+  "object": "beer",
+  "name": "Roxy",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

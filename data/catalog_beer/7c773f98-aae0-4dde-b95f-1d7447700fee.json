@@ -1,0 +1,11 @@
+{
+  "id": "7c773f98-aae0-4dde-b95f-1d7447700fee",
+  "object": "beer",
+  "name": "Jammer",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ba356c8f-650b-459b-a5f7-22bb288563f5",
+  "object": "beer",
+  "name": "Bombay Berzerker",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

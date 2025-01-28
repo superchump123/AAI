@@ -1,0 +1,11 @@
+{
+  "id": "86dd4024-8f6d-47bf-9a90-2ffde2177da7",
+  "object": "beer",
+  "name": "PBJ Crunch",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

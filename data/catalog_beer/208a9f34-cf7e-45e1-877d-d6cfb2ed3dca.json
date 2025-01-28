@@ -1,0 +1,11 @@
+{
+  "id": "208a9f34-cf7e-45e1-877d-d6cfb2ed3dca",
+  "object": "beer",
+  "name": "Mr Pigs Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5d744225-e7a5-46e4-9751-6c8bbd77216a",
+  "object": "beer",
+  "name": "Pearl-Iner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

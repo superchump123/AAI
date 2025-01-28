@@ -1,0 +1,11 @@
+{
+  "id": "69d2e880-5ee3-4b94-9c9a-24f91e2667c6",
+  "object": "beer",
+  "name": "Avant Garde",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

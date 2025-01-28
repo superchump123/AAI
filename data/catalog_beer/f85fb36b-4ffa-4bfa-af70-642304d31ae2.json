@@ -1,0 +1,11 @@
+{
+  "id": "f85fb36b-4ffa-4bfa-af70-642304d31ae2",
+  "object": "beer",
+  "name": "American Blonde",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

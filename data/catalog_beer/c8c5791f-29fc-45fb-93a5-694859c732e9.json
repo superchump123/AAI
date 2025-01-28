@@ -1,0 +1,11 @@
+{
+  "id": "c8c5791f-29fc-45fb-93a5-694859c732e9",
+  "object": "beer",
+  "name": "Donna Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

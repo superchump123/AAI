@@ -1,0 +1,11 @@
+{
+  "id": "48b53eb2-d784-4328-b694-a119f4a2bd54",
+  "object": "beer",
+  "name": "American Brown Ale (Can Sessions)",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

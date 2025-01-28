@@ -1,0 +1,11 @@
+{
+  "id": "c6fc1794-074d-4dcc-9a94-2a7acdbec9f5",
+  "object": "beer",
+  "name": "Helluva Caucasian",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

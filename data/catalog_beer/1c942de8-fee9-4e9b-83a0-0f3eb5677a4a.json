@@ -1,0 +1,11 @@
+{
+  "id": "1c942de8-fee9-4e9b-83a0-0f3eb5677a4a",
+  "object": "beer",
+  "name": "Shoot The Moon",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b7bde5ac-7901-4e38-876c-0ed40031fac1",
+  "object": "beer",
+  "name": "Artisan Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

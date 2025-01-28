@@ -1,0 +1,11 @@
+{
+  "id": "f2670668-1e65-4c60-a8bc-3729e6658879",
+  "object": "beer",
+  "name": "L42 Hard Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

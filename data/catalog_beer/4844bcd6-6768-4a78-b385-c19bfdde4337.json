@@ -1,0 +1,11 @@
+{
+  "id": "4844bcd6-6768-4a78-b385-c19bfdde4337",
+  "object": "beer",
+  "name": "Paradise Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

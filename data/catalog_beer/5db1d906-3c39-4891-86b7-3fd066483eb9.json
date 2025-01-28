@@ -1,0 +1,11 @@
+{
+  "id": "5db1d906-3c39-4891-86b7-3fd066483eb9",
+  "object": "beer",
+  "name": "Buckshot Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

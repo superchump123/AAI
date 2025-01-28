@@ -1,0 +1,11 @@
+{
+  "id": "456fb9cd-2d18-4a01-a317-6c7d5f7ebdb4",
+  "object": "beer",
+  "name": "Personal Problem",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

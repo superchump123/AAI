@@ -1,0 +1,11 @@
+{
+  "id": "0f46a0dc-524f-48c7-9949-255df754b865",
+  "object": "beer",
+  "name": "Dapper Devil",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

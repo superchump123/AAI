@@ -1,0 +1,11 @@
+{
+  "id": "51c79ac1-53e8-4093-b83b-5945d4f14d52",
+  "object": "beer",
+  "name": "Mcllhenney's Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

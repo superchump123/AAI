@@ -1,0 +1,11 @@
+{
+  "id": "c95370e3-de4f-4721-b111-ce6d7fff6458",
+  "object": "beer",
+  "name": "Lonely Tarts Club",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

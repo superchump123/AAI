@@ -1,0 +1,11 @@
+{
+  "id": "4ab1361a-a888-400c-a339-a5e9b9a512f8",
+  "object": "beer",
+  "name": "Hoptinite",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a45f42c0-81c9-403b-8de8-8eca17f620bf",
+  "object": "beer",
+  "name": "Beckford Parish",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

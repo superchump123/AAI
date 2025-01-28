@@ -1,0 +1,11 @@
+{
+  "id": "ac7339e6-c0a5-4567-a1e9-ff8785a5276a",
+  "object": "beer",
+  "name": "8+35=20 Pilot Project",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": 175,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

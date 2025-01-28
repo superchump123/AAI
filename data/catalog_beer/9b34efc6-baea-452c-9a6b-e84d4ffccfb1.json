@@ -1,0 +1,11 @@
+{
+  "id": "9b34efc6-baea-452c-9a6b-e84d4ffccfb1",
+  "object": "beer",
+  "name": "Eibauer Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

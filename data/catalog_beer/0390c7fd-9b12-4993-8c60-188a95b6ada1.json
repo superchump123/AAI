@@ -1,0 +1,11 @@
+{
+  "id": "0390c7fd-9b12-4993-8c60-188a95b6ada1",
+  "object": "beer",
+  "name": "FSB",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

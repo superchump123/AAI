@@ -1,0 +1,11 @@
+{
+  "id": "06c6a0f7-183f-41c1-b0a3-b4fe2735b021",
+  "object": "beer",
+  "name": "Alpha Kong",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

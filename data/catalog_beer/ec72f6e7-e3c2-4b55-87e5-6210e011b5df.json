@@ -1,0 +1,11 @@
+{
+  "id": "ec72f6e7-e3c2-4b55-87e5-6210e011b5df",
+  "object": "beer",
+  "name": "Magpie IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

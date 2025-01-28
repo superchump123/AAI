@@ -1,0 +1,11 @@
+{
+  "id": "212bc333-b91f-42e0-9bdc-da8d9da4f093",
+  "object": "beer",
+  "name": "S'muttonator (2014)",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

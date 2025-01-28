@@ -1,0 +1,11 @@
+{
+  "id": "a6cdeb9d-62ca-452c-aa03-30935dbb7aab",
+  "object": "beer",
+  "name": "Ghost Pepper Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "76cdf892-749a-4483-83ca-2ab08f9e015a",
+  "object": "beer",
+  "name": "Big Mischief Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

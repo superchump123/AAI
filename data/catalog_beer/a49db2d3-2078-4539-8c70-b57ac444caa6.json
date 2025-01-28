@@ -1,0 +1,11 @@
+{
+  "id": "a49db2d3-2078-4539-8c70-b57ac444caa6",
+  "object": "beer",
+  "name": "Delta 9 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

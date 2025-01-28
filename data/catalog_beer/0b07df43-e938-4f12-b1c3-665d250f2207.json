@@ -1,0 +1,11 @@
+{
+  "id": "0b07df43-e938-4f12-b1c3-665d250f2207",
+  "object": "beer",
+  "name": "Weak Sauce",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

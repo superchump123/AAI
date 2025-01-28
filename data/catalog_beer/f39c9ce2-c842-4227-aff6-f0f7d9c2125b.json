@@ -1,0 +1,11 @@
+{
+  "id": "f39c9ce2-c842-4227-aff6-f0f7d9c2125b",
+  "object": "beer",
+  "name": "Oude Kriek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8c8508c0-8679-4628-9172-96167c59bc22",
+  "object": "beer",
+  "name": "Bourbon Little Brother",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

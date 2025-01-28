@@ -1,0 +1,11 @@
+{
+  "id": "71c8f781-9518-444b-8ea9-bb2cf2facfb3",
+  "object": "beer",
+  "name": "Cotton Tail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e4a83bd9-7db1-481f-b102-5212ff7d867c",
+  "object": "beer",
+  "name": "Tip Jar",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

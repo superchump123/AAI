@@ -1,0 +1,11 @@
+{
+  "id": "85585991-71ca-4f19-b7c6-53e3a09fdb5c",
+  "object": "beer",
+  "name": "Snow Day",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

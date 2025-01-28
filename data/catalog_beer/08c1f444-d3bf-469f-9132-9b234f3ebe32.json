@@ -1,0 +1,11 @@
+{
+  "id": "08c1f444-d3bf-469f-9132-9b234f3ebe32",
+  "object": "beer",
+  "name": "Richter's Revenge",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

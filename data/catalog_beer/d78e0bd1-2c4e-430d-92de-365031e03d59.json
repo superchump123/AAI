@@ -1,0 +1,11 @@
+{
+  "id": "d78e0bd1-2c4e-430d-92de-365031e03d59",
+  "object": "beer",
+  "name": "Flavor Savor",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

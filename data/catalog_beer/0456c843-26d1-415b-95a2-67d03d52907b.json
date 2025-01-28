@@ -1,0 +1,11 @@
+{
+  "id": "0456c843-26d1-415b-95a2-67d03d52907b",
+  "object": "beer",
+  "name": "La Vie Fantine",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ce4496d-3a3d-4d72-9090-d188c166c622",
+  "object": "beer",
+  "name": "Bat Outta Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

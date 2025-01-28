@@ -1,0 +1,11 @@
+{
+  "id": "6ce7adf9-6ed5-4215-9fdd-6339e7cfa69f",
+  "object": "beer",
+  "name": "Garley Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

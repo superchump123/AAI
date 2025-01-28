@@ -1,0 +1,11 @@
+{
+  "id": "cd046d93-06bd-4216-9f26-c65591472bcc",
+  "object": "beer",
+  "name": "Frankenlager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

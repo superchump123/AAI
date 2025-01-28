@@ -1,0 +1,11 @@
+{
+  "id": "1e0cba06-a6d1-4974-889f-9f55eba4b5fe",
+  "object": "beer",
+  "name": "Mellow Monks",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

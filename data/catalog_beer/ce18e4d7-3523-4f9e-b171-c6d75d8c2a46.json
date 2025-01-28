@@ -1,0 +1,11 @@
+{
+  "id": "ce18e4d7-3523-4f9e-b171-c6d75d8c2a46",
+  "object": "beer",
+  "name": "Dixie Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

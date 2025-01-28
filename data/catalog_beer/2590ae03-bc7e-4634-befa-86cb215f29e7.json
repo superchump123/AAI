@@ -1,0 +1,11 @@
+{
+  "id": "2590ae03-bc7e-4634-befa-86cb215f29e7",
+  "object": "beer",
+  "name": "Horseshoe Bend Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d2b8da5d-3d22-4b69-86e5-45357d4acb2d",
+  "object": "beer",
+  "name": "Hivekicker Wheatwine",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

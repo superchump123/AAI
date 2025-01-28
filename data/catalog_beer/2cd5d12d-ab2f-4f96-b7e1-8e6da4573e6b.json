@@ -1,0 +1,11 @@
+{
+  "id": "2cd5d12d-ab2f-4f96-b7e1-8e6da4573e6b",
+  "object": "beer",
+  "name": "Hop-alot-amus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

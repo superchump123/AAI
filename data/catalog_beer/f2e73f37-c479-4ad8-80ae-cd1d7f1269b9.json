@@ -1,0 +1,11 @@
+{
+  "id": "f2e73f37-c479-4ad8-80ae-cd1d7f1269b9",
+  "object": "beer",
+  "name": "What the Butler Saw",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

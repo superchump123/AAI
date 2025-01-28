@@ -1,0 +1,11 @@
+{
+  "id": "3f92aa79-fc8b-441f-a01a-e83104b6abf2",
+  "object": "beer",
+  "name": "Sound City Alt Bier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

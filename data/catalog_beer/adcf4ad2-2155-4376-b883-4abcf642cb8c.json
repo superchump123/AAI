@@ -1,0 +1,11 @@
+{
+  "id": "adcf4ad2-2155-4376-b883-4abcf642cb8c",
+  "object": "beer",
+  "name": "Jupiter Honey Wheat",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

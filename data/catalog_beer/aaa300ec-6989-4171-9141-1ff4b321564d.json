@@ -1,0 +1,11 @@
+{
+  "id": "aaa300ec-6989-4171-9141-1ff4b321564d",
+  "object": "beer",
+  "name": "Banana Hammock",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

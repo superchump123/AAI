@@ -1,0 +1,11 @@
+{
+  "id": "73f4445e-c599-4b70-8642-404a6d1296fe",
+  "object": "beer",
+  "name": "The Commodore",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

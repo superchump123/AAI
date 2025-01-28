@@ -1,0 +1,11 @@
+{
+  "id": "7898f17d-8d04-49e9-9d1d-a53525108239",
+  "object": "beer",
+  "name": "Rooster Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

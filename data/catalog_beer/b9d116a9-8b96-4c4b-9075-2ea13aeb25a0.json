@@ -1,0 +1,11 @@
+{
+  "id": "b9d116a9-8b96-4c4b-9075-2ea13aeb25a0",
+  "object": "beer",
+  "name": "Butta' Cup",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ec707ab2-dea3-4766-b0b4-cdf9072f65bf",
+  "object": "beer",
+  "name": "Red Medicine",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

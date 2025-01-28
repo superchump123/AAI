@@ -1,0 +1,11 @@
+{
+  "id": "a632a87e-4a0b-4443-b325-b7918ce3cde6",
+  "object": "beer",
+  "name": "Wit's End",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

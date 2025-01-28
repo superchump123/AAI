@@ -1,0 +1,11 @@
+{
+  "id": "dcfdf13f-dfd3-4bf5-9ee3-6a854fc4c82b",
+  "object": "beer",
+  "name": "Chief Justice Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

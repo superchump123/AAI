@@ -1,0 +1,11 @@
+{
+  "id": "eb6ee814-3259-405d-b4e4-0ad17cfb0f4d",
+  "object": "beer",
+  "name": "Le Freak",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 101,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

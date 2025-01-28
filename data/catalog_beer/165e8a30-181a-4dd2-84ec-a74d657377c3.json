@@ -1,0 +1,11 @@
+{
+  "id": "165e8a30-181a-4dd2-84ec-a74d657377c3",
+  "object": "beer",
+  "name": "Royal Roar",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

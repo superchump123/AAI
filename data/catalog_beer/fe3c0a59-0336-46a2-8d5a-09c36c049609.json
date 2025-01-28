@@ -1,0 +1,11 @@
+{
+  "id": "fe3c0a59-0336-46a2-8d5a-09c36c049609",
+  "object": "beer",
+  "name": "Russian Imperial Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

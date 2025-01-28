@@ -1,0 +1,11 @@
+{
+  "id": "56705d36-a3e2-4780-9a8e-0c243c1adf99",
+  "object": "beer",
+  "name": "Petrus Nitro Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

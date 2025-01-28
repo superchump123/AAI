@@ -1,0 +1,11 @@
+{
+  "id": "8bb95414-2e33-4c81-8118-e67c79a9dea5",
+  "object": "beer",
+  "name": "That Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

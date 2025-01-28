@@ -1,0 +1,11 @@
+{
+  "id": "1675c0d1-c5d7-42ce-a567-ccc717c1b9d9",
+  "object": "beer",
+  "name": "Titfer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

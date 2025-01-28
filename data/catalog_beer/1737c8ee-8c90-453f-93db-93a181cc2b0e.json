@@ -1,0 +1,11 @@
+{
+  "id": "1737c8ee-8c90-453f-93db-93a181cc2b0e",
+  "object": "beer",
+  "name": "White Blaze",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

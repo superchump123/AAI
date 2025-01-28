@@ -1,0 +1,11 @@
+{
+  "id": "f8976036-5a1e-4a2c-a628-9b813899fe44",
+  "object": "beer",
+  "name": "Dragoon IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

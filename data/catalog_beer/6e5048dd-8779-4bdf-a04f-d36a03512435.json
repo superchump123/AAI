@@ -1,0 +1,11 @@
+{
+  "id": "6e5048dd-8779-4bdf-a04f-d36a03512435",
+  "object": "beer",
+  "name": "Highland Hugh",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

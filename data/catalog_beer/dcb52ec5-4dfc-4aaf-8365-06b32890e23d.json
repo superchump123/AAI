@@ -1,0 +1,11 @@
+{
+  "id": "dcb52ec5-4dfc-4aaf-8365-06b32890e23d",
+  "object": "beer",
+  "name": "Organic Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

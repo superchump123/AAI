@@ -1,0 +1,11 @@
+{
+  "id": "a440df0d-9f7c-42fc-ad15-998b6ac05bb3",
+  "object": "beer",
+  "name": "Lizard Bride",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

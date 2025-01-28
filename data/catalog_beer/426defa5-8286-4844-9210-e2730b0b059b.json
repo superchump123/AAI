@@ -1,0 +1,11 @@
+{
+  "id": "426defa5-8286-4844-9210-e2730b0b059b",
+  "object": "beer",
+  "name": "Bitter",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

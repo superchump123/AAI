@@ -1,0 +1,11 @@
+{
+  "id": "c71752af-257c-4dc6-b5f3-a0ea293db1aa",
+  "object": "beer",
+  "name": "The IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

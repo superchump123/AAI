@@ -1,0 +1,11 @@
+{
+  "id": "5666876a-a0d3-43a3-ad85-021bb9401bb1",
+  "object": "beer",
+  "name": "Double Mosaic",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

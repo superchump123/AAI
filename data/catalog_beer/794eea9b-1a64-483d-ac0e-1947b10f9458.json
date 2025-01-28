@@ -1,0 +1,11 @@
+{
+  "id": "794eea9b-1a64-483d-ac0e-1947b10f9458",
+  "object": "beer",
+  "name": "Chocolate Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

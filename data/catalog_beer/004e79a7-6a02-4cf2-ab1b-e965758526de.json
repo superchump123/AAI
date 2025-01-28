@@ -1,0 +1,11 @@
+{
+  "id": "004e79a7-6a02-4cf2-ab1b-e965758526de",
+  "object": "beer",
+  "name": "Cave City Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5f5a4d02-8a34-4c52-a1ed-de011da8049b",
+  "object": "beer",
+  "name": "Infidel",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

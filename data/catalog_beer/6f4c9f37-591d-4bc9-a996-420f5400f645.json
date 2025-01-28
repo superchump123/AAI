@@ -1,0 +1,11 @@
+{
+  "id": "6f4c9f37-591d-4bc9-a996-420f5400f645",
+  "object": "beer",
+  "name": "Midnight Sun",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

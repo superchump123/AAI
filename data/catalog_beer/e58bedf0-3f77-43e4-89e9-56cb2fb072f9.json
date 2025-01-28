@@ -1,0 +1,11 @@
+{
+  "id": "e58bedf0-3f77-43e4-89e9-56cb2fb072f9",
+  "object": "beer",
+  "name": "Strawberry Rhubarb",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

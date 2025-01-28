@@ -1,0 +1,11 @@
+{
+  "id": "933b2128-8725-4b55-a4a8-c0eaeeffc3cf",
+  "object": "beer",
+  "name": "Squirrely",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0dfbb0cf-b378-4629-b7d2-ffd3d67e597b",
+  "object": "beer",
+  "name": "Black Angus",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

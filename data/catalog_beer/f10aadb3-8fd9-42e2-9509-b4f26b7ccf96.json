@@ -1,0 +1,11 @@
+{
+  "id": "f10aadb3-8fd9-42e2-9509-b4f26b7ccf96",
+  "object": "beer",
+  "name": "Napalm Bunny",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

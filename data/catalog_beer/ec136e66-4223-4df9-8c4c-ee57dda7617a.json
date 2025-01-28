@@ -1,0 +1,11 @@
+{
+  "id": "ec136e66-4223-4df9-8c4c-ee57dda7617a",
+  "object": "beer",
+  "name": "Copper Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

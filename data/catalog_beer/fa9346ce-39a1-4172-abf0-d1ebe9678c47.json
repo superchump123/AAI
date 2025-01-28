@@ -1,0 +1,11 @@
+{
+  "id": "fa9346ce-39a1-4172-abf0-d1ebe9678c47",
+  "object": "beer",
+  "name": "The Man Who Made Dessert",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

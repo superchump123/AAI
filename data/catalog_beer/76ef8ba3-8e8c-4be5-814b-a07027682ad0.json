@@ -1,0 +1,11 @@
+{
+  "id": "76ef8ba3-8e8c-4be5-814b-a07027682ad0",
+  "object": "beer",
+  "name": "Amber Ale Huckleberry",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b128daef-22e6-477f-8163-66f44d243f35",
+  "object": "beer",
+  "name": "Free Willy",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

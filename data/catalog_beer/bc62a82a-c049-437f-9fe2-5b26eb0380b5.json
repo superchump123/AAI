@@ -1,0 +1,11 @@
+{
+  "id": "bc62a82a-c049-437f-9fe2-5b26eb0380b5",
+  "object": "beer",
+  "name": "Fleur du Diable",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

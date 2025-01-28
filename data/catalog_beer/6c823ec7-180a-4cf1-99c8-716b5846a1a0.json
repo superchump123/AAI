@@ -1,0 +1,11 @@
+{
+  "id": "6c823ec7-180a-4cf1-99c8-716b5846a1a0",
+  "object": "beer",
+  "name": "Hockhocking",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

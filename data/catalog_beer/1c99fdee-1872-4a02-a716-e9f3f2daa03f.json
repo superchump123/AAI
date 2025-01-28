@@ -1,0 +1,11 @@
+{
+  "id": "1c99fdee-1872-4a02-a716-e9f3f2daa03f",
+  "object": "beer",
+  "name": "Utrecht",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

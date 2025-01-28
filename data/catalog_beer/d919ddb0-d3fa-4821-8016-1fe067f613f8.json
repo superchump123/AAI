@@ -1,0 +1,11 @@
+{
+  "id": "d919ddb0-d3fa-4821-8016-1fe067f613f8",
+  "object": "beer",
+  "name": "Bachelor ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "180389f0-8adc-4701-b18f-20eaa237cc9a",
+  "object": "beer",
+  "name": "Nitro DBA",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

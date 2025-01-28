@@ -1,0 +1,11 @@
+{
+  "id": "eb7adbbe-3872-4e14-a1fe-a30b908294fe",
+  "object": "beer",
+  "name": "Runcible",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

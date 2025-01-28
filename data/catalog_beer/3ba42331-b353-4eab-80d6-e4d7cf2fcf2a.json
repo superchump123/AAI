@@ -1,0 +1,11 @@
+{
+  "id": "3ba42331-b353-4eab-80d6-e4d7cf2fcf2a",
+  "object": "beer",
+  "name": "Tennis-Night Vision",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

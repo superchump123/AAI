@@ -1,0 +1,11 @@
+{
+  "id": "c2adcb5e-477c-40ef-be41-df1ed183f0e7",
+  "object": "beer",
+  "name": "Steffens Casbacher Braunbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

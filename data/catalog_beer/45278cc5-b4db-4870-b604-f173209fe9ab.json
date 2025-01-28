@@ -1,0 +1,11 @@
+{
+  "id": "45278cc5-b4db-4870-b604-f173209fe9ab",
+  "object": "beer",
+  "name": "Oats MacDonald Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

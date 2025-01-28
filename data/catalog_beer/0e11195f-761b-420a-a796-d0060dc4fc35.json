@@ -1,0 +1,11 @@
+{
+  "id": "0e11195f-761b-420a-a796-d0060dc4fc35",
+  "object": "beer",
+  "name": "Happy Place",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

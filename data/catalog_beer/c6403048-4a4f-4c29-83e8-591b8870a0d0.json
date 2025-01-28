@@ -1,0 +1,11 @@
+{
+  "id": "c6403048-4a4f-4c29-83e8-591b8870a0d0",
+  "object": "beer",
+  "name": "Brainless Belgian Release #24",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

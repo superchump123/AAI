@@ -1,0 +1,11 @@
+{
+  "id": "016d7a28-a388-4dcf-9ece-9b8e25c69556",
+  "object": "beer",
+  "name": "Dark Hammer",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7cce7e92-f0de-4085-be09-56e73cf22410",
+  "object": "beer",
+  "name": "Beersel Mattina",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

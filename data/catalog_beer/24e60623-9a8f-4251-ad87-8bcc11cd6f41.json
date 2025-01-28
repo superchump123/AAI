@@ -1,0 +1,11 @@
+{
+  "id": "24e60623-9a8f-4251-ad87-8bcc11cd6f41",
+  "object": "beer",
+  "name": "Johnny's Lager",
+  "style": "American-Style Low-Carbohydrate Light Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

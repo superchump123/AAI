@@ -1,0 +1,11 @@
+{
+  "id": "5c432ee0-8e62-433a-bec1-a0a65cf69d52",
+  "object": "beer",
+  "name": "Blitzen IIIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

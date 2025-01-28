@@ -1,0 +1,11 @@
+{
+  "id": "d1e5acd8-77cf-4b57-adeb-d2dc29510f19",
+  "object": "beer",
+  "name": "Armstrong APA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d46f0665-3c91-4f4e-b45f-00177b9e7415",
+  "object": "beer",
+  "name": "Rhubarbarian",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

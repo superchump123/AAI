@@ -1,0 +1,11 @@
+{
+  "id": "cb626f4a-3ab2-438c-b05b-08d24027444e",
+  "object": "beer",
+  "name": "Jacque's Trappe",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

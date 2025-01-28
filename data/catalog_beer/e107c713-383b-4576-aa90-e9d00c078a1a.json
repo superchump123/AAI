@@ -1,0 +1,11 @@
+{
+  "id": "e107c713-383b-4576-aa90-e9d00c078a1a",
+  "object": "beer",
+  "name": "Melisseus Lavender Honey Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

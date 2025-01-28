@@ -1,0 +1,11 @@
+{
+  "id": "0c5e6835-d36f-4b1a-a529-11cef41e4bc2",
+  "object": "beer",
+  "name": "Hyllipan",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

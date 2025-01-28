@@ -1,0 +1,11 @@
+{
+  "id": "ab47ae00-d5d0-45a0-9634-d1bcc1fd17f5",
+  "object": "beer",
+  "name": "Biberry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

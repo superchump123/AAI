@@ -1,0 +1,11 @@
+{
+  "id": "48632c64-1fa1-4213-8df2-6d9c420af8ed",
+  "object": "beer",
+  "name": "Khoppig",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db41164d-a201-40b1-adb6-63195c4421a8",
+  "object": "beer",
+  "name": "Falcon Punch",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "614c8c55-186c-4d90-ace1-12126df1e204",
+  "object": "beer",
+  "name": "Rapture Fusion Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

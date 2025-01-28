@@ -1,0 +1,11 @@
+{
+  "id": "470a32d4-26b6-45b6-8f52-fe328c55967e",
+  "object": "beer",
+  "name": "Swiftwater IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

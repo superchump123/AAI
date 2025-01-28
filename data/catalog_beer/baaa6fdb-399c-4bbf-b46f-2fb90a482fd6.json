@@ -1,0 +1,11 @@
+{
+  "id": "baaa6fdb-399c-4bbf-b46f-2fb90a482fd6",
+  "object": "beer",
+  "name": "Winter Mischief",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

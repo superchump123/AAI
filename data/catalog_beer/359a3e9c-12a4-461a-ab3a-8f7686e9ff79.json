@@ -1,0 +1,11 @@
+{
+  "id": "359a3e9c-12a4-461a-ab3a-8f7686e9ff79",
+  "object": "beer",
+  "name": "Dave's Not Here",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

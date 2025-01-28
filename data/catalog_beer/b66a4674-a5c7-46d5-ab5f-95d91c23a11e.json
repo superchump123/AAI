@@ -1,0 +1,11 @@
+{
+  "id": "b66a4674-a5c7-46d5-ab5f-95d91c23a11e",
+  "object": "beer",
+  "name": "Elmorado IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

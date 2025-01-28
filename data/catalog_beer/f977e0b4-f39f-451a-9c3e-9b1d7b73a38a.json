@@ -1,0 +1,11 @@
+{
+  "id": "f977e0b4-f39f-451a-9c3e-9b1d7b73a38a",
+  "object": "beer",
+  "name": "Graham Cracker Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

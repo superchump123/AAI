@@ -1,0 +1,11 @@
+{
+  "id": "fcb0c166-f2f2-4206-afcd-76c2b1f70e86",
+  "object": "beer",
+  "name": "Cucumbers Eve",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

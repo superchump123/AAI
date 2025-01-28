@@ -1,0 +1,11 @@
+{
+  "id": "8ea0ccc5-4f9a-4b49-b043-7d1a44121b5d",
+  "object": "beer",
+  "name": "Hirsch Dunkle Hefe-Weisse",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

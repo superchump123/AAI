@@ -1,0 +1,11 @@
+{
+  "id": "d9756f6d-e741-4e81-8bd9-6bc8ce8047ea",
+  "object": "beer",
+  "name": "Vanilla Bourbon Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

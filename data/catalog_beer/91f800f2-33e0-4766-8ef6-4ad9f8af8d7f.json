@@ -1,0 +1,11 @@
+{
+  "id": "91f800f2-33e0-4766-8ef6-4ad9f8af8d7f",
+  "object": "beer",
+  "name": "Jack In the Green",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

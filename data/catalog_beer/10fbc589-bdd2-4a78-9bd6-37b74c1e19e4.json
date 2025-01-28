@@ -1,0 +1,11 @@
+{
+  "id": "10fbc589-bdd2-4a78-9bd6-37b74c1e19e4",
+  "object": "beer",
+  "name": "Everyday Yellow",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

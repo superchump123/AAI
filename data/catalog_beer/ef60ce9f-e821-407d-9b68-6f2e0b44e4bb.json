@@ -1,0 +1,11 @@
+{
+  "id": "ef60ce9f-e821-407d-9b68-6f2e0b44e4bb",
+  "object": "beer",
+  "name": "Right O Way IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

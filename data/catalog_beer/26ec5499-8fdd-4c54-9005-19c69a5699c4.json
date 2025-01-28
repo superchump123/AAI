@@ -1,0 +1,11 @@
+{
+  "id": "26ec5499-8fdd-4c54-9005-19c69a5699c4",
+  "object": "beer",
+  "name": "Cherry Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

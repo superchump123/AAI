@@ -1,0 +1,11 @@
+{
+  "id": "34dd9715-0868-4344-ba2d-b9e7bb5c71dc",
+  "object": "beer",
+  "name": "Nattheimer Festbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

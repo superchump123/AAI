@@ -1,0 +1,11 @@
+{
+  "id": "3a323c88-803b-41f2-b71d-4bf112c541e2",
+  "object": "beer",
+  "name": "Obliterator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

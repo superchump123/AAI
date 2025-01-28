@@ -1,0 +1,11 @@
+{
+  "id": "9b7b78c7-e2e0-459b-8313-78b6fbcdd3e9",
+  "object": "beer",
+  "name": "Bone-A-Fide Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

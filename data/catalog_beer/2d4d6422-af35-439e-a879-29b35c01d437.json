@@ -1,0 +1,11 @@
+{
+  "id": "2d4d6422-af35-439e-a879-29b35c01d437",
+  "object": "beer",
+  "name": "Markland Batch 1000",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 13.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ec0893f9-ff4f-473b-8bdb-a1bcd4e077fa",
+  "object": "beer",
+  "name": "DNR",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

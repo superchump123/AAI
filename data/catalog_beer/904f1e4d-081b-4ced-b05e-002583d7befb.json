@@ -1,0 +1,11 @@
+{
+  "id": "904f1e4d-081b-4ced-b05e-002583d7befb",
+  "object": "beer",
+  "name": "Woodhead Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

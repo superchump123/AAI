@@ -1,0 +1,11 @@
+{
+  "id": "224c31a0-de3f-4ccb-a8b1-6e039f7db3cf",
+  "object": "beer",
+  "name": "Rose Petal",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

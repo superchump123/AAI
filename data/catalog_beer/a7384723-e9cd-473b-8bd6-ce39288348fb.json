@@ -1,0 +1,11 @@
+{
+  "id": "a7384723-e9cd-473b-8bd6-ce39288348fb",
+  "object": "beer",
+  "name": "Country Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b08422d7-a717-4ebc-9221-58db3c162f8a",
+  "object": "beer",
+  "name": "Kurli Pale Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

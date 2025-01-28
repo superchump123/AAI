@@ -1,0 +1,11 @@
+{
+  "id": "c065f30d-5b86-4302-8578-d5d3ac73de7b",
+  "object": "beer",
+  "name": "El Dorado",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

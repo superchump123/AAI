@@ -1,0 +1,11 @@
+{
+  "id": "afe1e5d0-21e2-45bb-bed9-1f426dbbdf19",
+  "object": "beer",
+  "name": "Gunslinger",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b76ce3f3-afde-4d7c-a324-ad8e3406dff3",
+  "object": "beer",
+  "name": "Advent",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

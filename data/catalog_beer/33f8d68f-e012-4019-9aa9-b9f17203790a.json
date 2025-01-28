@@ -1,0 +1,11 @@
+{
+  "id": "33f8d68f-e012-4019-9aa9-b9f17203790a",
+  "object": "beer",
+  "name": "Reel Slo",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

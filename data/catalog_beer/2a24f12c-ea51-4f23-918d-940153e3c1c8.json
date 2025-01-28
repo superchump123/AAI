@@ -1,0 +1,11 @@
+{
+  "id": "2a24f12c-ea51-4f23-918d-940153e3c1c8",
+  "object": "beer",
+  "name": "Bressene",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

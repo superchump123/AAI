@@ -1,0 +1,11 @@
+{
+  "id": "bddfce33-867d-4540-8486-975d96468870",
+  "object": "beer",
+  "name": "Freaky Deaky",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

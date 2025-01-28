@@ -1,0 +1,11 @@
+{
+  "id": "f3771f34-caf8-43c5-a612-89500589c04d",
+  "object": "beer",
+  "name": "Woinemer Red George",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

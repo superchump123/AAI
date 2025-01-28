@@ -1,0 +1,11 @@
+{
+  "id": "7a4e7075-c11e-4bce-936e-0003b642ada2",
+  "object": "beer",
+  "name": "Mermaid Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

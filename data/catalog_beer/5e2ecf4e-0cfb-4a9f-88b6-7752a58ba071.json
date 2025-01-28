@@ -1,0 +1,11 @@
+{
+  "id": "5e2ecf4e-0cfb-4a9f-88b6-7752a58ba071",
+  "object": "beer",
+  "name": "Honey Boo Boo",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

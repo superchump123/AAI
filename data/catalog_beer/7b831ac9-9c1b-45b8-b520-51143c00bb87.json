@@ -1,0 +1,11 @@
+{
+  "id": "7b831ac9-9c1b-45b8-b520-51143c00bb87",
+  "object": "beer",
+  "name": "Spicy Bohemian",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

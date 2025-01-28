@@ -1,0 +1,11 @@
+{
+  "id": "86dc8d37-ebed-41ef-945c-921e054c67b3",
+  "object": "beer",
+  "name": "Enigma",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

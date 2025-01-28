@@ -1,0 +1,11 @@
+{
+  "id": "abea8b1d-2621-4e3a-94eb-843fd1279b87",
+  "object": "beer",
+  "name": "The Daily IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

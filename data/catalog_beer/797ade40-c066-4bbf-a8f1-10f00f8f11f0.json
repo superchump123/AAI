@@ -1,0 +1,11 @@
+{
+  "id": "797ade40-c066-4bbf-a8f1-10f00f8f11f0",
+  "object": "beer",
+  "name": "Dockside Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cf93fa5a-dc7a-475a-8fc0-73c7fec0b221",
+  "object": "beer",
+  "name": "Wittekirke Framboise",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

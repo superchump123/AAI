@@ -1,0 +1,11 @@
+{
+  "id": "17b471da-8131-4005-b921-75ff97f40cfb",
+  "object": "beer",
+  "name": "Easy Street Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

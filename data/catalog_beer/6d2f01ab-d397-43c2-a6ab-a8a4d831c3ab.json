@@ -1,0 +1,11 @@
+{
+  "id": "6d2f01ab-d397-43c2-a6ab-a8a4d831c3ab",
+  "object": "beer",
+  "name": "Phantom Ship",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

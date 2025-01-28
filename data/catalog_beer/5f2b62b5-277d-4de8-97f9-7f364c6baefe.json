@@ -1,0 +1,11 @@
+{
+  "id": "5f2b62b5-277d-4de8-97f9-7f364c6baefe",
+  "object": "beer",
+  "name": "Black Raven",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

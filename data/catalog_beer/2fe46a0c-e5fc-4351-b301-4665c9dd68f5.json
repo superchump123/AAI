@@ -1,0 +1,11 @@
+{
+  "id": "2fe46a0c-e5fc-4351-b301-4665c9dd68f5",
+  "object": "beer",
+  "name": "Lothry",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

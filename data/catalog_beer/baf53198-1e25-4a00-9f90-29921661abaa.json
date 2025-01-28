@@ -1,0 +1,11 @@
+{
+  "id": "baf53198-1e25-4a00-9f90-29921661abaa",
+  "object": "beer",
+  "name": "Passiflora",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

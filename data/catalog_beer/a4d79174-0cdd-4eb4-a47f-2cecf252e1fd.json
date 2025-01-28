@@ -1,0 +1,11 @@
+{
+  "id": "a4d79174-0cdd-4eb4-a47f-2cecf252e1fd",
+  "object": "beer",
+  "name": "Blood & Honey",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

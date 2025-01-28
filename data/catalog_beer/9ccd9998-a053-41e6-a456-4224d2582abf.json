@@ -1,0 +1,11 @@
+{
+  "id": "9ccd9998-a053-41e6-a456-4224d2582abf",
+  "object": "beer",
+  "name": "Lake Orion Light",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

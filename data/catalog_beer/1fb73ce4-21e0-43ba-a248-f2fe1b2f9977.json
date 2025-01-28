@@ -1,0 +1,11 @@
+{
+  "id": "1fb73ce4-21e0-43ba-a248-f2fe1b2f9977",
+  "object": "beer",
+  "name": "Rule: 16 Rye Pale Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

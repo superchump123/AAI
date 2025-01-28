@@ -1,0 +1,11 @@
+{
+  "id": "a6f2007a-af33-4885-a46b-fa478b9655ed",
+  "object": "beer",
+  "name": "Old Soul",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

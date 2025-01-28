@@ -1,0 +1,11 @@
+{
+  "id": "0482cc4e-89aa-480b-9701-740b4ca729cd",
+  "object": "beer",
+  "name": "Hickory Tree American Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

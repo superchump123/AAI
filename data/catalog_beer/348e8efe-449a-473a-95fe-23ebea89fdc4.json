@@ -1,0 +1,11 @@
+{
+  "id": "348e8efe-449a-473a-95fe-23ebea89fdc4",
+  "object": "beer",
+  "name": "Sergeyevna Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

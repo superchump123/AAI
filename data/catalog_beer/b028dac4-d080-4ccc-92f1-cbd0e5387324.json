@@ -1,0 +1,11 @@
+{
+  "id": "b028dac4-d080-4ccc-92f1-cbd0e5387324",
+  "object": "beer",
+  "name": "Eau Gallie Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

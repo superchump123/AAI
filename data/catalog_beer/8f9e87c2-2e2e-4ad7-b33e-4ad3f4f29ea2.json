@@ -1,0 +1,11 @@
+{
+  "id": "8f9e87c2-2e2e-4ad7-b33e-4ad3f4f29ea2",
+  "object": "beer",
+  "name": "Kilty",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

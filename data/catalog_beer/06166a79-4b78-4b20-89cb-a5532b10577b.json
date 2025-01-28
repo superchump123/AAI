@@ -1,0 +1,11 @@
+{
+  "id": "06166a79-4b78-4b20-89cb-a5532b10577b",
+  "object": "beer",
+  "name": "Holy Grail",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

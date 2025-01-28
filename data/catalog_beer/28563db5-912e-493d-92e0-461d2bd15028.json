@@ -1,0 +1,11 @@
+{
+  "id": "28563db5-912e-493d-92e0-461d2bd15028",
+  "object": "beer",
+  "name": "Scotch Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

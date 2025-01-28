@@ -1,0 +1,11 @@
+{
+  "id": "e0a4cc7e-6ec8-4f7b-9375-0c7efe7daf51",
+  "object": "beer",
+  "name": "DAX - India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

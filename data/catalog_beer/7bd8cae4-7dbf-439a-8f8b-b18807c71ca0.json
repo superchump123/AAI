@@ -1,0 +1,11 @@
+{
+  "id": "7bd8cae4-7dbf-439a-8f8b-b18807c71ca0",
+  "object": "beer",
+  "name": "White Noise",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

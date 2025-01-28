@@ -1,0 +1,11 @@
+{
+  "id": "1054cef7-0e1a-4969-86d4-011d49deffc3",
+  "object": "beer",
+  "name": "Unlucky Lager",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

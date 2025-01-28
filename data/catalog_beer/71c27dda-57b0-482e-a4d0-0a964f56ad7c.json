@@ -1,0 +1,11 @@
+{
+  "id": "71c27dda-57b0-482e-a4d0-0a964f56ad7c",
+  "object": "beer",
+  "name": "Wilder",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

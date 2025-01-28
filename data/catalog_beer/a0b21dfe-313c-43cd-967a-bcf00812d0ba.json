@@ -1,0 +1,11 @@
+{
+  "id": "a0b21dfe-313c-43cd-967a-bcf00812d0ba",
+  "object": "beer",
+  "name": "Draft",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

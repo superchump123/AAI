@@ -1,0 +1,11 @@
+{
+  "id": "53292a11-89fc-463a-9217-078e096ae7b2",
+  "object": "beer",
+  "name": "Fresh Nugs",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

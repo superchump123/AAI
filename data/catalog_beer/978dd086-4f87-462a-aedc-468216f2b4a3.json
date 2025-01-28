@@ -1,0 +1,11 @@
+{
+  "id": "978dd086-4f87-462a-aedc-468216f2b4a3",
+  "object": "beer",
+  "name": "Olvi Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

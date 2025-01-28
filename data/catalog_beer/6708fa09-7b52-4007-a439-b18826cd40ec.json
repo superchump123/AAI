@@ -1,0 +1,11 @@
+{
+  "id": "6708fa09-7b52-4007-a439-b18826cd40ec",
+  "object": "beer",
+  "name": "Alt-Bier With Augie's Coffee And Maple Syrup",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "83505c2d-71ff-4fe8-8948-6b0d671ec647",
+  "object": "beer",
+  "name": "Old Crafty Hen",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b94cf971-2197-45b9-8a84-babd990b045a",
+  "object": "beer",
+  "name": "Simcoe Motion",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

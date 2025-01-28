@@ -1,0 +1,11 @@
+{
+  "id": "42402d80-2ec2-486d-bf33-9d03ec4c7412",
+  "object": "beer",
+  "name": "Lake Day",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b8170556-492a-44a3-8807-ca87da7e34f9",
+  "object": "beer",
+  "name": "Nut Hatchet",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

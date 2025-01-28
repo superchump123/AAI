@@ -1,0 +1,11 @@
+{
+  "id": "c1f825d1-8278-4b7b-bdcd-33d145963a39",
+  "object": "beer",
+  "name": "Anastasia's Chocolate Fantasy",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

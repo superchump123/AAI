@@ -1,0 +1,11 @@
+{
+  "id": "e14d4c91-0e88-49ff-a83a-ffe0b94416e1",
+  "object": "beer",
+  "name": "Wind Forest Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

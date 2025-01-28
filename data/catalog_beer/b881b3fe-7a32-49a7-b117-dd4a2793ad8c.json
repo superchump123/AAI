@@ -1,0 +1,11 @@
+{
+  "id": "b881b3fe-7a32-49a7-b117-dd4a2793ad8c",
+  "object": "beer",
+  "name": "Widowmaker Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

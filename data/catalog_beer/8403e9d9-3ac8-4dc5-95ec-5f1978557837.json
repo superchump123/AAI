@@ -1,0 +1,11 @@
+{
+  "id": "8403e9d9-3ac8-4dc5-95ec-5f1978557837",
+  "object": "beer",
+  "name": "Gold Digger IPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

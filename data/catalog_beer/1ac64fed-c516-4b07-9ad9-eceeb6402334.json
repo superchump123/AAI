@@ -1,0 +1,11 @@
+{
+  "id": "1ac64fed-c516-4b07-9ad9-eceeb6402334",
+  "object": "beer",
+  "name": "Plaid Bastard",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

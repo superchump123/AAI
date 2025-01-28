@@ -1,0 +1,11 @@
+{
+  "id": "850a04a3-7e84-42d9-bc3d-fa063b2c037f",
+  "object": "beer",
+  "name": "Crazy Daizy",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

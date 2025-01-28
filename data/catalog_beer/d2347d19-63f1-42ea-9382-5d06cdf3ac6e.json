@@ -1,0 +1,11 @@
+{
+  "id": "d2347d19-63f1-42ea-9382-5d06cdf3ac6e",
+  "object": "beer",
+  "name": "Hi-Res",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 115,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "536d3d6f-9ef2-4ea1-b721-b85f0c251fda",
+  "object": "beer",
+  "name": "Export",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "130dc017-b3c7-46e5-a3b8-a865fea6bbc6",
+  "object": "beer",
+  "name": "Unicycle Single Hop Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

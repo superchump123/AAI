@@ -1,0 +1,11 @@
+{
+  "id": "fa753cf4-15ba-4957-9f5f-8552cd1a4589",
+  "object": "beer",
+  "name": "Handtruck Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

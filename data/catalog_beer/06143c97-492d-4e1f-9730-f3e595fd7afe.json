@@ -1,0 +1,11 @@
+{
+  "id": "06143c97-492d-4e1f-9730-f3e595fd7afe",
+  "object": "beer",
+  "name": "Malteser Weissbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "77817e54-a882-4d88-a907-1b0157e40725",
+  "object": "beer",
+  "name": "Jack the Sipper",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

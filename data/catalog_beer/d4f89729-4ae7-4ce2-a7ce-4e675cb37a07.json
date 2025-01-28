@@ -1,0 +1,11 @@
+{
+  "id": "d4f89729-4ae7-4ce2-a7ce-4e675cb37a07",
+  "object": "beer",
+  "name": "Barrel Aged Old Rasputin",
+  "style": "Wood- and Barrel-Aged Dark Beer",
+  "description": null,
+  "abv": 12.1,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

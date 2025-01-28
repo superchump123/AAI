@@ -1,0 +1,11 @@
+{
+  "id": "31329d7e-8f83-461f-9fdb-24e9bd625774",
+  "object": "beer",
+  "name": "Dangerous Frank",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

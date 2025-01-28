@@ -1,0 +1,11 @@
+{
+  "id": "ac795929-5f11-4e47-afcc-e1c13f898f3e",
+  "object": "beer",
+  "name": "Udderly Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

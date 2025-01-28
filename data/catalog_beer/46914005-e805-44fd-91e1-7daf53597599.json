@@ -1,0 +1,11 @@
+{
+  "id": "46914005-e805-44fd-91e1-7daf53597599",
+  "object": "beer",
+  "name": "Cascadian Dark Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

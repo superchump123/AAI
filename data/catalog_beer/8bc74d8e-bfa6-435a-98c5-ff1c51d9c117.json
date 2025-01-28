@@ -1,0 +1,11 @@
+{
+  "id": "8bc74d8e-bfa6-435a-98c5-ff1c51d9c117",
+  "object": "beer",
+  "name": "Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

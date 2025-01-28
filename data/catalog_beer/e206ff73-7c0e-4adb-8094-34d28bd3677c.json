@@ -1,0 +1,11 @@
+{
+  "id": "e206ff73-7c0e-4adb-8094-34d28bd3677c",
+  "object": "beer",
+  "name": "Traditional Belgian Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

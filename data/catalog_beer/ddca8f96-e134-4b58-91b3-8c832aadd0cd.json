@@ -1,0 +1,11 @@
+{
+  "id": "ddca8f96-e134-4b58-91b3-8c832aadd0cd",
+  "object": "beer",
+  "name": "Eichbaum Apostulator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

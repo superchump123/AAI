@@ -1,0 +1,11 @@
+{
+  "id": "6bb3e101-9cdd-47e5-93af-0a4d9e66c51c",
+  "object": "beer",
+  "name": "Bad Tom Smith",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

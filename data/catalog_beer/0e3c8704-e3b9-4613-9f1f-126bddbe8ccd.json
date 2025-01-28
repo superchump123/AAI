@@ -1,0 +1,11 @@
+{
+  "id": "0e3c8704-e3b9-4613-9f1f-126bddbe8ccd",
+  "object": "beer",
+  "name": "Abby's Abbey Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

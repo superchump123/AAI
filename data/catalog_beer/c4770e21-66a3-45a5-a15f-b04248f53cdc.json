@@ -1,0 +1,11 @@
+{
+  "id": "c4770e21-66a3-45a5-a15f-b04248f53cdc",
+  "object": "beer",
+  "name": "Ten Fifty",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

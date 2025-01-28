@@ -1,0 +1,11 @@
+{
+  "id": "53ed5970-7864-4171-8cf6-ad91135f3122",
+  "object": "beer",
+  "name": "Mudbogger",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

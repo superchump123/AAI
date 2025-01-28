@@ -1,0 +1,11 @@
+{
+  "id": "04c6cb5e-2f52-4ab3-b338-e4c8f7293e2b",
+  "object": "beer",
+  "name": "Russet",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

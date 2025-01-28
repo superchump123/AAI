@@ -1,0 +1,11 @@
+{
+  "id": "35ec61a2-1e2c-4209-81df-feef389c3762",
+  "object": "beer",
+  "name": "Rough Rider Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

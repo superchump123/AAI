@@ -1,0 +1,11 @@
+{
+  "id": "b7b2e134-0d28-447c-aa65-fb5b8bad0b73",
+  "object": "beer",
+  "name": "Eve's Tuition",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

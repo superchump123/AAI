@@ -1,0 +1,11 @@
+{
+  "id": "a068e6b5-b248-49ae-aa41-a125caffe14c",
+  "object": "beer",
+  "name": "Classic Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

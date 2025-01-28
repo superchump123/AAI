@@ -1,0 +1,11 @@
+{
+  "id": "449e8b31-7d62-45e3-ba42-c5431298746f",
+  "object": "beer",
+  "name": "Intergalactic Jack",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

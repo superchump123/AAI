@@ -1,0 +1,11 @@
+{
+  "id": "6d044751-4745-48d0-ab4d-f98450f4a4b0",
+  "object": "beer",
+  "name": "La Di Dah",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

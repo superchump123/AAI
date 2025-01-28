@@ -1,0 +1,11 @@
+{
+  "id": "0a52e681-2a95-4951-aba0-d6870f13fb74",
+  "object": "beer",
+  "name": "The Big One",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

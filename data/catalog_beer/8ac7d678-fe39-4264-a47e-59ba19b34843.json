@@ -1,0 +1,11 @@
+{
+  "id": "8ac7d678-fe39-4264-a47e-59ba19b34843",
+  "object": "beer",
+  "name": "Black Rock Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

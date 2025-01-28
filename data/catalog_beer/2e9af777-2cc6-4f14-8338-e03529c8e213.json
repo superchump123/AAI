@@ -1,0 +1,11 @@
+{
+  "id": "2e9af777-2cc6-4f14-8338-e03529c8e213",
+  "object": "beer",
+  "name": "Black Betty Schwartzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

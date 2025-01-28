@@ -1,0 +1,11 @@
+{
+  "id": "cafca796-d89a-4549-8b5a-f148fec0cab8",
+  "object": "beer",
+  "name": "Flemish Kiss",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

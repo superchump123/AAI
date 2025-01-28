@@ -1,0 +1,11 @@
+{
+  "id": "70d92b81-b6fa-4100-aedf-5ea0c7b2bbe4",
+  "object": "beer",
+  "name": "Bl\u00e4k",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

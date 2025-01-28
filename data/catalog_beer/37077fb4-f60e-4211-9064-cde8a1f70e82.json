@@ -1,0 +1,11 @@
+{
+  "id": "37077fb4-f60e-4211-9064-cde8a1f70e82",
+  "object": "beer",
+  "name": "Bink Kriek",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

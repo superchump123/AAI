@@ -1,0 +1,11 @@
+{
+  "id": "6a575d93-9aa1-43f3-aed6-2cddd93d27d4",
+  "object": "beer",
+  "name": "Nova Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

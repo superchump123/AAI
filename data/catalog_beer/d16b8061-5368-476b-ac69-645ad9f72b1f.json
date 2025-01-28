@@ -1,0 +1,11 @@
+{
+  "id": "d16b8061-5368-476b-ac69-645ad9f72b1f",
+  "object": "beer",
+  "name": "Prisma",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

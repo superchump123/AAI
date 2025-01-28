@@ -1,0 +1,11 @@
+{
+  "id": "0361ace2-8df1-4d66-8072-23681c648fc0",
+  "object": "beer",
+  "name": "Wild Elf",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

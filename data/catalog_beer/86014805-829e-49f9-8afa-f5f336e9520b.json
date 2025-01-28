@@ -1,0 +1,11 @@
+{
+  "id": "86014805-829e-49f9-8afa-f5f336e9520b",
+  "object": "beer",
+  "name": "Red MacGregor",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

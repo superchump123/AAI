@@ -1,0 +1,11 @@
+{
+  "id": "24ace732-0843-4e9f-a969-c2c893961eee",
+  "object": "beer",
+  "name": "Weiss Weiss Baby",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bea44970-5b3c-4659-ad48-d332e0fcc8bb",
+  "object": "beer",
+  "name": "Meeting of the Minds",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

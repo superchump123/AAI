@@ -1,0 +1,11 @@
+{
+  "id": "082bb8e2-04c2-403c-8b1b-1a285e49d0eb",
+  "object": "beer",
+  "name": "Florida Man",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

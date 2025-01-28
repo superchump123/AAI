@@ -1,0 +1,11 @@
+{
+  "id": "e52dd55b-007a-4f12-ba42-9fc328ab21e6",
+  "object": "beer",
+  "name": "Schwarzinger",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

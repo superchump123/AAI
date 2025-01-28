@@ -1,0 +1,11 @@
+{
+  "id": "bdbfdabe-df70-416e-9cb1-1a1272579485",
+  "object": "beer",
+  "name": "Solidarity Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

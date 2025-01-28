@@ -1,0 +1,11 @@
+{
+  "id": "e9053d93-3e0f-485c-a43e-59b359bdb4d1",
+  "object": "beer",
+  "name": "Heaven's Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

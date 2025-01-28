@@ -1,0 +1,11 @@
+{
+  "id": "5c357aa8-aeeb-44bb-807e-2541e00e2a9d",
+  "object": "beer",
+  "name": "Slipstream",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

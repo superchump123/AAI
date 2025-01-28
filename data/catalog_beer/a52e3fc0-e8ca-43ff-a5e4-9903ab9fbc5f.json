@@ -1,0 +1,11 @@
+{
+  "id": "a52e3fc0-e8ca-43ff-a5e4-9903ab9fbc5f",
+  "object": "beer",
+  "name": "Moosbacher Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0fb0a726-015e-4a77-bb0a-2e3a7fbe4051",
+  "object": "beer",
+  "name": "Port Hole Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

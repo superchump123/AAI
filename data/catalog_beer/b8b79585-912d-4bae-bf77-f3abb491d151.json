@@ -1,0 +1,11 @@
+{
+  "id": "b8b79585-912d-4bae-bf77-f3abb491d151",
+  "object": "beer",
+  "name": "Green Mountain Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

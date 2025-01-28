@@ -1,0 +1,11 @@
+{
+  "id": "21cef7b5-f5a6-40ce-b03a-a248cc4879de",
+  "object": "beer",
+  "name": "Antsy Prole",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a23cc7a-47e3-4153-b0cb-f789e80433d2",
+  "object": "beer",
+  "name": "Centennial Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

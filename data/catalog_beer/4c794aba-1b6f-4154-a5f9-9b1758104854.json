@@ -1,0 +1,11 @@
+{
+  "id": "4c794aba-1b6f-4154-a5f9-9b1758104854",
+  "object": "beer",
+  "name": "Spider Bite",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

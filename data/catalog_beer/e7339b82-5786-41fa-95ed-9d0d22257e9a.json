@@ -1,0 +1,11 @@
+{
+  "id": "e7339b82-5786-41fa-95ed-9d0d22257e9a",
+  "object": "beer",
+  "name": "AV8R",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

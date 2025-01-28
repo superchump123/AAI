@@ -1,0 +1,11 @@
+{
+  "id": "6269f265-aed7-429e-9dcb-98e42d03447f",
+  "object": "beer",
+  "name": "BBR",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

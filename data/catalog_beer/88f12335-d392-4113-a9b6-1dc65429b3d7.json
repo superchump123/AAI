@@ -1,0 +1,11 @@
+{
+  "id": "88f12335-d392-4113-a9b6-1dc65429b3d7",
+  "object": "beer",
+  "name": "The Black Dahlia",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

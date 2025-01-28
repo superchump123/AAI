@@ -1,0 +1,11 @@
+{
+  "id": "2ce6a7ba-51dd-4a89-984c-55341fc33b86",
+  "object": "beer",
+  "name": "Lunatic",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

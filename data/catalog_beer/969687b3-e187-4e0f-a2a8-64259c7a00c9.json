@@ -1,0 +1,11 @@
+{
+  "id": "969687b3-e187-4e0f-a2a8-64259c7a00c9",
+  "object": "beer",
+  "name": "Sweet Heat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

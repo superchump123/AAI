@@ -1,0 +1,11 @@
+{
+  "id": "315b7ccd-9fb8-4e7d-80d5-4b2b2f2bacc3",
+  "object": "beer",
+  "name": "Al-Dabeyoun",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

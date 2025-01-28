@@ -1,0 +1,11 @@
+{
+  "id": "b8845150-aee6-48ac-9451-5a3827a30cc3",
+  "object": "beer",
+  "name": "Black Beauty Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

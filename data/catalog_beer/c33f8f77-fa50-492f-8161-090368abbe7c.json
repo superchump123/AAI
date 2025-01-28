@@ -1,0 +1,11 @@
+{
+  "id": "c33f8f77-fa50-492f-8161-090368abbe7c",
+  "object": "beer",
+  "name": "L'ete",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

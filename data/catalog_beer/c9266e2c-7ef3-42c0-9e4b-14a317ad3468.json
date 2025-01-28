@@ -1,0 +1,11 @@
+{
+  "id": "c9266e2c-7ef3-42c0-9e4b-14a317ad3468",
+  "object": "beer",
+  "name": "Munich Dunkel",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

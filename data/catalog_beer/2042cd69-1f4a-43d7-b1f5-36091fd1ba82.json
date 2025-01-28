@@ -1,0 +1,11 @@
+{
+  "id": "2042cd69-1f4a-43d7-b1f5-36091fd1ba82",
+  "object": "beer",
+  "name": "Speight's Summit Lager",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

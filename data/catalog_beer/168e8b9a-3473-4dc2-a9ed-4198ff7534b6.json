@@ -1,0 +1,11 @@
+{
+  "id": "168e8b9a-3473-4dc2-a9ed-4198ff7534b6",
+  "object": "beer",
+  "name": "Corsair Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

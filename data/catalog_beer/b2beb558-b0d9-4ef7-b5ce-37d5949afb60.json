@@ -1,0 +1,11 @@
+{
+  "id": "b2beb558-b0d9-4ef7-b5ce-37d5949afb60",
+  "object": "beer",
+  "name": "Old Double Bagger Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

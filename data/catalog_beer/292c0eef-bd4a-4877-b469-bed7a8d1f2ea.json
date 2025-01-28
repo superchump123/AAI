@@ -1,0 +1,11 @@
+{
+  "id": "292c0eef-bd4a-4877-b469-bed7a8d1f2ea",
+  "object": "beer",
+  "name": "Gaelic Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

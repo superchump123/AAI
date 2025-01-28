@@ -1,0 +1,11 @@
+{
+  "id": "4cd42a2f-d8c4-4bbb-9744-3e2e997bb1be",
+  "object": "beer",
+  "name": "Mystical Jack",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

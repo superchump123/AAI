@@ -1,0 +1,11 @@
+{
+  "id": "5e04a953-f4e4-481e-afdd-a27ba160efad",
+  "object": "beer",
+  "name": "EPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

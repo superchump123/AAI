@@ -1,0 +1,11 @@
+{
+  "id": "5f1ead3b-a656-4ee8-b3a3-879e83193838",
+  "object": "beer",
+  "name": "No. 26 Black India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

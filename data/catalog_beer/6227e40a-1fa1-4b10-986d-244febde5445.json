@@ -1,0 +1,11 @@
+{
+  "id": "6227e40a-1fa1-4b10-986d-244febde5445",
+  "object": "beer",
+  "name": "The BIG DIPL",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

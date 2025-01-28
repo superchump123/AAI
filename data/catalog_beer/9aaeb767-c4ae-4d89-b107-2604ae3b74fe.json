@@ -1,0 +1,11 @@
+{
+  "id": "9aaeb767-c4ae-4d89-b107-2604ae3b74fe",
+  "object": "beer",
+  "name": "Yardsale Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

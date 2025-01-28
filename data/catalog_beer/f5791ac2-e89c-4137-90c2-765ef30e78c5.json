@@ -1,0 +1,11 @@
+{
+  "id": "f5791ac2-e89c-4137-90c2-765ef30e78c5",
+  "object": "beer",
+  "name": "Speed Merchant",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

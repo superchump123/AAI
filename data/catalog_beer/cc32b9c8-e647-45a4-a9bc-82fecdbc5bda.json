@@ -1,0 +1,11 @@
+{
+  "id": "cc32b9c8-e647-45a4-a9bc-82fecdbc5bda",
+  "object": "beer",
+  "name": "BJ's LightSwitch Lager",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

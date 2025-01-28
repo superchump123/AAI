@@ -1,0 +1,11 @@
+{
+  "id": "467c3cc2-4fda-4209-8343-50c47100b51c",
+  "object": "beer",
+  "name": "Renewal",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

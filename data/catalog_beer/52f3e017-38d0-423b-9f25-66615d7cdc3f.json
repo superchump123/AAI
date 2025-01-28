@@ -1,0 +1,11 @@
+{
+  "id": "52f3e017-38d0-423b-9f25-66615d7cdc3f",
+  "object": "beer",
+  "name": "Plumptuous",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

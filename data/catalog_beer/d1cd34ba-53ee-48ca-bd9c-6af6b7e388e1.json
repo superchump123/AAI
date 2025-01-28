@@ -1,0 +1,11 @@
+{
+  "id": "d1cd34ba-53ee-48ca-bd9c-6af6b7e388e1",
+  "object": "beer",
+  "name": "Teppistenbier",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 1.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

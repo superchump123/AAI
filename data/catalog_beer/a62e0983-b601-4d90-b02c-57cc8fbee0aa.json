@@ -1,0 +1,11 @@
+{
+  "id": "a62e0983-b601-4d90-b02c-57cc8fbee0aa",
+  "object": "beer",
+  "name": "Iota IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3c5c70e9-73b9-47cd-b571-26e147070864",
+  "object": "beer",
+  "name": "Ryeday the 13th",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 12,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

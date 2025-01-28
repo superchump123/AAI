@@ -1,0 +1,11 @@
+{
+  "id": "1dbb8db4-8dea-4ff6-87f0-72a696d9fbc5",
+  "object": "beer",
+  "name": "Crop Circle",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8b45a9e2-5cb2-4a02-9153-1f689dd16de4",
+  "object": "beer",
+  "name": "Barrel Aged Ltd. Edition",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

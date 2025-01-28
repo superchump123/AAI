@@ -1,0 +1,11 @@
+{
+  "id": "a8baabbe-367e-4d6a-b598-84d16827a4fc",
+  "object": "beer",
+  "name": "Redfish IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

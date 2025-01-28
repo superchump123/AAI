@@ -1,0 +1,11 @@
+{
+  "id": "05a10758-31c0-4a1b-9447-a482a4e87052",
+  "object": "beer",
+  "name": "Ochakovo Premium",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

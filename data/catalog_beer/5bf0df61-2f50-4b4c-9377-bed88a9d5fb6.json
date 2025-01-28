@@ -1,0 +1,11 @@
+{
+  "id": "5bf0df61-2f50-4b4c-9377-bed88a9d5fb6",
+  "object": "beer",
+  "name": "Coyote Spirit",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

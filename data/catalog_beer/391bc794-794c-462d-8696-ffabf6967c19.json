@@ -1,0 +1,11 @@
+{
+  "id": "391bc794-794c-462d-8696-ffabf6967c19",
+  "object": "beer",
+  "name": "Test Batch #1",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

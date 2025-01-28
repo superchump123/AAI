@@ -1,0 +1,11 @@
+{
+  "id": "99a5544e-5c49-47a0-962b-a20f35ae282a",
+  "object": "beer",
+  "name": "Red Headed Stranger",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa4fd830-7fb4-42b6-8bbe-c2c4f07b3a02",
+  "object": "beer",
+  "name": "Sourless IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

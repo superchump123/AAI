@@ -1,0 +1,11 @@
+{
+  "id": "c0afbf3d-dbe0-40b2-b382-d6e108d2ad6a",
+  "object": "beer",
+  "name": "Organic Real Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

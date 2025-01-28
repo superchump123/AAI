@@ -1,0 +1,11 @@
+{
+  "id": "11378617-aa8b-4e8a-88c1-1375c5987296",
+  "object": "beer",
+  "name": "Reclamation",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f27de5de-d5ee-411d-9d47-049dd3be4a7a",
+  "object": "beer",
+  "name": "Howling  Cow",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

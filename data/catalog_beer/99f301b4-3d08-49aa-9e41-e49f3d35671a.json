@@ -1,0 +1,11 @@
+{
+  "id": "99f301b4-3d08-49aa-9e41-e49f3d35671a",
+  "object": "beer",
+  "name": "Dundee Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

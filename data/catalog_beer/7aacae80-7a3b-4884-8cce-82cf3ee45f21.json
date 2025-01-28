@@ -1,0 +1,11 @@
+{
+  "id": "7aacae80-7a3b-4884-8cce-82cf3ee45f21",
+  "object": "beer",
+  "name": "Go West IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

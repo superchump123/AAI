@@ -1,0 +1,11 @@
+{
+  "id": "6a0fb523-f09b-42e2-b4f2-1339787a560f",
+  "object": "beer",
+  "name": "Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

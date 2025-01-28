@@ -1,0 +1,11 @@
+{
+  "id": "f776fc66-10a7-4ca2-94b0-e0048e36763d",
+  "object": "beer",
+  "name": "Tilt Shift",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

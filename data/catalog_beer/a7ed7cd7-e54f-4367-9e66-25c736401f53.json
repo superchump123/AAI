@@ -1,0 +1,11 @@
+{
+  "id": "a7ed7cd7-e54f-4367-9e66-25c736401f53",
+  "object": "beer",
+  "name": "Hot-Jala Heim Beer with Bite",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

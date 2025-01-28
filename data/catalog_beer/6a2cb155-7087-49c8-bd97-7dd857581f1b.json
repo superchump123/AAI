@@ -1,0 +1,11 @@
+{
+  "id": "6a2cb155-7087-49c8-bd97-7dd857581f1b",
+  "object": "beer",
+  "name": "Brite Day Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

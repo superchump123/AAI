@@ -1,0 +1,11 @@
+{
+  "id": "48575791-821f-4a89-a419-616fe619c8cc",
+  "object": "beer",
+  "name": "Doe in Heat",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

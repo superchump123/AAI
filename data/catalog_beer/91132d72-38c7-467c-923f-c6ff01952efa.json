@@ -1,0 +1,11 @@
+{
+  "id": "91132d72-38c7-467c-923f-c6ff01952efa",
+  "object": "beer",
+  "name": "Arctic Berry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

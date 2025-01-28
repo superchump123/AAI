@@ -1,0 +1,11 @@
+{
+  "id": "3b367ea8-2fa8-4743-bfd9-21ebb6c2c19e",
+  "object": "beer",
+  "name": "Jenaer Alt-Jenaer",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

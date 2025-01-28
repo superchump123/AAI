@@ -1,0 +1,11 @@
+{
+  "id": "77dca58f-62ef-4167-ad9d-565c0244cebd",
+  "object": "beer",
+  "name": "Chocolate Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

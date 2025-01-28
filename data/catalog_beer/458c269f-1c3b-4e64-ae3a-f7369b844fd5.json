@@ -1,0 +1,11 @@
+{
+  "id": "458c269f-1c3b-4e64-ae3a-f7369b844fd5",
+  "object": "beer",
+  "name": "Helms Dunkler Bock",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

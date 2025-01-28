@@ -1,0 +1,11 @@
+{
+  "id": "fd6e613f-8424-4cb2-aa1c-e00fa06cd4ad",
+  "object": "beer",
+  "name": "Stentorian",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.3,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

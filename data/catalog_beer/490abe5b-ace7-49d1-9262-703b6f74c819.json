@@ -1,0 +1,11 @@
+{
+  "id": "490abe5b-ace7-49d1-9262-703b6f74c819",
+  "object": "beer",
+  "name": "Scotch De Silly",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

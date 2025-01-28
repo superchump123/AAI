@@ -1,0 +1,11 @@
+{
+  "id": "747ed645-73b3-4c3d-984d-20bd31d08717",
+  "object": "beer",
+  "name": "Northern Lite",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

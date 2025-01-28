@@ -1,0 +1,11 @@
+{
+  "id": "3dc05299-e17c-4428-9b32-683993ec10fb",
+  "object": "beer",
+  "name": "Lukcy Basartd Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6c938a86-5f3f-49d5-826c-a9241f4b74df",
+  "object": "beer",
+  "name": "Doc's Extra Special Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

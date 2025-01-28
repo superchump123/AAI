@@ -1,0 +1,11 @@
+{
+  "id": "4699c574-8a05-4c86-8c6e-b26f9a84c598",
+  "object": "beer",
+  "name": "Lemon Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

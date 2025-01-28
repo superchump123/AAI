@@ -1,0 +1,11 @@
+{
+  "id": "c9cec0f3-a343-47c8-9dbd-2f0b8748c0c4",
+  "object": "beer",
+  "name": "Dankbot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 91,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

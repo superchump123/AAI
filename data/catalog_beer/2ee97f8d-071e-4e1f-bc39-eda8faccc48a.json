@@ -1,0 +1,11 @@
+{
+  "id": "2ee97f8d-071e-4e1f-bc39-eda8faccc48a",
+  "object": "beer",
+  "name": "Ghettoblaster",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

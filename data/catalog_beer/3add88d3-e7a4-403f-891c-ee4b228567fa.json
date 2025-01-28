@@ -1,0 +1,11 @@
+{
+  "id": "3add88d3-e7a4-403f-891c-ee4b228567fa",
+  "object": "beer",
+  "name": "Red, White & Boom",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

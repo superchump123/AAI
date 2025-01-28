@@ -1,0 +1,11 @@
+{
+  "id": "b67dba85-e03b-44af-bd31-72e4de79341e",
+  "object": "beer",
+  "name": "Black Lager",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "53492339-59c9-4b11-a9fe-48a9819881bb",
+  "object": "beer",
+  "name": "The Avenger",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

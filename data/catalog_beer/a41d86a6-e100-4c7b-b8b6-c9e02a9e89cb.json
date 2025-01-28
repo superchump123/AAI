@@ -1,0 +1,11 @@
+{
+  "id": "a41d86a6-e100-4c7b-b8b6-c9e02a9e89cb",
+  "object": "beer",
+  "name": "Susquehanna Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

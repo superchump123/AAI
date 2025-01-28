@@ -1,0 +1,11 @@
+{
+  "id": "2f9ac1fe-a69a-42ad-993c-13f6fabaa97a",
+  "object": "beer",
+  "name": "Airdale Dark & Stormy",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

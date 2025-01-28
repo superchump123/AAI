@@ -1,0 +1,11 @@
+{
+  "id": "f66d81cb-02be-4232-9040-27d16c2b395c",
+  "object": "beer",
+  "name": "Basement Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

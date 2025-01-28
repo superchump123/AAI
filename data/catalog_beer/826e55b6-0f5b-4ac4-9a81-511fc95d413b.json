@@ -1,0 +1,11 @@
+{
+  "id": "826e55b6-0f5b-4ac4-9a81-511fc95d413b",
+  "object": "beer",
+  "name": "Gulden Draak Vintage",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

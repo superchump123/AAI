@@ -1,0 +1,11 @@
+{
+  "id": "845f5dc2-8eb9-46b0-a930-f09622f00294",
+  "object": "beer",
+  "name": "Wit'er Park",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

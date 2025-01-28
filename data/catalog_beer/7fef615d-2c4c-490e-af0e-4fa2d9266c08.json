@@ -1,0 +1,11 @@
+{
+  "id": "7fef615d-2c4c-490e-af0e-4fa2d9266c08",
+  "object": "beer",
+  "name": "Silver Star Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

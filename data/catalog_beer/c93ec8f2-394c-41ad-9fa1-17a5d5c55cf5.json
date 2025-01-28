@@ -1,0 +1,11 @@
+{
+  "id": "c93ec8f2-394c-41ad-9fa1-17a5d5c55cf5",
+  "object": "beer",
+  "name": "Little Red RooStarr",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

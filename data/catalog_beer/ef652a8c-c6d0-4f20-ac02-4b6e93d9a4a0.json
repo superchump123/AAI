@@ -1,0 +1,11 @@
+{
+  "id": "ef652a8c-c6d0-4f20-ac02-4b6e93d9a4a0",
+  "object": "beer",
+  "name": "Loose Tongue Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

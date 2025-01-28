@@ -1,0 +1,11 @@
+{
+  "id": "c08f0497-ee1c-46ae-a9c4-b2aff6b885a1",
+  "object": "beer",
+  "name": "Lavender Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

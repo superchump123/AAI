@@ -1,0 +1,11 @@
+{
+  "id": "712af81b-6683-4478-8ada-aac2cce76c90",
+  "object": "beer",
+  "name": "My Li'l Brony",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "78365ff2-d0ca-4074-8777-0071aa9621e7",
+  "object": "beer",
+  "name": "Jupiter Quasar",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

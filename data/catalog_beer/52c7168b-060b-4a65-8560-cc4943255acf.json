@@ -1,0 +1,11 @@
+{
+  "id": "52c7168b-060b-4a65-8560-cc4943255acf",
+  "object": "beer",
+  "name": "Hearty Ale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

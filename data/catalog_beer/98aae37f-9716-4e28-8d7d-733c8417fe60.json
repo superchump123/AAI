@@ -1,0 +1,11 @@
+{
+  "id": "98aae37f-9716-4e28-8d7d-733c8417fe60",
+  "object": "beer",
+  "name": "Dissent Schwarzbier",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

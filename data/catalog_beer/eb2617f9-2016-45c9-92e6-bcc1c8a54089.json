@@ -1,0 +1,11 @@
+{
+  "id": "eb2617f9-2016-45c9-92e6-bcc1c8a54089",
+  "object": "beer",
+  "name": "Unrepentant",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

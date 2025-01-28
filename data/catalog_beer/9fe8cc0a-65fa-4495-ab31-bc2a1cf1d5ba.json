@@ -1,0 +1,11 @@
+{
+  "id": "9fe8cc0a-65fa-4495-ab31-bc2a1cf1d5ba",
+  "object": "beer",
+  "name": "Shark Attack",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

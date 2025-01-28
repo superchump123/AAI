@@ -1,0 +1,11 @@
+{
+  "id": "e3b687e2-a203-422d-b0b8-9bc3bf6b5854",
+  "object": "beer",
+  "name": "Table for Two",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

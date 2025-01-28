@@ -1,0 +1,11 @@
+{
+  "id": "6694a6b1-a926-447f-a077-65144409e732",
+  "object": "beer",
+  "name": "Extra Special Bart",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

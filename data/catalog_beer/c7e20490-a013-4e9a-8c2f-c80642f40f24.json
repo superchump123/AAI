@@ -1,0 +1,11 @@
+{
+  "id": "c7e20490-a013-4e9a-8c2f-c80642f40f24",
+  "object": "beer",
+  "name": "Imperial Honey Oak Porter (IHOP)",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

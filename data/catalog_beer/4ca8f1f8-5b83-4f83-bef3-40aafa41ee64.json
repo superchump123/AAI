@@ -1,0 +1,11 @@
+{
+  "id": "4ca8f1f8-5b83-4f83-bef3-40aafa41ee64",
+  "object": "beer",
+  "name": "Sessions ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

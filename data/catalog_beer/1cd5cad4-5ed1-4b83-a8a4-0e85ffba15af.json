@@ -1,0 +1,11 @@
+{
+  "id": "1cd5cad4-5ed1-4b83-a8a4-0e85ffba15af",
+  "object": "beer",
+  "name": "It\u2019s Alive!",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

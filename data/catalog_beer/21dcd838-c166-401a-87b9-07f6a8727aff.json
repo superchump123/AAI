@@ -1,0 +1,11 @@
+{
+  "id": "21dcd838-c166-401a-87b9-07f6a8727aff",
+  "object": "beer",
+  "name": "Sloth",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

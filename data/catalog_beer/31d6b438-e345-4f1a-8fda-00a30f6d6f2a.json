@@ -1,0 +1,11 @@
+{
+  "id": "31d6b438-e345-4f1a-8fda-00a30f6d6f2a",
+  "object": "beer",
+  "name": "Red Chaos",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

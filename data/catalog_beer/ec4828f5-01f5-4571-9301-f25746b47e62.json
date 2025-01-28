@@ -1,0 +1,11 @@
+{
+  "id": "ec4828f5-01f5-4571-9301-f25746b47e62",
+  "object": "beer",
+  "name": "Whiskey Cask Cider",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

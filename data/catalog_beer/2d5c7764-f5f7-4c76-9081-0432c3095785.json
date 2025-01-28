@@ -1,0 +1,11 @@
+{
+  "id": "2d5c7764-f5f7-4c76-9081-0432c3095785",
+  "object": "beer",
+  "name": "S.I.P.A",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 94,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

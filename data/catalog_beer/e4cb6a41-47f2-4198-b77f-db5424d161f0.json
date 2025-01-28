@@ -1,0 +1,11 @@
+{
+  "id": "e4cb6a41-47f2-4198-b77f-db5424d161f0",
+  "object": "beer",
+  "name": "Niksicko Tamno",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

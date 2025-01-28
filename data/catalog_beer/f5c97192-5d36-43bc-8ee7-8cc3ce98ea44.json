@@ -1,0 +1,11 @@
+{
+  "id": "f5c97192-5d36-43bc-8ee7-8cc3ce98ea44",
+  "object": "beer",
+  "name": "Lambton Dragon",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

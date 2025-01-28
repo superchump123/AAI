@@ -1,0 +1,11 @@
+{
+  "id": "1b24a3b3-3533-4184-b416-fa8a28d98aa5",
+  "object": "beer",
+  "name": "Ella",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

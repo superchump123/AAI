@@ -1,0 +1,11 @@
+{
+  "id": "f57d7148-a85d-4b83-a903-e9ad7907704d",
+  "object": "beer",
+  "name": "Chai Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b0882cd-d9f7-4972-be99-3c323c39c06a",
+  "object": "beer",
+  "name": "Valencia Gold",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

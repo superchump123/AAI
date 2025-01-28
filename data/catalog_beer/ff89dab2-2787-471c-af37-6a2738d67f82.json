@@ -1,0 +1,11 @@
+{
+  "id": "ff89dab2-2787-471c-af37-6a2738d67f82",
+  "object": "beer",
+  "name": "Bottomless Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

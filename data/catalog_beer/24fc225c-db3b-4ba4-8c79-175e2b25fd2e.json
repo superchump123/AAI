@@ -1,0 +1,11 @@
+{
+  "id": "24fc225c-db3b-4ba4-8c79-175e2b25fd2e",
+  "object": "beer",
+  "name": "Mozaccalypse",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

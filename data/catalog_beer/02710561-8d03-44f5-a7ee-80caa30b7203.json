@@ -1,0 +1,11 @@
+{
+  "id": "02710561-8d03-44f5-a7ee-80caa30b7203",
+  "object": "beer",
+  "name": "Hop Mountain",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

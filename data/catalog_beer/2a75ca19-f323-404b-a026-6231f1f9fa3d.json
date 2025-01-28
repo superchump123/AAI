@@ -1,0 +1,11 @@
+{
+  "id": "2a75ca19-f323-404b-a026-6231f1f9fa3d",
+  "object": "beer",
+  "name": "Hazed & Infused",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

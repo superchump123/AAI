@@ -1,0 +1,11 @@
+{
+  "id": "330bb3aa-4788-40cc-9b1d-2df1588e7b1b",
+  "object": "beer",
+  "name": "Chavez",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

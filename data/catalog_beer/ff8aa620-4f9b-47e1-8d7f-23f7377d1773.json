@@ -1,0 +1,11 @@
+{
+  "id": "ff8aa620-4f9b-47e1-8d7f-23f7377d1773",
+  "object": "beer",
+  "name": "Otis",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

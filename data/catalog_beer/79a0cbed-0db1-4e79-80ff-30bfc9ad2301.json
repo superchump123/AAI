@@ -1,0 +1,11 @@
+{
+  "id": "79a0cbed-0db1-4e79-80ff-30bfc9ad2301",
+  "object": "beer",
+  "name": "Bourbon Barrel Drafty Kilt",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7b503be1-ced2-40d8-b757-755804210b30",
+  "object": "beer",
+  "name": "White Grape",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c7f2ce1-0ba6-4484-9159-24a4b5066d28",
+  "object": "beer",
+  "name": "Mestiza",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 3,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

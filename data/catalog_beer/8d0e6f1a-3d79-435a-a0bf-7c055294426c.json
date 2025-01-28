@@ -1,0 +1,11 @@
+{
+  "id": "8d0e6f1a-3d79-435a-a0bf-7c055294426c",
+  "object": "beer",
+  "name": "Marianne",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

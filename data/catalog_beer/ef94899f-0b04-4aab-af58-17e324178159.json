@@ -1,0 +1,11 @@
+{
+  "id": "ef94899f-0b04-4aab-af58-17e324178159",
+  "object": "beer",
+  "name": "Saur D",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

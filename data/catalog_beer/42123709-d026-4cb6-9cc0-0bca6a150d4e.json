@@ -1,0 +1,11 @@
+{
+  "id": "42123709-d026-4cb6-9cc0-0bca6a150d4e",
+  "object": "beer",
+  "name": "Hopsplosion IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

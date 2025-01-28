@@ -1,0 +1,11 @@
+{
+  "id": "e73edab6-6e48-4899-a449-e9e7d2a08231",
+  "object": "beer",
+  "name": "Snowmageddon",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

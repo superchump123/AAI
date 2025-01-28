@@ -1,0 +1,11 @@
+{
+  "id": "4377792b-3120-42fc-8934-2e694878b7c8",
+  "object": "beer",
+  "name": "Ol' Grumpy Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

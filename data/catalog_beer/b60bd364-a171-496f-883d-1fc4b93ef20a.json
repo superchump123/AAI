@@ -1,0 +1,11 @@
+{
+  "id": "b60bd364-a171-496f-883d-1fc4b93ef20a",
+  "object": "beer",
+  "name": "BHB MVP",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

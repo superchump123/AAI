@@ -1,0 +1,11 @@
+{
+  "id": "86d07069-f497-42c7-a80d-ee2115637c58",
+  "object": "beer",
+  "name": "The Diffie Milk Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

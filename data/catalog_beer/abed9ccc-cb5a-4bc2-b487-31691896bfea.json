@@ -1,0 +1,11 @@
+{
+  "id": "abed9ccc-cb5a-4bc2-b487-31691896bfea",
+  "object": "beer",
+  "name": "Brother Dan's Double",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

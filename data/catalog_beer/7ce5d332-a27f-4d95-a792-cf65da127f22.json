@@ -1,0 +1,11 @@
+{
+  "id": "7ce5d332-a27f-4d95-a792-cf65da127f22",
+  "object": "beer",
+  "name": "Horse Power",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

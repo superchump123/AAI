@@ -1,0 +1,11 @@
+{
+  "id": "8758d51d-df15-4861-a8d5-d85cf36d9e2d",
+  "object": "beer",
+  "name": "Floundering Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

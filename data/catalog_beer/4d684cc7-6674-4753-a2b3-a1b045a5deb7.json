@@ -1,0 +1,11 @@
+{
+  "id": "4d684cc7-6674-4753-a2b3-a1b045a5deb7",
+  "object": "beer",
+  "name": "Atma",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

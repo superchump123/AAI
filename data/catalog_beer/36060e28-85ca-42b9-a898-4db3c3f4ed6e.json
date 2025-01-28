@@ -1,0 +1,11 @@
+{
+  "id": "36060e28-85ca-42b9-a898-4db3c3f4ed6e",
+  "object": "beer",
+  "name": "Smoke Jumper",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

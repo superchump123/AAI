@@ -1,0 +1,11 @@
+{
+  "id": "b015287e-4c35-4ed7-9459-056a0b5c87b7",
+  "object": "beer",
+  "name": "Rogue Farms Roguenbier Rye Ale",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bdb17ae9-c31f-4c17-aea8-49d722ed195f",
+  "object": "beer",
+  "name": "Nitro Bernie",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

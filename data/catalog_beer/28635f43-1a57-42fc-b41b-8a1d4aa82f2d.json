@@ -1,0 +1,11 @@
+{
+  "id": "28635f43-1a57-42fc-b41b-8a1d4aa82f2d",
+  "object": "beer",
+  "name": "Monterey Common",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

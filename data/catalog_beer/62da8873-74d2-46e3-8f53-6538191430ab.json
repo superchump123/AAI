@@ -1,0 +1,11 @@
+{
+  "id": "62da8873-74d2-46e3-8f53-6538191430ab",
+  "object": "beer",
+  "name": "Vanilla Latte Milkshake Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

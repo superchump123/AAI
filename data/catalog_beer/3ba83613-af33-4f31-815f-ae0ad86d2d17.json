@@ -1,0 +1,11 @@
+{
+  "id": "3ba83613-af33-4f31-815f-ae0ad86d2d17",
+  "object": "beer",
+  "name": "Post-Time Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

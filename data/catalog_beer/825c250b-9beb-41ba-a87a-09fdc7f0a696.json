@@ -1,0 +1,11 @@
+{
+  "id": "825c250b-9beb-41ba-a87a-09fdc7f0a696",
+  "object": "beer",
+  "name": "LIL'B",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

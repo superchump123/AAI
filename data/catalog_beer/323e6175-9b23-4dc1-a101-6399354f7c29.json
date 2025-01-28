@@ -1,0 +1,11 @@
+{
+  "id": "323e6175-9b23-4dc1-a101-6399354f7c29",
+  "object": "beer",
+  "name": "Peniger Spezial Goldsiegel",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

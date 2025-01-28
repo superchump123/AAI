@@ -1,0 +1,11 @@
+{
+  "id": "5df2ad4a-dde2-4a89-b76f-9f60731399f3",
+  "object": "beer",
+  "name": "Honey Wheat IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

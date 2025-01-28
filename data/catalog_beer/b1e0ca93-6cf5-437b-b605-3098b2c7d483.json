@@ -1,0 +1,11 @@
+{
+  "id": "b1e0ca93-6cf5-437b-b605-3098b2c7d483",
+  "object": "beer",
+  "name": "Sunshine",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

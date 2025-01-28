@@ -1,0 +1,11 @@
+{
+  "id": "2db821ac-8e04-4794-9b11-a6e4216e25f4",
+  "object": "beer",
+  "name": "Third Coast Old Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

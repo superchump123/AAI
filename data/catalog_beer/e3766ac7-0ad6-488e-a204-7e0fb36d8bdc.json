@@ -1,0 +1,11 @@
+{
+  "id": "e3766ac7-0ad6-488e-a204-7e0fb36d8bdc",
+  "object": "beer",
+  "name": "Honey Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fe2ff2ef-1238-4eb8-bc33-d57dd2b8cad7",
+  "object": "beer",
+  "name": "Ol'Hara Holiday Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

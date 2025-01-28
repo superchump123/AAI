@@ -1,0 +1,11 @@
+{
+  "id": "1f43cea3-0e16-4135-ae37-384dcc7a08b1",
+  "object": "beer",
+  "name": "Cranberry Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

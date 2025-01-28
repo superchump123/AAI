@@ -1,0 +1,11 @@
+{
+  "id": "65d7b733-7590-49ed-a6ea-edb58d941186",
+  "object": "beer",
+  "name": "L-Bomb",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

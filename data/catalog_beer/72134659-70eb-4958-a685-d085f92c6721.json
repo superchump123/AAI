@@ -1,0 +1,11 @@
+{
+  "id": "72134659-70eb-4958-a685-d085f92c6721",
+  "object": "beer",
+  "name": "Abbey Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

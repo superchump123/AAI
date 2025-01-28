@@ -1,0 +1,11 @@
+{
+  "id": "f8d0ed3c-42b0-46be-8d4a-08b342b4e3fa",
+  "object": "beer",
+  "name": "Coole Beans",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

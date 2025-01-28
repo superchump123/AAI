@@ -1,0 +1,11 @@
+{
+  "id": "e2782371-5d2d-4e3c-a8b7-a46917b41d8a",
+  "object": "beer",
+  "name": "Bachelors Delight",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

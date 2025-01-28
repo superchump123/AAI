@@ -1,0 +1,11 @@
+{
+  "id": "7d46ab2d-2df7-4d2b-83f8-5ec901baf6f1",
+  "object": "beer",
+  "name": "Rip Van Winkle",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

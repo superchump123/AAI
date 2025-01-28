@@ -1,0 +1,11 @@
+{
+  "id": "be023146-a691-4062-b24e-24e6fa18bbbf",
+  "object": "beer",
+  "name": "Dawn Patrol",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

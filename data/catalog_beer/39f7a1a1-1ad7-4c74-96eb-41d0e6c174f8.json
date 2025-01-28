@@ -1,0 +1,11 @@
+{
+  "id": "39f7a1a1-1ad7-4c74-96eb-41d0e6c174f8",
+  "object": "beer",
+  "name": "The Big Fella",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

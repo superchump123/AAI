@@ -1,0 +1,11 @@
+{
+  "id": "7f5d0f9f-7b60-48e9-b9b2-450167427a33",
+  "object": "beer",
+  "name": "Blackberry Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa93dfaa-3b44-45ef-bcba-125e7a168d15",
+  "object": "beer",
+  "name": "Slingshot",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

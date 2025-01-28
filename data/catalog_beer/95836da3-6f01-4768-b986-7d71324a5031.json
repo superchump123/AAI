@@ -1,0 +1,11 @@
+{
+  "id": "95836da3-6f01-4768-b986-7d71324a5031",
+  "object": "beer",
+  "name": "Round About Midnight",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

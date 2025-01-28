@@ -1,0 +1,11 @@
+{
+  "id": "cef98cd6-877b-4164-b9ba-d8ebbe3e1d15",
+  "object": "beer",
+  "name": "Rubus",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "155b1e51-64ac-4e9b-a28e-8d8726d81768",
+  "object": "beer",
+  "name": "Alewife Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

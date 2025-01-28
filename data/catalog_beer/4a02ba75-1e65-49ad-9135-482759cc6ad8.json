@@ -1,0 +1,11 @@
+{
+  "id": "4a02ba75-1e65-49ad-9135-482759cc6ad8",
+  "object": "beer",
+  "name": "Baseball Head",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

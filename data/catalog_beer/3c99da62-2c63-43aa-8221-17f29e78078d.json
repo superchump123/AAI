@@ -1,0 +1,11 @@
+{
+  "id": "3c99da62-2c63-43aa-8221-17f29e78078d",
+  "object": "beer",
+  "name": "Tupelo Honey",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

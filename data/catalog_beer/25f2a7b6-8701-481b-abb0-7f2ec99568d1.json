@@ -1,0 +1,11 @@
+{
+  "id": "25f2a7b6-8701-481b-abb0-7f2ec99568d1",
+  "object": "beer",
+  "name": "Post-Pro Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

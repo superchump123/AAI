@@ -1,0 +1,11 @@
+{
+  "id": "f86c3d4f-615b-48ae-973a-e8f69051b84a",
+  "object": "beer",
+  "name": "Ginger Apple",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

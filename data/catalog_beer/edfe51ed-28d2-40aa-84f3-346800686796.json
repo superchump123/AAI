@@ -1,0 +1,11 @@
+{
+  "id": "edfe51ed-28d2-40aa-84f3-346800686796",
+  "object": "beer",
+  "name": "Chill Taze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

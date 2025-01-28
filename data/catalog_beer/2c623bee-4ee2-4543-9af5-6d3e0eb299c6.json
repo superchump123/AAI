@@ -1,0 +1,11 @@
+{
+  "id": "2c623bee-4ee2-4543-9af5-6d3e0eb299c6",
+  "object": "beer",
+  "name": "Vindication",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

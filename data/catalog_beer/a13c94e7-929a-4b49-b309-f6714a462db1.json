@@ -1,0 +1,11 @@
+{
+  "id": "a13c94e7-929a-4b49-b309-f6714a462db1",
+  "object": "beer",
+  "name": "Coffee Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

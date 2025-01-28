@@ -1,0 +1,11 @@
+{
+  "id": "e4e28899-4b8c-4cea-b0be-9884445ab594",
+  "object": "beer",
+  "name": "Cornucopia",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

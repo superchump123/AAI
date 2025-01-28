@@ -1,0 +1,11 @@
+{
+  "id": "885f4da0-43a3-4442-9124-037f8b201af2",
+  "object": "beer",
+  "name": "North Pleasant Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

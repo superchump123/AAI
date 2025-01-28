@@ -1,0 +1,11 @@
+{
+  "id": "2edceb69-3e34-4106-8b39-616e4d207b39",
+  "object": "beer",
+  "name": "Tropical Mango",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

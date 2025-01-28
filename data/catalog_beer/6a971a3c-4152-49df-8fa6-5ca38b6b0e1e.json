@@ -1,0 +1,11 @@
+{
+  "id": "6a971a3c-4152-49df-8fa6-5ca38b6b0e1e",
+  "object": "beer",
+  "name": "Night of the Living Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "609318e2-9a1c-4004-acf2-9856aef50bb3",
+  "object": "beer",
+  "name": "Tegernseer Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

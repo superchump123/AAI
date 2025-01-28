@@ -1,0 +1,11 @@
+{
+  "id": "9edbb19f-1800-470e-825a-9d2c6644b96c",
+  "object": "beer",
+  "name": "After Hours",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

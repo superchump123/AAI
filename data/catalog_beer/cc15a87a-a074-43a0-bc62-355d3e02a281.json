@@ -1,0 +1,11 @@
+{
+  "id": "cc15a87a-a074-43a0-bc62-355d3e02a281",
+  "object": "beer",
+  "name": "Eichbaum Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

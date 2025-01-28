@@ -1,0 +1,11 @@
+{
+  "id": "fbc640c7-d66b-4dd4-9a07-6f89a25a656f",
+  "object": "beer",
+  "name": "Pilsener",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

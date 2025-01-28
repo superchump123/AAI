@@ -1,0 +1,11 @@
+{
+  "id": "8f76e99b-5f48-4ac4-8399-9a32cde38b23",
+  "object": "beer",
+  "name": "Batch 004 (Passionsquirt)",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

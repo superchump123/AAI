@@ -1,0 +1,11 @@
+{
+  "id": "5dd5cd6c-a573-41b1-93d6-2c37f43438f6",
+  "object": "beer",
+  "name": "Mayflower Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

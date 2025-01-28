@@ -1,0 +1,11 @@
+{
+  "id": "7bd3d9ef-5994-4cfc-bb2b-07d0a2893c10",
+  "object": "beer",
+  "name": "Raspberry Crab Apple Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

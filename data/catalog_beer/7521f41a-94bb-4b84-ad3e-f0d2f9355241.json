@@ -1,0 +1,11 @@
+{
+  "id": "7521f41a-94bb-4b84-ad3e-f0d2f9355241",
+  "object": "beer",
+  "name": "Sawgrass",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e7e3199-74c8-4c0b-ad71-6558174ac586",
+  "object": "beer",
+  "name": "Old Howling Bastard",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

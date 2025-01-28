@@ -1,0 +1,11 @@
+{
+  "id": "b6f6e171-ee8d-4980-bb13-35adea3b8136",
+  "object": "beer",
+  "name": "Svea IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

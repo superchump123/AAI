@@ -1,0 +1,11 @@
+{
+  "id": "bfd651fa-bfdd-4d44-839a-b84a6a9866dd",
+  "object": "beer",
+  "name": "Slack Pack IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

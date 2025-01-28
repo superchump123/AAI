@@ -1,0 +1,11 @@
+{
+  "id": "6d7ed94f-7f15-4b6e-9a27-fefce0f0e1bc",
+  "object": "beer",
+  "name": "Ghost Crab Pilsna",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

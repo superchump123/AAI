@@ -1,0 +1,11 @@
+{
+  "id": "7e4bf846-e3fb-42b3-a51d-367129978532",
+  "object": "beer",
+  "name": "Progusta",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

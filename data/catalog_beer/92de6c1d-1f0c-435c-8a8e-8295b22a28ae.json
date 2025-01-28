@@ -1,0 +1,11 @@
+{
+  "id": "92de6c1d-1f0c-435c-8a8e-8295b22a28ae",
+  "object": "beer",
+  "name": "Hathors Field",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

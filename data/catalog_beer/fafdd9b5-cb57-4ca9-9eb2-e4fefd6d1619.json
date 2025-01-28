@@ -1,0 +1,11 @@
+{
+  "id": "fafdd9b5-cb57-4ca9-9eb2-e4fefd6d1619",
+  "object": "beer",
+  "name": "Taxi Dog Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

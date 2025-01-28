@@ -1,0 +1,11 @@
+{
+  "id": "19db9b06-1245-4d0f-96e9-260b964ec2ff",
+  "object": "beer",
+  "name": "Flying Gourd Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

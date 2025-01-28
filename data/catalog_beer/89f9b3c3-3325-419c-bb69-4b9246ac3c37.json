@@ -1,0 +1,11 @@
+{
+  "id": "89f9b3c3-3325-419c-bb69-4b9246ac3c37",
+  "object": "beer",
+  "name": "Staggering Elk",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "37bf9210-e909-4802-94d1-ff5f4129ae19",
+  "object": "beer",
+  "name": "Burnpile",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

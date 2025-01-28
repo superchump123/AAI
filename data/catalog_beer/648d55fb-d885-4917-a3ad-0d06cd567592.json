@@ -1,0 +1,11 @@
+{
+  "id": "648d55fb-d885-4917-a3ad-0d06cd567592",
+  "object": "beer",
+  "name": "Saaremaa Tuulik",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

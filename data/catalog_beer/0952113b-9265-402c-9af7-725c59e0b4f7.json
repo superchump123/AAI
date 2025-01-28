@@ -1,0 +1,11 @@
+{
+  "id": "0952113b-9265-402c-9af7-725c59e0b4f7",
+  "object": "beer",
+  "name": "Buzzin' Bee Honey Rye Wheat",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

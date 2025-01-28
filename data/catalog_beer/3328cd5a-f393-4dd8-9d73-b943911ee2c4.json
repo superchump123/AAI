@@ -1,0 +1,11 @@
+{
+  "id": "3328cd5a-f393-4dd8-9d73-b943911ee2c4",
+  "object": "beer",
+  "name": "Black Jack Dunkel",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

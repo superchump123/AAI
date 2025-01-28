@@ -1,0 +1,11 @@
+{
+  "id": "c5c17373-1db1-4f88-a46f-5bc484d7af8f",
+  "object": "beer",
+  "name": "Local 5 Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

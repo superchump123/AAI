@@ -1,0 +1,11 @@
+{
+  "id": "5053018b-5f71-43d6-997d-1e9148edafe2",
+  "object": "beer",
+  "name": "Cherry Blind Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

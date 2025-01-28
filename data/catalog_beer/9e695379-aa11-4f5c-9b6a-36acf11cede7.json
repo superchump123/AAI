@@ -1,0 +1,11 @@
+{
+  "id": "9e695379-aa11-4f5c-9b6a-36acf11cede7",
+  "object": "beer",
+  "name": "Summarillo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

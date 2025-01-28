@@ -1,0 +1,11 @@
+{
+  "id": "01439d6a-3091-41ed-94c3-a8232b7aece9",
+  "object": "beer",
+  "name": "Knee Deep in Beer Week",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 101,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8afa3363-7151-440f-87cd-928d6f851431",
+  "object": "beer",
+  "name": "Saazy Saazbourne",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ab531749-c15b-44c0-bcd1-081778e87b20",
+  "object": "beer",
+  "name": "Armstrong Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

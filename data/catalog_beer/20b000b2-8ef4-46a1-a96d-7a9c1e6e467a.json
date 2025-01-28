@@ -1,0 +1,11 @@
+{
+  "id": "20b000b2-8ef4-46a1-a96d-7a9c1e6e467a",
+  "object": "beer",
+  "name": "Summer Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

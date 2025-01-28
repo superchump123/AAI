@@ -1,0 +1,11 @@
+{
+  "id": "6e0bc99e-9316-4d03-b2f5-beed45db5c1a",
+  "object": "beer",
+  "name": "Phantom Limb",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

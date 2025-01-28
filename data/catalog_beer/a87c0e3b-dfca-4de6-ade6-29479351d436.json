@@ -1,0 +1,11 @@
+{
+  "id": "a87c0e3b-dfca-4de6-ade6-29479351d436",
+  "object": "beer",
+  "name": "Amarillo Sunset",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 103,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

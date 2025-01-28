@@ -1,0 +1,11 @@
+{
+  "id": "03feb1bc-6c64-471f-8767-d8f9b99e3d88",
+  "object": "beer",
+  "name": "Mercurial Belgian-Style Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

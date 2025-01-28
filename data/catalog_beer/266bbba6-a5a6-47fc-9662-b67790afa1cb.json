@@ -1,0 +1,11 @@
+{
+  "id": "266bbba6-a5a6-47fc-9662-b67790afa1cb",
+  "object": "beer",
+  "name": "Frog Hop",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

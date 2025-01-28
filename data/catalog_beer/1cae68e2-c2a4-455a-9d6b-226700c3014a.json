@@ -1,0 +1,11 @@
+{
+  "id": "1cae68e2-c2a4-455a-9d6b-226700c3014a",
+  "object": "beer",
+  "name": "BOOM BABY! Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

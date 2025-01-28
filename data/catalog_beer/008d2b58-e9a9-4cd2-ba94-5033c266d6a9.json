@@ -1,0 +1,11 @@
+{
+  "id": "008d2b58-e9a9-4cd2-ba94-5033c266d6a9",
+  "object": "beer",
+  "name": "Black Forest",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

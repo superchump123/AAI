@@ -1,0 +1,11 @@
+{
+  "id": "80a38cde-d09d-4413-89be-d52d4ea90310",
+  "object": "beer",
+  "name": "Old Potentate",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

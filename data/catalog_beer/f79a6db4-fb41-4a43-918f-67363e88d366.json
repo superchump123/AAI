@@ -1,0 +1,11 @@
+{
+  "id": "f79a6db4-fb41-4a43-918f-67363e88d366",
+  "object": "beer",
+  "name": "Karhu",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

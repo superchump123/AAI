@@ -1,0 +1,11 @@
+{
+  "id": "fb3d1509-850d-485b-9c01-3c513875a955",
+  "object": "beer",
+  "name": "Hellers Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

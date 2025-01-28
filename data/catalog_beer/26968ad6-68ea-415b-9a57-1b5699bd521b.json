@@ -1,0 +1,11 @@
+{
+  "id": "26968ad6-68ea-415b-9a57-1b5699bd521b",
+  "object": "beer",
+  "name": "Day Trippin",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

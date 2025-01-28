@@ -1,0 +1,11 @@
+{
+  "id": "fe9c3202-3699-4452-8084-62519aae778f",
+  "object": "beer",
+  "name": "Redneck Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

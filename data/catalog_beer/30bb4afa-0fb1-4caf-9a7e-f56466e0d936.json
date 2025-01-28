@@ -1,0 +1,11 @@
+{
+  "id": "30bb4afa-0fb1-4caf-9a7e-f56466e0d936",
+  "object": "beer",
+  "name": "Pome & Grabbit",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

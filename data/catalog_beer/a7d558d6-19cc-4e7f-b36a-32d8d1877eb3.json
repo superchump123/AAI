@@ -1,0 +1,11 @@
+{
+  "id": "a7d558d6-19cc-4e7f-b36a-32d8d1877eb3",
+  "object": "beer",
+  "name": "Grain Funyuns",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

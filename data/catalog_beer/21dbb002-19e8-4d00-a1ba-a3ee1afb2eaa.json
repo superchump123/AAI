@@ -1,0 +1,11 @@
+{
+  "id": "21dbb002-19e8-4d00-a1ba-a3ee1afb2eaa",
+  "object": "beer",
+  "name": "Local's Stash: Hibiscus Sour Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fcb86259-0fa4-4076-9954-52b31bcd5b21",
+  "object": "beer",
+  "name": "Hop Hunter IPA",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f73e4d12-b190-4c3c-a286-26fc6a41d471",
+  "object": "beer",
+  "name": "16th Avenue Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

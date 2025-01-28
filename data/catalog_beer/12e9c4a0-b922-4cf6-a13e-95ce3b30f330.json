@@ -1,0 +1,11 @@
+{
+  "id": "12e9c4a0-b922-4cf6-a13e-95ce3b30f330",
+  "object": "beer",
+  "name": "Quad Damn It",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

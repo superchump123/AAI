@@ -1,0 +1,11 @@
+{
+  "id": "31f4d4db-b00f-459f-b99e-e052a3764b65",
+  "object": "beer",
+  "name": "No Depression",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

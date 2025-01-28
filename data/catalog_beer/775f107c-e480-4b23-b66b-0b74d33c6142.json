@@ -1,0 +1,11 @@
+{
+  "id": "775f107c-e480-4b23-b66b-0b74d33c6142",
+  "object": "beer",
+  "name": "Thames Surfer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

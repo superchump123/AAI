@@ -1,0 +1,11 @@
+{
+  "id": "4e4e2f70-9697-4946-a7a1-cde9a4c147d4",
+  "object": "beer",
+  "name": "Hop Grandslam",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

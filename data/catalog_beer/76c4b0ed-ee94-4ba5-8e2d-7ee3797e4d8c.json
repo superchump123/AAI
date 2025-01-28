@@ -1,0 +1,11 @@
+{
+  "id": "76c4b0ed-ee94-4ba5-8e2d-7ee3797e4d8c",
+  "object": "beer",
+  "name": "Tenebris Aged in Tequila Barrels",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.7,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

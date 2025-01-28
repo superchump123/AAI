@@ -1,0 +1,11 @@
+{
+  "id": "e1eba412-32ce-4d2c-8af5-7f275bdb45db",
+  "object": "beer",
+  "name": "Red Menace",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

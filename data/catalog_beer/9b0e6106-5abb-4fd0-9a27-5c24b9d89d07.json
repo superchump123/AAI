@@ -1,0 +1,11 @@
+{
+  "id": "9b0e6106-5abb-4fd0-9a27-5c24b9d89d07",
+  "object": "beer",
+  "name": "V-Twelve",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

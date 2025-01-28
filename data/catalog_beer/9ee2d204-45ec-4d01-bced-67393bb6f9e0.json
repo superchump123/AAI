@@ -1,0 +1,11 @@
+{
+  "id": "9ee2d204-45ec-4d01-bced-67393bb6f9e0",
+  "object": "beer",
+  "name": "Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a67fbf7-f0a6-4edd-b00a-1af95922980e",
+  "object": "beer",
+  "name": "The Mechanic",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

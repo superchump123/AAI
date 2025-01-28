@@ -1,0 +1,11 @@
+{
+  "id": "2f031fc3-f194-4704-83b9-5d53cf138372",
+  "object": "beer",
+  "name": "Mad Monk Dunkelweizen",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

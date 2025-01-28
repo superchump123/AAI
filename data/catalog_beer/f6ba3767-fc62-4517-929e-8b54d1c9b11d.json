@@ -1,0 +1,11 @@
+{
+  "id": "f6ba3767-fc62-4517-929e-8b54d1c9b11d",
+  "object": "beer",
+  "name": "Peachtree Wheat Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

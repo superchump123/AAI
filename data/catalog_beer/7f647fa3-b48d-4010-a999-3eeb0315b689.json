@@ -1,0 +1,11 @@
+{
+  "id": "7f647fa3-b48d-4010-a999-3eeb0315b689",
+  "object": "beer",
+  "name": "Arabier",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

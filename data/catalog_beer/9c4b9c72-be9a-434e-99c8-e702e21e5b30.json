@@ -1,0 +1,11 @@
+{
+  "id": "9c4b9c72-be9a-434e-99c8-e702e21e5b30",
+  "object": "beer",
+  "name": "Nessie's Gnarly Nectar",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

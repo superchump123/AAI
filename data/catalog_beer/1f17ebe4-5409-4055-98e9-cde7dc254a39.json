@@ -1,0 +1,11 @@
+{
+  "id": "1f17ebe4-5409-4055-98e9-cde7dc254a39",
+  "object": "beer",
+  "name": "Snow Blind",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

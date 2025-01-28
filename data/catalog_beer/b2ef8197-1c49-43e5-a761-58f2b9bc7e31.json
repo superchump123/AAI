@@ -1,0 +1,11 @@
+{
+  "id": "b2ef8197-1c49-43e5-a761-58f2b9bc7e31",
+  "object": "beer",
+  "name": "Dubious",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

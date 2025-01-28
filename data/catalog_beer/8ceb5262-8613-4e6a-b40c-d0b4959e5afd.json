@@ -1,0 +1,11 @@
+{
+  "id": "8ceb5262-8613-4e6a-b40c-d0b4959e5afd",
+  "object": "beer",
+  "name": "Mango Fluffer",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4fc2cc36-79fe-4b85-9aa7-bc55a1fa9e98",
+  "object": "beer",
+  "name": "Riff",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

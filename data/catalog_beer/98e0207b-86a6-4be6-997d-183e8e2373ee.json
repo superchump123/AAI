@@ -1,0 +1,11 @@
+{
+  "id": "98e0207b-86a6-4be6-997d-183e8e2373ee",
+  "object": "beer",
+  "name": "Tejas Negra",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

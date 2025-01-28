@@ -1,0 +1,11 @@
+{
+  "id": "2423eed6-18fa-4573-8ad0-70b78d94b098",
+  "object": "beer",
+  "name": "Wolfgang",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ef26392a-d664-4b72-bd1d-a58c9344a889",
+  "object": "beer",
+  "name": "BSA Harvest",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

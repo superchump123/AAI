@@ -1,0 +1,11 @@
+{
+  "id": "bdb33ead-207f-4352-9ce8-8f330594aae7",
+  "object": "beer",
+  "name": "Sugaree Maple Bourbon Pecan Pie",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

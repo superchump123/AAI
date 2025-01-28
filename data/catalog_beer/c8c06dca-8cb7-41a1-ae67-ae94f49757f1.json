@@ -1,0 +1,11 @@
+{
+  "id": "c8c06dca-8cb7-41a1-ae67-ae94f49757f1",
+  "object": "beer",
+  "name": "Conteur",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

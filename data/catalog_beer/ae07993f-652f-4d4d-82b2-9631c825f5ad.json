@@ -1,0 +1,11 @@
+{
+  "id": "ae07993f-652f-4d4d-82b2-9631c825f5ad",
+  "object": "beer",
+  "name": "DAB Pilsener",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

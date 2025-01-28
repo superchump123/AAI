@@ -1,0 +1,11 @@
+{
+  "id": "d1cb4087-934b-4656-969b-b70767e20ba4",
+  "object": "beer",
+  "name": "Brewers' Cut No. 2",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

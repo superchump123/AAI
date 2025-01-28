@@ -1,0 +1,11 @@
+{
+  "id": "c086f0f5-0ce3-4df6-961c-06ac6504ee5a",
+  "object": "beer",
+  "name": "Loganberry Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

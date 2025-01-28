@@ -1,0 +1,11 @@
+{
+  "id": "adfbf07d-4b22-43ac-b3f5-d60de62c4954",
+  "object": "beer",
+  "name": "High Class Gentleman",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

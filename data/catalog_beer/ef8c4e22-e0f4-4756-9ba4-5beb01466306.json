@@ -1,0 +1,11 @@
+{
+  "id": "ef8c4e22-e0f4-4756-9ba4-5beb01466306",
+  "object": "beer",
+  "name": "Two Finger Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

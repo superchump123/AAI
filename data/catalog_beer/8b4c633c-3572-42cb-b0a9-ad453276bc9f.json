@@ -1,0 +1,11 @@
+{
+  "id": "8b4c633c-3572-42cb-b0a9-ad453276bc9f",
+  "object": "beer",
+  "name": "Ruthie",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

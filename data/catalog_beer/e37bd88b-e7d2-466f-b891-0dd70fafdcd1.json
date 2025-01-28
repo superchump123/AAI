@@ -1,0 +1,11 @@
+{
+  "id": "e37bd88b-e7d2-466f-b891-0dd70fafdcd1",
+  "object": "beer",
+  "name": "Schlappeseppel Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b45b081b-4dad-4f55-8048-abcb4e7103b2",
+  "object": "beer",
+  "name": "The Mirage",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

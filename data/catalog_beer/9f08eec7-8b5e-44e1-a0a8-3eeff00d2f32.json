@@ -1,0 +1,11 @@
+{
+  "id": "9f08eec7-8b5e-44e1-a0a8-3eeff00d2f32",
+  "object": "beer",
+  "name": "El Lupulo Libre",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

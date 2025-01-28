@@ -1,0 +1,11 @@
+{
+  "id": "a4c0c0ef-66e1-4d72-9e39-dd04ae3f659d",
+  "object": "beer",
+  "name": "Chocolate Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

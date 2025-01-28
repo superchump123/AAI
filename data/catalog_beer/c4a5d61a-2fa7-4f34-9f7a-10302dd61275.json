@@ -1,0 +1,11 @@
+{
+  "id": "c4a5d61a-2fa7-4f34-9f7a-10302dd61275",
+  "object": "beer",
+  "name": "Herfstbock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

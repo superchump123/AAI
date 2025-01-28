@@ -1,0 +1,11 @@
+{
+  "id": "a93d276b-da5b-46a2-9cbb-07958b457d43",
+  "object": "beer",
+  "name": "Trees of Tahoe",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c17e83f5-7d1b-4024-90d2-b756b713e953",
+  "object": "beer",
+  "name": "Raspberry Jam",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

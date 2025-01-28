@@ -1,0 +1,11 @@
+{
+  "id": "dd7ad279-721e-48d3-94ec-ee33f1557cfe",
+  "object": "beer",
+  "name": "Summer Daze Wheat Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

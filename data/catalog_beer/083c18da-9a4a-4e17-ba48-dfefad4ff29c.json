@@ -1,0 +1,11 @@
+{
+  "id": "083c18da-9a4a-4e17-ba48-dfefad4ff29c",
+  "object": "beer",
+  "name": "Samuel Adams Chocolate Squirrel",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

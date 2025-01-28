@@ -1,0 +1,11 @@
+{
+  "id": "6daf4821-5a2e-423c-91fa-9f13397346cf",
+  "object": "beer",
+  "name": "A Sporting Chance",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4dd3229c-7faf-47b1-8ce2-5b479857ea82",
+  "object": "beer",
+  "name": "Reach Around",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

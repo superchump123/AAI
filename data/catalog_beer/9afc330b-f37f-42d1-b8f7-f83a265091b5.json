@@ -1,0 +1,11 @@
+{
+  "id": "9afc330b-f37f-42d1-b8f7-f83a265091b5",
+  "object": "beer",
+  "name": "Tennent's IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

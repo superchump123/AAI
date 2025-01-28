@@ -1,0 +1,11 @@
+{
+  "id": "1b3a53e3-e4a7-43f2-b142-3198c71839b3",
+  "object": "beer",
+  "name": "Cellarman ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

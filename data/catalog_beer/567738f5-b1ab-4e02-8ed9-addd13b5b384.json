@@ -1,0 +1,11 @@
+{
+  "id": "567738f5-b1ab-4e02-8ed9-addd13b5b384",
+  "object": "beer",
+  "name": "LCB Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

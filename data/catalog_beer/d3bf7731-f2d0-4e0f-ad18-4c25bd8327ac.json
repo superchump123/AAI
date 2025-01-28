@@ -1,0 +1,11 @@
+{
+  "id": "d3bf7731-f2d0-4e0f-ad18-4c25bd8327ac",
+  "object": "beer",
+  "name": "Mr. President",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

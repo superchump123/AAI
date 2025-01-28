@@ -1,0 +1,11 @@
+{
+  "id": "003ccdb2-ed7c-4a05-b873-c71c98720794",
+  "object": "beer",
+  "name": "Stone Pale Ale 2.0",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

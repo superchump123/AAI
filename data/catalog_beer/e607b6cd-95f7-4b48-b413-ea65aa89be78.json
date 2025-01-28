@@ -1,0 +1,11 @@
+{
+  "id": "e607b6cd-95f7-4b48-b413-ea65aa89be78",
+  "object": "beer",
+  "name": "Inca",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

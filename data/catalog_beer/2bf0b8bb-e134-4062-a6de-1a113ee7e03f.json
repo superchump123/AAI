@@ -1,0 +1,11 @@
+{
+  "id": "2bf0b8bb-e134-4062-a6de-1a113ee7e03f",
+  "object": "beer",
+  "name": "Shady Aftermath",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

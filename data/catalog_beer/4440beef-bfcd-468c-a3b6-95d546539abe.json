@@ -1,0 +1,11 @@
+{
+  "id": "4440beef-bfcd-468c-a3b6-95d546539abe",
+  "object": "beer",
+  "name": "Blue Sky Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

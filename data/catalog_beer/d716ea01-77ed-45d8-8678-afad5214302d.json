@@ -1,0 +1,11 @@
+{
+  "id": "d716ea01-77ed-45d8-8678-afad5214302d",
+  "object": "beer",
+  "name": "Street Legal",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

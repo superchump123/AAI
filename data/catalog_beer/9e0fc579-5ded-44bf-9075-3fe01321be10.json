@@ -1,0 +1,11 @@
+{
+  "id": "9e0fc579-5ded-44bf-9075-3fe01321be10",
+  "object": "beer",
+  "name": "Savage Bois",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

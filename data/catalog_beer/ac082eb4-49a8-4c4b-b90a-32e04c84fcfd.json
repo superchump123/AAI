@@ -1,0 +1,11 @@
+{
+  "id": "ac082eb4-49a8-4c4b-b90a-32e04c84fcfd",
+  "object": "beer",
+  "name": "John Henry Colonel Cream and Brown Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

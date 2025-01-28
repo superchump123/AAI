@@ -1,0 +1,11 @@
+{
+  "id": "5b893e8c-2144-4da4-9585-2f4892e9eefb",
+  "object": "beer",
+  "name": "American Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

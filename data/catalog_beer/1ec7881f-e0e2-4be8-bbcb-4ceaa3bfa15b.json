@@ -1,0 +1,11 @@
+{
+  "id": "1ec7881f-e0e2-4be8-bbcb-4ceaa3bfa15b",
+  "object": "beer",
+  "name": "Bearded Farmer #2: McCullough",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

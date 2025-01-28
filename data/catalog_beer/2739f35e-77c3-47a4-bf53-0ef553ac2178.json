@@ -1,0 +1,11 @@
+{
+  "id": "2739f35e-77c3-47a4-bf53-0ef553ac2178",
+  "object": "beer",
+  "name": "Old Birdbrain",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

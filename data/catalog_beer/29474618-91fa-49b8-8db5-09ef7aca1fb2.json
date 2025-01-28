@@ -1,0 +1,11 @@
+{
+  "id": "29474618-91fa-49b8-8db5-09ef7aca1fb2",
+  "object": "beer",
+  "name": "Carnivora",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

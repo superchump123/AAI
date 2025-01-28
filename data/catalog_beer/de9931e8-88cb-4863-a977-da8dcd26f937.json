@@ -1,0 +1,11 @@
+{
+  "id": "de9931e8-88cb-4863-a977-da8dcd26f937",
+  "object": "beer",
+  "name": "DTPA - Draconic Transylvanian Pale Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

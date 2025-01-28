@@ -1,0 +1,11 @@
+{
+  "id": "e02a2056-f5ed-462a-b689-e8ebd827a5c9",
+  "object": "beer",
+  "name": "Barn Beer",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

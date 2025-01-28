@@ -1,0 +1,11 @@
+{
+  "id": "eda3b391-0ec1-43dc-aa82-d215ea0bf4f0",
+  "object": "beer",
+  "name": "Blackberry Daze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "56832827-dd38-4ca3-9a87-9e2678ef9497",
+  "object": "beer",
+  "name": "Here Comes the Fuzz",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

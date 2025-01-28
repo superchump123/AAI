@@ -1,0 +1,11 @@
+{
+  "id": "22fb002d-8824-463c-bbab-136856b5809f",
+  "object": "beer",
+  "name": "Biff Tannen",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8f4cd391-9ef9-4dff-b9ee-e9755bdba29a",
+  "object": "beer",
+  "name": "Sea Lady",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1286f35d-e81d-4903-af6c-45f2110157db",
+  "object": "beer",
+  "name": "Stokey Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

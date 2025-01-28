@@ -1,0 +1,11 @@
+{
+  "id": "0d1e0966-16d9-4ec4-a0f0-1d7ad8f784f9",
+  "object": "beer",
+  "name": "Gunga Din Hard Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

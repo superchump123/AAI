@@ -1,0 +1,11 @@
+{
+  "id": "177480d1-e59a-40a5-a133-1650c9af969d",
+  "object": "beer",
+  "name": "Blueberry Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

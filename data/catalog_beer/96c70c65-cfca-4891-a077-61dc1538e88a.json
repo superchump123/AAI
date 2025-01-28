@@ -1,0 +1,11 @@
+{
+  "id": "96c70c65-cfca-4891-a077-61dc1538e88a",
+  "object": "beer",
+  "name": "Skipping Stone",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

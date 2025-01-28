@@ -1,0 +1,11 @@
+{
+  "id": "03489280-77f1-47f5-88c4-5c38bb492083",
+  "object": "beer",
+  "name": "Long Pumpkin Stout",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

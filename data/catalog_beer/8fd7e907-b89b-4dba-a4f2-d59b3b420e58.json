@@ -1,0 +1,11 @@
+{
+  "id": "8fd7e907-b89b-4dba-a4f2-d59b3b420e58",
+  "object": "beer",
+  "name": "10 Day Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

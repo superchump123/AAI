@@ -1,0 +1,11 @@
+{
+  "id": "6f8eb6dd-a9f8-4993-a114-fb6faa57a5ba",
+  "object": "beer",
+  "name": "Rustler",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

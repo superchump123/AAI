@@ -1,0 +1,11 @@
+{
+  "id": "05302688-9461-42d7-934c-db5c9e8cd493",
+  "object": "beer",
+  "name": "ThunderLips",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

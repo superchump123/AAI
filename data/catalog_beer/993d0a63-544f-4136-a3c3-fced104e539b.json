@@ -1,0 +1,11 @@
+{
+  "id": "993d0a63-544f-4136-a3c3-fced104e539b",
+  "object": "beer",
+  "name": "Silver Spike IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

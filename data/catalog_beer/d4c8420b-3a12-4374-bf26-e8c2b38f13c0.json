@@ -1,0 +1,11 @@
+{
+  "id": "d4c8420b-3a12-4374-bf26-e8c2b38f13c0",
+  "object": "beer",
+  "name": "Hop Sutra",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

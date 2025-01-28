@@ -1,0 +1,11 @@
+{
+  "id": "6dd77b0f-8d2d-486e-b3f2-97e84157ab55",
+  "object": "beer",
+  "name": "Hop Song IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

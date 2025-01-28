@@ -1,0 +1,11 @@
+{
+  "id": "e4315e15-4a4e-4ae8-bdfa-1a4fe04ceae8",
+  "object": "beer",
+  "name": "Petite Verdot",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0dd0eda5-1606-4d09-8f32-dc48835c463f",
+  "object": "beer",
+  "name": "Lawless ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

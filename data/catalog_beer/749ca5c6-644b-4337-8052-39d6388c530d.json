@@ -1,0 +1,11 @@
+{
+  "id": "749ca5c6-644b-4337-8052-39d6388c530d",
+  "object": "beer",
+  "name": "EcoPivo",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

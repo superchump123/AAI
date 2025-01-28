@@ -1,0 +1,11 @@
+{
+  "id": "353a25d3-94f6-4b44-94ee-f86b8b659777",
+  "object": "beer",
+  "name": "Thoroughbred",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

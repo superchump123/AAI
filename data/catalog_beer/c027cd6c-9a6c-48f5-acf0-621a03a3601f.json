@@ -1,0 +1,11 @@
+{
+  "id": "c027cd6c-9a6c-48f5-acf0-621a03a3601f",
+  "object": "beer",
+  "name": "Wakey Wakey",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

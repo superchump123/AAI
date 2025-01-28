@@ -1,0 +1,11 @@
+{
+  "id": "9a8d32db-0519-4a67-b5bc-341bd3e08592",
+  "object": "beer",
+  "name": "Hey, Careful Man, There\u2019s a Beverage Here!",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

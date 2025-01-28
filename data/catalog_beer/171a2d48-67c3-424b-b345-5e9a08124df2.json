@@ -1,0 +1,11 @@
+{
+  "id": "171a2d48-67c3-424b-b345-5e9a08124df2",
+  "object": "beer",
+  "name": "White Blaze",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

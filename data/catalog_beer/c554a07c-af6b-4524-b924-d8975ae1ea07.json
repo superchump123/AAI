@@ -1,0 +1,11 @@
+{
+  "id": "c554a07c-af6b-4524-b924-d8975ae1ea07",
+  "object": "beer",
+  "name": "Mountain Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

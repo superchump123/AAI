@@ -1,0 +1,11 @@
+{
+  "id": "2d2670c6-2000-475e-8b98-e845e3747f34",
+  "object": "beer",
+  "name": "Pyramid Peak Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

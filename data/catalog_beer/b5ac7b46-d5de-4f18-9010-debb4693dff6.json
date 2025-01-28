@@ -1,0 +1,11 @@
+{
+  "id": "b5ac7b46-d5de-4f18-9010-debb4693dff6",
+  "object": "beer",
+  "name": "Alter Boy",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

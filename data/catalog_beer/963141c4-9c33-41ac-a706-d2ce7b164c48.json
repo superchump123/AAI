@@ -1,0 +1,11 @@
+{
+  "id": "963141c4-9c33-41ac-a706-d2ce7b164c48",
+  "object": "beer",
+  "name": "Naranjus IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

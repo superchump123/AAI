@@ -1,0 +1,11 @@
+{
+  "id": "6bc4798a-743f-4d8a-b15e-24bd3b114f0e",
+  "object": "beer",
+  "name": "Mahogger Lager",
+  "style": "Pilsner - Czech",
+  "description": "Named after our neighborhood groundhog, \u201cMahogger,\u201d this is Triton Brewing Company\u2019s first foray into the Lager-land. Brewed exclusively with Saaz Hops and traditional malts help make this Pilsner unique and tasty and is a fitting tribute to the biggest rodent we know.",
+  "abv": 4.7,
+  "ibu": 43,
+  "cb_verified": true,
+  "last_modified": 1511568634
+}

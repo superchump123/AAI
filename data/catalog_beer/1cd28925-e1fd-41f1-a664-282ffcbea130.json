@@ -1,0 +1,11 @@
+{
+  "id": "1cd28925-e1fd-41f1-a664-282ffcbea130",
+  "object": "beer",
+  "name": "Bartles & Jaymes Margarita",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

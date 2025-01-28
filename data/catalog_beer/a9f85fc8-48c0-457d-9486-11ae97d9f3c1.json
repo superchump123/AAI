@@ -1,0 +1,11 @@
+{
+  "id": "a9f85fc8-48c0-457d-9486-11ae97d9f3c1",
+  "object": "beer",
+  "name": "Spiced Saison Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

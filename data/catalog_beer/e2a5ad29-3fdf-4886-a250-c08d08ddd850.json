@@ -1,0 +1,11 @@
+{
+  "id": "e2a5ad29-3fdf-4886-a250-c08d08ddd850",
+  "object": "beer",
+  "name": "Motivator Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

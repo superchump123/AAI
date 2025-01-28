@@ -1,0 +1,11 @@
+{
+  "id": "69cb4175-c6a1-4a78-940f-06b76d81198a",
+  "object": "beer",
+  "name": "Little Friend",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2fa926fc-7940-421c-9fa2-96519d2f8a3f",
+  "object": "beer",
+  "name": "Moose Knuckle Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

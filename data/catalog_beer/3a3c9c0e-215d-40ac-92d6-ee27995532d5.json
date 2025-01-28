@@ -1,0 +1,11 @@
+{
+  "id": "3a3c9c0e-215d-40ac-92d6-ee27995532d5",
+  "object": "beer",
+  "name": "Gander",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

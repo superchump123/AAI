@@ -1,0 +1,11 @@
+{
+  "id": "e8c94bbf-01a7-45f8-86e0-a9aeac8ee3fe",
+  "object": "beer",
+  "name": "Citrus Mistress",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

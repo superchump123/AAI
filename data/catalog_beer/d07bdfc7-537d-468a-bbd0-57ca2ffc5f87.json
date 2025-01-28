@@ -1,0 +1,11 @@
+{
+  "id": "d07bdfc7-537d-468a-bbd0-57ca2ffc5f87",
+  "object": "beer",
+  "name": "GORED",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

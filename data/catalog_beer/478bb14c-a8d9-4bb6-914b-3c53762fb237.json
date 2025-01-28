@@ -1,0 +1,11 @@
+{
+  "id": "478bb14c-a8d9-4bb6-914b-3c53762fb237",
+  "object": "beer",
+  "name": "Base Camp Golden Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

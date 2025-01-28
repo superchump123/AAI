@@ -1,0 +1,11 @@
+{
+  "id": "f57456ad-a846-4041-9706-9b3e5cd7d29b",
+  "object": "beer",
+  "name": "Wismarer Roter Erik",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

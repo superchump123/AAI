@@ -1,0 +1,11 @@
+{
+  "id": "870c8457-d6e8-4366-8f90-39bdb4e65ac0",
+  "object": "beer",
+  "name": "Citrica",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

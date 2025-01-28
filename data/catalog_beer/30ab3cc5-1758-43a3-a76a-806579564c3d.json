@@ -1,0 +1,11 @@
+{
+  "id": "30ab3cc5-1758-43a3-a76a-806579564c3d",
+  "object": "beer",
+  "name": "Experimental Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

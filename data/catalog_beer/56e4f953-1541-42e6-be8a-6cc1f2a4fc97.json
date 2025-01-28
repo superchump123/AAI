@@ -1,0 +1,11 @@
+{
+  "id": "56e4f953-1541-42e6-be8a-6cc1f2a4fc97",
+  "object": "beer",
+  "name": "White Lightning",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

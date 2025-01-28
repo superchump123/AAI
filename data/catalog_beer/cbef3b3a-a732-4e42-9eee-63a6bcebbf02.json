@@ -1,0 +1,11 @@
+{
+  "id": "cbef3b3a-a732-4e42-9eee-63a6bcebbf02",
+  "object": "beer",
+  "name": "Angry Ingrid",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

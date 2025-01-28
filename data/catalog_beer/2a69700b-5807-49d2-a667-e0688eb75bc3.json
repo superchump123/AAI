@@ -1,0 +1,11 @@
+{
+  "id": "2a69700b-5807-49d2-a667-e0688eb75bc3",
+  "object": "beer",
+  "name": "Hilltop Heritage Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

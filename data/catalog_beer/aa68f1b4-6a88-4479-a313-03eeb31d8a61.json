@@ -1,0 +1,11 @@
+{
+  "id": "aa68f1b4-6a88-4479-a313-03eeb31d8a61",
+  "object": "beer",
+  "name": "Farmhouse Gypsy",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

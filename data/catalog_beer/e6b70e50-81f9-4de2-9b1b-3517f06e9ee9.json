@@ -1,0 +1,11 @@
+{
+  "id": "e6b70e50-81f9-4de2-9b1b-3517f06e9ee9",
+  "object": "beer",
+  "name": "Samuel Adams Hallertau Imperial Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

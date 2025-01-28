@@ -1,0 +1,11 @@
+{
+  "id": "e22589fd-90fc-432e-a92f-527b2d740449",
+  "object": "beer",
+  "name": "Lazy Sipper",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

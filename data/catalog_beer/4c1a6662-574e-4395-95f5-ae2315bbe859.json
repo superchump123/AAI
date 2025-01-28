@@ -1,0 +1,11 @@
+{
+  "id": "4c1a6662-574e-4395-95f5-ae2315bbe859",
+  "object": "beer",
+  "name": "Tarte Nouveau",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

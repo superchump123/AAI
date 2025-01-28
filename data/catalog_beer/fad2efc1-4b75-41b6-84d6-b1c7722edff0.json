@@ -1,0 +1,11 @@
+{
+  "id": "fad2efc1-4b75-41b6-84d6-b1c7722edff0",
+  "object": "beer",
+  "name": "Condition Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

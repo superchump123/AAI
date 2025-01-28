@@ -1,0 +1,11 @@
+{
+  "id": "b10ec71c-65ac-47c9-9d4c-1527d0f4f397",
+  "object": "beer",
+  "name": "Fall Festbier",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1907b150-52fc-4a61-9195-e1029d6f840c",
+  "object": "beer",
+  "name": "Featherweight IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

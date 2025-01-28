@@ -1,0 +1,11 @@
+{
+  "id": "f415e0f5-1d01-4d4d-8e1c-093a270c004d",
+  "object": "beer",
+  "name": "Waterline Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

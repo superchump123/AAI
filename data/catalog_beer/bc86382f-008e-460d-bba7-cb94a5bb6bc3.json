@@ -1,0 +1,11 @@
+{
+  "id": "bc86382f-008e-460d-bba7-cb94a5bb6bc3",
+  "object": "beer",
+  "name": "Scrilla",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

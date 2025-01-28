@@ -1,0 +1,11 @@
+{
+  "id": "4b96093f-dfc9-4791-979c-916b22897b9e",
+  "object": "beer",
+  "name": "Sweet Spot",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

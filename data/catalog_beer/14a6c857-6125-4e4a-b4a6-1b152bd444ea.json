@@ -1,0 +1,11 @@
+{
+  "id": "14a6c857-6125-4e4a-b4a6-1b152bd444ea",
+  "object": "beer",
+  "name": "Winter White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

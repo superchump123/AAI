@@ -1,0 +1,11 @@
+{
+  "id": "c7f24d44-e41e-49c8-8a10-a777c2d0023f",
+  "object": "beer",
+  "name": "Peach Gose",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

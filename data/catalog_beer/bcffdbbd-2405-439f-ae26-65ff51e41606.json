@@ -1,0 +1,11 @@
+{
+  "id": "bcffdbbd-2405-439f-ae26-65ff51e41606",
+  "object": "beer",
+  "name": "Infinium",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

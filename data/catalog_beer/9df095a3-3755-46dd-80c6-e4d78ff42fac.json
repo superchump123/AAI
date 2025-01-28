@@ -1,0 +1,11 @@
+{
+  "id": "9df095a3-3755-46dd-80c6-e4d78ff42fac",
+  "object": "beer",
+  "name": "LunaSea ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

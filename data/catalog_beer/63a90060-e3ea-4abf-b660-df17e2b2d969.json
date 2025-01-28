@@ -1,0 +1,11 @@
+{
+  "id": "63a90060-e3ea-4abf-b660-df17e2b2d969",
+  "object": "beer",
+  "name": "Straight Outta Da Patch",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

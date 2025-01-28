@@ -1,0 +1,11 @@
+{
+  "id": "0fced0dd-f8cc-49c6-a416-21c808cc8d75",
+  "object": "beer",
+  "name": "Extra Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

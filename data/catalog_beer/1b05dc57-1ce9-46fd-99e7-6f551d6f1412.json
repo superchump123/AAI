@@ -1,0 +1,11 @@
+{
+  "id": "1b05dc57-1ce9-46fd-99e7-6f551d6f1412",
+  "object": "beer",
+  "name": "Imperial Bohemian Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

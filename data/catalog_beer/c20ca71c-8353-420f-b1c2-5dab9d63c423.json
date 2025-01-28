@@ -1,0 +1,11 @@
+{
+  "id": "c20ca71c-8353-420f-b1c2-5dab9d63c423",
+  "object": "beer",
+  "name": "Cold Creek Scottish",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

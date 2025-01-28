@@ -1,0 +1,11 @@
+{
+  "id": "4302f5be-e3f0-43fd-b5ad-a473c09d3e16",
+  "object": "beer",
+  "name": "Misconduct",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b6fc50d-f485-421d-965a-0789a277844a",
+  "object": "beer",
+  "name": "Golden Doom",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

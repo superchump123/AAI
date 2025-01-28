@@ -1,0 +1,11 @@
+{
+  "id": "19dab34e-ec45-4f97-b416-ccd486969d2f",
+  "object": "beer",
+  "name": "Schaumburger Edel-Herb",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

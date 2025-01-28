@@ -1,0 +1,11 @@
+{
+  "id": "84827f9b-27ad-4020-acbd-3060a9a631ec",
+  "object": "beer",
+  "name": "Stickee Monkee",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 13.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

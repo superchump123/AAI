@@ -1,0 +1,11 @@
+{
+  "id": "47ca4880-2ecd-4bf2-a83c-81033e89641d",
+  "object": "beer",
+  "name": "Ahh...Freak Oat!",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

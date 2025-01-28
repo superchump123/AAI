@@ -1,0 +1,11 @@
+{
+  "id": "eeb56ca3-af55-4080-80e8-976c2d90c6f9",
+  "object": "beer",
+  "name": "Hazelnut Amber",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

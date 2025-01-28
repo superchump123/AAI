@@ -1,0 +1,11 @@
+{
+  "id": "04f78f6d-872d-4ed6-8e12-82a68bd44ecb",
+  "object": "beer",
+  "name": "Hazy ControversiALE",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

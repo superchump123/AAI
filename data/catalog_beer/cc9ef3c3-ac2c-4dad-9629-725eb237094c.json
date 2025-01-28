@@ -1,0 +1,11 @@
+{
+  "id": "cc9ef3c3-ac2c-4dad-9629-725eb237094c",
+  "object": "beer",
+  "name": "Blanche Soleil",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

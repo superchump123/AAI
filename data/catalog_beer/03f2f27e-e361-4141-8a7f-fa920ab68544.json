@@ -1,0 +1,11 @@
+{
+  "id": "03f2f27e-e361-4141-8a7f-fa920ab68544",
+  "object": "beer",
+  "name": "Cognition",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

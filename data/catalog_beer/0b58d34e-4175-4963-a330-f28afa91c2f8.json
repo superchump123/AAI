@@ -1,0 +1,11 @@
+{
+  "id": "0b58d34e-4175-4963-a330-f28afa91c2f8",
+  "object": "beer",
+  "name": "Eichbaum Festbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

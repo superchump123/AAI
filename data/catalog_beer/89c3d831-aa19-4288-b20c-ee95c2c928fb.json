@@ -1,0 +1,11 @@
+{
+  "id": "89c3d831-aa19-4288-b20c-ee95c2c928fb",
+  "object": "beer",
+  "name": "Duality",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

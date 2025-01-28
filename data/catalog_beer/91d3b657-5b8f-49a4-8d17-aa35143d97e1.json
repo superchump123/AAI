@@ -1,0 +1,11 @@
+{
+  "id": "91d3b657-5b8f-49a4-8d17-aa35143d97e1",
+  "object": "beer",
+  "name": "UFO White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8b59ef7a-fc49-4a73-9b82-95f52e4dd9b4",
+  "object": "beer",
+  "name": "Hubris",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

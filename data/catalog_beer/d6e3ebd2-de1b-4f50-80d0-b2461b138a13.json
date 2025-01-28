@@ -1,0 +1,11 @@
+{
+  "id": "d6e3ebd2-de1b-4f50-80d0-b2461b138a13",
+  "object": "beer",
+  "name": "Cell",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

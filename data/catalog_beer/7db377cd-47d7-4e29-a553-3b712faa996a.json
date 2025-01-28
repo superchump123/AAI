@@ -1,0 +1,11 @@
+{
+  "id": "7db377cd-47d7-4e29-a553-3b712faa996a",
+  "object": "beer",
+  "name": "Honey",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

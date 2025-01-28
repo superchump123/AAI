@@ -1,0 +1,11 @@
+{
+  "id": "c6e5e3c1-ab08-4031-b219-781cc09099b0",
+  "object": "beer",
+  "name": "Rocktown Rye",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

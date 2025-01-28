@@ -1,0 +1,11 @@
+{
+  "id": "550522d9-0791-4b41-b592-998d139bbd07",
+  "object": "beer",
+  "name": "Offering #22 - Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.1,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

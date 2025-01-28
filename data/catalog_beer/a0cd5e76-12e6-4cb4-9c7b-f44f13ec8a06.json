@@ -1,0 +1,11 @@
+{
+  "id": "a0cd5e76-12e6-4cb4-9c7b-f44f13ec8a06",
+  "object": "beer",
+  "name": "Dino's Dark",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

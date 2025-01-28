@@ -1,0 +1,11 @@
+{
+  "id": "24a87d75-3fc9-4e09-b699-c8a0408ab08b",
+  "object": "beer",
+  "name": "Old Thumper",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

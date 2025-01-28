@@ -1,0 +1,11 @@
+{
+  "id": "c5d7be0e-9a6b-4bef-af81-9217f4f8a9f7",
+  "object": "beer",
+  "name": "MAZZIE",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

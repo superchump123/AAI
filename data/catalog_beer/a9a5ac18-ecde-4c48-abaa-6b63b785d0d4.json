@@ -1,0 +1,11 @@
+{
+  "id": "a9a5ac18-ecde-4c48-abaa-6b63b785d0d4",
+  "object": "beer",
+  "name": "Sandy Mountain IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

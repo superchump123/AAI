@@ -1,0 +1,11 @@
+{
+  "id": "c5a72bfa-22cb-4973-8597-14474b44d855",
+  "object": "beer",
+  "name": "Northwind Imperial Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

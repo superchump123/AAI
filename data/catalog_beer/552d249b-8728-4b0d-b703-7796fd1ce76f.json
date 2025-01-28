@@ -1,0 +1,11 @@
+{
+  "id": "552d249b-8728-4b0d-b703-7796fd1ce76f",
+  "object": "beer",
+  "name": "Samuel Adams Cherry Chocolate Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

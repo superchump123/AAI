@@ -1,0 +1,11 @@
+{
+  "id": "e3f71d9c-706b-4d68-9832-016b0e341efc",
+  "object": "beer",
+  "name": "Kanunnik Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

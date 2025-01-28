@@ -1,0 +1,11 @@
+{
+  "id": "c6a2fe40-5d51-410b-af9d-4c0a8b156b99",
+  "object": "beer",
+  "name": "EZ-7",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

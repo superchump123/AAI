@@ -1,0 +1,11 @@
+{
+  "id": "ca8f12ac-5b3d-4f54-97c2-03837699414b",
+  "object": "beer",
+  "name": "Giraffe Dance",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

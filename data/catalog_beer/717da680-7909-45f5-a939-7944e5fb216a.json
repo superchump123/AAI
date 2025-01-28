@@ -1,0 +1,11 @@
+{
+  "id": "717da680-7909-45f5-a939-7944e5fb216a",
+  "object": "beer",
+  "name": "Cali-Belgique IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 77,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

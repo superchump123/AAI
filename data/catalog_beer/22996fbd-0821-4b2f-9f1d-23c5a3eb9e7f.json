@@ -1,0 +1,11 @@
+{
+  "id": "22996fbd-0821-4b2f-9f1d-23c5a3eb9e7f",
+  "object": "beer",
+  "name": "Organic Best Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

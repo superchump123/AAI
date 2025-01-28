@@ -1,0 +1,11 @@
+{
+  "id": "b0c28f37-b06d-459b-919e-a95dac249c87",
+  "object": "beer",
+  "name": "Curbside",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

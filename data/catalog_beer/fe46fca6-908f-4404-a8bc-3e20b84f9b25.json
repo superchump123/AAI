@@ -1,0 +1,11 @@
+{
+  "id": "fe46fca6-908f-4404-a8bc-3e20b84f9b25",
+  "object": "beer",
+  "name": "Rosemary Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

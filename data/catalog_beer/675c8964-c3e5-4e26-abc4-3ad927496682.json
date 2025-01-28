@@ -1,0 +1,11 @@
+{
+  "id": "675c8964-c3e5-4e26-abc4-3ad927496682",
+  "object": "beer",
+  "name": "Aurora Hoppyalis",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

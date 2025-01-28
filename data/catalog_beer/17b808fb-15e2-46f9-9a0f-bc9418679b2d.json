@@ -1,0 +1,11 @@
+{
+  "id": "17b808fb-15e2-46f9-9a0f-bc9418679b2d",
+  "object": "beer",
+  "name": "Acme Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

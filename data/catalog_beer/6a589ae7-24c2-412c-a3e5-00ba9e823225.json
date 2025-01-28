@@ -1,0 +1,11 @@
+{
+  "id": "6a589ae7-24c2-412c-a3e5-00ba9e823225",
+  "object": "beer",
+  "name": "La Trappe Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

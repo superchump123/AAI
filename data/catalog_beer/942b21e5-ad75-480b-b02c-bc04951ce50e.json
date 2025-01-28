@@ -1,0 +1,11 @@
+{
+  "id": "942b21e5-ad75-480b-b02c-bc04951ce50e",
+  "object": "beer",
+  "name": "Juggernaut",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

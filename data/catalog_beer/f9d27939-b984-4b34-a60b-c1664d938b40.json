@@ -1,0 +1,11 @@
+{
+  "id": "f9d27939-b984-4b34-a60b-c1664d938b40",
+  "object": "beer",
+  "name": "Batch 2000",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

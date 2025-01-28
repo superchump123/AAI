@@ -1,0 +1,11 @@
+{
+  "id": "7222a7de-07ca-492c-a5a0-48c3d4115606",
+  "object": "beer",
+  "name": "Uncle Rico's Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

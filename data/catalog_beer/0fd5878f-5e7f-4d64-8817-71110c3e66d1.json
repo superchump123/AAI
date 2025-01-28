@@ -1,0 +1,11 @@
+{
+  "id": "0fd5878f-5e7f-4d64-8817-71110c3e66d1",
+  "object": "beer",
+  "name": "Snowbasin Amber Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

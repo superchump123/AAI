@@ -1,0 +1,11 @@
+{
+  "id": "ebec4b88-e557-4abf-80f0-0e492d60a41e",
+  "object": "beer",
+  "name": "beet stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

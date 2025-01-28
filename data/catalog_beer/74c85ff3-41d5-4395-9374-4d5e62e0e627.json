@@ -1,0 +1,11 @@
+{
+  "id": "74c85ff3-41d5-4395-9374-4d5e62e0e627",
+  "object": "beer",
+  "name": "Flagstaff Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

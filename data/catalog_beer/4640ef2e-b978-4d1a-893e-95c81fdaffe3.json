@@ -1,0 +1,11 @@
+{
+  "id": "4640ef2e-b978-4d1a-893e-95c81fdaffe3",
+  "object": "beer",
+  "name": "Soaring Eagle",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "221939bc-8086-4ad0-904e-b386d6a88b4e",
+  "object": "beer",
+  "name": "Smoked Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

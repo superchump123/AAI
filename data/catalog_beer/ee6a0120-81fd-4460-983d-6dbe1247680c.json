@@ -1,0 +1,11 @@
+{
+  "id": "ee6a0120-81fd-4460-983d-6dbe1247680c",
+  "object": "beer",
+  "name": "Snake River Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3ed3fabc-75fd-4b3e-82d4-3d12c96aa681",
+  "object": "beer",
+  "name": "Princeps Pacis",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

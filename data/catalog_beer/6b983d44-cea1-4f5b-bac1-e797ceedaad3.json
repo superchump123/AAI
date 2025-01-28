@@ -1,0 +1,11 @@
+{
+  "id": "6b983d44-cea1-4f5b-bac1-e797ceedaad3",
+  "object": "beer",
+  "name": "Puffers Smoked Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

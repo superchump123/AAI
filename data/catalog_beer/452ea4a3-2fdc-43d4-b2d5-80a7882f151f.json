@@ -1,0 +1,11 @@
+{
+  "id": "452ea4a3-2fdc-43d4-b2d5-80a7882f151f",
+  "object": "beer",
+  "name": "Wipa Snappa",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

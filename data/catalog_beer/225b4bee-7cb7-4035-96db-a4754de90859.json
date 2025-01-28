@@ -1,0 +1,11 @@
+{
+  "id": "225b4bee-7cb7-4035-96db-a4754de90859",
+  "object": "beer",
+  "name": "Imperial Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 11,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dac8344b-2b9c-4c60-a591-3818520dbc9d",
+  "object": "beer",
+  "name": "Cozy Blanket",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

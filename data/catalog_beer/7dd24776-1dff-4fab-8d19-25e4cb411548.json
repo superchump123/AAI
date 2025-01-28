@@ -1,0 +1,11 @@
+{
+  "id": "7dd24776-1dff-4fab-8d19-25e4cb411548",
+  "object": "beer",
+  "name": "Scandinavian Apple Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

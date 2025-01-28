@@ -1,0 +1,11 @@
+{
+  "id": "a5e58a28-6598-4e98-b2e9-83aae9322113",
+  "object": "beer",
+  "name": "Galleon's Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

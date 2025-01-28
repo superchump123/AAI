@@ -1,0 +1,11 @@
+{
+  "id": "fc6318cc-b6c0-4f45-8522-c7aa03294a23",
+  "object": "beer",
+  "name": "Great Escape",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "03d53c88-1ef8-44a9-8462-e696d13620de",
+  "object": "beer",
+  "name": "No. 2 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "baf5fdcb-ea1a-4c90-8b63-e8f27a3f01ab",
+  "object": "beer",
+  "name": "Sencha Tea Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

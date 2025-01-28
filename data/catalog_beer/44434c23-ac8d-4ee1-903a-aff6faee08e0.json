@@ -1,0 +1,11 @@
+{
+  "id": "44434c23-ac8d-4ee1-903a-aff6faee08e0",
+  "object": "beer",
+  "name": "Barrel Aged Mountain Standard",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

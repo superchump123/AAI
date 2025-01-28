@@ -1,0 +1,11 @@
+{
+  "id": "58e7fd9f-2221-486c-b43f-c6888a161482",
+  "object": "beer",
+  "name": "Red Flag",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

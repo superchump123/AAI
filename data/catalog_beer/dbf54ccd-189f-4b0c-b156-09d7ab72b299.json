@@ -1,0 +1,11 @@
+{
+  "id": "dbf54ccd-189f-4b0c-b156-09d7ab72b299",
+  "object": "beer",
+  "name": "Glisan St Dry Hop",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

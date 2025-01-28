@@ -1,0 +1,11 @@
+{
+  "id": "735d14fd-fcfa-475e-8a93-e0b539589154",
+  "object": "beer",
+  "name": "Carton Of Milk",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

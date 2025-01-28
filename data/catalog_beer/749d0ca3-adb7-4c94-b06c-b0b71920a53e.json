@@ -1,0 +1,11 @@
+{
+  "id": "749d0ca3-adb7-4c94-b06c-b0b71920a53e",
+  "object": "beer",
+  "name": "Tripel Bliss",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

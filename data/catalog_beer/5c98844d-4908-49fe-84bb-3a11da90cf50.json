@@ -1,0 +1,11 @@
+{
+  "id": "5c98844d-4908-49fe-84bb-3a11da90cf50",
+  "object": "beer",
+  "name": "Personal Space",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7ef58005-32b8-4fbe-8675-84b3f4b3c8f3",
+  "object": "beer",
+  "name": "Saff",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

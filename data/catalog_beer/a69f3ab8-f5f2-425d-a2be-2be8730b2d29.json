@@ -1,0 +1,11 @@
+{
+  "id": "a69f3ab8-f5f2-425d-a2be-2be8730b2d29",
+  "object": "beer",
+  "name": "Jever Pilsener",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

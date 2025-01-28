@@ -1,0 +1,11 @@
+{
+  "id": "36821b84-0473-4a50-ba55-4d854e139fbe",
+  "object": "beer",
+  "name": "Black Sheep",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

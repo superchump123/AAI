@@ -1,0 +1,11 @@
+{
+  "id": "cb9b7ce1-6da0-46e8-973c-019a30e05f4c",
+  "object": "beer",
+  "name": "Sunburn Summer Brew",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

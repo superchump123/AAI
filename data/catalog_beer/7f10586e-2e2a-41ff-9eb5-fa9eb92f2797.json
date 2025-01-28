@@ -1,0 +1,11 @@
+{
+  "id": "7f10586e-2e2a-41ff-9eb5-fa9eb92f2797",
+  "object": "beer",
+  "name": "Piper Down",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

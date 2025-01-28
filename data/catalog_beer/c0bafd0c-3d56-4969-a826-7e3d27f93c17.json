@@ -1,0 +1,11 @@
+{
+  "id": "c0bafd0c-3d56-4969-a826-7e3d27f93c17",
+  "object": "beer",
+  "name": "Dublin Down",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

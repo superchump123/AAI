@@ -1,0 +1,11 @@
+{
+  "id": "21f12456-52d4-46f1-9d41-b45bfe3c647e",
+  "object": "beer",
+  "name": "Unsessionable",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

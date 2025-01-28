@@ -1,0 +1,11 @@
+{
+  "id": "cba238d5-52f2-4012-87ed-ecb6cfe96ed8",
+  "object": "beer",
+  "name": "Seltrecht Pilsner",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

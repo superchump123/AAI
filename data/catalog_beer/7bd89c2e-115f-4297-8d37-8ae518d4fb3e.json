@@ -1,0 +1,11 @@
+{
+  "id": "7bd89c2e-115f-4297-8d37-8ae518d4fb3e",
+  "object": "beer",
+  "name": "Beach Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

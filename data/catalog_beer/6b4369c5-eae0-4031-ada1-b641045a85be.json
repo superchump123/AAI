@@ -1,0 +1,11 @@
+{
+  "id": "6b4369c5-eae0-4031-ada1-b641045a85be",
+  "object": "beer",
+  "name": "Tart Ten",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

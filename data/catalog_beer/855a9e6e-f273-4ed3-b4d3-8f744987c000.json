@@ -1,0 +1,11 @@
+{
+  "id": "855a9e6e-f273-4ed3-b4d3-8f744987c000",
+  "object": "beer",
+  "name": "Highlander Ale",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "46c6c135-4c5d-48a9-ab22-59d4f8d6292a",
+  "object": "beer",
+  "name": "Cream Soda Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

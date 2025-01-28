@@ -1,0 +1,11 @@
+{
+  "id": "138f0a58-6825-4684-9ac8-675a1c5d0042",
+  "object": "beer",
+  "name": "Chuck's Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

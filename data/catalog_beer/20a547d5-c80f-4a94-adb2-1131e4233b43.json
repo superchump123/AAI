@@ -1,0 +1,11 @@
+{
+  "id": "20a547d5-c80f-4a94-adb2-1131e4233b43",
+  "object": "beer",
+  "name": "The S.P.A.",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

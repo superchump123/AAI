@@ -1,0 +1,11 @@
+{
+  "id": "7b94bd42-d359-4fa7-b481-7710cdbcdd64",
+  "object": "beer",
+  "name": "Victorian Sunrise Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

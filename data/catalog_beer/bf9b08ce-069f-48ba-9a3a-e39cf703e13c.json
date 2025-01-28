@@ -1,0 +1,11 @@
+{
+  "id": "bf9b08ce-069f-48ba-9a3a-e39cf703e13c",
+  "object": "beer",
+  "name": "Vanilla Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

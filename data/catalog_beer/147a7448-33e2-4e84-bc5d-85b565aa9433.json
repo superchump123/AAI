@@ -1,0 +1,11 @@
+{
+  "id": "147a7448-33e2-4e84-bc5d-85b565aa9433",
+  "object": "beer",
+  "name": "Thomas Hardy's Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 11.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

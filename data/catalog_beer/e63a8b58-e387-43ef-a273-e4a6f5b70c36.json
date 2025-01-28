@@ -1,0 +1,11 @@
+{
+  "id": "e63a8b58-e387-43ef-a273-e4a6f5b70c36",
+  "object": "beer",
+  "name": "West Coast Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

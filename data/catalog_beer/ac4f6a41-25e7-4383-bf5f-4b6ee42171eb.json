@@ -1,0 +1,11 @@
+{
+  "id": "ac4f6a41-25e7-4383-bf5f-4b6ee42171eb",
+  "object": "beer",
+  "name": "Hapa Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

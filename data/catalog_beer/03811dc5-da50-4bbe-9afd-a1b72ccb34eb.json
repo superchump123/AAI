@@ -1,0 +1,11 @@
+{
+  "id": "03811dc5-da50-4bbe-9afd-a1b72ccb34eb",
+  "object": "beer",
+  "name": "Imperial Stout",
+  "style": "Imperial Stout",
+  "description": "Pours jet-black with a tan head. Intense roasted malt character. Complex dark fruit flavors carry through bittersweet layers of coffee, chocolate, and rich toffee whilst the full-bodied, rich texture is balanced by big alcohol. Brewed with Pale malt, roasted barley, chocolate malt, flaked barley, black malt, Special B malt, peated malt, Munich malt, and white wheat.",
+  "abv": 11,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1666022158
+}

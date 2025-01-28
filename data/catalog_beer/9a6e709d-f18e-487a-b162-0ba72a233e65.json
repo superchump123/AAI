@@ -1,0 +1,11 @@
+{
+  "id": "9a6e709d-f18e-487a-b162-0ba72a233e65",
+  "object": "beer",
+  "name": "Winni Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

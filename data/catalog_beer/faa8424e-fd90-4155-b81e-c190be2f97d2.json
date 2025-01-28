@@ -1,0 +1,11 @@
+{
+  "id": "faa8424e-fd90-4155-b81e-c190be2f97d2",
+  "object": "beer",
+  "name": "Proto DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

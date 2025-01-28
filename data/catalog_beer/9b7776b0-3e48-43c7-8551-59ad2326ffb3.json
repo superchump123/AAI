@@ -1,0 +1,11 @@
+{
+  "id": "9b7776b0-3e48-43c7-8551-59ad2326ffb3",
+  "object": "beer",
+  "name": "Southern Gold",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

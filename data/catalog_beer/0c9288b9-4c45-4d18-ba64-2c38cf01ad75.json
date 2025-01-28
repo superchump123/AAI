@@ -1,0 +1,11 @@
+{
+  "id": "0c9288b9-4c45-4d18-ba64-2c38cf01ad75",
+  "object": "beer",
+  "name": "Gadzooks Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

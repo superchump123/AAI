@@ -1,0 +1,11 @@
+{
+  "id": "29c66093-0c90-48ea-a97d-1af912e3c2d4",
+  "object": "beer",
+  "name": "Stifler\u2019s Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

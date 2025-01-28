@@ -1,0 +1,11 @@
+{
+  "id": "59bf4624-7f59-405e-97db-613907e69b8b",
+  "object": "beer",
+  "name": "Betty IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd8cc495-fbf7-4393-aadc-495b304295e2",
+  "object": "beer",
+  "name": "Andes",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bce13b77-f99b-44cc-afed-2d0886c6d5a0",
+  "object": "beer",
+  "name": "Magnum Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

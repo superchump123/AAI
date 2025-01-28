@@ -1,0 +1,11 @@
+{
+  "id": "2d07291b-bc33-4578-ab1b-84236d901c05",
+  "object": "beer",
+  "name": "Apocalyptic Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

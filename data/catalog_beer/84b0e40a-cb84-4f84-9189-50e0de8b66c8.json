@@ -1,0 +1,11 @@
+{
+  "id": "84b0e40a-cb84-4f84-9189-50e0de8b66c8",
+  "object": "beer",
+  "name": "Experiment 1185",
+  "style": "Pale Ale",
+  "description": "We will be tapping a new and unique, specialty experimental Pale Ale brewed with Chinook, Cascade, CTZ and Cluster Hops. The Four C\u2019s of Pale!",
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": true,
+  "last_modified": 1511568591
+}

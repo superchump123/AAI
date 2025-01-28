@@ -1,0 +1,11 @@
+{
+  "id": "b5718d68-7796-44e5-9361-c0820a4e3f0b",
+  "object": "beer",
+  "name": "Play Date",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

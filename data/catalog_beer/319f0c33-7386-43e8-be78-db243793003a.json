@@ -1,0 +1,11 @@
+{
+  "id": "319f0c33-7386-43e8-be78-db243793003a",
+  "object": "beer",
+  "name": "Meridian Session",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

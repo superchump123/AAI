@@ -1,0 +1,11 @@
+{
+  "id": "b035da36-0599-4dfb-a709-8fa07db4ccd0",
+  "object": "beer",
+  "name": "Oktoberfest Lagerbier",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

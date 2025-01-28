@@ -1,0 +1,11 @@
+{
+  "id": "f5a05796-ad9e-4084-9dbb-a0981adfd36c",
+  "object": "beer",
+  "name": "Stout With No Name",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

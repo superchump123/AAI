@@ -1,0 +1,11 @@
+{
+  "id": "4b92fd80-40d5-4b06-abd0-0bdcbd8bf30b",
+  "object": "beer",
+  "name": "Black IPA (9th Anniversary)",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

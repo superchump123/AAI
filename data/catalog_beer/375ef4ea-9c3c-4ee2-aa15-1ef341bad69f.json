@@ -1,0 +1,11 @@
+{
+  "id": "375ef4ea-9c3c-4ee2-aa15-1ef341bad69f",
+  "object": "beer",
+  "name": "Morning Impact",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

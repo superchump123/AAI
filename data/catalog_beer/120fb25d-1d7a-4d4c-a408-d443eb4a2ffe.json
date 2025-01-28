@@ -1,0 +1,11 @@
+{
+  "id": "120fb25d-1d7a-4d4c-a408-d443eb4a2ffe",
+  "object": "beer",
+  "name": "Rauchbier M\u00e4rzen",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

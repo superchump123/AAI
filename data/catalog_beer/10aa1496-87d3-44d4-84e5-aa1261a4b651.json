@@ -1,0 +1,11 @@
+{
+  "id": "10aa1496-87d3-44d4-84e5-aa1261a4b651",
+  "object": "beer",
+  "name": "By Vine And Stave",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

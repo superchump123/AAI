@@ -1,0 +1,11 @@
+{
+  "id": "85766d7a-7f83-43d7-894b-8508bb96f185",
+  "object": "beer",
+  "name": "Luster",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

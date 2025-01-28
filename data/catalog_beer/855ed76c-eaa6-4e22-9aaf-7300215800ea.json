@@ -1,0 +1,11 @@
+{
+  "id": "855ed76c-eaa6-4e22-9aaf-7300215800ea",
+  "object": "beer",
+  "name": "Thunderbolt",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2fe5ad3f-9be6-4f17-8e85-3c16c1f0847a",
+  "object": "beer",
+  "name": "Holiday Cheer",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

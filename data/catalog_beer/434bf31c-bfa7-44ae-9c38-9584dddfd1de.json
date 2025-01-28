@@ -1,0 +1,11 @@
+{
+  "id": "434bf31c-bfa7-44ae-9c38-9584dddfd1de",
+  "object": "beer",
+  "name": "Sap Sucker",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

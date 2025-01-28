@@ -1,0 +1,11 @@
+{
+  "id": "20c415ad-9437-4bb8-a725-f04c325e00cb",
+  "object": "beer",
+  "name": "Saison Dry Hop Test #2",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

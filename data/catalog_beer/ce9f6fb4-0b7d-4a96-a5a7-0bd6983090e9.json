@@ -1,0 +1,11 @@
+{
+  "id": "ce9f6fb4-0b7d-4a96-a5a7-0bd6983090e9",
+  "object": "beer",
+  "name": "Kentucky Mountain",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

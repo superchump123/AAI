@@ -1,0 +1,11 @@
+{
+  "id": "29e6bc34-4e9d-415a-972a-647a5dd207df",
+  "object": "beer",
+  "name": "Castle Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

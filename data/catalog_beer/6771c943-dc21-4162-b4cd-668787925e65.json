@@ -1,0 +1,11 @@
+{
+  "id": "6771c943-dc21-4162-b4cd-668787925e65",
+  "object": "beer",
+  "name": "Brute's Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

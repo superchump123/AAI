@@ -1,0 +1,11 @@
+{
+  "id": "e4f8d302-ee78-4cad-8c11-fa6088603286",
+  "object": "beer",
+  "name": "Mango Simcoe Goodness",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

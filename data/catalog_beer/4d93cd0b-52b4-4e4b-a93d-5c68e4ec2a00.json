@@ -1,0 +1,11 @@
+{
+  "id": "4d93cd0b-52b4-4e4b-a93d-5c68e4ec2a00",
+  "object": "beer",
+  "name": "Sahalie",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

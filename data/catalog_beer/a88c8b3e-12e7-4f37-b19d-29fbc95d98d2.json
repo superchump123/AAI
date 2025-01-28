@@ -1,0 +1,11 @@
+{
+  "id": "a88c8b3e-12e7-4f37-b19d-29fbc95d98d2",
+  "object": "beer",
+  "name": "Sunray Wheat Beer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

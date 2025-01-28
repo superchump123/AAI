@@ -1,0 +1,11 @@
+{
+  "id": "e925423f-7766-448e-9fd7-658ddd92dfda",
+  "object": "beer",
+  "name": "Harvest Ale (Port)",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

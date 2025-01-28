@@ -1,0 +1,11 @@
+{
+  "id": "41f8b58a-69dc-42b2-a6ff-5b2b19e979dc",
+  "object": "beer",
+  "name": "Jammin Blue Mountain",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

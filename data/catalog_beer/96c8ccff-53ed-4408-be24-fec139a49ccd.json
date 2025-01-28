@@ -1,0 +1,11 @@
+{
+  "id": "96c8ccff-53ed-4408-be24-fec139a49ccd",
+  "object": "beer",
+  "name": "Honey Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

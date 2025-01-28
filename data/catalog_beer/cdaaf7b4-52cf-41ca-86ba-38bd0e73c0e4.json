@@ -1,0 +1,11 @@
+{
+  "id": "cdaaf7b4-52cf-41ca-86ba-38bd0e73c0e4",
+  "object": "beer",
+  "name": "Raven De Garde",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

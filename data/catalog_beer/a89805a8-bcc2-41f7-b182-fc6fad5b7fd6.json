@@ -1,0 +1,11 @@
+{
+  "id": "a89805a8-bcc2-41f7-b182-fc6fad5b7fd6",
+  "object": "beer",
+  "name": "Beer Engine Snobs",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

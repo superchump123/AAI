@@ -1,0 +1,11 @@
+{
+  "id": "2e1c5c91-c14e-4292-a937-ef5af1a9484c",
+  "object": "beer",
+  "name": "Haze Craze",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

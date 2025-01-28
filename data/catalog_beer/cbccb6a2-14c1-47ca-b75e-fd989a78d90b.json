@@ -1,0 +1,11 @@
+{
+  "id": "cbccb6a2-14c1-47ca-b75e-fd989a78d90b",
+  "object": "beer",
+  "name": "Semper Fi P A",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

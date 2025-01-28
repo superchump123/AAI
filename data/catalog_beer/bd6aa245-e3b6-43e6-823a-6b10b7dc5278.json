@@ -1,0 +1,11 @@
+{
+  "id": "bd6aa245-e3b6-43e6-823a-6b10b7dc5278",
+  "object": "beer",
+  "name": "Great Notions Lager",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

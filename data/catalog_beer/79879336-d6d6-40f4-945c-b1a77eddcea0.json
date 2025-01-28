@@ -1,0 +1,11 @@
+{
+  "id": "79879336-d6d6-40f4-945c-b1a77eddcea0",
+  "object": "beer",
+  "name": "Java Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

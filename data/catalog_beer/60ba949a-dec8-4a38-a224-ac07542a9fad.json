@@ -1,0 +1,11 @@
+{
+  "id": "60ba949a-dec8-4a38-a224-ac07542a9fad",
+  "object": "beer",
+  "name": "PorkSlap Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

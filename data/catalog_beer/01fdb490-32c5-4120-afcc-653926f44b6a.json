@@ -1,0 +1,11 @@
+{
+  "id": "01fdb490-32c5-4120-afcc-653926f44b6a",
+  "object": "beer",
+  "name": "Schwarze Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e8ed01f6-ba96-495b-8ff6-eec8cd315c9f",
+  "object": "beer",
+  "name": "Endeavour Growers Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

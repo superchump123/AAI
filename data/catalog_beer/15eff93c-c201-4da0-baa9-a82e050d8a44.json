@@ -1,0 +1,11 @@
+{
+  "id": "15eff93c-c201-4da0-baa9-a82e050d8a44",
+  "object": "beer",
+  "name": "Butcher Block Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

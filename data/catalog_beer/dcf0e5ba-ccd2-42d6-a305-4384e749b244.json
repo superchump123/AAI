@@ -1,0 +1,11 @@
+{
+  "id": "dcf0e5ba-ccd2-42d6-a305-4384e749b244",
+  "object": "beer",
+  "name": "Monk\u2019s Lunch",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

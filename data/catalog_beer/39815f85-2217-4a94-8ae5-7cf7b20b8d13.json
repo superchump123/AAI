@@ -1,0 +1,11 @@
+{
+  "id": "39815f85-2217-4a94-8ae5-7cf7b20b8d13",
+  "object": "beer",
+  "name": "Dirty Bird Black Lager",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

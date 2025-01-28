@@ -1,0 +1,11 @@
+{
+  "id": "6a469180-f3f8-4ae1-9a53-9f21ba3fd1ff",
+  "object": "beer",
+  "name": "POTUS 44",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

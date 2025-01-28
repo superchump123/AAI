@@ -1,0 +1,11 @@
+{
+  "id": "1fe12df1-08e5-447f-92fb-744dc72ea52e",
+  "object": "beer",
+  "name": "Boxcarr",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

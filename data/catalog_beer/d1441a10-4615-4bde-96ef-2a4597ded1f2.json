@@ -1,0 +1,11 @@
+{
+  "id": "d1441a10-4615-4bde-96ef-2a4597ded1f2",
+  "object": "beer",
+  "name": "Adnams Ghost Ship",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

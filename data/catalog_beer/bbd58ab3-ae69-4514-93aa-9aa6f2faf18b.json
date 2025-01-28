@@ -1,0 +1,11 @@
+{
+  "id": "bbd58ab3-ae69-4514-93aa-9aa6f2faf18b",
+  "object": "beer",
+  "name": "Kirner Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

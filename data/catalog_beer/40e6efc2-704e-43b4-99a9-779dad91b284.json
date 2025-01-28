@@ -1,0 +1,11 @@
+{
+  "id": "40e6efc2-704e-43b4-99a9-779dad91b284",
+  "object": "beer",
+  "name": "BAR BAR",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

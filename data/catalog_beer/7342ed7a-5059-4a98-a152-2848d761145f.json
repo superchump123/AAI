@@ -1,0 +1,11 @@
+{
+  "id": "7342ed7a-5059-4a98-a152-2848d761145f",
+  "object": "beer",
+  "name": "Slainte",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

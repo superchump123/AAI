@@ -1,0 +1,11 @@
+{
+  "id": "e219fa8b-e2e6-470f-a716-7f234ae48d89",
+  "object": "beer",
+  "name": "Little Mayhem",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

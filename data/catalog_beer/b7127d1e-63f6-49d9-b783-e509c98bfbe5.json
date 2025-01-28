@@ -1,0 +1,11 @@
+{
+  "id": "b7127d1e-63f6-49d9-b783-e509c98bfbe5",
+  "object": "beer",
+  "name": "Rocky Horror Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

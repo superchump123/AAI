@@ -1,0 +1,11 @@
+{
+  "id": "fca7a4a0-8b69-4776-be93-0ee1ddae52cf",
+  "object": "beer",
+  "name": "Hop Turn IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

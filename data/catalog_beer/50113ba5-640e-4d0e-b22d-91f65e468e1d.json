@@ -1,0 +1,11 @@
+{
+  "id": "50113ba5-640e-4d0e-b22d-91f65e468e1d",
+  "object": "beer",
+  "name": "Dragonfly American Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

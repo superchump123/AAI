@@ -1,0 +1,11 @@
+{
+  "id": "2dd29bae-2cdb-4ddc-99b3-aaa9da740838",
+  "object": "beer",
+  "name": "Liquid Gold",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

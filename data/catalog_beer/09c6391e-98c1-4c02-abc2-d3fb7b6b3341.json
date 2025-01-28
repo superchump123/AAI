@@ -1,0 +1,11 @@
+{
+  "id": "09c6391e-98c1-4c02-abc2-d3fb7b6b3341",
+  "object": "beer",
+  "name": "Shut Up, Meg!",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

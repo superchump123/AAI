@@ -1,0 +1,11 @@
+{
+  "id": "be5c56f9-bde8-4a51-abac-fa6460f59902",
+  "object": "beer",
+  "name": "Five Mile Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

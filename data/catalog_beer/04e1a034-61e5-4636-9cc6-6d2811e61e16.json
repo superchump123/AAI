@@ -1,0 +1,11 @@
+{
+  "id": "04e1a034-61e5-4636-9cc6-6d2811e61e16",
+  "object": "beer",
+  "name": "Blarney Blonde",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

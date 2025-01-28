@@ -1,0 +1,11 @@
+{
+  "id": "4c9242e8-717d-46cf-a7f4-c3c74c16f30a",
+  "object": "beer",
+  "name": "La Onza",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

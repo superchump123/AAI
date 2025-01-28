@@ -1,0 +1,11 @@
+{
+  "id": "763ebbd3-b834-47ae-9d45-3fd2bd47a920",
+  "object": "beer",
+  "name": "Hot Pistol",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

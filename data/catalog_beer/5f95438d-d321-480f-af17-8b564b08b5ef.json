@@ -1,0 +1,11 @@
+{
+  "id": "5f95438d-d321-480f-af17-8b564b08b5ef",
+  "object": "beer",
+  "name": "Der Couvensteiner",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

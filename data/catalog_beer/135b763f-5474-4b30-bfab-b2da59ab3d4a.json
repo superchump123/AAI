@@ -1,0 +1,11 @@
+{
+  "id": "135b763f-5474-4b30-bfab-b2da59ab3d4a",
+  "object": "beer",
+  "name": "Epic Mayhem",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

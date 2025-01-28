@@ -1,0 +1,11 @@
+{
+  "id": "eb9d260a-c9d0-4919-8e18-cdc22e5d0bd9",
+  "object": "beer",
+  "name": "Bobcat Red",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

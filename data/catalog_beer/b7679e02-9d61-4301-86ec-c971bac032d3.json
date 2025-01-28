@@ -1,0 +1,11 @@
+{
+  "id": "b7679e02-9d61-4301-86ec-c971bac032d3",
+  "object": "beer",
+  "name": "Boston Irish Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

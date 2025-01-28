@@ -1,0 +1,11 @@
+{
+  "id": "07b15d4c-2db6-4850-99be-66cc81080d4c",
+  "object": "beer",
+  "name": "Plowman's Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

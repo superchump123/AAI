@@ -1,0 +1,11 @@
+{
+  "id": "31123cd4-5846-46c9-85fb-9e6e6c299ce1",
+  "object": "beer",
+  "name": "Spiked Tea",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

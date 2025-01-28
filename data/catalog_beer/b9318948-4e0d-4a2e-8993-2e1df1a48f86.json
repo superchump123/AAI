@@ -1,0 +1,11 @@
+{
+  "id": "b9318948-4e0d-4a2e-8993-2e1df1a48f86",
+  "object": "beer",
+  "name": "Rebel Raw Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

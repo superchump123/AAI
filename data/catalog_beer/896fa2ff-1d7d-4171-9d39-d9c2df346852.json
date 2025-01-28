@@ -1,0 +1,11 @@
+{
+  "id": "896fa2ff-1d7d-4171-9d39-d9c2df346852",
+  "object": "beer",
+  "name": "Electric Stinger",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

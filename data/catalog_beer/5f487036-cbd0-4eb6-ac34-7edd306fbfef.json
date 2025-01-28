@@ -1,0 +1,11 @@
+{
+  "id": "5f487036-cbd0-4eb6-ac34-7edd306fbfef",
+  "object": "beer",
+  "name": "The True Scotsman",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

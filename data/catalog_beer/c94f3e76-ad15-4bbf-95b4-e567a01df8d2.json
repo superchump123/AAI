@@ -1,0 +1,11 @@
+{
+  "id": "c94f3e76-ad15-4bbf-95b4-e567a01df8d2",
+  "object": "beer",
+  "name": "Pyro APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

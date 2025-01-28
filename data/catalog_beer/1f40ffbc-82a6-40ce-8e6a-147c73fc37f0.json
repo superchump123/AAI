@@ -1,0 +1,11 @@
+{
+  "id": "1f40ffbc-82a6-40ce-8e6a-147c73fc37f0",
+  "object": "beer",
+  "name": "Block Party",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "93335b9c-6e01-4d9e-8a21-00b898c7e942",
+  "object": "beer",
+  "name": "Cranberry Pumpkinfest",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

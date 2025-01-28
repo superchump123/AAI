@@ -1,0 +1,11 @@
+{
+  "id": "e70c9623-de2f-4fea-821b-3b1d1eb276a3",
+  "object": "beer",
+  "name": "Fuel",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

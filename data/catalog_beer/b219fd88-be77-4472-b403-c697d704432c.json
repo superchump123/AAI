@@ -1,0 +1,11 @@
+{
+  "id": "b219fd88-be77-4472-b403-c697d704432c",
+  "object": "beer",
+  "name": "Devil's Hoard",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

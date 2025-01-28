@@ -1,0 +1,11 @@
+{
+  "id": "529eb39e-c503-4195-abe1-6d7e1bff32a0",
+  "object": "beer",
+  "name": "GingerRed Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

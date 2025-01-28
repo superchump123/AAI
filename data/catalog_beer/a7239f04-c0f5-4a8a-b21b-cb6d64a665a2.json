@@ -1,0 +1,11 @@
+{
+  "id": "a7239f04-c0f5-4a8a-b21b-cb6d64a665a2",
+  "object": "beer",
+  "name": "Galena Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

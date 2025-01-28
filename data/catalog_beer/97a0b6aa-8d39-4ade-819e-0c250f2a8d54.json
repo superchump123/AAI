@@ -1,0 +1,11 @@
+{
+  "id": "97a0b6aa-8d39-4ade-819e-0c250f2a8d54",
+  "object": "beer",
+  "name": "Amber Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

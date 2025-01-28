@@ -1,0 +1,11 @@
+{
+  "id": "4b85f604-15cd-4b33-8ce4-d26237edd62b",
+  "object": "beer",
+  "name": "Cerveja Pilsen (Playboy)",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2e0665e3-ca24-4668-89ea-f51630803eaa",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Goliat",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

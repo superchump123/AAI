@@ -1,0 +1,11 @@
+{
+  "id": "ef0c3d74-d92e-4cba-a371-72a452883879",
+  "object": "beer",
+  "name": "Nitro Shakespeare",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

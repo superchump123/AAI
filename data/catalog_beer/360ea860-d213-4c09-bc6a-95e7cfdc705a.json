@@ -1,0 +1,11 @@
+{
+  "id": "360ea860-d213-4c09-bc6a-95e7cfdc705a",
+  "object": "beer",
+  "name": "Snow Wizard",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

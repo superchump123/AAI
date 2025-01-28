@@ -1,0 +1,11 @@
+{
+  "id": "e1c273f9-06a0-41dc-958e-59daaeab7f11",
+  "object": "beer",
+  "name": "Sternquell Bockbier",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

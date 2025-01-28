@@ -1,0 +1,11 @@
+{
+  "id": "4b80a9ce-a06b-4838-a766-2c7a06648aaa",
+  "object": "beer",
+  "name": "Saranac Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

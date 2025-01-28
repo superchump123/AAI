@@ -1,0 +1,11 @@
+{
+  "id": "f458dafe-cf16-4c4a-a261-c76aab8045d0",
+  "object": "beer",
+  "name": "Marta's Farmhouse Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

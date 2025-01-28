@@ -1,0 +1,11 @@
+{
+  "id": "92e5b2a5-5cf7-4c54-87b8-14b73daaacb1",
+  "object": "beer",
+  "name": "Skilak Scottish",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "637cefe0-c98c-4a69-98b3-84a3e15eaf16",
+  "object": "beer",
+  "name": "Horatio",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b2ec022-89ca-4ac0-9032-aa1db5f8261c",
+  "object": "beer",
+  "name": "Cream Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

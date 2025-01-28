@@ -1,0 +1,11 @@
+{
+  "id": "cbbd19c5-08e7-4132-8463-0f2977b6cb94",
+  "object": "beer",
+  "name": "Brickhouse \"Roasted\" Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

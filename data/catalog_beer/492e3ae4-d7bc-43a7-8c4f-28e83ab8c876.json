@@ -1,0 +1,11 @@
+{
+  "id": "492e3ae4-d7bc-43a7-8c4f-28e83ab8c876",
+  "object": "beer",
+  "name": "Seersucker Summer Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

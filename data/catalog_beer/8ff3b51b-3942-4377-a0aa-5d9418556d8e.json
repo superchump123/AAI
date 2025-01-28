@@ -1,0 +1,11 @@
+{
+  "id": "8ff3b51b-3942-4377-a0aa-5d9418556d8e",
+  "object": "beer",
+  "name": "Panda",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

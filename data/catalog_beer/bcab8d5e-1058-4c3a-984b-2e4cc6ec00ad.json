@@ -1,0 +1,11 @@
+{
+  "id": "bcab8d5e-1058-4c3a-984b-2e4cc6ec00ad",
+  "object": "beer",
+  "name": "Moonlight Harvest Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

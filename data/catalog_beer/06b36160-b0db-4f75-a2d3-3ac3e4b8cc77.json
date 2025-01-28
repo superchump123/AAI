@@ -1,0 +1,11 @@
+{
+  "id": "06b36160-b0db-4f75-a2d3-3ac3e4b8cc77",
+  "object": "beer",
+  "name": "Who's your Paddy?",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c2b5cd29-0328-4002-86c0-7e32be2f8148",
+  "object": "beer",
+  "name": "Hans' Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

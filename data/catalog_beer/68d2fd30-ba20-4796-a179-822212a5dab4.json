@@ -1,0 +1,11 @@
+{
+  "id": "68d2fd30-ba20-4796-a179-822212a5dab4",
+  "object": "beer",
+  "name": "Light Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

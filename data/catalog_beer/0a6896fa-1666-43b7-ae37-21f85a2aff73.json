@@ -1,0 +1,11 @@
+{
+  "id": "0a6896fa-1666-43b7-ae37-21f85a2aff73",
+  "object": "beer",
+  "name": "Old Kaya Dog",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 113,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

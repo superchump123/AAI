@@ -1,0 +1,11 @@
+{
+  "id": "38e22dff-fc6d-49d1-9dbd-f1470b07ca02",
+  "object": "beer",
+  "name": "Pearly Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

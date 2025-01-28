@@ -1,0 +1,11 @@
+{
+  "id": "cf11efa9-a671-45e3-8570-0bd4bc11c832",
+  "object": "beer",
+  "name": "Pray for Barrels",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

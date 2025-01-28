@@ -1,0 +1,11 @@
+{
+  "id": "222e91c9-8663-4a2a-a8b7-6ca591eecb27",
+  "object": "beer",
+  "name": "Hop Arsenal",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

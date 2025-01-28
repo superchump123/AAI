@@ -1,0 +1,11 @@
+{
+  "id": "f1282e10-3f95-4d50-8f97-e2a5501e1d92",
+  "object": "beer",
+  "name": "Toasted Oak India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

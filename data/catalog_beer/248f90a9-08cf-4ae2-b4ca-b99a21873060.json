@@ -1,0 +1,11 @@
+{
+  "id": "248f90a9-08cf-4ae2-b4ca-b99a21873060",
+  "object": "beer",
+  "name": "Smoked Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

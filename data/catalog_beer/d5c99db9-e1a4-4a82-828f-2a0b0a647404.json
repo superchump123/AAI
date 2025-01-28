@@ -1,0 +1,11 @@
+{
+  "id": "d5c99db9-e1a4-4a82-828f-2a0b0a647404",
+  "object": "beer",
+  "name": "888 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

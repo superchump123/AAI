@@ -1,0 +1,11 @@
+{
+  "id": "1efe384c-881f-4df7-9667-cf534ad1b6b2",
+  "object": "beer",
+  "name": "Hiawassee Golden Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6be1572e-21d6-40af-b73f-607349c84d72",
+  "object": "beer",
+  "name": "Paris of the West",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

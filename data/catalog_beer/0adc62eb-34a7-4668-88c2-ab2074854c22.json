@@ -1,0 +1,11 @@
+{
+  "id": "0adc62eb-34a7-4668-88c2-ab2074854c22",
+  "object": "beer",
+  "name": "El Gourdo",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

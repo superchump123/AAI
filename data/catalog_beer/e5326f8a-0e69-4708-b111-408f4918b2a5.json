@@ -1,0 +1,11 @@
+{
+  "id": "e5326f8a-0e69-4708-b111-408f4918b2a5",
+  "object": "beer",
+  "name": "The Tribe",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

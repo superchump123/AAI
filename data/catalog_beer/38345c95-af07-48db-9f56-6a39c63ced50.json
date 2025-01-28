@@ -1,0 +1,11 @@
+{
+  "id": "38345c95-af07-48db-9f56-6a39c63ced50",
+  "object": "beer",
+  "name": "Hopscursion Brett IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

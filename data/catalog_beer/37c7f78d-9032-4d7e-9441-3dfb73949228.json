@@ -1,0 +1,11 @@
+{
+  "id": "37c7f78d-9032-4d7e-9441-3dfb73949228",
+  "object": "beer",
+  "name": "Kalona Classic",
+  "style": "American-Style Low-Carbohydrate Light Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

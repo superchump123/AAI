@@ -1,0 +1,11 @@
+{
+  "id": "078f246a-d5b7-410c-a501-63539955f6b0",
+  "object": "beer",
+  "name": "Tumbledown Shack",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

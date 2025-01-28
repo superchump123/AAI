@@ -1,0 +1,11 @@
+{
+  "id": "9d1e69f6-3cd5-43f5-ae2d-628a4403c0fd",
+  "object": "beer",
+  "name": "Bag O' Bones",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ae5baf1f-c750-4ba5-9335-57cde9cd5345",
+  "object": "beer",
+  "name": "New Horizon Wheat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "31c0e8c3-21ad-40eb-9c1a-293247a2a359",
+  "object": "beer",
+  "name": "Moreeke",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

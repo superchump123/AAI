@@ -1,0 +1,11 @@
+{
+  "id": "d7ac0c8a-eb18-4db4-8c6b-e60b93420bf4",
+  "object": "beer",
+  "name": "Campfire Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

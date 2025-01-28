@@ -1,0 +1,11 @@
+{
+  "id": "b5cf0890-257c-481e-9c53-73148a389649",
+  "object": "beer",
+  "name": "Bock Drop & Roll",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

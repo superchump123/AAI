@@ -1,0 +1,11 @@
+{
+  "id": "534a1ec3-767f-4d4d-922e-9c256f7f4ee0",
+  "object": "beer",
+  "name": "Famine",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 4,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

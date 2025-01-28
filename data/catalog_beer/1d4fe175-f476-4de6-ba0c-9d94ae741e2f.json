@@ -1,0 +1,11 @@
+{
+  "id": "1d4fe175-f476-4de6-ba0c-9d94ae741e2f",
+  "object": "beer",
+  "name": "Kaliedoscope",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

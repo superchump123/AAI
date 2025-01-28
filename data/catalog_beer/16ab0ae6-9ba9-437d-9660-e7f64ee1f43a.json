@@ -1,0 +1,11 @@
+{
+  "id": "16ab0ae6-9ba9-437d-9660-e7f64ee1f43a",
+  "object": "beer",
+  "name": "Parker Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d0b3ee81-8620-4b8d-a546-80e3e6e016d1",
+  "object": "beer",
+  "name": "Hop Program - Beer I",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

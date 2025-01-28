@@ -1,0 +1,11 @@
+{
+  "id": "7e217c83-3b60-4d45-86db-cb4886990d3b",
+  "object": "beer",
+  "name": "Chocolate Covered Raisins",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

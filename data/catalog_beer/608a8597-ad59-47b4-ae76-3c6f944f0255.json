@@ -1,0 +1,11 @@
+{
+  "id": "608a8597-ad59-47b4-ae76-3c6f944f0255",
+  "object": "beer",
+  "name": "Beoir Curnaght",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "174b0c6f-1a99-4f42-923a-d2b42a2a45b1",
+  "object": "beer",
+  "name": "Bonefish Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

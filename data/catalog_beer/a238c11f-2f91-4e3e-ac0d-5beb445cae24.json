@@ -1,0 +1,11 @@
+{
+  "id": "a238c11f-2f91-4e3e-ac0d-5beb445cae24",
+  "object": "beer",
+  "name": "Dos Costas Oeste",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

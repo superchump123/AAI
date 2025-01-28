@@ -1,0 +1,11 @@
+{
+  "id": "35453629-dc60-410c-bf31-6a55f4223828",
+  "object": "beer",
+  "name": "Getaway",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a15a1e2d-5be2-4bc8-b418-0c7d97459162",
+  "object": "beer",
+  "name": "Wit Cloudkicker",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

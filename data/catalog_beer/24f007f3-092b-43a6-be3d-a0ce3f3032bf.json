@@ -1,0 +1,11 @@
+{
+  "id": "24f007f3-092b-43a6-be3d-a0ce3f3032bf",
+  "object": "beer",
+  "name": "Leinenkugel's Classic Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

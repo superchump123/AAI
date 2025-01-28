@@ -1,0 +1,11 @@
+{
+  "id": "67a4050a-41e0-4da5-8278-d284b9fe34c1",
+  "object": "beer",
+  "name": "Abbey Blond Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

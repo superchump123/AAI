@@ -1,0 +1,11 @@
+{
+  "id": "53e7e25f-cc74-4db9-8705-0d9080394e64",
+  "object": "beer",
+  "name": "Bud Extra",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

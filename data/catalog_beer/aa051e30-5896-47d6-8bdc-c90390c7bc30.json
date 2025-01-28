@@ -1,0 +1,11 @@
+{
+  "id": "aa051e30-5896-47d6-8bdc-c90390c7bc30",
+  "object": "beer",
+  "name": "Revelations Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

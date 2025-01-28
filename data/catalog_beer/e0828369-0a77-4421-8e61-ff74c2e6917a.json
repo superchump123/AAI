@@ -1,0 +1,11 @@
+{
+  "id": "e0828369-0a77-4421-8e61-ff74c2e6917a",
+  "object": "beer",
+  "name": "Malt Duck",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

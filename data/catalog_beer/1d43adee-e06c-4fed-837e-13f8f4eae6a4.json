@@ -1,0 +1,11 @@
+{
+  "id": "1d43adee-e06c-4fed-837e-13f8f4eae6a4",
+  "object": "beer",
+  "name": "Genesis",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

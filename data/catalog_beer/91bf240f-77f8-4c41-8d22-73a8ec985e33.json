@@ -1,0 +1,11 @@
+{
+  "id": "91bf240f-77f8-4c41-8d22-73a8ec985e33",
+  "object": "beer",
+  "name": "Chili Beer",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

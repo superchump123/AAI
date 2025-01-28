@@ -1,0 +1,11 @@
+{
+  "id": "99d2cf1c-f9cd-435e-bc39-382cd42c3f52",
+  "object": "beer",
+  "name": "Black Saisson",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

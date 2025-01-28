@@ -1,0 +1,11 @@
+{
+  "id": "c9230008-34c3-4e6b-bbe5-b696e6e861da",
+  "object": "beer",
+  "name": "Black Hops",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

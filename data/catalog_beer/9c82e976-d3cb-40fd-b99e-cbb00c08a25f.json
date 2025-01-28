@@ -1,0 +1,11 @@
+{
+  "id": "9c82e976-d3cb-40fd-b99e-cbb00c08a25f",
+  "object": "beer",
+  "name": "Sophie's Belgian Style Ale",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

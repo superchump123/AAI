@@ -1,0 +1,11 @@
+{
+  "id": "14a9393f-43e8-4c53-a1ab-070d29bfaf14",
+  "object": "beer",
+  "name": "Bomber Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

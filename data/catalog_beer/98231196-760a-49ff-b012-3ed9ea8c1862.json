@@ -1,0 +1,11 @@
+{
+  "id": "98231196-760a-49ff-b012-3ed9ea8c1862",
+  "object": "beer",
+  "name": "Firehouse Red Lager",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1201819e-c791-4271-a9b0-a7c566566208",
+  "object": "beer",
+  "name": "Black-Eyed Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

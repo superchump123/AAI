@@ -1,0 +1,11 @@
+{
+  "id": "e39409fe-d9db-445b-8d30-24b5894fc679",
+  "object": "beer",
+  "name": "Warpath",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2338cc5d-791a-4d1f-ab7d-a86def70ab07",
+  "object": "beer",
+  "name": "Audaciter",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

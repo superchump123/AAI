@@ -1,0 +1,11 @@
+{
+  "id": "843cdc6e-b676-4194-b1da-211e9bb82bc7",
+  "object": "beer",
+  "name": "Fred's Belgian Summer Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

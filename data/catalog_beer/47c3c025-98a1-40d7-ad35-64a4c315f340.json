@@ -1,0 +1,11 @@
+{
+  "id": "47c3c025-98a1-40d7-ad35-64a4c315f340",
+  "object": "beer",
+  "name": "P St. Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

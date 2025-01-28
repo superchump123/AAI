@@ -1,0 +1,11 @@
+{
+  "id": "292ead1c-fea0-4037-96ed-b3c39af72290",
+  "object": "beer",
+  "name": "London Homesick Ale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

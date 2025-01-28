@@ -1,0 +1,11 @@
+{
+  "id": "99fe65d1-a1a6-46c9-ab9a-33a00b8efba0",
+  "object": "beer",
+  "name": "Not So Dum",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

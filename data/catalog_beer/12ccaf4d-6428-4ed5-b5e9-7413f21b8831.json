@@ -1,0 +1,11 @@
+{
+  "id": "12ccaf4d-6428-4ed5-b5e9-7413f21b8831",
+  "object": "beer",
+  "name": "Mystic Peach",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

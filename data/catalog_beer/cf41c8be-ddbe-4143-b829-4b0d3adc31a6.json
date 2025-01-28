@@ -1,0 +1,11 @@
+{
+  "id": "cf41c8be-ddbe-4143-b829-4b0d3adc31a6",
+  "object": "beer",
+  "name": "Star Destroyer",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 8,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

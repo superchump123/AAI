@@ -1,0 +1,11 @@
+{
+  "id": "21a87a5d-9f0f-4221-9bbe-00bca3d84a3b",
+  "object": "beer",
+  "name": "Maui Gold",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

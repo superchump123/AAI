@@ -1,0 +1,11 @@
+{
+  "id": "cbc9d7f6-3591-46e0-ab74-83d28460f6ea",
+  "object": "beer",
+  "name": "Dortmunder Thier Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0d5044d9-d340-4a58-a8da-0b5cf52c3875",
+  "object": "beer",
+  "name": "Mississippi Fire Ant",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

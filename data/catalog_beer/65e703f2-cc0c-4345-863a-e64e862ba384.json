@@ -1,0 +1,11 @@
+{
+  "id": "65e703f2-cc0c-4345-863a-e64e862ba384",
+  "object": "beer",
+  "name": "River Runners",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

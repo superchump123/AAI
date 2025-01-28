@@ -1,0 +1,11 @@
+{
+  "id": "3a472571-4f16-4c2b-89c9-3aa0415776f5",
+  "object": "beer",
+  "name": "Bourbonator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

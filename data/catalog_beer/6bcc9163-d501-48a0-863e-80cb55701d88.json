@@ -1,0 +1,11 @@
+{
+  "id": "6bcc9163-d501-48a0-863e-80cb55701d88",
+  "object": "beer",
+  "name": "Rockr",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

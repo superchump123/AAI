@@ -1,0 +1,11 @@
+{
+  "id": "10d7a733-a323-4935-99b9-6ef095885007",
+  "object": "beer",
+  "name": "Park Loop Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

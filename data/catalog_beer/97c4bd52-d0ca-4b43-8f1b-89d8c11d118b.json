@@ -1,0 +1,11 @@
+{
+  "id": "97c4bd52-d0ca-4b43-8f1b-89d8c11d118b",
+  "object": "beer",
+  "name": "Tarte Blanche",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

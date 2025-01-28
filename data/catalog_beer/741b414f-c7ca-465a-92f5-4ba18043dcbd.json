@@ -1,0 +1,11 @@
+{
+  "id": "741b414f-c7ca-465a-92f5-4ba18043dcbd",
+  "object": "beer",
+  "name": "Schaumburger Privat-Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

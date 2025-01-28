@@ -1,0 +1,11 @@
+{
+  "id": "e58aea08-596d-4cd1-b9ca-dc4863d85e03",
+  "object": "beer",
+  "name": "Sorachi Ace",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

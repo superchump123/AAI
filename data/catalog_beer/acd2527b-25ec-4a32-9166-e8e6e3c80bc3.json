@@ -1,0 +1,11 @@
+{
+  "id": "acd2527b-25ec-4a32-9166-e8e6e3c80bc3",
+  "object": "beer",
+  "name": "Session Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

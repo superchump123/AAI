@@ -1,0 +1,11 @@
+{
+  "id": "bd022700-ade7-4261-b8d2-f068fa91a2a6",
+  "object": "beer",
+  "name": "Bernoulli's Belgian Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

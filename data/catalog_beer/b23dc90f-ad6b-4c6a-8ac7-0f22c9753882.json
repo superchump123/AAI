@@ -1,0 +1,11 @@
+{
+  "id": "b23dc90f-ad6b-4c6a-8ac7-0f22c9753882",
+  "object": "beer",
+  "name": "Black Cherry Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

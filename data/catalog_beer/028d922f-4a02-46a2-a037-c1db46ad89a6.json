@@ -1,0 +1,11 @@
+{
+  "id": "028d922f-4a02-46a2-a037-c1db46ad89a6",
+  "object": "beer",
+  "name": "Muddy Runner",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

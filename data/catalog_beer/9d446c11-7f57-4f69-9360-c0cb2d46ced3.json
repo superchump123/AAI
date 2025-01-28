@@ -1,0 +1,11 @@
+{
+  "id": "9d446c11-7f57-4f69-9360-c0cb2d46ced3",
+  "object": "beer",
+  "name": "Mad Goose",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

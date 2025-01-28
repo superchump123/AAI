@@ -1,0 +1,11 @@
+{
+  "id": "6b1d5d11-bc83-44ad-9b31-80907ac75899",
+  "object": "beer",
+  "name": "Cranberry Marcus",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

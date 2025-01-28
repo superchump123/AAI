@@ -1,0 +1,11 @@
+{
+  "id": "b1a0610d-3893-4d32-a06a-191de1708240",
+  "object": "beer",
+  "name": "Wild Devil",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

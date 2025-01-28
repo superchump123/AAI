@@ -1,0 +1,11 @@
+{
+  "id": "9346b7e5-e995-40a1-b324-6ce12c78a328",
+  "object": "beer",
+  "name": "The Bad Apple",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

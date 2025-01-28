@@ -1,0 +1,11 @@
+{
+  "id": "0803c472-094f-4f27-a5ae-2569c04c433f",
+  "object": "beer",
+  "name": "Renaissance Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67f8ba40-9581-46a0-b130-d6dfedb7b650",
+  "object": "beer",
+  "name": "Chateau Aeneas",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

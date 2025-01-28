@@ -1,0 +1,11 @@
+{
+  "id": "de8a024f-87fa-45b3-970d-b97419b80f03",
+  "object": "beer",
+  "name": "Canaster Wooden Barrel",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

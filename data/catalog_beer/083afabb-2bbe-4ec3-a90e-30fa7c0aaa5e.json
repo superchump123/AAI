@@ -1,0 +1,11 @@
+{
+  "id": "083afabb-2bbe-4ec3-a90e-30fa7c0aaa5e",
+  "object": "beer",
+  "name": "Avocado Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

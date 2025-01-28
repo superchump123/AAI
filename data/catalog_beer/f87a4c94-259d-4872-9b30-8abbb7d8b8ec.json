@@ -1,0 +1,11 @@
+{
+  "id": "f87a4c94-259d-4872-9b30-8abbb7d8b8ec",
+  "object": "beer",
+  "name": "Karma",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

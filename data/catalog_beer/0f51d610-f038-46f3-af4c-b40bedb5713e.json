@@ -1,0 +1,11 @@
+{
+  "id": "0f51d610-f038-46f3-af4c-b40bedb5713e",
+  "object": "beer",
+  "name": "Dry Rose",
+  "style": "French Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

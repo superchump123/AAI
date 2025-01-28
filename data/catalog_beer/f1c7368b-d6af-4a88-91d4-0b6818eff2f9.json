@@ -1,0 +1,11 @@
+{
+  "id": "f1c7368b-d6af-4a88-91d4-0b6818eff2f9",
+  "object": "beer",
+  "name": "Midnight Harvest",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ad422a0-4e39-4fb4-8f62-c6eedd28be42",
+  "object": "beer",
+  "name": "365 Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5bc8725a-408f-4b6e-b118-91567b9bfac7",
+  "object": "beer",
+  "name": "Richard Cranium Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2f5da596-8b87-4845-8db7-855933f339f1",
+  "object": "beer",
+  "name": "Witty Twitty",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

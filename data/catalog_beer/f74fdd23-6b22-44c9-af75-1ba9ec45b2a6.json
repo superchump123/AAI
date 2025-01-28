@@ -1,0 +1,11 @@
+{
+  "id": "f74fdd23-6b22-44c9-af75-1ba9ec45b2a6",
+  "object": "beer",
+  "name": "Monstrosity",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

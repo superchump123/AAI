@@ -1,0 +1,11 @@
+{
+  "id": "cf377ba7-4f5a-4695-9572-3e261caee14a",
+  "object": "beer",
+  "name": "Centennial Falcon",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

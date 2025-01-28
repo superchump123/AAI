@@ -1,0 +1,11 @@
+{
+  "id": "667a1723-178e-4f0a-b810-e324b38e656c",
+  "object": "beer",
+  "name": "Dead Horse Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

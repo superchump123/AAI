@@ -1,0 +1,11 @@
+{
+  "id": "db0ffa3a-4abc-48ca-9f13-22d2807bb14a",
+  "object": "beer",
+  "name": "Abbi's Drool",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa0e5916-7ec4-4ed8-84aa-a96a8e6abd92",
+  "object": "beer",
+  "name": "Popular Tent Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa59aae7-08ed-491d-bcdb-b0f082f0b857",
+  "object": "beer",
+  "name": "Wilsteraner Altbier",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

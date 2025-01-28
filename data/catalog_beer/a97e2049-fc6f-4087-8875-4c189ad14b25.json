@@ -1,0 +1,11 @@
+{
+  "id": "a97e2049-fc6f-4087-8875-4c189ad14b25",
+  "object": "beer",
+  "name": "Defenestrator  Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

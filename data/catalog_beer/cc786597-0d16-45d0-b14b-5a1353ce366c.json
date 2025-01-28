@@ -1,0 +1,11 @@
+{
+  "id": "cc786597-0d16-45d0-b14b-5a1353ce366c",
+  "object": "beer",
+  "name": "Rostocker Lemon",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

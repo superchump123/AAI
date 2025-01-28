@@ -1,0 +1,11 @@
+{
+  "id": "06c500e4-e608-4997-99c1-a1d99070774e",
+  "object": "beer",
+  "name": "Mad Catter",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

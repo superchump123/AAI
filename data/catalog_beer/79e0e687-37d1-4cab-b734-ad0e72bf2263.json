@@ -1,0 +1,11 @@
+{
+  "id": "79e0e687-37d1-4cab-b734-ad0e72bf2263",
+  "object": "beer",
+  "name": "Dark Side of the Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

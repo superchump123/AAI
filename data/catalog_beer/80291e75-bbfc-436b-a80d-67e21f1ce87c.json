@@ -1,0 +1,11 @@
+{
+  "id": "80291e75-bbfc-436b-a80d-67e21f1ce87c",
+  "object": "beer",
+  "name": "Jolly Roger Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

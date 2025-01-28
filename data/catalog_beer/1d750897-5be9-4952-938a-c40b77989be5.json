@@ -1,0 +1,11 @@
+{
+  "id": "1d750897-5be9-4952-938a-c40b77989be5",
+  "object": "beer",
+  "name": "Winter Mead with Spices",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

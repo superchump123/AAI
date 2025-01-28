@@ -1,0 +1,11 @@
+{
+  "id": "00004adf-5eec-4a94-ac60-d0480e5ef1d3",
+  "object": "beer",
+  "name": "Because, Coffee",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

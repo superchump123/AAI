@@ -1,0 +1,11 @@
+{
+  "id": "79ca6318-8b64-4ce0-96e7-3078de8ab773",
+  "object": "beer",
+  "name": "Breakwall Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

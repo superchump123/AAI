@@ -1,0 +1,11 @@
+{
+  "id": "176d38c6-97e1-4599-a7f3-16d2499c865e",
+  "object": "beer",
+  "name": "Animal",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

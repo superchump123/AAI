@@ -1,0 +1,11 @@
+{
+  "id": "aa03dbb4-ba28-49a4-bb64-94ca45d2aa53",
+  "object": "beer",
+  "name": "Saison Aux Baies Ameres",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2b38af6e-da3a-4943-b85a-4d35404a9c4a",
+  "object": "beer",
+  "name": "Snaggletooth Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

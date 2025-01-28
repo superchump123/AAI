@@ -1,0 +1,11 @@
+{
+  "id": "2abc3215-a06c-464c-854e-ca25ec15770c",
+  "object": "beer",
+  "name": "80 SHILLING",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

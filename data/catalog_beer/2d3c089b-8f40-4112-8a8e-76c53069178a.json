@@ -1,0 +1,11 @@
+{
+  "id": "2d3c089b-8f40-4112-8a8e-76c53069178a",
+  "object": "beer",
+  "name": "Knucklehead",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

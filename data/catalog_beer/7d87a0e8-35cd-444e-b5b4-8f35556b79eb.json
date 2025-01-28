@@ -1,0 +1,11 @@
+{
+  "id": "7d87a0e8-35cd-444e-b5b4-8f35556b79eb",
+  "object": "beer",
+  "name": "Olde English 800",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "42cc6c2c-b480-4d9a-90b8-de192e5a7ab5",
+  "object": "beer",
+  "name": "Down 'n' Dirty IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74062c72-a4ad-44a2-99b3-ea8ce305fb88",
+  "object": "beer",
+  "name": "Mole Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

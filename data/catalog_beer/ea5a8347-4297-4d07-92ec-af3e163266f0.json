@@ -1,0 +1,11 @@
+{
+  "id": "ea5a8347-4297-4d07-92ec-af3e163266f0",
+  "object": "beer",
+  "name": "Pale Ale Cascade",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

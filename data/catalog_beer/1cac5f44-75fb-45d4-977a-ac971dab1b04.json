@@ -1,0 +1,11 @@
+{
+  "id": "1cac5f44-75fb-45d4-977a-ac971dab1b04",
+  "object": "beer",
+  "name": "Edelspez Premium",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

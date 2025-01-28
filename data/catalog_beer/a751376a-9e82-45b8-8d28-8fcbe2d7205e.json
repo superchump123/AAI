@@ -1,0 +1,11 @@
+{
+  "id": "a751376a-9e82-45b8-8d28-8fcbe2d7205e",
+  "object": "beer",
+  "name": "Bee Keeper",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

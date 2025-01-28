@@ -1,0 +1,11 @@
+{
+  "id": "17168d85-7a66-45ff-9a10-3b1e91d95cb0",
+  "object": "beer",
+  "name": "Pilz",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b8558f88-0450-437c-88ac-44e1b7ced1ce",
+  "object": "beer",
+  "name": "Super Tasty",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

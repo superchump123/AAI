@@ -1,0 +1,11 @@
+{
+  "id": "966eddb3-ede0-40a2-93ba-3ac3867a838f",
+  "object": "beer",
+  "name": "DBA (Double Barrel Ale)",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

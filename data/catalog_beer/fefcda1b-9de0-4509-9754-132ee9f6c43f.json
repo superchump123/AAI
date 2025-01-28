@@ -1,0 +1,11 @@
+{
+  "id": "fefcda1b-9de0-4509-9754-132ee9f6c43f",
+  "object": "beer",
+  "name": "Vapor Cave IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

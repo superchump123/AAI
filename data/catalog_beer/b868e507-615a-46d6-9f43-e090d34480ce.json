@@ -1,0 +1,11 @@
+{
+  "id": "b868e507-615a-46d6-9f43-e090d34480ce",
+  "object": "beer",
+  "name": "Moment of Clarity",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

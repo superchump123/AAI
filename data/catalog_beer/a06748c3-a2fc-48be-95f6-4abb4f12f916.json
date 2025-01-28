@@ -1,0 +1,11 @@
+{
+  "id": "a06748c3-a2fc-48be-95f6-4abb4f12f916",
+  "object": "beer",
+  "name": "Family Values",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

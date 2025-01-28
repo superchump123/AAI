@@ -1,0 +1,11 @@
+{
+  "id": "0b56d2fa-a812-403f-a807-3645bfa77aeb",
+  "object": "beer",
+  "name": "Chai Spiced Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

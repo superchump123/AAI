@@ -1,0 +1,11 @@
+{
+  "id": "f688cef3-808b-42f6-9869-70eb471e7aa9",
+  "object": "beer",
+  "name": "Glutenberg American Pale Ale",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

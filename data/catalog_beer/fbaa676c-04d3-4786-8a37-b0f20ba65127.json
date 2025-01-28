@@ -1,0 +1,11 @@
+{
+  "id": "fbaa676c-04d3-4786-8a37-b0f20ba65127",
+  "object": "beer",
+  "name": "Ice Breaker",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "af25d92f-b1ed-455b-b0ae-05cfb708b455",
+  "object": "beer",
+  "name": "ReQueened Honey Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c51a531c-d876-4992-ad9f-79af86e2cc97",
+  "object": "beer",
+  "name": "Prototype: DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

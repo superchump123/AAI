@@ -1,0 +1,11 @@
+{
+  "id": "a3fee48a-b78a-49d1-90c3-bc30751ddb36",
+  "object": "beer",
+  "name": "Dream Machine",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

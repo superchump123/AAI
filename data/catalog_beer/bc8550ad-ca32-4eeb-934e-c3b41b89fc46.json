@@ -1,0 +1,11 @@
+{
+  "id": "bc8550ad-ca32-4eeb-934e-c3b41b89fc46",
+  "object": "beer",
+  "name": "Dymaxion",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

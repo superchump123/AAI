@@ -1,0 +1,11 @@
+{
+  "id": "b1d93b2b-39a8-455d-ac15-2aa9218e5254",
+  "object": "beer",
+  "name": "Kasteel Barista Chocolate Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

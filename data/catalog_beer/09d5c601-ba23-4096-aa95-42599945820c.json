@@ -1,0 +1,11 @@
+{
+  "id": "09d5c601-ba23-4096-aa95-42599945820c",
+  "object": "beer",
+  "name": "Leghorn Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

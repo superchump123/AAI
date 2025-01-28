@@ -1,0 +1,11 @@
+{
+  "id": "901cff1d-3713-4093-b465-430a6150c93a",
+  "object": "beer",
+  "name": "Dark Knight Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

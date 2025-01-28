@@ -1,0 +1,11 @@
+{
+  "id": "561ff622-27a3-469a-8dcd-fa29654c663e",
+  "object": "beer",
+  "name": "Aria",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

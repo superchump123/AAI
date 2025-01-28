@@ -1,0 +1,11 @@
+{
+  "id": "eeb524e4-12d5-4bc3-a811-ff4f172d61c7",
+  "object": "beer",
+  "name": "Huckleberry Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

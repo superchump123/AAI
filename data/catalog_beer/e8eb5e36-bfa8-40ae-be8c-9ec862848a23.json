@@ -1,0 +1,11 @@
+{
+  "id": "e8eb5e36-bfa8-40ae-be8c-9ec862848a23",
+  "object": "beer",
+  "name": "Ploughshare",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

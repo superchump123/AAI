@@ -1,0 +1,11 @@
+{
+  "id": "a5a16f5d-67de-4788-aa02-2192d4a689d2",
+  "object": "beer",
+  "name": "A Great Day For A Beer",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

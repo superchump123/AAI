@@ -1,0 +1,11 @@
+{
+  "id": "dd8e065e-b1d9-4396-a9b6-e59a9356a8b4",
+  "object": "beer",
+  "name": "Class of '88 Barleywine Style Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

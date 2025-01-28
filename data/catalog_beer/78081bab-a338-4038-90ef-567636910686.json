@@ -1,0 +1,11 @@
+{
+  "id": "78081bab-a338-4038-90ef-567636910686",
+  "object": "beer",
+  "name": "Citra",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

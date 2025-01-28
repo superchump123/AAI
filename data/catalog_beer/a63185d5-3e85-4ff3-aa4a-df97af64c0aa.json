@@ -1,0 +1,11 @@
+{
+  "id": "a63185d5-3e85-4ff3-aa4a-df97af64c0aa",
+  "object": "beer",
+  "name": "Fireside",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

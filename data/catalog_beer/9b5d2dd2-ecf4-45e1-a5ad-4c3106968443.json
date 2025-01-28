@@ -1,0 +1,11 @@
+{
+  "id": "9b5d2dd2-ecf4-45e1-a5ad-4c3106968443",
+  "object": "beer",
+  "name": "el Mole Ocho",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

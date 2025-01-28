@@ -1,0 +1,11 @@
+{
+  "id": "65e916ef-14a5-4748-9820-23bd22326d93",
+  "object": "beer",
+  "name": "Rain Dog",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

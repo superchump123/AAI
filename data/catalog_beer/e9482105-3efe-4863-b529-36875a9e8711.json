@@ -1,0 +1,11 @@
+{
+  "id": "e9482105-3efe-4863-b529-36875a9e8711",
+  "object": "beer",
+  "name": "Scarlett on Brett",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

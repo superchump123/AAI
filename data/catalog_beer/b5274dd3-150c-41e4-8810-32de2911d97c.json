@@ -1,0 +1,11 @@
+{
+  "id": "b5274dd3-150c-41e4-8810-32de2911d97c",
+  "object": "beer",
+  "name": "Tex's Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

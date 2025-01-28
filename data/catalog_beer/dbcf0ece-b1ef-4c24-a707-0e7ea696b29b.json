@@ -1,0 +1,11 @@
+{
+  "id": "dbcf0ece-b1ef-4c24-a707-0e7ea696b29b",
+  "object": "beer",
+  "name": "Tartare Noir",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "16c3b610-37d2-4173-ae63-32994f61c7a0",
+  "object": "beer",
+  "name": "Hop Rocket",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

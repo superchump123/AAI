@@ -1,0 +1,11 @@
+{
+  "id": "2e715e39-2c32-4549-af89-e8a3b71fa8e5",
+  "object": "beer",
+  "name": "IPK",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "706fe106-4313-4114-84e3-362a124acb56",
+  "object": "beer",
+  "name": "4 C's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

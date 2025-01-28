@@ -1,0 +1,11 @@
+{
+  "id": "6847a535-af27-4ee1-855c-fe7eeba8624e",
+  "object": "beer",
+  "name": "Signature Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

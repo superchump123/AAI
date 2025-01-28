@@ -1,0 +1,11 @@
+{
+  "id": "c26524f7-6b72-4123-8087-f72380d5c448",
+  "object": "beer",
+  "name": "Indiana Harvest",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

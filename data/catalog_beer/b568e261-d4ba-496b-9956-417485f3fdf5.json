@@ -1,0 +1,11 @@
+{
+  "id": "b568e261-d4ba-496b-9956-417485f3fdf5",
+  "object": "beer",
+  "name": "Mad Hopper",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

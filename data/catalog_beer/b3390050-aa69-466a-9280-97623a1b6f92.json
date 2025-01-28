@@ -1,0 +1,11 @@
+{
+  "id": "b3390050-aa69-466a-9280-97623a1b6f92",
+  "object": "beer",
+  "name": "Shift Beer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

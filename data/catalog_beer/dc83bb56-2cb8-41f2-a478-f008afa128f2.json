@@ -1,0 +1,11 @@
+{
+  "id": "dc83bb56-2cb8-41f2-a478-f008afa128f2",
+  "object": "beer",
+  "name": "Thunderbolt",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

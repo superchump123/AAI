@@ -1,0 +1,11 @@
+{
+  "id": "e9484a7b-dbf4-4683-8bf2-d1d1d71f2f17",
+  "object": "beer",
+  "name": "Liquid Nap",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d82b321-84a5-4eb8-87a0-044f47ad21ac",
+  "object": "beer",
+  "name": "Robustus 6",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

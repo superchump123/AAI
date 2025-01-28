@@ -1,0 +1,11 @@
+{
+  "id": "e32c5534-a544-4f5d-a15d-38d5486f3455",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

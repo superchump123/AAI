@@ -1,0 +1,11 @@
+{
+  "id": "f2cd301b-8613-4a67-af91-b0bc976758c5",
+  "object": "beer",
+  "name": "Small Ball",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8f1edead-9eeb-4df9-b900-9100cc8299d1",
+  "object": "beer",
+  "name": "Saint Arnold Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

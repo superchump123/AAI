@@ -1,0 +1,11 @@
+{
+  "id": "3802d3da-d17f-4a89-85e2-2c82b26f5d95",
+  "object": "beer",
+  "name": "ERADINUS",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

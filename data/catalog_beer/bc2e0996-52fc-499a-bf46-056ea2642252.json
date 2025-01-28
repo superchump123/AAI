@@ -1,0 +1,11 @@
+{
+  "id": "bc2e0996-52fc-499a-bf46-056ea2642252",
+  "object": "beer",
+  "name": "Armbar",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

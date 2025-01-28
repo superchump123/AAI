@@ -1,0 +1,11 @@
+{
+  "id": "4c69ee66-39cc-4d56-8f58-7f1ecdd234ac",
+  "object": "beer",
+  "name": "Whitstable Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

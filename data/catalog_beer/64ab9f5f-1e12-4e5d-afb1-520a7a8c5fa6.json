@@ -1,0 +1,11 @@
+{
+  "id": "64ab9f5f-1e12-4e5d-afb1-520a7a8c5fa6",
+  "object": "beer",
+  "name": "Kohi Imperial Coffee Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

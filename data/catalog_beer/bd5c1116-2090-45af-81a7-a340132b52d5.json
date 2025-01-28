@@ -1,0 +1,11 @@
+{
+  "id": "bd5c1116-2090-45af-81a7-a340132b52d5",
+  "object": "beer",
+  "name": "Rhubarb",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

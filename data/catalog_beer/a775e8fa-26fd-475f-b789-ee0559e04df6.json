@@ -1,0 +1,11 @@
+{
+  "id": "a775e8fa-26fd-475f-b789-ee0559e04df6",
+  "object": "beer",
+  "name": "The Recruit",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

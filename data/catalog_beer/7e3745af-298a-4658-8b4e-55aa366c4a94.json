@@ -1,0 +1,11 @@
+{
+  "id": "7e3745af-298a-4658-8b4e-55aa366c4a94",
+  "object": "beer",
+  "name": "Blue Buck",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

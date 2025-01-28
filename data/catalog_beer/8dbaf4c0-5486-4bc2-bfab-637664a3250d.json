@@ -1,0 +1,11 @@
+{
+  "id": "8dbaf4c0-5486-4bc2-bfab-637664a3250d",
+  "object": "beer",
+  "name": "Maori Organic Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

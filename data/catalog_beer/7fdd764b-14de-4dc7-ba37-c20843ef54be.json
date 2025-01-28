@@ -1,0 +1,11 @@
+{
+  "id": "7fdd764b-14de-4dc7-ba37-c20843ef54be",
+  "object": "beer",
+  "name": "Star",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

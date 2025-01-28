@@ -1,0 +1,11 @@
+{
+  "id": "1857f845-6a3b-4720-ae7b-f7ebd1b30458",
+  "object": "beer",
+  "name": "Canebrake",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

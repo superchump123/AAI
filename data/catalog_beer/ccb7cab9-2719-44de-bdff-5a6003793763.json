@@ -1,0 +1,11 @@
+{
+  "id": "ccb7cab9-2719-44de-bdff-5a6003793763",
+  "object": "beer",
+  "name": "Paranoids Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

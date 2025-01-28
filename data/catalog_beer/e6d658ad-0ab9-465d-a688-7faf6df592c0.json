@@ -1,0 +1,11 @@
+{
+  "id": "e6d658ad-0ab9-465d-a688-7faf6df592c0",
+  "object": "beer",
+  "name": "Old Seattle Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

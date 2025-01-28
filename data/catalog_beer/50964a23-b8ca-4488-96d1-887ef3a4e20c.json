@@ -1,0 +1,11 @@
+{
+  "id": "50964a23-b8ca-4488-96d1-887ef3a4e20c",
+  "object": "beer",
+  "name": "Headless Horseman",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d23e5806-b619-44ca-9d34-66d15a95ff1b",
+  "object": "beer",
+  "name": "Red Bike Brown Ale",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

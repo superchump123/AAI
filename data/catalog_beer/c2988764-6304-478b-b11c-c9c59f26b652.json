@@ -1,0 +1,11 @@
+{
+  "id": "c2988764-6304-478b-b11c-c9c59f26b652",
+  "object": "beer",
+  "name": "Veltins Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

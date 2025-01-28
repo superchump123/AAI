@@ -1,0 +1,11 @@
+{
+  "id": "9118fcb3-4423-4e72-9234-ee104d652afa",
+  "object": "beer",
+  "name": "Persephone Pomegranate Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b56f20e7-6a2b-430a-9e57-396d2b05e872",
+  "object": "beer",
+  "name": "Killer Bee",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

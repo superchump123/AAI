@@ -1,0 +1,11 @@
+{
+  "id": "8c2cd232-e719-4f58-9969-a1341c073f1e",
+  "object": "beer",
+  "name": "Coolship Resurgam",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

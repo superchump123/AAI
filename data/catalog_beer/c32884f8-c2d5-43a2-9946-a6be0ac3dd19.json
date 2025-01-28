@@ -1,0 +1,11 @@
+{
+  "id": "c32884f8-c2d5-43a2-9946-a6be0ac3dd19",
+  "object": "beer",
+  "name": "Skookum Creek Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1a7769c3-aa1d-4362-b346-4981b89fdc3f",
+  "object": "beer",
+  "name": "Outback X",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

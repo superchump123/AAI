@@ -1,0 +1,11 @@
+{
+  "id": "06952d1c-9a34-43b3-bcea-6f5c66fcd4d1",
+  "object": "beer",
+  "name": "Ovila Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

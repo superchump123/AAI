@@ -1,0 +1,11 @@
+{
+  "id": "38823f34-8193-456c-ae76-3ab93cd65ebe",
+  "object": "beer",
+  "name": "Boxcar Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

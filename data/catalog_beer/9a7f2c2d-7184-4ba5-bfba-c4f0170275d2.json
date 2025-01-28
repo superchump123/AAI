@@ -1,0 +1,11 @@
+{
+  "id": "9a7f2c2d-7184-4ba5-bfba-c4f0170275d2",
+  "object": "beer",
+  "name": "Bishop's Indulgence",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

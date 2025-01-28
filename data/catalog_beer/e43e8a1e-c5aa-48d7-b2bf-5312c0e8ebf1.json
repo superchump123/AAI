@@ -1,0 +1,11 @@
+{
+  "id": "e43e8a1e-c5aa-48d7-b2bf-5312c0e8ebf1",
+  "object": "beer",
+  "name": "Old Town",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

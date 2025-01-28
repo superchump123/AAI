@@ -1,0 +1,11 @@
+{
+  "id": "0d89ef8d-46cd-48fb-9cdc-fc86d058302c",
+  "object": "beer",
+  "name": "Orange Whip",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

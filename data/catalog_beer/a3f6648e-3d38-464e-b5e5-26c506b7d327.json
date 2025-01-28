@@ -1,0 +1,11 @@
+{
+  "id": "a3f6648e-3d38-464e-b5e5-26c506b7d327",
+  "object": "beer",
+  "name": "Mono",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

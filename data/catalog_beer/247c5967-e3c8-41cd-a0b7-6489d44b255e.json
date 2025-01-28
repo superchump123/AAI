@@ -1,0 +1,11 @@
+{
+  "id": "247c5967-e3c8-41cd-a0b7-6489d44b255e",
+  "object": "beer",
+  "name": "Brigantine Smoked Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

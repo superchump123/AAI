@@ -1,0 +1,11 @@
+{
+  "id": "fe7a64c8-5d86-4fb6-9b6d-310937a9aa7c",
+  "object": "beer",
+  "name": "Conspiracy Theory",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

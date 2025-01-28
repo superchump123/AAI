@@ -1,0 +1,11 @@
+{
+  "id": "445a3acf-88a3-48a4-884a-35ab2322d5f5",
+  "object": "beer",
+  "name": "Bob's Bearded Red Irish Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

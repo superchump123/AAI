@@ -1,0 +1,11 @@
+{
+  "id": "6f50a753-992b-4ad8-9767-d440e9da89ec",
+  "object": "beer",
+  "name": "Space Nugget DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "acbaf7e2-130d-48c1-8d7c-1bfb72d01bbc",
+  "object": "beer",
+  "name": "Chatterbox",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

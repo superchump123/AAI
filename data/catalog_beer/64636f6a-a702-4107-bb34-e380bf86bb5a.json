@@ -1,0 +1,11 @@
+{
+  "id": "64636f6a-a702-4107-bb34-e380bf86bb5a",
+  "object": "beer",
+  "name": "The Gardner",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

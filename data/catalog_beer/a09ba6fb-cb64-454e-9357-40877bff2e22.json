@@ -1,0 +1,11 @@
+{
+  "id": "a09ba6fb-cb64-454e-9357-40877bff2e22",
+  "object": "beer",
+  "name": "Hammered Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "49e11a3e-1aee-4c63-b7ad-97d2a0592f5e",
+  "object": "beer",
+  "name": "Rod's Cream Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

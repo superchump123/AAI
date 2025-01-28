@@ -1,0 +1,11 @@
+{
+  "id": "bd4fe346-a2f5-44bc-89f7-e7ec307c7249",
+  "object": "beer",
+  "name": "Quincy Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db8d3cdd-5913-4fe1-9eef-45ee2483da28",
+  "object": "beer",
+  "name": "Obliteration VI",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd933de2-e5bd-4225-b389-c61b5b81a401",
+  "object": "beer",
+  "name": "Bailey Wheat Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

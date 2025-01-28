@@ -1,0 +1,11 @@
+{
+  "id": "6dcdc9bd-4b5c-4a7e-8097-631ba045fc2d",
+  "object": "beer",
+  "name": "Oyster Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

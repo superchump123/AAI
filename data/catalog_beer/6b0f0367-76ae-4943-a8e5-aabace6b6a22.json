@@ -1,0 +1,11 @@
+{
+  "id": "6b0f0367-76ae-4943-a8e5-aabace6b6a22",
+  "object": "beer",
+  "name": "Laradise Extra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6c9406ba-13c7-4ec0-ba33-3a9f4ec846e9",
+  "object": "beer",
+  "name": "London Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "be6e9962-5ec5-4dfc-b264-0b908ea00a3e",
+  "object": "beer",
+  "name": "Totally RANDY Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f45af00-a60f-4df2-a0dc-2b61ec129f6f",
+  "object": "beer",
+  "name": "Black Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e6726d27-dc8f-4f3c-aad6-e58a1e63a433",
+  "object": "beer",
+  "name": "Dancing Cody IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

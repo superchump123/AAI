@@ -1,0 +1,11 @@
+{
+  "id": "1dde9559-1773-4c50-9200-7f1c8b4bb88b",
+  "object": "beer",
+  "name": "Blonde Bretty",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

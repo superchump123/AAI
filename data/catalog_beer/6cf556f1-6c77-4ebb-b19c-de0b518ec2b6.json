@@ -1,0 +1,11 @@
+{
+  "id": "6cf556f1-6c77-4ebb-b19c-de0b518ec2b6",
+  "object": "beer",
+  "name": "Newtown Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

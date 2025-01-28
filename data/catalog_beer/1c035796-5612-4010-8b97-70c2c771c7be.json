@@ -1,0 +1,11 @@
+{
+  "id": "1c035796-5612-4010-8b97-70c2c771c7be",
+  "object": "beer",
+  "name": "King James",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

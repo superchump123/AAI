@@ -1,0 +1,11 @@
+{
+  "id": "3bbedfa9-9002-4f49-80d6-d985f06a6876",
+  "object": "beer",
+  "name": "Straub American Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

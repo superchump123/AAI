@@ -1,0 +1,11 @@
+{
+  "id": "1cc2b256-c5de-47e7-98d7-6662d0f3cd50",
+  "object": "beer",
+  "name": "Hannegan Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

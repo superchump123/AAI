@@ -1,0 +1,11 @@
+{
+  "id": "ea48bc81-d116-45f2-bfa7-4350a1ef894e",
+  "object": "beer",
+  "name": "Grand Cru 2003",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

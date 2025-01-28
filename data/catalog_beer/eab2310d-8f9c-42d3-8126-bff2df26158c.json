@@ -1,0 +1,11 @@
+{
+  "id": "eab2310d-8f9c-42d3-8126-bff2df26158c",
+  "object": "beer",
+  "name": "Noir De Dottignes",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

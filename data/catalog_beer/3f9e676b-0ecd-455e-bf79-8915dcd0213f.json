@@ -1,0 +1,11 @@
+{
+  "id": "3f9e676b-0ecd-455e-bf79-8915dcd0213f",
+  "object": "beer",
+  "name": "Evan John Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

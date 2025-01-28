@@ -1,0 +1,11 @@
+{
+  "id": "ab5d33c1-8c58-446a-b557-741906d83127",
+  "object": "beer",
+  "name": "O'Doul's",
+  "style": "Non-Alcoholic (Beer) Malt Beverages",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

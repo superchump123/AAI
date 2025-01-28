@@ -1,0 +1,11 @@
+{
+  "id": "72ccf542-382a-4cb8-816d-cb7a178fc912",
+  "object": "beer",
+  "name": "Alpha Ox",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

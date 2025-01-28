@@ -1,0 +1,11 @@
+{
+  "id": "73daf6ce-09a1-46e8-af1a-efafecf9feb4",
+  "object": "beer",
+  "name": "Citrus IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

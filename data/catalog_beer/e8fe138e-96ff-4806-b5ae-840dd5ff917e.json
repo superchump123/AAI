@@ -1,0 +1,11 @@
+{
+  "id": "e8fe138e-96ff-4806-b5ae-840dd5ff917e",
+  "object": "beer",
+  "name": "Hoppy Trails India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

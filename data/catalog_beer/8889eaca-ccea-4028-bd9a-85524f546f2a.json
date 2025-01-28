@@ -1,0 +1,11 @@
+{
+  "id": "8889eaca-ccea-4028-bd9a-85524f546f2a",
+  "object": "beer",
+  "name": "Citra Solution",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

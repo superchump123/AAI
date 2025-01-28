@@ -1,0 +1,11 @@
+{
+  "id": "a7953656-5ce6-45d4-a4d1-9b69a7bfe453",
+  "object": "beer",
+  "name": "Petrus Oud Bruin",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

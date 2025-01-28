@@ -1,0 +1,11 @@
+{
+  "id": "a6a98168-5ee0-41d9-bfb9-dc157477c114",
+  "object": "beer",
+  "name": "A Little Crazy",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

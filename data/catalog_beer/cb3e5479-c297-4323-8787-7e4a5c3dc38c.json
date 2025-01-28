@@ -1,0 +1,11 @@
+{
+  "id": "cb3e5479-c297-4323-8787-7e4a5c3dc38c",
+  "object": "beer",
+  "name": "Bark Bite",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

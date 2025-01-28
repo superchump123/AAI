@@ -1,0 +1,11 @@
+{
+  "id": "57e61580-5be5-4c74-a794-830a828b8ac8",
+  "object": "beer",
+  "name": "Black Fly",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

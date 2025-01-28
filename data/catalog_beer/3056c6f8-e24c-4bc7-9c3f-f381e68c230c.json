@@ -1,0 +1,11 @@
+{
+  "id": "3056c6f8-e24c-4bc7-9c3f-f381e68c230c",
+  "object": "beer",
+  "name": "Deuce Deuce",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

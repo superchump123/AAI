@@ -1,0 +1,11 @@
+{
+  "id": "67199bf0-ebf8-4193-8381-290a27d7fb1b",
+  "object": "beer",
+  "name": "Pomegranate Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

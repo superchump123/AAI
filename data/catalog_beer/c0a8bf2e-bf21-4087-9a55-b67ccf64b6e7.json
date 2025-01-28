@@ -1,0 +1,11 @@
+{
+  "id": "c0a8bf2e-bf21-4087-9a55-b67ccf64b6e7",
+  "object": "beer",
+  "name": "Dr Tim's Traditional Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

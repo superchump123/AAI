@@ -1,0 +1,11 @@
+{
+  "id": "b46d2564-4697-4a85-bc66-b8f887f27cbc",
+  "object": "beer",
+  "name": "Frost Hammer",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

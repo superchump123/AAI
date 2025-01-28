@@ -1,0 +1,11 @@
+{
+  "id": "82779ad8-2654-446f-a3c6-1c1506d0e966",
+  "object": "beer",
+  "name": "Rabid Dog",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

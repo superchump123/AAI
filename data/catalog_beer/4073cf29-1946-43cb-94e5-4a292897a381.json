@@ -1,0 +1,11 @@
+{
+  "id": "4073cf29-1946-43cb-94e5-4a292897a381",
+  "object": "beer",
+  "name": "Freshchester Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d39a4ae1-1246-4460-b283-9a14d07c9d28",
+  "object": "beer",
+  "name": "Foolery",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

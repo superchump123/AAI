@@ -1,0 +1,11 @@
+{
+  "id": "aa5955f5-9a69-44af-83f8-efd132072241",
+  "object": "beer",
+  "name": "Total Eclipse Black Ale",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

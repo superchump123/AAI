@@ -1,0 +1,11 @@
+{
+  "id": "19dffa5b-b137-4f39-abd8-4d69f18f2a07",
+  "object": "beer",
+  "name": "Surf Wax IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

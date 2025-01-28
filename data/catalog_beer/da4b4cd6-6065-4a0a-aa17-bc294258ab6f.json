@@ -1,0 +1,11 @@
+{
+  "id": "da4b4cd6-6065-4a0a-aa17-bc294258ab6f",
+  "object": "beer",
+  "name": "Small Batch Pineapple IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

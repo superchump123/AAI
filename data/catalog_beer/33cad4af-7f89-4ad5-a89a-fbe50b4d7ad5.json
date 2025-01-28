@@ -1,0 +1,11 @@
+{
+  "id": "33cad4af-7f89-4ad5-a89a-fbe50b4d7ad5",
+  "object": "beer",
+  "name": "Heartland Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

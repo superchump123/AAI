@@ -1,0 +1,11 @@
+{
+  "id": "7f6e38b7-3366-4ba8-928b-f1a9abe2d7ec",
+  "object": "beer",
+  "name": "Lame Duck",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

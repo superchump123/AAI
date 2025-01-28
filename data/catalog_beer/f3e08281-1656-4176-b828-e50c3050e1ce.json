@@ -1,0 +1,11 @@
+{
+  "id": "f3e08281-1656-4176-b828-e50c3050e1ce",
+  "object": "beer",
+  "name": "Slot Machine",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

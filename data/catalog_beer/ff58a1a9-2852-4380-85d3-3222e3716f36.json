@@ -1,0 +1,11 @@
+{
+  "id": "ff58a1a9-2852-4380-85d3-3222e3716f36",
+  "object": "beer",
+  "name": "Choconaut",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

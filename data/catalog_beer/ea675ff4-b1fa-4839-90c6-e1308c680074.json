@@ -1,0 +1,11 @@
+{
+  "id": "ea675ff4-b1fa-4839-90c6-e1308c680074",
+  "object": "beer",
+  "name": "Kinky Lola",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

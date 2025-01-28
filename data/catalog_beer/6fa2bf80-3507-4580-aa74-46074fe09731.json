@@ -1,0 +1,11 @@
+{
+  "id": "6fa2bf80-3507-4580-aa74-46074fe09731",
+  "object": "beer",
+  "name": "RVA IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

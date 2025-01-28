@@ -1,0 +1,11 @@
+{
+  "id": "9bacdc6b-4c03-4cfb-94a6-aa3aee8b7132",
+  "object": "beer",
+  "name": "Entwined",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

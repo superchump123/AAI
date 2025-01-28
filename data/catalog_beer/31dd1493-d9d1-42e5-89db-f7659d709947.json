@@ -1,0 +1,11 @@
+{
+  "id": "31dd1493-d9d1-42e5-89db-f7659d709947",
+  "object": "beer",
+  "name": "Birra Vintastica La Rossa",
+  "style": "Other Fruit Melomel",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

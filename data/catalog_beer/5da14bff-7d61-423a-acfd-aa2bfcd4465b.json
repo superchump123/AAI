@@ -1,0 +1,11 @@
+{
+  "id": "5da14bff-7d61-423a-acfd-aa2bfcd4465b",
+  "object": "beer",
+  "name": "Rentsch Weizenbock",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

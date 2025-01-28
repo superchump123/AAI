@@ -1,0 +1,11 @@
+{
+  "id": "c97b5f8d-6103-4325-ba85-3a5ca2903e1f",
+  "object": "beer",
+  "name": "Barking Iron",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

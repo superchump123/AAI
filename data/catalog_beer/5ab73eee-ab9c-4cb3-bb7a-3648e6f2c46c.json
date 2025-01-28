@@ -1,0 +1,11 @@
+{
+  "id": "5ab73eee-ab9c-4cb3-bb7a-3648e6f2c46c",
+  "object": "beer",
+  "name": "Red Headed Piper",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

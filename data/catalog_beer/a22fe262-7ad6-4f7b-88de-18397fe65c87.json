@@ -1,0 +1,11 @@
+{
+  "id": "a22fe262-7ad6-4f7b-88de-18397fe65c87",
+  "object": "beer",
+  "name": "Jacaranda Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

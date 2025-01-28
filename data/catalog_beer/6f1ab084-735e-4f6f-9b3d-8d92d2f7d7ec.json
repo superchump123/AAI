@@ -1,0 +1,11 @@
+{
+  "id": "6f1ab084-735e-4f6f-9b3d-8d92d2f7d7ec",
+  "object": "beer",
+  "name": "Cow Puncher",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

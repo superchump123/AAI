@@ -1,0 +1,11 @@
+{
+  "id": "0ff9784f-bd7b-45ba-8d89-3c0f12a194e2",
+  "object": "beer",
+  "name": "Codington Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

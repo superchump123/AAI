@@ -1,0 +1,11 @@
+{
+  "id": "8b863427-354f-48f9-9467-b6080af0e85f",
+  "object": "beer",
+  "name": "Wolpertinger",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

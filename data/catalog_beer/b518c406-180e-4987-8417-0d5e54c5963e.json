@@ -1,0 +1,11 @@
+{
+  "id": "b518c406-180e-4987-8417-0d5e54c5963e",
+  "object": "beer",
+  "name": "Wild West Plum Edition",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

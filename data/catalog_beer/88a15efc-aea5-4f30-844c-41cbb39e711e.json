@@ -1,0 +1,11 @@
+{
+  "id": "88a15efc-aea5-4f30-844c-41cbb39e711e",
+  "object": "beer",
+  "name": "After Battle Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

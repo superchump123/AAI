@@ -1,0 +1,11 @@
+{
+  "id": "27125c6a-5127-4f42-a9ea-a9863cef8251",
+  "object": "beer",
+  "name": "Batch One Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

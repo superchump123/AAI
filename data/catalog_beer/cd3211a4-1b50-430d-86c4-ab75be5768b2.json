@@ -1,0 +1,11 @@
+{
+  "id": "cd3211a4-1b50-430d-86c4-ab75be5768b2",
+  "object": "beer",
+  "name": "Karma Citra IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

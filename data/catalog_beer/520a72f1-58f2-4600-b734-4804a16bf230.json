@@ -1,0 +1,11 @@
+{
+  "id": "520a72f1-58f2-4600-b734-4804a16bf230",
+  "object": "beer",
+  "name": "Wacko",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

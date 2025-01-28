@@ -1,0 +1,11 @@
+{
+  "id": "a0538a9f-012e-456f-8da3-57527fbfa788",
+  "object": "beer",
+  "name": "Heliotropic Hoppy Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

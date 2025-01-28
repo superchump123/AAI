@@ -1,0 +1,11 @@
+{
+  "id": "f7404a63-8962-4fd2-a0fc-f671f69e4158",
+  "object": "beer",
+  "name": "Wicked Mutha",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

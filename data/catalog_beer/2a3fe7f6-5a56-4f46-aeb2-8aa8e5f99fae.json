@@ -1,0 +1,11 @@
+{
+  "id": "2a3fe7f6-5a56-4f46-aeb2-8aa8e5f99fae",
+  "object": "beer",
+  "name": "Chocolate Hazelnut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

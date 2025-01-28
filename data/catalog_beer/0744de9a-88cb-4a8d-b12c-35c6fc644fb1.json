@@ -1,0 +1,11 @@
+{
+  "id": "0744de9a-88cb-4a8d-b12c-35c6fc644fb1",
+  "object": "beer",
+  "name": "Spring Break",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

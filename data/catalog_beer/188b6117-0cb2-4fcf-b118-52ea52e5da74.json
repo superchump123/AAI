@@ -1,0 +1,11 @@
+{
+  "id": "188b6117-0cb2-4fcf-b118-52ea52e5da74",
+  "object": "beer",
+  "name": "Deth By Cherries",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

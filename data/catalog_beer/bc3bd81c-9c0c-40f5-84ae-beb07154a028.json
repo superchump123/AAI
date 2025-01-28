@@ -1,0 +1,11 @@
+{
+  "id": "bc3bd81c-9c0c-40f5-84ae-beb07154a028",
+  "object": "beer",
+  "name": "Braustolz Doppel Caramel",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 1.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

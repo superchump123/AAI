@@ -1,0 +1,11 @@
+{
+  "id": "d374662b-5e45-4bd1-83a9-c9e2d42b333e",
+  "object": "beer",
+  "name": "Bornem Double",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

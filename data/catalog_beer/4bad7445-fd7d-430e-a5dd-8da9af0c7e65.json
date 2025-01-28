@@ -1,0 +1,11 @@
+{
+  "id": "4bad7445-fd7d-430e-a5dd-8da9af0c7e65",
+  "object": "beer",
+  "name": "Edelweiss Weissbier Snowfresh",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

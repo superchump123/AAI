@@ -1,0 +1,11 @@
+{
+  "id": "d4499868-2648-4652-9d16-ba7910cbf79a",
+  "object": "beer",
+  "name": "Raven Tor",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

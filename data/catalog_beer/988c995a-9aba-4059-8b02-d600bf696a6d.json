@@ -1,0 +1,11 @@
+{
+  "id": "988c995a-9aba-4059-8b02-d600bf696a6d",
+  "object": "beer",
+  "name": "Jenaer Schellenbier",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

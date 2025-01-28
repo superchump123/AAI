@@ -1,0 +1,11 @@
+{
+  "id": "38247013-34fc-41d1-8dd7-ff5ac47f627b",
+  "object": "beer",
+  "name": "Iron Horse Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

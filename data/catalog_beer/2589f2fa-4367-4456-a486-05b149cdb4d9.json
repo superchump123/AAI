@@ -1,0 +1,11 @@
+{
+  "id": "2589f2fa-4367-4456-a486-05b149cdb4d9",
+  "object": "beer",
+  "name": "Switchback Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

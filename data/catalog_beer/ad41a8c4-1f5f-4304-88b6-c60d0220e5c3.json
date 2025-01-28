@@ -1,0 +1,11 @@
+{
+  "id": "ad41a8c4-1f5f-4304-88b6-c60d0220e5c3",
+  "object": "beer",
+  "name": "Knucktoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

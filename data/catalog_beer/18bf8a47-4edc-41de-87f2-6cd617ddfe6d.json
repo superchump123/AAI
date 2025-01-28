@@ -1,0 +1,11 @@
+{
+  "id": "18bf8a47-4edc-41de-87f2-6cd617ddfe6d",
+  "object": "beer",
+  "name": "Galaxy Hopped Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

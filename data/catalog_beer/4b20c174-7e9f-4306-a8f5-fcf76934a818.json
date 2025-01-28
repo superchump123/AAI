@@ -1,0 +1,11 @@
+{
+  "id": "4b20c174-7e9f-4306-a8f5-fcf76934a818",
+  "object": "beer",
+  "name": "Odd Man Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

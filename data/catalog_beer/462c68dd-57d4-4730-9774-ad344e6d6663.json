@@ -1,0 +1,11 @@
+{
+  "id": "462c68dd-57d4-4730-9774-ad344e6d6663",
+  "object": "beer",
+  "name": "Orangutan IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3b032d90-4f77-4696-aa6b-6d22124344fa",
+  "object": "beer",
+  "name": "Bodacious Berry Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

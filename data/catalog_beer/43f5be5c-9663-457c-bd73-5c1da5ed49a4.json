@@ -1,0 +1,11 @@
+{
+  "id": "43f5be5c-9663-457c-bd73-5c1da5ed49a4",
+  "object": "beer",
+  "name": "Black & Tan",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

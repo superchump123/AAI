@@ -1,0 +1,11 @@
+{
+  "id": "570779bd-1ad5-429d-aff6-acb8d9bb19f8",
+  "object": "beer",
+  "name": "Dark Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

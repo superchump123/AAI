@@ -1,0 +1,11 @@
+{
+  "id": "bea11006-301f-4936-b527-04459c8859ac",
+  "object": "beer",
+  "name": "Sandstone Cream Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

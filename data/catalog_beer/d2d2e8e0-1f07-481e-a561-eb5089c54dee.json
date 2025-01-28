@@ -1,0 +1,11 @@
+{
+  "id": "d2d2e8e0-1f07-481e-a561-eb5089c54dee",
+  "object": "beer",
+  "name": "Smooth Hoperator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

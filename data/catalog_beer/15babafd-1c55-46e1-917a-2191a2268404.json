@@ -1,0 +1,11 @@
+{
+  "id": "15babafd-1c55-46e1-917a-2191a2268404",
+  "object": "beer",
+  "name": "Handlebar Rider",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 135,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b224b5ee-52a7-42ac-b9fc-c9da5d9ad4a7",
+  "object": "beer",
+  "name": "Hibiscus IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

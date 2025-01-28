@@ -1,0 +1,11 @@
+{
+  "id": "47931660-81ab-47d9-ba4e-7ec760ae27c4",
+  "object": "beer",
+  "name": "Fleurette",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

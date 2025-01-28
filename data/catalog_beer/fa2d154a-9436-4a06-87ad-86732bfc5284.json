@@ -1,0 +1,11 @@
+{
+  "id": "fa2d154a-9436-4a06-87ad-86732bfc5284",
+  "object": "beer",
+  "name": "Two Pints",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

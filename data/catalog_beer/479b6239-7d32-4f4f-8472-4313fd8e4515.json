@@ -1,0 +1,11 @@
+{
+  "id": "479b6239-7d32-4f4f-8472-4313fd8e4515",
+  "object": "beer",
+  "name": "Harvest Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

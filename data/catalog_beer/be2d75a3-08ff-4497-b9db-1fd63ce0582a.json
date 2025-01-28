@@ -1,0 +1,11 @@
+{
+  "id": "be2d75a3-08ff-4497-b9db-1fd63ce0582a",
+  "object": "beer",
+  "name": "Peter the Great Russian Imperial Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

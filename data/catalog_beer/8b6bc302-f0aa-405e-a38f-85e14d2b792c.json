@@ -1,0 +1,11 @@
+{
+  "id": "8b6bc302-f0aa-405e-a38f-85e14d2b792c",
+  "object": "beer",
+  "name": "Voortsche Vlier",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

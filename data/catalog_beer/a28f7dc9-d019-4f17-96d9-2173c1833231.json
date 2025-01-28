@@ -1,0 +1,11 @@
+{
+  "id": "a28f7dc9-d019-4f17-96d9-2173c1833231",
+  "object": "beer",
+  "name": "Aaah Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

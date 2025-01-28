@@ -1,0 +1,11 @@
+{
+  "id": "a76cbfa3-6e72-4b67-93be-3c2fe1f49575",
+  "object": "beer",
+  "name": "Manestay Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

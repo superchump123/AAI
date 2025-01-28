@@ -1,0 +1,11 @@
+{
+  "id": "003deb54-5b6e-4973-afa1-8ec3518258a3",
+  "object": "beer",
+  "name": "Mike's Harder Orange Soda",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

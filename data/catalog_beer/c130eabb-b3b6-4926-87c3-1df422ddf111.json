@@ -1,0 +1,11 @@
+{
+  "id": "c130eabb-b3b6-4926-87c3-1df422ddf111",
+  "object": "beer",
+  "name": "White IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

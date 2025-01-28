@@ -1,0 +1,11 @@
+{
+  "id": "72a2d332-c64d-43bf-b1e6-85163cf8636e",
+  "object": "beer",
+  "name": "1225 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

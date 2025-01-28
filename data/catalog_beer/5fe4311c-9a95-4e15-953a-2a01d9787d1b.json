@@ -1,0 +1,11 @@
+{
+  "id": "5fe4311c-9a95-4e15-953a-2a01d9787d1b",
+  "object": "beer",
+  "name": "Laughing Water Australian Sparkling",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

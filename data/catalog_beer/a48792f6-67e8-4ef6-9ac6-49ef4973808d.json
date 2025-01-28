@@ -1,0 +1,11 @@
+{
+  "id": "a48792f6-67e8-4ef6-9ac6-49ef4973808d",
+  "object": "beer",
+  "name": "Night Run",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

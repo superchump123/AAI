@@ -1,0 +1,11 @@
+{
+  "id": "86be6440-a7ed-4b7d-93bc-dc9ef31c5276",
+  "object": "beer",
+  "name": "Strawberry Shortcake",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

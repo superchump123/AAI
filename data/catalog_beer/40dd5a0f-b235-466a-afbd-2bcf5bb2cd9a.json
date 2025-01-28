@@ -1,0 +1,11 @@
+{
+  "id": "40dd5a0f-b235-466a-afbd-2bcf5bb2cd9a",
+  "object": "beer",
+  "name": "Crockett Setter Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

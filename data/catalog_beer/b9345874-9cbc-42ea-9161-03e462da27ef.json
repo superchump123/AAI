@@ -1,0 +1,11 @@
+{
+  "id": "b9345874-9cbc-42ea-9161-03e462da27ef",
+  "object": "beer",
+  "name": "Deleted Tweet",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

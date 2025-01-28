@@ -1,0 +1,11 @@
+{
+  "id": "8b9e9ef8-2b23-42ef-a1a3-64357c047276",
+  "object": "beer",
+  "name": "Karha-T",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a5a6a5a3-bb9f-4544-8a18-d5390aed4731",
+  "object": "beer",
+  "name": "Doom",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

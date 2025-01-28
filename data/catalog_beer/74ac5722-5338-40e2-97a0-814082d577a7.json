@@ -1,0 +1,11 @@
+{
+  "id": "74ac5722-5338-40e2-97a0-814082d577a7",
+  "object": "beer",
+  "name": "Alpine Fest Lager",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

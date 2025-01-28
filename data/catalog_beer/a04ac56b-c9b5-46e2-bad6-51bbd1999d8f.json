@@ -1,0 +1,11 @@
+{
+  "id": "a04ac56b-c9b5-46e2-bad6-51bbd1999d8f",
+  "object": "beer",
+  "name": "Short-fuse Scottish",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

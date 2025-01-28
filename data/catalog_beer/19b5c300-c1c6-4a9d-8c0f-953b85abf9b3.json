@@ -1,0 +1,11 @@
+{
+  "id": "19b5c300-c1c6-4a9d-8c0f-953b85abf9b3",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

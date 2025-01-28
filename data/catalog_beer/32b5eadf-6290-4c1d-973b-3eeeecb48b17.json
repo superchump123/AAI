@@ -1,0 +1,11 @@
+{
+  "id": "32b5eadf-6290-4c1d-973b-3eeeecb48b17",
+  "object": "beer",
+  "name": "Alley Time",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "68925ed1-0987-41a3-b93d-2fa145416895",
+  "object": "beer",
+  "name": "Gypsy",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

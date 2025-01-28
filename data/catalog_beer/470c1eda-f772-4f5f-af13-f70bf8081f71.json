@@ -1,0 +1,11 @@
+{
+  "id": "470c1eda-f772-4f5f-af13-f70bf8081f71",
+  "object": "beer",
+  "name": "Blast Radius",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

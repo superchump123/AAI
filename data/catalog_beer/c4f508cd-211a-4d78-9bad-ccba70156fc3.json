@@ -1,0 +1,11 @@
+{
+  "id": "c4f508cd-211a-4d78-9bad-ccba70156fc3",
+  "object": "beer",
+  "name": "Imperial Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "244211bc-9cc3-4cc2-9779-0ae47bed041e",
+  "object": "beer",
+  "name": "Rye Racer",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

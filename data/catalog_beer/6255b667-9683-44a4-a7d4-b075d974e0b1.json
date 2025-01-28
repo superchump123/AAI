@@ -1,0 +1,11 @@
+{
+  "id": "6255b667-9683-44a4-a7d4-b075d974e0b1",
+  "object": "beer",
+  "name": "Riding Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

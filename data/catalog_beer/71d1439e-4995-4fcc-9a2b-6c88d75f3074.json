@@ -1,0 +1,11 @@
+{
+  "id": "71d1439e-4995-4fcc-9a2b-6c88d75f3074",
+  "object": "beer",
+  "name": "Mid Summer Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

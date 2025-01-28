@@ -1,0 +1,11 @@
+{
+  "id": "aef230e1-55f3-4b54-bf9d-7d577f1973f2",
+  "object": "beer",
+  "name": "Heavy Red Horseman",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

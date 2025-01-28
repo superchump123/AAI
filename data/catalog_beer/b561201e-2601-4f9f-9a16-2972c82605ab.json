@@ -1,0 +1,11 @@
+{
+  "id": "b561201e-2601-4f9f-9a16-2972c82605ab",
+  "object": "beer",
+  "name": "CattyWompus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

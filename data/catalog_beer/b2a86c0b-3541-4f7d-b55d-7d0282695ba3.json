@@ -1,0 +1,11 @@
+{
+  "id": "b2a86c0b-3541-4f7d-b55d-7d0282695ba3",
+  "object": "beer",
+  "name": "Big Meadow Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

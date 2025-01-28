@@ -1,0 +1,11 @@
+{
+  "id": "71b222d4-87cc-4219-89a3-4db8001c94c5",
+  "object": "beer",
+  "name": "Hochdorfer Alkoholfrei",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

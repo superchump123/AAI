@@ -1,0 +1,11 @@
+{
+  "id": "0542584c-e3fe-4f2a-bda2-ab858e5a53ec",
+  "object": "beer",
+  "name": "Melange A Trois",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

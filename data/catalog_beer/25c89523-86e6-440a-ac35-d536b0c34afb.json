@@ -1,0 +1,11 @@
+{
+  "id": "25c89523-86e6-440a-ac35-d536b0c34afb",
+  "object": "beer",
+  "name": "Cerdos Voladores",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

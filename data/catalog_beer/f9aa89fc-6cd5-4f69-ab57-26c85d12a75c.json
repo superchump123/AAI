@@ -1,0 +1,11 @@
+{
+  "id": "f9aa89fc-6cd5-4f69-ab57-26c85d12a75c",
+  "object": "beer",
+  "name": "Pumper Truck Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

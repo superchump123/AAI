@@ -1,0 +1,11 @@
+{
+  "id": "ba54ba36-c1bb-4647-b7f0-67360055bc29",
+  "object": "beer",
+  "name": "La Goudale",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

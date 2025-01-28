@@ -1,0 +1,11 @@
+{
+  "id": "ab4d3b27-b05b-42c4-9f54-193a638611b7",
+  "object": "beer",
+  "name": "Bumble Berry Honey Blueberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

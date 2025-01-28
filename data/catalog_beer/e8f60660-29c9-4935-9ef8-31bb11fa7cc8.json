@@ -1,0 +1,11 @@
+{
+  "id": "e8f60660-29c9-4935-9ef8-31bb11fa7cc8",
+  "object": "beer",
+  "name": "Big Black Dog 68 (BBD68)",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dc75e637-b6a0-4958-a8a8-c05ec5137236",
+  "object": "beer",
+  "name": "Sixty-One",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

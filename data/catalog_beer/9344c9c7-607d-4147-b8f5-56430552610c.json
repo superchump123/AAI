@@ -1,0 +1,11 @@
+{
+  "id": "9344c9c7-607d-4147-b8f5-56430552610c",
+  "object": "beer",
+  "name": "Belgian Strong Dark...Side of the Moon",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

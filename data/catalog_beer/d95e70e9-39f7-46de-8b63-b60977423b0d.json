@@ -1,0 +1,11 @@
+{
+  "id": "d95e70e9-39f7-46de-8b63-b60977423b0d",
+  "object": "beer",
+  "name": "Ghost Chili Golden Ale",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

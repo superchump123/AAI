@@ -1,0 +1,11 @@
+{
+  "id": "7334e27d-7c1a-4352-83e5-c945a7154154",
+  "object": "beer",
+  "name": "Diamond",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

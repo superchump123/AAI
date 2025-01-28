@@ -1,0 +1,11 @@
+{
+  "id": "81b5a043-0fd1-4359-953c-f7eff8f42f30",
+  "object": "beer",
+  "name": "Sellwood Lager",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

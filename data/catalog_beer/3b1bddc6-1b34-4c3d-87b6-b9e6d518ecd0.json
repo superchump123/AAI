@@ -1,0 +1,11 @@
+{
+  "id": "3b1bddc6-1b34-4c3d-87b6-b9e6d518ecd0",
+  "object": "beer",
+  "name": "For the Love of Honey",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

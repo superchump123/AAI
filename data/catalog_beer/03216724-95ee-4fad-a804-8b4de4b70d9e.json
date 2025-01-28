@@ -1,0 +1,11 @@
+{
+  "id": "03216724-95ee-4fad-a804-8b4de4b70d9e",
+  "object": "beer",
+  "name": "All-American Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

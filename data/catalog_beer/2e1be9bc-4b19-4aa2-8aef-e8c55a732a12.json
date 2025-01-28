@@ -1,0 +1,11 @@
+{
+  "id": "2e1be9bc-4b19-4aa2-8aef-e8c55a732a12",
+  "object": "beer",
+  "name": "Horse Collar",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

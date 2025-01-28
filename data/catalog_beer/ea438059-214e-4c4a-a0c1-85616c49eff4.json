@@ -1,0 +1,11 @@
+{
+  "id": "ea438059-214e-4c4a-a0c1-85616c49eff4",
+  "object": "beer",
+  "name": "Prost Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

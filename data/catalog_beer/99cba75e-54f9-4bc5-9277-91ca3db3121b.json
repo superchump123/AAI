@@ -1,0 +1,11 @@
+{
+  "id": "99cba75e-54f9-4bc5-9277-91ca3db3121b",
+  "object": "beer",
+  "name": "Fern Dark",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

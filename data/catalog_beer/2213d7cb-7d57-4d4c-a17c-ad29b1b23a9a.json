@@ -1,0 +1,11 @@
+{
+  "id": "2213d7cb-7d57-4d4c-a17c-ad29b1b23a9a",
+  "object": "beer",
+  "name": "High Plains Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

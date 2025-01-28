@@ -1,0 +1,11 @@
+{
+  "id": "dfa1d769-c7ce-4b4b-91fd-a68b502617ed",
+  "object": "beer",
+  "name": "Bitchin' Berry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5012dba4-2ec4-480c-8c3e-2a69b6c529bd",
+  "object": "beer",
+  "name": "Abt 12 (2006)",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2e026c6d-2207-4d80-bb30-094198566b0e",
+  "object": "beer",
+  "name": "Mulata",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

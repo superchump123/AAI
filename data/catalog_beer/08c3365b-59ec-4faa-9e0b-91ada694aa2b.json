@@ -1,0 +1,11 @@
+{
+  "id": "08c3365b-59ec-4faa-9e0b-91ada694aa2b",
+  "object": "beer",
+  "name": "Castleburg Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

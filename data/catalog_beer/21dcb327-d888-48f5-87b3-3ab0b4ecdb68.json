@@ -1,0 +1,11 @@
+{
+  "id": "21dcb327-d888-48f5-87b3-3ab0b4ecdb68",
+  "object": "beer",
+  "name": "Dirty Hippie",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd7eece2-b929-4ba0-85ec-5d2fe5cf94dc",
+  "object": "beer",
+  "name": "Haymaker",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

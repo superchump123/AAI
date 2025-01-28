@@ -1,0 +1,11 @@
+{
+  "id": "1a9129b6-37de-4f86-a21d-e4167fc15a6b",
+  "object": "beer",
+  "name": "Smitten Golden Rye Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

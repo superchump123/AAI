@@ -1,0 +1,11 @@
+{
+  "id": "5935b1a0-0078-4ab9-9be6-40cc2d928000",
+  "object": "beer",
+  "name": "BJ's Magnolia Peach",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e33e7676-d6da-4683-b1ea-5c644704cde3",
+  "object": "beer",
+  "name": "Gros Pin",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

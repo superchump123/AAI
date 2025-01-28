@@ -1,0 +1,11 @@
+{
+  "id": "54e1b839-637c-4a0c-bebd-cce7e048daab",
+  "object": "beer",
+  "name": "Black Eddy IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fddd91d0-8b6d-4430-a725-6fcf90f9c51a",
+  "object": "beer",
+  "name": "Skuumkoppe",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

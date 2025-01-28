@@ -1,0 +1,11 @@
+{
+  "id": "cebf6bf1-9dc8-4477-8ec7-8132605e17f3",
+  "object": "beer",
+  "name": "Ruby on Rails",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

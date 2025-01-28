@@ -1,0 +1,11 @@
+{
+  "id": "5085faa4-001c-48bc-b902-056534d82a4f",
+  "object": "beer",
+  "name": "Sweet Nothings",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "04ca6627-70cc-4e85-89e9-e452a43875e1",
+  "object": "beer",
+  "name": "Old 21 Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

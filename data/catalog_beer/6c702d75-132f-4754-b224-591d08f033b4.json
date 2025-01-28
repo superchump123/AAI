@@ -1,0 +1,11 @@
+{
+  "id": "6c702d75-132f-4754-b224-591d08f033b4",
+  "object": "beer",
+  "name": "Old Abominable Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

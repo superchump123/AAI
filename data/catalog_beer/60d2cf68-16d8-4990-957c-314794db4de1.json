@@ -1,0 +1,11 @@
+{
+  "id": "60d2cf68-16d8-4990-957c-314794db4de1",
+  "object": "beer",
+  "name": "Sligo Creek",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

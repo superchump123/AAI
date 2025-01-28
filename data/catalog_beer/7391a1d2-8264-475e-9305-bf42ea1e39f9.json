@@ -1,0 +1,11 @@
+{
+  "id": "7391a1d2-8264-475e-9305-bf42ea1e39f9",
+  "object": "beer",
+  "name": "Pinkus Jubilate",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

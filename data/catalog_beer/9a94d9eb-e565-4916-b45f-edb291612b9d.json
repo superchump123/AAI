@@ -1,0 +1,11 @@
+{
+  "id": "9a94d9eb-e565-4916-b45f-edb291612b9d",
+  "object": "beer",
+  "name": "Quincy Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

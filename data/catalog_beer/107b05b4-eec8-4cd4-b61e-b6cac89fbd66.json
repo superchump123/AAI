@@ -1,0 +1,11 @@
+{
+  "id": "107b05b4-eec8-4cd4-b61e-b6cac89fbd66",
+  "object": "beer",
+  "name": "Bombshell Perception Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

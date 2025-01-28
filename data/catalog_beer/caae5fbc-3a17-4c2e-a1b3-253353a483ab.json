@@ -1,0 +1,11 @@
+{
+  "id": "caae5fbc-3a17-4c2e-a1b3-253353a483ab",
+  "object": "beer",
+  "name": "42nd Street Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

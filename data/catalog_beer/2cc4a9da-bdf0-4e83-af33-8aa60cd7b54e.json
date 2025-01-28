@@ -1,0 +1,11 @@
+{
+  "id": "2cc4a9da-bdf0-4e83-af33-8aa60cd7b54e",
+  "object": "beer",
+  "name": "Odyssey",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

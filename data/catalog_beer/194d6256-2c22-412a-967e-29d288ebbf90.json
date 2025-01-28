@@ -1,0 +1,11 @@
+{
+  "id": "194d6256-2c22-412a-967e-29d288ebbf90",
+  "object": "beer",
+  "name": "Red Apple",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

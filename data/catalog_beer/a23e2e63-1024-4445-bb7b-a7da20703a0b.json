@@ -1,0 +1,11 @@
+{
+  "id": "a23e2e63-1024-4445-bb7b-a7da20703a0b",
+  "object": "beer",
+  "name": "Meltdown Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

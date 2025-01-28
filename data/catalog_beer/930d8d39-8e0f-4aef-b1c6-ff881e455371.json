@@ -1,0 +1,11 @@
+{
+  "id": "930d8d39-8e0f-4aef-b1c6-ff881e455371",
+  "object": "beer",
+  "name": "New Kids On The Hops",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

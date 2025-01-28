@@ -1,0 +1,11 @@
+{
+  "id": "516a0598-f8ea-4c66-b7ac-f25932a104f0",
+  "object": "beer",
+  "name": "Golden Pheasant",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

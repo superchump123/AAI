@@ -1,0 +1,11 @@
+{
+  "id": "5a64c1dd-6e93-458f-a581-695837f9fb96",
+  "object": "beer",
+  "name": "Curlew's Toasted Coconut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

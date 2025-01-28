@@ -1,0 +1,11 @@
+{
+  "id": "4a6a433f-27cd-42e4-9bbc-361603c82051",
+  "object": "beer",
+  "name": "Something Hoppy This Way Comes",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

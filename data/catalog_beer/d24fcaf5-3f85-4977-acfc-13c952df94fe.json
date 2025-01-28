@@ -1,0 +1,11 @@
+{
+  "id": "d24fcaf5-3f85-4977-acfc-13c952df94fe",
+  "object": "beer",
+  "name": "Ali's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

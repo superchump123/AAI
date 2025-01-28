@@ -1,0 +1,11 @@
+{
+  "id": "c815d8a1-6631-4119-9f72-ab84c870572c",
+  "object": "beer",
+  "name": "Fanny's Bramble",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

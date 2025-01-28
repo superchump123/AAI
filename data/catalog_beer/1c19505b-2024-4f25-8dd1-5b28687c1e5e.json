@@ -1,0 +1,11 @@
+{
+  "id": "1c19505b-2024-4f25-8dd1-5b28687c1e5e",
+  "object": "beer",
+  "name": "Foo Foo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "583a029e-16a0-4726-9eb9-08b9d2be2294",
+  "object": "beer",
+  "name": "Dr. Pat's Citra/Cascade",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

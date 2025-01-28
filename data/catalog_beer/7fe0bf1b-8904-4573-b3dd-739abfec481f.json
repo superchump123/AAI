@@ -1,0 +1,11 @@
+{
+  "id": "7fe0bf1b-8904-4573-b3dd-739abfec481f",
+  "object": "beer",
+  "name": "Golden Eagle Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

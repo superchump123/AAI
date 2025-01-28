@@ -1,0 +1,11 @@
+{
+  "id": "d009d2d8-084a-4b02-8786-2b6fcdac849c",
+  "object": "beer",
+  "name": "Blinded by the White IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

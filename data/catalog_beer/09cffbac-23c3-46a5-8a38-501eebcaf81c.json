@@ -1,0 +1,11 @@
+{
+  "id": "09cffbac-23c3-46a5-8a38-501eebcaf81c",
+  "object": "beer",
+  "name": "Extra Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

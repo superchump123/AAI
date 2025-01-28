@@ -1,0 +1,11 @@
+{
+  "id": "78f73625-5972-40dc-b347-3fe9b3726112",
+  "object": "beer",
+  "name": "Troisdorfer Troi-Pi",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6528cc1b-4dd0-4b62-b5cf-222ddce812a1",
+  "object": "beer",
+  "name": "Southern Tier Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

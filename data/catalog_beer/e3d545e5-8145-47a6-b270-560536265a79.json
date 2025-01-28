@@ -1,0 +1,11 @@
+{
+  "id": "e3d545e5-8145-47a6-b270-560536265a79",
+  "object": "beer",
+  "name": "Choqlette Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7ca0e0e9-0390-41ca-83aa-4fde3033a421",
+  "object": "beer",
+  "name": "Dying Vines Smoked 90 Shilling",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8a1e4c4f-ed6f-4087-b4f9-f589271fa02a",
+  "object": "beer",
+  "name": "Imperial I.P.A.",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

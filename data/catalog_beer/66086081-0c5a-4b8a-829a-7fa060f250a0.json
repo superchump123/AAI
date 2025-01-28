@@ -1,0 +1,11 @@
+{
+  "id": "66086081-0c5a-4b8a-829a-7fa060f250a0",
+  "object": "beer",
+  "name": "Lora",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

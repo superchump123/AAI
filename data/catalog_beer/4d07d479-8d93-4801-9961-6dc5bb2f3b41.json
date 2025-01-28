@@ -1,0 +1,11 @@
+{
+  "id": "4d07d479-8d93-4801-9961-6dc5bb2f3b41",
+  "object": "beer",
+  "name": "Troy's ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 7,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

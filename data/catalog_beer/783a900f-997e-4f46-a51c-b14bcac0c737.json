@@ -1,0 +1,11 @@
+{
+  "id": "783a900f-997e-4f46-a51c-b14bcac0c737",
+  "object": "beer",
+  "name": "Dancing Trout Ale",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

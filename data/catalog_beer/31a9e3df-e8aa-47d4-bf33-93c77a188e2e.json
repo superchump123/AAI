@@ -1,0 +1,11 @@
+{
+  "id": "31a9e3df-e8aa-47d4-bf33-93c77a188e2e",
+  "object": "beer",
+  "name": "End Boss",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

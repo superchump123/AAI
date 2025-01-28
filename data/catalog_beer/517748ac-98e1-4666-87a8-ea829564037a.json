@@ -1,0 +1,11 @@
+{
+  "id": "517748ac-98e1-4666-87a8-ea829564037a",
+  "object": "beer",
+  "name": "Troubadour",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

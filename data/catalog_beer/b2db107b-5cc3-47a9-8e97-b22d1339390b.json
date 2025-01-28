@@ -1,0 +1,11 @@
+{
+  "id": "b2db107b-5cc3-47a9-8e97-b22d1339390b",
+  "object": "beer",
+  "name": "White Label Imperial Russian Stout (Bowmore Barrel)",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

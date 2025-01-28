@@ -1,0 +1,11 @@
+{
+  "id": "b0e6f43a-f9ee-4925-87bb-b9546626222b",
+  "object": "beer",
+  "name": "Sparks",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

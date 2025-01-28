@@ -1,0 +1,11 @@
+{
+  "id": "a61695f9-34a2-4bf3-bf2a-efc4af6caa78",
+  "object": "beer",
+  "name": "MJ Berliner Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

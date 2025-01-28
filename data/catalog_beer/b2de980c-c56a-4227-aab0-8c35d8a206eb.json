@@ -1,0 +1,11 @@
+{
+  "id": "b2de980c-c56a-4227-aab0-8c35d8a206eb",
+  "object": "beer",
+  "name": "Stella",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

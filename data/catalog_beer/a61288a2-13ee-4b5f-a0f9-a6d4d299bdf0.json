@@ -1,0 +1,11 @@
+{
+  "id": "a61288a2-13ee-4b5f-a0f9-a6d4d299bdf0",
+  "object": "beer",
+  "name": "Boatswain American IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 79,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

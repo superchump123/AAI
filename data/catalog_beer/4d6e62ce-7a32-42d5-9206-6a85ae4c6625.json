@@ -1,0 +1,11 @@
+{
+  "id": "4d6e62ce-7a32-42d5-9206-6a85ae4c6625",
+  "object": "beer",
+  "name": "PRBC Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

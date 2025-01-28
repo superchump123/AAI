@@ -1,0 +1,11 @@
+{
+  "id": "3706b6e4-d4b3-4435-a9f6-2b28e9f163f3",
+  "object": "beer",
+  "name": "Roy's Big Bad Brown Ale \"Triple B\"",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

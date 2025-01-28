@@ -1,0 +1,11 @@
+{
+  "id": "e3dbdf36-961c-4a6a-95b9-f26158573967",
+  "object": "beer",
+  "name": "City Limits",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

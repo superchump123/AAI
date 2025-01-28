@@ -1,0 +1,11 @@
+{
+  "id": "fa081cc0-3e5f-499c-8592-22c99e1d5e46",
+  "object": "beer",
+  "name": "Trekhgornoe Rozhdestvensky Ale (\u0422\u0440\u0435\u0445\u0433\u043e\u0440\u043d\u043e\u0435 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u042d\u043b\u044c)",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f419fec9-85d6-4d04-817c-9a2570fee50e",
+  "object": "beer",
+  "name": "Vinland One",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

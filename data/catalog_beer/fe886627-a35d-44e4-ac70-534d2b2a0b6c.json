@@ -1,0 +1,11 @@
+{
+  "id": "fe886627-a35d-44e4-ac70-534d2b2a0b6c",
+  "object": "beer",
+  "name": "Hootie's Homegrown Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

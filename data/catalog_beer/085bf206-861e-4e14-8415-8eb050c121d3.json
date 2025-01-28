@@ -1,0 +1,11 @@
+{
+  "id": "085bf206-861e-4e14-8415-8eb050c121d3",
+  "object": "beer",
+  "name": "The First Squeeze",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

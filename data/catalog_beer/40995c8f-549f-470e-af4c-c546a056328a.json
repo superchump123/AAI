@@ -1,0 +1,11 @@
+{
+  "id": "40995c8f-549f-470e-af4c-c546a056328a",
+  "object": "beer",
+  "name": "Biff's Best IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

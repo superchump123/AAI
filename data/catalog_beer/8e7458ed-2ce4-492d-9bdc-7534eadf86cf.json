@@ -1,0 +1,11 @@
+{
+  "id": "8e7458ed-2ce4-492d-9bdc-7534eadf86cf",
+  "object": "beer",
+  "name": "Cyser",
+  "style": "Cyser (Apple Melomel)",
+  "description": null,
+  "abv": 15,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

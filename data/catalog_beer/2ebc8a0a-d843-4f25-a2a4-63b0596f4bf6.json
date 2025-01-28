@@ -1,0 +1,11 @@
+{
+  "id": "2ebc8a0a-d843-4f25-a2a4-63b0596f4bf6",
+  "object": "beer",
+  "name": "Nekkid Creeper",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

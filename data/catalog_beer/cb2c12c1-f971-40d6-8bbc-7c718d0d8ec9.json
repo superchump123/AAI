@@ -1,0 +1,11 @@
+{
+  "id": "cb2c12c1-f971-40d6-8bbc-7c718d0d8ec9",
+  "object": "beer",
+  "name": "Framboyzee",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

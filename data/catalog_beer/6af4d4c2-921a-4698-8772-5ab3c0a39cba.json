@@ -1,0 +1,11 @@
+{
+  "id": "6af4d4c2-921a-4698-8772-5ab3c0a39cba",
+  "object": "beer",
+  "name": "Ortolan Bunting",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

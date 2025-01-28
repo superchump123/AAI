@@ -1,0 +1,11 @@
+{
+  "id": "c88fd33d-c691-4a75-bfed-093aebab5066",
+  "object": "beer",
+  "name": "Seeradler Plus",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 2.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

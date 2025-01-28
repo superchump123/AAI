@@ -1,0 +1,11 @@
+{
+  "id": "b6a8d516-9c6e-45f3-b54e-ba0bd75d4a62",
+  "object": "beer",
+  "name": "Memento Mori",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

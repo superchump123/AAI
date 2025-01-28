@@ -1,0 +1,11 @@
+{
+  "id": "07d63f62-85ff-4145-85dc-7710e8730652",
+  "object": "beer",
+  "name": "Paramour",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

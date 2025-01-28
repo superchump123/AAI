@@ -1,0 +1,11 @@
+{
+  "id": "2ad5d40a-987a-4598-8563-84fca0f0873a",
+  "object": "beer",
+  "name": "Squire",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e5cb72cf-7155-4361-be6c-f90d3cd51887",
+  "object": "beer",
+  "name": "Batch 1000",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

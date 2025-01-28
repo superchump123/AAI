@@ -1,0 +1,11 @@
+{
+  "id": "a8986471-2594-46c7-bba9-8bbe46d68779",
+  "object": "beer",
+  "name": "St. Bernardus Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

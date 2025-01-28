@@ -1,0 +1,11 @@
+{
+  "id": "87a3f11e-0504-4541-b7eb-f4fe61e0c11c",
+  "object": "beer",
+  "name": "Malama Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

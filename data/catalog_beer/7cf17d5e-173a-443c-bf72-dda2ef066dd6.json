@@ -1,0 +1,11 @@
+{
+  "id": "7cf17d5e-173a-443c-bf72-dda2ef066dd6",
+  "object": "beer",
+  "name": "Doryman's Dark Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

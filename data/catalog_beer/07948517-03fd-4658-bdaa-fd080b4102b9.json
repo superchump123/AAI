@@ -1,0 +1,11 @@
+{
+  "id": "07948517-03fd-4658-bdaa-fd080b4102b9",
+  "object": "beer",
+  "name": "Citra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

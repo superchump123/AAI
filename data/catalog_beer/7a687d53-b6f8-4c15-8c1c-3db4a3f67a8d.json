@@ -1,0 +1,11 @@
+{
+  "id": "7a687d53-b6f8-4c15-8c1c-3db4a3f67a8d",
+  "object": "beer",
+  "name": "Begyle Anglicus Vetas",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

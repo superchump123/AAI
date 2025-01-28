@@ -1,0 +1,11 @@
+{
+  "id": "6f4f8dfe-8cbf-455e-87ca-034714bd25c6",
+  "object": "beer",
+  "name": "Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

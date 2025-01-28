@@ -1,0 +1,11 @@
+{
+  "id": "6437871b-3ce7-457d-926e-719ad12535c6",
+  "object": "beer",
+  "name": "Tasgall Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

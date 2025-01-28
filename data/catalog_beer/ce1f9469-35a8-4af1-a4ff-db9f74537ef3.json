@@ -1,0 +1,11 @@
+{
+  "id": "ce1f9469-35a8-4af1-a4ff-db9f74537ef3",
+  "object": "beer",
+  "name": "Rubrique a Brac",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

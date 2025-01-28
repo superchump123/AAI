@@ -1,0 +1,11 @@
+{
+  "id": "866584f3-a1cb-4c72-b158-08b69c0cbdac",
+  "object": "beer",
+  "name": "Big Eddy Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

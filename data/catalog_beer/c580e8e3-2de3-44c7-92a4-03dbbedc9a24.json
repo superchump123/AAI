@@ -1,0 +1,11 @@
+{
+  "id": "c580e8e3-2de3-44c7-92a4-03dbbedc9a24",
+  "object": "beer",
+  "name": "Hells Navigator",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

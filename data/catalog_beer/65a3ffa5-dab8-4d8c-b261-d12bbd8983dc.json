@@ -1,0 +1,11 @@
+{
+  "id": "65a3ffa5-dab8-4d8c-b261-d12bbd8983dc",
+  "object": "beer",
+  "name": "Space Cake",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

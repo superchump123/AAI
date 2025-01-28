@@ -1,0 +1,11 @@
+{
+  "id": "723b0879-9e97-45ca-b893-d9513322e450",
+  "object": "beer",
+  "name": "Wheat Passion",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

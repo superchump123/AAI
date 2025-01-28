@@ -1,0 +1,11 @@
+{
+  "id": "206ef5ce-95d0-4048-92ba-e87330e1bb0a",
+  "object": "beer",
+  "name": "Bluejackets Best",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "331c8139-1f25-4723-a08c-7b175f962050",
+  "object": "beer",
+  "name": "The Backbone",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

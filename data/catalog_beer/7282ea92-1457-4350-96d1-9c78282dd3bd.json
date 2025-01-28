@@ -1,0 +1,11 @@
+{
+  "id": "7282ea92-1457-4350-96d1-9c78282dd3bd",
+  "object": "beer",
+  "name": "Saison Rustique",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

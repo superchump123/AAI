@@ -1,0 +1,11 @@
+{
+  "id": "7a31f806-8423-46f9-9e0e-934a670781a8",
+  "object": "beer",
+  "name": "Beginner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

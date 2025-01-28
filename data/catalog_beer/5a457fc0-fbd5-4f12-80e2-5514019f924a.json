@@ -1,0 +1,11 @@
+{
+  "id": "5a457fc0-fbd5-4f12-80e2-5514019f924a",
+  "object": "beer",
+  "name": "Tamanend Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

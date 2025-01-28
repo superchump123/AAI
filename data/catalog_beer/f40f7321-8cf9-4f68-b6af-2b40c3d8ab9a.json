@@ -1,0 +1,11 @@
+{
+  "id": "f40f7321-8cf9-4f68-b6af-2b40c3d8ab9a",
+  "object": "beer",
+  "name": "Nostradamus",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "89d5e65d-066e-4a01-af23-3fa5eca580a8",
+  "object": "beer",
+  "name": "English Six Grain Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

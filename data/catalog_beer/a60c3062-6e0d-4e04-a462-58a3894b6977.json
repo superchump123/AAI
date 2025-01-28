@@ -1,0 +1,11 @@
+{
+  "id": "a60c3062-6e0d-4e04-a462-58a3894b6977",
+  "object": "beer",
+  "name": "Mob Rules",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

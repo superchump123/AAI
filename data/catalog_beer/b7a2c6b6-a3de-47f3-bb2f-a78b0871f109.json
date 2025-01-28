@@ -1,0 +1,11 @@
+{
+  "id": "b7a2c6b6-a3de-47f3-bb2f-a78b0871f109",
+  "object": "beer",
+  "name": "Kiwi Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

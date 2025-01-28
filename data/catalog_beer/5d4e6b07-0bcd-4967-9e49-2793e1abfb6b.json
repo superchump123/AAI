@@ -1,0 +1,11 @@
+{
+  "id": "5d4e6b07-0bcd-4967-9e49-2793e1abfb6b",
+  "object": "beer",
+  "name": "Blizzard Conditions",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "91023a93-28a8-4417-bf39-1ad18e1773b8",
+  "object": "beer",
+  "name": "Lionshead",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

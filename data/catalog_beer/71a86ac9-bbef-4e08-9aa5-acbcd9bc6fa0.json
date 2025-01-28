@@ -1,0 +1,11 @@
+{
+  "id": "71a86ac9-bbef-4e08-9aa5-acbcd9bc6fa0",
+  "object": "beer",
+  "name": "A-TOWN PALE",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

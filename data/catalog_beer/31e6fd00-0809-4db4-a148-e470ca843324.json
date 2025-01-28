@@ -1,0 +1,11 @@
+{
+  "id": "31e6fd00-0809-4db4-a148-e470ca843324",
+  "object": "beer",
+  "name": "Bock Dunkel",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

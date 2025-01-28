@@ -1,0 +1,11 @@
+{
+  "id": "ec6ec040-ae31-446c-aa23-db3b7c3e3ef9",
+  "object": "beer",
+  "name": "Olde Bartholomew",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

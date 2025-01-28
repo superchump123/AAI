@@ -1,0 +1,11 @@
+{
+  "id": "a6724f5e-5f00-48b5-a2fe-4f5afe369caf",
+  "object": "beer",
+  "name": "Cannonball",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67e522c9-a522-423f-8948-a6fb932c3a1e",
+  "object": "beer",
+  "name": "Row House Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

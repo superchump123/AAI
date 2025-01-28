@@ -1,0 +1,11 @@
+{
+  "id": "86c4fd2b-f9bd-4949-a98c-715370018a40",
+  "object": "beer",
+  "name": "Decadence",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

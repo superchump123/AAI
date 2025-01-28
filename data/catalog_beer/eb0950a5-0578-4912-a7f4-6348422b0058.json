@@ -1,0 +1,11 @@
+{
+  "id": "eb0950a5-0578-4912-a7f4-6348422b0058",
+  "object": "beer",
+  "name": "TC Cherry Mash",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c3832f50-7261-4623-8bba-34f3c2dbcfd8",
+  "object": "beer",
+  "name": "Einsiedler Heller Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

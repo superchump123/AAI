@@ -1,0 +1,11 @@
+{
+  "id": "b26e4714-3d66-4fa8-9756-8578fc59a3cd",
+  "object": "beer",
+  "name": "Sweet Leaf IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "564f115b-bd0c-4e5f-9770-db77267d685d",
+  "object": "beer",
+  "name": "The Old Sow",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

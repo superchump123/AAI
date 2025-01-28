@@ -1,0 +1,11 @@
+{
+  "id": "743fa424-2caf-444a-8a04-18ee38b07e36",
+  "object": "beer",
+  "name": "Domashnee",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

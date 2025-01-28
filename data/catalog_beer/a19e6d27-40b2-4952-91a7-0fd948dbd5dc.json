@@ -1,0 +1,11 @@
+{
+  "id": "a19e6d27-40b2-4952-91a7-0fd948dbd5dc",
+  "object": "beer",
+  "name": "Rule G",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

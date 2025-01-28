@@ -1,0 +1,11 @@
+{
+  "id": "9710b090-a9b9-4778-affd-bbc95e34587f",
+  "object": "beer",
+  "name": "Wari",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

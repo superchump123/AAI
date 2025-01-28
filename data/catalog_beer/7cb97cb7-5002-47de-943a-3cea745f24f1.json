@@ -1,0 +1,11 @@
+{
+  "id": "7cb97cb7-5002-47de-943a-3cea745f24f1",
+  "object": "beer",
+  "name": "Kwikriek",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

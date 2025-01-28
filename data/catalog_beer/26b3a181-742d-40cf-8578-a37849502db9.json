@@ -1,0 +1,11 @@
+{
+  "id": "26b3a181-742d-40cf-8578-a37849502db9",
+  "object": "beer",
+  "name": "Christianshavn Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

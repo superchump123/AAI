@@ -1,0 +1,11 @@
+{
+  "id": "f0d8bb83-a50b-4ab6-9aa8-9b91fd27a1fe",
+  "object": "beer",
+  "name": "Lady Justice Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

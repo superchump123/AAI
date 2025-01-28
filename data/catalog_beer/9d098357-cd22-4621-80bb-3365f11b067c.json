@@ -1,0 +1,11 @@
+{
+  "id": "9d098357-cd22-4621-80bb-3365f11b067c",
+  "object": "beer",
+  "name": "El Paisano",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

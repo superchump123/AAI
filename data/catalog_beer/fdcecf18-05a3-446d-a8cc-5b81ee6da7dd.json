@@ -1,0 +1,11 @@
+{
+  "id": "fdcecf18-05a3-446d-a8cc-5b81ee6da7dd",
+  "object": "beer",
+  "name": "Rubi",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

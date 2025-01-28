@@ -1,0 +1,11 @@
+{
+  "id": "1d509650-df6c-47bd-bdb2-561359812464",
+  "object": "beer",
+  "name": "Rye-On-Rye X - Sazerac",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 11.8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

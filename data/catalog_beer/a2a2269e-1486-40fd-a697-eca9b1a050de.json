@@ -1,0 +1,11 @@
+{
+  "id": "a2a2269e-1486-40fd-a697-eca9b1a050de",
+  "object": "beer",
+  "name": "Blanche des Moines",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

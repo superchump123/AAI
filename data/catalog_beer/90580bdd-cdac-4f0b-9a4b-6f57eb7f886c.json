@@ -1,0 +1,11 @@
+{
+  "id": "90580bdd-cdac-4f0b-9a4b-6f57eb7f886c",
+  "object": "beer",
+  "name": "Mad Flow",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

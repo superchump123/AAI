@@ -1,0 +1,11 @@
+{
+  "id": "220c9516-5eb8-4cef-be69-13bf3bf904e1",
+  "object": "beer",
+  "name": "IPA Kolata",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

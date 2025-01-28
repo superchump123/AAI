@@ -1,0 +1,11 @@
+{
+  "id": "1ec03a4f-6769-45c2-9c1a-65cc7652c8e6",
+  "object": "beer",
+  "name": "Ricklinger Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

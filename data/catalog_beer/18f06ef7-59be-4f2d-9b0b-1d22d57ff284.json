@@ -1,0 +1,11 @@
+{
+  "id": "18f06ef7-59be-4f2d-9b0b-1d22d57ff284",
+  "object": "beer",
+  "name": "Poppels Modern Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

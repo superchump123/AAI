@@ -1,0 +1,11 @@
+{
+  "id": "05820dcd-8512-4b30-9416-c6293e32d123",
+  "object": "beer",
+  "name": "West O 6 Foot 6 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

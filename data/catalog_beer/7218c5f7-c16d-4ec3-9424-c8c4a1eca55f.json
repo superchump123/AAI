@@ -1,0 +1,11 @@
+{
+  "id": "7218c5f7-c16d-4ec3-9424-c8c4a1eca55f",
+  "object": "beer",
+  "name": "Heyzeus",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d5c49fb-a35f-41f2-9ab7-2e16134f2365",
+  "object": "beer",
+  "name": "Ur-Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "154fc107-b95b-484a-87db-ad2cb2708678",
+  "object": "beer",
+  "name": "Spaten Maibock",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

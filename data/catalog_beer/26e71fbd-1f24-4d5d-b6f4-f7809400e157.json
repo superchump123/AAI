@@ -1,0 +1,11 @@
+{
+  "id": "26e71fbd-1f24-4d5d-b6f4-f7809400e157",
+  "object": "beer",
+  "name": "South County IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

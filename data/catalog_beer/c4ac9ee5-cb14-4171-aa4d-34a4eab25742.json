@@ -1,0 +1,11 @@
+{
+  "id": "c4ac9ee5-cb14-4171-aa4d-34a4eab25742",
+  "object": "beer",
+  "name": "The Chairman",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

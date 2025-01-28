@@ -1,0 +1,11 @@
+{
+  "id": "5bf7b2be-3cea-489a-8f14-e30116225003",
+  "object": "beer",
+  "name": "Ebenezer Vanilla Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

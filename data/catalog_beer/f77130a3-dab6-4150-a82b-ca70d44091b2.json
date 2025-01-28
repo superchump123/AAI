@@ -1,0 +1,11 @@
+{
+  "id": "f77130a3-dab6-4150-a82b-ca70d44091b2",
+  "object": "beer",
+  "name": "Juicy Bits",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

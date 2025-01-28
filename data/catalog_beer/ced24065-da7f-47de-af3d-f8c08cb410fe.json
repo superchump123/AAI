@@ -1,0 +1,11 @@
+{
+  "id": "ced24065-da7f-47de-af3d-f8c08cb410fe",
+  "object": "beer",
+  "name": "Scottish 70 Schilling",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 3.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

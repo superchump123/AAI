@@ -1,0 +1,11 @@
+{
+  "id": "7ee8768a-0683-4042-a8c7-ea17bd3beec4",
+  "object": "beer",
+  "name": "Confliction Black IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

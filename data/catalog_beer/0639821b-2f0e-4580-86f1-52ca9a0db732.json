@@ -1,0 +1,11 @@
+{
+  "id": "0639821b-2f0e-4580-86f1-52ca9a0db732",
+  "object": "beer",
+  "name": "Porch Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

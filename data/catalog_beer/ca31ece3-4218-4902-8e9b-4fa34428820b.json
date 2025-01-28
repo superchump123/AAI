@@ -1,0 +1,11 @@
+{
+  "id": "ca31ece3-4218-4902-8e9b-4fa34428820b",
+  "object": "beer",
+  "name": "Giggling Pin Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

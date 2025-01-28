@@ -1,0 +1,11 @@
+{
+  "id": "601e821a-c0eb-4166-b107-2ea267d6c4b9",
+  "object": "beer",
+  "name": "Dunkles Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

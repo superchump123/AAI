@@ -1,0 +1,11 @@
+{
+  "id": "d761d9f0-f691-4209-aea1-c4c10d07561d",
+  "object": "beer",
+  "name": "Jack Wagon Wheat Beer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

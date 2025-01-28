@@ -1,0 +1,11 @@
+{
+  "id": "e6025df1-d216-459b-bca0-0a50409acfc6",
+  "object": "beer",
+  "name": "Fun Tina",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

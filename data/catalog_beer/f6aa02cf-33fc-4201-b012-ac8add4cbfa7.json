@@ -1,0 +1,11 @@
+{
+  "id": "f6aa02cf-33fc-4201-b012-ac8add4cbfa7",
+  "object": "beer",
+  "name": "Mexicali Blues",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

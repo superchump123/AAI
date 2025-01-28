@@ -1,0 +1,11 @@
+{
+  "id": "16480ca5-16a2-4fb2-a014-3980bccd2192",
+  "object": "beer",
+  "name": "Stenhouse Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

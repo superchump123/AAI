@@ -1,0 +1,11 @@
+{
+  "id": "a4efed9d-3cd9-4d69-a3b0-f40d4f1f09fb",
+  "object": "beer",
+  "name": "Turf 'n Surf",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

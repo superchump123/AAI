@@ -1,0 +1,11 @@
+{
+  "id": "9947fee4-b365-479d-ac26-0e1dc6060859",
+  "object": "beer",
+  "name": "Mustang Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

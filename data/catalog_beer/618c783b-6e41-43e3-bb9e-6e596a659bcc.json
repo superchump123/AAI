@@ -1,0 +1,11 @@
+{
+  "id": "618c783b-6e41-43e3-bb9e-6e596a659bcc",
+  "object": "beer",
+  "name": "Blue Mountain Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

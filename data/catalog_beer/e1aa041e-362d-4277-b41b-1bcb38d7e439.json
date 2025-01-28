@@ -1,0 +1,11 @@
+{
+  "id": "e1aa041e-362d-4277-b41b-1bcb38d7e439",
+  "object": "beer",
+  "name": "Mango Ginger Tripel Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

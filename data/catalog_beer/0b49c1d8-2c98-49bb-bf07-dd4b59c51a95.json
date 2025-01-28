@@ -1,0 +1,11 @@
+{
+  "id": "0b49c1d8-2c98-49bb-bf07-dd4b59c51a95",
+  "object": "beer",
+  "name": "John T. Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

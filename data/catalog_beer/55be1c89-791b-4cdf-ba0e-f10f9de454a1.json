@@ -1,0 +1,11 @@
+{
+  "id": "55be1c89-791b-4cdf-ba0e-f10f9de454a1",
+  "object": "beer",
+  "name": "Bourbon Barrel Yub Nub",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "031b372d-49b6-458d-bb8f-12c4887a2de4",
+  "object": "beer",
+  "name": "Flycaster",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

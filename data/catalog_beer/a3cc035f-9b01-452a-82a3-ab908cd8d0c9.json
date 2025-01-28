@@ -1,0 +1,11 @@
+{
+  "id": "a3cc035f-9b01-452a-82a3-ab908cd8d0c9",
+  "object": "beer",
+  "name": "Mission Coconut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

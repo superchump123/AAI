@@ -1,0 +1,11 @@
+{
+  "id": "91140639-d8ff-4f4a-a6c2-51ab797da59c",
+  "object": "beer",
+  "name": "Raider Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

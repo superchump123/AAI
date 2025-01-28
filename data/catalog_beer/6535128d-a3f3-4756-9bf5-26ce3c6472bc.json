@@ -1,0 +1,11 @@
+{
+  "id": "6535128d-a3f3-4756-9bf5-26ce3c6472bc",
+  "object": "beer",
+  "name": "BPR",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

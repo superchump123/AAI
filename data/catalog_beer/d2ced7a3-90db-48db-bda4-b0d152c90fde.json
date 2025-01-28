@@ -1,0 +1,11 @@
+{
+  "id": "d2ced7a3-90db-48db-bda4-b0d152c90fde",
+  "object": "beer",
+  "name": "Cranbarrel",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

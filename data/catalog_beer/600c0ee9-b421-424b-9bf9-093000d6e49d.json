@@ -1,0 +1,11 @@
+{
+  "id": "600c0ee9-b421-424b-9bf9-093000d6e49d",
+  "object": "beer",
+  "name": "Very Big Moose",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

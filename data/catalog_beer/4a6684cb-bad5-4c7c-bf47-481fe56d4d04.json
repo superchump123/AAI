@@ -1,0 +1,11 @@
+{
+  "id": "4a6684cb-bad5-4c7c-bf47-481fe56d4d04",
+  "object": "beer",
+  "name": "Beck\u2019s Vier",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

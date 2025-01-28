@@ -1,0 +1,11 @@
+{
+  "id": "f2f932ac-403c-4a33-a087-a3e73ad02d66",
+  "object": "beer",
+  "name": "Ordre de Toasts",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

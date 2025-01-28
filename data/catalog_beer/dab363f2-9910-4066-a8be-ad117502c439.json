@@ -1,0 +1,11 @@
+{
+  "id": "dab363f2-9910-4066-a8be-ad117502c439",
+  "object": "beer",
+  "name": "Maple Surple",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

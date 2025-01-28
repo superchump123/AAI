@@ -1,0 +1,11 @@
+{
+  "id": "fd57e2bc-b284-4f68-b397-953c568f68e3",
+  "object": "beer",
+  "name": "Summer Rental",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7358f70f-dc13-4e02-b983-8002294b4fd1",
+  "object": "beer",
+  "name": "Predator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

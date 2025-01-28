@@ -1,0 +1,11 @@
+{
+  "id": "d265f30b-80d2-4bcc-8707-d72cfca339a7",
+  "object": "beer",
+  "name": "Good Chit Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

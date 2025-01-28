@@ -1,0 +1,11 @@
+{
+  "id": "12f2448f-69cb-4a8a-be00-4931698b621a",
+  "object": "beer",
+  "name": "Bombshell Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

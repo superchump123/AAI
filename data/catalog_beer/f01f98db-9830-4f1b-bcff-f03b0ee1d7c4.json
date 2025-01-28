@@ -1,0 +1,11 @@
+{
+  "id": "f01f98db-9830-4f1b-bcff-f03b0ee1d7c4",
+  "object": "beer",
+  "name": "Belgian Double IPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

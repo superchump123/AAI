@@ -1,0 +1,11 @@
+{
+  "id": "c9bdb97f-4280-45ef-897c-c693eae3691a",
+  "object": "beer",
+  "name": "Adobe Igloo",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

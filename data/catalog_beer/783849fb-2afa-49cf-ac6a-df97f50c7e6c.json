@@ -1,0 +1,11 @@
+{
+  "id": "783849fb-2afa-49cf-ac6a-df97f50c7e6c",
+  "object": "beer",
+  "name": "Dive",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d549de1e-a78b-40ad-882e-181e7e92586b",
+  "object": "beer",
+  "name": "Ginger Peach Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

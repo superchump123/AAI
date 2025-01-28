@@ -1,0 +1,11 @@
+{
+  "id": "0a969d90-7806-4946-8e2a-c3a49cac09cf",
+  "object": "beer",
+  "name": "Blue Steel",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

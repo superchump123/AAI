@@ -1,0 +1,11 @@
+{
+  "id": "e139efd6-73a7-4328-971a-c171e1829a58",
+  "object": "beer",
+  "name": "Oatmeal IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

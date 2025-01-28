@@ -1,0 +1,11 @@
+{
+  "id": "5adfc933-4cf9-4546-8eb7-16a925f226ea",
+  "object": "beer",
+  "name": "Royal English Ale",
+  "style": "English Cider",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

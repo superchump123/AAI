@@ -1,0 +1,11 @@
+{
+  "id": "283ca779-856e-494b-8c6f-b89d90b06bce",
+  "object": "beer",
+  "name": "Interrupting Cow",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

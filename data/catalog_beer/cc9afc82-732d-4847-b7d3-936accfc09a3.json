@@ -1,0 +1,11 @@
+{
+  "id": "cc9afc82-732d-4847-b7d3-936accfc09a3",
+  "object": "beer",
+  "name": "Tripel Perfection",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

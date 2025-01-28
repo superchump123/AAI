@@ -1,0 +1,11 @@
+{
+  "id": "371a74ae-67c5-4735-bf55-383e05af6122",
+  "object": "beer",
+  "name": "Batch 1090",
+  "style": "IPA",
+  "description": "Experimental IPA with Southern Cross Hops\r\n\r\nJust in time for the holidays we are unveiling our latest experiment, this 6.0% ABV and 60 IBU India Pale made with Southern Cross Hops from New Zealand. This IPA will be available on draft for pints and growler fills, until \u201cThe Experiment,\u201d is complete!",
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": true,
+  "last_modified": 1511569408
+}

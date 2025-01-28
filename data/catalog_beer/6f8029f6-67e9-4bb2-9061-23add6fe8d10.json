@@ -1,0 +1,11 @@
+{
+  "id": "6f8029f6-67e9-4bb2-9061-23add6fe8d10",
+  "object": "beer",
+  "name": "Identity Crisis",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

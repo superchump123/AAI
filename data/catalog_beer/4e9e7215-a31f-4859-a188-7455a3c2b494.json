@@ -1,0 +1,11 @@
+{
+  "id": "4e9e7215-a31f-4859-a188-7455a3c2b494",
+  "object": "beer",
+  "name": "1st Gear",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3c7c9245-7ff1-450f-b59f-4192fa284f31",
+  "object": "beer",
+  "name": "Saison Cuvee Lemon",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

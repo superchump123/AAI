@@ -1,0 +1,11 @@
+{
+  "id": "566b444b-0a98-4c1a-843e-1c79b38038db",
+  "object": "beer",
+  "name": "Porteris",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a82d1968-c699-4c40-991a-842ec3b9ffdf",
+  "object": "beer",
+  "name": "Lost Sailor",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

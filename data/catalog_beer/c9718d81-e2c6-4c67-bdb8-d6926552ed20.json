@@ -1,0 +1,11 @@
+{
+  "id": "c9718d81-e2c6-4c67-bdb8-d6926552ed20",
+  "object": "beer",
+  "name": "Local Motive",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

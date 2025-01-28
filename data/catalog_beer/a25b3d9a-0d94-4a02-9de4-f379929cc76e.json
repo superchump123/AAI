@@ -1,0 +1,11 @@
+{
+  "id": "a25b3d9a-0d94-4a02-9de4-f379929cc76e",
+  "object": "beer",
+  "name": "Mango IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

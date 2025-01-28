@@ -1,0 +1,11 @@
+{
+  "id": "5a3656fe-6599-42f2-8bb0-833deff37073",
+  "object": "beer",
+  "name": "Magic Sticke",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

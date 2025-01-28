@@ -1,0 +1,11 @@
+{
+  "id": "c5ddd5ed-ee4c-4aa7-98ea-03fff217656b",
+  "object": "beer",
+  "name": "Sinister Minister",
+  "style": "Historical Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

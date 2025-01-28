@@ -1,0 +1,11 @@
+{
+  "id": "6de56f85-6444-4aaa-8157-569ec188e78d",
+  "object": "beer",
+  "name": "Gordgeous",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

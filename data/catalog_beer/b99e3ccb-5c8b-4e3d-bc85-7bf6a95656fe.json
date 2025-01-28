@@ -1,0 +1,11 @@
+{
+  "id": "b99e3ccb-5c8b-4e3d-bc85-7bf6a95656fe",
+  "object": "beer",
+  "name": "Rebel Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

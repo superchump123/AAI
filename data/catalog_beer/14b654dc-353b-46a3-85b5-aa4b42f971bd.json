@@ -1,0 +1,11 @@
+{
+  "id": "14b654dc-353b-46a3-85b5-aa4b42f971bd",
+  "object": "beer",
+  "name": "Sapient Trip Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "148c58ea-a05e-441f-95e4-5803e0780bca",
+  "object": "beer",
+  "name": "Matt's Wyld Ginger IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

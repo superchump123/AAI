@@ -1,0 +1,11 @@
+{
+  "id": "aa148bab-d75d-4074-b11a-c06abd5c21a4",
+  "object": "beer",
+  "name": "Mother of all Storms",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

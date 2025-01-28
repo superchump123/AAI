@@ -1,0 +1,11 @@
+{
+  "id": "53f375f8-15c6-405e-b0b4-8a1ffd184cca",
+  "object": "beer",
+  "name": "Mutiny IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

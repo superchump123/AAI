@@ -1,0 +1,11 @@
+{
+  "id": "bb279681-a600-4855-8c63-6d324d7fe5fc",
+  "object": "beer",
+  "name": "Field Day IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

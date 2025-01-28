@@ -1,0 +1,11 @@
+{
+  "id": "eb2b6b40-973e-435f-abbd-6d62c50aa395",
+  "object": "beer",
+  "name": "Solenna",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

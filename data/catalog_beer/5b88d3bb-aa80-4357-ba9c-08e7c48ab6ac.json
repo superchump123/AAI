@@ -1,0 +1,11 @@
+{
+  "id": "5b88d3bb-aa80-4357-ba9c-08e7c48ab6ac",
+  "object": "beer",
+  "name": "Boson De Higgs",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

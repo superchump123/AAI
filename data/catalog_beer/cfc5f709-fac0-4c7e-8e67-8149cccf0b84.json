@@ -1,0 +1,11 @@
+{
+  "id": "cfc5f709-fac0-4c7e-8e67-8149cccf0b84",
+  "object": "beer",
+  "name": "Electric Mullet",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

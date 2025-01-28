@@ -1,0 +1,11 @@
+{
+  "id": "2cd26ca6-e029-4d0e-ab65-8ff7e8b497c7",
+  "object": "beer",
+  "name": "Coirm Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

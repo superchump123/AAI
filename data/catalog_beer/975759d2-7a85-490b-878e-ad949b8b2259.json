@@ -1,0 +1,11 @@
+{
+  "id": "975759d2-7a85-490b-878e-ad949b8b2259",
+  "object": "beer",
+  "name": "Twilight Stone",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

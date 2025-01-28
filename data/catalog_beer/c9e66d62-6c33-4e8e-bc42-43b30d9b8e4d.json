@@ -1,0 +1,11 @@
+{
+  "id": "c9e66d62-6c33-4e8e-bc42-43b30d9b8e4d",
+  "object": "beer",
+  "name": "Coffee Ale",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

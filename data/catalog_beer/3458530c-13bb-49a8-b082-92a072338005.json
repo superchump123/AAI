@@ -1,0 +1,11 @@
+{
+  "id": "3458530c-13bb-49a8-b082-92a072338005",
+  "object": "beer",
+  "name": "Healy Heights Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

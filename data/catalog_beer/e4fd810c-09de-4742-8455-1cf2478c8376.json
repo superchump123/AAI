@@ -1,0 +1,11 @@
+{
+  "id": "e4fd810c-09de-4742-8455-1cf2478c8376",
+  "object": "beer",
+  "name": "Marzen",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

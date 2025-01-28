@@ -1,0 +1,11 @@
+{
+  "id": "91986f32-e9f1-4eb2-8a99-5e74e8af41d1",
+  "object": "beer",
+  "name": "Elevation",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

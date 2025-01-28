@@ -1,0 +1,11 @@
+{
+  "id": "c36c6b14-10b0-437f-a7a4-e69c365b125d",
+  "object": "beer",
+  "name": "Parker County Peach",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d8546a14-afec-4ec4-9f67-e8e704af0efe",
+  "object": "beer",
+  "name": "Four Swords",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12.1,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

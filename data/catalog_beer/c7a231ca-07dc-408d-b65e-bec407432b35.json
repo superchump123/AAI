@@ -1,0 +1,11 @@
+{
+  "id": "c7a231ca-07dc-408d-b65e-bec407432b35",
+  "object": "beer",
+  "name": "Dark Apprentice Pumpkin Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

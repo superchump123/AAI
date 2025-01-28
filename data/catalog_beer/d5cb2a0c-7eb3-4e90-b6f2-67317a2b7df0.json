@@ -1,0 +1,11 @@
+{
+  "id": "d5cb2a0c-7eb3-4e90-b6f2-67317a2b7df0",
+  "object": "beer",
+  "name": "Quayside Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

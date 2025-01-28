@@ -1,0 +1,11 @@
+{
+  "id": "d90d0d23-85ce-4d80-9fe3-67a8bd29bcea",
+  "object": "beer",
+  "name": "Pieces of Eight",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

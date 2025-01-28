@@ -1,0 +1,11 @@
+{
+  "id": "336b1f36-37c5-47bd-a7ce-d6d35e1418b7",
+  "object": "beer",
+  "name": "Old Brown Duck",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

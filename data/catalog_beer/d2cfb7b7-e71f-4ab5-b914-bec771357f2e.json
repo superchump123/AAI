@@ -1,0 +1,11 @@
+{
+  "id": "d2cfb7b7-e71f-4ab5-b914-bec771357f2e",
+  "object": "beer",
+  "name": "Brewzilla Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

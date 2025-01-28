@@ -1,0 +1,11 @@
+{
+  "id": "bcffcf40-f9a5-46b1-9dd3-0bba6fe0c839",
+  "object": "beer",
+  "name": "Stonewall Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

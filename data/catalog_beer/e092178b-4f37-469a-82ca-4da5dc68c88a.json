@@ -1,0 +1,11 @@
+{
+  "id": "e092178b-4f37-469a-82ca-4da5dc68c88a",
+  "object": "beer",
+  "name": "Priory Mild",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

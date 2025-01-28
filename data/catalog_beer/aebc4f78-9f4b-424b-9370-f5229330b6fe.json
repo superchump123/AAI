@@ -1,0 +1,11 @@
+{
+  "id": "aebc4f78-9f4b-424b-9370-f5229330b6fe",
+  "object": "beer",
+  "name": "Wicked Medicine",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

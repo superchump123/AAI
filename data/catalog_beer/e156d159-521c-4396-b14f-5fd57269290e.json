@@ -1,0 +1,11 @@
+{
+  "id": "e156d159-521c-4396-b14f-5fd57269290e",
+  "object": "beer",
+  "name": "G IV",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "da4cf6dd-176f-4a47-8dc3-fdd1416251a8",
+  "object": "beer",
+  "name": "The Snuffler",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

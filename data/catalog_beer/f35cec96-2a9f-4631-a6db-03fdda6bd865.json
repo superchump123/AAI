@@ -1,0 +1,11 @@
+{
+  "id": "f35cec96-2a9f-4631-a6db-03fdda6bd865",
+  "object": "beer",
+  "name": "Summer Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

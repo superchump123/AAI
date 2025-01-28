@@ -1,0 +1,11 @@
+{
+  "id": "3c1bd87e-e7e0-45d2-9048-bc8a7f9e1f87",
+  "object": "beer",
+  "name": "Huckleberry Chapel Witbier",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

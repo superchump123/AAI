@@ -1,0 +1,11 @@
+{
+  "id": "979756ba-04e0-4d37-8dda-4fe9b2db03a3",
+  "object": "beer",
+  "name": "Kross Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

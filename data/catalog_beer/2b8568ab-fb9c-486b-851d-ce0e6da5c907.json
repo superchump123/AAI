@@ -1,0 +1,11 @@
+{
+  "id": "2b8568ab-fb9c-486b-851d-ce0e6da5c907",
+  "object": "beer",
+  "name": "St. Tryphon",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

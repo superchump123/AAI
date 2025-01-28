@@ -1,0 +1,11 @@
+{
+  "id": "1f79928d-fda8-4db6-8a8e-c1703ae637d2",
+  "object": "beer",
+  "name": "Goldilocks",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

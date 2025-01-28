@@ -1,0 +1,11 @@
+{
+  "id": "2eab5fb7-fa0c-45fb-94b7-ce007c2e79e6",
+  "object": "beer",
+  "name": "Ladenburger Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

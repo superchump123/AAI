@@ -1,0 +1,11 @@
+{
+  "id": "abd1121e-97fd-493f-ab2f-d0485c8fa275",
+  "object": "beer",
+  "name": "Imperial Stout",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

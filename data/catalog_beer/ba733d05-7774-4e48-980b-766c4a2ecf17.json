@@ -1,0 +1,11 @@
+{
+  "id": "ba733d05-7774-4e48-980b-766c4a2ecf17",
+  "object": "beer",
+  "name": "Tanlines Summer Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

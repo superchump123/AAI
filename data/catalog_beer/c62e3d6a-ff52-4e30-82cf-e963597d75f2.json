@@ -1,0 +1,11 @@
+{
+  "id": "c62e3d6a-ff52-4e30-82cf-e963597d75f2",
+  "object": "beer",
+  "name": "Imperial Smoked Amber",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

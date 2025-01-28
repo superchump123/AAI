@@ -1,0 +1,11 @@
+{
+  "id": "ff2354fe-58ef-460e-a45b-f5522f43f20c",
+  "object": "beer",
+  "name": "Remember the Ale-Amo",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

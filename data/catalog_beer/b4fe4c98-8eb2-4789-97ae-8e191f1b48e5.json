@@ -1,0 +1,11 @@
+{
+  "id": "b4fe4c98-8eb2-4789-97ae-8e191f1b48e5",
+  "object": "beer",
+  "name": "Tequila BA Devil's Milk",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

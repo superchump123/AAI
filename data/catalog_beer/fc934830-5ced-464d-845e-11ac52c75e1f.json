@@ -1,0 +1,11 @@
+{
+  "id": "fc934830-5ced-464d-845e-11ac52c75e1f",
+  "object": "beer",
+  "name": "Demshitz Nitro",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "84f73379-a303-4e5c-983b-01c855cb2397",
+  "object": "beer",
+  "name": "Hemelinger Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c8dceb33-9478-45a2-9593-ef18a40ae716",
+  "object": "beer",
+  "name": "Jester's Nectar",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

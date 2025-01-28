@@ -1,0 +1,11 @@
+{
+  "id": "ed9ae2fd-dc44-49e1-ab87-42bb07c02830",
+  "object": "beer",
+  "name": "Tyranny",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

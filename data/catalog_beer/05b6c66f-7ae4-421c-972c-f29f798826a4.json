@@ -1,0 +1,11 @@
+{
+  "id": "05b6c66f-7ae4-421c-972c-f29f798826a4",
+  "object": "beer",
+  "name": "Koronides",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

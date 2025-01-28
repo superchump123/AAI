@@ -1,0 +1,11 @@
+{
+  "id": "7eff6e3c-665b-40b2-b13c-3df6cd9907ff",
+  "object": "beer",
+  "name": "Honey Light Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

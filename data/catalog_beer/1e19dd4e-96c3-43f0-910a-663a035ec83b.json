@@ -1,0 +1,11 @@
+{
+  "id": "1e19dd4e-96c3-43f0-910a-663a035ec83b",
+  "object": "beer",
+  "name": "Ume Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

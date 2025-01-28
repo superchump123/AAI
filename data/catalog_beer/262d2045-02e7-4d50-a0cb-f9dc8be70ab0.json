@@ -1,0 +1,11 @@
+{
+  "id": "262d2045-02e7-4d50-a0cb-f9dc8be70ab0",
+  "object": "beer",
+  "name": "Vanilla Latte Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

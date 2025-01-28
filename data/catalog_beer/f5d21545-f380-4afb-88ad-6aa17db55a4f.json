@@ -1,0 +1,11 @@
+{
+  "id": "f5d21545-f380-4afb-88ad-6aa17db55a4f",
+  "object": "beer",
+  "name": "Blue Spruce Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

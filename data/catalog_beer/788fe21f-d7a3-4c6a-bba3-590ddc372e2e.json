@@ -1,0 +1,11 @@
+{
+  "id": "788fe21f-d7a3-4c6a-bba3-590ddc372e2e",
+  "object": "beer",
+  "name": "Turtle Power",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

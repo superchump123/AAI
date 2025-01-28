@@ -1,0 +1,11 @@
+{
+  "id": "bf63b753-6200-45eb-8501-70d4e1f0f0ed",
+  "object": "beer",
+  "name": "Paasbier",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

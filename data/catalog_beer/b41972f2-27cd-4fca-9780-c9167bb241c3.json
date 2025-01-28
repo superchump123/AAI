@@ -1,0 +1,11 @@
+{
+  "id": "b41972f2-27cd-4fca-9780-c9167bb241c3",
+  "object": "beer",
+  "name": "Coffee Brown",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

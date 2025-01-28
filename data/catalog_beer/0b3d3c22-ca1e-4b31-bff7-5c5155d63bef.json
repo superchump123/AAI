@@ -1,0 +1,11 @@
+{
+  "id": "0b3d3c22-ca1e-4b31-bff7-5c5155d63bef",
+  "object": "beer",
+  "name": "Goddess Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6bf99b47-df74-4e7b-817d-586e6eb3c998",
+  "object": "beer",
+  "name": "Brettlinner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

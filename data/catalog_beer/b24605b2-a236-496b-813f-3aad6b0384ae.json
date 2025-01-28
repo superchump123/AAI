@@ -1,0 +1,11 @@
+{
+  "id": "b24605b2-a236-496b-813f-3aad6b0384ae",
+  "object": "beer",
+  "name": "Iso-Trope",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

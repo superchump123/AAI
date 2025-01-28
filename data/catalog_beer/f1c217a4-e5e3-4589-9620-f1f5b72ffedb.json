@@ -1,0 +1,11 @@
+{
+  "id": "f1c217a4-e5e3-4589-9620-f1f5b72ffedb",
+  "object": "beer",
+  "name": "Lupulado Batch #2",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

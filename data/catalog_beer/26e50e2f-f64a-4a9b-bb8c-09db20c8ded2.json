@@ -1,0 +1,11 @@
+{
+  "id": "26e50e2f-f64a-4a9b-bb8c-09db20c8ded2",
+  "object": "beer",
+  "name": "Illusion of Safety",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

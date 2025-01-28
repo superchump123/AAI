@@ -1,0 +1,11 @@
+{
+  "id": "37abd4f9-b1ca-4a19-a6a6-cffcf461b414",
+  "object": "beer",
+  "name": "Maple Chili Jam",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

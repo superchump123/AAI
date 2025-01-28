@@ -1,0 +1,11 @@
+{
+  "id": "ed5ca5d1-bd97-4435-90e8-438779857603",
+  "object": "beer",
+  "name": "Sinister Kid",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

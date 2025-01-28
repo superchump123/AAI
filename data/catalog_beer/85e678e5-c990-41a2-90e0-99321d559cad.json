@@ -1,0 +1,11 @@
+{
+  "id": "85e678e5-c990-41a2-90e0-99321d559cad",
+  "object": "beer",
+  "name": "Wee Heavy Scotch Style Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

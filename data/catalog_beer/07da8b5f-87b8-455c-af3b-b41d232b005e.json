@@ -1,0 +1,11 @@
+{
+  "id": "07da8b5f-87b8-455c-af3b-b41d232b005e",
+  "object": "beer",
+  "name": "Hallo Ich Bin Berliner Weisse (Pineapple)",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

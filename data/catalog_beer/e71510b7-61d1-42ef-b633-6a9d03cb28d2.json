@@ -1,0 +1,11 @@
+{
+  "id": "e71510b7-61d1-42ef-b633-6a9d03cb28d2",
+  "object": "beer",
+  "name": "Sublime Keylime",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

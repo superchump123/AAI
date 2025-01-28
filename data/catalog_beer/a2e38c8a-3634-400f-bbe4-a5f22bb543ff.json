@@ -1,0 +1,11 @@
+{
+  "id": "a2e38c8a-3634-400f-bbe4-a5f22bb543ff",
+  "object": "beer",
+  "name": "Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

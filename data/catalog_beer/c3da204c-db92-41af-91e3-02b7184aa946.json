@@ -1,0 +1,11 @@
+{
+  "id": "c3da204c-db92-41af-91e3-02b7184aa946",
+  "object": "beer",
+  "name": "Three Saints Bay Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

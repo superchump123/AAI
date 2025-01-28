@@ -1,0 +1,11 @@
+{
+  "id": "d1b1f86f-db2d-4265-848a-4a4b1bf4afeb",
+  "object": "beer",
+  "name": "Decoy",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 12,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

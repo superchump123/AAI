@@ -1,0 +1,11 @@
+{
+  "id": "aaeb315e-38c5-4533-a38e-fce8d14b018c",
+  "object": "beer",
+  "name": "Doberman",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

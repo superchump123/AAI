@@ -1,0 +1,11 @@
+{
+  "id": "5f136b8d-1140-4a6b-98b3-eafbc2f3bc6e",
+  "object": "beer",
+  "name": "Stargazer",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

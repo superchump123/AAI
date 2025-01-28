@@ -1,0 +1,11 @@
+{
+  "id": "96f5a48f-719a-48f1-a184-eb2ff76f4ef2",
+  "object": "beer",
+  "name": "Casper",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

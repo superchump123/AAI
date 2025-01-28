@@ -1,0 +1,11 @@
+{
+  "id": "facf04d7-128f-4d71-9d36-06600cdba5b1",
+  "object": "beer",
+  "name": "Little Room",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

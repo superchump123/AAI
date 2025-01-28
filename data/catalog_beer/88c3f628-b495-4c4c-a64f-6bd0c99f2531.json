@@ -1,0 +1,11 @@
+{
+  "id": "88c3f628-b495-4c4c-a64f-6bd0c99f2531",
+  "object": "beer",
+  "name": "Barbe Rouge",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

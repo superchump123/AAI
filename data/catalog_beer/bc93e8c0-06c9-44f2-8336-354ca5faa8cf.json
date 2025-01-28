@@ -1,0 +1,11 @@
+{
+  "id": "bc93e8c0-06c9-44f2-8336-354ca5faa8cf",
+  "object": "beer",
+  "name": "Take a Chill",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

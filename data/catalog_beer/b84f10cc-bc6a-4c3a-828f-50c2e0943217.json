@@ -1,0 +1,11 @@
+{
+  "id": "b84f10cc-bc6a-4c3a-828f-50c2e0943217",
+  "object": "beer",
+  "name": "Coffee Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

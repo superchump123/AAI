@@ -1,0 +1,11 @@
+{
+  "id": "f5d11d78-f1b1-4c3c-9fa9-174415aaf1a7",
+  "object": "beer",
+  "name": "First Anniversary Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

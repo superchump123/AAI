@@ -1,0 +1,11 @@
+{
+  "id": "da67dfc0-23ec-4bb0-a01f-6a00af9f0a16",
+  "object": "beer",
+  "name": "Hickory Stick Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

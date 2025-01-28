@@ -1,0 +1,11 @@
+{
+  "id": "5b272417-2196-4553-9ea7-b11be686bca0",
+  "object": "beer",
+  "name": "Winterbier",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "da52c99a-3480-4dc5-93f6-3ec44375d8ce",
+  "object": "beer",
+  "name": "Backroom Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

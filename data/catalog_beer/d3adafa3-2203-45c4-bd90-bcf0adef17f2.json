@@ -1,0 +1,11 @@
+{
+  "id": "d3adafa3-2203-45c4-bd90-bcf0adef17f2",
+  "object": "beer",
+  "name": "Fringante",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

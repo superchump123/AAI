@@ -1,0 +1,11 @@
+{
+  "id": "b6d2f007-aa22-47f6-8ed5-590f5bbf1072",
+  "object": "beer",
+  "name": "Hop Totem - Sour IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

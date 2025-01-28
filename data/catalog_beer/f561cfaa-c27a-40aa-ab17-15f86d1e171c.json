@@ -1,0 +1,11 @@
+{
+  "id": "f561cfaa-c27a-40aa-ab17-15f86d1e171c",
+  "object": "beer",
+  "name": "Selkie",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

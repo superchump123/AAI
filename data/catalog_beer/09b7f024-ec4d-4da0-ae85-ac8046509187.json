@@ -1,0 +1,11 @@
+{
+  "id": "09b7f024-ec4d-4da0-ae85-ac8046509187",
+  "object": "beer",
+  "name": "Sucaba",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.4,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

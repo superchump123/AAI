@@ -1,0 +1,11 @@
+{
+  "id": "ef608614-fec2-47b4-b1d2-57a47492b11d",
+  "object": "beer",
+  "name": "Bobble Head Red IPA",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

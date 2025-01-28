@@ -1,0 +1,11 @@
+{
+  "id": "30544af4-3694-4cc7-88a3-067b9e6f0287",
+  "object": "beer",
+  "name": "Grail Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

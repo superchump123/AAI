@@ -1,0 +1,11 @@
+{
+  "id": "8c1f27ef-af20-4e50-b02a-c2346fbe80ed",
+  "object": "beer",
+  "name": "Pumpkin Eater",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

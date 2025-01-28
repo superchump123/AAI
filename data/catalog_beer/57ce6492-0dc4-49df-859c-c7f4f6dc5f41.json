@@ -1,0 +1,11 @@
+{
+  "id": "57ce6492-0dc4-49df-859c-c7f4f6dc5f41",
+  "object": "beer",
+  "name": "PaleTail",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

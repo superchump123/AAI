@@ -1,0 +1,11 @@
+{
+  "id": "b21a9ca8-c4c8-4cb1-b691-071421b728a6",
+  "object": "beer",
+  "name": "Burgundy Barrel Aged Pimp My Sleigh",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

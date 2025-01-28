@@ -1,0 +1,11 @@
+{
+  "id": "e0ad1e42-301d-4c0d-b105-787ee36ce474",
+  "object": "beer",
+  "name": "Dry Hopped APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

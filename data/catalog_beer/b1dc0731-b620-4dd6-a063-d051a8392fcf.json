@@ -1,0 +1,11 @@
+{
+  "id": "b1dc0731-b620-4dd6-a063-d051a8392fcf",
+  "object": "beer",
+  "name": "Flick",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

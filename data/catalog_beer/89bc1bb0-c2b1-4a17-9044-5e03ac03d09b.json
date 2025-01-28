@@ -1,0 +1,11 @@
+{
+  "id": "89bc1bb0-c2b1-4a17-9044-5e03ac03d09b",
+  "object": "beer",
+  "name": "The Companion",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ca7baf7-b014-4eba-b27b-220b5ccb0d61",
+  "object": "beer",
+  "name": "Orval Trappist Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

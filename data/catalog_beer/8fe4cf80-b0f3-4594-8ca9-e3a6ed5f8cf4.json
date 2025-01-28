@@ -1,0 +1,11 @@
+{
+  "id": "8fe4cf80-b0f3-4594-8ca9-e3a6ed5f8cf4",
+  "object": "beer",
+  "name": "Curtiss Jenny",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "27a3d0d2-aeb9-488c-ab84-65744bcea190",
+  "object": "beer",
+  "name": "Goldie",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

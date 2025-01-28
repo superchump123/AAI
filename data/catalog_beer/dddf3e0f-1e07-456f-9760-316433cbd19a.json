@@ -1,0 +1,11 @@
+{
+  "id": "dddf3e0f-1e07-456f-9760-316433cbd19a",
+  "object": "beer",
+  "name": "Boatyard Bitter",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

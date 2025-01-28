@@ -1,0 +1,11 @@
+{
+  "id": "fc2b90c3-2fc5-4241-9316-9cb210ebfc75",
+  "object": "beer",
+  "name": "Barrel aged Gravity Always Wins",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

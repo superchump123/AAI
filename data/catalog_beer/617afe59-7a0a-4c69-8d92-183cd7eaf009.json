@@ -1,0 +1,11 @@
+{
+  "id": "617afe59-7a0a-4c69-8d92-183cd7eaf009",
+  "object": "beer",
+  "name": "Czech Yourself",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

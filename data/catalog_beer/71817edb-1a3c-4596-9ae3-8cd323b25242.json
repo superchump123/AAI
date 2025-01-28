@@ -1,0 +1,11 @@
+{
+  "id": "71817edb-1a3c-4596-9ae3-8cd323b25242",
+  "object": "beer",
+  "name": "Summerfest",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

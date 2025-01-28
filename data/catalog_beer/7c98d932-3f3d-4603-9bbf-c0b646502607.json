@@ -1,0 +1,11 @@
+{
+  "id": "7c98d932-3f3d-4603-9bbf-c0b646502607",
+  "object": "beer",
+  "name": "Laimas",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

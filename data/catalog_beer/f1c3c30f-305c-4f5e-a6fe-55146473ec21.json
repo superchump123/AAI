@@ -1,0 +1,11 @@
+{
+  "id": "f1c3c30f-305c-4f5e-a6fe-55146473ec21",
+  "object": "beer",
+  "name": "Winter Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

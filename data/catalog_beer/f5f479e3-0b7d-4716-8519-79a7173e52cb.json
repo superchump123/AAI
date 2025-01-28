@@ -1,0 +1,11 @@
+{
+  "id": "f5f479e3-0b7d-4716-8519-79a7173e52cb",
+  "object": "beer",
+  "name": "Jefferson Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f3faecdf-4e92-4505-a22d-c6d8d816e96d",
+  "object": "beer",
+  "name": "La Chouette D'or",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

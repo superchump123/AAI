@@ -1,0 +1,11 @@
+{
+  "id": "97da429b-2315-4ae7-9f97-61b285a6d649",
+  "object": "beer",
+  "name": "Dubbel Fisted",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

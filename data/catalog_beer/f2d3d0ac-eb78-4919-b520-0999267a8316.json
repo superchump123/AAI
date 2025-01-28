@@ -1,0 +1,11 @@
+{
+  "id": "f2d3d0ac-eb78-4919-b520-0999267a8316",
+  "object": "beer",
+  "name": "Porter Sorta",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

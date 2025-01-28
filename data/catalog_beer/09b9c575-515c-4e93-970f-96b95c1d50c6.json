@@ -1,0 +1,11 @@
+{
+  "id": "09b9c575-515c-4e93-970f-96b95c1d50c6",
+  "object": "beer",
+  "name": "Siesta",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

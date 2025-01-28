@@ -1,0 +1,11 @@
+{
+  "id": "77de7944-cb55-4026-9670-7973c27ca204",
+  "object": "beer",
+  "name": "Release The Hounds",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

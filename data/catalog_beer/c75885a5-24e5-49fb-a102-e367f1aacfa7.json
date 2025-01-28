@@ -1,0 +1,11 @@
+{
+  "id": "c75885a5-24e5-49fb-a102-e367f1aacfa7",
+  "object": "beer",
+  "name": "Naked Homeland Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

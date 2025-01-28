@@ -1,0 +1,11 @@
+{
+  "id": "47d68214-1ecc-4961-99cc-c0e9ae3f6a85",
+  "object": "beer",
+  "name": "Unibroue 17",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "211cc9f7-45f0-4d95-a778-bfbe938abc18",
+  "object": "beer",
+  "name": "Elemental Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

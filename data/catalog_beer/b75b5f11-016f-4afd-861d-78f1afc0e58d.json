@@ -1,0 +1,11 @@
+{
+  "id": "b75b5f11-016f-4afd-861d-78f1afc0e58d",
+  "object": "beer",
+  "name": "The Natural",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

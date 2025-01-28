@@ -1,0 +1,11 @@
+{
+  "id": "604f1cd4-802d-4349-bb9f-1b9f9a78cf81",
+  "object": "beer",
+  "name": "Schweinsbr\u00e4u Weisse",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

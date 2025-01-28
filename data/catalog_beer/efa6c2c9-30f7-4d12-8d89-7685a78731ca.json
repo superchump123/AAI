@@ -1,0 +1,11 @@
+{
+  "id": "efa6c2c9-30f7-4d12-8d89-7685a78731ca",
+  "object": "beer",
+  "name": "Schlappeseppel Winterbock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

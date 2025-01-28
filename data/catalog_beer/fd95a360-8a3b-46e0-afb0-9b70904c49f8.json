@@ -1,0 +1,11 @@
+{
+  "id": "fd95a360-8a3b-46e0-afb0-9b70904c49f8",
+  "object": "beer",
+  "name": "The Frog That Ate The World",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

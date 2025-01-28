@@ -1,0 +1,11 @@
+{
+  "id": "7ddcd1f7-75d6-4d61-8913-dbc277128484",
+  "object": "beer",
+  "name": "Hoparoo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

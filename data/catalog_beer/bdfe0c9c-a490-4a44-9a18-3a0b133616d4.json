@@ -1,0 +1,11 @@
+{
+  "id": "bdfe0c9c-a490-4a44-9a18-3a0b133616d4",
+  "object": "beer",
+  "name": "Broken Promises",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

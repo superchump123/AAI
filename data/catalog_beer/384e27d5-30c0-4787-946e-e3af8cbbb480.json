@@ -1,0 +1,11 @@
+{
+  "id": "384e27d5-30c0-4787-946e-e3af8cbbb480",
+  "object": "beer",
+  "name": "1st Gear IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

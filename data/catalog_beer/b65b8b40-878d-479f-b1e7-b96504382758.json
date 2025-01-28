@@ -1,0 +1,11 @@
+{
+  "id": "b65b8b40-878d-479f-b1e7-b96504382758",
+  "object": "beer",
+  "name": "BRRR Seasonal Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

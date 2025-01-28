@@ -1,0 +1,11 @@
+{
+  "id": "f13af2db-fb1f-4c35-9ccd-de7d0b88cb77",
+  "object": "beer",
+  "name": "Framboise",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

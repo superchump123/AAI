@@ -1,0 +1,11 @@
+{
+  "id": "328733f5-b58b-48b6-bb16-89d4f1384f3a",
+  "object": "beer",
+  "name": "Elsie Mae",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

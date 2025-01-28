@@ -1,0 +1,11 @@
+{
+  "id": "91df4af0-825e-48af-a75d-c1757a5629a1",
+  "object": "beer",
+  "name": "Traffic Jam IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

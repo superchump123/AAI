@@ -1,0 +1,11 @@
+{
+  "id": "2ba44562-53a2-4b11-a480-02250422a035",
+  "object": "beer",
+  "name": "Farmhouse Pale Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

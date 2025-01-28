@@ -1,0 +1,11 @@
+{
+  "id": "dbf7d799-d5a7-46a7-bbad-2c4b409e2b3b",
+  "object": "beer",
+  "name": "Cedar Dust IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

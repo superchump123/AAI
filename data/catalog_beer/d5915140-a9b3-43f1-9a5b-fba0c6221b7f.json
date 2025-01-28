@@ -1,0 +1,11 @@
+{
+  "id": "d5915140-a9b3-43f1-9a5b-fba0c6221b7f",
+  "object": "beer",
+  "name": "Dub Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

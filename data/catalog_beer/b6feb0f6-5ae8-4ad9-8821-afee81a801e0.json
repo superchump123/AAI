@@ -1,0 +1,11 @@
+{
+  "id": "b6feb0f6-5ae8-4ad9-8821-afee81a801e0",
+  "object": "beer",
+  "name": "C-Note Imperial Pale Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b6a970e1-6991-4edd-9278-dd92817132a3",
+  "object": "beer",
+  "name": "Wild West: Primitivo",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

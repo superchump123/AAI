@@ -1,0 +1,11 @@
+{
+  "id": "bdf6ab37-58b7-48de-8372-43818435a6e4",
+  "object": "beer",
+  "name": "Gnarly Oak Hazelnut Dark",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

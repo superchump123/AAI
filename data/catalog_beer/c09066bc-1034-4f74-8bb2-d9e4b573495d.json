@@ -1,0 +1,11 @@
+{
+  "id": "c09066bc-1034-4f74-8bb2-d9e4b573495d",
+  "object": "beer",
+  "name": "Froggy Night IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4edd1b74-2b26-4b1c-9aec-fee38f7546ae",
+  "object": "beer",
+  "name": "Clever Girl",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a401d62a-e797-4613-ac26-8a5b6e493c42",
+  "object": "beer",
+  "name": "The Big Office",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

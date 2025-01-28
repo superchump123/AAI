@@ -1,0 +1,11 @@
+{
+  "id": "14e2288d-a26f-4e60-a55d-13da43fc6e57",
+  "object": "beer",
+  "name": "Casco Bay IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

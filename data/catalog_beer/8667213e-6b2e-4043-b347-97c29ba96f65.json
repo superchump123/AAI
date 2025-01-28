@@ -1,0 +1,11 @@
+{
+  "id": "8667213e-6b2e-4043-b347-97c29ba96f65",
+  "object": "beer",
+  "name": "Malle Babbe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

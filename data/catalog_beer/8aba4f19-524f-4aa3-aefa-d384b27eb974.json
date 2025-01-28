@@ -1,0 +1,11 @@
+{
+  "id": "8aba4f19-524f-4aa3-aefa-d384b27eb974",
+  "object": "beer",
+  "name": "Treehorn Dry Cider",
+  "style": "English Cider",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

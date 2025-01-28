@@ -1,0 +1,11 @@
+{
+  "id": "f4a87d67-57b6-4e1a-b3b2-1b53af6e1a15",
+  "object": "beer",
+  "name": "Veldensteiner Landbier",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

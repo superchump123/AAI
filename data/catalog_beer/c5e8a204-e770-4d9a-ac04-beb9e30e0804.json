@@ -1,0 +1,11 @@
+{
+  "id": "c5e8a204-e770-4d9a-ac04-beb9e30e0804",
+  "object": "beer",
+  "name": "Evil Giant",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

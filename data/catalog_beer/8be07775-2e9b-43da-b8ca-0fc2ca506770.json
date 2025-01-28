@@ -1,0 +1,11 @@
+{
+  "id": "8be07775-2e9b-43da-b8ca-0fc2ca506770",
+  "object": "beer",
+  "name": "1805 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

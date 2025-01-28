@@ -1,0 +1,11 @@
+{
+  "id": "2efefbd3-2f88-4997-beed-1a906007315c",
+  "object": "beer",
+  "name": "Little Lifter",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

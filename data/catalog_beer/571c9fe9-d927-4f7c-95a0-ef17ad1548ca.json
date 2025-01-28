@@ -1,0 +1,11 @@
+{
+  "id": "571c9fe9-d927-4f7c-95a0-ef17ad1548ca",
+  "object": "beer",
+  "name": "Honey Nut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

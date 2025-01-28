@@ -1,0 +1,11 @@
+{
+  "id": "f49a58c0-63ae-4a81-bf1f-87a92d1cd611",
+  "object": "beer",
+  "name": "Kittens & Canoes",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

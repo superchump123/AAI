@@ -1,0 +1,11 @@
+{
+  "id": "a3fcf785-2c1e-44b7-93a7-09413a61a307",
+  "object": "beer",
+  "name": "Twist of Cane DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

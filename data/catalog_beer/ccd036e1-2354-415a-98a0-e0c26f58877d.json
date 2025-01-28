@@ -1,0 +1,11 @@
+{
+  "id": "ccd036e1-2354-415a-98a0-e0c26f58877d",
+  "object": "beer",
+  "name": "Drinker's Peace",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

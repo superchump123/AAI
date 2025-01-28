@@ -1,0 +1,11 @@
+{
+  "id": "1ff6636a-f1c5-45c9-8716-22a92ff7799f",
+  "object": "beer",
+  "name": "Colonial Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

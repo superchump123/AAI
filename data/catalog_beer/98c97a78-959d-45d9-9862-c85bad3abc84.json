@@ -1,0 +1,11 @@
+{
+  "id": "98c97a78-959d-45d9-9862-c85bad3abc84",
+  "object": "beer",
+  "name": "Cherron",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

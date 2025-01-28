@@ -1,0 +1,11 @@
+{
+  "id": "53d5e377-a2ba-4a6d-99b5-97de609bbb27",
+  "object": "beer",
+  "name": "Outlaw",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

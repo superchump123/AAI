@@ -1,0 +1,11 @@
+{
+  "id": "45e89df9-dce1-4469-bbb2-eb86a61c90fd",
+  "object": "beer",
+  "name": "Jubelale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

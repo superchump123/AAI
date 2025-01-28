@@ -1,0 +1,11 @@
+{
+  "id": "4eb1b4c0-3166-4139-8302-ce4f4cd91799",
+  "object": "beer",
+  "name": "Jingle Balz Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

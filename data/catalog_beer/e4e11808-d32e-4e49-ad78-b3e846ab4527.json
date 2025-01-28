@@ -1,0 +1,11 @@
+{
+  "id": "e4e11808-d32e-4e49-ad78-b3e846ab4527",
+  "object": "beer",
+  "name": "Richter Rauch",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

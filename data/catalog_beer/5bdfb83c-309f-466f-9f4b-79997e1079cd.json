@@ -1,0 +1,11 @@
+{
+  "id": "5bdfb83c-309f-466f-9f4b-79997e1079cd",
+  "object": "beer",
+  "name": "Lil' J",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

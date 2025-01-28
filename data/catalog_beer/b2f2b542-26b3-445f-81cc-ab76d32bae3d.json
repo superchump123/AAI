@@ -1,0 +1,11 @@
+{
+  "id": "b2f2b542-26b3-445f-81cc-ab76d32bae3d",
+  "object": "beer",
+  "name": "Maple Tripple",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

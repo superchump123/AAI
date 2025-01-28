@@ -1,0 +1,11 @@
+{
+  "id": "3ca7b909-9167-49d5-8343-7e10a8042e97",
+  "object": "beer",
+  "name": "Sour Bikini",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

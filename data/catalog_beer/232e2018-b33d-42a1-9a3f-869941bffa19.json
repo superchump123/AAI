@@ -1,0 +1,11 @@
+{
+  "id": "232e2018-b33d-42a1-9a3f-869941bffa19",
+  "object": "beer",
+  "name": "Hawthorn Hill Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

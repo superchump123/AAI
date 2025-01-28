@@ -1,0 +1,11 @@
+{
+  "id": "befe2d08-6a1a-481d-b396-a2c220a342ee",
+  "object": "beer",
+  "name": "The Aristocrat",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "55e856bc-6e95-4dda-a495-58cfbbf1b02c",
+  "object": "beer",
+  "name": "Jude",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

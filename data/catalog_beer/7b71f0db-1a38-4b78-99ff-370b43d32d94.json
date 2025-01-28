@@ -1,0 +1,11 @@
+{
+  "id": "7b71f0db-1a38-4b78-99ff-370b43d32d94",
+  "object": "beer",
+  "name": "Doppelsticke",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

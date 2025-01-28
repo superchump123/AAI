@@ -1,0 +1,11 @@
+{
+  "id": "61e1bfc1-f122-470c-969d-92d4d15f4d51",
+  "object": "beer",
+  "name": "Scarlet",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

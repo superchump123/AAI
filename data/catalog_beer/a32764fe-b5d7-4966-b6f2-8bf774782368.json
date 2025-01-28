@@ -1,0 +1,11 @@
+{
+  "id": "a32764fe-b5d7-4966-b6f2-8bf774782368",
+  "object": "beer",
+  "name": "Llama Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

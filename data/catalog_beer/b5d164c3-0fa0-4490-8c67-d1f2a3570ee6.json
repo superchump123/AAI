@@ -1,0 +1,11 @@
+{
+  "id": "b5d164c3-0fa0-4490-8c67-d1f2a3570ee6",
+  "object": "beer",
+  "name": "Dangerfield",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

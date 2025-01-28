@@ -1,0 +1,11 @@
+{
+  "id": "96fb7d65-dbb3-4420-a174-7af61090b31c",
+  "object": "beer",
+  "name": "A Beer Named Sue",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

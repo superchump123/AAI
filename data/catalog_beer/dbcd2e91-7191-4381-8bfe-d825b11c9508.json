@@ -1,0 +1,11 @@
+{
+  "id": "dbcd2e91-7191-4381-8bfe-d825b11c9508",
+  "object": "beer",
+  "name": "Czech Mate Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b88e837f-b407-4498-bc1a-169d68257069",
+  "object": "beer",
+  "name": "Anytime",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

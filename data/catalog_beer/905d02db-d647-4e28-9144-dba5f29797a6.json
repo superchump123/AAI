@@ -1,0 +1,11 @@
+{
+  "id": "905d02db-d647-4e28-9144-dba5f29797a6",
+  "object": "beer",
+  "name": "Cane and Ebel",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

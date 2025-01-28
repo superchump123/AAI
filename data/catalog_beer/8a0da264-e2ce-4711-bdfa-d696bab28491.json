@@ -1,0 +1,11 @@
+{
+  "id": "8a0da264-e2ce-4711-bdfa-d696bab28491",
+  "object": "beer",
+  "name": "Ordinary Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

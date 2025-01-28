@@ -1,0 +1,11 @@
+{
+  "id": "c3ab76e1-7a1c-49af-a7df-beb64300127a",
+  "object": "beer",
+  "name": "What She's Having",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

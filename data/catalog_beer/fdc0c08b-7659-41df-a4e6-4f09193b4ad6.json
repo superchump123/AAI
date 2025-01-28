@@ -1,0 +1,11 @@
+{
+  "id": "fdc0c08b-7659-41df-a4e6-4f09193b4ad6",
+  "object": "beer",
+  "name": "Red Irish Hart",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0637a01f-812c-422c-a737-9c45af5d3f5c",
+  "object": "beer",
+  "name": "Licentious Goat",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

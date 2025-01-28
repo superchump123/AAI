@@ -1,0 +1,11 @@
+{
+  "id": "c55cd97a-0e33-4731-8b9e-b65121c660ec",
+  "object": "beer",
+  "name": "Belgian Brunette",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

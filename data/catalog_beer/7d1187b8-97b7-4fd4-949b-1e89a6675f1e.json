@@ -1,0 +1,11 @@
+{
+  "id": "7d1187b8-97b7-4fd4-949b-1e89a6675f1e",
+  "object": "beer",
+  "name": "Extraterrestrial Weed",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ba91bc09-3d62-4f1c-9915-77f75f192eb9",
+  "object": "beer",
+  "name": "Occam's Razor",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

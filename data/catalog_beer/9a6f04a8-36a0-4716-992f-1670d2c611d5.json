@@ -1,0 +1,11 @@
+{
+  "id": "9a6f04a8-36a0-4716-992f-1670d2c611d5",
+  "object": "beer",
+  "name": "State Pen Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

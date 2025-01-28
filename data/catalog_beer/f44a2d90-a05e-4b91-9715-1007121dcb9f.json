@@ -1,0 +1,11 @@
+{
+  "id": "f44a2d90-a05e-4b91-9715-1007121dcb9f",
+  "object": "beer",
+  "name": "Christmas Ale 2015",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

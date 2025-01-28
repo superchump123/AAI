@@ -1,0 +1,11 @@
+{
+  "id": "6755bc29-b86c-4da0-ba1c-fc8f4dd8facb",
+  "object": "beer",
+  "name": "Native Roots",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

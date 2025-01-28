@@ -1,0 +1,11 @@
+{
+  "id": "82caa6e3-ec59-441e-a375-19b9fdf3c145",
+  "object": "beer",
+  "name": "Marqu\u00eas de Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

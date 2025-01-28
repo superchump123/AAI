@@ -1,0 +1,11 @@
+{
+  "id": "ad9f6024-4bb8-4a88-8d11-21bfca97a37a",
+  "object": "beer",
+  "name": "Marienplatz Lager",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

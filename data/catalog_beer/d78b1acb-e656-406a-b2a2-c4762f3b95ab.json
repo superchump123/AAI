@@ -1,0 +1,11 @@
+{
+  "id": "d78b1acb-e656-406a-b2a2-c4762f3b95ab",
+  "object": "beer",
+  "name": "Erdinger Weissbier",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

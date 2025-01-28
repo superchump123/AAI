@@ -1,0 +1,11 @@
+{
+  "id": "3a148866-a1ef-45c7-abba-51aa7d8b8b5d",
+  "object": "beer",
+  "name": "Bottle Rocket IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

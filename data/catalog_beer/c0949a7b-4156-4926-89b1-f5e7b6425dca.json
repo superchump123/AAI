@@ -1,0 +1,11 @@
+{
+  "id": "c0949a7b-4156-4926-89b1-f5e7b6425dca",
+  "object": "beer",
+  "name": "Chanter Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

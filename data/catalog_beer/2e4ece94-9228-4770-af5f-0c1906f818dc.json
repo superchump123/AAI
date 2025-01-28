@@ -1,0 +1,11 @@
+{
+  "id": "2e4ece94-9228-4770-af5f-0c1906f818dc",
+  "object": "beer",
+  "name": "Cat Scratch Fever",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "739e2222-4d8d-4fdf-8331-47b31c7b8fb9",
+  "object": "beer",
+  "name": "Luminosity",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

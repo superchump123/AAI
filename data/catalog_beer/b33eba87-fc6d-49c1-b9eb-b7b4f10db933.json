@@ -1,0 +1,11 @@
+{
+  "id": "b33eba87-fc6d-49c1-b9eb-b7b4f10db933",
+  "object": "beer",
+  "name": "Twisted Meniscus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

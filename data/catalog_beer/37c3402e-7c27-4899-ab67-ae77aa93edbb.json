@@ -1,0 +1,11 @@
+{
+  "id": "37c3402e-7c27-4899-ab67-ae77aa93edbb",
+  "object": "beer",
+  "name": "Marmajuke",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

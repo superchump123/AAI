@@ -1,0 +1,11 @@
+{
+  "id": "556c0434-0af9-4473-b851-2fdf3d11aae3",
+  "object": "beer",
+  "name": "Whiter & Nerdier",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

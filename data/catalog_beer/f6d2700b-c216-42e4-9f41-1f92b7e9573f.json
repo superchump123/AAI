@@ -1,0 +1,11 @@
+{
+  "id": "f6d2700b-c216-42e4-9f41-1f92b7e9573f",
+  "object": "beer",
+  "name": "22nd Anniversary",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 11.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

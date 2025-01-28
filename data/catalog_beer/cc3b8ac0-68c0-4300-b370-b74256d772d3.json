@@ -1,0 +1,11 @@
+{
+  "id": "cc3b8ac0-68c0-4300-b370-b74256d772d3",
+  "object": "beer",
+  "name": "Barn Gang",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

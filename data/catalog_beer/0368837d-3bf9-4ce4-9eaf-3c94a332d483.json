@@ -1,0 +1,11 @@
+{
+  "id": "0368837d-3bf9-4ce4-9eaf-3c94a332d483",
+  "object": "beer",
+  "name": "Cranberry Wit",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

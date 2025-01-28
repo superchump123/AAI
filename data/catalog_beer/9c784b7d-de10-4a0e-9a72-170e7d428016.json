@@ -1,0 +1,11 @@
+{
+  "id": "9c784b7d-de10-4a0e-9a72-170e7d428016",
+  "object": "beer",
+  "name": "Coconut Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

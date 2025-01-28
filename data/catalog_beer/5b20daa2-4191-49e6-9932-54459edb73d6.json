@@ -1,0 +1,11 @@
+{
+  "id": "5b20daa2-4191-49e6-9932-54459edb73d6",
+  "object": "beer",
+  "name": "Foret Blanche",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

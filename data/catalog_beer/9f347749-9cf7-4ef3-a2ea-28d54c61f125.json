@@ -1,0 +1,11 @@
+{
+  "id": "9f347749-9cf7-4ef3-a2ea-28d54c61f125",
+  "object": "beer",
+  "name": "Mutoh",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

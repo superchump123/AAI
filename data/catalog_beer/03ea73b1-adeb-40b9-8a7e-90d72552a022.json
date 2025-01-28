@@ -1,0 +1,11 @@
+{
+  "id": "03ea73b1-adeb-40b9-8a7e-90d72552a022",
+  "object": "beer",
+  "name": "Angry Troll",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

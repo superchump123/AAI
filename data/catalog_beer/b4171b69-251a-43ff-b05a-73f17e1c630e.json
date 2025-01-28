@@ -1,0 +1,11 @@
+{
+  "id": "b4171b69-251a-43ff-b05a-73f17e1c630e",
+  "object": "beer",
+  "name": "Counter Clockweisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

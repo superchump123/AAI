@@ -1,0 +1,11 @@
+{
+  "id": "0e68846b-a294-46b6-8f33-c5f8fb57f780",
+  "object": "beer",
+  "name": "Savour Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

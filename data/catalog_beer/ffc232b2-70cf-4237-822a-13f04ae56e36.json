@@ -1,0 +1,11 @@
+{
+  "id": "ffc232b2-70cf-4237-822a-13f04ae56e36",
+  "object": "beer",
+  "name": "One Arm Farmhouse Ale",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

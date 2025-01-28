@@ -1,0 +1,11 @@
+{
+  "id": "c4311cbd-989e-489d-9451-2c84de623225",
+  "object": "beer",
+  "name": "Grasshoppa",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

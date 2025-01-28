@@ -1,0 +1,11 @@
+{
+  "id": "e7991a9a-2318-4383-8e41-d8cc3bd9b983",
+  "object": "beer",
+  "name": "Ghost Face Killah",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

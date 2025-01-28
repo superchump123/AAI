@@ -1,0 +1,11 @@
+{
+  "id": "e5ce2c11-3f83-4af9-80e5-8d7fdfac9899",
+  "object": "beer",
+  "name": "Untouchable IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

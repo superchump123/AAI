@@ -1,0 +1,11 @@
+{
+  "id": "253638c3-8b1d-4da9-ba3f-89cb9e823a7a",
+  "object": "beer",
+  "name": "Boreal Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

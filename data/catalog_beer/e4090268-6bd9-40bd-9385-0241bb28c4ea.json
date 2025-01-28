@@ -1,0 +1,11 @@
+{
+  "id": "e4090268-6bd9-40bd-9385-0241bb28c4ea",
+  "object": "beer",
+  "name": "Cavalier",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

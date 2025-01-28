@@ -1,0 +1,11 @@
+{
+  "id": "99f3be57-7ad1-488d-89c2-451a2d4d2c33",
+  "object": "beer",
+  "name": "Hugo",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "01b28e48-0b3e-4618-876f-7e64544a83f9",
+  "object": "beer",
+  "name": "Temptress",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

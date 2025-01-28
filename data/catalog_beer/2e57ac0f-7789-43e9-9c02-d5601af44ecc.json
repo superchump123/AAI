@@ -1,0 +1,11 @@
+{
+  "id": "2e57ac0f-7789-43e9-9c02-d5601af44ecc",
+  "object": "beer",
+  "name": "Dingslebener Landbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bf614896-008d-4ec7-908e-e031e8863c87",
+  "object": "beer",
+  "name": "Balefire Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

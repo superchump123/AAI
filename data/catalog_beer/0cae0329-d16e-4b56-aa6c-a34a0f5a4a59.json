@@ -1,0 +1,11 @@
+{
+  "id": "0cae0329-d16e-4b56-aa6c-a34a0f5a4a59",
+  "object": "beer",
+  "name": "Wanderlust",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

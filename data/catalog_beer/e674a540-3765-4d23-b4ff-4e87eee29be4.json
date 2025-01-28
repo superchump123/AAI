@@ -1,0 +1,11 @@
+{
+  "id": "e674a540-3765-4d23-b4ff-4e87eee29be4",
+  "object": "beer",
+  "name": "Rookie Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

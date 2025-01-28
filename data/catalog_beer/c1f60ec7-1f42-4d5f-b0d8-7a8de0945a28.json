@@ -1,0 +1,11 @@
+{
+  "id": "c1f60ec7-1f42-4d5f-b0d8-7a8de0945a28",
+  "object": "beer",
+  "name": "BlackMamba Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

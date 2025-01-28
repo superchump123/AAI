@@ -1,0 +1,11 @@
+{
+  "id": "147b5dde-e204-4b32-b372-62f903d20e07",
+  "object": "beer",
+  "name": "Pomegranate Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

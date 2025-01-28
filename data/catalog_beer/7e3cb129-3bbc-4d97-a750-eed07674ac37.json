@@ -1,0 +1,11 @@
+{
+  "id": "7e3cb129-3bbc-4d97-a750-eed07674ac37",
+  "object": "beer",
+  "name": "Cherry Almond Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

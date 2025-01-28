@@ -1,0 +1,11 @@
+{
+  "id": "cf06483c-c33c-4051-a259-4fa3c35c234e",
+  "object": "beer",
+  "name": "Lemondrop",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

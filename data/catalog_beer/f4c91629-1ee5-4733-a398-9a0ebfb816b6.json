@@ -1,0 +1,11 @@
+{
+  "id": "f4c91629-1ee5-4733-a398-9a0ebfb816b6",
+  "object": "beer",
+  "name": "Graf Ignaz Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "88e9b127-0f5a-4c9b-bc4d-048d71bbc798",
+  "object": "beer",
+  "name": "Shakedown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

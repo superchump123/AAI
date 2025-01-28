@@ -1,0 +1,11 @@
+{
+  "id": "693c15e8-5d0b-4e49-b405-9f980568aed1",
+  "object": "beer",
+  "name": "Shamrock'n Rye Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

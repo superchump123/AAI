@@ -1,0 +1,11 @@
+{
+  "id": "40558a81-b10b-4500-bbb6-17fc19819505",
+  "object": "beer",
+  "name": "Hey Zeus",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

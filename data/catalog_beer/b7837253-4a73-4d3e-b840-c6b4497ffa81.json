@@ -1,0 +1,11 @@
+{
+  "id": "b7837253-4a73-4d3e-b840-c6b4497ffa81",
+  "object": "beer",
+  "name": "Wuffles Session Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

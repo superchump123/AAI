@@ -1,0 +1,11 @@
+{
+  "id": "ab8e7631-67ac-4514-99e5-b1ce550ea484",
+  "object": "beer",
+  "name": "5AM Saint",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f7fd9468-9e4c-4054-8186-724d0b828c58",
+  "object": "beer",
+  "name": "Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

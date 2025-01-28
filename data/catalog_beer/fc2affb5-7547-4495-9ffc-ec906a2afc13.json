@@ -1,0 +1,11 @@
+{
+  "id": "fc2affb5-7547-4495-9ffc-ec906a2afc13",
+  "object": "beer",
+  "name": "Summer Pale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

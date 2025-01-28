@@ -1,0 +1,11 @@
+{
+  "id": "6654208b-7095-4c84-a220-a5abb57c4076",
+  "object": "beer",
+  "name": "Praline Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

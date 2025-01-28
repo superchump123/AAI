@@ -1,0 +1,11 @@
+{
+  "id": "cc0040eb-e272-43be-a854-3a9b975da168",
+  "object": "beer",
+  "name": "Triple Sunshine IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a3f49b87-68db-41f9-a2db-37396abc9566",
+  "object": "beer",
+  "name": "Clean Water Lager",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

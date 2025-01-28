@@ -1,0 +1,11 @@
+{
+  "id": "7092bca8-69af-4b4d-9853-5f8b69fb1956",
+  "object": "beer",
+  "name": "Pan American Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

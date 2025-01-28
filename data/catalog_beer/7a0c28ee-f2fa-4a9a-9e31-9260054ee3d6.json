@@ -1,0 +1,11 @@
+{
+  "id": "7a0c28ee-f2fa-4a9a-9e31-9260054ee3d6",
+  "object": "beer",
+  "name": "The Light Side",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

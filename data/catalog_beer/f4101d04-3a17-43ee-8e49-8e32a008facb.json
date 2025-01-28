@@ -1,0 +1,11 @@
+{
+  "id": "f4101d04-3a17-43ee-8e49-8e32a008facb",
+  "object": "beer",
+  "name": "220lbs of Sin",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 89,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

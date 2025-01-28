@@ -1,0 +1,11 @@
+{
+  "id": "4731dd98-df1a-4500-9b1b-a5416e987fd6",
+  "object": "beer",
+  "name": "Mind Drive",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6ff89d58-93d8-407b-812c-79593fc0a8ff",
+  "object": "beer",
+  "name": "Peach Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

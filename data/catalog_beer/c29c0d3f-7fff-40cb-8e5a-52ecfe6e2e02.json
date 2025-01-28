@@ -1,0 +1,11 @@
+{
+  "id": "c29c0d3f-7fff-40cb-8e5a-52ecfe6e2e02",
+  "object": "beer",
+  "name": "Traditional Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

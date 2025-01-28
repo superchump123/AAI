@@ -1,0 +1,11 @@
+{
+  "id": "b45830c0-e97b-49e0-be3d-ca4b6e67c718",
+  "object": "beer",
+  "name": "Ruby Red Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d9d35c27-ead8-4b79-91e1-4be5dbd58240",
+  "object": "beer",
+  "name": "Monumentous",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

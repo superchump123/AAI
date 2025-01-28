@@ -1,0 +1,11 @@
+{
+  "id": "f5ec84b7-f0a6-459f-988f-7ca62f95424b",
+  "object": "beer",
+  "name": "Emerald Triangle India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

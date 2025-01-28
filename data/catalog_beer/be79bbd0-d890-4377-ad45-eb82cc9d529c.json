@@ -1,0 +1,11 @@
+{
+  "id": "be79bbd0-d890-4377-ad45-eb82cc9d529c",
+  "object": "beer",
+  "name": "Hootenanny",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

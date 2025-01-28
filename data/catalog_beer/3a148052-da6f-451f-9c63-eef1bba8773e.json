@@ -1,0 +1,11 @@
+{
+  "id": "3a148052-da6f-451f-9c63-eef1bba8773e",
+  "object": "beer",
+  "name": "The Finisher",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 17.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

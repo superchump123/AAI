@@ -1,0 +1,11 @@
+{
+  "id": "c4f0332f-bb09-4cab-a3b2-78a0a1a90ccd",
+  "object": "beer",
+  "name": "Tarantula Hawk",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

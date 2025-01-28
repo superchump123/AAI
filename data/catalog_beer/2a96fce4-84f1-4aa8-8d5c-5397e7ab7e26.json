@@ -1,0 +1,11 @@
+{
+  "id": "2a96fce4-84f1-4aa8-8d5c-5397e7ab7e26",
+  "object": "beer",
+  "name": "Figaro",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

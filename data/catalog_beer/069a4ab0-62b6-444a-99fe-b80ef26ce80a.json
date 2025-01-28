@@ -1,0 +1,11 @@
+{
+  "id": "069a4ab0-62b6-444a-99fe-b80ef26ce80a",
+  "object": "beer",
+  "name": "Kickin Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

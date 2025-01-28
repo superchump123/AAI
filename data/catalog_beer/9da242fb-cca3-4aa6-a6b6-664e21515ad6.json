@@ -1,0 +1,11 @@
+{
+  "id": "9da242fb-cca3-4aa6-a6b6-664e21515ad6",
+  "object": "beer",
+  "name": "Friki Tiki - Guava",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

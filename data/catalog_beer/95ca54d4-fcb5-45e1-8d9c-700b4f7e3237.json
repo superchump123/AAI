@@ -1,0 +1,11 @@
+{
+  "id": "95ca54d4-fcb5-45e1-8d9c-700b4f7e3237",
+  "object": "beer",
+  "name": "The Black Seeds Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

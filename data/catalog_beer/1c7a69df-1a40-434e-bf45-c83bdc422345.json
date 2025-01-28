@@ -1,0 +1,11 @@
+{
+  "id": "1c7a69df-1a40-434e-bf45-c83bdc422345",
+  "object": "beer",
+  "name": "Hop Coffee",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

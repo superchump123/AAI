@@ -1,0 +1,11 @@
+{
+  "id": "0a4f838c-5b44-42ce-befe-bcb4c7c344c0",
+  "object": "beer",
+  "name": "Black Pig Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a087c7e-8771-45d6-b809-fca55e7ed1e2",
+  "object": "beer",
+  "name": "RockBoneWood",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

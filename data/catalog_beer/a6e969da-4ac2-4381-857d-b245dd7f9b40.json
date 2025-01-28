@@ -1,0 +1,11 @@
+{
+  "id": "a6e969da-4ac2-4381-857d-b245dd7f9b40",
+  "object": "beer",
+  "name": "Hoppy Table Beer",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

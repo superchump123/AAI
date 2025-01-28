@@ -1,0 +1,11 @@
+{
+  "id": "013ba053-ca05-4b71-98cf-3091c88b9f68",
+  "object": "beer",
+  "name": "Dammed!",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

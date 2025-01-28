@@ -1,0 +1,11 @@
+{
+  "id": "c7e6b010-8b07-4ea9-9094-116c5fc3d8a7",
+  "object": "beer",
+  "name": "Aphotic Imperial Porter",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

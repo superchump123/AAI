@@ -1,0 +1,11 @@
+{
+  "id": "2b50f658-798b-4f2e-bcc3-1503957c7186",
+  "object": "beer",
+  "name": "Aces & Ates",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "be2cf364-dfef-4059-ab6c-c82b9bdf55e6",
+  "object": "beer",
+  "name": "Kings and Spies",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

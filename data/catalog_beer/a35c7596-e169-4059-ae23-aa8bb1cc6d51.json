@@ -1,0 +1,11 @@
+{
+  "id": "a35c7596-e169-4059-ae23-aa8bb1cc6d51",
+  "object": "beer",
+  "name": "Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

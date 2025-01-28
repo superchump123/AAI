@@ -1,0 +1,11 @@
+{
+  "id": "a0a716bd-4dd4-4e0b-b432-113e509a1a84",
+  "object": "beer",
+  "name": "Snake Cake",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

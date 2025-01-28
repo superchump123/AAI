@@ -1,0 +1,11 @@
+{
+  "id": "02ca6c80-621f-4d02-9b8e-0c6151b54a37",
+  "object": "beer",
+  "name": "Triple Hop Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

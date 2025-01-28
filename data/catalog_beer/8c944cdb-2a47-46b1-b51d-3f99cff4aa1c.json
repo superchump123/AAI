@@ -1,0 +1,11 @@
+{
+  "id": "8c944cdb-2a47-46b1-b51d-3f99cff4aa1c",
+  "object": "beer",
+  "name": "Kill All The Golfers",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

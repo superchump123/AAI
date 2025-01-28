@@ -1,0 +1,11 @@
+{
+  "id": "6d2fa643-da9a-4693-a483-7c92765a3726",
+  "object": "beer",
+  "name": "Grand Citra Station",
+  "style": "IPA",
+  "description": "Our \u201ccult classic IPA,\u201d Soul Crusher, returns with its new name Grand Citra Station\u00ae! This American IPA will be available in pints and growlers. Brewed for GenCon 2014, this beer was one of our most sought after seasonal brews.",
+  "abv": 6.5,
+  "ibu": 64,
+  "cb_verified": true,
+  "last_modified": 1511569865
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d57543a3-35c0-47d1-99be-586d58fafc89",
+  "object": "beer",
+  "name": "Secret's Shared - Wild IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

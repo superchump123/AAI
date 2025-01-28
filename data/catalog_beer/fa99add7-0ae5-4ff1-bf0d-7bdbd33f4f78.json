@@ -1,0 +1,11 @@
+{
+  "id": "fa99add7-0ae5-4ff1-bf0d-7bdbd33f4f78",
+  "object": "beer",
+  "name": "503 Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

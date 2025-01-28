@@ -1,0 +1,11 @@
+{
+  "id": "2e7ed035-c33d-4bc6-8135-3ff2f7792e19",
+  "object": "beer",
+  "name": "Imperial Golden Ale (I.G.A.)",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

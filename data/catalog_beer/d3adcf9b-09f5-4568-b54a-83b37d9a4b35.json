@@ -1,0 +1,11 @@
+{
+  "id": "d3adcf9b-09f5-4568-b54a-83b37d9a4b35",
+  "object": "beer",
+  "name": "What Plane?",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

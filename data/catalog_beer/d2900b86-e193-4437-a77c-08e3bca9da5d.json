@@ -1,0 +1,11 @@
+{
+  "id": "d2900b86-e193-4437-a77c-08e3bca9da5d",
+  "object": "beer",
+  "name": "The Deer Lord",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

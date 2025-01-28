@@ -1,0 +1,11 @@
+{
+  "id": "cf4dfde6-a24e-40ea-a770-a95a46a8dde7",
+  "object": "beer",
+  "name": "Lost in Space",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

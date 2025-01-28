@@ -1,0 +1,11 @@
+{
+  "id": "57d3da5c-b97d-4acd-84d3-fb7a4c0039f9",
+  "object": "beer",
+  "name": "Not Bad For A Strip Mall Brewery",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

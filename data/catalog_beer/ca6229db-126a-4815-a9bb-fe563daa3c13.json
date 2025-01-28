@@ -1,0 +1,11 @@
+{
+  "id": "ca6229db-126a-4815-a9bb-fe563daa3c13",
+  "object": "beer",
+  "name": "Dam Wild",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cfbc10da-687a-4d84-b7d4-b70a6bbf78ed",
+  "object": "beer",
+  "name": "Quakertown Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

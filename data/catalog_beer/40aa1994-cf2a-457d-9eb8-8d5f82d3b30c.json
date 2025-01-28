@@ -1,0 +1,11 @@
+{
+  "id": "40aa1994-cf2a-457d-9eb8-8d5f82d3b30c",
+  "object": "beer",
+  "name": "Oude Gueuze Vielle",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

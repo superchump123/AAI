@@ -1,0 +1,11 @@
+{
+  "id": "ad721fe3-8606-46cd-97ed-105f5ec67266",
+  "object": "beer",
+  "name": "Lisa",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d866e378-6c9b-42ad-a8db-b1bc855df8e4",
+  "object": "beer",
+  "name": "Happily Apple",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

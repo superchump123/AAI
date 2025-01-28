@@ -1,0 +1,11 @@
+{
+  "id": "8fd5ab9a-1146-4db6-be29-02271087556d",
+  "object": "beer",
+  "name": "Fond De La Mer",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

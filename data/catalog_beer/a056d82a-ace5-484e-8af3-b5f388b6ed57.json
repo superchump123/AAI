@@ -1,0 +1,11 @@
+{
+  "id": "a056d82a-ace5-484e-8af3-b5f388b6ed57",
+  "object": "beer",
+  "name": "B.F. Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

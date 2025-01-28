@@ -1,0 +1,11 @@
+{
+  "id": "10c385c7-17a2-45ea-b5e0-4223b1be12b6",
+  "object": "beer",
+  "name": "Bem Loura",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

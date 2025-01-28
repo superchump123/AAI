@@ -1,0 +1,11 @@
+{
+  "id": "0781fc6b-9617-43f5-bb70-2a4c87986853",
+  "object": "beer",
+  "name": "Dunkle",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

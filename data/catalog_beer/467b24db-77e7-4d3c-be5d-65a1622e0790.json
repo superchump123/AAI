@@ -1,0 +1,11 @@
+{
+  "id": "467b24db-77e7-4d3c-be5d-65a1622e0790",
+  "object": "beer",
+  "name": "Extra Easy",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

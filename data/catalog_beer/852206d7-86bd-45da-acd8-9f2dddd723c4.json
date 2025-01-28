@@ -1,0 +1,11 @@
+{
+  "id": "852206d7-86bd-45da-acd8-9f2dddd723c4",
+  "object": "beer",
+  "name": "Lo-Res",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

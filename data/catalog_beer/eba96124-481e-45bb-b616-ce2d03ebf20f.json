@@ -1,0 +1,11 @@
+{
+  "id": "eba96124-481e-45bb-b616-ce2d03ebf20f",
+  "object": "beer",
+  "name": "Nina Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 10,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

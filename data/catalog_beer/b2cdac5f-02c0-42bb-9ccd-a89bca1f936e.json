@@ -1,0 +1,11 @@
+{
+  "id": "b2cdac5f-02c0-42bb-9ccd-a89bca1f936e",
+  "object": "beer",
+  "name": "Matador Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

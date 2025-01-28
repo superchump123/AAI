@@ -1,0 +1,11 @@
+{
+  "id": "995e0c87-a6a2-4b45-b86e-13f1d10a23cf",
+  "object": "beer",
+  "name": "Rattlesnake",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

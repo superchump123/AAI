@@ -1,0 +1,11 @@
+{
+  "id": "5f117d71-8510-4c7b-a8b9-5fc15e031822",
+  "object": "beer",
+  "name": "Reclamation NITRO",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

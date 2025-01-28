@@ -1,0 +1,11 @@
+{
+  "id": "5ef14371-6ef6-4ddf-ac9b-8a1a965bfc42",
+  "object": "beer",
+  "name": "Super Juice",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

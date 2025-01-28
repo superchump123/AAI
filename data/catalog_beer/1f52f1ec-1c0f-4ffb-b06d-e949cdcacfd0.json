@@ -1,0 +1,11 @@
+{
+  "id": "1f52f1ec-1c0f-4ffb-b06d-e949cdcacfd0",
+  "object": "beer",
+  "name": "Walkaloosa",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

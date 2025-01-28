@@ -1,0 +1,11 @@
+{
+  "id": "719dfefe-f040-4e31-ae10-bf0e7ec93db0",
+  "object": "beer",
+  "name": "Sex Panther",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

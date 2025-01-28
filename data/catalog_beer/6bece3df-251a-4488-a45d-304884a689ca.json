@@ -1,0 +1,11 @@
+{
+  "id": "6bece3df-251a-4488-a45d-304884a689ca",
+  "object": "beer",
+  "name": "Smoke Screen",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

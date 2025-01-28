@@ -1,0 +1,11 @@
+{
+  "id": "27fb548f-e923-451a-a63d-3c5bbec3513f",
+  "object": "beer",
+  "name": "Admiral Van Dyke",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "731e5090-0d1c-4c72-91f2-9d5242ce06af",
+  "object": "beer",
+  "name": "The Prick - Prickly Pear Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6cdaa2b9-5eab-44b4-99ee-22104bd07bcf",
+  "object": "beer",
+  "name": "Seamen\u2019s Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

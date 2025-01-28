@@ -1,0 +1,11 @@
+{
+  "id": "ddfab5e2-fe68-4fc3-ae17-6dbaaa140901",
+  "object": "beer",
+  "name": "Narwhal",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

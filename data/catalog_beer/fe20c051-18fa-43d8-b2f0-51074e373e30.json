@@ -1,0 +1,11 @@
+{
+  "id": "fe20c051-18fa-43d8-b2f0-51074e373e30",
+  "object": "beer",
+  "name": "Kama-Citra",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

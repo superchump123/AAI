@@ -1,0 +1,11 @@
+{
+  "id": "d43c3d52-8c13-4926-824c-c83da210a68d",
+  "object": "beer",
+  "name": "Something Hazy Day",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

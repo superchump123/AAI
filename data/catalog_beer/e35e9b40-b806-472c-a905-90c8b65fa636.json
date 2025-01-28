@@ -1,0 +1,11 @@
+{
+  "id": "e35e9b40-b806-472c-a905-90c8b65fa636",
+  "object": "beer",
+  "name": "The Dark Side",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

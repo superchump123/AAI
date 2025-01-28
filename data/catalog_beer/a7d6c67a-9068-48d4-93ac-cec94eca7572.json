@@ -1,0 +1,11 @@
+{
+  "id": "a7d6c67a-9068-48d4-93ac-cec94eca7572",
+  "object": "beer",
+  "name": "Herkules IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

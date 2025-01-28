@@ -1,0 +1,11 @@
+{
+  "id": "00819bb6-3fed-4949-8e48-e44b091cd717",
+  "object": "beer",
+  "name": "Ideia",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

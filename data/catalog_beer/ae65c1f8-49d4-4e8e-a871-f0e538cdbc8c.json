@@ -1,0 +1,11 @@
+{
+  "id": "ae65c1f8-49d4-4e8e-a871-f0e538cdbc8c",
+  "object": "beer",
+  "name": "Hustle",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

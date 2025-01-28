@@ -1,0 +1,11 @@
+{
+  "id": "b6e9ce46-4cb8-4b8d-b37d-972896dc8e9f",
+  "object": "beer",
+  "name": "Bismark Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

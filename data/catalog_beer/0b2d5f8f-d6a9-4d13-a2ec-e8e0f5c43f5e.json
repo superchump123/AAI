@@ -1,0 +1,11 @@
+{
+  "id": "0b2d5f8f-d6a9-4d13-a2ec-e8e0f5c43f5e",
+  "object": "beer",
+  "name": "Fern Lager",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ace9a31c-6311-485a-a789-929659eca4eb",
+  "object": "beer",
+  "name": "Great Crescent Coconut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

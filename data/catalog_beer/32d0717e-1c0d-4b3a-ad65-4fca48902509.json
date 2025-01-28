@@ -1,0 +1,11 @@
+{
+  "id": "32d0717e-1c0d-4b3a-ad65-4fca48902509",
+  "object": "beer",
+  "name": "Snow Shed Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

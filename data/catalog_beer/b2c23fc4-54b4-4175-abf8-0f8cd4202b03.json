@@ -1,0 +1,11 @@
+{
+  "id": "b2c23fc4-54b4-4175-abf8-0f8cd4202b03",
+  "object": "beer",
+  "name": "Ginger Shandy",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

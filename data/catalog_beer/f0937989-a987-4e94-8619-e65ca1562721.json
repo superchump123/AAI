@@ -1,0 +1,11 @@
+{
+  "id": "f0937989-a987-4e94-8619-e65ca1562721",
+  "object": "beer",
+  "name": "Sea Salt Ale",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

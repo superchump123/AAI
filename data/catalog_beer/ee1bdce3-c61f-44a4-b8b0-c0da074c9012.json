@@ -1,0 +1,11 @@
+{
+  "id": "ee1bdce3-c61f-44a4-b8b0-c0da074c9012",
+  "object": "beer",
+  "name": "Lust",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

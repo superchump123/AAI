@@ -1,0 +1,11 @@
+{
+  "id": "172c6711-1fdb-44df-832e-1611744b87cb",
+  "object": "beer",
+  "name": "Peach Acide",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

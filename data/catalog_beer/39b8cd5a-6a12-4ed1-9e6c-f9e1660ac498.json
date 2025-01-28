@@ -1,0 +1,11 @@
+{
+  "id": "39b8cd5a-6a12-4ed1-9e6c-f9e1660ac498",
+  "object": "beer",
+  "name": "Hummin' Bird",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

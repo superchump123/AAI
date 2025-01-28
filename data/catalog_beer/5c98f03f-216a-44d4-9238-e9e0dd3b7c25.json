@@ -1,0 +1,11 @@
+{
+  "id": "5c98f03f-216a-44d4-9238-e9e0dd3b7c25",
+  "object": "beer",
+  "name": "'Ol Blackie IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

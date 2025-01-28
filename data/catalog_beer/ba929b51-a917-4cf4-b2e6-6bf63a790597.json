@@ -1,0 +1,11 @@
+{
+  "id": "ba929b51-a917-4cf4-b2e6-6bf63a790597",
+  "object": "beer",
+  "name": "Kplus Pivo",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

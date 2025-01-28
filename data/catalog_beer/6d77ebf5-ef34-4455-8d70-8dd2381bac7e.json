@@ -1,0 +1,11 @@
+{
+  "id": "6d77ebf5-ef34-4455-8d70-8dd2381bac7e",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Cider",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

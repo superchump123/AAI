@@ -1,0 +1,11 @@
+{
+  "id": "76b8605e-29a8-4dbe-a2c7-308ba7eb3886",
+  "object": "beer",
+  "name": "Apricot Wheat",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

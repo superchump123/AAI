@@ -1,0 +1,11 @@
+{
+  "id": "a4c09801-1146-463e-b12e-4e09a3e790d0",
+  "object": "beer",
+  "name": "Upward Spiral",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

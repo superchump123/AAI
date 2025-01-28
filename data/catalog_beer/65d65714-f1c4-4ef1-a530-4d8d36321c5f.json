@@ -1,0 +1,11 @@
+{
+  "id": "65d65714-f1c4-4ef1-a530-4d8d36321c5f",
+  "object": "beer",
+  "name": "Brewer's Bairn",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4d249249-5870-4c5b-b2a9-1af4b6cf3f95",
+  "object": "beer",
+  "name": "Proclamation",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

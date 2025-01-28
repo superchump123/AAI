@@ -1,0 +1,11 @@
+{
+  "id": "94350f4a-1955-45f6-9f8b-50df5e8a099c",
+  "object": "beer",
+  "name": "Auburn Export Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

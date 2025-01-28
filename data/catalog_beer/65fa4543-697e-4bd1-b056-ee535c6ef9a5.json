@@ -1,0 +1,11 @@
+{
+  "id": "65fa4543-697e-4bd1-b056-ee535c6ef9a5",
+  "object": "beer",
+  "name": "High Five",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f67a7416-cb11-4f48-9563-83887398af3d",
+  "object": "beer",
+  "name": "Plank II",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d656faad-0dd1-4ade-9d5a-c2fecbf5a56d",
+  "object": "beer",
+  "name": "Tramway Rye PA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

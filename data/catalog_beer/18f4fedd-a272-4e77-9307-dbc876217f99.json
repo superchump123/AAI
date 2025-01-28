@@ -1,0 +1,11 @@
+{
+  "id": "18f4fedd-a272-4e77-9307-dbc876217f99",
+  "object": "beer",
+  "name": "Ryley",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

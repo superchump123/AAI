@@ -1,0 +1,11 @@
+{
+  "id": "6a630464-02eb-44aa-86a6-15eaebaf626a",
+  "object": "beer",
+  "name": "Hop Meadow IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

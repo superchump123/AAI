@@ -1,0 +1,11 @@
+{
+  "id": "a8621354-8ea0-4330-8d3f-b72d0cd9e8d4",
+  "object": "beer",
+  "name": "Long Goodbye",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

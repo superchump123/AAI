@@ -1,0 +1,11 @@
+{
+  "id": "eea4056d-3729-4d6e-9faa-56ac9fa62c92",
+  "object": "beer",
+  "name": "Cowbell Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

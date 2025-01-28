@@ -1,0 +1,11 @@
+{
+  "id": "781a61aa-0b84-47c8-9310-265f34a754ce",
+  "object": "beer",
+  "name": "Castover",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

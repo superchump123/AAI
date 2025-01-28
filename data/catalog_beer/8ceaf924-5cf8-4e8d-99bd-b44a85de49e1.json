@@ -1,0 +1,11 @@
+{
+  "id": "8ceaf924-5cf8-4e8d-99bd-b44a85de49e1",
+  "object": "beer",
+  "name": "Wild Ale",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "50bc03c3-d1ea-45ce-b3f3-dc16840129a9",
+  "object": "beer",
+  "name": "The Immortal IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

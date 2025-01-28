@@ -1,0 +1,11 @@
+{
+  "id": "2d39d8c9-5dc8-420f-8575-c8364a7a3e47",
+  "object": "beer",
+  "name": "Vanilla Cinnamon Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

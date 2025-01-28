@@ -1,0 +1,11 @@
+{
+  "id": "8652efaf-817d-40e1-95eb-94ad6f0f3221",
+  "object": "beer",
+  "name": "Double Vision",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

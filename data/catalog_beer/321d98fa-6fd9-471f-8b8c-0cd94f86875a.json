@@ -1,0 +1,11 @@
+{
+  "id": "321d98fa-6fd9-471f-8b8c-0cd94f86875a",
+  "object": "beer",
+  "name": "Honeycrisp",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

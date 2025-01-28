@@ -1,0 +1,11 @@
+{
+  "id": "91eb5432-0970-4dcf-b742-7a9833c805fb",
+  "object": "beer",
+  "name": "Piggy Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

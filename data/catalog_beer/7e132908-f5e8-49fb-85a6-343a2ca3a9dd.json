@@ -1,0 +1,11 @@
+{
+  "id": "7e132908-f5e8-49fb-85a6-343a2ca3a9dd",
+  "object": "beer",
+  "name": "Alena",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

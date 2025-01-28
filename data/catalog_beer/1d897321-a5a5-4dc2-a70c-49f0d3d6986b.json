@@ -1,0 +1,11 @@
+{
+  "id": "1d897321-a5a5-4dc2-a70c-49f0d3d6986b",
+  "object": "beer",
+  "name": "Beach Cruiser",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

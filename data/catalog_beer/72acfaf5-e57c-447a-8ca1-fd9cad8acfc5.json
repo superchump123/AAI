@@ -1,0 +1,11 @@
+{
+  "id": "72acfaf5-e57c-447a-8ca1-fd9cad8acfc5",
+  "object": "beer",
+  "name": "A Half Wit in Paradise",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

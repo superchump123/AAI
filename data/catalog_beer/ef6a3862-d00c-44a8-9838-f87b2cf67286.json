@@ -1,0 +1,11 @@
+{
+  "id": "ef6a3862-d00c-44a8-9838-f87b2cf67286",
+  "object": "beer",
+  "name": "Rusalka Vanilla Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

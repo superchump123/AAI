@@ -1,0 +1,11 @@
+{
+  "id": "336ab0da-88df-4d69-9b93-e77ce199d9c4",
+  "object": "beer",
+  "name": "Templederry Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

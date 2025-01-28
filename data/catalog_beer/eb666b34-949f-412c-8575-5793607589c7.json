@@ -1,0 +1,11 @@
+{
+  "id": "eb666b34-949f-412c-8575-5793607589c7",
+  "object": "beer",
+  "name": "Gold",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

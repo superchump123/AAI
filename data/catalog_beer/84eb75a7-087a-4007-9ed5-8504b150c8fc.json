@@ -1,0 +1,11 @@
+{
+  "id": "84eb75a7-087a-4007-9ed5-8504b150c8fc",
+  "object": "beer",
+  "name": "Two Guns Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

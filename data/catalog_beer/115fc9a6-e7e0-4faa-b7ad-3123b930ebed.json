@@ -1,0 +1,11 @@
+{
+  "id": "115fc9a6-e7e0-4faa-b7ad-3123b930ebed",
+  "object": "beer",
+  "name": "Berner Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

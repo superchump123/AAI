@@ -1,0 +1,11 @@
+{
+  "id": "d8de257a-1ee7-40a9-ab03-665c2c1cbb57",
+  "object": "beer",
+  "name": "Kaktus Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

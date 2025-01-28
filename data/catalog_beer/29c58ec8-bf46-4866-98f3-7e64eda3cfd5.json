@@ -1,0 +1,11 @@
+{
+  "id": "29c58ec8-bf46-4866-98f3-7e64eda3cfd5",
+  "object": "beer",
+  "name": "Morena Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

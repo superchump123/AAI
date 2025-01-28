@@ -1,0 +1,11 @@
+{
+  "id": "cca2fded-0749-4166-a417-1c234af913a8",
+  "object": "beer",
+  "name": "Powder Monkey",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

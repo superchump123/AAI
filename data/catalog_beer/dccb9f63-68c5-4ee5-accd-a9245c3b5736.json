@@ -1,0 +1,11 @@
+{
+  "id": "dccb9f63-68c5-4ee5-accd-a9245c3b5736",
+  "object": "beer",
+  "name": "Spring Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

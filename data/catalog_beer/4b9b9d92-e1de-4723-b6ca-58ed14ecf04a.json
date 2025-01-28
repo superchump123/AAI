@@ -1,0 +1,11 @@
+{
+  "id": "4b9b9d92-e1de-4723-b6ca-58ed14ecf04a",
+  "object": "beer",
+  "name": "Four Horsemen",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aae199df-7f78-4031-8ca1-ea743f5a938b",
+  "object": "beer",
+  "name": "Tzara",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

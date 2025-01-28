@@ -1,0 +1,11 @@
+{
+  "id": "97e2f12a-fb8e-4dac-8af7-fa8fc8032cbb",
+  "object": "beer",
+  "name": "Malka Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b96d4bbc-f11d-457f-a400-5253f85815cb",
+  "object": "beer",
+  "name": "Spencer's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

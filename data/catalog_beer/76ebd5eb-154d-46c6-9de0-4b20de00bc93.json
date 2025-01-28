@@ -1,0 +1,11 @@
+{
+  "id": "76ebd5eb-154d-46c6-9de0-4b20de00bc93",
+  "object": "beer",
+  "name": "Frog's Hollow Double Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

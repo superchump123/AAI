@@ -1,0 +1,11 @@
+{
+  "id": "4fff8217-9ebe-4b3d-aa62-c7af5f33e7e4",
+  "object": "beer",
+  "name": "Island Fever",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

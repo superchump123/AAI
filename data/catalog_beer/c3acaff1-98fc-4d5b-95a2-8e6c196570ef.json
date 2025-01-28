@@ -1,0 +1,11 @@
+{
+  "id": "c3acaff1-98fc-4d5b-95a2-8e6c196570ef",
+  "object": "beer",
+  "name": "Wicked Elf Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ac9628fb-2a0f-4f9a-937e-dfc5d052cc63",
+  "object": "beer",
+  "name": "Shady Character",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

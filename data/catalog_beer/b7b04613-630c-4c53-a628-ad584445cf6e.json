@@ -1,0 +1,11 @@
+{
+  "id": "b7b04613-630c-4c53-a628-ad584445cf6e",
+  "object": "beer",
+  "name": "London Brick Red Rye Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

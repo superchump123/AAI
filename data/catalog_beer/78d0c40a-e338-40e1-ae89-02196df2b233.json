@@ -1,0 +1,11 @@
+{
+  "id": "78d0c40a-e338-40e1-ae89-02196df2b233",
+  "object": "beer",
+  "name": "Tanlines Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

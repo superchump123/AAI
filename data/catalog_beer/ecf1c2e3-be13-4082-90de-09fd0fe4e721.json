@@ -1,0 +1,11 @@
+{
+  "id": "ecf1c2e3-be13-4082-90de-09fd0fe4e721",
+  "object": "beer",
+  "name": "Ginger Slap",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "16f7a57a-0355-4a32-aeac-5794fb79d8fd",
+  "object": "beer",
+  "name": "Super Dry",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

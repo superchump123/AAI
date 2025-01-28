@@ -1,0 +1,11 @@
+{
+  "id": "5eac72f6-8154-4674-9fac-cd6eedbbae19",
+  "object": "beer",
+  "name": "Friar Bacon Smoked Bock",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

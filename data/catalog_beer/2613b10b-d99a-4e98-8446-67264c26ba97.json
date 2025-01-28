@@ -1,0 +1,11 @@
+{
+  "id": "2613b10b-d99a-4e98-8446-67264c26ba97",
+  "object": "beer",
+  "name": "Official Union Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

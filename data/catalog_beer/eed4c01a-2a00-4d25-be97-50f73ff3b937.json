@@ -1,0 +1,11 @@
+{
+  "id": "eed4c01a-2a00-4d25-be97-50f73ff3b937",
+  "object": "beer",
+  "name": "Plink",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

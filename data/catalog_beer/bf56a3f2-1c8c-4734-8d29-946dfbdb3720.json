@@ -1,0 +1,11 @@
+{
+  "id": "bf56a3f2-1c8c-4734-8d29-946dfbdb3720",
+  "object": "beer",
+  "name": "The Catalyst",
+  "style": "Historical Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

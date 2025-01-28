@@ -1,0 +1,11 @@
+{
+  "id": "e640604f-bed8-445f-833f-f5ed1d6a0555",
+  "object": "beer",
+  "name": "Weihenstephaner Hefeweissbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

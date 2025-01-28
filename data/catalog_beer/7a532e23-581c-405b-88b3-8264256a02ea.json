@@ -1,0 +1,11 @@
+{
+  "id": "7a532e23-581c-405b-88b3-8264256a02ea",
+  "object": "beer",
+  "name": "Exit 3 Blueberry Braggot",
+  "style": "Braggot",
+  "description": null,
+  "abv": 15,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

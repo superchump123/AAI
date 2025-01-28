@@ -1,0 +1,11 @@
+{
+  "id": "c2cec648-bc82-4f04-aa51-1fd6cf91b31a",
+  "object": "beer",
+  "name": "White Turtle",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

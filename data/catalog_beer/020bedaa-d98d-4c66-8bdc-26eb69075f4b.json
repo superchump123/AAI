@@ -1,0 +1,11 @@
+{
+  "id": "020bedaa-d98d-4c66-8bdc-26eb69075f4b",
+  "object": "beer",
+  "name": "Dunkel Kong Junior",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

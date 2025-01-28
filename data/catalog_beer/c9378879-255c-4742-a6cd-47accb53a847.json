@@ -1,0 +1,11 @@
+{
+  "id": "c9378879-255c-4742-a6cd-47accb53a847",
+  "object": "beer",
+  "name": "Simco Serenade",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

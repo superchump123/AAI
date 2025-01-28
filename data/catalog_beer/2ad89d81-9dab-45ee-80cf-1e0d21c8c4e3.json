@@ -1,0 +1,11 @@
+{
+  "id": "2ad89d81-9dab-45ee-80cf-1e0d21c8c4e3",
+  "object": "beer",
+  "name": "Powder Dreams",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

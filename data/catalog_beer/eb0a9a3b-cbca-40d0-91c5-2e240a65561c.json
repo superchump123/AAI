@@ -1,0 +1,11 @@
+{
+  "id": "eb0a9a3b-cbca-40d0-91c5-2e240a65561c",
+  "object": "beer",
+  "name": "Koffee Kream Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

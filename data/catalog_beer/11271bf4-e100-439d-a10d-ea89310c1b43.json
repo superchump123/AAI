@@ -1,0 +1,11 @@
+{
+  "id": "11271bf4-e100-439d-a10d-ea89310c1b43",
+  "object": "beer",
+  "name": "Grapefruit Explosion",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

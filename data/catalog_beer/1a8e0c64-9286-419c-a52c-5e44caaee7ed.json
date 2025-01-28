@@ -1,0 +1,11 @@
+{
+  "id": "1a8e0c64-9286-419c-a52c-5e44caaee7ed",
+  "object": "beer",
+  "name": "Pearfigt",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

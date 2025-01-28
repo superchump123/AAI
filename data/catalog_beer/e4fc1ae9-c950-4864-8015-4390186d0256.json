@@ -1,0 +1,11 @@
+{
+  "id": "e4fc1ae9-c950-4864-8015-4390186d0256",
+  "object": "beer",
+  "name": "Free Time",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5f0f7895-1f4f-45e9-b657-92bb7aa15b2d",
+  "object": "beer",
+  "name": "Wheat Wine Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

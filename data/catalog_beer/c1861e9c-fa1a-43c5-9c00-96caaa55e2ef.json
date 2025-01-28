@@ -1,0 +1,11 @@
+{
+  "id": "c1861e9c-fa1a-43c5-9c00-96caaa55e2ef",
+  "object": "beer",
+  "name": "Bracia",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

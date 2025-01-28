@@ -1,0 +1,11 @@
+{
+  "id": "b2cbdf2b-413d-492f-9074-89fd5cc23903",
+  "object": "beer",
+  "name": "Erlbacher Jubil\u00e4umsbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

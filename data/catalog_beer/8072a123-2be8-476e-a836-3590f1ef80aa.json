@@ -1,0 +1,11 @@
+{
+  "id": "8072a123-2be8-476e-a836-3590f1ef80aa",
+  "object": "beer",
+  "name": "Duvel Green",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

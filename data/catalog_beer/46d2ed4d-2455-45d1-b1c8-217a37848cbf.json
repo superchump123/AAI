@@ -1,0 +1,11 @@
+{
+  "id": "46d2ed4d-2455-45d1-b1c8-217a37848cbf",
+  "object": "beer",
+  "name": "Cranberry Ginger Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

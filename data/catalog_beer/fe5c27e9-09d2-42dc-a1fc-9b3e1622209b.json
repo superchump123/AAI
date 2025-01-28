@@ -1,0 +1,11 @@
+{
+  "id": "fe5c27e9-09d2-42dc-a1fc-9b3e1622209b",
+  "object": "beer",
+  "name": "Mocha Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

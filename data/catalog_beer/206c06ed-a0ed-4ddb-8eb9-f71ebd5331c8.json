@@ -1,0 +1,11 @@
+{
+  "id": "206c06ed-a0ed-4ddb-8eb9-f71ebd5331c8",
+  "object": "beer",
+  "name": "Cali Dream",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e1ba7911-602c-4e8f-84f2-b3d3ca4a5fd0",
+  "object": "beer",
+  "name": "Super Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

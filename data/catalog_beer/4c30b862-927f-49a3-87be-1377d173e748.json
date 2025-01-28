@@ -1,0 +1,11 @@
+{
+  "id": "4c30b862-927f-49a3-87be-1377d173e748",
+  "object": "beer",
+  "name": "Pomme De Coeur",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

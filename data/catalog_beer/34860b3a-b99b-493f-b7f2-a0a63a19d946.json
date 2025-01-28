@@ -1,0 +1,11 @@
+{
+  "id": "34860b3a-b99b-493f-b7f2-a0a63a19d946",
+  "object": "beer",
+  "name": "Wayne County Cream Ale",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

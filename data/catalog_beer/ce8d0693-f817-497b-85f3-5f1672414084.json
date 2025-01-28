@@ -1,0 +1,11 @@
+{
+  "id": "ce8d0693-f817-497b-85f3-5f1672414084",
+  "object": "beer",
+  "name": "Amstel Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

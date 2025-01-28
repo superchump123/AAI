@@ -1,0 +1,11 @@
+{
+  "id": "7d4506c1-3ba7-4078-a24e-cc62233844c5",
+  "object": "beer",
+  "name": "Orodon",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

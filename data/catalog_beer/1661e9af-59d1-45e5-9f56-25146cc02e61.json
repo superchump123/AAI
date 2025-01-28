@@ -1,0 +1,11 @@
+{
+  "id": "1661e9af-59d1-45e5-9f56-25146cc02e61",
+  "object": "beer",
+  "name": "Ballantine IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

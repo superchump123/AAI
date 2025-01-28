@@ -1,0 +1,11 @@
+{
+  "id": "f203e778-d418-4461-99d8-e6ff70c534ce",
+  "object": "beer",
+  "name": "El Despierto Coffee Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

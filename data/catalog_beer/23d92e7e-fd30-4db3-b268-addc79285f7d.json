@@ -1,0 +1,11 @@
+{
+  "id": "23d92e7e-fd30-4db3-b268-addc79285f7d",
+  "object": "beer",
+  "name": "Legendberry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

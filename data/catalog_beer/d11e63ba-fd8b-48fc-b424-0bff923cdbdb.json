@@ -1,0 +1,11 @@
+{
+  "id": "d11e63ba-fd8b-48fc-b424-0bff923cdbdb",
+  "object": "beer",
+  "name": "Sixth On The Beach IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

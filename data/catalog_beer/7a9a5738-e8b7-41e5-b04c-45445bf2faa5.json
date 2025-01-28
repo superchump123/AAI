@@ -1,0 +1,11 @@
+{
+  "id": "7a9a5738-e8b7-41e5-b04c-45445bf2faa5",
+  "object": "beer",
+  "name": "Hasenpfeffer Oktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

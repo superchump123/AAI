@@ -1,0 +1,11 @@
+{
+  "id": "08fdad88-dc25-4fdf-8509-62cd82b2c655",
+  "object": "beer",
+  "name": "Ginger Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

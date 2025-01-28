@@ -1,0 +1,11 @@
+{
+  "id": "c00e2762-c4bd-446b-9ada-5d8f88dc72f5",
+  "object": "beer",
+  "name": "Alphadelic IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

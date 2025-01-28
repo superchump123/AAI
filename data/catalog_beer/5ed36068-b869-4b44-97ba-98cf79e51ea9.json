@@ -1,0 +1,11 @@
+{
+  "id": "5ed36068-b869-4b44-97ba-98cf79e51ea9",
+  "object": "beer",
+  "name": "Sticky Bee",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

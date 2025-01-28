@@ -1,0 +1,11 @@
+{
+  "id": "0294eac3-5cfe-4221-afe2-e5abfc598f1a",
+  "object": "beer",
+  "name": "Spring IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

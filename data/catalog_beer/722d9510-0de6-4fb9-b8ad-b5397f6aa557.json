@@ -1,0 +1,11 @@
+{
+  "id": "722d9510-0de6-4fb9-b8ad-b5397f6aa557",
+  "object": "beer",
+  "name": "Trailbreaker",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

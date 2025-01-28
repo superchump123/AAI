@@ -1,0 +1,11 @@
+{
+  "id": "d195f7c2-cfae-46c2-bfd3-6ea4d985af78",
+  "object": "beer",
+  "name": "Separation Anxiety",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

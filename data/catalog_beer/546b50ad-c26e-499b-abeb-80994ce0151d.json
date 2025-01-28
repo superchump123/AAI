@@ -1,0 +1,11 @@
+{
+  "id": "546b50ad-c26e-499b-abeb-80994ce0151d",
+  "object": "beer",
+  "name": "Pyramid Apricot Weizen",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7f7ab483-b0eb-4c97-be81-936c39c91898",
+  "object": "beer",
+  "name": "Earl Spit Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

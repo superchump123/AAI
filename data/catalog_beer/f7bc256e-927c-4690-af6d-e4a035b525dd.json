@@ -1,0 +1,11 @@
+{
+  "id": "f7bc256e-927c-4690-af6d-e4a035b525dd",
+  "object": "beer",
+  "name": "St. Benedict's Breakfast Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

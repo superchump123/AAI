@@ -1,0 +1,11 @@
+{
+  "id": "d7db2b27-14ad-43f2-b4bb-2b584d985674",
+  "object": "beer",
+  "name": "Crossbuck Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

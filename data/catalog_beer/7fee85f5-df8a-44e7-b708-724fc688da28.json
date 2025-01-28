@@ -1,0 +1,11 @@
+{
+  "id": "7fee85f5-df8a-44e7-b708-724fc688da28",
+  "object": "beer",
+  "name": "Motueka IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

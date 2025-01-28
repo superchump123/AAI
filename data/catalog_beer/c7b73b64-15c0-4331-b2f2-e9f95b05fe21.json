@@ -1,0 +1,11 @@
+{
+  "id": "c7b73b64-15c0-4331-b2f2-e9f95b05fe21",
+  "object": "beer",
+  "name": "Vohs Weizenbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

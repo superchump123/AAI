@@ -1,0 +1,11 @@
+{
+  "id": "241e37a6-3ab9-4396-a7ca-4268f05ddb8b",
+  "object": "beer",
+  "name": "Tripel Carmel-ite",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

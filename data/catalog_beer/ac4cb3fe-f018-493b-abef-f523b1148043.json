@@ -1,0 +1,11 @@
+{
+  "id": "ac4cb3fe-f018-493b-abef-f523b1148043",
+  "object": "beer",
+  "name": "Rusty Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

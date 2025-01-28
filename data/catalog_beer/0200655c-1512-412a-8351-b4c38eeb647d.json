@@ -1,0 +1,11 @@
+{
+  "id": "0200655c-1512-412a-8351-b4c38eeb647d",
+  "object": "beer",
+  "name": "Chocolate Stout",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

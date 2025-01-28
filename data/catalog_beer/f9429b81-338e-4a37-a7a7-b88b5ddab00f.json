@@ -1,0 +1,11 @@
+{
+  "id": "f9429b81-338e-4a37-a7a7-b88b5ddab00f",
+  "object": "beer",
+  "name": "Nigredo",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

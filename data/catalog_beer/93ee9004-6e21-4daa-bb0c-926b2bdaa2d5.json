@@ -1,0 +1,11 @@
+{
+  "id": "93ee9004-6e21-4daa-bb0c-926b2bdaa2d5",
+  "object": "beer",
+  "name": "Asgard IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

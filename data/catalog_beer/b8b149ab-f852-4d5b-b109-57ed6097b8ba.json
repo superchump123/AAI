@@ -1,0 +1,11 @@
+{
+  "id": "b8b149ab-f852-4d5b-b109-57ed6097b8ba",
+  "object": "beer",
+  "name": "Off Kilter 80",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

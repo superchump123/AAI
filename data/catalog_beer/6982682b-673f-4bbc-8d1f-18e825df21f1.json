@@ -1,0 +1,11 @@
+{
+  "id": "6982682b-673f-4bbc-8d1f-18e825df21f1",
+  "object": "beer",
+  "name": "Hopfenweisse",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

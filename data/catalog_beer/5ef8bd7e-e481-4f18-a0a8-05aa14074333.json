@@ -1,0 +1,11 @@
+{
+  "id": "5ef8bd7e-e481-4f18-a0a8-05aa14074333",
+  "object": "beer",
+  "name": "Samuel Adams Blackberry Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "01d8bd71-6806-40db-a8c2-99d2f4ce398c",
+  "object": "beer",
+  "name": "Cocoa Porter",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

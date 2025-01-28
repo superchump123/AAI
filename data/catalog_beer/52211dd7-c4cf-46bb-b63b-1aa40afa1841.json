@@ -1,0 +1,11 @@
+{
+  "id": "52211dd7-c4cf-46bb-b63b-1aa40afa1841",
+  "object": "beer",
+  "name": "Phantom",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

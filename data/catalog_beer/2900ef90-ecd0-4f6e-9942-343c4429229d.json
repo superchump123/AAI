@@ -1,0 +1,11 @@
+{
+  "id": "2900ef90-ecd0-4f6e-9942-343c4429229d",
+  "object": "beer",
+  "name": "Coffee Cult Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

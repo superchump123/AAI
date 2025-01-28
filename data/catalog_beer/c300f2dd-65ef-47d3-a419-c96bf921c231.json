@@ -1,0 +1,11 @@
+{
+  "id": "c300f2dd-65ef-47d3-a419-c96bf921c231",
+  "object": "beer",
+  "name": "Agnus Tripel Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 330,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

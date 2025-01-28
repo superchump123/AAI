@@ -1,0 +1,11 @@
+{
+  "id": "cf7c2b0c-974c-4ed3-bc47-a776338aba33",
+  "object": "beer",
+  "name": "Birra Moretti Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

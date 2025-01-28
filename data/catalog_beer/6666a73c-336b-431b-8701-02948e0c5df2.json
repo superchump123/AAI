@@ -1,0 +1,11 @@
+{
+  "id": "6666a73c-336b-431b-8701-02948e0c5df2",
+  "object": "beer",
+  "name": "Laura's Favorite Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

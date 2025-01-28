@@ -1,0 +1,11 @@
+{
+  "id": "2ccd3afb-1cdb-4644-9eff-66e87742dfd3",
+  "object": "beer",
+  "name": "Hop Spyder",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

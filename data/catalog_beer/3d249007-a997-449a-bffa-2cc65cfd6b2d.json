@@ -1,0 +1,11 @@
+{
+  "id": "3d249007-a997-449a-bffa-2cc65cfd6b2d",
+  "object": "beer",
+  "name": "Pikeland Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "255ccc13-3563-4ea7-bb7c-4e4aa50134e3",
+  "object": "beer",
+  "name": "Virginia Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

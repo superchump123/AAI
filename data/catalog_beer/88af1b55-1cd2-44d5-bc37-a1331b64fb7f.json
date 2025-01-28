@@ -1,0 +1,11 @@
+{
+  "id": "88af1b55-1cd2-44d5-bc37-a1331b64fb7f",
+  "object": "beer",
+  "name": "Waldo's Special Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

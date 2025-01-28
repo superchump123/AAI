@@ -1,0 +1,11 @@
+{
+  "id": "5275059a-a2bb-40cb-8ca6-d3cb1a76c1cb",
+  "object": "beer",
+  "name": "Abel Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

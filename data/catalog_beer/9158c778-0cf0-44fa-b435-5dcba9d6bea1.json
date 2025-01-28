@@ -1,0 +1,11 @@
+{
+  "id": "9158c778-0cf0-44fa-b435-5dcba9d6bea1",
+  "object": "beer",
+  "name": "Southern Exposure",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

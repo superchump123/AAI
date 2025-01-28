@@ -1,0 +1,11 @@
+{
+  "id": "a2dc2cea-8490-41f1-8d29-e41979b79b68",
+  "object": "beer",
+  "name": "Domhof Bockbier",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

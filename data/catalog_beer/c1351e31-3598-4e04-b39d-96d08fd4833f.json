@@ -1,0 +1,11 @@
+{
+  "id": "c1351e31-3598-4e04-b39d-96d08fd4833f",
+  "object": "beer",
+  "name": "Happy Friends",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

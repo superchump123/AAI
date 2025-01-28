@@ -1,0 +1,11 @@
+{
+  "id": "4e129fc5-c109-4878-bf04-f90ce7eb18f2",
+  "object": "beer",
+  "name": "Call it a Day Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

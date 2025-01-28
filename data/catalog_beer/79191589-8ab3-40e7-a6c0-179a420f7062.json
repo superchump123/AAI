@@ -1,0 +1,11 @@
+{
+  "id": "79191589-8ab3-40e7-a6c0-179a420f7062",
+  "object": "beer",
+  "name": "Pascua",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

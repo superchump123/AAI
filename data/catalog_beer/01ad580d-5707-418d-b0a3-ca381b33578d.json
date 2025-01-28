@@ -1,0 +1,11 @@
+{
+  "id": "01ad580d-5707-418d-b0a3-ca381b33578d",
+  "object": "beer",
+  "name": "Milk Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "413abec4-cb5d-48ed-8cfe-2203276ed3e0",
+  "object": "beer",
+  "name": "Tall Ship Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

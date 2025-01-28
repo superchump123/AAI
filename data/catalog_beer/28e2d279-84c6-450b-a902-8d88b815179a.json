@@ -1,0 +1,11 @@
+{
+  "id": "28e2d279-84c6-450b-a902-8d88b815179a",
+  "object": "beer",
+  "name": "Icebreaker",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

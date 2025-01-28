@@ -1,0 +1,11 @@
+{
+  "id": "8e44e644-cd2e-446d-b598-455eb316baa0",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

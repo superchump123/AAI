@@ -1,0 +1,11 @@
+{
+  "id": "c8c623b3-f114-44df-95fd-cebd5896a1a5",
+  "object": "beer",
+  "name": "Brown Coat Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

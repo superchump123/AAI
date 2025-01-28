@@ -1,0 +1,11 @@
+{
+  "id": "eaf6bc2e-8aab-41c2-a04f-32b82af0f829",
+  "object": "beer",
+  "name": "Sprye Spring",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

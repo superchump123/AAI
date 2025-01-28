@@ -1,0 +1,11 @@
+{
+  "id": "a59ec52b-0f82-45b8-b57d-ff6323a0b9e8",
+  "object": "beer",
+  "name": "Pudgy Possum Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

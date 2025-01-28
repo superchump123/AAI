@@ -1,0 +1,11 @@
+{
+  "id": "c8b34c0a-e435-442d-ad0d-0db5e22ee842",
+  "object": "beer",
+  "name": "Molten Mirrors",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

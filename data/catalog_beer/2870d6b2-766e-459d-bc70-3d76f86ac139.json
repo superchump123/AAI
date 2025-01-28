@@ -1,0 +1,11 @@
+{
+  "id": "2870d6b2-766e-459d-bc70-3d76f86ac139",
+  "object": "beer",
+  "name": "War",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

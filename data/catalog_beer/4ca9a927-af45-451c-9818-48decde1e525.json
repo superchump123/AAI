@@ -1,0 +1,11 @@
+{
+  "id": "4ca9a927-af45-451c-9818-48decde1e525",
+  "object": "beer",
+  "name": "Barrel Fermented Proto Gradus",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

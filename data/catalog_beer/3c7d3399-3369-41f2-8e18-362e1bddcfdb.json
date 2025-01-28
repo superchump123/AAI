@@ -1,0 +1,11 @@
+{
+  "id": "3c7d3399-3369-41f2-8e18-362e1bddcfdb",
+  "object": "beer",
+  "name": "Noctambulant",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

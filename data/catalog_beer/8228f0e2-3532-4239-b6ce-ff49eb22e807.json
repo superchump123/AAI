@@ -1,0 +1,11 @@
+{
+  "id": "8228f0e2-3532-4239-b6ce-ff49eb22e807",
+  "object": "beer",
+  "name": "Twenty Mile Rye Pale Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

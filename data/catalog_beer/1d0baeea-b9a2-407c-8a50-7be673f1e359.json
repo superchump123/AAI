@@ -1,0 +1,11 @@
+{
+  "id": "1d0baeea-b9a2-407c-8a50-7be673f1e359",
+  "object": "beer",
+  "name": "Belgium Amber Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

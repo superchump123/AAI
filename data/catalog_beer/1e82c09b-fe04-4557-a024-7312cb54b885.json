@@ -1,0 +1,11 @@
+{
+  "id": "1e82c09b-fe04-4557-a024-7312cb54b885",
+  "object": "beer",
+  "name": "The Witty Traveller",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de99b1b3-873f-42bf-959f-b201d717110e",
+  "object": "beer",
+  "name": "Toadally Tea",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "760ab37a-4600-4f59-a6ff-1eb9df4553d1",
+  "object": "beer",
+  "name": "Experimental IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

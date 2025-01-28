@@ -1,0 +1,11 @@
+{
+  "id": "36ae4fb8-bebe-46b2-89be-6c47eb2d3e06",
+  "object": "beer",
+  "name": "Sticky Flapjack",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d307c82e-c74c-41b9-b0f0-6a01087132e1",
+  "object": "beer",
+  "name": "Little Rogg Rye P.A.",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

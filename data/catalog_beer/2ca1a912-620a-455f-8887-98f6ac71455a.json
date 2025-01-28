@@ -1,0 +1,11 @@
+{
+  "id": "2ca1a912-620a-455f-8887-98f6ac71455a",
+  "object": "beer",
+  "name": "Lahnsteiner Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

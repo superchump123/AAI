@@ -1,0 +1,11 @@
+{
+  "id": "0c6e6abe-945f-4dc5-8b97-c392f40d7ad8",
+  "object": "beer",
+  "name": "Eeyore's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

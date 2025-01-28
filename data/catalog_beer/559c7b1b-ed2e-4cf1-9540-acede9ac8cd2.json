@@ -1,0 +1,11 @@
+{
+  "id": "559c7b1b-ed2e-4cf1-9540-acede9ac8cd2",
+  "object": "beer",
+  "name": "4.7% APR",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4806ff64-b484-4fa4-ad0e-7fc33489ba08",
+  "object": "beer",
+  "name": "Creedence Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

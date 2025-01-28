@@ -1,0 +1,11 @@
+{
+  "id": "8dc7fae2-6132-4274-b0ce-182cae2e4721",
+  "object": "beer",
+  "name": "Fiction",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

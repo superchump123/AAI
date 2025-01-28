@@ -1,0 +1,11 @@
+{
+  "id": "8ad01374-a131-4aa1-8a3d-373a50746c25",
+  "object": "beer",
+  "name": "Blow Your Face Out",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "452c20ac-5a3d-432d-98ab-5f08be7dd3ba",
+  "object": "beer",
+  "name": "Puget Sound Giant Hoptopus",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

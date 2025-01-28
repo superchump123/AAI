@@ -1,0 +1,11 @@
+{
+  "id": "2fea5b4d-7408-412f-a7c8-0ddd1f4a0123",
+  "object": "beer",
+  "name": "The Full Nelson",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

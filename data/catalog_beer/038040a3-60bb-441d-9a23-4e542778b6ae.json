@@ -1,0 +1,11 @@
+{
+  "id": "038040a3-60bb-441d-9a23-4e542778b6ae",
+  "object": "beer",
+  "name": "Arthur's Mild Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

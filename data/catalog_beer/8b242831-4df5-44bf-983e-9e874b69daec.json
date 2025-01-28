@@ -1,0 +1,11 @@
+{
+  "id": "8b242831-4df5-44bf-983e-9e874b69daec",
+  "object": "beer",
+  "name": "Seco Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "897d3047-2c43-472b-aa46-3fd4bb50eb46",
+  "object": "beer",
+  "name": "McGreagor Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

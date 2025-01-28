@@ -1,0 +1,11 @@
+{
+  "id": "baf50ae4-3418-4a91-a247-3fb7025f8546",
+  "object": "beer",
+  "name": "Benevolent Friend",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

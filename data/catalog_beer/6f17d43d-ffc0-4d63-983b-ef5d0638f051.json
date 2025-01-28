@@ -1,0 +1,11 @@
+{
+  "id": "6f17d43d-ffc0-4d63-983b-ef5d0638f051",
+  "object": "beer",
+  "name": "Gingerbread Nitro",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e79437d8-a3a9-4ed8-9f7b-2dafeab2d3a4",
+  "object": "beer",
+  "name": "Ale'Osaurus",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

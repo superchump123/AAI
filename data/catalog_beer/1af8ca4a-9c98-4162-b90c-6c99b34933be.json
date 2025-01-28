@@ -1,0 +1,11 @@
+{
+  "id": "1af8ca4a-9c98-4162-b90c-6c99b34933be",
+  "object": "beer",
+  "name": "Persistence",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

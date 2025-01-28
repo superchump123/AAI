@@ -1,0 +1,11 @@
+{
+  "id": "219c16fe-ac27-4878-9133-8bb299ba3600",
+  "object": "beer",
+  "name": "Traverse Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

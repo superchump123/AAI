@@ -1,0 +1,11 @@
+{
+  "id": "0cb51803-472b-4f83-a7aa-e9685fa7b542",
+  "object": "beer",
+  "name": "Whale's Tale Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

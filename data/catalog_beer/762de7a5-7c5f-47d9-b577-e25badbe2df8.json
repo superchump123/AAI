@@ -1,0 +1,11 @@
+{
+  "id": "762de7a5-7c5f-47d9-b577-e25badbe2df8",
+  "object": "beer",
+  "name": "Double Mocha Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5271a7e5-6da0-4d56-9e1b-e778062940a1",
+  "object": "beer",
+  "name": "Great Raft Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

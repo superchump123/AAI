@@ -1,0 +1,11 @@
+{
+  "id": "3aa0bfc0-11fd-4f3c-a850-29946407e503",
+  "object": "beer",
+  "name": "Golden Strong Ale",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1fdbef9f-7d7a-40ff-9c8e-6c173e217da5",
+  "object": "beer",
+  "name": "Long Johns On",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

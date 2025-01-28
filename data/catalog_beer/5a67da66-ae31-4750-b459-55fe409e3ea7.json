@@ -1,0 +1,11 @@
+{
+  "id": "5a67da66-ae31-4750-b459-55fe409e3ea7",
+  "object": "beer",
+  "name": "Low Gear",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

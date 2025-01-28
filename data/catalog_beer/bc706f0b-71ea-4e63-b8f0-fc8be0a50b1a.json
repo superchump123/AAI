@@ -1,0 +1,11 @@
+{
+  "id": "bc706f0b-71ea-4e63-b8f0-fc8be0a50b1a",
+  "object": "beer",
+  "name": "Girl Beer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

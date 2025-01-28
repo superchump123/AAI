@@ -1,0 +1,11 @@
+{
+  "id": "bbb8914a-37df-4cae-971a-1ed9562a0444",
+  "object": "beer",
+  "name": "Paddleboard Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

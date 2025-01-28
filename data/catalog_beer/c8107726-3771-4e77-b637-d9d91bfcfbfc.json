@@ -1,0 +1,11 @@
+{
+  "id": "c8107726-3771-4e77-b637-d9d91bfcfbfc",
+  "object": "beer",
+  "name": "Fall Line Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

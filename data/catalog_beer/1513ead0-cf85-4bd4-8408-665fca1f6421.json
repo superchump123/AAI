@@ -1,0 +1,11 @@
+{
+  "id": "1513ead0-cf85-4bd4-8408-665fca1f6421",
+  "object": "beer",
+  "name": "Maduro",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

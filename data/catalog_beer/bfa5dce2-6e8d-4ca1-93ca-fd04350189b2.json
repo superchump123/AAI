@@ -1,0 +1,11 @@
+{
+  "id": "bfa5dce2-6e8d-4ca1-93ca-fd04350189b2",
+  "object": "beer",
+  "name": "Hands Off Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

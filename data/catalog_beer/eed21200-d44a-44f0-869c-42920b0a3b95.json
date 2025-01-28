@@ -1,0 +1,11 @@
+{
+  "id": "eed21200-d44a-44f0-869c-42920b0a3b95",
+  "object": "beer",
+  "name": "ExSB Experimental Special Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

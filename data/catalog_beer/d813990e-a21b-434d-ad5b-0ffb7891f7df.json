@@ -1,0 +1,11 @@
+{
+  "id": "d813990e-a21b-434d-ad5b-0ffb7891f7df",
+  "object": "beer",
+  "name": "Acoustic Blondie",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

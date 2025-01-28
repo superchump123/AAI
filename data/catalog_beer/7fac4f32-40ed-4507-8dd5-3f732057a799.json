@@ -1,0 +1,11 @@
+{
+  "id": "7fac4f32-40ed-4507-8dd5-3f732057a799",
+  "object": "beer",
+  "name": "Caribbean Queen",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

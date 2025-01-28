@@ -1,0 +1,11 @@
+{
+  "id": "5f54ee57-c3cf-41a0-9cbd-de86018e3bf1",
+  "object": "beer",
+  "name": "Altbairisch Dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "38359f06-0040-436e-a218-5d5936e443fd",
+  "object": "beer",
+  "name": "Grolsch Amber Ale",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

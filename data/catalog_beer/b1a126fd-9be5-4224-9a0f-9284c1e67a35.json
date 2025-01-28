@@ -1,0 +1,11 @@
+{
+  "id": "b1a126fd-9be5-4224-9a0f-9284c1e67a35",
+  "object": "beer",
+  "name": "Prime Meridian India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

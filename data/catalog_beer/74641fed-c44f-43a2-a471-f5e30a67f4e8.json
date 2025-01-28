@@ -1,0 +1,11 @@
+{
+  "id": "74641fed-c44f-43a2-a471-f5e30a67f4e8",
+  "object": "beer",
+  "name": "Saison L'Hiver",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

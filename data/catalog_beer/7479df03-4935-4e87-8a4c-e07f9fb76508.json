@@ -1,0 +1,11 @@
+{
+  "id": "7479df03-4935-4e87-8a4c-e07f9fb76508",
+  "object": "beer",
+  "name": "Dragons Breath",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

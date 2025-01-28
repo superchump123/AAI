@@ -1,0 +1,11 @@
+{
+  "id": "557cd085-138c-41a1-8cc9-7e0acdc3c204",
+  "object": "beer",
+  "name": "BAZINGA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fb7cb8e4-665a-40e5-917b-969a04de6f8e",
+  "object": "beer",
+  "name": "Lillian Pears",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

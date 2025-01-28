@@ -1,0 +1,11 @@
+{
+  "id": "cfb0f16a-00cd-456d-a21c-221be31ef3ed",
+  "object": "beer",
+  "name": "Illumination",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

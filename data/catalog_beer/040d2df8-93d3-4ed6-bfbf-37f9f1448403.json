@@ -1,0 +1,11 @@
+{
+  "id": "040d2df8-93d3-4ed6-bfbf-37f9f1448403",
+  "object": "beer",
+  "name": "Summer Crush",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

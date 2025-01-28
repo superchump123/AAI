@@ -1,0 +1,11 @@
+{
+  "id": "e69919d4-0665-401e-91e3-692769f498fb",
+  "object": "beer",
+  "name": "Excelsior! Le Bleu",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

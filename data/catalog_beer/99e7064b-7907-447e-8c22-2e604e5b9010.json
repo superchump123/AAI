@@ -1,0 +1,11 @@
+{
+  "id": "99e7064b-7907-447e-8c22-2e604e5b9010",
+  "object": "beer",
+  "name": "Big Man IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

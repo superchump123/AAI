@@ -1,0 +1,11 @@
+{
+  "id": "754183a4-60a6-4260-b941-a23205aa3573",
+  "object": "beer",
+  "name": "White Nitro Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

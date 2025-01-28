@@ -1,0 +1,11 @@
+{
+  "id": "9bdc6850-7be1-4dc0-b85e-083a73d6f8aa",
+  "object": "beer",
+  "name": "Shade Grown Coffee Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

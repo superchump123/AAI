@@ -1,0 +1,11 @@
+{
+  "id": "25692ec5-f1a5-4b27-bec3-dbe36468b1bc",
+  "object": "beer",
+  "name": "Schooner Pale Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

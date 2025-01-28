@@ -1,0 +1,11 @@
+{
+  "id": "de0ce316-a780-460a-9e50-95afc0f87e51",
+  "object": "beer",
+  "name": "Coolship Blonde",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

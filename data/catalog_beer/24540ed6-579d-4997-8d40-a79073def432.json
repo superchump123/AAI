@@ -1,0 +1,11 @@
+{
+  "id": "24540ed6-579d-4997-8d40-a79073def432",
+  "object": "beer",
+  "name": "Bourbon Barrel 4D",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

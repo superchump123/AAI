@@ -1,0 +1,11 @@
+{
+  "id": "acd340e5-cab8-4a4c-a1c7-122e314b9ca4",
+  "object": "beer",
+  "name": "Arbalest",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e79672e9-47c6-4fb2-90df-14b1cf13c510",
+  "object": "beer",
+  "name": "Festivus",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

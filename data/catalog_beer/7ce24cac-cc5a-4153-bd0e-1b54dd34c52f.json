@@ -1,0 +1,11 @@
+{
+  "id": "7ce24cac-cc5a-4153-bd0e-1b54dd34c52f",
+  "object": "beer",
+  "name": "Imperial Milk Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12.3,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

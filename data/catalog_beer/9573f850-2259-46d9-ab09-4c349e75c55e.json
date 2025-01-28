@@ -1,0 +1,11 @@
+{
+  "id": "9573f850-2259-46d9-ab09-4c349e75c55e",
+  "object": "beer",
+  "name": "Hiverna",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

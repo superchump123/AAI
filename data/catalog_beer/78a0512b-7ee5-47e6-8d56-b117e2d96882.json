@@ -1,0 +1,11 @@
+{
+  "id": "78a0512b-7ee5-47e6-8d56-b117e2d96882",
+  "object": "beer",
+  "name": "Taiwan Beer Mango",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

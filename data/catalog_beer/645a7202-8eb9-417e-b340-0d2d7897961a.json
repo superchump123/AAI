@@ -1,0 +1,11 @@
+{
+  "id": "645a7202-8eb9-417e-b340-0d2d7897961a",
+  "object": "beer",
+  "name": "Kid Casual",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

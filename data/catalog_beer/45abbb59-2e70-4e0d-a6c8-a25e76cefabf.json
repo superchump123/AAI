@@ -1,0 +1,11 @@
+{
+  "id": "45abbb59-2e70-4e0d-a6c8-a25e76cefabf",
+  "object": "beer",
+  "name": "Rogue Toaster",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

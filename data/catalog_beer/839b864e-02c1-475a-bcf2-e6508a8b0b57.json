@@ -1,0 +1,11 @@
+{
+  "id": "839b864e-02c1-475a-bcf2-e6508a8b0b57",
+  "object": "beer",
+  "name": "Pacific Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

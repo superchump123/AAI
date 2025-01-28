@@ -1,0 +1,11 @@
+{
+  "id": "21a1f385-8f94-4db1-9820-4c90b7961528",
+  "object": "beer",
+  "name": "Arctic Panzer Wolf",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

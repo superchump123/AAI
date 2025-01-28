@@ -1,0 +1,11 @@
+{
+  "id": "eea7e3da-2f56-4cd6-b2fe-697783b965fb",
+  "object": "beer",
+  "name": "Dutch Hammer",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

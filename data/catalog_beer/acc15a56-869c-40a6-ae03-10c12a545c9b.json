@@ -1,0 +1,11 @@
+{
+  "id": "acc15a56-869c-40a6-ae03-10c12a545c9b",
+  "object": "beer",
+  "name": "NomaCloud TIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

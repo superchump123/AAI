@@ -1,0 +1,11 @@
+{
+  "id": "38b28e81-360c-42ea-a4e5-d626a3eb0de4",
+  "object": "beer",
+  "name": "Dark Lord",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 15,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

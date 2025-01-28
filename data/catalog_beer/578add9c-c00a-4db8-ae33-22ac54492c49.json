@@ -1,0 +1,11 @@
+{
+  "id": "578add9c-c00a-4db8-ae33-22ac54492c49",
+  "object": "beer",
+  "name": "Dachsenfranz Weihnachtsbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

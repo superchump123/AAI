@@ -1,0 +1,11 @@
+{
+  "id": "ea67acd1-2f34-4ea9-9097-ec1d5d9c114f",
+  "object": "beer",
+  "name": "Boxcar Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

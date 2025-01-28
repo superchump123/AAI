@@ -1,0 +1,11 @@
+{
+  "id": "478f3de2-27f0-4b1c-8935-af975a88f1a5",
+  "object": "beer",
+  "name": "Lactobac Three",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

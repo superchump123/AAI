@@ -1,0 +1,11 @@
+{
+  "id": "8c399816-5ba7-41cc-b4eb-8e5e165b2ba4",
+  "object": "beer",
+  "name": "Operation Quicksilver",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

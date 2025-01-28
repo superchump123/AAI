@@ -1,0 +1,11 @@
+{
+  "id": "d870ca4c-fabf-428b-969e-0b83274659db",
+  "object": "beer",
+  "name": "Odyssey of Oddities",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

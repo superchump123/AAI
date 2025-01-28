@@ -1,0 +1,11 @@
+{
+  "id": "207989f2-642a-4c3a-8e01-84cb44ff7e80",
+  "object": "beer",
+  "name": "Hopivore",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

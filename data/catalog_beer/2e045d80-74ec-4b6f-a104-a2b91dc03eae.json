@@ -1,0 +1,11 @@
+{
+  "id": "2e045d80-74ec-4b6f-a104-a2b91dc03eae",
+  "object": "beer",
+  "name": "Citron noir",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

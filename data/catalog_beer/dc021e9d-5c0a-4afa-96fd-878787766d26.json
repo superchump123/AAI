@@ -1,0 +1,11 @@
+{
+  "id": "dc021e9d-5c0a-4afa-96fd-878787766d26",
+  "object": "beer",
+  "name": "Lucky Stone",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

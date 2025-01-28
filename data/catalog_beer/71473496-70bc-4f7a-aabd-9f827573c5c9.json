@@ -1,0 +1,11 @@
+{
+  "id": "71473496-70bc-4f7a-aabd-9f827573c5c9",
+  "object": "beer",
+  "name": "Western Automatic",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

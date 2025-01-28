@@ -1,0 +1,11 @@
+{
+  "id": "766a0bec-7022-4b2c-9cc0-dc0b7d77c16c",
+  "object": "beer",
+  "name": "Brute Force",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

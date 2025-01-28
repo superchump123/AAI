@@ -1,0 +1,11 @@
+{
+  "id": "5bc55cf0-6e97-44a7-ab34-4df624d6b5c3",
+  "object": "beer",
+  "name": "Turn It On IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

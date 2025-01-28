@@ -1,0 +1,11 @@
+{
+  "id": "b2d2cb5c-f5c4-495b-b6de-8c8705f23c42",
+  "object": "beer",
+  "name": "Set Sail",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c60f846e-1b75-4f55-ad5d-2c7c943903db",
+  "object": "beer",
+  "name": "Armand & Gaston",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

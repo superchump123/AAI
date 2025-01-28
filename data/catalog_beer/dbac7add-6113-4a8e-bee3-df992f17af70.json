@@ -1,0 +1,11 @@
+{
+  "id": "dbac7add-6113-4a8e-bee3-df992f17af70",
+  "object": "beer",
+  "name": "Pursuit of Hoppiness",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

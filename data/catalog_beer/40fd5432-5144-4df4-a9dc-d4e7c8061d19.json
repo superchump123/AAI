@@ -1,0 +1,11 @@
+{
+  "id": "40fd5432-5144-4df4-a9dc-d4e7c8061d19",
+  "object": "beer",
+  "name": "Raked Over Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

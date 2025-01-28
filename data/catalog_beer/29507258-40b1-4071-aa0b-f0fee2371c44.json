@@ -1,0 +1,11 @@
+{
+  "id": "29507258-40b1-4071-aa0b-f0fee2371c44",
+  "object": "beer",
+  "name": "Heliostat",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

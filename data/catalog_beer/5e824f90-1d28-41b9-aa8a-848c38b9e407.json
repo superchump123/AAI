@@ -1,0 +1,11 @@
+{
+  "id": "5e824f90-1d28-41b9-aa8a-848c38b9e407",
+  "object": "beer",
+  "name": "Councill's Store Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

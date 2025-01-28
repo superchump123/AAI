@@ -1,0 +1,11 @@
+{
+  "id": "4e1df4a2-12d1-4735-a9a6-64e4b8d2fec5",
+  "object": "beer",
+  "name": "Lincoln Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

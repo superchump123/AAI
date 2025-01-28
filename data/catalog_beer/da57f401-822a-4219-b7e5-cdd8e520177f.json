@@ -1,0 +1,11 @@
+{
+  "id": "da57f401-822a-4219-b7e5-cdd8e520177f",
+  "object": "beer",
+  "name": "Monk & Honey",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

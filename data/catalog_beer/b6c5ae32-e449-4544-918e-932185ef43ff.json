@@ -1,0 +1,11 @@
+{
+  "id": "b6c5ae32-e449-4544-918e-932185ef43ff",
+  "object": "beer",
+  "name": "Wassail Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

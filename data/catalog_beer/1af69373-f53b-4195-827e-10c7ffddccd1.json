@@ -1,0 +1,11 @@
+{
+  "id": "1af69373-f53b-4195-827e-10c7ffddccd1",
+  "object": "beer",
+  "name": "Sanctus Nicolaus",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 13.9,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

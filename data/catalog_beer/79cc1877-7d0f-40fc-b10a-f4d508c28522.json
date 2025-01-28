@@ -1,0 +1,11 @@
+{
+  "id": "79cc1877-7d0f-40fc-b10a-f4d508c28522",
+  "object": "beer",
+  "name": "Alpha Dog",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0a3e0e04-ea1f-4126-bf49-dbef142e9c23",
+  "object": "beer",
+  "name": "Wet Hop",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "86908eea-8528-4c8c-b683-a3f68322674d",
+  "object": "beer",
+  "name": "Sam's Strawberry Shortcake",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

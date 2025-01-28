@@ -1,0 +1,11 @@
+{
+  "id": "725d33db-04db-4cdb-8741-06bc096794ec",
+  "object": "beer",
+  "name": "Scooter",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d9e77aeb-56e6-445e-9d4a-fbb1e0504fea",
+  "object": "beer",
+  "name": "Giant Juicebox",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

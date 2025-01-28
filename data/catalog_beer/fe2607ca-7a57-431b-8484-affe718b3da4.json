@@ -1,0 +1,11 @@
+{
+  "id": "fe2607ca-7a57-431b-8484-affe718b3da4",
+  "object": "beer",
+  "name": "Big Bad Plaid Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

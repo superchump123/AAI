@@ -1,0 +1,11 @@
+{
+  "id": "40096b48-fcbe-44be-b35d-5b1e6156c293",
+  "object": "beer",
+  "name": "OSO-LICIOUS PORTER",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

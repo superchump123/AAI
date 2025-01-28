@@ -1,0 +1,11 @@
+{
+  "id": "c1302250-8be6-4a41-9d05-6e14fd084af7",
+  "object": "beer",
+  "name": "Quintaceratops",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

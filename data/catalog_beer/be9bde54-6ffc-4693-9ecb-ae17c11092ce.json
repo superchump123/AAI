@@ -1,0 +1,11 @@
+{
+  "id": "be9bde54-6ffc-4693-9ecb-ae17c11092ce",
+  "object": "beer",
+  "name": "Love Rock",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de457d02-7d34-45e6-a672-3b162f419c8c",
+  "object": "beer",
+  "name": "Saison Vert",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

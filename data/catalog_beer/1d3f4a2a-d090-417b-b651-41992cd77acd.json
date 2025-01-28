@@ -1,0 +1,11 @@
+{
+  "id": "1d3f4a2a-d090-417b-b651-41992cd77acd",
+  "object": "beer",
+  "name": "Tail Whip",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

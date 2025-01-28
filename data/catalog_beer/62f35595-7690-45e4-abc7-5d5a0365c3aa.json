@@ -1,0 +1,11 @@
+{
+  "id": "62f35595-7690-45e4-abc7-5d5a0365c3aa",
+  "object": "beer",
+  "name": "Kama Citra IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

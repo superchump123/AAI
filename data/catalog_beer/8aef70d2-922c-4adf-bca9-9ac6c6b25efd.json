@@ -1,0 +1,11 @@
+{
+  "id": "8aef70d2-922c-4adf-bca9-9ac6c6b25efd",
+  "object": "beer",
+  "name": "JunIPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

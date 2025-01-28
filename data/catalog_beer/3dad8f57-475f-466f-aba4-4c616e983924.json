@@ -1,0 +1,11 @@
+{
+  "id": "3dad8f57-475f-466f-aba4-4c616e983924",
+  "object": "beer",
+  "name": "English Dry",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

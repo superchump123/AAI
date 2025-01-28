@@ -1,0 +1,11 @@
+{
+  "id": "a0b0a2df-6192-42e2-a6e3-b826712c7996",
+  "object": "beer",
+  "name": "Flipside Red IPA",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

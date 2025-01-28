@@ -1,0 +1,11 @@
+{
+  "id": "609bfc8e-f7f0-4bf1-a00e-63055052b4d0",
+  "object": "beer",
+  "name": "Sick Day IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

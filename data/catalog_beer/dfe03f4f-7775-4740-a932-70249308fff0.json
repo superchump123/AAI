@@ -1,0 +1,11 @@
+{
+  "id": "dfe03f4f-7775-4740-a932-70249308fff0",
+  "object": "beer",
+  "name": "Hop Noir",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

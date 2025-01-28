@@ -1,0 +1,11 @@
+{
+  "id": "d01fdb67-59c6-477f-a7a7-6b9ea148bc6d",
+  "object": "beer",
+  "name": "Half Acre Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

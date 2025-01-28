@@ -1,0 +1,11 @@
+{
+  "id": "09d438ce-eede-464b-8c73-e1937e83df3a",
+  "object": "beer",
+  "name": "Wild Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

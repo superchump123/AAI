@@ -1,0 +1,11 @@
+{
+  "id": "b40c9793-192f-4cf4-968a-6bf5d86a0dc8",
+  "object": "beer",
+  "name": "Rare Oak Pale Ale",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

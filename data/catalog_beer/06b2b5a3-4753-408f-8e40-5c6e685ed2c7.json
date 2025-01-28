@@ -1,0 +1,11 @@
+{
+  "id": "06b2b5a3-4753-408f-8e40-5c6e685ed2c7",
+  "object": "beer",
+  "name": "24 Karat Gold Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

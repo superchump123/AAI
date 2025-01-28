@@ -1,0 +1,11 @@
+{
+  "id": "82657e19-48ac-453f-95bb-77dde581560b",
+  "object": "beer",
+  "name": "Mexican IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

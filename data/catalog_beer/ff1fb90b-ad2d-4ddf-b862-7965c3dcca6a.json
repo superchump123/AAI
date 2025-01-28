@@ -1,0 +1,11 @@
+{
+  "id": "ff1fb90b-ad2d-4ddf-b862-7965c3dcca6a",
+  "object": "beer",
+  "name": "Enlightenment Brut",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

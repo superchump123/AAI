@@ -1,0 +1,11 @@
+{
+  "id": "841cae00-ec2a-4999-a27b-867276ec3fd5",
+  "object": "beer",
+  "name": "Twisted Bit",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

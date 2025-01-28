@@ -1,0 +1,11 @@
+{
+  "id": "8fa468b4-0c52-474d-8601-373019124845",
+  "object": "beer",
+  "name": "Bosch Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

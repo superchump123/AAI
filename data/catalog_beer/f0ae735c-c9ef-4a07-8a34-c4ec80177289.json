@@ -1,0 +1,11 @@
+{
+  "id": "f0ae735c-c9ef-4a07-8a34-c4ec80177289",
+  "object": "beer",
+  "name": "Wittinger 1429-Das Original",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

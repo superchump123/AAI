@@ -1,0 +1,11 @@
+{
+  "id": "44dc9ff4-43e0-4040-841a-1508d3b62568",
+  "object": "beer",
+  "name": "Honey Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

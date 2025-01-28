@@ -1,0 +1,11 @@
+{
+  "id": "6b46c41f-eb0f-4047-ad4d-ed1adb57a01e",
+  "object": "beer",
+  "name": "Olde Fort",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

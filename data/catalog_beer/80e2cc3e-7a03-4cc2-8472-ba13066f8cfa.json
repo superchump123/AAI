@@ -1,0 +1,11 @@
+{
+  "id": "80e2cc3e-7a03-4cc2-8472-ba13066f8cfa",
+  "object": "beer",
+  "name": "American Bitter Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

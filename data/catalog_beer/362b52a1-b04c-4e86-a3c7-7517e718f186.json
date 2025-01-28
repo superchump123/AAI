@@ -1,0 +1,11 @@
+{
+  "id": "362b52a1-b04c-4e86-a3c7-7517e718f186",
+  "object": "beer",
+  "name": "Edge City Small Beer",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

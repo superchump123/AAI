@@ -1,0 +1,11 @@
+{
+  "id": "cef02dc7-5d1c-4ffc-b04a-3604555c7faf",
+  "object": "beer",
+  "name": "Bridal Ale",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

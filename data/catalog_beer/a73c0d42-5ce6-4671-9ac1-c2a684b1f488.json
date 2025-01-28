@@ -1,0 +1,11 @@
+{
+  "id": "a73c0d42-5ce6-4671-9ac1-c2a684b1f488",
+  "object": "beer",
+  "name": "Personas",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

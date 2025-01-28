@@ -1,0 +1,11 @@
+{
+  "id": "834235fa-2c26-4ed7-b6ff-e342735820f8",
+  "object": "beer",
+  "name": "The Cherry Bohemian",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

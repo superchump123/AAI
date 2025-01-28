@@ -1,0 +1,11 @@
+{
+  "id": "16dd7b36-2a1e-41b5-9fa2-35aa8ef38baa",
+  "object": "beer",
+  "name": "Brother Aaron's Quadrupel",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

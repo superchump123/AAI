@@ -1,0 +1,11 @@
+{
+  "id": "aba264db-1c0e-4c40-b5e6-f9c616ceff18",
+  "object": "beer",
+  "name": "Doo-Wop Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "97d82a91-4bfc-4e55-9491-7e48b3dc6b74",
+  "object": "beer",
+  "name": "Shoofly Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

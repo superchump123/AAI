@@ -1,0 +1,11 @@
+{
+  "id": "0bf8c9fd-2a9d-457b-8c43-27a3886236d4",
+  "object": "beer",
+  "name": "Double India Pale Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

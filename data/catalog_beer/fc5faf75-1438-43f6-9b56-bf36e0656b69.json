@@ -1,0 +1,11 @@
+{
+  "id": "fc5faf75-1438-43f6-9b56-bf36e0656b69",
+  "object": "beer",
+  "name": "Seagram's Escapes Wild Berries",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

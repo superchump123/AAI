@@ -1,0 +1,11 @@
+{
+  "id": "1bbcc280-b4bd-4a98-8eb3-a1fea344c8c1",
+  "object": "beer",
+  "name": "Schadenfreude Pumpkin Oktoberfest",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7d008f03-a122-4112-9b06-d5e4ff64281c",
+  "object": "beer",
+  "name": "Dunkelweisse",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

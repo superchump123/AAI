@@ -1,0 +1,11 @@
+{
+  "id": "7c826b03-f581-456e-877a-5b7eae3119e4",
+  "object": "beer",
+  "name": "No Joka Mocha",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

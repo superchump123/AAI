@@ -1,0 +1,11 @@
+{
+  "id": "eec06a79-74df-48bd-850f-5b996a1caa44",
+  "object": "beer",
+  "name": "Hell Bay Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

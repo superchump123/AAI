@@ -1,0 +1,11 @@
+{
+  "id": "2baa26af-048b-47e2-9a1d-a11621aa25fa",
+  "object": "beer",
+  "name": "Manghost",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

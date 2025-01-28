@@ -1,0 +1,11 @@
+{
+  "id": "f0b7823c-fd77-445e-bb5f-e4d58591747c",
+  "object": "beer",
+  "name": "XOCO",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4dab01e1-6fa6-4f47-b692-4ce44a51cdf8",
+  "object": "beer",
+  "name": "Brahma Light",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

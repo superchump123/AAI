@@ -1,0 +1,11 @@
+{
+  "id": "e083350e-bb91-488d-a6e4-60d07a545030",
+  "object": "beer",
+  "name": "Festbier",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

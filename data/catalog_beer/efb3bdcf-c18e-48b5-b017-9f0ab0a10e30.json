@@ -1,0 +1,11 @@
+{
+  "id": "efb3bdcf-c18e-48b5-b017-9f0ab0a10e30",
+  "object": "beer",
+  "name": "Happy Chappy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

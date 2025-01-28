@@ -1,0 +1,11 @@
+{
+  "id": "1de0eae1-94d5-48be-a019-dff9735dd1d5",
+  "object": "beer",
+  "name": "KBB American IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

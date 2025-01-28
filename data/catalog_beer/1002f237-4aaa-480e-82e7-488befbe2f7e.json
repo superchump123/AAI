@@ -1,0 +1,11 @@
+{
+  "id": "1002f237-4aaa-480e-82e7-488befbe2f7e",
+  "object": "beer",
+  "name": "Blood Orange Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

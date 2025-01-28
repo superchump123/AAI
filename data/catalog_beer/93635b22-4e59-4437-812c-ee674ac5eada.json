@@ -1,0 +1,11 @@
+{
+  "id": "93635b22-4e59-4437-812c-ee674ac5eada",
+  "object": "beer",
+  "name": "Terminator Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

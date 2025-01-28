@@ -1,0 +1,11 @@
+{
+  "id": "30ec3349-bbfa-4f4f-ba6c-abd01e9f2e8f",
+  "object": "beer",
+  "name": "Chipotle Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

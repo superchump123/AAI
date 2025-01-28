@@ -1,0 +1,11 @@
+{
+  "id": "c0402bb5-8730-4500-9914-5fd8f5e157e3",
+  "object": "beer",
+  "name": "Progenitor",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

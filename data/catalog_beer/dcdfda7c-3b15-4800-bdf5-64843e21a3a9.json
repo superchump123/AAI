@@ -1,0 +1,11 @@
+{
+  "id": "dcdfda7c-3b15-4800-bdf5-64843e21a3a9",
+  "object": "beer",
+  "name": "Winter Mingle",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

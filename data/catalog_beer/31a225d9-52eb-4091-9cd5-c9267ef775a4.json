@@ -1,0 +1,11 @@
+{
+  "id": "31a225d9-52eb-4091-9cd5-c9267ef775a4",
+  "object": "beer",
+  "name": "Hop Culture",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

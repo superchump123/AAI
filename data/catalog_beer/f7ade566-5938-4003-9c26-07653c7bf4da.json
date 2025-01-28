@@ -1,0 +1,11 @@
+{
+  "id": "f7ade566-5938-4003-9c26-07653c7bf4da",
+  "object": "beer",
+  "name": "Syd Strongs",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

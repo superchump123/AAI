@@ -1,0 +1,11 @@
+{
+  "id": "01c93d8a-38ef-4780-aca6-a42a88ff1669",
+  "object": "beer",
+  "name": "Lil Timmy",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

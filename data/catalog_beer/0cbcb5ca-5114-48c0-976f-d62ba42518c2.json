@@ -1,0 +1,11 @@
+{
+  "id": "0cbcb5ca-5114-48c0-976f-d62ba42518c2",
+  "object": "beer",
+  "name": "Majestic",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

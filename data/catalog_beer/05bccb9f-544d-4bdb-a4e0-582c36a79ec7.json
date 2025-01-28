@@ -1,0 +1,11 @@
+{
+  "id": "05bccb9f-544d-4bdb-a4e0-582c36a79ec7",
+  "object": "beer",
+  "name": "Daddy's Juice Session IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

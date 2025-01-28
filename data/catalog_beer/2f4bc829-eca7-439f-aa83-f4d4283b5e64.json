@@ -1,0 +1,11 @@
+{
+  "id": "2f4bc829-eca7-439f-aa83-f4d4283b5e64",
+  "object": "beer",
+  "name": "Milly's Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

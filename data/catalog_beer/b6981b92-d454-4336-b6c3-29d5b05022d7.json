@@ -1,0 +1,11 @@
+{
+  "id": "b6981b92-d454-4336-b6c3-29d5b05022d7",
+  "object": "beer",
+  "name": "Stoney MacGuyver",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

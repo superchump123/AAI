@@ -1,0 +1,11 @@
+{
+  "id": "b5bf8256-5271-4f65-85ae-d6dec7c06c24",
+  "object": "beer",
+  "name": "La Vermontoise",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

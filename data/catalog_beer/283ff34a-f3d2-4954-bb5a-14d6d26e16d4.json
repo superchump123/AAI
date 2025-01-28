@@ -1,0 +1,11 @@
+{
+  "id": "283ff34a-f3d2-4954-bb5a-14d6d26e16d4",
+  "object": "beer",
+  "name": "English Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

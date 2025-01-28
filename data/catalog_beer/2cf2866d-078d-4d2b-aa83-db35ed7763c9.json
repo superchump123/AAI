@@ -1,0 +1,11 @@
+{
+  "id": "2cf2866d-078d-4d2b-aa83-db35ed7763c9",
+  "object": "beer",
+  "name": "Oud School",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

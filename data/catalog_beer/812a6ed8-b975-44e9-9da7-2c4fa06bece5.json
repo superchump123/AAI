@@ -1,0 +1,11 @@
+{
+  "id": "812a6ed8-b975-44e9-9da7-2c4fa06bece5",
+  "object": "beer",
+  "name": "Crazy Mountain Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

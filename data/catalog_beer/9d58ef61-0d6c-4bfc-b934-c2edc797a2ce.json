@@ -1,0 +1,11 @@
+{
+  "id": "9d58ef61-0d6c-4bfc-b934-c2edc797a2ce",
+  "object": "beer",
+  "name": "Saison 484",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

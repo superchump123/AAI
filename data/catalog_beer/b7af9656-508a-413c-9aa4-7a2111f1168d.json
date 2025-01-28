@@ -1,0 +1,11 @@
+{
+  "id": "b7af9656-508a-413c-9aa4-7a2111f1168d",
+  "object": "beer",
+  "name": "Immortal Jelly",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

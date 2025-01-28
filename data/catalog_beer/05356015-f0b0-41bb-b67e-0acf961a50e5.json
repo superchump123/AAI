@@ -1,0 +1,11 @@
+{
+  "id": "05356015-f0b0-41bb-b67e-0acf961a50e5",
+  "object": "beer",
+  "name": "JAKRabbit IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

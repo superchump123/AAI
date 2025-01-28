@@ -1,0 +1,11 @@
+{
+  "id": "83b2cc66-1107-432c-8256-d45ad1c336df",
+  "object": "beer",
+  "name": "Ale Wagger Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

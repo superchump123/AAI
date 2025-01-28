@@ -1,0 +1,11 @@
+{
+  "id": "fa1ae851-8ea1-4d4d-aa0e-b288e22cd280",
+  "object": "beer",
+  "name": "Beast of Laureys",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

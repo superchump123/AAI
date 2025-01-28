@@ -1,0 +1,11 @@
+{
+  "id": "c5cfd07e-0cb1-4c78-a27c-e8f3cf20e79b",
+  "object": "beer",
+  "name": "Discord",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

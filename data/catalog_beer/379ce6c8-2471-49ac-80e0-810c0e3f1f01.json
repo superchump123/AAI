@@ -1,0 +1,11 @@
+{
+  "id": "379ce6c8-2471-49ac-80e0-810c0e3f1f01",
+  "object": "beer",
+  "name": "Gunner's Daughter",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1ad2bdc0-2235-403b-9056-9f433d9df712",
+  "object": "beer",
+  "name": "Bad Omen IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

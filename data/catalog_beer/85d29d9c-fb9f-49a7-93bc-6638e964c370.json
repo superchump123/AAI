@@ -1,0 +1,11 @@
+{
+  "id": "85d29d9c-fb9f-49a7-93bc-6638e964c370",
+  "object": "beer",
+  "name": "Regenschauer Oktoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

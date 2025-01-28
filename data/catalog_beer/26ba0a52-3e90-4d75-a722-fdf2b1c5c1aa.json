@@ -1,0 +1,11 @@
+{
+  "id": "26ba0a52-3e90-4d75-a722-fdf2b1c5c1aa",
+  "object": "beer",
+  "name": "1824",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 12.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

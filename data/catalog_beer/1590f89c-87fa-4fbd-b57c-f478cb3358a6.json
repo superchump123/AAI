@@ -1,0 +1,11 @@
+{
+  "id": "1590f89c-87fa-4fbd-b57c-f478cb3358a6",
+  "object": "beer",
+  "name": "Java Dragon Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

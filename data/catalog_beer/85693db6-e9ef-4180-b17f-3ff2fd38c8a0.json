@@ -1,0 +1,11 @@
+{
+  "id": "85693db6-e9ef-4180-b17f-3ff2fd38c8a0",
+  "object": "beer",
+  "name": "Colbitzer Heide-Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

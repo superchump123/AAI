@@ -1,0 +1,11 @@
+{
+  "id": "92a9563b-f70c-4921-9c3f-be2ac8aa6183",
+  "object": "beer",
+  "name": "Sarsaparilla Six",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

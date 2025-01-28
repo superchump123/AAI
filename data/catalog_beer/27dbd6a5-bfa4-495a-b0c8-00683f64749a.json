@@ -1,0 +1,11 @@
+{
+  "id": "27dbd6a5-bfa4-495a-b0c8-00683f64749a",
+  "object": "beer",
+  "name": "Eight",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

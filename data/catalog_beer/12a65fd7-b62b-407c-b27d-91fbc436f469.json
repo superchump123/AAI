@@ -1,0 +1,11 @@
+{
+  "id": "12a65fd7-b62b-407c-b27d-91fbc436f469",
+  "object": "beer",
+  "name": "Blueberry Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

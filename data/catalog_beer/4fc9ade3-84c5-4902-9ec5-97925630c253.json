@@ -1,0 +1,11 @@
+{
+  "id": "4fc9ade3-84c5-4902-9ec5-97925630c253",
+  "object": "beer",
+  "name": "Raspberry",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

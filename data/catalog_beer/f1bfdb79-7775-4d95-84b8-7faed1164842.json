@@ -1,0 +1,11 @@
+{
+  "id": "f1bfdb79-7775-4d95-84b8-7faed1164842",
+  "object": "beer",
+  "name": "Plumtastic Grand Cru",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

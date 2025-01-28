@@ -1,0 +1,11 @@
+{
+  "id": "ed1d3dde-3d39-4f93-b50e-38da3f627540",
+  "object": "beer",
+  "name": "Iserlohner 1899",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

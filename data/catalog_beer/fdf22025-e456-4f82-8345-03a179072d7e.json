@@ -1,0 +1,11 @@
+{
+  "id": "fdf22025-e456-4f82-8345-03a179072d7e",
+  "object": "beer",
+  "name": "Curiosity IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

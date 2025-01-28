@@ -1,0 +1,11 @@
+{
+  "id": "048b1ef2-c188-40b2-9c75-21e0372d6834",
+  "object": "beer",
+  "name": "Old Town",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "625d52e8-8eed-46b5-9c5f-22d66314c3fb",
+  "object": "beer",
+  "name": "Phoenix Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fe7eadb0-b405-4ab3-83d4-56fc1091a3d3",
+  "object": "beer",
+  "name": "Rye Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f14b855f-de40-4eb2-8dff-a7045903b268",
+  "object": "beer",
+  "name": "Lighter Than I Look",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

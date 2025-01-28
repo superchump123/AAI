@@ -1,0 +1,11 @@
+{
+  "id": "5375953c-4489-4d19-b9f9-d886b30fcc7a",
+  "object": "beer",
+  "name": "Old Nick Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

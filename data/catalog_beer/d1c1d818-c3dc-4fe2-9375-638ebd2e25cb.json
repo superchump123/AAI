@@ -1,0 +1,11 @@
+{
+  "id": "d1c1d818-c3dc-4fe2-9375-638ebd2e25cb",
+  "object": "beer",
+  "name": "Unplugged",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

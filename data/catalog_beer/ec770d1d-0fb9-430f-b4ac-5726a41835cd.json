@@ -1,0 +1,11 @@
+{
+  "id": "ec770d1d-0fb9-430f-b4ac-5726a41835cd",
+  "object": "beer",
+  "name": "Thai Chili Wahoo",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

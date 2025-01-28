@@ -1,0 +1,11 @@
+{
+  "id": "82bb2a6a-17bf-4f77-9450-9e3cfa917f90",
+  "object": "beer",
+  "name": "Logyard IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

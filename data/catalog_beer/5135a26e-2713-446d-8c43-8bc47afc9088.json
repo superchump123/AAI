@@ -1,0 +1,11 @@
+{
+  "id": "5135a26e-2713-446d-8c43-8bc47afc9088",
+  "object": "beer",
+  "name": "Slurry Bomber",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

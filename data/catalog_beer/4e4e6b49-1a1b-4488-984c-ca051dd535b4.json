@@ -1,0 +1,11 @@
+{
+  "id": "4e4e6b49-1a1b-4488-984c-ca051dd535b4",
+  "object": "beer",
+  "name": "Holyrood",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a07d13f3-6faf-425e-abab-c93d96098d42",
+  "object": "beer",
+  "name": "Stirling",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

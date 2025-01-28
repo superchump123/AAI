@@ -1,0 +1,11 @@
+{
+  "id": "269e5dbf-e4cb-42e0-9646-6d3d4dfbe317",
+  "object": "beer",
+  "name": "Cranberry Pomegranate Mead",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

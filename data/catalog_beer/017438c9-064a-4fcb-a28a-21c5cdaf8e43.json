@@ -1,0 +1,11 @@
+{
+  "id": "017438c9-064a-4fcb-a28a-21c5cdaf8e43",
+  "object": "beer",
+  "name": "Imperial Pumpkin Stout",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 11,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

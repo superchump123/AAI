@@ -1,0 +1,11 @@
+{
+  "id": "486793b5-2a6b-490c-943a-3c5abeb6e06b",
+  "object": "beer",
+  "name": "Spring Batch",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

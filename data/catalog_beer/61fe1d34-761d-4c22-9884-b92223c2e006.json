@@ -1,0 +1,11 @@
+{
+  "id": "61fe1d34-761d-4c22-9884-b92223c2e006",
+  "object": "beer",
+  "name": "Panama Joe Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

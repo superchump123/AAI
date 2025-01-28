@@ -1,0 +1,11 @@
+{
+  "id": "7737ac4b-57cd-40e1-b490-6b16a8b0b2ec",
+  "object": "beer",
+  "name": "Buzzsaw",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

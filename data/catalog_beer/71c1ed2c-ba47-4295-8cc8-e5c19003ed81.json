@@ -1,0 +1,11 @@
+{
+  "id": "71c1ed2c-ba47-4295-8cc8-e5c19003ed81",
+  "object": "beer",
+  "name": "Little Fawn",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

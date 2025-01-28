@@ -1,0 +1,11 @@
+{
+  "id": "36318459-cf5d-49f5-af5a-ad10ed736551",
+  "object": "beer",
+  "name": "Sourdough",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db07d9ab-3ca2-4e16-9ce6-2b72aea4fb71",
+  "object": "beer",
+  "name": "Hoppy Feet 2.0",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

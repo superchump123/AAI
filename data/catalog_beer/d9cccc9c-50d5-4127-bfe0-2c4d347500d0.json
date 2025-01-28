@@ -1,0 +1,11 @@
+{
+  "id": "d9cccc9c-50d5-4127-bfe0-2c4d347500d0",
+  "object": "beer",
+  "name": "Getter's Island Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

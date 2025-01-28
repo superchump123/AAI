@@ -1,0 +1,11 @@
+{
+  "id": "b27674f3-81fe-4a17-8df2-f04590ede27d",
+  "object": "beer",
+  "name": "Kmita Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

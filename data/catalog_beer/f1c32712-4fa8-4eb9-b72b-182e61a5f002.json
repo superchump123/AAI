@@ -1,0 +1,11 @@
+{
+  "id": "f1c32712-4fa8-4eb9-b72b-182e61a5f002",
+  "object": "beer",
+  "name": "Wittichenauer Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

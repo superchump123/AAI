@@ -1,0 +1,11 @@
+{
+  "id": "dba8bc28-fd71-4447-9cc7-a03c3f334fa6",
+  "object": "beer",
+  "name": "Morning Glory Espresso Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7fa0ad85-a0a1-4fa1-ab92-ce5193c5a618",
+  "object": "beer",
+  "name": "Green Diamonds",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

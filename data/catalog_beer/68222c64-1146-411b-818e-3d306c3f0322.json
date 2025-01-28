@@ -1,0 +1,11 @@
+{
+  "id": "68222c64-1146-411b-818e-3d306c3f0322",
+  "object": "beer",
+  "name": "Wickson",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

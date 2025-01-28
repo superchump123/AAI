@@ -1,0 +1,11 @@
+{
+  "id": "aa821200-96d3-4378-a77c-d02d9586b3bd",
+  "object": "beer",
+  "name": "Rusty Crayfish",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

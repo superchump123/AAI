@@ -1,0 +1,11 @@
+{
+  "id": "27cd91e3-d67e-42ae-bbfd-3b5744e7dcf3",
+  "object": "beer",
+  "name": "Spiced Harvest Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

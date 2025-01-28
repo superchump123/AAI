@@ -1,0 +1,11 @@
+{
+  "id": "c17d1079-c4a3-48f8-ba16-9ddae7a840a5",
+  "object": "beer",
+  "name": "Southern Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8d74749b-e4de-412e-839b-c56d7474b369",
+  "object": "beer",
+  "name": "Nuxy's",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

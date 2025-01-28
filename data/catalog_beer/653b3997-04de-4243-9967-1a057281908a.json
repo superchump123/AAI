@@ -1,0 +1,11 @@
+{
+  "id": "653b3997-04de-4243-9967-1a057281908a",
+  "object": "beer",
+  "name": "Cape May Citra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c7f3e579-6cfa-480c-a0a4-b2020090a1ca",
+  "object": "beer",
+  "name": "Skrunk Juice",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

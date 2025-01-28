@@ -1,0 +1,11 @@
+{
+  "id": "92e9de8c-eafc-40f6-b4e1-52abaac5ec4d",
+  "object": "beer",
+  "name": "AHA Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

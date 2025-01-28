@@ -1,0 +1,11 @@
+{
+  "id": "eb080ebd-b15a-49a4-9c53-29c07b9798bd",
+  "object": "beer",
+  "name": "Red Rose Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd40610e-e980-4df7-8dad-a1796229434b",
+  "object": "beer",
+  "name": "Hachenburger Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

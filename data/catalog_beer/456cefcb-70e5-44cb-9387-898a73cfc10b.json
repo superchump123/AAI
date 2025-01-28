@@ -1,0 +1,11 @@
+{
+  "id": "456cefcb-70e5-44cb-9387-898a73cfc10b",
+  "object": "beer",
+  "name": "Honey Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

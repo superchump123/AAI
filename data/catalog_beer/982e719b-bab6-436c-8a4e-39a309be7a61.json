@@ -1,0 +1,11 @@
+{
+  "id": "982e719b-bab6-436c-8a4e-39a309be7a61",
+  "object": "beer",
+  "name": "Polka City",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

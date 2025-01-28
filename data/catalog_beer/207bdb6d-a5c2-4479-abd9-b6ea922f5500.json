@@ -1,0 +1,11 @@
+{
+  "id": "207bdb6d-a5c2-4479-abd9-b6ea922f5500",
+  "object": "beer",
+  "name": "1812 Light",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a26075bd-6bba-4ff1-ac91-93fc3c6015a6",
+  "object": "beer",
+  "name": "Lauren's Pale Ale (LPA)",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c7bbbff-5ded-42e9-8761-cd05977ae063",
+  "object": "beer",
+  "name": "Peter Peter",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

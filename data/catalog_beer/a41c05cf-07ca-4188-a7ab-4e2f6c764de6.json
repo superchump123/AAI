@@ -1,0 +1,11 @@
+{
+  "id": "a41c05cf-07ca-4188-a7ab-4e2f6c764de6",
+  "object": "beer",
+  "name": "Certified Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

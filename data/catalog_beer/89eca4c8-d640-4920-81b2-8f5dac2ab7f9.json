@@ -1,0 +1,11 @@
+{
+  "id": "89eca4c8-d640-4920-81b2-8f5dac2ab7f9",
+  "object": "beer",
+  "name": "Elysian Fields Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e625f1da-3c62-4eac-b4e8-10847ff71e12",
+  "object": "beer",
+  "name": "Bush Cutter",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

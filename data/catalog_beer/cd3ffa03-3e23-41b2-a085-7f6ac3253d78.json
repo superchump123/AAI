@@ -1,0 +1,11 @@
+{
+  "id": "cd3ffa03-3e23-41b2-a085-7f6ac3253d78",
+  "object": "beer",
+  "name": "Taiwan Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

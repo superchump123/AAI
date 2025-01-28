@@ -1,0 +1,11 @@
+{
+  "id": "2d5ba162-f0f2-42f8-ae68-bf0d74289e80",
+  "object": "beer",
+  "name": "Mud In Your Eyes Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

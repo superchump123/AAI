@@ -1,0 +1,11 @@
+{
+  "id": "b305a453-6f15-47e2-b411-679ee767a93f",
+  "object": "beer",
+  "name": "Cherry Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

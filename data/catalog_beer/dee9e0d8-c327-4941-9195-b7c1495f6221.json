@@ -1,0 +1,11 @@
+{
+  "id": "dee9e0d8-c327-4941-9195-b7c1495f6221",
+  "object": "beer",
+  "name": "Mango the Magnificent",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

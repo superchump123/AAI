@@ -1,0 +1,11 @@
+{
+  "id": "eba7ca80-660a-43d3-8451-e5e00acc59c2",
+  "object": "beer",
+  "name": "Mexican Chocolate Stout",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

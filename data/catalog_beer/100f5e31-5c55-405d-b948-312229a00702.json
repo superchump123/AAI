@@ -1,0 +1,11 @@
+{
+  "id": "100f5e31-5c55-405d-b948-312229a00702",
+  "object": "beer",
+  "name": "Sternquell Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "55f233c2-46b1-4677-851f-233424d68e23",
+  "object": "beer",
+  "name": "Tropical Ralphie",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

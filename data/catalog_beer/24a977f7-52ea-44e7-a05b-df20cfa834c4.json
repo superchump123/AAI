@@ -1,0 +1,11 @@
+{
+  "id": "24a977f7-52ea-44e7-a05b-df20cfa834c4",
+  "object": "beer",
+  "name": "Master Brew",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b3a340ea-f759-4153-93c8-d0bbd4807a08",
+  "object": "beer",
+  "name": "Honey Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

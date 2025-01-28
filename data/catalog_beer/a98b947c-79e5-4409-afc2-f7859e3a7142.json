@@ -1,0 +1,11 @@
+{
+  "id": "a98b947c-79e5-4409-afc2-f7859e3a7142",
+  "object": "beer",
+  "name": "Portico",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2848ad15-fe71-4c10-8d18-bb2679cccbb6",
+  "object": "beer",
+  "name": "Oompa Lupulin",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

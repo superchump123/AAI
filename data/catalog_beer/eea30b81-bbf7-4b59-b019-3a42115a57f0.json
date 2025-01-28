@@ -1,0 +1,11 @@
+{
+  "id": "eea30b81-bbf7-4b59-b019-3a42115a57f0",
+  "object": "beer",
+  "name": "Prestige Worldwide",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

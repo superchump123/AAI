@@ -1,0 +1,11 @@
+{
+  "id": "877db698-4e3c-4ca6-93d7-b759996718c4",
+  "object": "beer",
+  "name": "Alter Ego",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

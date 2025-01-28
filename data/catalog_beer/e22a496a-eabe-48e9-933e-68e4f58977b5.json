@@ -1,0 +1,11 @@
+{
+  "id": "e22a496a-eabe-48e9-933e-68e4f58977b5",
+  "object": "beer",
+  "name": "RedRum",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e731f8d0-4966-43fb-b49f-e74fc66643c7",
+  "object": "beer",
+  "name": "FFF Holiday Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

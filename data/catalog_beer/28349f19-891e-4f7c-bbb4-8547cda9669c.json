@@ -1,0 +1,11 @@
+{
+  "id": "28349f19-891e-4f7c-bbb4-8547cda9669c",
+  "object": "beer",
+  "name": "Full of Hoptions",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

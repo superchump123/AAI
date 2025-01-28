@@ -1,0 +1,11 @@
+{
+  "id": "739754f5-f335-441e-8be8-55dd900342e4",
+  "object": "beer",
+  "name": "Vicar's Vice",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

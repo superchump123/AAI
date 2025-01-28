@@ -1,0 +1,11 @@
+{
+  "id": "e304f440-035f-4b21-aa7b-e3b6dbeffe59",
+  "object": "beer",
+  "name": "Kenziger",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

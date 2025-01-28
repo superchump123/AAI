@@ -1,0 +1,11 @@
+{
+  "id": "827d7c49-7b22-4929-9b7e-ec4026a48db7",
+  "object": "beer",
+  "name": "Peace Train",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

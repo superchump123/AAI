@@ -1,0 +1,11 @@
+{
+  "id": "848f8f5d-c561-4c1f-b8ec-1314fd51a245",
+  "object": "beer",
+  "name": "Hellion",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

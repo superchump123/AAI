@@ -1,0 +1,11 @@
+{
+  "id": "aa618cd8-1540-4761-a7bf-c6e7654bc44e",
+  "object": "beer",
+  "name": "Citra Mantra",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

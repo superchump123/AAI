@@ -1,0 +1,11 @@
+{
+  "id": "e3af355c-288d-45f8-a10c-7a5082a7cee6",
+  "object": "beer",
+  "name": "Floris Framboise",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

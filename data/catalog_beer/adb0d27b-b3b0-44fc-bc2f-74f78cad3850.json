@@ -1,0 +1,11 @@
+{
+  "id": "adb0d27b-b3b0-44fc-bc2f-74f78cad3850",
+  "object": "beer",
+  "name": "Mavericks Rye Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

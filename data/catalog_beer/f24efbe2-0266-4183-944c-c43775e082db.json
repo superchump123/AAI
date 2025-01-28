@@ -1,0 +1,11 @@
+{
+  "id": "f24efbe2-0266-4183-944c-c43775e082db",
+  "object": "beer",
+  "name": "Unicorn Killer 4",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

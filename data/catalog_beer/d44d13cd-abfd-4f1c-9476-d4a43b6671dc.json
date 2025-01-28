@@ -1,0 +1,11 @@
+{
+  "id": "d44d13cd-abfd-4f1c-9476-d4a43b6671dc",
+  "object": "beer",
+  "name": "Granny's Apple Pie",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

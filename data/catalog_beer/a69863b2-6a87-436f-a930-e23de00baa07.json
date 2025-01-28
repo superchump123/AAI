@@ -1,0 +1,11 @@
+{
+  "id": "a69863b2-6a87-436f-a930-e23de00baa07",
+  "object": "beer",
+  "name": "Riff",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

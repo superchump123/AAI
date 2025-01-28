@@ -1,0 +1,11 @@
+{
+  "id": "fb244fad-fda2-40d3-92f7-f53912a1e85e",
+  "object": "beer",
+  "name": "The Bubble",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6fc1448-2ced-4b33-9df4-286084397506",
+  "object": "beer",
+  "name": "Hop Lab",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

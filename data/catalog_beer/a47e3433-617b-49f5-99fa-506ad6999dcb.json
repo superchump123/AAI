@@ -1,0 +1,11 @@
+{
+  "id": "a47e3433-617b-49f5-99fa-506ad6999dcb",
+  "object": "beer",
+  "name": "Heavy Handed IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

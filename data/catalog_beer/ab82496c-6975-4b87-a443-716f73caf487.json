@@ -1,0 +1,11 @@
+{
+  "id": "ab82496c-6975-4b87-a443-716f73caf487",
+  "object": "beer",
+  "name": "Ad Idem",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

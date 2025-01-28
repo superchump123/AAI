@@ -1,0 +1,11 @@
+{
+  "id": "cf22d67f-bd3b-4067-8e71-570307cc2c0d",
+  "object": "beer",
+  "name": "Defroster",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

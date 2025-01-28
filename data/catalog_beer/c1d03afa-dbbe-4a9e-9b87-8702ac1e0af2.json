@@ -1,0 +1,11 @@
+{
+  "id": "c1d03afa-dbbe-4a9e-9b87-8702ac1e0af2",
+  "object": "beer",
+  "name": "Sea Change",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

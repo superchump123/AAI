@@ -1,0 +1,11 @@
+{
+  "id": "d3f566a1-58c4-4d8c-a47d-3f3e79d33bb3",
+  "object": "beer",
+  "name": "Glorious",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

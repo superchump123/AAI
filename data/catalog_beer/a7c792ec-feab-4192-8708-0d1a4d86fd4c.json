@@ -1,0 +1,11 @@
+{
+  "id": "a7c792ec-feab-4192-8708-0d1a4d86fd4c",
+  "object": "beer",
+  "name": "Original Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

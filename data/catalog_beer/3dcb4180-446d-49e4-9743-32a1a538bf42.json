@@ -1,0 +1,11 @@
+{
+  "id": "3dcb4180-446d-49e4-9743-32a1a538bf42",
+  "object": "beer",
+  "name": "Black Peppered Lager",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

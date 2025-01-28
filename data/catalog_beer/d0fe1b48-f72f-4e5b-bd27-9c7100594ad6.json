@@ -1,0 +1,11 @@
+{
+  "id": "d0fe1b48-f72f-4e5b-bd27-9c7100594ad6",
+  "object": "beer",
+  "name": "That Guy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

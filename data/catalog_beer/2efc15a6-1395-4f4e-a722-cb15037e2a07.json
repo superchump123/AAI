@@ -1,0 +1,11 @@
+{
+  "id": "2efc15a6-1395-4f4e-a722-cb15037e2a07",
+  "object": "beer",
+  "name": "Bicycle Tree Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

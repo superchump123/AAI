@@ -1,0 +1,11 @@
+{
+  "id": "57f1d89f-e8f6-48be-a6c7-72b16cc494a4",
+  "object": "beer",
+  "name": "Half-Life",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

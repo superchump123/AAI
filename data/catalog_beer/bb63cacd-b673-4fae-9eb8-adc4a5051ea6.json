@@ -1,0 +1,11 @@
+{
+  "id": "bb63cacd-b673-4fae-9eb8-adc4a5051ea6",
+  "object": "beer",
+  "name": "Dark Helmet",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "35ca8fc2-59d3-4f71-84b4-235161d061e2",
+  "object": "beer",
+  "name": "Black O'Lantern",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

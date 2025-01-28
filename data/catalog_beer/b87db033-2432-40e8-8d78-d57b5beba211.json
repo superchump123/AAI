@@ -1,0 +1,11 @@
+{
+  "id": "b87db033-2432-40e8-8d78-d57b5beba211",
+  "object": "beer",
+  "name": "Kentucky Honey Barrel Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

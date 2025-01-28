@@ -1,0 +1,11 @@
+{
+  "id": "88c4c877-212b-467f-8a57-ada69272a17c",
+  "object": "beer",
+  "name": "Northwest Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

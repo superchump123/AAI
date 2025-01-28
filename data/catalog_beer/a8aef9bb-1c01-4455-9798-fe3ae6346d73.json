@@ -1,0 +1,11 @@
+{
+  "id": "a8aef9bb-1c01-4455-9798-fe3ae6346d73",
+  "object": "beer",
+  "name": "Double Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

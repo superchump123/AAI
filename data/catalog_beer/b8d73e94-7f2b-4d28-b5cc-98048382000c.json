@@ -1,0 +1,11 @@
+{
+  "id": "b8d73e94-7f2b-4d28-b5cc-98048382000c",
+  "object": "beer",
+  "name": "Blood Orange Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

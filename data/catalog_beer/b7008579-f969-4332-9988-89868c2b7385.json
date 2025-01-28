@@ -1,0 +1,11 @@
+{
+  "id": "b7008579-f969-4332-9988-89868c2b7385",
+  "object": "beer",
+  "name": "Dubbel Entendre",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

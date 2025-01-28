@@ -1,0 +1,11 @@
+{
+  "id": "76b452fd-61c0-4972-9cd5-8ce7ee00bf4d",
+  "object": "beer",
+  "name": "Amalgamation",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

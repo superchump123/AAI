@@ -1,0 +1,11 @@
+{
+  "id": "afda4e11-6312-417f-b87f-d39b9b420ad2",
+  "object": "beer",
+  "name": "Splinter Red",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

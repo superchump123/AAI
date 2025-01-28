@@ -1,0 +1,11 @@
+{
+  "id": "d76ddb18-9512-48e6-94cf-8548ac4a9207",
+  "object": "beer",
+  "name": "Kixstart",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

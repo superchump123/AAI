@@ -1,0 +1,11 @@
+{
+  "id": "342e8f09-dcc8-46e6-bc85-41f8b918df3e",
+  "object": "beer",
+  "name": "Grunion",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

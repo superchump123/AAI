@@ -1,0 +1,11 @@
+{
+  "id": "ce99b382-1ba9-4273-9e4a-57c684b552bb",
+  "object": "beer",
+  "name": "Divine Paradox",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

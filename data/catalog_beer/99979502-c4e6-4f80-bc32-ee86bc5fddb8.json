@@ -1,0 +1,11 @@
+{
+  "id": "99979502-c4e6-4f80-bc32-ee86bc5fddb8",
+  "object": "beer",
+  "name": "Rye Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

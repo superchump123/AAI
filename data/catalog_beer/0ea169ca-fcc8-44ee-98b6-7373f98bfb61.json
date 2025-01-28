@@ -1,0 +1,11 @@
+{
+  "id": "0ea169ca-fcc8-44ee-98b6-7373f98bfb61",
+  "object": "beer",
+  "name": "Steve",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

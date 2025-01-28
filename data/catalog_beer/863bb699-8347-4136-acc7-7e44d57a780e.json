@@ -1,0 +1,11 @@
+{
+  "id": "863bb699-8347-4136-acc7-7e44d57a780e",
+  "object": "beer",
+  "name": "Empire ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

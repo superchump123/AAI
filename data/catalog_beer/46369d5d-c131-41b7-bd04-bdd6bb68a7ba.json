@@ -1,0 +1,11 @@
+{
+  "id": "46369d5d-c131-41b7-bd04-bdd6bb68a7ba",
+  "object": "beer",
+  "name": "Faith",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

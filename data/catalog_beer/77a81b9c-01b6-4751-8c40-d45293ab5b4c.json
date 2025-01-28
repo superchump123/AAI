@@ -1,0 +1,11 @@
+{
+  "id": "77a81b9c-01b6-4751-8c40-d45293ab5b4c",
+  "object": "beer",
+  "name": "Shift",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

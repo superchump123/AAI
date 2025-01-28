@@ -1,0 +1,11 @@
+{
+  "id": "23e71a99-df84-421c-a1bb-50d992bb417e",
+  "object": "beer",
+  "name": "Ginger Gold",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

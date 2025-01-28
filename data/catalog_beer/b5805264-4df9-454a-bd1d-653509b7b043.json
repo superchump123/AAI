@@ -1,0 +1,11 @@
+{
+  "id": "b5805264-4df9-454a-bd1d-653509b7b043",
+  "object": "beer",
+  "name": "Pumking",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

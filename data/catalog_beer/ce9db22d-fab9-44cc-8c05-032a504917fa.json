@@ -1,0 +1,11 @@
+{
+  "id": "ce9db22d-fab9-44cc-8c05-032a504917fa",
+  "object": "beer",
+  "name": "Lil' Smack IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7da965b9-d1b3-47de-97eb-087def77ef88",
+  "object": "beer",
+  "name": "Kyoto Protocol",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

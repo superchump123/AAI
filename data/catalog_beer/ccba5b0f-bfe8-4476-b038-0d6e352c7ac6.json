@@ -1,0 +1,11 @@
+{
+  "id": "ccba5b0f-bfe8-4476-b038-0d6e352c7ac6",
+  "object": "beer",
+  "name": "Match Day",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

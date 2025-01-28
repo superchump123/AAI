@@ -1,0 +1,11 @@
+{
+  "id": "33c4152a-e1b9-440e-87ed-1b265e4284b1",
+  "object": "beer",
+  "name": "Truffler",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

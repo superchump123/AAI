@@ -1,0 +1,11 @@
+{
+  "id": "918a0970-1157-4b8c-bfa8-2351e4159bb8",
+  "object": "beer",
+  "name": "Beer Garden Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

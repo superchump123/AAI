@@ -1,0 +1,11 @@
+{
+  "id": "5c32c867-6f99-46f2-98c3-dcc786c088b4",
+  "object": "beer",
+  "name": "Doom Slayer",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

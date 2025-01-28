@@ -1,0 +1,11 @@
+{
+  "id": "8e84e0f7-9566-4512-b585-6e451e232fc7",
+  "object": "beer",
+  "name": "Quaternity",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

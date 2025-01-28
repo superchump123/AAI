@@ -1,0 +1,11 @@
+{
+  "id": "cf0596b7-6a11-4201-9908-5db6e54b485d",
+  "object": "beer",
+  "name": "Green Line Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6fe341d2-c236-4dfc-bde7-3ce058cb65f7",
+  "object": "beer",
+  "name": "Fishwater Project",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

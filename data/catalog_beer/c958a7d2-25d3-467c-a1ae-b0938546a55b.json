@@ -1,0 +1,11 @@
+{
+  "id": "c958a7d2-25d3-467c-a1ae-b0938546a55b",
+  "object": "beer",
+  "name": "Hawaiian Sunburn",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

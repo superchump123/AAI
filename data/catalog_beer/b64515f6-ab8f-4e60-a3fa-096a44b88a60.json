@@ -1,0 +1,11 @@
+{
+  "id": "b64515f6-ab8f-4e60-a3fa-096a44b88a60",
+  "object": "beer",
+  "name": "Hopped Up Monk",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

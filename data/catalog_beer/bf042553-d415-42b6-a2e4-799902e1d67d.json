@@ -1,0 +1,11 @@
+{
+  "id": "bf042553-d415-42b6-a2e4-799902e1d67d",
+  "object": "beer",
+  "name": "Von Munsht\u00fcr",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

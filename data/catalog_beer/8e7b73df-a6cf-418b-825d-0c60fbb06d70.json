@@ -1,0 +1,11 @@
+{
+  "id": "8e7b73df-a6cf-418b-825d-0c60fbb06d70",
+  "object": "beer",
+  "name": "Citrus Shore",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

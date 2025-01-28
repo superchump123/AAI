@@ -1,0 +1,11 @@
+{
+  "id": "d4ed4eb8-4716-4618-8798-9f3a9232c2ae",
+  "object": "beer",
+  "name": "Biere De N\u00f6el",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

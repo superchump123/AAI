@@ -1,0 +1,11 @@
+{
+  "id": "7293c072-066d-4f52-8fcb-2d7ecd609483",
+  "object": "beer",
+  "name": "Red Nose Rye",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

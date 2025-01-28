@@ -1,0 +1,11 @@
+{
+  "id": "c0fa3ce4-c09f-4f3e-abf5-b7950ccf700b",
+  "object": "beer",
+  "name": "Hello, Darkness",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

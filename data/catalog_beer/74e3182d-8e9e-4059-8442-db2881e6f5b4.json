@@ -1,0 +1,11 @@
+{
+  "id": "74e3182d-8e9e-4059-8442-db2881e6f5b4",
+  "object": "beer",
+  "name": "Sweet Taters Pi",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

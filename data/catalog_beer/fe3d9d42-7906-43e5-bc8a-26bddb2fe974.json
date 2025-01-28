@@ -1,0 +1,11 @@
+{
+  "id": "fe3d9d42-7906-43e5-bc8a-26bddb2fe974",
+  "object": "beer",
+  "name": "Cranberry Cacao",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

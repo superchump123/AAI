@@ -1,0 +1,11 @@
+{
+  "id": "fd1d3486-b8ab-4e0e-a5d4-5064c79e6a2b",
+  "object": "beer",
+  "name": "Green Collar Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

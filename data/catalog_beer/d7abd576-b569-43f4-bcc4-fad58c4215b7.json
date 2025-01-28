@@ -1,0 +1,11 @@
+{
+  "id": "d7abd576-b569-43f4-bcc4-fad58c4215b7",
+  "object": "beer",
+  "name": "Straffe Hendrik Brugse Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

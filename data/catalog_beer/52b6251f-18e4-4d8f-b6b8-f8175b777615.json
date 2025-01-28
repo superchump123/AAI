@@ -1,0 +1,11 @@
+{
+  "id": "52b6251f-18e4-4d8f-b6b8-f8175b777615",
+  "object": "beer",
+  "name": "Altair",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8c1e545b-6fef-49f1-afa4-51d01596d9b6",
+  "object": "beer",
+  "name": "There Gose The Neighborhood",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

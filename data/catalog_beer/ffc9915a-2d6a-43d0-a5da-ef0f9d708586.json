@@ -1,0 +1,11 @@
+{
+  "id": "ffc9915a-2d6a-43d0-a5da-ef0f9d708586",
+  "object": "beer",
+  "name": "Shot In The Dark",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 11.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

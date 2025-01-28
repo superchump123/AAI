@@ -1,0 +1,11 @@
+{
+  "id": "b20a6260-4ae7-42ac-8682-c619e511c8ef",
+  "object": "beer",
+  "name": "Shift",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

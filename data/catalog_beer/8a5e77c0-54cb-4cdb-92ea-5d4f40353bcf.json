@@ -1,0 +1,11 @@
+{
+  "id": "8a5e77c0-54cb-4cdb-92ea-5d4f40353bcf",
+  "object": "beer",
+  "name": "Bishops Farewell",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

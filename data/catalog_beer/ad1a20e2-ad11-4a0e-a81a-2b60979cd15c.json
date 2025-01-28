@@ -1,0 +1,11 @@
+{
+  "id": "ad1a20e2-ad11-4a0e-a81a-2b60979cd15c",
+  "object": "beer",
+  "name": "Colossal One",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

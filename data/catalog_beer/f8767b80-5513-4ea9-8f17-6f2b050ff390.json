@@ -1,0 +1,11 @@
+{
+  "id": "f8767b80-5513-4ea9-8f17-6f2b050ff390",
+  "object": "beer",
+  "name": "Rhubarb Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

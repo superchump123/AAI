@@ -1,0 +1,11 @@
+{
+  "id": "4e6b1bba-2908-4c3c-a3c0-0f5ec0b34eb7",
+  "object": "beer",
+  "name": "Mr. Robusto",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

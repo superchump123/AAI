@@ -1,0 +1,11 @@
+{
+  "id": "b327591b-b4cf-4633-9daf-c9893e08dddc",
+  "object": "beer",
+  "name": "Cinnful Apple",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

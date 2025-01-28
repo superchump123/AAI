@@ -1,0 +1,11 @@
+{
+  "id": "9ace0947-38b9-40e3-b04c-c08b2f22b8d1",
+  "object": "beer",
+  "name": "Wicked City",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "84e021be-e5bf-4f8f-84ca-efb27665d0a8",
+  "object": "beer",
+  "name": "Rosie's Strawberry Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

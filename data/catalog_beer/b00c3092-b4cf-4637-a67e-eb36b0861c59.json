@@ -1,0 +1,11 @@
+{
+  "id": "b00c3092-b4cf-4637-a67e-eb36b0861c59",
+  "object": "beer",
+  "name": "RITA",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

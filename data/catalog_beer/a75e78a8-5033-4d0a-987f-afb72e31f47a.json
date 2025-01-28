@@ -1,0 +1,11 @@
+{
+  "id": "a75e78a8-5033-4d0a-987f-afb72e31f47a",
+  "object": "beer",
+  "name": "Lasser Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

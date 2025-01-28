@@ -1,0 +1,11 @@
+{
+  "id": "1ec4b0f3-e774-4e5f-8139-62488c3bc1b4",
+  "object": "beer",
+  "name": "Machine Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

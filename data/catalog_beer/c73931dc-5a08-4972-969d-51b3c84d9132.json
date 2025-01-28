@@ -1,0 +1,11 @@
+{
+  "id": "c73931dc-5a08-4972-969d-51b3c84d9132",
+  "object": "beer",
+  "name": "ISA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6eb6082b-6466-4e0c-81e4-ec0fd8a6068c",
+  "object": "beer",
+  "name": "Pickled Santa",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

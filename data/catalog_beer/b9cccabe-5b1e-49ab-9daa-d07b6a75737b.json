@@ -1,0 +1,11 @@
+{
+  "id": "b9cccabe-5b1e-49ab-9daa-d07b6a75737b",
+  "object": "beer",
+  "name": "Corona Premier",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

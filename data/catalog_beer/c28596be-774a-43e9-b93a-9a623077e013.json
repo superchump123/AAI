@@ -1,0 +1,11 @@
+{
+  "id": "c28596be-774a-43e9-b93a-9a623077e013",
+  "object": "beer",
+  "name": "Glitter Pony",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

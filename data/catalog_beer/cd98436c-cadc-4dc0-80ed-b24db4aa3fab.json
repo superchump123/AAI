@@ -1,0 +1,11 @@
+{
+  "id": "cd98436c-cadc-4dc0-80ed-b24db4aa3fab",
+  "object": "beer",
+  "name": "Dougie the Logger",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

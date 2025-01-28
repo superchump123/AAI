@@ -1,0 +1,11 @@
+{
+  "id": "28f034f5-8da9-46aa-b82d-e10ea8e4635f",
+  "object": "beer",
+  "name": "Wahoo Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

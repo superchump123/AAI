@@ -1,0 +1,11 @@
+{
+  "id": "518e0141-ee6f-4cda-9e0d-9a0f76898ba0",
+  "object": "beer",
+  "name": "Sinistral Wheat",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

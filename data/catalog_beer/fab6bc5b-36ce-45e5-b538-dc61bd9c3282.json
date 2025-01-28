@@ -1,0 +1,11 @@
+{
+  "id": "fab6bc5b-36ce-45e5-b538-dc61bd9c3282",
+  "object": "beer",
+  "name": "Barrio Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

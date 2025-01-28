@@ -1,0 +1,11 @@
+{
+  "id": "4d1a80b6-5855-4b40-9fcd-5ecef6dc2b47",
+  "object": "beer",
+  "name": "Double Sunshine IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

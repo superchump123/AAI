@@ -1,0 +1,11 @@
+{
+  "id": "8f3238e2-65b3-418c-b5cb-354622b4a3eb",
+  "object": "beer",
+  "name": "Mazarin",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

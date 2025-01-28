@@ -1,0 +1,11 @@
+{
+  "id": "7ad38c6f-cb09-454b-bbae-23bd276a74a0",
+  "object": "beer",
+  "name": "Eh! canadian style ale",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

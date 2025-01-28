@@ -1,0 +1,11 @@
+{
+  "id": "441ebe6e-29f7-41cf-8ee5-80f98ff350e1",
+  "object": "beer",
+  "name": "Lucky Kat",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

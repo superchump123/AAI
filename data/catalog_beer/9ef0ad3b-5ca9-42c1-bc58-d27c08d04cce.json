@@ -1,0 +1,11 @@
+{
+  "id": "9ef0ad3b-5ca9-42c1-bc58-d27c08d04cce",
+  "object": "beer",
+  "name": "Urban IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

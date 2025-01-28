@@ -1,0 +1,11 @@
+{
+  "id": "5874cad5-b6c6-418d-bdd7-af408f720ae9",
+  "object": "beer",
+  "name": "The King",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

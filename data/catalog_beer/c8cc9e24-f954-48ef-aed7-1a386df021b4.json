@@ -1,0 +1,11 @@
+{
+  "id": "c8cc9e24-f954-48ef-aed7-1a386df021b4",
+  "object": "beer",
+  "name": "Dundee Export 90 Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2d11c671-0337-45c2-af39-999ac73f6ae2",
+  "object": "beer",
+  "name": "Native Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

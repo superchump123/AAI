@@ -1,0 +1,11 @@
+{
+  "id": "958ca1c5-c3d2-4de4-85b3-023596698d14",
+  "object": "beer",
+  "name": "Blatherskite Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

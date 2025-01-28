@@ -1,0 +1,11 @@
+{
+  "id": "14d20e2e-e54f-4451-a155-20ab3c0a4f8e",
+  "object": "beer",
+  "name": "Cherry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

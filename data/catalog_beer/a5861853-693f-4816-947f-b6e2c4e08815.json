@@ -1,0 +1,11 @@
+{
+  "id": "a5861853-693f-4816-947f-b6e2c4e08815",
+  "object": "beer",
+  "name": "Moon Dance",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

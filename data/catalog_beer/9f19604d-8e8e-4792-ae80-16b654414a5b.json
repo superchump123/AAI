@@ -1,0 +1,11 @@
+{
+  "id": "9f19604d-8e8e-4792-ae80-16b654414a5b",
+  "object": "beer",
+  "name": "Hop Plunge",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

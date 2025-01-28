@@ -1,0 +1,11 @@
+{
+  "id": "36e5664a-c834-45ad-8bc2-fe32bbad4c2b",
+  "object": "beer",
+  "name": "Thai One On",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

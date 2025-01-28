@@ -1,0 +1,11 @@
+{
+  "id": "7ca22084-f1b6-427c-9241-6f55bb3dca0a",
+  "object": "beer",
+  "name": "White Light India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

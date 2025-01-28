@@ -1,0 +1,11 @@
+{
+  "id": "a16e9f8a-2457-4477-9a8b-1e2c016f6546",
+  "object": "beer",
+  "name": "Anniversary Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

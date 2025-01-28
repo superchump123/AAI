@@ -1,0 +1,11 @@
+{
+  "id": "5e50d4ba-11af-4b61-913e-6cbb9bbfbbb9",
+  "object": "beer",
+  "name": "Half-Life Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e0f4d39-c609-4947-887c-4f1b1bedaa2c",
+  "object": "beer",
+  "name": "Cinnister Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f656ef32-766b-4a8f-b727-64d1519093f2",
+  "object": "beer",
+  "name": "Raspberry Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d26b4f2a-9c75-403c-bf81-2fcf5bf02960",
+  "object": "beer",
+  "name": "Early Riser",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

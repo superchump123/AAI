@@ -1,0 +1,11 @@
+{
+  "id": "8883df53-dea4-4639-99bb-a8c95ed76db4",
+  "object": "beer",
+  "name": "Nightroll Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

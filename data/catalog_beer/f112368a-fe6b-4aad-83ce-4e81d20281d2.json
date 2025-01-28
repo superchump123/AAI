@@ -1,0 +1,11 @@
+{
+  "id": "f112368a-fe6b-4aad-83ce-4e81d20281d2",
+  "object": "beer",
+  "name": "Twisted Spruce",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

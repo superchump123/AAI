@@ -1,0 +1,11 @@
+{
+  "id": "2c7199ef-75cd-4c80-b5a3-695c7ec51b9a",
+  "object": "beer",
+  "name": "Dragonhead Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

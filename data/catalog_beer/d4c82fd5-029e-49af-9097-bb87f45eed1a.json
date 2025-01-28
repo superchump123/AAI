@@ -1,0 +1,11 @@
+{
+  "id": "d4c82fd5-029e-49af-9097-bb87f45eed1a",
+  "object": "beer",
+  "name": "Lagerbier Hell",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

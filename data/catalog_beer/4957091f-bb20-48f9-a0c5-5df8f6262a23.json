@@ -1,0 +1,11 @@
+{
+  "id": "4957091f-bb20-48f9-a0c5-5df8f6262a23",
+  "object": "beer",
+  "name": "Mellert Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

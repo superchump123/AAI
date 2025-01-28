@@ -1,0 +1,11 @@
+{
+  "id": "26b223aa-2cd2-437a-81d3-2bbd780fe68e",
+  "object": "beer",
+  "name": "Thing II",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

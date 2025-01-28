@@ -1,0 +1,11 @@
+{
+  "id": "edada05b-a55e-4a4b-93f9-d6a5793c25ec",
+  "object": "beer",
+  "name": "Southern Star",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

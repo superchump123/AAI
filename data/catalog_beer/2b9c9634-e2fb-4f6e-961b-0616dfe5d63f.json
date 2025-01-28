@@ -1,0 +1,11 @@
+{
+  "id": "2b9c9634-e2fb-4f6e-961b-0616dfe5d63f",
+  "object": "beer",
+  "name": "Hop, Drop 'n Roll",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

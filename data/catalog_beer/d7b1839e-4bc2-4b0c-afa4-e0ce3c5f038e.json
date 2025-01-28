@@ -1,0 +1,11 @@
+{
+  "id": "d7b1839e-4bc2-4b0c-afa4-e0ce3c5f038e",
+  "object": "beer",
+  "name": "Mac Pappy's 80 Schilling Scottish Ale",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

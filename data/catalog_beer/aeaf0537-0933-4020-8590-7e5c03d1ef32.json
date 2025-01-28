@@ -1,0 +1,11 @@
+{
+  "id": "aeaf0537-0933-4020-8590-7e5c03d1ef32",
+  "object": "beer",
+  "name": "Kasteel Donker",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

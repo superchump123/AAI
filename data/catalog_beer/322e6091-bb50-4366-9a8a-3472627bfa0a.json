@@ -1,0 +1,11 @@
+{
+  "id": "322e6091-bb50-4366-9a8a-3472627bfa0a",
+  "object": "beer",
+  "name": "Northbound",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

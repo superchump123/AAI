@@ -1,0 +1,11 @@
+{
+  "id": "dbf7d2ab-f1c5-4bb7-b436-5171715dda37",
+  "object": "beer",
+  "name": "Tectonic Event",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

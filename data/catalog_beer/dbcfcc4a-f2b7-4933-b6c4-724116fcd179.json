@@ -1,0 +1,11 @@
+{
+  "id": "dbcfcc4a-f2b7-4933-b6c4-724116fcd179",
+  "object": "beer",
+  "name": "Broken Arrow Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

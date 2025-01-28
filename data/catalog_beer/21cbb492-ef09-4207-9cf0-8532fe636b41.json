@@ -1,0 +1,11 @@
+{
+  "id": "21cbb492-ef09-4207-9cf0-8532fe636b41",
+  "object": "beer",
+  "name": "Hazelutely Choctabulous",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

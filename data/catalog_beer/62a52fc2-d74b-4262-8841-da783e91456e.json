@@ -1,0 +1,11 @@
+{
+  "id": "62a52fc2-d74b-4262-8841-da783e91456e",
+  "object": "beer",
+  "name": "Danzig",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

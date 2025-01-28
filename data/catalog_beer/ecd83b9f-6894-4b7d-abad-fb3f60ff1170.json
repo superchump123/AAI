@@ -1,0 +1,11 @@
+{
+  "id": "ecd83b9f-6894-4b7d-abad-fb3f60ff1170",
+  "object": "beer",
+  "name": "Red Line Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

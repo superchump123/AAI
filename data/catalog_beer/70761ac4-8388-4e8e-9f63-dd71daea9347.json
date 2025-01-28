@@ -1,0 +1,11 @@
+{
+  "id": "70761ac4-8388-4e8e-9f63-dd71daea9347",
+  "object": "beer",
+  "name": "The Hairy Eyeball",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

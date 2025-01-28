@@ -1,0 +1,11 @@
+{
+  "id": "83c82687-85ae-4710-8733-ce6d0e447f36",
+  "object": "beer",
+  "name": "Cranberry Biere de Table",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 3.3,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4728ab25-e0ec-4117-8c81-c58623755b6a",
+  "object": "beer",
+  "name": "Graham's Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

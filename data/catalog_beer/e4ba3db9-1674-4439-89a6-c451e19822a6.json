@@ -1,0 +1,11 @@
+{
+  "id": "e4ba3db9-1674-4439-89a6-c451e19822a6",
+  "object": "beer",
+  "name": "Odin's Tipple",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

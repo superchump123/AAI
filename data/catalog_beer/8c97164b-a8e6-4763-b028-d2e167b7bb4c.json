@@ -1,0 +1,11 @@
+{
+  "id": "8c97164b-a8e6-4763-b028-d2e167b7bb4c",
+  "object": "beer",
+  "name": "Atomic Kangarue",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

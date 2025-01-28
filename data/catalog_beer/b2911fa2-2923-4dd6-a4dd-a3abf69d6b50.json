@@ -1,0 +1,11 @@
+{
+  "id": "b2911fa2-2923-4dd6-a4dd-a3abf69d6b50",
+  "object": "beer",
+  "name": "Maylani's Coconut Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9cb67f73-bde8-44f2-86fd-b6ca3f4f9801",
+  "object": "beer",
+  "name": "Dansk Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

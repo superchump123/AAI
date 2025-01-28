@@ -1,0 +1,11 @@
+{
+  "id": "ce67ad5c-1fbe-498c-90f0-605a807515cb",
+  "object": "beer",
+  "name": "Scotch on Scotch",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

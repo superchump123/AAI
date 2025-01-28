@@ -1,0 +1,11 @@
+{
+  "id": "59db026d-18f3-4386-8f2b-24bd0e461a7a",
+  "object": "beer",
+  "name": "Maven with Cocoa Nibs",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

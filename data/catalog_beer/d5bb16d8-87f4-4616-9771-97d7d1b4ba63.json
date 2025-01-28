@@ -1,0 +1,11 @@
+{
+  "id": "d5bb16d8-87f4-4616-9771-97d7d1b4ba63",
+  "object": "beer",
+  "name": "Coke Oven",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "48793d3e-ec8f-4640-89f5-7d055b7bbb14",
+  "object": "beer",
+  "name": "Moo Moo Farm",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

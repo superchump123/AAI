@@ -1,0 +1,11 @@
+{
+  "id": "9ae278f0-d7a3-4b9c-bd67-49e76a587e52",
+  "object": "beer",
+  "name": "Dalton's Juice",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

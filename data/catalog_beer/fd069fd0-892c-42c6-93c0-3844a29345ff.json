@@ -1,0 +1,11 @@
+{
+  "id": "fd069fd0-892c-42c6-93c0-3844a29345ff",
+  "object": "beer",
+  "name": "Honey Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

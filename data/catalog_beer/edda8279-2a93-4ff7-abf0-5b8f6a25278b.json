@@ -1,0 +1,11 @@
+{
+  "id": "edda8279-2a93-4ff7-abf0-5b8f6a25278b",
+  "object": "beer",
+  "name": "Deep Cocoa",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

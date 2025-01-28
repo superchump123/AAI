@@ -1,0 +1,11 @@
+{
+  "id": "0a9519f1-c39b-4ad6-bff0-59cb322f3f50",
+  "object": "beer",
+  "name": "Wonderlust Saison Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

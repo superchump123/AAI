@@ -1,0 +1,11 @@
+{
+  "id": "12554fce-b840-4899-ab2e-de19eb8c239f",
+  "object": "beer",
+  "name": "B Side",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

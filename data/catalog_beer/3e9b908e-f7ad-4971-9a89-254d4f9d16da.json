@@ -1,0 +1,11 @@
+{
+  "id": "3e9b908e-f7ad-4971-9a89-254d4f9d16da",
+  "object": "beer",
+  "name": "Flash Bang",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

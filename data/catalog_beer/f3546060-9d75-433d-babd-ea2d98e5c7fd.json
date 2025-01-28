@@ -1,0 +1,11 @@
+{
+  "id": "f3546060-9d75-433d-babd-ea2d98e5c7fd",
+  "object": "beer",
+  "name": "Krombacher Hell",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

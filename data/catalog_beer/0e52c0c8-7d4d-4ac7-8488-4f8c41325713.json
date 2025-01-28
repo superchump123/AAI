@@ -1,0 +1,11 @@
+{
+  "id": "0e52c0c8-7d4d-4ac7-8488-4f8c41325713",
+  "object": "beer",
+  "name": "Beer Du Jour",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

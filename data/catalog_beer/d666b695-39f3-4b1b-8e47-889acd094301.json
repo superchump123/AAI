@@ -1,0 +1,11 @@
+{
+  "id": "d666b695-39f3-4b1b-8e47-889acd094301",
+  "object": "beer",
+  "name": "William Tell Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

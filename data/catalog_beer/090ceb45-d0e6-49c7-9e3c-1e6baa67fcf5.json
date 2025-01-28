@@ -1,0 +1,11 @@
+{
+  "id": "090ceb45-d0e6-49c7-9e3c-1e6baa67fcf5",
+  "object": "beer",
+  "name": "Copper Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

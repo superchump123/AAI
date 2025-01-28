@@ -1,0 +1,11 @@
+{
+  "id": "f4daaefc-d6c3-428c-9a6e-e20c79d2497d",
+  "object": "beer",
+  "name": "Hubertus Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

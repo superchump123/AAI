@@ -1,0 +1,11 @@
+{
+  "id": "9e50b3b9-a36f-4461-bf1a-5e40c5e1d41d",
+  "object": "beer",
+  "name": "63 Scottish Fold Oracle",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5e4a813c-1e2e-41c3-89c0-5c224cf636ca",
+  "object": "beer",
+  "name": "Dark Ale",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

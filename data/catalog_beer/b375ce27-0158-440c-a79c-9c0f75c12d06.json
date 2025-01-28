@@ -1,0 +1,11 @@
+{
+  "id": "b375ce27-0158-440c-a79c-9c0f75c12d06",
+  "object": "beer",
+  "name": "Horse Thief IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

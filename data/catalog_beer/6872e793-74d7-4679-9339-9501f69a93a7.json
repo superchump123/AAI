@@ -1,0 +1,11 @@
+{
+  "id": "6872e793-74d7-4679-9339-9501f69a93a7",
+  "object": "beer",
+  "name": "Catawampus",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

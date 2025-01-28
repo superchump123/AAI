@@ -1,0 +1,11 @@
+{
+  "id": "37903ac5-b6eb-4808-965f-f44e3352922e",
+  "object": "beer",
+  "name": "Cheer Beer",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

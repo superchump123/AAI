@@ -1,0 +1,11 @@
+{
+  "id": "96acd73f-2f59-420a-b32c-18d5d803a8c1",
+  "object": "beer",
+  "name": "Tornado",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

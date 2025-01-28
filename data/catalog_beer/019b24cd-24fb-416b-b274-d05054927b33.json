@@ -1,0 +1,11 @@
+{
+  "id": "019b24cd-24fb-416b-b274-d05054927b33",
+  "object": "beer",
+  "name": "Mr. Poppleton",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

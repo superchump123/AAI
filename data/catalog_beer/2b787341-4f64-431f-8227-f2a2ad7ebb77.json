@@ -1,0 +1,11 @@
+{
+  "id": "2b787341-4f64-431f-8227-f2a2ad7ebb77",
+  "object": "beer",
+  "name": "Pick Your Own",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

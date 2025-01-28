@@ -1,0 +1,11 @@
+{
+  "id": "8e99a5a9-b844-494b-8519-c2b7955dcfde",
+  "object": "beer",
+  "name": "Butternut Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

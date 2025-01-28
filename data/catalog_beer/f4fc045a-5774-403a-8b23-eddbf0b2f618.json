@@ -1,0 +1,11 @@
+{
+  "id": "f4fc045a-5774-403a-8b23-eddbf0b2f618",
+  "object": "beer",
+  "name": "Pink Lemonade Sour Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

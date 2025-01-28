@@ -1,0 +1,11 @@
+{
+  "id": "f68bcd8c-d1c0-441f-9b4c-19b1b6cd7544",
+  "object": "beer",
+  "name": "Saranac Nut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

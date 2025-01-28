@@ -1,0 +1,11 @@
+{
+  "id": "1f2644ee-df17-490d-a7bb-5370c1750f05",
+  "object": "beer",
+  "name": "Wooly",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

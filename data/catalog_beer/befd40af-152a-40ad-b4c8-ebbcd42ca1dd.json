@@ -1,0 +1,11 @@
+{
+  "id": "befd40af-152a-40ad-b4c8-ebbcd42ca1dd",
+  "object": "beer",
+  "name": "Jack Hammer Big Pumpkin Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bc5e8294-e501-46ce-8ae9-ad0b5fc1813c",
+  "object": "beer",
+  "name": "Old Whiskers Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

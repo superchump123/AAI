@@ -1,0 +1,11 @@
+{
+  "id": "4d7696f9-eb55-4c0c-8a5e-b35c7c06ea9b",
+  "object": "beer",
+  "name": "Brettaberry",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

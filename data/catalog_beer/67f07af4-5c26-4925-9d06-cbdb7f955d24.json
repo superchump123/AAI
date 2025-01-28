@@ -1,0 +1,11 @@
+{
+  "id": "67f07af4-5c26-4925-9d06-cbdb7f955d24",
+  "object": "beer",
+  "name": "Two Captains",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

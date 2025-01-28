@@ -1,0 +1,11 @@
+{
+  "id": "7abcd48a-fc9d-4d39-9b1c-646b75cd5096",
+  "object": "beer",
+  "name": "Deprivation",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

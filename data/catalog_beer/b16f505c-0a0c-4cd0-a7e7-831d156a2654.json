@@ -1,0 +1,11 @@
+{
+  "id": "b16f505c-0a0c-4cd0-a7e7-831d156a2654",
+  "object": "beer",
+  "name": "Just the Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "13e23880-e8ee-4df7-833a-227a1b692a72",
+  "object": "beer",
+  "name": "Envy",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

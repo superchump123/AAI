@@ -1,0 +1,11 @@
+{
+  "id": "0fc6ea28-9cc5-4e24-a812-dadb60e55205",
+  "object": "beer",
+  "name": "Black Ice",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

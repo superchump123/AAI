@@ -1,0 +1,11 @@
+{
+  "id": "f6d9345f-6265-4b57-be43-8afe7410176c",
+  "object": "beer",
+  "name": "Night Shift",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

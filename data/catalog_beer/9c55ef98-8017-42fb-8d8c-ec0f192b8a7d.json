@@ -1,0 +1,11 @@
+{
+  "id": "9c55ef98-8017-42fb-8d8c-ec0f192b8a7d",
+  "object": "beer",
+  "name": "MadBeach American Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

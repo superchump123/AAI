@@ -1,0 +1,11 @@
+{
+  "id": "9c4307bf-8061-44e5-9dbb-990c27240819",
+  "object": "beer",
+  "name": "Heide",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

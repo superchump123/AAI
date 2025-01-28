@@ -1,0 +1,11 @@
+{
+  "id": "6d1fd92a-1393-4630-9c2f-114cc3bc3d46",
+  "object": "beer",
+  "name": "Happy Sol",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

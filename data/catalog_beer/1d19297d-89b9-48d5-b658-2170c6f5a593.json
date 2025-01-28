@@ -1,0 +1,11 @@
+{
+  "id": "1d19297d-89b9-48d5-b658-2170c6f5a593",
+  "object": "beer",
+  "name": "Mad River Milk Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "adf4d6c2-a1fa-4d8a-8de7-b8a07bb0da37",
+  "object": "beer",
+  "name": "Witless",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

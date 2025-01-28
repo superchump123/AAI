@@ -1,0 +1,11 @@
+{
+  "id": "6ec07898-7df3-40e8-8695-5eb77bc9f1ef",
+  "object": "beer",
+  "name": "Marlinspike",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

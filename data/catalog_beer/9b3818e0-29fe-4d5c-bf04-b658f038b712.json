@@ -1,0 +1,11 @@
+{
+  "id": "9b3818e0-29fe-4d5c-bf04-b658f038b712",
+  "object": "beer",
+  "name": "Fat Gary Nut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

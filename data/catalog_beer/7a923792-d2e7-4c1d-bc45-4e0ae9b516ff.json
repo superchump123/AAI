@@ -1,0 +1,11 @@
+{
+  "id": "7a923792-d2e7-4c1d-bc45-4e0ae9b516ff",
+  "object": "beer",
+  "name": "Awesome Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

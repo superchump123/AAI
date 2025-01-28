@@ -1,0 +1,11 @@
+{
+  "id": "eb4bc8f7-804a-4cb8-9f7c-706fe2e859d7",
+  "object": "beer",
+  "name": "White by Mystic",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

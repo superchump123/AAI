@@ -1,0 +1,11 @@
+{
+  "id": "ea81ab61-b886-4699-a7f1-9e032e67aa8f",
+  "object": "beer",
+  "name": "Baird's Forge Imperial Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

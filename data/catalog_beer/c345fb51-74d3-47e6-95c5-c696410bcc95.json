@@ -1,0 +1,11 @@
+{
+  "id": "c345fb51-74d3-47e6-95c5-c696410bcc95",
+  "object": "beer",
+  "name": "River Street Praline Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

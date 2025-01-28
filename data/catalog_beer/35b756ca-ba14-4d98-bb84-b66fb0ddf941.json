@@ -1,0 +1,11 @@
+{
+  "id": "35b756ca-ba14-4d98-bb84-b66fb0ddf941",
+  "object": "beer",
+  "name": "Hoppy Poppy IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

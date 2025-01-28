@@ -1,0 +1,11 @@
+{
+  "id": "bfc982f9-5c21-4d91-b69f-72ecb6cbc715",
+  "object": "beer",
+  "name": "Pecan Session",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

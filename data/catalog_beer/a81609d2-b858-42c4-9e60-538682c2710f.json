@@ -1,0 +1,11 @@
+{
+  "id": "a81609d2-b858-42c4-9e60-538682c2710f",
+  "object": "beer",
+  "name": "Iberus",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

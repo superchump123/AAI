@@ -1,0 +1,11 @@
+{
+  "id": "ce4ffd76-3199-4214-88a8-435c47890d1e",
+  "object": "beer",
+  "name": "Pearl of Kent",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

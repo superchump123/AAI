@@ -1,0 +1,11 @@
+{
+  "id": "4c37276c-0e72-45d0-b71f-076d703fd98d",
+  "object": "beer",
+  "name": "Cyser",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

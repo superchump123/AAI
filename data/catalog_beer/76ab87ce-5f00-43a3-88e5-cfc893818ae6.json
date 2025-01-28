@@ -1,0 +1,11 @@
+{
+  "id": "76ab87ce-5f00-43a3-88e5-cfc893818ae6",
+  "object": "beer",
+  "name": "Petrus Speciale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

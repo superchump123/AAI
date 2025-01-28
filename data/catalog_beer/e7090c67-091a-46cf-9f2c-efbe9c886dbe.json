@@ -1,0 +1,11 @@
+{
+  "id": "e7090c67-091a-46cf-9f2c-efbe9c886dbe",
+  "object": "beer",
+  "name": "Blood Of The Unicorn",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

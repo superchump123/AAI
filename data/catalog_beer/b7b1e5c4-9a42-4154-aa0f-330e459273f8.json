@@ -1,0 +1,11 @@
+{
+  "id": "b7b1e5c4-9a42-4154-aa0f-330e459273f8",
+  "object": "beer",
+  "name": "Winter's Night",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9aec8788-dd74-4102-a3d5-5c43367056aa",
+  "object": "beer",
+  "name": "Preacher",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd951011-03f0-4136-981c-55d27ba9d1ae",
+  "object": "beer",
+  "name": "High Hopes IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

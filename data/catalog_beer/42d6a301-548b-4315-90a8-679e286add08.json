@@ -1,0 +1,11 @@
+{
+  "id": "42d6a301-548b-4315-90a8-679e286add08",
+  "object": "beer",
+  "name": "Flor De Luna",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

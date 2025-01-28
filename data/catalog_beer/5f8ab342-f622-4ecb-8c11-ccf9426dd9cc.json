@@ -1,0 +1,11 @@
+{
+  "id": "5f8ab342-f622-4ecb-8c11-ccf9426dd9cc",
+  "object": "beer",
+  "name": "Crazy Cliff Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

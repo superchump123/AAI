@@ -1,0 +1,11 @@
+{
+  "id": "e2de3e7f-bf3d-4457-9c90-569153d5201b",
+  "object": "beer",
+  "name": "Streetwise",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

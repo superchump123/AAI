@@ -1,0 +1,11 @@
+{
+  "id": "0355c7a4-4478-40e7-ab65-e086ca8d829a",
+  "object": "beer",
+  "name": "Austin Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

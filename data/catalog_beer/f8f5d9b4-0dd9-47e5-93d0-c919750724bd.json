@@ -1,0 +1,11 @@
+{
+  "id": "f8f5d9b4-0dd9-47e5-93d0-c919750724bd",
+  "object": "beer",
+  "name": "Happy Mango Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 79,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

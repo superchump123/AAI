@@ -1,0 +1,11 @@
+{
+  "id": "a6c7e3c7-f3fe-4a65-829b-f635c5646b93",
+  "object": "beer",
+  "name": "Irish Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

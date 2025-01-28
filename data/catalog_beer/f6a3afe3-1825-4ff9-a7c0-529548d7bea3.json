@@ -1,0 +1,11 @@
+{
+  "id": "f6a3afe3-1825-4ff9-a7c0-529548d7bea3",
+  "object": "beer",
+  "name": "Top Hops IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

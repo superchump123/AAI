@@ -1,0 +1,11 @@
+{
+  "id": "96c0e354-babb-408c-95c9-ce655d818485",
+  "object": "beer",
+  "name": "Black Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

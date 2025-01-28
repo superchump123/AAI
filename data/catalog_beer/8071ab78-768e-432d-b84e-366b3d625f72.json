@@ -1,0 +1,11 @@
+{
+  "id": "8071ab78-768e-432d-b84e-366b3d625f72",
+  "object": "beer",
+  "name": "Judge Roy Bean",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

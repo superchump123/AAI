@@ -1,0 +1,11 @@
+{
+  "id": "f5d2ad2a-912e-4c07-b6f8-98c50b923e6a",
+  "object": "beer",
+  "name": "Trinactka",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "60c1997b-6a34-41b4-b8f0-b95db706012b",
+  "object": "beer",
+  "name": "2xMas",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

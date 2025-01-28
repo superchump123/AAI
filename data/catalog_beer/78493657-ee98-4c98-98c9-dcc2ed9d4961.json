@@ -1,0 +1,11 @@
+{
+  "id": "78493657-ee98-4c98-98c9-dcc2ed9d4961",
+  "object": "beer",
+  "name": "Bear Trap",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

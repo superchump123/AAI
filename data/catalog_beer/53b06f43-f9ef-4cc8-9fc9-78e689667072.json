@@ -1,0 +1,11 @@
+{
+  "id": "53b06f43-f9ef-4cc8-9fc9-78e689667072",
+  "object": "beer",
+  "name": "Le Woof",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b6026cff-b78a-47f3-88e4-0a9ea8a4d35a",
+  "object": "beer",
+  "name": "Honey Harvest",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

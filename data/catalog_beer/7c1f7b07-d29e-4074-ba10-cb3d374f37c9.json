@@ -1,0 +1,11 @@
+{
+  "id": "7c1f7b07-d29e-4074-ba10-cb3d374f37c9",
+  "object": "beer",
+  "name": "Picture of Nectar",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

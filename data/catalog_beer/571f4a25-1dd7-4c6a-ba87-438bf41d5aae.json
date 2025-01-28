@@ -1,0 +1,11 @@
+{
+  "id": "571f4a25-1dd7-4c6a-ba87-438bf41d5aae",
+  "object": "beer",
+  "name": "Barnraiser",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

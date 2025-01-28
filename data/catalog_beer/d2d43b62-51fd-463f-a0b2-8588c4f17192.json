@@ -1,0 +1,11 @@
+{
+  "id": "d2d43b62-51fd-463f-a0b2-8588c4f17192",
+  "object": "beer",
+  "name": "Clear Sky",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

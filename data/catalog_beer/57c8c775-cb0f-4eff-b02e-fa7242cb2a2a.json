@@ -1,0 +1,11 @@
+{
+  "id": "57c8c775-cb0f-4eff-b02e-fa7242cb2a2a",
+  "object": "beer",
+  "name": "Up In Smoke",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

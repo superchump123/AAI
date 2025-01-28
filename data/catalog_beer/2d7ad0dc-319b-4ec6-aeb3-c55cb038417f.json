@@ -1,0 +1,11 @@
+{
+  "id": "2d7ad0dc-319b-4ec6-aeb3-c55cb038417f",
+  "object": "beer",
+  "name": "Dragoon",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

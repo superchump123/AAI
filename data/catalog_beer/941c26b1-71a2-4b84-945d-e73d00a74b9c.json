@@ -1,0 +1,11 @@
+{
+  "id": "941c26b1-71a2-4b84-945d-e73d00a74b9c",
+  "object": "beer",
+  "name": "Double Strong Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

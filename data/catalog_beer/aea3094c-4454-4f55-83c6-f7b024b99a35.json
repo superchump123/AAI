@@ -1,0 +1,11 @@
+{
+  "id": "aea3094c-4454-4f55-83c6-f7b024b99a35",
+  "object": "beer",
+  "name": "EffinghammerWeisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

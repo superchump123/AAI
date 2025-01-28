@@ -1,0 +1,11 @@
+{
+  "id": "4b648643-4b7b-420a-8547-63cceb8b0493",
+  "object": "beer",
+  "name": "Regalia",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

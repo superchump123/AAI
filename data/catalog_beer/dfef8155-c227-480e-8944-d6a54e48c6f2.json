@@ -1,0 +1,11 @@
+{
+  "id": "dfef8155-c227-480e-8944-d6a54e48c6f2",
+  "object": "beer",
+  "name": "Dead Guy Ale",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

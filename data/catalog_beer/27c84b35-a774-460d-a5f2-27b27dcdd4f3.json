@@ -1,0 +1,11 @@
+{
+  "id": "27c84b35-a774-460d-a5f2-27b27dcdd4f3",
+  "object": "beer",
+  "name": "Brunehaut Bio Triple",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

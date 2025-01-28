@@ -1,0 +1,11 @@
+{
+  "id": "2954f65d-e197-4761-b9bd-f8e3e05d30a8",
+  "object": "beer",
+  "name": "Sidra De Nava",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

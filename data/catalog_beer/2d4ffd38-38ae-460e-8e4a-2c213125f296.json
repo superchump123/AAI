@@ -1,0 +1,11 @@
+{
+  "id": "2d4ffd38-38ae-460e-8e4a-2c213125f296",
+  "object": "beer",
+  "name": "Tripel Homicide",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40db7db5-1234-4441-9b43-5ac69de87073",
+  "object": "beer",
+  "name": "Red Dawn Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9447903f-748a-43d6-adca-b6ec1649185d",
+  "object": "beer",
+  "name": "Imperial Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64b0c045-0776-496f-9dd0-f86b7a099e0d",
+  "object": "beer",
+  "name": "Borderland IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

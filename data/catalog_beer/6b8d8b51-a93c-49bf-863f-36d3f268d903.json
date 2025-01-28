@@ -1,0 +1,11 @@
+{
+  "id": "6b8d8b51-a93c-49bf-863f-36d3f268d903",
+  "object": "beer",
+  "name": "Odin\u2019s Gift",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

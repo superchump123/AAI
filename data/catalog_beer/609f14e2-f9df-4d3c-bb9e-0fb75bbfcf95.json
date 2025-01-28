@@ -1,0 +1,11 @@
+{
+  "id": "609f14e2-f9df-4d3c-bb9e-0fb75bbfcf95",
+  "object": "beer",
+  "name": "Old Faithorn",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

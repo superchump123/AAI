@@ -1,0 +1,11 @@
+{
+  "id": "6da9ab50-4524-4fee-8bff-d4ba9bcaa408",
+  "object": "beer",
+  "name": "Elderado Smash",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "27f22812-cb85-4cea-b4b9-2b4430c62763",
+  "object": "beer",
+  "name": "Lissome",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7b9c44f3-44cb-4c0f-80e5-b22163d154bb",
+  "object": "beer",
+  "name": "Four Founders",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

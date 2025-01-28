@@ -1,0 +1,11 @@
+{
+  "id": "d9c45a7d-1f7f-4136-8d89-bd7a662b3f20",
+  "object": "beer",
+  "name": "Caulier Extra",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

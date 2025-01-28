@@ -1,0 +1,11 @@
+{
+  "id": "5d53a7e1-4c09-4e80-a096-6d60fc92632a",
+  "object": "beer",
+  "name": "Jaded Raver",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

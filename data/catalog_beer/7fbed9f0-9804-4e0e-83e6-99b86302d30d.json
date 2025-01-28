@@ -1,0 +1,11 @@
+{
+  "id": "7fbed9f0-9804-4e0e-83e6-99b86302d30d",
+  "object": "beer",
+  "name": "Birthday Session",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

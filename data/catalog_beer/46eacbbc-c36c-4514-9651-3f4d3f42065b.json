@@ -1,0 +1,11 @@
+{
+  "id": "46eacbbc-c36c-4514-9651-3f4d3f42065b",
+  "object": "beer",
+  "name": "Mine Is Bigger Than Yours",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

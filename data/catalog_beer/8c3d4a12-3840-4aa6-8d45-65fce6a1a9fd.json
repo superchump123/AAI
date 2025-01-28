@@ -1,0 +1,11 @@
+{
+  "id": "8c3d4a12-3840-4aa6-8d45-65fce6a1a9fd",
+  "object": "beer",
+  "name": "Miami Weiss",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

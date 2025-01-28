@@ -1,0 +1,11 @@
+{
+  "id": "548a90ee-ab2b-4886-aae2-6cdfc7d5fcef",
+  "object": "beer",
+  "name": "Virginia Draft",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

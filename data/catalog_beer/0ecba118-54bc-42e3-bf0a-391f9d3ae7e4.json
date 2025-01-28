@@ -1,0 +1,11 @@
+{
+  "id": "0ecba118-54bc-42e3-bf0a-391f9d3ae7e4",
+  "object": "beer",
+  "name": "Townie Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

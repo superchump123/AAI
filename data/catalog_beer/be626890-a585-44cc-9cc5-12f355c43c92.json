@@ -1,0 +1,11 @@
+{
+  "id": "be626890-a585-44cc-9cc5-12f355c43c92",
+  "object": "beer",
+  "name": "Nutter Butter Bear",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

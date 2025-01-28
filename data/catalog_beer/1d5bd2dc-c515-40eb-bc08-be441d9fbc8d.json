@@ -1,0 +1,11 @@
+{
+  "id": "1d5bd2dc-c515-40eb-bc08-be441d9fbc8d",
+  "object": "beer",
+  "name": "Green Day",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

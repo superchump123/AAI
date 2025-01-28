@@ -1,0 +1,11 @@
+{
+  "id": "3fcea44c-2d65-4faf-99b5-411200a0d78b",
+  "object": "beer",
+  "name": "Salty Water",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

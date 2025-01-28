@@ -1,0 +1,11 @@
+{
+  "id": "c3ea5623-0de8-4dc6-85fa-a628981a313c",
+  "object": "beer",
+  "name": "Pacific Coast Brewing Emerald Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

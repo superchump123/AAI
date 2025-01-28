@@ -1,0 +1,11 @@
+{
+  "id": "636d6137-bebb-4792-bfd9-1d527684c94a",
+  "object": "beer",
+  "name": "Harmony Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

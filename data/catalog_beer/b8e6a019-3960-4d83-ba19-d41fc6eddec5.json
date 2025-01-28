@@ -1,0 +1,11 @@
+{
+  "id": "b8e6a019-3960-4d83-ba19-d41fc6eddec5",
+  "object": "beer",
+  "name": "Cutie Pie",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

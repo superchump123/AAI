@@ -1,0 +1,11 @@
+{
+  "id": "20b92993-3434-4237-9776-452387b7a815",
+  "object": "beer",
+  "name": "Trigo",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

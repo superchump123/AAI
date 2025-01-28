@@ -1,0 +1,11 @@
+{
+  "id": "f6dbb61c-77af-46e8-a2f5-e53140d2be1b",
+  "object": "beer",
+  "name": "Bitter Ass",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

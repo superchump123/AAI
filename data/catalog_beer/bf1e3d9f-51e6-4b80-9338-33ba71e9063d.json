@@ -1,0 +1,11 @@
+{
+  "id": "bf1e3d9f-51e6-4b80-9338-33ba71e9063d",
+  "object": "beer",
+  "name": "Annie",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

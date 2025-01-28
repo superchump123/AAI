@@ -1,0 +1,11 @@
+{
+  "id": "3d6bed8a-55fe-4789-80ae-714c69649ffe",
+  "object": "beer",
+  "name": "Clausthaler Extra Herb",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "544c7513-af16-4e02-b97c-635e258ede0f",
+  "object": "beer",
+  "name": "Cherry Springer",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

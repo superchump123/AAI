@@ -1,0 +1,11 @@
+{
+  "id": "45e66c13-9add-49e0-9150-0f2ef9d96d5f",
+  "object": "beer",
+  "name": "Bow Valley Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

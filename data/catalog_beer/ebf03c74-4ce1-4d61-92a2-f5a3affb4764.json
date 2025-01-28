@@ -1,0 +1,11 @@
+{
+  "id": "ebf03c74-4ce1-4d61-92a2-f5a3affb4764",
+  "object": "beer",
+  "name": "Pull Chain",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

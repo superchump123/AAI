@@ -1,0 +1,11 @@
+{
+  "id": "a6a0e844-7f30-414b-9b6a-f34cf7c7ceef",
+  "object": "beer",
+  "name": "Hop Haze Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

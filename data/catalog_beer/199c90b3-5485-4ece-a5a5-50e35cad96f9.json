@@ -1,0 +1,11 @@
+{
+  "id": "199c90b3-5485-4ece-a5a5-50e35cad96f9",
+  "object": "beer",
+  "name": "Bavarian Dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

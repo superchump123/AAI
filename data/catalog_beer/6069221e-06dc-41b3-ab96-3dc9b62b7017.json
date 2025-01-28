@@ -1,0 +1,11 @@
+{
+  "id": "6069221e-06dc-41b3-ab96-3dc9b62b7017",
+  "object": "beer",
+  "name": "Berry Weiss",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

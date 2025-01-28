@@ -1,0 +1,11 @@
+{
+  "id": "3946bb20-356f-4ad0-ba96-8e1d7b587cbd",
+  "object": "beer",
+  "name": "Olde Bluehair",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

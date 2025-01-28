@@ -1,0 +1,11 @@
+{
+  "id": "a2218801-79dd-428a-a42a-c5da33f8acb2",
+  "object": "beer",
+  "name": "Bee Line Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

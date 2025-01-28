@@ -1,0 +1,11 @@
+{
+  "id": "b2288e58-e4bb-46ab-9371-0dc6b802b0ec",
+  "object": "beer",
+  "name": "Jolly Roger",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

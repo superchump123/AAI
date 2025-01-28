@@ -1,0 +1,11 @@
+{
+  "id": "f89ee10d-7521-4de4-b48d-ea9d550c817c",
+  "object": "beer",
+  "name": "Fresh Hopped IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f42998db-2ab0-4aa4-abb9-d5298c303806",
+  "object": "beer",
+  "name": "Sweet Georgia Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

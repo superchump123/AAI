@@ -1,0 +1,11 @@
+{
+  "id": "0a09abd1-f7c2-4e93-96ce-cfc97b57b938",
+  "object": "beer",
+  "name": "Berry White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

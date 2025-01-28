@@ -1,0 +1,11 @@
+{
+  "id": "4d55050f-3a38-43bc-be48-6ff9bebcbe13",
+  "object": "beer",
+  "name": "Mission Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

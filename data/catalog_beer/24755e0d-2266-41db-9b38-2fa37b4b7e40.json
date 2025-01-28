@@ -1,0 +1,11 @@
+{
+  "id": "24755e0d-2266-41db-9b38-2fa37b4b7e40",
+  "object": "beer",
+  "name": "Martini Weissbier Hell",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

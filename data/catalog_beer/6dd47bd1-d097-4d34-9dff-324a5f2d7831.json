@@ -1,0 +1,11 @@
+{
+  "id": "6dd47bd1-d097-4d34-9dff-324a5f2d7831",
+  "object": "beer",
+  "name": "Late Harvest Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

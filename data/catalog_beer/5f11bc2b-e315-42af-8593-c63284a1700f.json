@@ -1,0 +1,11 @@
+{
+  "id": "5f11bc2b-e315-42af-8593-c63284a1700f",
+  "object": "beer",
+  "name": "Bi\u00e8re de Mars",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

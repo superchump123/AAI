@@ -1,0 +1,11 @@
+{
+  "id": "6d1eeb0c-bccb-462d-b92c-82e68d093a96",
+  "object": "beer",
+  "name": "Ale Mucho Hoppo",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

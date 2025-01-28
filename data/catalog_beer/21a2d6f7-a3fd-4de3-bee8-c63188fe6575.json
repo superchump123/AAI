@@ -1,0 +1,11 @@
+{
+  "id": "21a2d6f7-a3fd-4de3-bee8-c63188fe6575",
+  "object": "beer",
+  "name": "Stoup Bavarian Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ec5f4e16-b14a-4681-b61c-4a6ebd8d57f5",
+  "object": "beer",
+  "name": "Ambrosia Maibock",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

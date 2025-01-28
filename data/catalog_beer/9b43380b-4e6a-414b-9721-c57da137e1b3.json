@@ -1,0 +1,11 @@
+{
+  "id": "9b43380b-4e6a-414b-9721-c57da137e1b3",
+  "object": "beer",
+  "name": "Colorojo",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4752f7cc-b013-4c60-bea0-324967c84dec",
+  "object": "beer",
+  "name": "Cotton Mill Gold",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

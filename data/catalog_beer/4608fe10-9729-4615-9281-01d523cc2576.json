@@ -1,0 +1,11 @@
+{
+  "id": "4608fe10-9729-4615-9281-01d523cc2576",
+  "object": "beer",
+  "name": "Rumrunner Coffee Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

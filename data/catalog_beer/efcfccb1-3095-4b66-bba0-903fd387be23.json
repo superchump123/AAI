@@ -1,0 +1,11 @@
+{
+  "id": "efcfccb1-3095-4b66-bba0-903fd387be23",
+  "object": "beer",
+  "name": "Prunus",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

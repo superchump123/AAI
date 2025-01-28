@@ -1,0 +1,11 @@
+{
+  "id": "abbaad1f-93ca-4e58-a912-b16f9792b79b",
+  "object": "beer",
+  "name": "Advent Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

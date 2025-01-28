@@ -1,0 +1,11 @@
+{
+  "id": "75ba7563-97d0-411c-bb74-b0de8a6aa6e9",
+  "object": "beer",
+  "name": "Sky Pilot Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

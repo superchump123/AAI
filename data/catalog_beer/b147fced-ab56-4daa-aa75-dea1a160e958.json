@@ -1,0 +1,11 @@
+{
+  "id": "b147fced-ab56-4daa-aa75-dea1a160e958",
+  "object": "beer",
+  "name": "Dark Bloom",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

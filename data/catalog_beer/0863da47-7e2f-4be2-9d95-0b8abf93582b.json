@@ -1,0 +1,11 @@
+{
+  "id": "0863da47-7e2f-4be2-9d95-0b8abf93582b",
+  "object": "beer",
+  "name": "Cin-Ful Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

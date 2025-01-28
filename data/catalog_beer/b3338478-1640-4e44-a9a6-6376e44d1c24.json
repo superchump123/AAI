@@ -1,0 +1,11 @@
+{
+  "id": "b3338478-1640-4e44-a9a6-6376e44d1c24",
+  "object": "beer",
+  "name": "Amberjack ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

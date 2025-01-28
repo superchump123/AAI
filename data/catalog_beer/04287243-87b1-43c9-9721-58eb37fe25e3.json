@@ -1,0 +1,11 @@
+{
+  "id": "04287243-87b1-43c9-9721-58eb37fe25e3",
+  "object": "beer",
+  "name": "Paradise Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

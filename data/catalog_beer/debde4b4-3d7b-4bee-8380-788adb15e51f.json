@@ -1,0 +1,11 @@
+{
+  "id": "debde4b4-3d7b-4bee-8380-788adb15e51f",
+  "object": "beer",
+  "name": "Larkin's Irish Stout",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

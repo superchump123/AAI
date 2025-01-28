@@ -1,0 +1,11 @@
+{
+  "id": "34c8f7a6-021e-4285-83e0-b868e3757d8a",
+  "object": "beer",
+  "name": "King Crimson",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

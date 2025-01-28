@@ -1,0 +1,11 @@
+{
+  "id": "41a7e176-7708-42d4-acd6-d9fc2e066951",
+  "object": "beer",
+  "name": "Haandbakk",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

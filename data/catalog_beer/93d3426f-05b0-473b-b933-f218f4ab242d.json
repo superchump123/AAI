@@ -1,0 +1,11 @@
+{
+  "id": "93d3426f-05b0-473b-b933-f218f4ab242d",
+  "object": "beer",
+  "name": "Prize Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

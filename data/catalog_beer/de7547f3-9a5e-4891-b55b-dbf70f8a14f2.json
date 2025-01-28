@@ -1,0 +1,11 @@
+{
+  "id": "de7547f3-9a5e-4891-b55b-dbf70f8a14f2",
+  "object": "beer",
+  "name": "Brick House Blonde",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0b8e18a6-a2ec-4ab2-bf39-42c91f82fd6a",
+  "object": "beer",
+  "name": "Bayside Black IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

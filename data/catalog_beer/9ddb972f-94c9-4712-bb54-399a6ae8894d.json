@@ -1,0 +1,11 @@
+{
+  "id": "9ddb972f-94c9-4712-bb54-399a6ae8894d",
+  "object": "beer",
+  "name": "Porter Joe",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

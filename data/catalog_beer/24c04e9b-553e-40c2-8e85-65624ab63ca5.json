@@ -1,0 +1,11 @@
+{
+  "id": "24c04e9b-553e-40c2-8e85-65624ab63ca5",
+  "object": "beer",
+  "name": "Barrel-Aged HopAnomaly",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9e84d516-0072-45d2-9d73-8924134a7f52",
+  "object": "beer",
+  "name": "Farmhand Ale",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

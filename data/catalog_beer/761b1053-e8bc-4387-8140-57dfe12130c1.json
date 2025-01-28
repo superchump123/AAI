@@ -1,0 +1,11 @@
+{
+  "id": "761b1053-e8bc-4387-8140-57dfe12130c1",
+  "object": "beer",
+  "name": "Tempo",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c843998-4183-49aa-9d9b-ba4fc067319a",
+  "object": "beer",
+  "name": "Fierce",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 3,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

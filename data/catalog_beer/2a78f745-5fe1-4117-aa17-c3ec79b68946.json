@@ -1,0 +1,11 @@
+{
+  "id": "2a78f745-5fe1-4117-aa17-c3ec79b68946",
+  "object": "beer",
+  "name": "Fresh IPA",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

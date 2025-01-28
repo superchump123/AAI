@@ -1,0 +1,11 @@
+{
+  "id": "9846d371-59ec-43c9-8208-e590e531addb",
+  "object": "beer",
+  "name": "Black Eye Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

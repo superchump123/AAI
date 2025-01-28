@@ -1,0 +1,11 @@
+{
+  "id": "8e020081-df5b-4437-9dd1-d2a117e3d038",
+  "object": "beer",
+  "name": "Watt Bier Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

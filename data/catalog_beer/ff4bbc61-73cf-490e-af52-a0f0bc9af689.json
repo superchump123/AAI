@@ -1,0 +1,11 @@
+{
+  "id": "ff4bbc61-73cf-490e-af52-a0f0bc9af689",
+  "object": "beer",
+  "name": "Three Steve Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

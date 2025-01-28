@@ -1,0 +1,11 @@
+{
+  "id": "c346e6f8-4d21-49e2-9e50-bc4203096326",
+  "object": "beer",
+  "name": "Laughing Lab Scottish Ale",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

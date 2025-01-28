@@ -1,0 +1,11 @@
+{
+  "id": "6db02ce3-af14-4e18-9643-0d36d66b354f",
+  "object": "beer",
+  "name": "Pig-Pen Pharmhouse Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

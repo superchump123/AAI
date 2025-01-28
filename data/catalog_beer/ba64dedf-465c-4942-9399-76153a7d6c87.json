@@ -1,0 +1,11 @@
+{
+  "id": "ba64dedf-465c-4942-9399-76153a7d6c87",
+  "object": "beer",
+  "name": "Pop's Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

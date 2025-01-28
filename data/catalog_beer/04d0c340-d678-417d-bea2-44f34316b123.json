@@ -1,0 +1,11 @@
+{
+  "id": "04d0c340-d678-417d-bea2-44f34316b123",
+  "object": "beer",
+  "name": "Blanco el Diablo (AKA El Diablo Blanco)",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

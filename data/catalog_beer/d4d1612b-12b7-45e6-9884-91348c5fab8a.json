@@ -1,0 +1,11 @@
+{
+  "id": "d4d1612b-12b7-45e6-9884-91348c5fab8a",
+  "object": "beer",
+  "name": "Rio Chama",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

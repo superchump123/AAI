@@ -1,0 +1,11 @@
+{
+  "id": "d91ab869-1ab3-41b2-9c51-cd1e0f90a7c2",
+  "object": "beer",
+  "name": "Welterweight",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

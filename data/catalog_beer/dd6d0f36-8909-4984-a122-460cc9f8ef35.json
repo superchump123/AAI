@@ -1,0 +1,11 @@
+{
+  "id": "dd6d0f36-8909-4984-a122-460cc9f8ef35",
+  "object": "beer",
+  "name": "Faro Boon",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

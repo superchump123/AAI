@@ -1,0 +1,11 @@
+{
+  "id": "8e013d7f-c4b6-42b7-ae1e-f8eb5d62dad3",
+  "object": "beer",
+  "name": "Velvet Glove",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

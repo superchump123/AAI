@@ -1,0 +1,11 @@
+{
+  "id": "3c2a7209-bc84-49a5-b65d-258dab5694f6",
+  "object": "beer",
+  "name": "Rochestafarian",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

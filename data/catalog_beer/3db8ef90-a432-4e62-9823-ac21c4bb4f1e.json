@@ -1,0 +1,11 @@
+{
+  "id": "3db8ef90-a432-4e62-9823-ac21c4bb4f1e",
+  "object": "beer",
+  "name": "Apollo 55",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

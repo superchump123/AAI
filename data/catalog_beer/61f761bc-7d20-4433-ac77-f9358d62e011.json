@@ -1,0 +1,11 @@
+{
+  "id": "61f761bc-7d20-4433-ac77-f9358d62e011",
+  "object": "beer",
+  "name": "Rooftop Red Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

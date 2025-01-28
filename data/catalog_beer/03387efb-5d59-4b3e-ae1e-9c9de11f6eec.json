@@ -1,0 +1,11 @@
+{
+  "id": "03387efb-5d59-4b3e-ae1e-9c9de11f6eec",
+  "object": "beer",
+  "name": "No Equal Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

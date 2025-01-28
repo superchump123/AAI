@@ -1,0 +1,11 @@
+{
+  "id": "9fa57a93-52a3-490a-b2a2-4f32935c5d07",
+  "object": "beer",
+  "name": "OB Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

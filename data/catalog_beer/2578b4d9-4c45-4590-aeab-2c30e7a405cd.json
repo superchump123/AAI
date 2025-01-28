@@ -1,0 +1,11 @@
+{
+  "id": "2578b4d9-4c45-4590-aeab-2c30e7a405cd",
+  "object": "beer",
+  "name": "Overachiever",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

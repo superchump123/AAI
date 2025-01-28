@@ -1,0 +1,11 @@
+{
+  "id": "30f9da4b-92f7-404d-b43c-ebdcf8bd1e21",
+  "object": "beer",
+  "name": "Amber Ale Winter Rye",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

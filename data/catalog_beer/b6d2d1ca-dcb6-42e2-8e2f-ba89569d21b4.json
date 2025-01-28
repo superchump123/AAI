@@ -1,0 +1,11 @@
+{
+  "id": "b6d2d1ca-dcb6-42e2-8e2f-ba89569d21b4",
+  "object": "beer",
+  "name": "Sun Chaser",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

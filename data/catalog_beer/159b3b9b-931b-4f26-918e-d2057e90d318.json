@@ -1,0 +1,11 @@
+{
+  "id": "159b3b9b-931b-4f26-918e-d2057e90d318",
+  "object": "beer",
+  "name": "Jupiter Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

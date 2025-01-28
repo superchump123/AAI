@@ -1,0 +1,11 @@
+{
+  "id": "bb3da709-6dea-474e-ade6-6e2dbab25b9d",
+  "object": "beer",
+  "name": "Project 9 Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

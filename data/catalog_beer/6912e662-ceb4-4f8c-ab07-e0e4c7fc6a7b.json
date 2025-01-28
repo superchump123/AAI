@@ -1,0 +1,11 @@
+{
+  "id": "6912e662-ceb4-4f8c-ab07-e0e4c7fc6a7b",
+  "object": "beer",
+  "name": "Decadent Dark Chocolate Ale",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

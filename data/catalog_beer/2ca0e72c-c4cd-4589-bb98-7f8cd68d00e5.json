@@ -1,0 +1,11 @@
+{
+  "id": "2ca0e72c-c4cd-4589-bb98-7f8cd68d00e5",
+  "object": "beer",
+  "name": "Barrel Aged Imperial Pumpkin Porter",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

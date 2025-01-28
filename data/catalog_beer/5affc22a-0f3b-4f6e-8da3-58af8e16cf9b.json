@@ -1,0 +1,11 @@
+{
+  "id": "5affc22a-0f3b-4f6e-8da3-58af8e16cf9b",
+  "object": "beer",
+  "name": "Redemption",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

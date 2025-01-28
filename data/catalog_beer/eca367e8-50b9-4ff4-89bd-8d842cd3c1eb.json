@@ -1,0 +1,11 @@
+{
+  "id": "eca367e8-50b9-4ff4-89bd-8d842cd3c1eb",
+  "object": "beer",
+  "name": "Picnic Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

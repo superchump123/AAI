@@ -1,0 +1,11 @@
+{
+  "id": "1ce59e98-b038-42c3-9e12-854725a501a3",
+  "object": "beer",
+  "name": "FIGJAM",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

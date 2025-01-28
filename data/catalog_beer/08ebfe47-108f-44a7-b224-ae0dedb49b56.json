@@ -1,0 +1,11 @@
+{
+  "id": "08ebfe47-108f-44a7-b224-ae0dedb49b56",
+  "object": "beer",
+  "name": "Forgotten Trail",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

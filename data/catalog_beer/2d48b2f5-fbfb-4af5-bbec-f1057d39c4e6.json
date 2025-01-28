@@ -1,0 +1,11 @@
+{
+  "id": "2d48b2f5-fbfb-4af5-bbec-f1057d39c4e6",
+  "object": "beer",
+  "name": "Black Lab Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

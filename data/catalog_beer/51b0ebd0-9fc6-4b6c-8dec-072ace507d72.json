@@ -1,0 +1,11 @@
+{
+  "id": "51b0ebd0-9fc6-4b6c-8dec-072ace507d72",
+  "object": "beer",
+  "name": "Salt N' Peppacorn",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

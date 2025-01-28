@@ -1,0 +1,11 @@
+{
+  "id": "7b945cf8-559a-4b60-8d02-6f34ce828ceb",
+  "object": "beer",
+  "name": "Noel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

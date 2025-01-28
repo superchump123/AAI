@@ -1,0 +1,11 @@
+{
+  "id": "7183e6db-50a0-418d-bcaa-b8a5b914712f",
+  "object": "beer",
+  "name": "6th anniversary",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 14,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

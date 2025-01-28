@@ -1,0 +1,11 @@
+{
+  "id": "24ddb1d7-e0fa-4e39-8d53-aad125163b9b",
+  "object": "beer",
+  "name": "Colonial Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

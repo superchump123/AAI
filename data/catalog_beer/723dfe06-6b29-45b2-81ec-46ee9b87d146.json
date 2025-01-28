@@ -1,0 +1,11 @@
+{
+  "id": "723dfe06-6b29-45b2-81ec-46ee9b87d146",
+  "object": "beer",
+  "name": "Katy Trail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

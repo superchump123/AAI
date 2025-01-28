@@ -1,0 +1,11 @@
+{
+  "id": "88d69135-8c51-4ff2-ad47-8b81ca7da22b",
+  "object": "beer",
+  "name": "Celtic Coffee Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

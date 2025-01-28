@@ -1,0 +1,11 @@
+{
+  "id": "339da948-d4ad-4ec0-92e1-d684ec12bad1",
+  "object": "beer",
+  "name": "Sacrilicious Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

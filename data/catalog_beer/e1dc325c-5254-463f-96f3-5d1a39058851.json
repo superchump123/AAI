@@ -1,0 +1,11 @@
+{
+  "id": "e1dc325c-5254-463f-96f3-5d1a39058851",
+  "object": "beer",
+  "name": "Courage",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a833ff17-5d27-4ae9-b5ec-b21b2ff51d89",
+  "object": "beer",
+  "name": "Ms. Mary Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

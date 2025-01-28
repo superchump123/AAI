@@ -1,0 +1,11 @@
+{
+  "id": "d6729810-4b18-4953-a61d-9e48ddc1358c",
+  "object": "beer",
+  "name": "Revolution",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

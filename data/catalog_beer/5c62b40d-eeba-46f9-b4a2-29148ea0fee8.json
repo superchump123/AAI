@@ -1,0 +1,11 @@
+{
+  "id": "5c62b40d-eeba-46f9-b4a2-29148ea0fee8",
+  "object": "beer",
+  "name": "Modern Savage",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

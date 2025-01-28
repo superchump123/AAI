@@ -1,0 +1,11 @@
+{
+  "id": "5ce42d6a-9cd5-4224-90f3-a54c9c4eee85",
+  "object": "beer",
+  "name": "Belgian Vanilla Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

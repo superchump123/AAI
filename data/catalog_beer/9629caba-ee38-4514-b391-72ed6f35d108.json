@@ -1,0 +1,11 @@
+{
+  "id": "9629caba-ee38-4514-b391-72ed6f35d108",
+  "object": "beer",
+  "name": "Einbecker Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

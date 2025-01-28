@@ -1,0 +1,11 @@
+{
+  "id": "ec79d01a-bfd2-483e-a421-121bd5ed9afc",
+  "object": "beer",
+  "name": "Virginia Tech Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

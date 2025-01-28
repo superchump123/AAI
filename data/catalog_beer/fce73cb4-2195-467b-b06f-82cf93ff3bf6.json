@@ -1,0 +1,11 @@
+{
+  "id": "fce73cb4-2195-467b-b06f-82cf93ff3bf6",
+  "object": "beer",
+  "name": "007 PALE",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

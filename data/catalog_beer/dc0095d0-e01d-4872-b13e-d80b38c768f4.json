@@ -1,0 +1,11 @@
+{
+  "id": "dc0095d0-e01d-4872-b13e-d80b38c768f4",
+  "object": "beer",
+  "name": "AmberCadabra",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3d663ae9-1047-4800-aeb8-d9f2bf070859",
+  "object": "beer",
+  "name": "Bill's Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

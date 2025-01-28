@@ -1,0 +1,11 @@
+{
+  "id": "e556e5c3-a633-475b-a0bf-9c0bd5d66e90",
+  "object": "beer",
+  "name": "Handsome Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

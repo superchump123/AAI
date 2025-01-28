@@ -1,0 +1,11 @@
+{
+  "id": "45b90e6e-1eff-4157-a85f-528c9bb9504c",
+  "object": "beer",
+  "name": "Moninger Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

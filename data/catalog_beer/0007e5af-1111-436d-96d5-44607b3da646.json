@@ -1,0 +1,11 @@
+{
+  "id": "0007e5af-1111-436d-96d5-44607b3da646",
+  "object": "beer",
+  "name": "Green",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

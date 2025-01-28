@@ -1,0 +1,11 @@
+{
+  "id": "95a87a2c-37a3-4db1-ab8c-aaead35f6622",
+  "object": "beer",
+  "name": "Baksteen Winkel",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

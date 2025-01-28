@@ -1,0 +1,11 @@
+{
+  "id": "11228b99-f331-4aeb-98a1-939f729c6011",
+  "object": "beer",
+  "name": "Los Gigantes",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

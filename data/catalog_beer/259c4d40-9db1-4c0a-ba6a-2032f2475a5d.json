@@ -1,0 +1,11 @@
+{
+  "id": "259c4d40-9db1-4c0a-ba6a-2032f2475a5d",
+  "object": "beer",
+  "name": "Farmhouse Hatter",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

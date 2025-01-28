@@ -1,0 +1,11 @@
+{
+  "id": "ba97f3aa-7fda-49f5-a711-ebb9265634ec",
+  "object": "beer",
+  "name": "Rotbier (Hopfenf\u00e4nger)",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

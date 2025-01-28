@@ -1,0 +1,11 @@
+{
+  "id": "ef49acb8-815c-4ca0-9729-c5fda1f6e384",
+  "object": "beer",
+  "name": "Lighthouse Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

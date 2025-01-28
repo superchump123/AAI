@@ -1,0 +1,11 @@
+{
+  "id": "ab9c5035-818c-44c3-8951-790031dec794",
+  "object": "beer",
+  "name": "Kiln & Cone",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

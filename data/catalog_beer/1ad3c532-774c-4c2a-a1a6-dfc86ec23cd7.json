@@ -1,0 +1,11 @@
+{
+  "id": "1ad3c532-774c-4c2a-a1a6-dfc86ec23cd7",
+  "object": "beer",
+  "name": "Weizengoot",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

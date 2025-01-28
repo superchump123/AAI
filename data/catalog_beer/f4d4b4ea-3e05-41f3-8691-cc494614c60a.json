@@ -1,0 +1,11 @@
+{
+  "id": "f4d4b4ea-3e05-41f3-8691-cc494614c60a",
+  "object": "beer",
+  "name": "Resurrection",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

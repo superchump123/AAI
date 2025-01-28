@@ -1,0 +1,11 @@
+{
+  "id": "c21b4129-9e23-4d0e-81bc-2d7f49fbd8b4",
+  "object": "beer",
+  "name": "Gridlock India Pale Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

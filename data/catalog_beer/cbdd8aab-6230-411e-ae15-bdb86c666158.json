@@ -1,0 +1,11 @@
+{
+  "id": "cbdd8aab-6230-411e-ae15-bdb86c666158",
+  "object": "beer",
+  "name": "Bhagwan's Best IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

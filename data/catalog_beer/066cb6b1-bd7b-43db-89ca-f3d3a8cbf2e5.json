@@ -1,0 +1,11 @@
+{
+  "id": "066cb6b1-bd7b-43db-89ca-f3d3a8cbf2e5",
+  "object": "beer",
+  "name": "Fish Bowl II",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

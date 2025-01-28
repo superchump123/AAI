@@ -1,0 +1,11 @@
+{
+  "id": "95829afc-6270-42c8-a640-dee5a25b9fa5",
+  "object": "beer",
+  "name": "Hoyner Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

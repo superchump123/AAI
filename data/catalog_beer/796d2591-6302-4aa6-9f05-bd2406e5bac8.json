@@ -1,0 +1,11 @@
+{
+  "id": "796d2591-6302-4aa6-9f05-bd2406e5bac8",
+  "object": "beer",
+  "name": "Vale /Ipa",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

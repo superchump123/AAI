@@ -1,0 +1,11 @@
+{
+  "id": "8ba16311-0c45-453b-ac19-861ef89b9631",
+  "object": "beer",
+  "name": "Promethean Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9717596e-0bc2-4137-a9a1-8ce9dd3fd8e2",
+  "object": "beer",
+  "name": "Budweiser",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

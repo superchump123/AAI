@@ -1,0 +1,11 @@
+{
+  "id": "dad3d3d4-8b26-4751-b5fe-e877c660c725",
+  "object": "beer",
+  "name": "Groot",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

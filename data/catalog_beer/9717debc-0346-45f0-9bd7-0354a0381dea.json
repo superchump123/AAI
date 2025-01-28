@@ -1,0 +1,11 @@
+{
+  "id": "9717debc-0346-45f0-9bd7-0354a0381dea",
+  "object": "beer",
+  "name": "Local Traffic Only",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

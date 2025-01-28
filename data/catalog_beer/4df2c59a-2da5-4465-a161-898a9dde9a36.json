@@ -1,0 +1,11 @@
+{
+  "id": "4df2c59a-2da5-4465-a161-898a9dde9a36",
+  "object": "beer",
+  "name": "Shandon Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

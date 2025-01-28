@@ -1,0 +1,11 @@
+{
+  "id": "6c4e9a0e-0ab1-4e71-974b-8049ea8e03c3",
+  "object": "beer",
+  "name": "Tangerine Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

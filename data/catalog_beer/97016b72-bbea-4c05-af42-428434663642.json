@@ -1,0 +1,11 @@
+{
+  "id": "97016b72-bbea-4c05-af42-428434663642",
+  "object": "beer",
+  "name": "Back N The GSSR",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

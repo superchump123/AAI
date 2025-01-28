@@ -1,0 +1,11 @@
+{
+  "id": "1108a36e-0572-4b9c-a665-37f24329331a",
+  "object": "beer",
+  "name": "Best Extra Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

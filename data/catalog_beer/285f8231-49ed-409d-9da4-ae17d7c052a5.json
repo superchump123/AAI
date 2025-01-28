@@ -1,0 +1,11 @@
+{
+  "id": "285f8231-49ed-409d-9da4-ae17d7c052a5",
+  "object": "beer",
+  "name": "C\u00e8ilidh",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ddb92ae8-5500-4210-b236-2ca9edec4fca",
+  "object": "beer",
+  "name": "The Public",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

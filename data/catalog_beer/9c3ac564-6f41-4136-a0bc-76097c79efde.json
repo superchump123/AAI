@@ -1,0 +1,11 @@
+{
+  "id": "9c3ac564-6f41-4136-a0bc-76097c79efde",
+  "object": "beer",
+  "name": "Full 90 Session Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

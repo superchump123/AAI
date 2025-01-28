@@ -1,0 +1,11 @@
+{
+  "id": "da0243bb-3705-4b88-8cbc-9e2bf79d383b",
+  "object": "beer",
+  "name": "Kaktus Christmas Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

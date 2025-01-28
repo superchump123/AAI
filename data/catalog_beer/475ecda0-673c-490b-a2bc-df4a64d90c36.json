@@ -1,0 +1,11 @@
+{
+  "id": "475ecda0-673c-490b-a2bc-df4a64d90c36",
+  "object": "beer",
+  "name": "Mango Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

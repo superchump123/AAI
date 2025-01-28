@@ -1,0 +1,11 @@
+{
+  "id": "86d083a1-4f9d-4cdf-8812-80269fd83342",
+  "object": "beer",
+  "name": "Almaza Pilsner Beer",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

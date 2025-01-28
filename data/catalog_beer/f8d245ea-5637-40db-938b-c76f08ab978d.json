@@ -1,0 +1,11 @@
+{
+  "id": "f8d245ea-5637-40db-938b-c76f08ab978d",
+  "object": "beer",
+  "name": "Falcon 9",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

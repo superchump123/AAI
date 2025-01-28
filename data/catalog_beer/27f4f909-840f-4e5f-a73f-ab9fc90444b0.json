@@ -1,0 +1,11 @@
+{
+  "id": "27f4f909-840f-4e5f-a73f-ab9fc90444b0",
+  "object": "beer",
+  "name": "A Finer Temptress",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

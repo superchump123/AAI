@@ -1,0 +1,11 @@
+{
+  "id": "ae770cdb-edbe-4a2b-94ad-5ccdd86cb156",
+  "object": "beer",
+  "name": "Weiner Dog Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

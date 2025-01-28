@@ -1,0 +1,11 @@
+{
+  "id": "f0f309c1-5bc0-49e2-8f8e-ba044971c017",
+  "object": "beer",
+  "name": "Hobo Series #2",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

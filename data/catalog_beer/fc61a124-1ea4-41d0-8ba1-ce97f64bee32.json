@@ -1,0 +1,11 @@
+{
+  "id": "fc61a124-1ea4-41d0-8ba1-ce97f64bee32",
+  "object": "beer",
+  "name": "Skull Splitter",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

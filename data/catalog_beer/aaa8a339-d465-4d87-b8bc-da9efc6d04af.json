@@ -1,0 +1,11 @@
+{
+  "id": "aaa8a339-d465-4d87-b8bc-da9efc6d04af",
+  "object": "beer",
+  "name": "Rum Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

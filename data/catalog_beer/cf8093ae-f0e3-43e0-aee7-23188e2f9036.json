@@ -1,0 +1,11 @@
+{
+  "id": "cf8093ae-f0e3-43e0-aee7-23188e2f9036",
+  "object": "beer",
+  "name": "Cryptic Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

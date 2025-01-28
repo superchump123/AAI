@@ -1,0 +1,11 @@
+{
+  "id": "7c59cfa5-40f5-4e91-b419-c5724b39e3b5",
+  "object": "beer",
+  "name": "Confessional",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

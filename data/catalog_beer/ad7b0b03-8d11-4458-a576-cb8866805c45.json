@@ -1,0 +1,11 @@
+{
+  "id": "ad7b0b03-8d11-4458-a576-cb8866805c45",
+  "object": "beer",
+  "name": "Crimson Cove Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

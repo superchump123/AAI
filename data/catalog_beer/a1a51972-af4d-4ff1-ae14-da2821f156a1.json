@@ -1,0 +1,11 @@
+{
+  "id": "a1a51972-af4d-4ff1-ae14-da2821f156a1",
+  "object": "beer",
+  "name": "Rebel Rose",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

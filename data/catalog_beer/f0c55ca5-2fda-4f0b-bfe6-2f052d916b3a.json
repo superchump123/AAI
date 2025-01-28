@@ -1,0 +1,11 @@
+{
+  "id": "f0c55ca5-2fda-4f0b-bfe6-2f052d916b3a",
+  "object": "beer",
+  "name": "DR PANGLOSS",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

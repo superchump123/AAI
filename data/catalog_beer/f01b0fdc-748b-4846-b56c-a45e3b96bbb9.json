@@ -1,0 +1,11 @@
+{
+  "id": "f01b0fdc-748b-4846-b56c-a45e3b96bbb9",
+  "object": "beer",
+  "name": "Red Dawn",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

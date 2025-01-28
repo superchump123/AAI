@@ -1,0 +1,11 @@
+{
+  "id": "afc43510-cfad-4c61-8797-2c104ee08971",
+  "object": "beer",
+  "name": "Friday Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

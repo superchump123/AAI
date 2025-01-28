@@ -1,0 +1,11 @@
+{
+  "id": "78c30115-9fc8-4130-94a6-5c2c0b7d8120",
+  "object": "beer",
+  "name": "North Trail Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

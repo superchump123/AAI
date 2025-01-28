@@ -1,0 +1,11 @@
+{
+  "id": "b746ddbc-1d16-429a-93ad-7ab942b810e6",
+  "object": "beer",
+  "name": "Residenz Bio Heller Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

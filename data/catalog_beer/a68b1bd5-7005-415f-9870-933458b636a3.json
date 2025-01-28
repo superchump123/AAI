@@ -1,0 +1,11 @@
+{
+  "id": "a68b1bd5-7005-415f-9870-933458b636a3",
+  "object": "beer",
+  "name": "St. Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

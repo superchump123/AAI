@@ -1,0 +1,11 @@
+{
+  "id": "1081d638-217e-4b73-a852-3be5e57bf34e",
+  "object": "beer",
+  "name": "Coconut Chai Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

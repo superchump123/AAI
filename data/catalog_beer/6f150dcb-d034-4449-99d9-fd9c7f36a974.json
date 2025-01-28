@@ -1,0 +1,11 @@
+{
+  "id": "6f150dcb-d034-4449-99d9-fd9c7f36a974",
+  "object": "beer",
+  "name": "Brewer's Reserve Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

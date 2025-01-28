@@ -1,0 +1,11 @@
+{
+  "id": "34b8034e-0e54-41c7-9f3e-4ea769ebcef9",
+  "object": "beer",
+  "name": "Heller Hound Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4487d2b-1f5d-43aa-8436-e7e43d5ac9f9",
+  "object": "beer",
+  "name": "plechovka Radler Grapefruit",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

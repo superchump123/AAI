@@ -1,0 +1,11 @@
+{
+  "id": "2125ee03-75de-4766-be49-a7b628f20ed2",
+  "object": "beer",
+  "name": "Perk",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

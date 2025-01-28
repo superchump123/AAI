@@ -1,0 +1,11 @@
+{
+  "id": "d8d0b138-404a-42dc-89ef-368f64192ad6",
+  "object": "beer",
+  "name": "Muddy Waters American Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

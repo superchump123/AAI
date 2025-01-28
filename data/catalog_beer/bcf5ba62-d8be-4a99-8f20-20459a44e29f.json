@@ -1,0 +1,11 @@
+{
+  "id": "bcf5ba62-d8be-4a99-8f20-20459a44e29f",
+  "object": "beer",
+  "name": "Session IPA Simcoe",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

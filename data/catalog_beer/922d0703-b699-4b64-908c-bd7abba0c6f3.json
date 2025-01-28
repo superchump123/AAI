@@ -1,0 +1,11 @@
+{
+  "id": "922d0703-b699-4b64-908c-bd7abba0c6f3",
+  "object": "beer",
+  "name": "Patron Saint",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00c8c580-0dcf-4f12-b0f1-ce13a4d07ba0",
+  "object": "beer",
+  "name": "Santanomyces",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2fcd8519-b305-4027-b05d-a23915b079a0",
+  "object": "beer",
+  "name": "Earl Grey Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

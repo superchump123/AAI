@@ -1,0 +1,11 @@
+{
+  "id": "83c273ae-ce36-4d08-9111-17e72a4d2c05",
+  "object": "beer",
+  "name": "Rembrandt",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

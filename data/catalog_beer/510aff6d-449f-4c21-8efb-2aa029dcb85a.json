@@ -1,0 +1,11 @@
+{
+  "id": "510aff6d-449f-4c21-8efb-2aa029dcb85a",
+  "object": "beer",
+  "name": "Flint St. Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

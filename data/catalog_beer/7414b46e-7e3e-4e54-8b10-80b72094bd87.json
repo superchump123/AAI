@@ -1,0 +1,11 @@
+{
+  "id": "7414b46e-7e3e-4e54-8b10-80b72094bd87",
+  "object": "beer",
+  "name": "Brett Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

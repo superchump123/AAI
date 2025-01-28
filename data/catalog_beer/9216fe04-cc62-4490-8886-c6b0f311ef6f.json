@@ -1,0 +1,11 @@
+{
+  "id": "9216fe04-cc62-4490-8886-c6b0f311ef6f",
+  "object": "beer",
+  "name": "Imperial October Fest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

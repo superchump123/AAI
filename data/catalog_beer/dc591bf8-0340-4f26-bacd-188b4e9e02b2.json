@@ -1,0 +1,11 @@
+{
+  "id": "dc591bf8-0340-4f26-bacd-188b4e9e02b2",
+  "object": "beer",
+  "name": "Evil Twin",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

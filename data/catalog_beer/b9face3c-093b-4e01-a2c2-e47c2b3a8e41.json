@@ -1,0 +1,11 @@
+{
+  "id": "b9face3c-093b-4e01-a2c2-e47c2b3a8e41",
+  "object": "beer",
+  "name": "Munich Summer",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

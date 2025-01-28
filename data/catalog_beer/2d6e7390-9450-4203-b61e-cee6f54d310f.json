@@ -1,0 +1,11 @@
+{
+  "id": "2d6e7390-9450-4203-b61e-cee6f54d310f",
+  "object": "beer",
+  "name": "Strawberry Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

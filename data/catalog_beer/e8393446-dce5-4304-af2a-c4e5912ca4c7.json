@@ -1,0 +1,11 @@
+{
+  "id": "e8393446-dce5-4304-af2a-c4e5912ca4c7",
+  "object": "beer",
+  "name": "Frank Lloyd Rye",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

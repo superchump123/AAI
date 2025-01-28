@@ -1,0 +1,11 @@
+{
+  "id": "92328aa2-f37a-4a03-9526-54148f5f7e36",
+  "object": "beer",
+  "name": "Space Monkey",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

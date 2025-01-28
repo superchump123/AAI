@@ -1,0 +1,11 @@
+{
+  "id": "ebf261f0-9f1f-4891-a4af-ecc7ff49c20d",
+  "object": "beer",
+  "name": "White Cap",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

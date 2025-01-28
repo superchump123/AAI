@@ -1,0 +1,11 @@
+{
+  "id": "d5ede605-27a5-4b87-8f8a-5f4b0ef91ebd",
+  "object": "beer",
+  "name": "Arthur's Nugget Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1fb878f8-198f-4613-9339-71de161ab215",
+  "object": "beer",
+  "name": "Coffee Express",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

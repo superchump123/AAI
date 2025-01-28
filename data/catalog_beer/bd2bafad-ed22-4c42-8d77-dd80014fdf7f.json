@@ -1,0 +1,11 @@
+{
+  "id": "bd2bafad-ed22-4c42-8d77-dd80014fdf7f",
+  "object": "beer",
+  "name": "Tenderfoot",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

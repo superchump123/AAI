@@ -1,0 +1,11 @@
+{
+  "id": "e78f3243-e5fe-4335-a10d-aed7a1d826d2",
+  "object": "beer",
+  "name": "8th Anniversary",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

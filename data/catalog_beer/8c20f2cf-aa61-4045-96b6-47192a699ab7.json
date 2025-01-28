@@ -1,0 +1,11 @@
+{
+  "id": "8c20f2cf-aa61-4045-96b6-47192a699ab7",
+  "object": "beer",
+  "name": "Razor Back",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 3.6,
+  "ibu": 500,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

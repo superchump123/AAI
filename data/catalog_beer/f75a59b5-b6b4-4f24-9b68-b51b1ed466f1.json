@@ -1,0 +1,11 @@
+{
+  "id": "f75a59b5-b6b4-4f24-9b68-b51b1ed466f1",
+  "object": "beer",
+  "name": "Mom's Session",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

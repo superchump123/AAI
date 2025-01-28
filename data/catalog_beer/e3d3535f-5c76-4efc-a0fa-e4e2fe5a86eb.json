@@ -1,0 +1,11 @@
+{
+  "id": "e3d3535f-5c76-4efc-a0fa-e4e2fe5a86eb",
+  "object": "beer",
+  "name": "Hellbender Barleywine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

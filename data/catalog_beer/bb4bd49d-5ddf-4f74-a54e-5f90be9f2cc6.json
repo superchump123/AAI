@@ -1,0 +1,11 @@
+{
+  "id": "bb4bd49d-5ddf-4f74-a54e-5f90be9f2cc6",
+  "object": "beer",
+  "name": "Natty B.O.B",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

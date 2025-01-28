@@ -1,0 +1,11 @@
+{
+  "id": "e369e76d-c2c3-4666-a882-df9156cd85c9",
+  "object": "beer",
+  "name": "Poppa Skull",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

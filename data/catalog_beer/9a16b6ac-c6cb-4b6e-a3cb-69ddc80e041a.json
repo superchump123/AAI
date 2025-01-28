@@ -1,0 +1,11 @@
+{
+  "id": "9a16b6ac-c6cb-4b6e-a3cb-69ddc80e041a",
+  "object": "beer",
+  "name": "1911 Hopped Cider",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

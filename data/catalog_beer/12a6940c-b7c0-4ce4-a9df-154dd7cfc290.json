@@ -1,0 +1,11 @@
+{
+  "id": "12a6940c-b7c0-4ce4-a9df-154dd7cfc290",
+  "object": "beer",
+  "name": "The Ogden",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd665f54-fe0e-4b88-ad2b-a53f6e5ae5dc",
+  "object": "beer",
+  "name": "Blue Eyed Lola",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

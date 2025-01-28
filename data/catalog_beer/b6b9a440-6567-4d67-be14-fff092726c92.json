@@ -1,0 +1,11 @@
+{
+  "id": "b6b9a440-6567-4d67-be14-fff092726c92",
+  "object": "beer",
+  "name": "Experimental Ale (Autumn 2016)",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5b47264f-2359-4520-adc0-3ec6dc717d9a",
+  "object": "beer",
+  "name": "Milk Milk Nitro",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

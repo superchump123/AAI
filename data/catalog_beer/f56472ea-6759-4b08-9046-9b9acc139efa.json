@@ -1,0 +1,11 @@
+{
+  "id": "f56472ea-6759-4b08-9046-9b9acc139efa",
+  "object": "beer",
+  "name": "Gratzer",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

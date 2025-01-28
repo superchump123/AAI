@@ -1,0 +1,11 @@
+{
+  "id": "34525f55-a80f-4051-aca8-f6b7c9d51847",
+  "object": "beer",
+  "name": "Rye IPA",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

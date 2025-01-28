@@ -1,0 +1,11 @@
+{
+  "id": "2467c1df-d7cb-4eb5-a009-ce6dc815f179",
+  "object": "beer",
+  "name": "Red Monk",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

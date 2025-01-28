@@ -1,0 +1,11 @@
+{
+  "id": "096bd9ea-2984-48a5-b2ae-37e6d60153a1",
+  "object": "beer",
+  "name": "Sovereign Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

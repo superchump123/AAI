@@ -1,0 +1,11 @@
+{
+  "id": "613f5197-028e-4dba-b809-e1daf246bd0a",
+  "object": "beer",
+  "name": "Burley Man",
+  "style": "English Cider",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

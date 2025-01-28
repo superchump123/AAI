@@ -1,0 +1,11 @@
+{
+  "id": "38021e29-1563-4a81-a1b0-6f731d44efc0",
+  "object": "beer",
+  "name": "Saisonniers",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

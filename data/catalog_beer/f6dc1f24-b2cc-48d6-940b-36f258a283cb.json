@@ -1,0 +1,11 @@
+{
+  "id": "f6dc1f24-b2cc-48d6-940b-36f258a283cb",
+  "object": "beer",
+  "name": "Royal Rumble",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

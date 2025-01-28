@@ -1,0 +1,11 @@
+{
+  "id": "b3bafc6b-d038-4629-9626-41a0f80a135c",
+  "object": "beer",
+  "name": "Amazeballs",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

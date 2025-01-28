@@ -1,0 +1,11 @@
+{
+  "id": "c8e48839-7c31-488c-9706-683f424a5919",
+  "object": "beer",
+  "name": "Batch 100",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

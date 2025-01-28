@@ -1,0 +1,11 @@
+{
+  "id": "8c05f35c-9ce4-4306-9ca9-3566371c8430",
+  "object": "beer",
+  "name": "Whistlin'",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

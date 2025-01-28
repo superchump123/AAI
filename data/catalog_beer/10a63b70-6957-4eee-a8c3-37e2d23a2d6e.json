@@ -1,0 +1,11 @@
+{
+  "id": "10a63b70-6957-4eee-a8c3-37e2d23a2d6e",
+  "object": "beer",
+  "name": "Tebrew",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

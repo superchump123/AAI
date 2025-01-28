@@ -1,0 +1,11 @@
+{
+  "id": "01cb850b-ed75-46d9-8258-ccce2c7bdf56",
+  "object": "beer",
+  "name": "Sex Viking",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

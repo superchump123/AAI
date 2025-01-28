@@ -1,0 +1,11 @@
+{
+  "id": "fd8b367c-9c08-4105-be32-c58b58774543",
+  "object": "beer",
+  "name": "Morning Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

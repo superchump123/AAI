@@ -1,0 +1,11 @@
+{
+  "id": "61c33a2e-edfc-4e6c-b439-033b54cf398e",
+  "object": "beer",
+  "name": "So Happens It's Tuesday",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 14,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

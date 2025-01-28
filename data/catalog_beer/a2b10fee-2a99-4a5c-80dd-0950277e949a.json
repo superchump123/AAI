@@ -1,0 +1,11 @@
+{
+  "id": "a2b10fee-2a99-4a5c-80dd-0950277e949a",
+  "object": "beer",
+  "name": "Lausitzer Erdbeer-Porter",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

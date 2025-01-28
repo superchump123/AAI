@@ -1,0 +1,11 @@
+{
+  "id": "21bbb313-fbc2-4da1-bf6f-58c008294a02",
+  "object": "beer",
+  "name": "What Are The Odds",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

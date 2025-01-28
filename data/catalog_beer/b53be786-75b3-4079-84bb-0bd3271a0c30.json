@@ -1,0 +1,11 @@
+{
+  "id": "b53be786-75b3-4079-84bb-0bd3271a0c30",
+  "object": "beer",
+  "name": "Der Alte Fritz",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

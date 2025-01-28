@@ -1,0 +1,11 @@
+{
+  "id": "b2e80917-02fc-4aa6-94bc-e7ce7bfc8f6f",
+  "object": "beer",
+  "name": "Gold Coast Problem Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

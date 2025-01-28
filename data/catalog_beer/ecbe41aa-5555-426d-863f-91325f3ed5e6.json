@@ -1,0 +1,11 @@
+{
+  "id": "ecbe41aa-5555-426d-863f-91325f3ed5e6",
+  "object": "beer",
+  "name": "The Bottle Imp",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 81,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

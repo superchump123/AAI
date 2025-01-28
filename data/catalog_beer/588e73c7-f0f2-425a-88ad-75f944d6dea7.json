@@ -1,0 +1,11 @@
+{
+  "id": "588e73c7-f0f2-425a-88ad-75f944d6dea7",
+  "object": "beer",
+  "name": "Cosmic Ristretto",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

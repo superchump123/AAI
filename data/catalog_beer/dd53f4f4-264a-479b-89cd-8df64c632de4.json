@@ -1,0 +1,11 @@
+{
+  "id": "dd53f4f4-264a-479b-89cd-8df64c632de4",
+  "object": "beer",
+  "name": "Mogli",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

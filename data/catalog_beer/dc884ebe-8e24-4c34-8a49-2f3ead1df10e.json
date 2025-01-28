@@ -1,0 +1,11 @@
+{
+  "id": "dc884ebe-8e24-4c34-8a49-2f3ead1df10e",
+  "object": "beer",
+  "name": "Lil Darlin",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "faca9e13-6187-4fed-8408-7f724815f897",
+  "object": "beer",
+  "name": "Michigan Cherry Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

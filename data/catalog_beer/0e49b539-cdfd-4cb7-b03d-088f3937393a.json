@@ -1,0 +1,11 @@
+{
+  "id": "0e49b539-cdfd-4cb7-b03d-088f3937393a",
+  "object": "beer",
+  "name": "Immortal Ten - Castellaw",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

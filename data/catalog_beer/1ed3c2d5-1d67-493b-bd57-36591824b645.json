@@ -1,0 +1,11 @@
+{
+  "id": "1ed3c2d5-1d67-493b-bd57-36591824b645",
+  "object": "beer",
+  "name": "Cat's Pajamas",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

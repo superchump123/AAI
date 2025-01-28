@@ -1,0 +1,11 @@
+{
+  "id": "635d8700-8e3a-4e6a-aeb2-f35f2ff28f6b",
+  "object": "beer",
+  "name": "Batch #4",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

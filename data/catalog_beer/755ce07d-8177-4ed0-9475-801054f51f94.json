@@ -1,0 +1,11 @@
+{
+  "id": "755ce07d-8177-4ed0-9475-801054f51f94",
+  "object": "beer",
+  "name": "Shuffle",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

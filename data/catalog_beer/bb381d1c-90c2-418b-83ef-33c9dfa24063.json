@@ -1,0 +1,11 @@
+{
+  "id": "bb381d1c-90c2-418b-83ef-33c9dfa24063",
+  "object": "beer",
+  "name": "Basic Bitch PSL",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4ddf84e9-f175-4cca-82e5-2c649fa68e1f",
+  "object": "beer",
+  "name": "Deliverance",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

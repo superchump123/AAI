@@ -1,0 +1,11 @@
+{
+  "id": "d7610a63-049e-41a9-bda4-64c7c0b608ff",
+  "object": "beer",
+  "name": "Spaceship Earth",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

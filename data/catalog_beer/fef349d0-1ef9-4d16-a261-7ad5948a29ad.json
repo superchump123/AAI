@@ -1,0 +1,11 @@
+{
+  "id": "fef349d0-1ef9-4d16-a261-7ad5948a29ad",
+  "object": "beer",
+  "name": "Devil's Bath",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

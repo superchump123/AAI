@@ -1,0 +1,11 @@
+{
+  "id": "c2bbc55e-115e-4aed-8e09-fb5938b28d56",
+  "object": "beer",
+  "name": "Minnesota Gold",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

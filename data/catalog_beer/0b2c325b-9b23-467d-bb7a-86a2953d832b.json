@@ -1,0 +1,11 @@
+{
+  "id": "0b2c325b-9b23-467d-bb7a-86a2953d832b",
+  "object": "beer",
+  "name": "Blood & Thunder",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

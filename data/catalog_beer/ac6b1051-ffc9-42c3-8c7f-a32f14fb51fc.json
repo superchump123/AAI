@@ -1,0 +1,11 @@
+{
+  "id": "ac6b1051-ffc9-42c3-8c7f-a32f14fb51fc",
+  "object": "beer",
+  "name": "Baychimo",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.9,
+  "ibu": 125,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

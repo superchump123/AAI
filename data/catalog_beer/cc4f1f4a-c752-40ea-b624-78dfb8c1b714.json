@@ -1,0 +1,11 @@
+{
+  "id": "cc4f1f4a-c752-40ea-b624-78dfb8c1b714",
+  "object": "beer",
+  "name": "Lightworks",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

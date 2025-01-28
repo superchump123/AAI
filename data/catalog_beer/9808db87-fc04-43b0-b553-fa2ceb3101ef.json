@@ -1,0 +1,11 @@
+{
+  "id": "9808db87-fc04-43b0-b553-fa2ceb3101ef",
+  "object": "beer",
+  "name": "Deus Vult Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

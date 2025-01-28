@@ -1,0 +1,11 @@
+{
+  "id": "77b7d41b-6499-4afe-a58f-20df1e20768d",
+  "object": "beer",
+  "name": "Patriotic Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

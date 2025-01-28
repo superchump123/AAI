@@ -1,0 +1,11 @@
+{
+  "id": "fb272463-1fa5-4ecc-9c7e-31c52674cfd3",
+  "object": "beer",
+  "name": "Samuel Adams Thirteenth Hour",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "59f64673-3e00-44af-8b5a-a8060f439dd4",
+  "object": "beer",
+  "name": "Langhorne: Rye Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

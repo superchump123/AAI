@@ -1,0 +1,11 @@
+{
+  "id": "ac017803-36a9-4acf-88ac-2570c1922987",
+  "object": "beer",
+  "name": "Cocoa Porter Seasonal Ale",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

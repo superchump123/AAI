@@ -1,0 +1,11 @@
+{
+  "id": "f8bae3b3-3df8-4b81-8cd1-cb49fc1541f7",
+  "object": "beer",
+  "name": "THC Calypso",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

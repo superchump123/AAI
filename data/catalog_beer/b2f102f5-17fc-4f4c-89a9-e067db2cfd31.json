@@ -1,0 +1,11 @@
+{
+  "id": "b2f102f5-17fc-4f4c-89a9-e067db2cfd31",
+  "object": "beer",
+  "name": "Din Tai Fung Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4a014435-37a9-4c31-86c8-61ef6e6f91ec",
+  "object": "beer",
+  "name": "Dark G-Free",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

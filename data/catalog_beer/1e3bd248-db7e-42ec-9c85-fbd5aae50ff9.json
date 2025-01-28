@@ -1,0 +1,11 @@
+{
+  "id": "1e3bd248-db7e-42ec-9c85-fbd5aae50ff9",
+  "object": "beer",
+  "name": "Woodchuck Private Reserve Pink",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

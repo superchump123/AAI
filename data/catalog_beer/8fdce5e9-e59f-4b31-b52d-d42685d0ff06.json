@@ -1,0 +1,11 @@
+{
+  "id": "8fdce5e9-e59f-4b31-b52d-d42685d0ff06",
+  "object": "beer",
+  "name": "Patterson Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

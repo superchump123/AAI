@@ -1,0 +1,11 @@
+{
+  "id": "d0dd8a88-72da-400a-9e86-19fc60f589d0",
+  "object": "beer",
+  "name": "Blackberry Bearded Gent",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

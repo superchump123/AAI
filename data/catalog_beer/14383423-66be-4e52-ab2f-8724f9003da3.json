@@ -1,0 +1,11 @@
+{
+  "id": "14383423-66be-4e52-ab2f-8724f9003da3",
+  "object": "beer",
+  "name": "Palisade Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

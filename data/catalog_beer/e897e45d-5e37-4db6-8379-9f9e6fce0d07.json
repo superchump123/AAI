@@ -1,0 +1,11 @@
+{
+  "id": "e897e45d-5e37-4db6-8379-9f9e6fce0d07",
+  "object": "beer",
+  "name": "Backyard Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

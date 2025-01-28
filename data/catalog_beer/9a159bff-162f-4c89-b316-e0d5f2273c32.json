@@ -1,0 +1,11 @@
+{
+  "id": "9a159bff-162f-4c89-b316-e0d5f2273c32",
+  "object": "beer",
+  "name": "Bamberger Herren Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

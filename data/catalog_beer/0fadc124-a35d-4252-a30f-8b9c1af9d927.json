@@ -1,0 +1,11 @@
+{
+  "id": "0fadc124-a35d-4252-a30f-8b9c1af9d927",
+  "object": "beer",
+  "name": "Sanitas Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

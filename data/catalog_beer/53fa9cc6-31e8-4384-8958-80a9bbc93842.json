@@ -1,0 +1,11 @@
+{
+  "id": "53fa9cc6-31e8-4384-8958-80a9bbc93842",
+  "object": "beer",
+  "name": "Northern Spy",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

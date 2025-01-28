@@ -1,0 +1,11 @@
+{
+  "id": "312bde71-3d0f-4d0d-b308-0cc2bb6295af",
+  "object": "beer",
+  "name": "Burnin' Hill",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

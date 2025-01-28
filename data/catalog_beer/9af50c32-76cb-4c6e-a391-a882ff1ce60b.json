@@ -1,0 +1,11 @@
+{
+  "id": "9af50c32-76cb-4c6e-a391-a882ff1ce60b",
+  "object": "beer",
+  "name": "Pincushion Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

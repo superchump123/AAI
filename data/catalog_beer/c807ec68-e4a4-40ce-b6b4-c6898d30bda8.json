@@ -1,0 +1,11 @@
+{
+  "id": "c807ec68-e4a4-40ce-b6b4-c6898d30bda8",
+  "object": "beer",
+  "name": "Grand Cru 100",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

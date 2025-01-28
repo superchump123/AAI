@@ -1,0 +1,11 @@
+{
+  "id": "eec99ff8-7506-4bde-8a31-35977ea1a053",
+  "object": "beer",
+  "name": "Vernal Dichotomous",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

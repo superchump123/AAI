@@ -1,0 +1,11 @@
+{
+  "id": "e092f89b-bdc6-4a43-a7d4-fbfbdc21b14c",
+  "object": "beer",
+  "name": "1st Street Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

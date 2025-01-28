@@ -1,0 +1,11 @@
+{
+  "id": "8433ff64-7df3-438e-8cb7-ef9a62755269",
+  "object": "beer",
+  "name": "Transpacific Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "648e41cf-f1cc-4610-a5b4-6496e8da5493",
+  "object": "beer",
+  "name": "I Love Oregon Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

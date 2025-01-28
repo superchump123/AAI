@@ -1,0 +1,11 @@
+{
+  "id": "1d40eb57-3f65-4f56-beb0-fb4d37a323d7",
+  "object": "beer",
+  "name": "Never Ender IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

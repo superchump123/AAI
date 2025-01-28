@@ -1,0 +1,11 @@
+{
+  "id": "97d09b1a-8964-430a-88b1-228f6534a239",
+  "object": "beer",
+  "name": "XPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

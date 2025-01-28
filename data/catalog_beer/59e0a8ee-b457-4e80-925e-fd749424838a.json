@@ -1,0 +1,11 @@
+{
+  "id": "59e0a8ee-b457-4e80-925e-fd749424838a",
+  "object": "beer",
+  "name": "Small Swell IPL",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

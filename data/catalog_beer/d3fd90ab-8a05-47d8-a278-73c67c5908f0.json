@@ -1,0 +1,11 @@
+{
+  "id": "d3fd90ab-8a05-47d8-a278-73c67c5908f0",
+  "object": "beer",
+  "name": "Coffee Milk Stout",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

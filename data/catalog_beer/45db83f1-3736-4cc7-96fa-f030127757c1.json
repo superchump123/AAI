@@ -1,0 +1,11 @@
+{
+  "id": "45db83f1-3736-4cc7-96fa-f030127757c1",
+  "object": "beer",
+  "name": "Big Sound Scotch Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

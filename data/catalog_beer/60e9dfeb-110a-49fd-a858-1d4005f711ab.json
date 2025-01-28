@@ -1,0 +1,11 @@
+{
+  "id": "60e9dfeb-110a-49fd-a858-1d4005f711ab",
+  "object": "beer",
+  "name": "Berliner Weisse",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

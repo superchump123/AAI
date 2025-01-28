@@ -1,0 +1,11 @@
+{
+  "id": "1076bd9c-9d46-485a-a84d-0801a9a728b6",
+  "object": "beer",
+  "name": "AfPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

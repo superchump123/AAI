@@ -1,0 +1,11 @@
+{
+  "id": "430a6769-82f1-4718-8e6e-6443cccd898e",
+  "object": "beer",
+  "name": "Action Man",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

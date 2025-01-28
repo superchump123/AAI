@@ -1,0 +1,11 @@
+{
+  "id": "47ad3a1b-3f0f-48f5-9859-e5357b8cc691",
+  "object": "beer",
+  "name": "Cottonwood Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

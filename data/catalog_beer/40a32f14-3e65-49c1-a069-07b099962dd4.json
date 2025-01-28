@@ -1,0 +1,11 @@
+{
+  "id": "40a32f14-3e65-49c1-a069-07b099962dd4",
+  "object": "beer",
+  "name": "CocoDrupe",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

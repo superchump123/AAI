@@ -1,0 +1,11 @@
+{
+  "id": "cfe0209d-a1a8-421d-a376-e7f9452dcd5a",
+  "object": "beer",
+  "name": "Hunter Coffee",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

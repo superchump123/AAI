@@ -1,0 +1,11 @@
+{
+  "id": "a65721de-c5cf-424f-a1f5-b8bb090e5846",
+  "object": "beer",
+  "name": "Honey Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 3.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

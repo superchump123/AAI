@@ -1,0 +1,11 @@
+{
+  "id": "f1d0bf5c-5fd6-470d-9bbc-6bd0f7f4372b",
+  "object": "beer",
+  "name": "Rye Barrel Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f876349-fc61-4ada-b474-1b0f30c436e1",
+  "object": "beer",
+  "name": "Executioner IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b23d3108-2ed0-4e6e-a862-b48291975cb4",
+  "object": "beer",
+  "name": "Coffee Cult Stout (Velo)",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

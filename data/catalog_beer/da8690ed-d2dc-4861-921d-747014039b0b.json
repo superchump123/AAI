@@ -1,0 +1,11 @@
+{
+  "id": "da8690ed-d2dc-4861-921d-747014039b0b",
+  "object": "beer",
+  "name": "Robot Imperial Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

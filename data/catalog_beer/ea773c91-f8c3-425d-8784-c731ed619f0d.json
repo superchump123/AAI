@@ -1,0 +1,11 @@
+{
+  "id": "ea773c91-f8c3-425d-8784-c731ed619f0d",
+  "object": "beer",
+  "name": "Brown Out",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

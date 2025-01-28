@@ -1,0 +1,11 @@
+{
+  "id": "ddafa31f-78e4-417c-9e3a-88bffdf80b3a",
+  "object": "beer",
+  "name": "Uncle Matt's Grapefruit Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

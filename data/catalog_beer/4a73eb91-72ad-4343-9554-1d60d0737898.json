@@ -1,0 +1,11 @@
+{
+  "id": "4a73eb91-72ad-4343-9554-1d60d0737898",
+  "object": "beer",
+  "name": "Draught Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f6f8c915-790c-40a8-b133-cc907708e263",
+  "object": "beer",
+  "name": "Mossback Monk Belgian Style Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "acb08c43-58f2-49c0-a82d-5150847ca25a",
+  "object": "beer",
+  "name": "Pina Colada Berliner Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

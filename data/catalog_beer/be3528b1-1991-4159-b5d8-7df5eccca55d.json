@@ -1,0 +1,11 @@
+{
+  "id": "be3528b1-1991-4159-b5d8-7df5eccca55d",
+  "object": "beer",
+  "name": "Mr. Sunday",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

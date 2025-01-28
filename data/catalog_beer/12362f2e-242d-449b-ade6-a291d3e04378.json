@@ -1,0 +1,11 @@
+{
+  "id": "12362f2e-242d-449b-ade6-a291d3e04378",
+  "object": "beer",
+  "name": "Jupiter",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

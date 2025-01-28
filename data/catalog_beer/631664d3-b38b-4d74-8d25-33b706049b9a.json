@@ -1,0 +1,11 @@
+{
+  "id": "631664d3-b38b-4d74-8d25-33b706049b9a",
+  "object": "beer",
+  "name": "Aroma Session",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

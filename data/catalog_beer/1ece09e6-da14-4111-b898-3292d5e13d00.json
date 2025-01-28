@@ -1,0 +1,11 @@
+{
+  "id": "1ece09e6-da14-4111-b898-3292d5e13d00",
+  "object": "beer",
+  "name": "Broadsword Scottish Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

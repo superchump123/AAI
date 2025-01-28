@@ -1,0 +1,11 @@
+{
+  "id": "f15346e0-9ca1-4a7c-8fcf-498ef538b586",
+  "object": "beer",
+  "name": "10k IPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

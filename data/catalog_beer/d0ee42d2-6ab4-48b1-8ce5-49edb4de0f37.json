@@ -1,0 +1,11 @@
+{
+  "id": "d0ee42d2-6ab4-48b1-8ce5-49edb4de0f37",
+  "object": "beer",
+  "name": "Mason's Irish-Style Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

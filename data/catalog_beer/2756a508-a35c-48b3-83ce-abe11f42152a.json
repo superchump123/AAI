@@ -1,0 +1,11 @@
+{
+  "id": "2756a508-a35c-48b3-83ce-abe11f42152a",
+  "object": "beer",
+  "name": "Daily Driver",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

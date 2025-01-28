@@ -1,0 +1,11 @@
+{
+  "id": "cbaf7dee-99d6-4aa3-a1c7-5a6f14739d0c",
+  "object": "beer",
+  "name": "Cabrito",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

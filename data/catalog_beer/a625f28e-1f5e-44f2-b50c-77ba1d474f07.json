@@ -1,0 +1,11 @@
+{
+  "id": "a625f28e-1f5e-44f2-b50c-77ba1d474f07",
+  "object": "beer",
+  "name": "Saranac Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

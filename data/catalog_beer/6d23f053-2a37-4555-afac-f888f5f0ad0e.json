@@ -1,0 +1,11 @@
+{
+  "id": "6d23f053-2a37-4555-afac-f888f5f0ad0e",
+  "object": "beer",
+  "name": "Old Baldy",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

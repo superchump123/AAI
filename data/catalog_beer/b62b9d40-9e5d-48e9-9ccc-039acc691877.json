@@ -1,0 +1,11 @@
+{
+  "id": "b62b9d40-9e5d-48e9-9ccc-039acc691877",
+  "object": "beer",
+  "name": "New River Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

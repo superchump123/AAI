@@ -1,0 +1,11 @@
+{
+  "id": "5aca0193-5de5-4b25-b542-71e75e43484b",
+  "object": "beer",
+  "name": "Last Snow",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ee8a453b-c07f-4c1d-bbc4-806320793649",
+  "object": "beer",
+  "name": "Hopulus Erectus",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

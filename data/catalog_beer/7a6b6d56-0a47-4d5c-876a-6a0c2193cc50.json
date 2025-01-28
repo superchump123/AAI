@@ -1,0 +1,11 @@
+{
+  "id": "7a6b6d56-0a47-4d5c-876a-6a0c2193cc50",
+  "object": "beer",
+  "name": "St. Paul Blond",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

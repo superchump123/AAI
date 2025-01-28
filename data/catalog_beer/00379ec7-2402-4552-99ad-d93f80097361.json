@@ -1,0 +1,11 @@
+{
+  "id": "00379ec7-2402-4552-99ad-d93f80097361",
+  "object": "beer",
+  "name": "Miami Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

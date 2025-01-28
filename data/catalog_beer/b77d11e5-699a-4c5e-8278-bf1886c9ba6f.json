@@ -1,0 +1,11 @@
+{
+  "id": "b77d11e5-699a-4c5e-8278-bf1886c9ba6f",
+  "object": "beer",
+  "name": "Aussie",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

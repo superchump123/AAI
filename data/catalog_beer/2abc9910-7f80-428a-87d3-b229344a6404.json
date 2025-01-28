@@ -1,0 +1,11 @@
+{
+  "id": "2abc9910-7f80-428a-87d3-b229344a6404",
+  "object": "beer",
+  "name": "Sir Pantaloons",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

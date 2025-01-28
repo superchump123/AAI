@@ -1,0 +1,11 @@
+{
+  "id": "effabfea-eb88-401d-87b6-e74d78a7616c",
+  "object": "beer",
+  "name": "Kelpie",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de62b88a-a061-458d-8971-71b7e4916cc2",
+  "object": "beer",
+  "name": "Session IPA Cascade",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

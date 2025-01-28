@@ -1,0 +1,11 @@
+{
+  "id": "df9cb01d-9002-48cd-827c-89a808b7874d",
+  "object": "beer",
+  "name": "Honey Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

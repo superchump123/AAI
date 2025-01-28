@@ -1,0 +1,11 @@
+{
+  "id": "2d02c9db-512b-439b-9abb-f0966372d850",
+  "object": "beer",
+  "name": "Regner Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

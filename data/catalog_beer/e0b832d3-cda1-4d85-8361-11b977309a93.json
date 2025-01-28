@@ -1,0 +1,11 @@
+{
+  "id": "e0b832d3-cda1-4d85-8361-11b977309a93",
+  "object": "beer",
+  "name": "Baked Goods",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

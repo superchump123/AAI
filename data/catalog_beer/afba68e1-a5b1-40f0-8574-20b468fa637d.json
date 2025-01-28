@@ -1,0 +1,11 @@
+{
+  "id": "afba68e1-a5b1-40f0-8574-20b468fa637d",
+  "object": "beer",
+  "name": "Leffe Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

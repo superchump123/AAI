@@ -1,0 +1,11 @@
+{
+  "id": "578b7d3a-4fc8-42c0-a0af-28d7f8d44000",
+  "object": "beer",
+  "name": "Alpirsbacher Klosterbr\u00e4u Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

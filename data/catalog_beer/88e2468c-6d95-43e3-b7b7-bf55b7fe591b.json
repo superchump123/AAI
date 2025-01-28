@@ -1,0 +1,11 @@
+{
+  "id": "88e2468c-6d95-43e3-b7b7-bf55b7fe591b",
+  "object": "beer",
+  "name": "Aegir's Pride",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

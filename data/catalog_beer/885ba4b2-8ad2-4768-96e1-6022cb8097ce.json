@@ -1,0 +1,11 @@
+{
+  "id": "885ba4b2-8ad2-4768-96e1-6022cb8097ce",
+  "object": "beer",
+  "name": "Golden Ale (Record Store Day)",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

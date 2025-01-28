@@ -1,0 +1,11 @@
+{
+  "id": "f93a4292-cebd-46c5-a79d-236b5d1ff356",
+  "object": "beer",
+  "name": "PDA",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

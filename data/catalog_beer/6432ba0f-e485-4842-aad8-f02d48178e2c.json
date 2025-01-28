@@ -1,0 +1,11 @@
+{
+  "id": "6432ba0f-e485-4842-aad8-f02d48178e2c",
+  "object": "beer",
+  "name": "Full Sail India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a78bdb18-2a5a-43fc-8d3e-5cc39e221b74",
+  "object": "beer",
+  "name": "Honey Bru Bru",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

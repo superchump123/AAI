@@ -1,0 +1,11 @@
+{
+  "id": "4d7cffc0-53d9-4c96-9e60-aac8cbeaddfd",
+  "object": "beer",
+  "name": "Old Prospector",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

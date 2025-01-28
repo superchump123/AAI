@@ -1,0 +1,11 @@
+{
+  "id": "96eee9c0-ee32-4a1e-ad66-9a04e3492367",
+  "object": "beer",
+  "name": "Sacrifice",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

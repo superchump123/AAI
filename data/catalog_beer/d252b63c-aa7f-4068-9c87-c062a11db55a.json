@@ -1,0 +1,11 @@
+{
+  "id": "d252b63c-aa7f-4068-9c87-c062a11db55a",
+  "object": "beer",
+  "name": "Toast Black IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

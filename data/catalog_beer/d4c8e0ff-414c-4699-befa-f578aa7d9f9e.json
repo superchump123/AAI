@@ -1,0 +1,11 @@
+{
+  "id": "d4c8e0ff-414c-4699-befa-f578aa7d9f9e",
+  "object": "beer",
+  "name": "#42 Poblano Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

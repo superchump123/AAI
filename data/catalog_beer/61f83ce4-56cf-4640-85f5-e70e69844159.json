@@ -1,0 +1,11 @@
+{
+  "id": "61f83ce4-56cf-4640-85f5-e70e69844159",
+  "object": "beer",
+  "name": "Dapper Apple",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6bc88d5d-6e7d-4c2c-aa3a-36dac3273a05",
+  "object": "beer",
+  "name": "Tiki Time",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

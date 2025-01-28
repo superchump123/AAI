@@ -1,0 +1,11 @@
+{
+  "id": "8f4f3bc1-8427-4314-9ae3-071aebca7dc6",
+  "object": "beer",
+  "name": "Mainer Weisse",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

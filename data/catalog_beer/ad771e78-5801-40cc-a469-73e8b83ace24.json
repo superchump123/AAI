@@ -1,0 +1,11 @@
+{
+  "id": "ad771e78-5801-40cc-a469-73e8b83ace24",
+  "object": "beer",
+  "name": "Hey Diddle Diddle",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

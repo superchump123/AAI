@@ -1,0 +1,11 @@
+{
+  "id": "95ff7c5a-8ae6-4303-86ac-123a1b16405a",
+  "object": "beer",
+  "name": "Lost Highway",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

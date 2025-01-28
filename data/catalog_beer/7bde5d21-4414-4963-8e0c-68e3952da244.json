@@ -1,0 +1,11 @@
+{
+  "id": "7bde5d21-4414-4963-8e0c-68e3952da244",
+  "object": "beer",
+  "name": "White Raven",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

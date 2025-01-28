@@ -1,0 +1,11 @@
+{
+  "id": "688cf3b8-8542-499e-bd32-2dad1bf4098c",
+  "object": "beer",
+  "name": "Choppy Surf Czech-style Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5d02e379-4bcd-4fe0-b4e5-9677d9d92624",
+  "object": "beer",
+  "name": "Old Style Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

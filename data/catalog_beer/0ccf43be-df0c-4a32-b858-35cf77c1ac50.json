@@ -1,0 +1,11 @@
+{
+  "id": "0ccf43be-df0c-4a32-b858-35cf77c1ac50",
+  "object": "beer",
+  "name": "Sidra Natural",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

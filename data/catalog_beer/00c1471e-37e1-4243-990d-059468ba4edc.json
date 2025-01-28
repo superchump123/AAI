@@ -1,0 +1,11 @@
+{
+  "id": "00c1471e-37e1-4243-990d-059468ba4edc",
+  "object": "beer",
+  "name": "GFL",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

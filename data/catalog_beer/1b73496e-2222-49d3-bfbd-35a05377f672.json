@@ -1,0 +1,11 @@
+{
+  "id": "1b73496e-2222-49d3-bfbd-35a05377f672",
+  "object": "beer",
+  "name": "Octoberfest Harvest Ale",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

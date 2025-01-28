@@ -1,0 +1,11 @@
+{
+  "id": "03689bdb-6da4-451a-8abb-cd90335e49af",
+  "object": "beer",
+  "name": "Gambit's Peak",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

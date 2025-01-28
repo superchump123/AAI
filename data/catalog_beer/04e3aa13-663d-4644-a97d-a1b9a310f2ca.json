@@ -1,0 +1,11 @@
+{
+  "id": "04e3aa13-663d-4644-a97d-a1b9a310f2ca",
+  "object": "beer",
+  "name": "Wodan Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

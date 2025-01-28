@@ -1,0 +1,11 @@
+{
+  "id": "b91baca6-7ccb-4ab8-b7d6-7350dc37438f",
+  "object": "beer",
+  "name": "Nitro Cutthroat Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

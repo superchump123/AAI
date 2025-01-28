@@ -1,0 +1,11 @@
+{
+  "id": "3920484d-2a08-425c-bacf-e072a2e4d6d4",
+  "object": "beer",
+  "name": "Love Street",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

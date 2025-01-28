@@ -1,0 +1,11 @@
+{
+  "id": "a5b67fea-b883-4e78-af37-5616a60d1084",
+  "object": "beer",
+  "name": "Catalyst",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

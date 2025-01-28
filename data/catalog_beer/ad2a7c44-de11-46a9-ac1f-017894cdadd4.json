@@ -1,0 +1,11 @@
+{
+  "id": "ad2a7c44-de11-46a9-ac1f-017894cdadd4",
+  "object": "beer",
+  "name": "Old Scrooge",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

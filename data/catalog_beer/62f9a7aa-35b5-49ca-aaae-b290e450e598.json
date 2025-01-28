@@ -1,0 +1,11 @@
+{
+  "id": "62f9a7aa-35b5-49ca-aaae-b290e450e598",
+  "object": "beer",
+  "name": "Funky Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de2d9081-3fb3-4030-a62c-519cbc33e9da",
+  "object": "beer",
+  "name": "Lemurian Lager",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

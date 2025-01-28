@@ -1,0 +1,11 @@
+{
+  "id": "73ea06e7-4acb-4713-985b-be389a4056fa",
+  "object": "beer",
+  "name": "Bootlegger Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

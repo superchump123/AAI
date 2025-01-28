@@ -1,0 +1,11 @@
+{
+  "id": "2e0ec859-d6af-48d7-a7fd-640d21d087dd",
+  "object": "beer",
+  "name": "Five High Harvest Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

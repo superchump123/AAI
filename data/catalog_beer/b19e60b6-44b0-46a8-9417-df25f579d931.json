@@ -1,0 +1,11 @@
+{
+  "id": "b19e60b6-44b0-46a8-9417-df25f579d931",
+  "object": "beer",
+  "name": "CCB Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

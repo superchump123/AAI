@@ -1,0 +1,11 @@
+{
+  "id": "6086c086-d392-4d89-9ace-0f25639a6c95",
+  "object": "beer",
+  "name": "Devious Imperial Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

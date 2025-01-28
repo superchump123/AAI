@@ -1,0 +1,11 @@
+{
+  "id": "52e51803-f906-43d5-9da6-e3499b53fa60",
+  "object": "beer",
+  "name": "Steam Whistle Dampfbier",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5bc323de-2c31-4584-9b12-426c42bd38ba",
+  "object": "beer",
+  "name": "High Horse",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

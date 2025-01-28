@@ -1,0 +1,11 @@
+{
+  "id": "4aaf8d43-39a8-4c75-966c-6a243ea35a35",
+  "object": "beer",
+  "name": "Meer Koebel",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 118,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

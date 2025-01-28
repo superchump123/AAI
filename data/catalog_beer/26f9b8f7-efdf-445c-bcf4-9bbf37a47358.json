@@ -1,0 +1,11 @@
+{
+  "id": "26f9b8f7-efdf-445c-bcf4-9bbf37a47358",
+  "object": "beer",
+  "name": "Cinnamon Toast Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

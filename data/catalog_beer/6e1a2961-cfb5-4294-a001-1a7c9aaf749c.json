@@ -1,0 +1,11 @@
+{
+  "id": "6e1a2961-cfb5-4294-a001-1a7c9aaf749c",
+  "object": "beer",
+  "name": "Kaptain Ka-Powder",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

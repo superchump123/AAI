@@ -1,0 +1,11 @@
+{
+  "id": "f73dd4fe-5bc5-4e3a-9128-9cadfa38981a",
+  "object": "beer",
+  "name": "Redlands 125th Anniversary Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

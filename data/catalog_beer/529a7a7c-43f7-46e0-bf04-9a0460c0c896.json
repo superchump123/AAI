@@ -1,0 +1,11 @@
+{
+  "id": "529a7a7c-43f7-46e0-bf04-9a0460c0c896",
+  "object": "beer",
+  "name": "Jenny Wit",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

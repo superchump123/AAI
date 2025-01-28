@@ -1,0 +1,11 @@
+{
+  "id": "7b52d34d-990a-45b1-a2d9-87ee07638d37",
+  "object": "beer",
+  "name": "Hop Burst",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

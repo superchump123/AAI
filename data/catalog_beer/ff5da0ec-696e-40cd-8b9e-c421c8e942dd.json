@@ -1,0 +1,11 @@
+{
+  "id": "ff5da0ec-696e-40cd-8b9e-c421c8e942dd",
+  "object": "beer",
+  "name": "Stage One",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 107,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

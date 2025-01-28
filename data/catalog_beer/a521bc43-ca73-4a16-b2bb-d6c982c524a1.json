@@ -1,0 +1,11 @@
+{
+  "id": "a521bc43-ca73-4a16-b2bb-d6c982c524a1",
+  "object": "beer",
+  "name": "Citra Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

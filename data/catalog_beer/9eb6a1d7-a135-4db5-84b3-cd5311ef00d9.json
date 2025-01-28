@@ -1,0 +1,11 @@
+{
+  "id": "9eb6a1d7-a135-4db5-84b3-cd5311ef00d9",
+  "object": "beer",
+  "name": "Allie's Double Chocolate Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

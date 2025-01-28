@@ -1,0 +1,11 @@
+{
+  "id": "d999639a-5a30-4d5d-b695-e10f39308885",
+  "object": "beer",
+  "name": "Strawberry Shandy",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

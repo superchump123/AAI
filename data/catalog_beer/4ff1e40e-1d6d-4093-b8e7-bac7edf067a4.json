@@ -1,0 +1,11 @@
+{
+  "id": "4ff1e40e-1d6d-4093-b8e7-bac7edf067a4",
+  "object": "beer",
+  "name": "Scrip",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "468e47af-91a8-492c-b041-69a32e29ea74",
+  "object": "beer",
+  "name": "Munich Dark Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

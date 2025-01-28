@@ -1,0 +1,11 @@
+{
+  "id": "5f91964d-ed8b-4819-901d-ac5da923db09",
+  "object": "beer",
+  "name": "Mum's the Word",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8a7be99d-1fcc-49dd-9c90-481be050a445",
+  "object": "beer",
+  "name": "Nutty Brewnette",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

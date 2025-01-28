@@ -1,0 +1,11 @@
+{
+  "id": "9abd8471-44e6-41ef-8344-734e2f113a9f",
+  "object": "beer",
+  "name": "Wobbly Belgian Style Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

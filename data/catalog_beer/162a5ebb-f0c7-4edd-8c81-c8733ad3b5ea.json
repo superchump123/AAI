@@ -1,0 +1,11 @@
+{
+  "id": "162a5ebb-f0c7-4edd-8c81-c8733ad3b5ea",
+  "object": "beer",
+  "name": "Renegade Bitter Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

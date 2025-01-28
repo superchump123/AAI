@@ -1,0 +1,11 @@
+{
+  "id": "2f14320f-f8e9-453b-8041-aa1dec7eaf4f",
+  "object": "beer",
+  "name": "Rye on the Prize",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

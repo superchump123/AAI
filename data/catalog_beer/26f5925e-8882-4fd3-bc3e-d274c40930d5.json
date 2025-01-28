@@ -1,0 +1,11 @@
+{
+  "id": "26f5925e-8882-4fd3-bc3e-d274c40930d5",
+  "object": "beer",
+  "name": "Lovey Dovey",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

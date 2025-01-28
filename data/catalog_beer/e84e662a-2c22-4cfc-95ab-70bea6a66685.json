@@ -1,0 +1,11 @@
+{
+  "id": "e84e662a-2c22-4cfc-95ab-70bea6a66685",
+  "object": "beer",
+  "name": "Schnitz Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

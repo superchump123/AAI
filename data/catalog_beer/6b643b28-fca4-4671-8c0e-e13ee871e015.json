@@ -1,0 +1,11 @@
+{
+  "id": "6b643b28-fca4-4671-8c0e-e13ee871e015",
+  "object": "beer",
+  "name": "Kick Start My Arse",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

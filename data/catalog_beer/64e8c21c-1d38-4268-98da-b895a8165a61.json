@@ -1,0 +1,11 @@
+{
+  "id": "64e8c21c-1d38-4268-98da-b895a8165a61",
+  "object": "beer",
+  "name": "Table Top Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "afb92f0e-730f-4331-97b1-9448853c3547",
+  "object": "beer",
+  "name": "Sweet Potato Barleywine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a9e820eb-76c1-4be6-be60-82ef139ac40e",
+  "object": "beer",
+  "name": "Sodbuster",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

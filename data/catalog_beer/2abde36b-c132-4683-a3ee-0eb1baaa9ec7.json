@@ -1,0 +1,11 @@
+{
+  "id": "2abde36b-c132-4683-a3ee-0eb1baaa9ec7",
+  "object": "beer",
+  "name": "Cerne Pivo",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

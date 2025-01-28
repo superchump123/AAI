@@ -1,0 +1,11 @@
+{
+  "id": "05d8c074-2580-4601-b5e0-8e5c4b2dbc24",
+  "object": "beer",
+  "name": "Nirvana IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "df8d7001-2b53-4ae6-9436-20231b1fb3b3",
+  "object": "beer",
+  "name": "Virginia Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

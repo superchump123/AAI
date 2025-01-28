@@ -1,0 +1,11 @@
+{
+  "id": "a207b6cf-9568-40df-8edb-869621649a58",
+  "object": "beer",
+  "name": "Ginger Twin",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

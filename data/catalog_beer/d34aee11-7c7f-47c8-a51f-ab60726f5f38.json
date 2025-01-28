@@ -1,0 +1,11 @@
+{
+  "id": "d34aee11-7c7f-47c8-a51f-ab60726f5f38",
+  "object": "beer",
+  "name": "Riparius",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "80abed2f-6cb8-4913-a793-32955dfa2276",
+  "object": "beer",
+  "name": "Quadtum Leap",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

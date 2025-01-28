@@ -1,0 +1,11 @@
+{
+  "id": "ee475446-6fad-4c92-9bf5-095ec55a407e",
+  "object": "beer",
+  "name": "Belgian Dark Strong Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

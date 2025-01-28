@@ -1,0 +1,11 @@
+{
+  "id": "577579e6-a34a-4c83-88af-9c730af4e36c",
+  "object": "beer",
+  "name": "Snow Plowed Winter Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

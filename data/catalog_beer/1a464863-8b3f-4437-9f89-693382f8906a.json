@@ -1,0 +1,11 @@
+{
+  "id": "1a464863-8b3f-4437-9f89-693382f8906a",
+  "object": "beer",
+  "name": "Tre D'Marque",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "33b4bb0c-7f4d-439b-989a-ae225cde71c5",
+  "object": "beer",
+  "name": "3Beans",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

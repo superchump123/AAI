@@ -1,0 +1,11 @@
+{
+  "id": "c4d4b72a-dfad-4f55-9734-8fc777dabf0b",
+  "object": "beer",
+  "name": "Camp Hope",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

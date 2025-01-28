@@ -1,0 +1,11 @@
+{
+  "id": "fdd1b54a-7dcd-49e9-8f0c-2a76eec04def",
+  "object": "beer",
+  "name": "Bonfire of the Valkyries",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

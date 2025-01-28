@@ -1,0 +1,11 @@
+{
+  "id": "d91240b9-6cca-466a-acc6-88452587014e",
+  "object": "beer",
+  "name": "Base Layer",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

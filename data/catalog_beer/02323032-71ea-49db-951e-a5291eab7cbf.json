@@ -1,0 +1,11 @@
+{
+  "id": "02323032-71ea-49db-951e-a5291eab7cbf",
+  "object": "beer",
+  "name": "Butterfly Effect",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

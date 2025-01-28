@@ -1,0 +1,11 @@
+{
+  "id": "c7070a6e-4c61-458d-acef-298ef4c1bd1c",
+  "object": "beer",
+  "name": "Ravell",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

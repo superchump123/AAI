@@ -1,0 +1,11 @@
+{
+  "id": "c58279c6-5643-4309-b69b-f3d7a1a8a205",
+  "object": "beer",
+  "name": "Brewers' Cut No. 8",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

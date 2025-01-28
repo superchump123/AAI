@@ -1,0 +1,11 @@
+{
+  "id": "b3ec8c26-9af4-4c5c-9858-cea34c6588b5",
+  "object": "beer",
+  "name": "Curio",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

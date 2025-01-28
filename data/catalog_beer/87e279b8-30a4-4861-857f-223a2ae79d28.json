@@ -1,0 +1,11 @@
+{
+  "id": "87e279b8-30a4-4861-857f-223a2ae79d28",
+  "object": "beer",
+  "name": "Wrath of The Lamb",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

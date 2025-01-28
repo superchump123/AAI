@@ -1,0 +1,11 @@
+{
+  "id": "d3b6e712-0110-4d0d-baf1-1d7a651c1a51",
+  "object": "beer",
+  "name": "Pelican Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

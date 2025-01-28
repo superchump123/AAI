@@ -1,0 +1,11 @@
+{
+  "id": "232781db-374a-4b3a-a6c8-f313b67ba9f7",
+  "object": "beer",
+  "name": "Breezeway",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5f627c29-e741-49ce-9f10-65fd5f8d079f",
+  "object": "beer",
+  "name": "Bohemia Freak Out",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

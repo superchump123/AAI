@@ -1,0 +1,11 @@
+{
+  "id": "194987e2-adce-410d-81a1-c21d62d5dae0",
+  "object": "beer",
+  "name": "Raging Rhino",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

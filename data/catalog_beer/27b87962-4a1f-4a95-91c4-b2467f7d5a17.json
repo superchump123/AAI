@@ -1,0 +1,11 @@
+{
+  "id": "27b87962-4a1f-4a95-91c4-b2467f7d5a17",
+  "object": "beer",
+  "name": "Indians Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

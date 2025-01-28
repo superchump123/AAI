@@ -1,0 +1,11 @@
+{
+  "id": "b3084a80-1a4b-41e3-b455-ca3bd1149b6f",
+  "object": "beer",
+  "name": "Clem's Cream Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ddebc58-1a43-4857-b836-b20e62031b65",
+  "object": "beer",
+  "name": "Panther Lake Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

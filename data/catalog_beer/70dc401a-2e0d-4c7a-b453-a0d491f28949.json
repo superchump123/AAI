@@ -1,0 +1,11 @@
+{
+  "id": "70dc401a-2e0d-4c7a-b453-a0d491f28949",
+  "object": "beer",
+  "name": "Nocturne",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

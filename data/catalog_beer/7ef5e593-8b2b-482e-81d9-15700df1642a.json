@@ -1,0 +1,11 @@
+{
+  "id": "7ef5e593-8b2b-482e-81d9-15700df1642a",
+  "object": "beer",
+  "name": "Slow Ryed Rye Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

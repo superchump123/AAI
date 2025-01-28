@@ -1,0 +1,11 @@
+{
+  "id": "4c4edfc9-fe2a-42f0-85ef-0e380c846b7f",
+  "object": "beer",
+  "name": "Experimental Ale (Autumn 2015)",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0f2f6b03-d0b0-4d65-8a90-69ca597fccfc",
+  "object": "beer",
+  "name": "The Richard",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

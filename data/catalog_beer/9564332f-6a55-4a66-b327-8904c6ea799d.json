@@ -1,0 +1,11 @@
+{
+  "id": "9564332f-6a55-4a66-b327-8904c6ea799d",
+  "object": "beer",
+  "name": "WARM APPLE PIE",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

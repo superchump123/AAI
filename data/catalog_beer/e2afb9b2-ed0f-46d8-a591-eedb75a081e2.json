@@ -1,0 +1,11 @@
+{
+  "id": "e2afb9b2-ed0f-46d8-a591-eedb75a081e2",
+  "object": "beer",
+  "name": "10 Layers",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

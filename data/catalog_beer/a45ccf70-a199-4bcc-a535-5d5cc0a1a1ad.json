@@ -1,0 +1,11 @@
+{
+  "id": "a45ccf70-a199-4bcc-a535-5d5cc0a1a1ad",
+  "object": "beer",
+  "name": "Mbege",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

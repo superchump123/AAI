@@ -1,0 +1,11 @@
+{
+  "id": "97262b1d-f218-4cb0-bf63-22612346ac9e",
+  "object": "beer",
+  "name": "El Conquistador",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

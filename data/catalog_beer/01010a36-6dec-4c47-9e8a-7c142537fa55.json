@@ -1,0 +1,11 @@
+{
+  "id": "01010a36-6dec-4c47-9e8a-7c142537fa55",
+  "object": "beer",
+  "name": "Benson Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

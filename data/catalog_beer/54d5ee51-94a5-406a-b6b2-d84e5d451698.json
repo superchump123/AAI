@@ -1,0 +1,11 @@
+{
+  "id": "54d5ee51-94a5-406a-b6b2-d84e5d451698",
+  "object": "beer",
+  "name": "Bicentennial IIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 104,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

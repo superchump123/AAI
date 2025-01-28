@@ -1,0 +1,11 @@
+{
+  "id": "94fbf2aa-3bf2-408a-bb86-6ff494ca658c",
+  "object": "beer",
+  "name": "Trip V",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0d9b14ed-08a5-42a6-8fcf-61e19596c2ee",
+  "object": "beer",
+  "name": "Pride Runs Deep",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

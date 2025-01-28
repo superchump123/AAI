@@ -1,0 +1,11 @@
+{
+  "id": "ce7766fb-8582-4c04-a32d-7998bd928b3e",
+  "object": "beer",
+  "name": "Harlequin Cap",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

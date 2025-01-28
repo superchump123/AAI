@@ -1,0 +1,11 @@
+{
+  "id": "bd49d294-8627-473b-bd79-4d8f196127b6",
+  "object": "beer",
+  "name": "Resurgens Rye",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 112,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

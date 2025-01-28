@@ -1,0 +1,11 @@
+{
+  "id": "111424be-40a5-4475-bef8-3b31c0e4ff05",
+  "object": "beer",
+  "name": "Sagres",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

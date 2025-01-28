@@ -1,0 +1,11 @@
+{
+  "id": "0b4596fe-a138-4dce-8e6c-56f621ed6c08",
+  "object": "beer",
+  "name": "Honey Brown",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

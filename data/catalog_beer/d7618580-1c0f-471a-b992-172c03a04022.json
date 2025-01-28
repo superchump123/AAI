@@ -1,0 +1,11 @@
+{
+  "id": "d7618580-1c0f-471a-b992-172c03a04022",
+  "object": "beer",
+  "name": "Bavaria Premium Pilsener",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

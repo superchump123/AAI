@@ -1,0 +1,11 @@
+{
+  "id": "4078752a-8cb4-493e-91ed-5bb6af2d5520",
+  "object": "beer",
+  "name": "Twilight Superstition",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

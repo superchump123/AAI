@@ -1,0 +1,11 @@
+{
+  "id": "b4cd43d7-9fb0-46a7-a1d5-b54e63814252",
+  "object": "beer",
+  "name": "Atmospheric Perception",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

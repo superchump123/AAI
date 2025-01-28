@@ -1,0 +1,11 @@
+{
+  "id": "6d9ac019-0d93-4c51-af1b-f6107d9afa83",
+  "object": "beer",
+  "name": "Lizard King",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c7e69f4d-1d9c-41cb-a000-ba2f7c7ae47d",
+  "object": "beer",
+  "name": "Backside Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

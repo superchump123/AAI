@@ -1,0 +1,11 @@
+{
+  "id": "95319955-8123-4be8-8fc6-bf4d8627cad7",
+  "object": "beer",
+  "name": "Kettle Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

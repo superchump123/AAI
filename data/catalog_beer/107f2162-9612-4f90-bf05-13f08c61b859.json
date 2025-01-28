@@ -1,0 +1,11 @@
+{
+  "id": "107f2162-9612-4f90-bf05-13f08c61b859",
+  "object": "beer",
+  "name": "Thunder Monkey",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00402aba-c8cc-4fb8-8978-e691fcb7579a",
+  "object": "beer",
+  "name": "Worldwide Pants",
+  "style": "Pale Ale",
+  "description": "Named in honor of David Letterman, this big on flavor, malty Pale has minimal bitterness.\r\n\r\nThe Cascade and Falconer\u2019s Flight Hops add light citrus notes & dry finish.\r\n\r\nWe hope it will make your Top 10 List!",
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": true,
+  "last_modified": 1511569277
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f0f1fd0f-85db-489c-9780-a4a914ee300b",
+  "object": "beer",
+  "name": "Saur Blu",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

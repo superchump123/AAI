@@ -1,0 +1,11 @@
+{
+  "id": "86640ef8-bca1-4d65-9f91-bf3257d7aec4",
+  "object": "beer",
+  "name": "Repartee",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

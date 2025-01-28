@@ -1,0 +1,11 @@
+{
+  "id": "39b3549d-5431-4cfc-bded-7e197219a559",
+  "object": "beer",
+  "name": "Nosegrind",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

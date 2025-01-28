@@ -1,0 +1,11 @@
+{
+  "id": "d5d81cbf-7555-4881-a880-d44f222ce0cc",
+  "object": "beer",
+  "name": "Black's Dusk",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

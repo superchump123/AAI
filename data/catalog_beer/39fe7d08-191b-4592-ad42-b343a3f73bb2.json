@@ -1,0 +1,11 @@
+{
+  "id": "39fe7d08-191b-4592-ad42-b343a3f73bb2",
+  "object": "beer",
+  "name": "Panama Limited Red Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

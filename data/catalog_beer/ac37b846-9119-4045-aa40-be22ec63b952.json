@@ -1,0 +1,11 @@
+{
+  "id": "ac37b846-9119-4045-aa40-be22ec63b952",
+  "object": "beer",
+  "name": "Brew Bitch",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

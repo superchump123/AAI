@@ -1,0 +1,11 @@
+{
+  "id": "6c4133ee-51f6-4072-bb14-51a83537077a",
+  "object": "beer",
+  "name": "Turtle Gut",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

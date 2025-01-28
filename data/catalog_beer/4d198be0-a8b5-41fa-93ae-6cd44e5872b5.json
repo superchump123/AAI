@@ -1,0 +1,11 @@
+{
+  "id": "4d198be0-a8b5-41fa-93ae-6cd44e5872b5",
+  "object": "beer",
+  "name": "Double Nine IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

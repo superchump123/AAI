@@ -1,0 +1,11 @@
+{
+  "id": "d25e2ba8-5cdf-484d-b075-eac1375924e1",
+  "object": "beer",
+  "name": "Floridian Hefeweizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

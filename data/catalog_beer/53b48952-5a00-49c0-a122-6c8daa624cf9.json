@@ -1,0 +1,11 @@
+{
+  "id": "53b48952-5a00-49c0-a122-6c8daa624cf9",
+  "object": "beer",
+  "name": "Sour Pickle",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

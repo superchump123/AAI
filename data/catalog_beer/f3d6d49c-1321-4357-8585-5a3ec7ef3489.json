@@ -1,0 +1,11 @@
+{
+  "id": "f3d6d49c-1321-4357-8585-5a3ec7ef3489",
+  "object": "beer",
+  "name": "Redoubt Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

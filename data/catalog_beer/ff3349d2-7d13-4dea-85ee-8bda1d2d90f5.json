@@ -1,0 +1,11 @@
+{
+  "id": "ff3349d2-7d13-4dea-85ee-8bda1d2d90f5",
+  "object": "beer",
+  "name": "Due South Southbound Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

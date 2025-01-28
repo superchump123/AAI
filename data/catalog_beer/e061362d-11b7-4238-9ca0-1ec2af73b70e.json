@@ -1,0 +1,11 @@
+{
+  "id": "e061362d-11b7-4238-9ca0-1ec2af73b70e",
+  "object": "beer",
+  "name": "Sleep Walker",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 135,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

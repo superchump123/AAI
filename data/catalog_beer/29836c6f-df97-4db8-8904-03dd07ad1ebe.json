@@ -1,0 +1,11 @@
+{
+  "id": "29836c6f-df97-4db8-8904-03dd07ad1ebe",
+  "object": "beer",
+  "name": "Cherry Porter",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

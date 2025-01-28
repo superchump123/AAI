@@ -1,0 +1,11 @@
+{
+  "id": "bafbec36-3a77-475e-b07a-ca943d36fbaa",
+  "object": "beer",
+  "name": "Over the Edge",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c010ce91-7b2b-40e4-b748-2fe6ab8b0cc9",
+  "object": "beer",
+  "name": "Sandy Bottom Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

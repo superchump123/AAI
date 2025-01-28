@@ -1,0 +1,11 @@
+{
+  "id": "4fa6b9ed-df4c-49b3-b815-a99816b48940",
+  "object": "beer",
+  "name": "Good Morning",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

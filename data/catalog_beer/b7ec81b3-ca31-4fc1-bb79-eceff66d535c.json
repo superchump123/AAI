@@ -1,0 +1,11 @@
+{
+  "id": "b7ec81b3-ca31-4fc1-bb79-eceff66d535c",
+  "object": "beer",
+  "name": "Holzfassbier",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

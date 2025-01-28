@@ -1,0 +1,11 @@
+{
+  "id": "ada57577-0c0a-46e4-b046-4e2b1780e270",
+  "object": "beer",
+  "name": "Forbidden Fruit",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

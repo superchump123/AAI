@@ -1,0 +1,11 @@
+{
+  "id": "cad50014-b96c-4fb0-af67-c630c8147812",
+  "object": "beer",
+  "name": "Sunset Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

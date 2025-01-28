@@ -1,0 +1,11 @@
+{
+  "id": "b888399a-774b-434b-a141-74c5b3da454b",
+  "object": "beer",
+  "name": "Johnny",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ddda5f4-0808-4ccc-a722-9dad609d1b41",
+  "object": "beer",
+  "name": "Happy Ending",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

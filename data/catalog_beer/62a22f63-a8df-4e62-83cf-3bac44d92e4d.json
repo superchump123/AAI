@@ -1,0 +1,11 @@
+{
+  "id": "62a22f63-a8df-4e62-83cf-3bac44d92e4d",
+  "object": "beer",
+  "name": "Paradis",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

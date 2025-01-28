@@ -1,0 +1,11 @@
+{
+  "id": "f4de3d4d-d17e-4a65-934c-be40254d8b6e",
+  "object": "beer",
+  "name": "Ripper",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

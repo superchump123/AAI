@@ -1,0 +1,11 @@
+{
+  "id": "fe81c499-db75-408d-b3fa-c34a2354939c",
+  "object": "beer",
+  "name": "Greene King Churchill IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

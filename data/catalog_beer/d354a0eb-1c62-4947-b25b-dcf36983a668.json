@@ -1,0 +1,11 @@
+{
+  "id": "d354a0eb-1c62-4947-b25b-dcf36983a668",
+  "object": "beer",
+  "name": "Irish Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

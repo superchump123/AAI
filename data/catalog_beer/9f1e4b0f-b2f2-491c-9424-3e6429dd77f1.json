@@ -1,0 +1,11 @@
+{
+  "id": "9f1e4b0f-b2f2-491c-9424-3e6429dd77f1",
+  "object": "beer",
+  "name": "Another Way to Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

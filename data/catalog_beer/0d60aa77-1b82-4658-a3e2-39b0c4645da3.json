@@ -1,0 +1,11 @@
+{
+  "id": "0d60aa77-1b82-4658-a3e2-39b0c4645da3",
+  "object": "beer",
+  "name": "Winter Warlock",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

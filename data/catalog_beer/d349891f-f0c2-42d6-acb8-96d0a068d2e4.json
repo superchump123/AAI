@@ -1,0 +1,11 @@
+{
+  "id": "d349891f-f0c2-42d6-acb8-96d0a068d2e4",
+  "object": "beer",
+  "name": "Anniversary Ale - Nineteen",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

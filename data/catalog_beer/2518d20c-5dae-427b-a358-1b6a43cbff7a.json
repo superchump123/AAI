@@ -1,0 +1,11 @@
+{
+  "id": "2518d20c-5dae-427b-a358-1b6a43cbff7a",
+  "object": "beer",
+  "name": "Sanwald Weizen Dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

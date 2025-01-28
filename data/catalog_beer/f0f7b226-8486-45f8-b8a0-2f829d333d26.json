@@ -1,0 +1,11 @@
+{
+  "id": "f0f7b226-8486-45f8-b8a0-2f829d333d26",
+  "object": "beer",
+  "name": "Sled God",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

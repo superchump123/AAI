@@ -1,0 +1,11 @@
+{
+  "id": "f919be58-1856-42b3-9c7c-68e67bc303ca",
+  "object": "beer",
+  "name": "The Red #7",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e80d9e95-6c9c-4280-9046-a9eead148336",
+  "object": "beer",
+  "name": "RIP Snorter",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

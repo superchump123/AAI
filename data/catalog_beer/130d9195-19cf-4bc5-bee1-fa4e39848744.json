@@ -1,0 +1,11 @@
+{
+  "id": "130d9195-19cf-4bc5-bee1-fa4e39848744",
+  "object": "beer",
+  "name": "California Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

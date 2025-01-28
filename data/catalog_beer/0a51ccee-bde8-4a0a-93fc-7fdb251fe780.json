@@ -1,0 +1,11 @@
+{
+  "id": "0a51ccee-bde8-4a0a-93fc-7fdb251fe780",
+  "object": "beer",
+  "name": "250th Anniversary Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

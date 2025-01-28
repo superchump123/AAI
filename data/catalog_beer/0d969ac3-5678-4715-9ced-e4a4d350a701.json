@@ -1,0 +1,11 @@
+{
+  "id": "0d969ac3-5678-4715-9ced-e4a4d350a701",
+  "object": "beer",
+  "name": "American Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

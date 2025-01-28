@@ -1,0 +1,11 @@
+{
+  "id": "c57390eb-6686-4808-a821-23c19109a393",
+  "object": "beer",
+  "name": "Undertaker",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

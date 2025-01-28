@@ -1,0 +1,11 @@
+{
+  "id": "8b5c6190-483f-408d-a011-ff568c35c63b",
+  "object": "beer",
+  "name": "Pike Derby Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

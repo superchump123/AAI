@@ -1,0 +1,11 @@
+{
+  "id": "70f3ee19-b669-435b-a3f2-c70001c9f7b1",
+  "object": "beer",
+  "name": "Ridgeline Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

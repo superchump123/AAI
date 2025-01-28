@@ -1,0 +1,11 @@
+{
+  "id": "32df2751-ab95-4833-a603-226d7b640820",
+  "object": "beer",
+  "name": "Depot Express",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

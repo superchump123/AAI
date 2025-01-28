@@ -1,0 +1,11 @@
+{
+  "id": "3e04af8b-47f7-4330-b380-3d6090a2b834",
+  "object": "beer",
+  "name": "The Bird",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

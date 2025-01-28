@@ -1,0 +1,11 @@
+{
+  "id": "dac28c57-1387-46be-acff-2f285ed0d075",
+  "object": "beer",
+  "name": "Kokopelli Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1bcc0113-fca8-4618-a730-b95fe54c1544",
+  "object": "beer",
+  "name": "Gala Peach",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

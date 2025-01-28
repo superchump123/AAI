@@ -1,0 +1,11 @@
+{
+  "id": "f255ea76-4ecc-4f3d-a012-5e4b2d30c5ce",
+  "object": "beer",
+  "name": "Hop Rocker",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

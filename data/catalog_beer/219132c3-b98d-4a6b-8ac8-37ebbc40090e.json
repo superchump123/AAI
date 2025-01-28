@@ -1,0 +1,11 @@
+{
+  "id": "219132c3-b98d-4a6b-8ac8-37ebbc40090e",
+  "object": "beer",
+  "name": "Tamarindia Amber Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

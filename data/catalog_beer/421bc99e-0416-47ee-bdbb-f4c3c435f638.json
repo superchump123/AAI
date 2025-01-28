@@ -1,0 +1,11 @@
+{
+  "id": "421bc99e-0416-47ee-bdbb-f4c3c435f638",
+  "object": "beer",
+  "name": "Buried Sun",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

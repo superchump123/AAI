@@ -1,0 +1,11 @@
+{
+  "id": "923b7c80-186f-4cc3-aa17-2176f3c02230",
+  "object": "beer",
+  "name": "Hadouken",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

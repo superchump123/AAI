@@ -1,0 +1,11 @@
+{
+  "id": "b60f4da5-6dd1-40c7-b711-2db15ac45576",
+  "object": "beer",
+  "name": "Narconaut",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

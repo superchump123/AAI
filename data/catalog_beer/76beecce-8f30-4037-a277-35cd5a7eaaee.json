@@ -1,0 +1,11 @@
+{
+  "id": "76beecce-8f30-4037-a277-35cd5a7eaaee",
+  "object": "beer",
+  "name": "Ruckus",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "313b239a-e817-43c2-9908-1350b97cfddf",
+  "object": "beer",
+  "name": "It's Hoppening",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

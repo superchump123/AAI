@@ -1,0 +1,11 @@
+{
+  "id": "e8b15335-b045-4cb0-9429-2c8b84cb5c86",
+  "object": "beer",
+  "name": "Julbock Red-Brown",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

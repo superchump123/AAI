@@ -1,0 +1,11 @@
+{
+  "id": "63dda01a-4443-4464-b624-d8955ce5907a",
+  "object": "beer",
+  "name": "Moat Apfel Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

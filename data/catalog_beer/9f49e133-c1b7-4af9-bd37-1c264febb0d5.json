@@ -1,0 +1,11 @@
+{
+  "id": "9f49e133-c1b7-4af9-bd37-1c264febb0d5",
+  "object": "beer",
+  "name": "Modernist",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

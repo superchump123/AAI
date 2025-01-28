@@ -1,0 +1,11 @@
+{
+  "id": "e6bf664b-cc96-408f-8a85-e2c5315292de",
+  "object": "beer",
+  "name": "Hop Dog",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

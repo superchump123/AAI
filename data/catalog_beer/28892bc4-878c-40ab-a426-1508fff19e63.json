@@ -1,0 +1,11 @@
+{
+  "id": "28892bc4-878c-40ab-a426-1508fff19e63",
+  "object": "beer",
+  "name": "Pipe City Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

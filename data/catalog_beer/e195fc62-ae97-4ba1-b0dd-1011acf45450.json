@@ -1,0 +1,11 @@
+{
+  "id": "e195fc62-ae97-4ba1-b0dd-1011acf45450",
+  "object": "beer",
+  "name": "Oaked Mosaic IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

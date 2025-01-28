@@ -1,0 +1,11 @@
+{
+  "id": "c6dab470-f904-47f6-b2e0-a6a2e1c1716a",
+  "object": "beer",
+  "name": "Watershed IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

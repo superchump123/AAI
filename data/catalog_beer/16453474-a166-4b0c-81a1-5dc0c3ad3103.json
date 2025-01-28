@@ -1,0 +1,11 @@
+{
+  "id": "16453474-a166-4b0c-81a1-5dc0c3ad3103",
+  "object": "beer",
+  "name": "Haven",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "494854b0-f49b-4f2f-9a85-649db32187e3",
+  "object": "beer",
+  "name": "The Night Mare",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

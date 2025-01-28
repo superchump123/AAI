@@ -1,0 +1,11 @@
+{
+  "id": "ee6b1eed-0093-4f58-93c6-fa7c62957600",
+  "object": "beer",
+  "name": "King Street Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

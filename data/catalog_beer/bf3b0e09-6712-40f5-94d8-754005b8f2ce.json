@@ -1,0 +1,11 @@
+{
+  "id": "bf3b0e09-6712-40f5-94d8-754005b8f2ce",
+  "object": "beer",
+  "name": "Hammer Smashed Cherry",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

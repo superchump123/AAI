@@ -1,0 +1,11 @@
+{
+  "id": "661d8f05-914d-4226-9969-196bb2462da1",
+  "object": "beer",
+  "name": "Smoked Amber",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

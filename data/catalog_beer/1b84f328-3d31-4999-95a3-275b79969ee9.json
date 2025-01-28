@@ -1,0 +1,11 @@
+{
+  "id": "1b84f328-3d31-4999-95a3-275b79969ee9",
+  "object": "beer",
+  "name": "Patrizia",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

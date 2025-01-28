@@ -1,0 +1,11 @@
+{
+  "id": "51076f5f-bcef-486a-ba42-0d7f8d2890d9",
+  "object": "beer",
+  "name": "Horseheads Orion",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

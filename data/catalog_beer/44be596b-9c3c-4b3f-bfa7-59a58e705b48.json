@@ -1,0 +1,11 @@
+{
+  "id": "44be596b-9c3c-4b3f-bfa7-59a58e705b48",
+  "object": "beer",
+  "name": "THE FULL LEMONTY",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

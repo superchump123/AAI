@@ -1,0 +1,11 @@
+{
+  "id": "cbc569be-0383-49f5-b936-2917815f06af",
+  "object": "beer",
+  "name": "Catalina Common Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

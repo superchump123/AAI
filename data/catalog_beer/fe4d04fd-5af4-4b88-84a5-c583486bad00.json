@@ -1,0 +1,11 @@
+{
+  "id": "fe4d04fd-5af4-4b88-84a5-c583486bad00",
+  "object": "beer",
+  "name": "Cary On Citrus Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

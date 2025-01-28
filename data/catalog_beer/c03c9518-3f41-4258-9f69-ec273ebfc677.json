@@ -1,0 +1,11 @@
+{
+  "id": "c03c9518-3f41-4258-9f69-ec273ebfc677",
+  "object": "beer",
+  "name": "Outcider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c28d5401-a1cf-4bda-ac72-9fb97d35025f",
+  "object": "beer",
+  "name": "Mr. Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

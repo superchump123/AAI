@@ -1,0 +1,11 @@
+{
+  "id": "ca15a098-abbb-4425-aa32-7cd879d81636",
+  "object": "beer",
+  "name": "Life of Riley",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

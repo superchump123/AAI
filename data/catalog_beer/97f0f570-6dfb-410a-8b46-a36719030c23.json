@@ -1,0 +1,11 @@
+{
+  "id": "97f0f570-6dfb-410a-8b46-a36719030c23",
+  "object": "beer",
+  "name": "HexenBiest V1",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

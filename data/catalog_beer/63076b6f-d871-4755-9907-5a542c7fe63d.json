@@ -1,0 +1,11 @@
+{
+  "id": "63076b6f-d871-4755-9907-5a542c7fe63d",
+  "object": "beer",
+  "name": "3rd Year Beer",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

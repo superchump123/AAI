@@ -1,0 +1,11 @@
+{
+  "id": "3fb0dbcc-7659-46a1-b660-c5f932afd7eb",
+  "object": "beer",
+  "name": "TRK-ISA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

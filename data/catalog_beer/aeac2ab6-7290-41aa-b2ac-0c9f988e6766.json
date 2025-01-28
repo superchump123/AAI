@@ -1,0 +1,11 @@
+{
+  "id": "aeac2ab6-7290-41aa-b2ac-0c9f988e6766",
+  "object": "beer",
+  "name": "Titania",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

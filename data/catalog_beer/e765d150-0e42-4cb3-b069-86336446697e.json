@@ -1,0 +1,11 @@
+{
+  "id": "e765d150-0e42-4cb3-b069-86336446697e",
+  "object": "beer",
+  "name": "NatureLand Organic Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

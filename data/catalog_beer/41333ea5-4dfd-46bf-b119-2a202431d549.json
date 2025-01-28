@@ -1,0 +1,11 @@
+{
+  "id": "41333ea5-4dfd-46bf-b119-2a202431d549",
+  "object": "beer",
+  "name": "Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

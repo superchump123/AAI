@@ -1,0 +1,11 @@
+{
+  "id": "34c30af2-726f-46df-91b6-db020a8b8918",
+  "object": "beer",
+  "name": "Elda M",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

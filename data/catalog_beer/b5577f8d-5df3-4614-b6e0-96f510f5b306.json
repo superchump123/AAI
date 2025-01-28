@@ -1,0 +1,11 @@
+{
+  "id": "b5577f8d-5df3-4614-b6e0-96f510f5b306",
+  "object": "beer",
+  "name": "White Fox Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

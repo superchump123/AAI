@@ -1,0 +1,11 @@
+{
+  "id": "665acfd1-f346-4c17-84d0-de340f294997",
+  "object": "beer",
+  "name": "Dog le Rouge",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

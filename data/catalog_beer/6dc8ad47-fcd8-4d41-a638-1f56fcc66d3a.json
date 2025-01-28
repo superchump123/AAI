@@ -1,0 +1,11 @@
+{
+  "id": "6dc8ad47-fcd8-4d41-a638-1f56fcc66d3a",
+  "object": "beer",
+  "name": "Rise & Shine",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

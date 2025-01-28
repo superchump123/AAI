@@ -1,0 +1,11 @@
+{
+  "id": "0c1f1687-a1c8-400d-80c6-7eeefe12fd31",
+  "object": "beer",
+  "name": "Adnams Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

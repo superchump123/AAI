@@ -1,0 +1,11 @@
+{
+  "id": "cb43261b-559f-43b2-bbb8-35df9036c10d",
+  "object": "beer",
+  "name": "Ride The Wendigo",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

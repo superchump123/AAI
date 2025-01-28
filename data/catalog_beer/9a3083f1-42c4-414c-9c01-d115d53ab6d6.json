@@ -1,0 +1,11 @@
+{
+  "id": "9a3083f1-42c4-414c-9c01-d115d53ab6d6",
+  "object": "beer",
+  "name": "Raspberry",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "800d47bd-d7c8-4645-8c89-828e0ebf73ea",
+  "object": "beer",
+  "name": "Mt Massive",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

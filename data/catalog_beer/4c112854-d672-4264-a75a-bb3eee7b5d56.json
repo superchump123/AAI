@@ -1,0 +1,11 @@
+{
+  "id": "4c112854-d672-4264-a75a-bb3eee7b5d56",
+  "object": "beer",
+  "name": "Dark Matter",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

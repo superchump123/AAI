@@ -1,0 +1,11 @@
+{
+  "id": "22bf2785-7055-4ff6-be61-ddbe3b381cfc",
+  "object": "beer",
+  "name": "Traditionnel",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

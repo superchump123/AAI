@@ -1,0 +1,11 @@
+{
+  "id": "acdd0cf0-9124-4f08-8867-0ca318c7d905",
+  "object": "beer",
+  "name": "Wicked Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

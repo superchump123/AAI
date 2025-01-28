@@ -1,0 +1,11 @@
+{
+  "id": "7a34e3a2-ab25-41ea-8ea0-a37f0765d86b",
+  "object": "beer",
+  "name": "Grinding Stone",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

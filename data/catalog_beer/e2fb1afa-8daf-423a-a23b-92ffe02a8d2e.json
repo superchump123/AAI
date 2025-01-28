@@ -1,0 +1,11 @@
+{
+  "id": "e2fb1afa-8daf-423a-a23b-92ffe02a8d2e",
+  "object": "beer",
+  "name": "No Coast IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f4c8ed11-a511-44fd-90fc-c7189eea46c4",
+  "object": "beer",
+  "name": "Quick Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b3fbb3c-12e8-4d71-bd5c-0920a7b09fbb",
+  "object": "beer",
+  "name": "Enkir",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

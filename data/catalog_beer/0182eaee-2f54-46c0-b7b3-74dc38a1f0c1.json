@@ -1,0 +1,11 @@
+{
+  "id": "0182eaee-2f54-46c0-b7b3-74dc38a1f0c1",
+  "object": "beer",
+  "name": "Aardwolf",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

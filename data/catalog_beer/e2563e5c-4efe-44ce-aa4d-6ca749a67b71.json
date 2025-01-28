@@ -1,0 +1,11 @@
+{
+  "id": "e2563e5c-4efe-44ce-aa4d-6ca749a67b71",
+  "object": "beer",
+  "name": "Crash Test Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "72f9a845-9578-4366-ae0b-907c54b2e57d",
+  "object": "beer",
+  "name": "Strudel Cake",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f9c73fd1-c70f-4902-a22a-31ca2e3e99c7",
+  "object": "beer",
+  "name": "West O Holy L",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

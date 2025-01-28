@@ -1,0 +1,11 @@
+{
+  "id": "d50e0ab7-d792-41b6-a69e-c9de7a88a507",
+  "object": "beer",
+  "name": "Black Angel",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

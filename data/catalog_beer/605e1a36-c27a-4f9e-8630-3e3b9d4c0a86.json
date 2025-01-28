@@ -1,0 +1,11 @@
+{
+  "id": "605e1a36-c27a-4f9e-8630-3e3b9d4c0a86",
+  "object": "beer",
+  "name": "Amstel Wheat",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

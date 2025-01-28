@@ -1,0 +1,11 @@
+{
+  "id": "797cff53-e095-490b-b12c-a293f0a79e03",
+  "object": "beer",
+  "name": "Grand Trunk Bohemian Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

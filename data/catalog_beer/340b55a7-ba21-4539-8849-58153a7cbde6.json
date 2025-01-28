@@ -1,0 +1,11 @@
+{
+  "id": "340b55a7-ba21-4539-8849-58153a7cbde6",
+  "object": "beer",
+  "name": "Weiss Cream",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

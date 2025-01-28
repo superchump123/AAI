@@ -1,0 +1,11 @@
+{
+  "id": "1ae7a917-25d3-47ef-a5aa-aabfead5c55c",
+  "object": "beer",
+  "name": "Catchpenny",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

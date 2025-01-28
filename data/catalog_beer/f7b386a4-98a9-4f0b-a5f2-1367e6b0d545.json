@@ -1,0 +1,11 @@
+{
+  "id": "f7b386a4-98a9-4f0b-a5f2-1367e6b0d545",
+  "object": "beer",
+  "name": "Punk'n",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ee6e5b92-7c93-4286-a863-e3344e003a3d",
+  "object": "beer",
+  "name": "Funky Thunder",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

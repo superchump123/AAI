@@ -1,0 +1,11 @@
+{
+  "id": "b6609ad7-4ba6-4fd5-9d56-de4a599234cd",
+  "object": "beer",
+  "name": "Begyle Dubbel Stamp",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

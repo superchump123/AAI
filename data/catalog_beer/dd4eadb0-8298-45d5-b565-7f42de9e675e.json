@@ -1,0 +1,11 @@
+{
+  "id": "dd4eadb0-8298-45d5-b565-7f42de9e675e",
+  "object": "beer",
+  "name": "Count Nibula",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "27e57689-42a5-4f19-b92a-c9318e206444",
+  "object": "beer",
+  "name": "Hoppy Ending",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

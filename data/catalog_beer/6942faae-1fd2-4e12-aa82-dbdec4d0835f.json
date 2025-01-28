@@ -1,0 +1,11 @@
+{
+  "id": "6942faae-1fd2-4e12-aa82-dbdec4d0835f",
+  "object": "beer",
+  "name": "Bourbon Wee Heavy",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

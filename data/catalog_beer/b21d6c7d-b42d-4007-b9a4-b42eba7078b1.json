@@ -1,0 +1,11 @@
+{
+  "id": "b21d6c7d-b42d-4007-b9a4-b42eba7078b1",
+  "object": "beer",
+  "name": "Dark Days Black IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

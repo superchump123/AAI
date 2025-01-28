@@ -1,0 +1,11 @@
+{
+  "id": "b8d2d41a-89ae-46ef-aacb-f546f390068b",
+  "object": "beer",
+  "name": "Helios Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

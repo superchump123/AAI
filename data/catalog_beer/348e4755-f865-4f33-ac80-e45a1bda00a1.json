@@ -1,0 +1,11 @@
+{
+  "id": "348e4755-f865-4f33-ac80-e45a1bda00a1",
+  "object": "beer",
+  "name": "The Guilty Party",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

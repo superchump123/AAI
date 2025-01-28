@@ -1,0 +1,11 @@
+{
+  "id": "9c70cc9c-0806-41ef-b0f0-efbf270550cf",
+  "object": "beer",
+  "name": "FA LA LA LA LA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

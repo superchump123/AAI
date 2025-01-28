@@ -1,0 +1,11 @@
+{
+  "id": "1d84c4b1-df34-4db2-a148-7a385cd3526e",
+  "object": "beer",
+  "name": "Forever Ever",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

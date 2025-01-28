@@ -1,0 +1,11 @@
+{
+  "id": "b0419e14-af96-4c8a-af8c-a2c20959b045",
+  "object": "beer",
+  "name": "Simcoe Kid",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

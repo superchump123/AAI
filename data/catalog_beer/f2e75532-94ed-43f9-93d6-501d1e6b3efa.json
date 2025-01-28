@@ -1,0 +1,11 @@
+{
+  "id": "f2e75532-94ed-43f9-93d6-501d1e6b3efa",
+  "object": "beer",
+  "name": "Pils ou Face",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

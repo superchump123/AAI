@@ -1,0 +1,11 @@
+{
+  "id": "b5d55728-80ec-4cf3-a50f-2d242b856f32",
+  "object": "beer",
+  "name": "Dark Galaxie",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

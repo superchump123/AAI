@@ -1,0 +1,11 @@
+{
+  "id": "17bfce72-4107-4894-9245-c7feb669287e",
+  "object": "beer",
+  "name": "Imperium (Mysterium Verum)",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

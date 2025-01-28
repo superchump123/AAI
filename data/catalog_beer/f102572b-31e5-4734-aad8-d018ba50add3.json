@@ -1,0 +1,11 @@
+{
+  "id": "f102572b-31e5-4734-aad8-d018ba50add3",
+  "object": "beer",
+  "name": "Savage",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

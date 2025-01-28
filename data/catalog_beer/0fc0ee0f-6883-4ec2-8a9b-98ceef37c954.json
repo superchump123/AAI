@@ -1,0 +1,11 @@
+{
+  "id": "0fc0ee0f-6883-4ec2-8a9b-98ceef37c954",
+  "object": "beer",
+  "name": "Flying Dutchess",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

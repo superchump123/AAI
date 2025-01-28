@@ -1,0 +1,11 @@
+{
+  "id": "816b3d49-9751-4b2a-af3f-702b90464f1b",
+  "object": "beer",
+  "name": "White Hoplosion",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

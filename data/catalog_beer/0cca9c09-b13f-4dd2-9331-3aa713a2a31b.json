@@ -1,0 +1,11 @@
+{
+  "id": "0cca9c09-b13f-4dd2-9331-3aa713a2a31b",
+  "object": "beer",
+  "name": "Bourbon County Vanilla Rye",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

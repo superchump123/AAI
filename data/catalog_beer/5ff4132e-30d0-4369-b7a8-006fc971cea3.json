@@ -1,0 +1,11 @@
+{
+  "id": "5ff4132e-30d0-4369-b7a8-006fc971cea3",
+  "object": "beer",
+  "name": "Hell Yes",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

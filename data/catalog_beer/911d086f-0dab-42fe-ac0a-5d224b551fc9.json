@@ -1,0 +1,11 @@
+{
+  "id": "911d086f-0dab-42fe-ac0a-5d224b551fc9",
+  "object": "beer",
+  "name": "Green Chile Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "34b67538-1fe3-4782-b24c-665f613e76d5",
+  "object": "beer",
+  "name": "Walnut",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

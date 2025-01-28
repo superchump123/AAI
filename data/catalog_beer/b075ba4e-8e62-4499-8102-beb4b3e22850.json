@@ -1,0 +1,11 @@
+{
+  "id": "b075ba4e-8e62-4499-8102-beb4b3e22850",
+  "object": "beer",
+  "name": "Mad Wolf",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "42e1390b-166c-443e-83f2-37c5198c0d95",
+  "object": "beer",
+  "name": "Inappropriately Placed Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "43dcf2b5-272f-4bce-99e4-ca3ce8f2c5d8",
+  "object": "beer",
+  "name": "The Berry Amendment",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

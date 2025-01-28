@@ -1,0 +1,11 @@
+{
+  "id": "85be4357-167c-4dd4-abb5-c866345624ac",
+  "object": "beer",
+  "name": "East",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

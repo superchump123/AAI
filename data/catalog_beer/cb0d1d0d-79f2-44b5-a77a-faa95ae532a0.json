@@ -1,0 +1,11 @@
+{
+  "id": "cb0d1d0d-79f2-44b5-a77a-faa95ae532a0",
+  "object": "beer",
+  "name": "Oh Snap! Sour Red with Cherries",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

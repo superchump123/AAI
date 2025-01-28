@@ -1,0 +1,11 @@
+{
+  "id": "c65a61f2-f901-4f07-b6fb-eacbdc9de59c",
+  "object": "beer",
+  "name": "Downtown Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64110b64-b399-4b57-b367-f97128551fce",
+  "object": "beer",
+  "name": "Blackberry Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

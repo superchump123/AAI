@@ -1,0 +1,11 @@
+{
+  "id": "7e7b4be9-a622-4f6b-ad41-fdee11d6c9e8",
+  "object": "beer",
+  "name": "Scarlet Macaw",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

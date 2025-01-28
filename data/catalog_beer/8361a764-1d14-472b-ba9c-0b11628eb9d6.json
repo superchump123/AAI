@@ -1,0 +1,11 @@
+{
+  "id": "8361a764-1d14-472b-ba9c-0b11628eb9d6",
+  "object": "beer",
+  "name": "The Wire Transfer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

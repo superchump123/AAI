@@ -1,0 +1,11 @@
+{
+  "id": "93aabdb6-0e10-47f8-9045-339a3680434b",
+  "object": "beer",
+  "name": "Hot Rocks",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

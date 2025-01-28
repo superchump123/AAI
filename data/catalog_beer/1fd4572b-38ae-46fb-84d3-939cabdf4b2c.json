@@ -1,0 +1,11 @@
+{
+  "id": "1fd4572b-38ae-46fb-84d3-939cabdf4b2c",
+  "object": "beer",
+  "name": "CaroBock",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

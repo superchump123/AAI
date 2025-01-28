@@ -1,0 +1,11 @@
+{
+  "id": "a28057c0-b17e-4add-a801-3acfa1ee11f1",
+  "object": "beer",
+  "name": "Rentsch Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

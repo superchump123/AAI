@@ -1,0 +1,11 @@
+{
+  "id": "65250d5c-6890-442f-bb93-e725c447a36f",
+  "object": "beer",
+  "name": "Incredible Hop: Belgian Style IPA",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

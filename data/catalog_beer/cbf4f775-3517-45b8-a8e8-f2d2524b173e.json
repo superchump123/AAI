@@ -1,0 +1,11 @@
+{
+  "id": "cbf4f775-3517-45b8-a8e8-f2d2524b173e",
+  "object": "beer",
+  "name": "Reichenbrander Dunkelbier",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "410ed30b-a8f8-4d90-b4b9-f0783956a6bc",
+  "object": "beer",
+  "name": "Innocence",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

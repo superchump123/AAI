@@ -1,0 +1,11 @@
+{
+  "id": "9e46ea21-1ae9-4c23-9ecf-c8d3374e3e5e",
+  "object": "beer",
+  "name": "Gummypocalypse",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e348c9ba-9e31-4044-9e2e-16207ebe4f5c",
+  "object": "beer",
+  "name": "G2X",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

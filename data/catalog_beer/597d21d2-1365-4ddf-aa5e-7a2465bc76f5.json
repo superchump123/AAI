@@ -1,0 +1,11 @@
+{
+  "id": "597d21d2-1365-4ddf-aa5e-7a2465bc76f5",
+  "object": "beer",
+  "name": "Mega Mix",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

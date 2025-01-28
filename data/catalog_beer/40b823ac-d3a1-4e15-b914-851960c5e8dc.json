@@ -1,0 +1,11 @@
+{
+  "id": "40b823ac-d3a1-4e15-b914-851960c5e8dc",
+  "object": "beer",
+  "name": "3rd Noel",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

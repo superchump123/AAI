@@ -1,0 +1,11 @@
+{
+  "id": "dbcba87c-708b-4eb3-83e1-2315213450b2",
+  "object": "beer",
+  "name": "Rootstock",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

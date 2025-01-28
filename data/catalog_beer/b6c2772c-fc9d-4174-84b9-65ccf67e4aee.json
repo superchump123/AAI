@@ -1,0 +1,11 @@
+{
+  "id": "b6c2772c-fc9d-4174-84b9-65ccf67e4aee",
+  "object": "beer",
+  "name": "Pedal To the Fleur",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

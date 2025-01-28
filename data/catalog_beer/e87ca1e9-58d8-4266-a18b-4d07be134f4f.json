@@ -1,0 +1,11 @@
+{
+  "id": "e87ca1e9-58d8-4266-a18b-4d07be134f4f",
+  "object": "beer",
+  "name": "Cypress Strong Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

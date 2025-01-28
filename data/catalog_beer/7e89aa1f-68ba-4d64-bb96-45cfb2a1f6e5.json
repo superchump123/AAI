@@ -1,0 +1,11 @@
+{
+  "id": "7e89aa1f-68ba-4d64-bb96-45cfb2a1f6e5",
+  "object": "beer",
+  "name": "Panic Attack",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

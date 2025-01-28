@@ -1,0 +1,11 @@
+{
+  "id": "dd748cf1-e86e-43c4-9d91-7e08842ed923",
+  "object": "beer",
+  "name": "Draft Punk",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd0920be-fada-41b3-898f-8567d150c055",
+  "object": "beer",
+  "name": "India Wharf Pale Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

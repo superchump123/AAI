@@ -1,0 +1,11 @@
+{
+  "id": "7a562105-c3dc-4319-a891-048646ea975f",
+  "object": "beer",
+  "name": "Imperial Tahitian Vanilla Bean Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

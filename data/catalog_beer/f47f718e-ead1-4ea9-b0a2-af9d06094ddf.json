@@ -1,0 +1,11 @@
+{
+  "id": "f47f718e-ead1-4ea9-b0a2-af9d06094ddf",
+  "object": "beer",
+  "name": "Striped Bass",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

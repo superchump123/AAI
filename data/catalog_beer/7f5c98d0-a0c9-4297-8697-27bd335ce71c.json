@@ -1,0 +1,11 @@
+{
+  "id": "7f5c98d0-a0c9-4297-8697-27bd335ce71c",
+  "object": "beer",
+  "name": "Dark Signal",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

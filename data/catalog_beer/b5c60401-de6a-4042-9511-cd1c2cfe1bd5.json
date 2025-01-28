@@ -1,0 +1,11 @@
+{
+  "id": "b5c60401-de6a-4042-9511-cd1c2cfe1bd5",
+  "object": "beer",
+  "name": "Down with the Coconut",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

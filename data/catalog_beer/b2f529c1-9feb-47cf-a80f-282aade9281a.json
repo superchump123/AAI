@@ -1,0 +1,11 @@
+{
+  "id": "b2f529c1-9feb-47cf-a80f-282aade9281a",
+  "object": "beer",
+  "name": "Klisch Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

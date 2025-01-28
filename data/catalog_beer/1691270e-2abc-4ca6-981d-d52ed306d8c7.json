@@ -1,0 +1,11 @@
+{
+  "id": "1691270e-2abc-4ca6-981d-d52ed306d8c7",
+  "object": "beer",
+  "name": "Redemption IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

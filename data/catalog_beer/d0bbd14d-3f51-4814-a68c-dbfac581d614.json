@@ -1,0 +1,11 @@
+{
+  "id": "d0bbd14d-3f51-4814-a68c-dbfac581d614",
+  "object": "beer",
+  "name": "Pre-Prohibition Style Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

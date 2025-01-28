@@ -1,0 +1,11 @@
+{
+  "id": "580cc403-0082-49fb-ae84-3dfdef3041d2",
+  "object": "beer",
+  "name": "Jam Sesh",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

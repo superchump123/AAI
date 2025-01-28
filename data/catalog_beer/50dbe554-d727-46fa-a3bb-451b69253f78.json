@@ -1,0 +1,11 @@
+{
+  "id": "50dbe554-d727-46fa-a3bb-451b69253f78",
+  "object": "beer",
+  "name": "Hellfire IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

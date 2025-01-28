@@ -1,0 +1,11 @@
+{
+  "id": "24fe6092-8860-44bd-8f2b-5aef9a3569ab",
+  "object": "beer",
+  "name": "Easy ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

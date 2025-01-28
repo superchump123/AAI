@@ -1,0 +1,11 @@
+{
+  "id": "bb31aff1-8ad3-4908-bd95-84046f7ae434",
+  "object": "beer",
+  "name": "Danish",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

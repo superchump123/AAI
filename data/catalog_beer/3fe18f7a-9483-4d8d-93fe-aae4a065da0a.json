@@ -1,0 +1,11 @@
+{
+  "id": "3fe18f7a-9483-4d8d-93fe-aae4a065da0a",
+  "object": "beer",
+  "name": "Rip Tide",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

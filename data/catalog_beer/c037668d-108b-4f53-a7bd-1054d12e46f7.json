@@ -1,0 +1,11 @@
+{
+  "id": "c037668d-108b-4f53-a7bd-1054d12e46f7",
+  "object": "beer",
+  "name": "Batch 96: Golden",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

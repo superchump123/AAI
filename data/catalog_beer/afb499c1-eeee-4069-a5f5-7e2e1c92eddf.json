@@ -1,0 +1,11 @@
+{
+  "id": "afb499c1-eeee-4069-a5f5-7e2e1c92eddf",
+  "object": "beer",
+  "name": "Rogue Wave",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bde13647-9ff0-4beb-9f3d-41b62654e9ff",
+  "object": "beer",
+  "name": "Shepard's Crook Scotish Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2cb1a619-702b-4278-932c-dd6295dd2e19",
+  "object": "beer",
+  "name": "Barrel Aged Deep Space",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 15,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

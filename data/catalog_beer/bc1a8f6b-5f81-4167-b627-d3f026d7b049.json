@@ -1,0 +1,11 @@
+{
+  "id": "bc1a8f6b-5f81-4167-b627-d3f026d7b049",
+  "object": "beer",
+  "name": "Holiday",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

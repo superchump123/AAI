@@ -1,0 +1,11 @@
+{
+  "id": "f8f6d4e3-b3ac-46d2-b93c-ed4e35f04e91",
+  "object": "beer",
+  "name": "Dortmunder Union Siegel Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

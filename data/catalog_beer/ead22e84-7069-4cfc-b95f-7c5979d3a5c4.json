@@ -1,0 +1,11 @@
+{
+  "id": "ead22e84-7069-4cfc-b95f-7c5979d3a5c4",
+  "object": "beer",
+  "name": "Coulls",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

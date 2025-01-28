@@ -1,0 +1,11 @@
+{
+  "id": "9e3ef49d-e6a7-4f21-aadb-80b28351965b",
+  "object": "beer",
+  "name": "Grain d\u2019Orge Schaesberg",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

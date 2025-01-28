@@ -1,0 +1,11 @@
+{
+  "id": "86603771-53ca-44ff-aa51-b19b227e41d3",
+  "object": "beer",
+  "name": "Magic Mirror",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

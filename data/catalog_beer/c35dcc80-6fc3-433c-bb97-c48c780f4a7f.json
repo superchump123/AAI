@@ -1,0 +1,11 @@
+{
+  "id": "c35dcc80-6fc3-433c-bb97-c48c780f4a7f",
+  "object": "beer",
+  "name": "Copper State",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

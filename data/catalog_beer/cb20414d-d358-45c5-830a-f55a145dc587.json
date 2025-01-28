@@ -1,0 +1,11 @@
+{
+  "id": "cb20414d-d358-45c5-830a-f55a145dc587",
+  "object": "beer",
+  "name": "Big Bend",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

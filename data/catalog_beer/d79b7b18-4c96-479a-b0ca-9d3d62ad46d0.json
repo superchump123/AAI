@@ -1,0 +1,11 @@
+{
+  "id": "d79b7b18-4c96-479a-b0ca-9d3d62ad46d0",
+  "object": "beer",
+  "name": "Walloon",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

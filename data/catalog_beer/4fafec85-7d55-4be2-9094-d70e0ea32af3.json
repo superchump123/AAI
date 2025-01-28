@@ -1,0 +1,11 @@
+{
+  "id": "4fafec85-7d55-4be2-9094-d70e0ea32af3",
+  "object": "beer",
+  "name": "Snobbler",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

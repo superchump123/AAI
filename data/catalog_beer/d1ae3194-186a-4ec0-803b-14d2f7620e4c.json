@@ -1,0 +1,11 @@
+{
+  "id": "d1ae3194-186a-4ec0-803b-14d2f7620e4c",
+  "object": "beer",
+  "name": "Christmas At Midnight",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

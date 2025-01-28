@@ -1,0 +1,11 @@
+{
+  "id": "8b13166a-b000-45a8-8197-109da50c633a",
+  "object": "beer",
+  "name": "Gooseberry Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

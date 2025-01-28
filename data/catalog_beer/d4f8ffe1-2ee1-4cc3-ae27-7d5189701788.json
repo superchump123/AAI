@@ -1,0 +1,11 @@
+{
+  "id": "d4f8ffe1-2ee1-4cc3-ae27-7d5189701788",
+  "object": "beer",
+  "name": "Gretel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

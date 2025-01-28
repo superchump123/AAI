@@ -1,0 +1,11 @@
+{
+  "id": "c7aa9711-8b60-458c-b575-f13704b3fd0c",
+  "object": "beer",
+  "name": "Smithwick's",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

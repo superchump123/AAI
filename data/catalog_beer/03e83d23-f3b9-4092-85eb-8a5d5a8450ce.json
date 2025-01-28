@@ -1,0 +1,11 @@
+{
+  "id": "03e83d23-f3b9-4092-85eb-8a5d5a8450ce",
+  "object": "beer",
+  "name": "Crail Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

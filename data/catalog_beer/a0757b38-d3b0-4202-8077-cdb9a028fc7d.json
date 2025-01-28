@@ -1,0 +1,11 @@
+{
+  "id": "a0757b38-d3b0-4202-8077-cdb9a028fc7d",
+  "object": "beer",
+  "name": "The 12th Can",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

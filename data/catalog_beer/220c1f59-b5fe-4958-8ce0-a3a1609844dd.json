@@ -1,0 +1,11 @@
+{
+  "id": "220c1f59-b5fe-4958-8ce0-a3a1609844dd",
+  "object": "beer",
+  "name": "Blood Orange IPA",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

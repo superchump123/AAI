@@ -1,0 +1,11 @@
+{
+  "id": "8f191249-b195-4740-9fc3-5210c55dd3b2",
+  "object": "beer",
+  "name": "1888 Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

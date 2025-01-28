@@ -1,0 +1,11 @@
+{
+  "id": "6c502844-5cc0-47de-8c39-fab6b35651b4",
+  "object": "beer",
+  "name": "Redd's Blueberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

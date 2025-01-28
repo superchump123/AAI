@@ -1,0 +1,11 @@
+{
+  "id": "d6cc3edd-f0e1-4ab9-8e25-198880ed08d3",
+  "object": "beer",
+  "name": "Centennial Jack Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

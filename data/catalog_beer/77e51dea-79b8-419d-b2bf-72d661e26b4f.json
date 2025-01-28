@@ -1,0 +1,11 @@
+{
+  "id": "77e51dea-79b8-419d-b2bf-72d661e26b4f",
+  "object": "beer",
+  "name": "Hop Chocolate",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

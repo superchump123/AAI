@@ -1,0 +1,11 @@
+{
+  "id": "7cf48238-e5d6-4a99-9604-20fdbd9c8d95",
+  "object": "beer",
+  "name": "Imperial Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 11.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

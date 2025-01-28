@@ -1,0 +1,11 @@
+{
+  "id": "c26d9aed-a6ad-4bb0-9ee7-4ca465d9bbe3",
+  "object": "beer",
+  "name": "Barrel Aged Roxy's Finest Imperial Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 12.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

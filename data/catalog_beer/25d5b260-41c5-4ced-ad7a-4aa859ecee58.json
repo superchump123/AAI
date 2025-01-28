@@ -1,0 +1,11 @@
+{
+  "id": "25d5b260-41c5-4ced-ad7a-4aa859ecee58",
+  "object": "beer",
+  "name": "Oktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

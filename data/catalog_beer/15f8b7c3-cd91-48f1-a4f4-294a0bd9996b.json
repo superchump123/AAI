@@ -1,0 +1,11 @@
+{
+  "id": "15f8b7c3-cd91-48f1-a4f4-294a0bd9996b",
+  "object": "beer",
+  "name": "Bling",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

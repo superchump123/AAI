@@ -1,0 +1,11 @@
+{
+  "id": "d0899c4d-3954-42ab-8f16-7b385fb6338e",
+  "object": "beer",
+  "name": "Carton Canyon",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

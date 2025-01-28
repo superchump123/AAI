@@ -1,0 +1,11 @@
+{
+  "id": "6e054292-e2f5-471f-b6aa-14178b7f3649",
+  "object": "beer",
+  "name": "Coffee Hop'd",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

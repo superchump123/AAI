@@ -1,0 +1,11 @@
+{
+  "id": "44874943-da4d-46c4-9364-11c738c05ffd",
+  "object": "beer",
+  "name": "Red's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

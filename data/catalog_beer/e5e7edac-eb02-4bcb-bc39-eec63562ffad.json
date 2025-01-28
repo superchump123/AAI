@@ -1,0 +1,11 @@
+{
+  "id": "e5e7edac-eb02-4bcb-bc39-eec63562ffad",
+  "object": "beer",
+  "name": "Peril Strait Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

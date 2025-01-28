@@ -1,0 +1,11 @@
+{
+  "id": "b5969101-92b3-4d55-9ddf-eea9574b958d",
+  "object": "beer",
+  "name": "Fevre River Ale Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

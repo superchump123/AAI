@@ -1,0 +1,11 @@
+{
+  "id": "e70fa2a2-e227-48a2-97cc-530b89dd8f10",
+  "object": "beer",
+  "name": "Grandma's Cookies",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

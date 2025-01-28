@@ -1,0 +1,11 @@
+{
+  "id": "150b24b0-2e6b-4ed9-bb7a-27b537a20811",
+  "object": "beer",
+  "name": "Double Dunes DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

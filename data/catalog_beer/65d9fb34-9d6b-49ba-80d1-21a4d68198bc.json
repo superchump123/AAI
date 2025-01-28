@@ -1,0 +1,11 @@
+{
+  "id": "65d9fb34-9d6b-49ba-80d1-21a4d68198bc",
+  "object": "beer",
+  "name": "T.E.A",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

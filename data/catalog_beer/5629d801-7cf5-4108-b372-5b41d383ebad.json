@@ -1,0 +1,11 @@
+{
+  "id": "5629d801-7cf5-4108-b372-5b41d383ebad",
+  "object": "beer",
+  "name": "Bishop's Best Dark Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

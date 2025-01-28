@@ -1,0 +1,11 @@
+{
+  "id": "d0f67005-a2a9-43f2-84dc-fe81338e52b9",
+  "object": "beer",
+  "name": "Blaecorn Unidragon",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

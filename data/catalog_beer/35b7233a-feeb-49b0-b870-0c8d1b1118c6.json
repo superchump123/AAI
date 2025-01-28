@@ -1,0 +1,11 @@
+{
+  "id": "35b7233a-feeb-49b0-b870-0c8d1b1118c6",
+  "object": "beer",
+  "name": "SPENCER",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

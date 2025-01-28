@@ -1,0 +1,11 @@
+{
+  "id": "2ebe6677-594d-4da1-a5b0-2d59e63f0543",
+  "object": "beer",
+  "name": "Kupono Captain's Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

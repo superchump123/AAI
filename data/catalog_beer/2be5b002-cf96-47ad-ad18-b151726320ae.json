@@ -1,0 +1,11 @@
+{
+  "id": "2be5b002-cf96-47ad-ad18-b151726320ae",
+  "object": "beer",
+  "name": "C'est la Saison",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

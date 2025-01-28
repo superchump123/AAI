@@ -1,0 +1,11 @@
+{
+  "id": "bfaf8a62-14c5-4e60-90ac-6ee67b5c7515",
+  "object": "beer",
+  "name": "SayHEYson",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

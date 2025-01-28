@@ -1,0 +1,11 @@
+{
+  "id": "8e67e11c-3186-4225-bb04-bf0d78023652",
+  "object": "beer",
+  "name": "Saison Cassis",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f63aaa0f-1f06-4187-97b0-07e30f746c67",
+  "object": "beer",
+  "name": "Reasonably Corrupt",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

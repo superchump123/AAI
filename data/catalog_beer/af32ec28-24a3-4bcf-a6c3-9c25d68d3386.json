@@ -1,0 +1,11 @@
+{
+  "id": "af32ec28-24a3-4bcf-a6c3-9c25d68d3386",
+  "object": "beer",
+  "name": "The Great Alphonso",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

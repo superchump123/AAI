@@ -1,0 +1,11 @@
+{
+  "id": "2bb88377-7baa-4992-ac9a-a914058737d9",
+  "object": "beer",
+  "name": "Gingerbread Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

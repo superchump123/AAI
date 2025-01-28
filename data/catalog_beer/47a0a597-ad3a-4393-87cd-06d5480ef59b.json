@@ -1,0 +1,11 @@
+{
+  "id": "47a0a597-ad3a-4393-87cd-06d5480ef59b",
+  "object": "beer",
+  "name": "The Deutsche Beir",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f46e6f1e-488a-4a50-9447-1ad553bc42f7",
+  "object": "beer",
+  "name": "White Bear",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

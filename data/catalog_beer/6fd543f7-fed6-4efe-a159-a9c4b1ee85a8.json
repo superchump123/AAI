@@ -1,0 +1,11 @@
+{
+  "id": "6fd543f7-fed6-4efe-a159-a9c4b1ee85a8",
+  "object": "beer",
+  "name": "First Coast Belgian Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 115,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

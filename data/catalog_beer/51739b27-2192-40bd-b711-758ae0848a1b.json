@@ -1,0 +1,11 @@
+{
+  "id": "51739b27-2192-40bd-b711-758ae0848a1b",
+  "object": "beer",
+  "name": "Hell's Bottom",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d08eea51-2d79-4f30-923a-5301c37cd503",
+  "object": "beer",
+  "name": "Second Sleep Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5d0ec882-50d4-4371-88f1-70e6c29e350d",
+  "object": "beer",
+  "name": "Bitter Kiwi",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

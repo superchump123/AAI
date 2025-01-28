@@ -1,0 +1,11 @@
+{
+  "id": "29685567-6ad3-4e74-8d4e-7038fa43d1f5",
+  "object": "beer",
+  "name": "BeerBera",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

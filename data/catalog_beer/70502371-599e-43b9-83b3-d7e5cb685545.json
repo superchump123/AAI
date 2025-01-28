@@ -1,0 +1,11 @@
+{
+  "id": "70502371-599e-43b9-83b3-d7e5cb685545",
+  "object": "beer",
+  "name": "Mindbender IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

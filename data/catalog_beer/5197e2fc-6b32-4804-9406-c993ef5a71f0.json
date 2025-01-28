@@ -1,0 +1,11 @@
+{
+  "id": "5197e2fc-6b32-4804-9406-c993ef5a71f0",
+  "object": "beer",
+  "name": "Larry's Lionheart Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

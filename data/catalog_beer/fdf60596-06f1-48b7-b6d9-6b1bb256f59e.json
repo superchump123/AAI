@@ -1,0 +1,11 @@
+{
+  "id": "fdf60596-06f1-48b7-b6d9-6b1bb256f59e",
+  "object": "beer",
+  "name": "Czech'rd Past",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

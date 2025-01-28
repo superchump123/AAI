@@ -1,0 +1,11 @@
+{
+  "id": "4e20a3ee-bbee-4a61-a888-640178c636d3",
+  "object": "beer",
+  "name": "Gringo Tequiza Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

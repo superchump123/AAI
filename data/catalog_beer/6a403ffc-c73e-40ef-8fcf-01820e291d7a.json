@@ -1,0 +1,11 @@
+{
+  "id": "6a403ffc-c73e-40ef-8fcf-01820e291d7a",
+  "object": "beer",
+  "name": "Imperial Mutt Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

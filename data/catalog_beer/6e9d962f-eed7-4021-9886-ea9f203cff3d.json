@@ -1,0 +1,11 @@
+{
+  "id": "6e9d962f-eed7-4021-9886-ea9f203cff3d",
+  "object": "beer",
+  "name": "Spitfire Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

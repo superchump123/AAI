@@ -1,0 +1,11 @@
+{
+  "id": "1b7d2de4-a3f8-4652-b9a6-e7a9b5944bb8",
+  "object": "beer",
+  "name": "Lavaman Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

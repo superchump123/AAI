@@ -1,0 +1,11 @@
+{
+  "id": "d96c43e1-cc60-4289-8d30-454f59df6000",
+  "object": "beer",
+  "name": "Bywater Bay",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f8ac9626-a82f-42f9-b357-b0122701e944",
+  "object": "beer",
+  "name": "Hollier 8",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

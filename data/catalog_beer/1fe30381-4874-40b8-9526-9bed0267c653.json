@@ -1,0 +1,11 @@
+{
+  "id": "1fe30381-4874-40b8-9526-9bed0267c653",
+  "object": "beer",
+  "name": "Farmhouse IPA",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

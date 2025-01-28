@@ -1,0 +1,11 @@
+{
+  "id": "e8b4c711-f1fb-4543-a35a-14ce96209fed",
+  "object": "beer",
+  "name": "Black Friday",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

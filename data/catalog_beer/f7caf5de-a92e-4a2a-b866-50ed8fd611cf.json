@@ -1,0 +1,11 @@
+{
+  "id": "f7caf5de-a92e-4a2a-b866-50ed8fd611cf",
+  "object": "beer",
+  "name": "Contact Rye",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

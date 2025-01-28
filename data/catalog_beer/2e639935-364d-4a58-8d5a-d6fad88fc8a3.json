@@ -1,0 +1,11 @@
+{
+  "id": "2e639935-364d-4a58-8d5a-d6fad88fc8a3",
+  "object": "beer",
+  "name": "Charter Oak Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

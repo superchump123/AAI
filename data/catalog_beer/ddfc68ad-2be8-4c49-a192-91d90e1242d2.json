@@ -1,0 +1,11 @@
+{
+  "id": "ddfc68ad-2be8-4c49-a192-91d90e1242d2",
+  "object": "beer",
+  "name": "Sacred Brett",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

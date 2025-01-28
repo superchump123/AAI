@@ -1,0 +1,11 @@
+{
+  "id": "2d5945ce-12f6-4e4d-ab94-14908f01e6f2",
+  "object": "beer",
+  "name": "Samuel Adams Session Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

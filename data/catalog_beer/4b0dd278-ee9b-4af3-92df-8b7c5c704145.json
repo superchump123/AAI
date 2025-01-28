@@ -1,0 +1,11 @@
+{
+  "id": "4b0dd278-ee9b-4af3-92df-8b7c5c704145",
+  "object": "beer",
+  "name": "Hopgarten Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

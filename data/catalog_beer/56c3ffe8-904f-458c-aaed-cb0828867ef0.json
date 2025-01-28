@@ -1,0 +1,11 @@
+{
+  "id": "56c3ffe8-904f-458c-aaed-cb0828867ef0",
+  "object": "beer",
+  "name": "Formidabel",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

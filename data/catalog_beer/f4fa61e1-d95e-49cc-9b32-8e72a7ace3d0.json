@@ -1,0 +1,11 @@
+{
+  "id": "f4fa61e1-d95e-49cc-9b32-8e72a7ace3d0",
+  "object": "beer",
+  "name": "Detroit Brewing Company Woodward Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

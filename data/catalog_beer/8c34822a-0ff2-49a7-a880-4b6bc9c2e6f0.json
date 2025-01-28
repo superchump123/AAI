@@ -1,0 +1,11 @@
+{
+  "id": "8c34822a-0ff2-49a7-a880-4b6bc9c2e6f0",
+  "object": "beer",
+  "name": "Alt Route - Beer Camp Across America",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f4d3757c-df2a-428c-b5a2-5e12f5cc7034",
+  "object": "beer",
+  "name": "Mango-Raspberry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

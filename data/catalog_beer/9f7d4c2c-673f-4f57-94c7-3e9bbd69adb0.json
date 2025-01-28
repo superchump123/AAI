@@ -1,0 +1,11 @@
+{
+  "id": "9f7d4c2c-673f-4f57-94c7-3e9bbd69adb0",
+  "object": "beer",
+  "name": "Solitaire",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

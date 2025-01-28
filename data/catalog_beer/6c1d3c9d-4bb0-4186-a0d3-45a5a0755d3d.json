@@ -1,0 +1,11 @@
+{
+  "id": "6c1d3c9d-4bb0-4186-a0d3-45a5a0755d3d",
+  "object": "beer",
+  "name": "Oat Smoker",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

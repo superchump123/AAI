@@ -1,0 +1,11 @@
+{
+  "id": "04fb5641-355a-423a-9ec6-9b71debb88e6",
+  "object": "beer",
+  "name": "3rd Anniversary Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9c276303-f13f-43c3-9dcb-342365519201",
+  "object": "beer",
+  "name": "Skibsol",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 3.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

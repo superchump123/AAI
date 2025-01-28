@@ -1,0 +1,11 @@
+{
+  "id": "03dbffa9-b17a-4d09-a103-c4f755949632",
+  "object": "beer",
+  "name": "Artisan IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ef33b14-9496-41f5-9516-bda9b450a31f",
+  "object": "beer",
+  "name": "Ye Olde Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

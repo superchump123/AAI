@@ -1,0 +1,11 @@
+{
+  "id": "e49419d1-98b2-4aa3-9db3-9c2fae9a3220",
+  "object": "beer",
+  "name": "Portage & Main IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "790db094-fcbd-47cf-a849-033c6e675ce4",
+  "object": "beer",
+  "name": "Automatic",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

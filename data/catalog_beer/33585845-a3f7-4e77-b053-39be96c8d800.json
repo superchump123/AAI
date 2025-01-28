@@ -1,0 +1,11 @@
+{
+  "id": "33585845-a3f7-4e77-b053-39be96c8d800",
+  "object": "beer",
+  "name": "Wise Guise",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

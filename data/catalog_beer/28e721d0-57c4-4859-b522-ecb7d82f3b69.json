@@ -1,0 +1,11 @@
+{
+  "id": "28e721d0-57c4-4859-b522-ecb7d82f3b69",
+  "object": "beer",
+  "name": "River Bottom Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

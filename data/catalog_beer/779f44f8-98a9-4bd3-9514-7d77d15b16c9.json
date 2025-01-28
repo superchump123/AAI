@@ -1,0 +1,11 @@
+{
+  "id": "779f44f8-98a9-4bd3-9514-7d77d15b16c9",
+  "object": "beer",
+  "name": "Oktoberfest",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

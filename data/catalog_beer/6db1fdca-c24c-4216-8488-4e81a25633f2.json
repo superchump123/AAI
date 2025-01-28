@@ -1,0 +1,11 @@
+{
+  "id": "6db1fdca-c24c-4216-8488-4e81a25633f2",
+  "object": "beer",
+  "name": "Samichlaus Helles",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

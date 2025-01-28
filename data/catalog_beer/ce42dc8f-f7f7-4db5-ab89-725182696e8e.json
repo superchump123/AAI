@@ -1,0 +1,11 @@
+{
+  "id": "ce42dc8f-f7f7-4db5-ab89-725182696e8e",
+  "object": "beer",
+  "name": "Ichor",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

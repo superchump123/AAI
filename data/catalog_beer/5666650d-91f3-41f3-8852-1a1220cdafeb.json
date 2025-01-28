@@ -1,0 +1,11 @@
+{
+  "id": "5666650d-91f3-41f3-8852-1a1220cdafeb",
+  "object": "beer",
+  "name": "Black Hills Golden Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

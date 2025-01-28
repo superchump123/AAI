@@ -1,0 +1,11 @@
+{
+  "id": "867e1da5-ab6e-4e63-a22a-dbf3dda21aa1",
+  "object": "beer",
+  "name": "No. 13 Blueberry Blonde",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

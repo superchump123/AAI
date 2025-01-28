@@ -1,0 +1,11 @@
+{
+  "id": "776db986-bc9d-4813-a44a-36bd31b5bd52",
+  "object": "beer",
+  "name": "Citrus",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

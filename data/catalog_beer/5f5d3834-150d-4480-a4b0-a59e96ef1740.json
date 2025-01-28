@@ -1,0 +1,11 @@
+{
+  "id": "5f5d3834-150d-4480-a4b0-a59e96ef1740",
+  "object": "beer",
+  "name": "Imperial Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

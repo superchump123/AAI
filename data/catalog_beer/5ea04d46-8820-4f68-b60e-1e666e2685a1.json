@@ -1,0 +1,11 @@
+{
+  "id": "5ea04d46-8820-4f68-b60e-1e666e2685a1",
+  "object": "beer",
+  "name": "Single Tank Series: Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

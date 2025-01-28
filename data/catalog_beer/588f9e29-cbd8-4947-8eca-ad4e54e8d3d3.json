@@ -1,0 +1,11 @@
+{
+  "id": "588f9e29-cbd8-4947-8eca-ad4e54e8d3d3",
+  "object": "beer",
+  "name": "5 Malt Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

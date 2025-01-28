@@ -1,0 +1,11 @@
+{
+  "id": "2f29c5cd-ddfd-4abc-9588-cf89696b24a8",
+  "object": "beer",
+  "name": "Robohop Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

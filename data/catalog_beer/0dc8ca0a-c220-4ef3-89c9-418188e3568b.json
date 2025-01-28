@@ -1,0 +1,11 @@
+{
+  "id": "0dc8ca0a-c220-4ef3-89c9-418188e3568b",
+  "object": "beer",
+  "name": "Ulmer Hefeweizen Hell",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

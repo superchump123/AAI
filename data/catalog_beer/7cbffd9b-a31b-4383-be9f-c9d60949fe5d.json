@@ -1,0 +1,11 @@
+{
+  "id": "7cbffd9b-a31b-4383-be9f-c9d60949fe5d",
+  "object": "beer",
+  "name": "Kentucky Christmas Morning",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ac08fe63-84ec-4361-bdc4-7d5127cb4d07",
+  "object": "beer",
+  "name": "G2 - Belgian Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

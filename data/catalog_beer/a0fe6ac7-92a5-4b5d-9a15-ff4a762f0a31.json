@@ -1,0 +1,11 @@
+{
+  "id": "a0fe6ac7-92a5-4b5d-9a15-ff4a762f0a31",
+  "object": "beer",
+  "name": "Bear Mace",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

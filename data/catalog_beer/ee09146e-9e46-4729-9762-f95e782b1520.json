@@ -1,0 +1,11 @@
+{
+  "id": "ee09146e-9e46-4729-9762-f95e782b1520",
+  "object": "beer",
+  "name": "Cletus",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

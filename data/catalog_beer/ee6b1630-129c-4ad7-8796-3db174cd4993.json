@@ -1,0 +1,11 @@
+{
+  "id": "ee6b1630-129c-4ad7-8796-3db174cd4993",
+  "object": "beer",
+  "name": "Sister City",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dac7a3ee-5af1-4ada-838c-36387ccb43b4",
+  "object": "beer",
+  "name": "Far Darrig",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

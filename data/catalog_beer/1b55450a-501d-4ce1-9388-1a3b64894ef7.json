@@ -1,0 +1,11 @@
+{
+  "id": "1b55450a-501d-4ce1-9388-1a3b64894ef7",
+  "object": "beer",
+  "name": "Hohenfelder Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

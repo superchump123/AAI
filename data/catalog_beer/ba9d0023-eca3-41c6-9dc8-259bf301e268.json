@@ -1,0 +1,11 @@
+{
+  "id": "ba9d0023-eca3-41c6-9dc8-259bf301e268",
+  "object": "beer",
+  "name": "The Sauer Peach",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "43db8a5c-fa6c-4440-a45e-e18ace36b04b",
+  "object": "beer",
+  "name": "Guten Hoppy",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

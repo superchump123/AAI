@@ -1,0 +1,11 @@
+{
+  "id": "4aa7b48b-82d9-45de-a4f1-12d077a71eb4",
+  "object": "beer",
+  "name": "Basmati Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

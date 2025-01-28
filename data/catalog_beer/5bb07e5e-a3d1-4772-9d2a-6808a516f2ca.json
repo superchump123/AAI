@@ -1,0 +1,11 @@
+{
+  "id": "5bb07e5e-a3d1-4772-9d2a-6808a516f2ca",
+  "object": "beer",
+  "name": "Go Ride a Bike",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

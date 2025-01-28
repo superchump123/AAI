@@ -1,0 +1,11 @@
+{
+  "id": "744e6e8d-83e2-4f11-8750-527d2d2b2563",
+  "object": "beer",
+  "name": "Prickly Pear",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

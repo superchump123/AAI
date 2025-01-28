@@ -1,0 +1,11 @@
+{
+  "id": "48678d1b-c8bc-4913-bb32-24f2063b4aae",
+  "object": "beer",
+  "name": "Phoenix Gold",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

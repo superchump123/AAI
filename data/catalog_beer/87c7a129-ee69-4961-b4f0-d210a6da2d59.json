@@ -1,0 +1,11 @@
+{
+  "id": "87c7a129-ee69-4961-b4f0-d210a6da2d59",
+  "object": "beer",
+  "name": "Bio Perle",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

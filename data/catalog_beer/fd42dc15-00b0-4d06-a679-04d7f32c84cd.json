@@ -1,0 +1,11 @@
+{
+  "id": "fd42dc15-00b0-4d06-a679-04d7f32c84cd",
+  "object": "beer",
+  "name": "Warpigs Lazurite",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

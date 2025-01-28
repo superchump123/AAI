@@ -1,0 +1,11 @@
+{
+  "id": "95499386-ff7a-4c2d-8095-a622ae8d89b5",
+  "object": "beer",
+  "name": "Vespers",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

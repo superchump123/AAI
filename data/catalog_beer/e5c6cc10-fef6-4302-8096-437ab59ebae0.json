@@ -1,0 +1,11 @@
+{
+  "id": "e5c6cc10-fef6-4302-8096-437ab59ebae0",
+  "object": "beer",
+  "name": "La Petite Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

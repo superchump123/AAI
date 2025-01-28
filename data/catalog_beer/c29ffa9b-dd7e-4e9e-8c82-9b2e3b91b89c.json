@@ -1,0 +1,11 @@
+{
+  "id": "c29ffa9b-dd7e-4e9e-8c82-9b2e3b91b89c",
+  "object": "beer",
+  "name": "Mischief",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aff38952-8bde-4235-822e-01abdaae0ae6",
+  "object": "beer",
+  "name": "Red Thistle Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

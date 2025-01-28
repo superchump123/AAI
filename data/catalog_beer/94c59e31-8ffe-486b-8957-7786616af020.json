@@ -1,0 +1,11 @@
+{
+  "id": "94c59e31-8ffe-486b-8957-7786616af020",
+  "object": "beer",
+  "name": "I Got 5 On It",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

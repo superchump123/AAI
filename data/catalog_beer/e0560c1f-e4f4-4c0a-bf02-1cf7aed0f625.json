@@ -1,0 +1,11 @@
+{
+  "id": "e0560c1f-e4f4-4c0a-bf02-1cf7aed0f625",
+  "object": "beer",
+  "name": "BJ's Whiskey Barrel Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "46829a14-93b2-4ce8-a3de-9f499e1ac54b",
+  "object": "beer",
+  "name": "Overnight Bender",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

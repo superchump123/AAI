@@ -1,0 +1,11 @@
+{
+  "id": "0dbc855d-f56f-444c-aec6-3083620648e4",
+  "object": "beer",
+  "name": "Oatmeal Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

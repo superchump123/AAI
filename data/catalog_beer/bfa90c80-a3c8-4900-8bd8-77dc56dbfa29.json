@@ -1,0 +1,11 @@
+{
+  "id": "bfa90c80-a3c8-4900-8bd8-77dc56dbfa29",
+  "object": "beer",
+  "name": "Praline Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

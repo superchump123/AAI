@@ -1,0 +1,11 @@
+{
+  "id": "112e8dde-6b09-47ee-b5b1-32d58d38bb1b",
+  "object": "beer",
+  "name": "Pecan Pie Nut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

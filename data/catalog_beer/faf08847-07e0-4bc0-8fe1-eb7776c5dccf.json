@@ -1,0 +1,11 @@
+{
+  "id": "faf08847-07e0-4bc0-8fe1-eb7776c5dccf",
+  "object": "beer",
+  "name": "Rock Bottom IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

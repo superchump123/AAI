@@ -1,0 +1,11 @@
+{
+  "id": "56227f49-b707-4227-8fb8-bf24f7e4067b",
+  "object": "beer",
+  "name": "Deep Search",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

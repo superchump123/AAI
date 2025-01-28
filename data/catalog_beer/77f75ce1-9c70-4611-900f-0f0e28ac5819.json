@@ -1,0 +1,11 @@
+{
+  "id": "77f75ce1-9c70-4611-900f-0f0e28ac5819",
+  "object": "beer",
+  "name": "Country Ride",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

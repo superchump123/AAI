@@ -1,0 +1,11 @@
+{
+  "id": "1af0ec4c-3d1b-4e45-9c7f-21697af4b31a",
+  "object": "beer",
+  "name": "Fleuron d'Alsace",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

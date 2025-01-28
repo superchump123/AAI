@@ -1,0 +1,11 @@
+{
+  "id": "f727d4da-3858-4e1e-b02e-de38781174ca",
+  "object": "beer",
+  "name": "Lazurite",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

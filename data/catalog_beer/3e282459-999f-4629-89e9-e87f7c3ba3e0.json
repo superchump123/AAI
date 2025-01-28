@@ -1,0 +1,11 @@
+{
+  "id": "3e282459-999f-4629-89e9-e87f7c3ba3e0",
+  "object": "beer",
+  "name": "Golden Toos",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

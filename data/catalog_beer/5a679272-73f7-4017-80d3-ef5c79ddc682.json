@@ -1,0 +1,11 @@
+{
+  "id": "5a679272-73f7-4017-80d3-ef5c79ddc682",
+  "object": "beer",
+  "name": "Elevation IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

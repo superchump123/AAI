@@ -1,0 +1,11 @@
+{
+  "id": "afdb742b-0e2b-4b19-8e6c-bca5e2eaafcd",
+  "object": "beer",
+  "name": "Jungle IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

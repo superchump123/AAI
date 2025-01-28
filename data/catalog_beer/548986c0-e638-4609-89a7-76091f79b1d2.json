@@ -1,0 +1,11 @@
+{
+  "id": "548986c0-e638-4609-89a7-76091f79b1d2",
+  "object": "beer",
+  "name": "Devil's Companion",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

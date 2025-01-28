@@ -1,0 +1,11 @@
+{
+  "id": "12a0665a-0f41-47af-97ba-d198156a36ed",
+  "object": "beer",
+  "name": "The Yard",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

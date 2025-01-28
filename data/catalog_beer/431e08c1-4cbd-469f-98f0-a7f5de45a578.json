@@ -1,0 +1,11 @@
+{
+  "id": "431e08c1-4cbd-469f-98f0-a7f5de45a578",
+  "object": "beer",
+  "name": "Labor and Thirst",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

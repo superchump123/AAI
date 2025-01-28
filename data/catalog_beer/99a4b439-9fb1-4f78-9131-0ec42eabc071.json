@@ -1,0 +1,11 @@
+{
+  "id": "99a4b439-9fb1-4f78-9131-0ec42eabc071",
+  "object": "beer",
+  "name": "K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

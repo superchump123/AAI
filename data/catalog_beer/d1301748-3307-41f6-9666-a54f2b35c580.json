@@ -1,0 +1,11 @@
+{
+  "id": "d1301748-3307-41f6-9666-a54f2b35c580",
+  "object": "beer",
+  "name": "Brooklyn Winter Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

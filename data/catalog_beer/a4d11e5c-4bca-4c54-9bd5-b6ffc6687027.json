@@ -1,0 +1,11 @@
+{
+  "id": "a4d11e5c-4bca-4c54-9bd5-b6ffc6687027",
+  "object": "beer",
+  "name": "Black Cat Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

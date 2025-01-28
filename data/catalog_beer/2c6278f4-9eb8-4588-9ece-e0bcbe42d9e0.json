@@ -1,0 +1,11 @@
+{
+  "id": "2c6278f4-9eb8-4588-9ece-e0bcbe42d9e0",
+  "object": "beer",
+  "name": "Santa Sidra",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

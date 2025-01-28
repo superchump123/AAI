@@ -1,0 +1,11 @@
+{
+  "id": "80e9b97b-1afd-4243-99b8-a4e7206a97cd",
+  "object": "beer",
+  "name": "Sour Cherry Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

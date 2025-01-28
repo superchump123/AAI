@@ -1,0 +1,11 @@
+{
+  "id": "b0432a11-dc0f-4869-b0a6-65ea99b9e420",
+  "object": "beer",
+  "name": "Sommer Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

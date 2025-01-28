@@ -1,0 +1,11 @@
+{
+  "id": "c4fc32c5-324e-4eab-9e63-c7e30c1799e2",
+  "object": "beer",
+  "name": "Cape Cod IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

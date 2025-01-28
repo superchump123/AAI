@@ -1,0 +1,11 @@
+{
+  "id": "35cb2bdb-e69e-43d7-a8d6-db26327d19c1",
+  "object": "beer",
+  "name": "Black Emperor",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

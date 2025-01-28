@@ -1,0 +1,11 @@
+{
+  "id": "95a9bf9b-815e-4331-b3f8-a9530f7815b3",
+  "object": "beer",
+  "name": "Hope Street Amber",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

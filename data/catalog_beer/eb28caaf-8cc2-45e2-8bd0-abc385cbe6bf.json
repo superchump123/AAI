@@ -1,0 +1,11 @@
+{
+  "id": "eb28caaf-8cc2-45e2-8bd0-abc385cbe6bf",
+  "object": "beer",
+  "name": "Goodnight Bodacious",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

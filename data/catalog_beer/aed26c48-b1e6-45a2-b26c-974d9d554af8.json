@@ -1,0 +1,11 @@
+{
+  "id": "aed26c48-b1e6-45a2-b26c-974d9d554af8",
+  "object": "beer",
+  "name": "Idiot's Hill IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

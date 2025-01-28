@@ -1,0 +1,11 @@
+{
+  "id": "8808efcb-24b8-44bc-9fc7-25d941a55163",
+  "object": "beer",
+  "name": "Red Rover Irish Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

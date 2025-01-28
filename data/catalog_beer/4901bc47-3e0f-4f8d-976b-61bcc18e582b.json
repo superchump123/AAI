@@ -1,0 +1,11 @@
+{
+  "id": "4901bc47-3e0f-4f8d-976b-61bcc18e582b",
+  "object": "beer",
+  "name": "Verhaeghe Pils",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

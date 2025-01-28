@@ -1,0 +1,11 @@
+{
+  "id": "0f689aad-de12-474f-b995-244c1ceee166",
+  "object": "beer",
+  "name": "Commuter Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

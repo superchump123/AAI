@@ -1,0 +1,11 @@
+{
+  "id": "5b4b3d1c-1143-4ae3-8ede-63b4186af461",
+  "object": "beer",
+  "name": "Joker Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

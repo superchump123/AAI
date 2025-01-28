@@ -1,0 +1,11 @@
+{
+  "id": "673c6270-f9ee-44df-9f33-1c10c3620aef",
+  "object": "beer",
+  "name": "Scout Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

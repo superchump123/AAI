@@ -1,0 +1,11 @@
+{
+  "id": "93668933-38f6-4959-98da-ec46c36f2513",
+  "object": "beer",
+  "name": "Well Bred",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

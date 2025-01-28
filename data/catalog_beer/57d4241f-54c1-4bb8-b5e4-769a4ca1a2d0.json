@@ -1,0 +1,11 @@
+{
+  "id": "57d4241f-54c1-4bb8-b5e4-769a4ca1a2d0",
+  "object": "beer",
+  "name": "Stop, Drop, and Rye Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

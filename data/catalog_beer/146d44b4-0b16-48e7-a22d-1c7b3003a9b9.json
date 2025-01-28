@@ -1,0 +1,11 @@
+{
+  "id": "146d44b4-0b16-48e7-a22d-1c7b3003a9b9",
+  "object": "beer",
+  "name": "Weilburger Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

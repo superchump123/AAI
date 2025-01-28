@@ -1,0 +1,11 @@
+{
+  "id": "ea0e3683-19db-4279-a4e6-52cdd80fa130",
+  "object": "beer",
+  "name": "Small Heath",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

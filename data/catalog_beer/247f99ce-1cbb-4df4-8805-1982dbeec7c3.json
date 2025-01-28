@@ -1,0 +1,11 @@
+{
+  "id": "247f99ce-1cbb-4df4-8805-1982dbeec7c3",
+  "object": "beer",
+  "name": "Daisy Cutter",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

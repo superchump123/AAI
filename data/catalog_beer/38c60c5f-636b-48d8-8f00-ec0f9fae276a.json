@@ -1,0 +1,11 @@
+{
+  "id": "38c60c5f-636b-48d8-8f00-ec0f9fae276a",
+  "object": "beer",
+  "name": "St. Amand",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

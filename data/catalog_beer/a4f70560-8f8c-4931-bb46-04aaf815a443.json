@@ -1,0 +1,11 @@
+{
+  "id": "a4f70560-8f8c-4931-bb46-04aaf815a443",
+  "object": "beer",
+  "name": "Czech Style Lager",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

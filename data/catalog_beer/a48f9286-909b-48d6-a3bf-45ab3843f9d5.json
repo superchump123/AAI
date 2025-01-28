@@ -1,0 +1,11 @@
+{
+  "id": "a48f9286-909b-48d6-a3bf-45ab3843f9d5",
+  "object": "beer",
+  "name": "Frambozenbier",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

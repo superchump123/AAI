@@ -1,0 +1,11 @@
+{
+  "id": "5ec1bdd2-3526-44c0-9f8c-cb2f07be64ae",
+  "object": "beer",
+  "name": "CONDOR PILSNER",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

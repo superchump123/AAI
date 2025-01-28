@@ -1,0 +1,11 @@
+{
+  "id": "85058a41-988b-4d84-8ff4-ff582a2cf2a7",
+  "object": "beer",
+  "name": "Bohemia",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

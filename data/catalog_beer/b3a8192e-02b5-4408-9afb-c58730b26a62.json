@@ -1,0 +1,11 @@
+{
+  "id": "b3a8192e-02b5-4408-9afb-c58730b26a62",
+  "object": "beer",
+  "name": "Alaskan Barley Wine Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

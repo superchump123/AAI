@@ -1,0 +1,11 @@
+{
+  "id": "e4829847-f1b1-4943-9f64-1db411e04fd9",
+  "object": "beer",
+  "name": "Dark Heathen Triple Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 12,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

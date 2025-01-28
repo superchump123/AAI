@@ -1,0 +1,11 @@
+{
+  "id": "93dfd8c9-44c1-4f49-87d2-ad556b6d1533",
+  "object": "beer",
+  "name": "Black Rajah",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

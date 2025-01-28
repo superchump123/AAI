@@ -1,0 +1,11 @@
+{
+  "id": "278a4611-432b-4797-8115-f139783a4f8b",
+  "object": "beer",
+  "name": "Orion",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

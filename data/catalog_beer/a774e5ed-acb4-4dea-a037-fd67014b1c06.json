@@ -1,0 +1,11 @@
+{
+  "id": "a774e5ed-acb4-4dea-a037-fd67014b1c06",
+  "object": "beer",
+  "name": "Crown Blue",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

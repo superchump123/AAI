@@ -1,0 +1,11 @@
+{
+  "id": "08ef3d16-d495-4514-a329-39d898529549",
+  "object": "beer",
+  "name": "Lowcountry Dark Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

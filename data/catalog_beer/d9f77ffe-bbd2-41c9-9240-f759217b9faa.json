@@ -1,0 +1,11 @@
+{
+  "id": "d9f77ffe-bbd2-41c9-9240-f759217b9faa",
+  "object": "beer",
+  "name": "Telekinesis",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

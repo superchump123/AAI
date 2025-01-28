@@ -1,0 +1,11 @@
+{
+  "id": "ffaeba51-08d5-4a9a-974e-b2394b09ef9f",
+  "object": "beer",
+  "name": "Karmanfest",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

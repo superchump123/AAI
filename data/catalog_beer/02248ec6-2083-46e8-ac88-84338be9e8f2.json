@@ -1,0 +1,11 @@
+{
+  "id": "02248ec6-2083-46e8-ac88-84338be9e8f2",
+  "object": "beer",
+  "name": "Imperialist",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

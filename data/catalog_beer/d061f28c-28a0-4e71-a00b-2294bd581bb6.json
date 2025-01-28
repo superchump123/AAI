@@ -1,0 +1,11 @@
+{
+  "id": "d061f28c-28a0-4e71-a00b-2294bd581bb6",
+  "object": "beer",
+  "name": "Golden Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

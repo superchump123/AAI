@@ -1,0 +1,11 @@
+{
+  "id": "0dc0477e-0468-4425-8d9d-122ff9ed911f",
+  "object": "beer",
+  "name": "Waynes World",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

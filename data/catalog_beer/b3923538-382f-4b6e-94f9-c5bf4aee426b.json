@@ -1,0 +1,11 @@
+{
+  "id": "b3923538-382f-4b6e-94f9-c5bf4aee426b",
+  "object": "beer",
+  "name": "In The Red",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

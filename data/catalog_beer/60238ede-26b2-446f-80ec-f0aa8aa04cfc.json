@@ -1,0 +1,11 @@
+{
+  "id": "60238ede-26b2-446f-80ec-f0aa8aa04cfc",
+  "object": "beer",
+  "name": "Big Beef",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

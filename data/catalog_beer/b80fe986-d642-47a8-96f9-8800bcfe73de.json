@@ -1,0 +1,11 @@
+{
+  "id": "b80fe986-d642-47a8-96f9-8800bcfe73de",
+  "object": "beer",
+  "name": "Cayuse Creek Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

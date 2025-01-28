@@ -1,0 +1,11 @@
+{
+  "id": "03ed0b17-2176-4eb9-9efe-deaf76fa1955",
+  "object": "beer",
+  "name": "Grumpy Crik Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

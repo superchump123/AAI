@@ -1,0 +1,11 @@
+{
+  "id": "bf53de1b-f995-42c3-9248-28c0f3921be6",
+  "object": "beer",
+  "name": "Hoppuccino",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e11e4a20-0559-4a7f-a6ea-2f5036657f95",
+  "object": "beer",
+  "name": "Vanilla Wheat",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

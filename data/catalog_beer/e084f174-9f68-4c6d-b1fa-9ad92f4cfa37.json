@@ -1,0 +1,11 @@
+{
+  "id": "e084f174-9f68-4c6d-b1fa-9ad92f4cfa37",
+  "object": "beer",
+  "name": "Mother Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

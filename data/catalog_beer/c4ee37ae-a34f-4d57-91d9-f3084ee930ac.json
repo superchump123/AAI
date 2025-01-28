@@ -1,0 +1,11 @@
+{
+  "id": "c4ee37ae-a34f-4d57-91d9-f3084ee930ac",
+  "object": "beer",
+  "name": "Skull Session",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

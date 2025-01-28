@@ -1,0 +1,11 @@
+{
+  "id": "b2c2c31c-f49e-481c-bae6-e073c9019e18",
+  "object": "beer",
+  "name": "Jake O'Lantern Nitro",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

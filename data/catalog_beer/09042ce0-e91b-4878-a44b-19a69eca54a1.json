@@ -1,0 +1,11 @@
+{
+  "id": "09042ce0-e91b-4878-a44b-19a69eca54a1",
+  "object": "beer",
+  "name": "Barnstormer Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

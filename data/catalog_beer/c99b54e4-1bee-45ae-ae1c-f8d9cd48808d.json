@@ -1,0 +1,11 @@
+{
+  "id": "c99b54e4-1bee-45ae-ae1c-f8d9cd48808d",
+  "object": "beer",
+  "name": "Harlot's Harvest",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

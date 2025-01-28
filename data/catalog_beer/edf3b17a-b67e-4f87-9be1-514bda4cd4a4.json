@@ -1,0 +1,11 @@
+{
+  "id": "edf3b17a-b67e-4f87-9be1-514bda4cd4a4",
+  "object": "beer",
+  "name": "Bufflehead Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

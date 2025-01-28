@@ -1,0 +1,11 @@
+{
+  "id": "11914b4c-f08f-4e6f-b714-2f482c1c4f41",
+  "object": "beer",
+  "name": "Hells",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

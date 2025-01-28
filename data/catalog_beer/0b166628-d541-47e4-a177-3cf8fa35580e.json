@@ -1,0 +1,11 @@
+{
+  "id": "0b166628-d541-47e4-a177-3cf8fa35580e",
+  "object": "beer",
+  "name": "Dolden Sud",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

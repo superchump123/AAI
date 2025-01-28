@@ -1,0 +1,11 @@
+{
+  "id": "e2909411-dd40-4d98-8ec0-7f839c9f5aa5",
+  "object": "beer",
+  "name": "18th Anniversary Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

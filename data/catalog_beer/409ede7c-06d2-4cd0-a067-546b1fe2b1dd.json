@@ -1,0 +1,11 @@
+{
+  "id": "409ede7c-06d2-4cd0-a067-546b1fe2b1dd",
+  "object": "beer",
+  "name": "Chocolate Chili Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

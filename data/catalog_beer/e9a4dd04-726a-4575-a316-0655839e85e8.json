@@ -1,0 +1,11 @@
+{
+  "id": "e9a4dd04-726a-4575-a316-0655839e85e8",
+  "object": "beer",
+  "name": "Wise One",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

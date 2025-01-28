@@ -1,0 +1,11 @@
+{
+  "id": "bd665dc4-4e8b-48d4-a718-624b7ea97243",
+  "object": "beer",
+  "name": "Gold Ice",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

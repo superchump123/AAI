@@ -1,0 +1,11 @@
+{
+  "id": "ec4dc0c9-0db5-4bf9-857b-ee66bf37c328",
+  "object": "beer",
+  "name": "Four Mile Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

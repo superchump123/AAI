@@ -1,0 +1,11 @@
+{
+  "id": "5a1b1140-311d-4832-8941-67f481e80dfd",
+  "object": "beer",
+  "name": "Black Raven Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

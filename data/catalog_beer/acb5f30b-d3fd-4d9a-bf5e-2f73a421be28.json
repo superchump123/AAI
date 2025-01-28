@@ -1,0 +1,11 @@
+{
+  "id": "acb5f30b-d3fd-4d9a-bf5e-2f73a421be28",
+  "object": "beer",
+  "name": "Tunguska Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

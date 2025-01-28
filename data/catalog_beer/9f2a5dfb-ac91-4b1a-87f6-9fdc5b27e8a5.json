@@ -1,0 +1,11 @@
+{
+  "id": "9f2a5dfb-ac91-4b1a-87f6-9fdc5b27e8a5",
+  "object": "beer",
+  "name": "Slang",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

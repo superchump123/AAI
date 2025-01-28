@@ -1,0 +1,11 @@
+{
+  "id": "eab9516b-8c70-4728-b582-b0ccaad0362d",
+  "object": "beer",
+  "name": "White Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

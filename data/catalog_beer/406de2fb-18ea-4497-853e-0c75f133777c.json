@@ -1,0 +1,11 @@
+{
+  "id": "406de2fb-18ea-4497-853e-0c75f133777c",
+  "object": "beer",
+  "name": "Gold Standard",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

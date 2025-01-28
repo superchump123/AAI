@@ -1,0 +1,11 @@
+{
+  "id": "a7bf5212-2286-4871-824a-8f5604feea7f",
+  "object": "beer",
+  "name": "Truly Honest Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

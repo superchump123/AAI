@@ -1,0 +1,11 @@
+{
+  "id": "1faf668b-bc8b-4038-a5c0-2473d96f7b07",
+  "object": "beer",
+  "name": "Animator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

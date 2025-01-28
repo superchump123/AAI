@@ -1,0 +1,11 @@
+{
+  "id": "fd5706b7-2eac-4f19-b86c-c2b9ac66d03a",
+  "object": "beer",
+  "name": "Leap of Faith",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

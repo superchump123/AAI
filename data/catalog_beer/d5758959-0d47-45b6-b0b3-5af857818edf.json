@@ -1,0 +1,11 @@
+{
+  "id": "d5758959-0d47-45b6-b0b3-5af857818edf",
+  "object": "beer",
+  "name": "Bermuda Triangle Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

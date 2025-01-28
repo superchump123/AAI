@@ -1,0 +1,11 @@
+{
+  "id": "ba11f7a2-7d20-4821-9f7b-911295cfbc58",
+  "object": "beer",
+  "name": "Are You Gellin?",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bfc1e662-5441-4b92-b695-45098e5efb21",
+  "object": "beer",
+  "name": "Henninger Highlander",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

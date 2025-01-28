@@ -1,0 +1,11 @@
+{
+  "id": "927a8d2d-7579-4e24-967f-e62c8f3f8767",
+  "object": "beer",
+  "name": "GV IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

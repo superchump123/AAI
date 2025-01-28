@@ -1,0 +1,11 @@
+{
+  "id": "6d53012e-6261-4293-a3ad-2a5fe3ddc15d",
+  "object": "beer",
+  "name": "King Cobra",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

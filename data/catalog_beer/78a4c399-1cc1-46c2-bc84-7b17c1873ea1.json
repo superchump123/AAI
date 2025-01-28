@@ -1,0 +1,11 @@
+{
+  "id": "78a4c399-1cc1-46c2-bc84-7b17c1873ea1",
+  "object": "beer",
+  "name": "Sassy Pants",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

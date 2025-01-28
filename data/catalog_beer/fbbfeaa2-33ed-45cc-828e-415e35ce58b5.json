@@ -1,0 +1,11 @@
+{
+  "id": "fbbfeaa2-33ed-45cc-828e-415e35ce58b5",
+  "object": "beer",
+  "name": "Road To Nowhere",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

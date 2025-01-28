@@ -1,0 +1,11 @@
+{
+  "id": "523475a2-5699-4394-bb27-6a8a5e6c56fa",
+  "object": "beer",
+  "name": "Malheur MM",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

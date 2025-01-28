@@ -1,0 +1,11 @@
+{
+  "id": "9c38cd2a-5739-4e1d-81fe-9bbf2b9a5903",
+  "object": "beer",
+  "name": "Dutch",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

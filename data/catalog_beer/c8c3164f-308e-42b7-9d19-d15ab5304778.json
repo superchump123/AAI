@@ -1,0 +1,11 @@
+{
+  "id": "c8c3164f-308e-42b7-9d19-d15ab5304778",
+  "object": "beer",
+  "name": "Barker's Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2d3e2b6e-5c7d-436a-b1a4-af05637140d2",
+  "object": "beer",
+  "name": "Afanasy Unpasteurized Clarified Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

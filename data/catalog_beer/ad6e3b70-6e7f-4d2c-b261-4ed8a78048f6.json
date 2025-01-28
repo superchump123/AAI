@@ -1,0 +1,11 @@
+{
+  "id": "ad6e3b70-6e7f-4d2c-b261-4ed8a78048f6",
+  "object": "beer",
+  "name": "Independence Day",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

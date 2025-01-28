@@ -1,0 +1,11 @@
+{
+  "id": "d10eb440-cbf3-49c8-87a6-d46c164594ff",
+  "object": "beer",
+  "name": "La Pelona",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

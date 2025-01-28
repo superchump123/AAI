@@ -1,0 +1,11 @@
+{
+  "id": "b5c1f3a6-c9e6-4010-8371-28a6e332f009",
+  "object": "beer",
+  "name": "Head of the Horseman",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

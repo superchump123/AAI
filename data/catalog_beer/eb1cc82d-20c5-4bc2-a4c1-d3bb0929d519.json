@@ -1,0 +1,11 @@
+{
+  "id": "eb1cc82d-20c5-4bc2-a4c1-d3bb0929d519",
+  "object": "beer",
+  "name": "Night Thunder",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 117,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

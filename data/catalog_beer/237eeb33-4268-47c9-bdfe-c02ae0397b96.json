@@ -1,0 +1,11 @@
+{
+  "id": "237eeb33-4268-47c9-bdfe-c02ae0397b96",
+  "object": "beer",
+  "name": "Sante Fe Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

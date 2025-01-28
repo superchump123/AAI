@@ -1,0 +1,11 @@
+{
+  "id": "c31a12e4-623f-453c-947d-0b429b817242",
+  "object": "beer",
+  "name": "Islander Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

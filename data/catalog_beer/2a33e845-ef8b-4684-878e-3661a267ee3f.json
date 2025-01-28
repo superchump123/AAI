@@ -1,0 +1,11 @@
+{
+  "id": "2a33e845-ef8b-4684-878e-3661a267ee3f",
+  "object": "beer",
+  "name": "Oat Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

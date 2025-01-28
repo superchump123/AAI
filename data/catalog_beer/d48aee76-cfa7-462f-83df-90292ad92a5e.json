@@ -1,0 +1,11 @@
+{
+  "id": "d48aee76-cfa7-462f-83df-90292ad92a5e",
+  "object": "beer",
+  "name": "Surfman's Check ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

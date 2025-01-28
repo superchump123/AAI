@@ -1,0 +1,11 @@
+{
+  "id": "a7b0bc0e-b5fb-491d-a61c-c3b1525d54aa",
+  "object": "beer",
+  "name": "Ruck & Roll",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

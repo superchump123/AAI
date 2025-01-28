@@ -1,0 +1,11 @@
+{
+  "id": "fed8f46d-5eef-4869-9064-2ea96c0794e2",
+  "object": "beer",
+  "name": "Pumpkin Spice Latte",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

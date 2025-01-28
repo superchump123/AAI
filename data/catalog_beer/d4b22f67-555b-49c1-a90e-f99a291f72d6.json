@@ -1,0 +1,11 @@
+{
+  "id": "d4b22f67-555b-49c1-a90e-f99a291f72d6",
+  "object": "beer",
+  "name": "Comrade Bashleigh",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

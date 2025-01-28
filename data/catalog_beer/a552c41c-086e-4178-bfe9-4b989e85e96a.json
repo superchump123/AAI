@@ -1,0 +1,11 @@
+{
+  "id": "a552c41c-086e-4178-bfe9-4b989e85e96a",
+  "object": "beer",
+  "name": "Helmuth Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

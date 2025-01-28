@@ -1,0 +1,11 @@
+{
+  "id": "e38fd9ce-eedb-48d1-87e3-b408cb785b8f",
+  "object": "beer",
+  "name": "Woody's Perfect Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cd4f30de-f61b-465a-98bf-2c0a4a701b61",
+  "object": "beer",
+  "name": "Light",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

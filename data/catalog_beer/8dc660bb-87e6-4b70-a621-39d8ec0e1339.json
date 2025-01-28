@@ -1,0 +1,11 @@
+{
+  "id": "8dc660bb-87e6-4b70-a621-39d8ec0e1339",
+  "object": "beer",
+  "name": "Rods & Mockers",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

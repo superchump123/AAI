@@ -1,0 +1,11 @@
+{
+  "id": "c122a0de-b935-407a-9567-cef2d9249a07",
+  "object": "beer",
+  "name": "The Tonic",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "830d178a-99fd-474c-8f92-32c79a5c4553",
+  "object": "beer",
+  "name": "Hippie Dippie Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

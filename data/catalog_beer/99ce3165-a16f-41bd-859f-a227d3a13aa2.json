@@ -1,0 +1,11 @@
+{
+  "id": "99ce3165-a16f-41bd-859f-a227d3a13aa2",
+  "object": "beer",
+  "name": "Prairie Chicken Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

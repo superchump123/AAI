@@ -1,0 +1,11 @@
+{
+  "id": "769757e2-1601-470c-ac75-c7bce61a600a",
+  "object": "beer",
+  "name": "Ode To Mercy",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

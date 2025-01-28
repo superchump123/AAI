@@ -1,0 +1,11 @@
+{
+  "id": "213c114b-7f21-4662-9195-f09ff5006a28",
+  "object": "beer",
+  "name": "Lake Bluff Bohemian Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

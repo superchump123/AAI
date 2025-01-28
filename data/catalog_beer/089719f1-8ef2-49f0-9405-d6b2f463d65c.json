@@ -1,0 +1,11 @@
+{
+  "id": "089719f1-8ef2-49f0-9405-d6b2f463d65c",
+  "object": "beer",
+  "name": "Holy Moses White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

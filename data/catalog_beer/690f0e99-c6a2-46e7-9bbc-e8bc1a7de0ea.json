@@ -1,0 +1,11 @@
+{
+  "id": "690f0e99-c6a2-46e7-9bbc-e8bc1a7de0ea",
+  "object": "beer",
+  "name": "Ellida IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

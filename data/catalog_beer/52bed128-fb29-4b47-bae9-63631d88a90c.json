@@ -1,0 +1,11 @@
+{
+  "id": "52bed128-fb29-4b47-bae9-63631d88a90c",
+  "object": "beer",
+  "name": "Life Coach",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

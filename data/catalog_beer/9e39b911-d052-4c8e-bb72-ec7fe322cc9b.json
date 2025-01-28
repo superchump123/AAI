@@ -1,0 +1,11 @@
+{
+  "id": "9e39b911-d052-4c8e-bb72-ec7fe322cc9b",
+  "object": "beer",
+  "name": "Stargazer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

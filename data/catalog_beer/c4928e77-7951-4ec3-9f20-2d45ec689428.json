@@ -1,0 +1,11 @@
+{
+  "id": "c4928e77-7951-4ec3-9f20-2d45ec689428",
+  "object": "beer",
+  "name": "Jesse's Girl",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ddfa4ccd-2cc6-429c-a2db-024e8b1696fe",
+  "object": "beer",
+  "name": "Rum Muckle (Soul Shakedown Party)",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

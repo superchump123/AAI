@@ -1,0 +1,11 @@
+{
+  "id": "e3d42c22-d6a0-4d36-9977-5fe55ea4d24f",
+  "object": "beer",
+  "name": "Eclipse",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

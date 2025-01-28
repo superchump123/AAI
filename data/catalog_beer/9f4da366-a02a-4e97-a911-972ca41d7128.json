@@ -1,0 +1,11 @@
+{
+  "id": "9f4da366-a02a-4e97-a911-972ca41d7128",
+  "object": "beer",
+  "name": "Personal Statement",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

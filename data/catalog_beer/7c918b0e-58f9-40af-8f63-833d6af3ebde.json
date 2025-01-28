@@ -1,0 +1,11 @@
+{
+  "id": "7c918b0e-58f9-40af-8f63-833d6af3ebde",
+  "object": "beer",
+  "name": "La Grisette",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

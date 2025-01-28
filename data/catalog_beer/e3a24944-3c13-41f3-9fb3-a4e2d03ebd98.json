@@ -1,0 +1,11 @@
+{
+  "id": "e3a24944-3c13-41f3-9fb3-a4e2d03ebd98",
+  "object": "beer",
+  "name": "Honey Rye PA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

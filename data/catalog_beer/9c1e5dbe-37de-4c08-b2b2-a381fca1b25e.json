@@ -1,0 +1,11 @@
+{
+  "id": "9c1e5dbe-37de-4c08-b2b2-a381fca1b25e",
+  "object": "beer",
+  "name": "Caramel Apple Spiced Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

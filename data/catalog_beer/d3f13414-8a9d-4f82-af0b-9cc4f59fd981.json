@@ -1,0 +1,11 @@
+{
+  "id": "d3f13414-8a9d-4f82-af0b-9cc4f59fd981",
+  "object": "beer",
+  "name": "Old No. 23 Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

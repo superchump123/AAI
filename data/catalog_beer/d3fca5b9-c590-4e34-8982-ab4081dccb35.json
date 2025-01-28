@@ -1,0 +1,11 @@
+{
+  "id": "d3fca5b9-c590-4e34-8982-ab4081dccb35",
+  "object": "beer",
+  "name": "This Season's Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

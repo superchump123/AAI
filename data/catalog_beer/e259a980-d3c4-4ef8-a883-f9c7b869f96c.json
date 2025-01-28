@@ -1,0 +1,11 @@
+{
+  "id": "e259a980-d3c4-4ef8-a883-f9c7b869f96c",
+  "object": "beer",
+  "name": "Mr. Locomotive",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

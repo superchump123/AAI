@@ -1,0 +1,11 @@
+{
+  "id": "49a938e0-2945-4abf-b21d-883996f103b0",
+  "object": "beer",
+  "name": "Viking Gose",
+  "style": "Grodziskie",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

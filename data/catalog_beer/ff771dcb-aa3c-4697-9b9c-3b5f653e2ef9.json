@@ -1,0 +1,11 @@
+{
+  "id": "ff771dcb-aa3c-4697-9b9c-3b5f653e2ef9",
+  "object": "beer",
+  "name": "La Fin du Poulet Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

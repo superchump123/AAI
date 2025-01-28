@@ -1,0 +1,11 @@
+{
+  "id": "3edc10d0-a65d-4d1b-8344-a657c2b5ae58",
+  "object": "beer",
+  "name": "East Coast Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

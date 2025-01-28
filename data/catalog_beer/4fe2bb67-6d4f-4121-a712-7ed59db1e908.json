@@ -1,0 +1,11 @@
+{
+  "id": "4fe2bb67-6d4f-4121-a712-7ed59db1e908",
+  "object": "beer",
+  "name": "Wolf Hefeweizen Hell",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

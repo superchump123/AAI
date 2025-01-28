@@ -1,0 +1,11 @@
+{
+  "id": "b64fa480-b3a7-4978-8ae1-0088f3dd15ac",
+  "object": "beer",
+  "name": "Gold Muddler",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

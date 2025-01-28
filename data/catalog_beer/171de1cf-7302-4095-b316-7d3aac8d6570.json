@@ -1,0 +1,11 @@
+{
+  "id": "171de1cf-7302-4095-b316-7d3aac8d6570",
+  "object": "beer",
+  "name": "Pachyderm",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

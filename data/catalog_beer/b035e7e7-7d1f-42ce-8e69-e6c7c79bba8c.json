@@ -1,0 +1,11 @@
+{
+  "id": "b035e7e7-7d1f-42ce-8e69-e6c7c79bba8c",
+  "object": "beer",
+  "name": "Tipsy Girl Scout",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

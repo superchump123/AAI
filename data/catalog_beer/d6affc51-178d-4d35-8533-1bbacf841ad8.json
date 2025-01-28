@@ -1,0 +1,11 @@
+{
+  "id": "d6affc51-178d-4d35-8533-1bbacf841ad8",
+  "object": "beer",
+  "name": "The Rabbit's Pipe",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

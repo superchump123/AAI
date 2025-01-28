@@ -1,0 +1,11 @@
+{
+  "id": "f4f80686-c2fc-498f-a69f-ac3ab1832cb2",
+  "object": "beer",
+  "name": "212 IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

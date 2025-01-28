@@ -1,0 +1,11 @@
+{
+  "id": "59ac1a10-864c-4ce0-9c2e-24707428ba0e",
+  "object": "beer",
+  "name": "4 Redemption",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

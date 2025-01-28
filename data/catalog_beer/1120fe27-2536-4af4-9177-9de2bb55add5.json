@@ -1,0 +1,11 @@
+{
+  "id": "1120fe27-2536-4af4-9177-9de2bb55add5",
+  "object": "beer",
+  "name": "Canadian Winter",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

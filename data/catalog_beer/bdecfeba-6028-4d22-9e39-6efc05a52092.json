@@ -1,0 +1,11 @@
+{
+  "id": "bdecfeba-6028-4d22-9e39-6efc05a52092",
+  "object": "beer",
+  "name": "Nut Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

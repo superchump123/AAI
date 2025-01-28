@@ -1,0 +1,11 @@
+{
+  "id": "81832d35-ad5d-4d86-9417-77c3ee33abb1",
+  "object": "beer",
+  "name": "Sunrise IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1a6d4636-a330-431e-a4d5-98459a9a4f90",
+  "object": "beer",
+  "name": "Chai Milk Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

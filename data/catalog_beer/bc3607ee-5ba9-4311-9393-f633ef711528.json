@@ -1,0 +1,11 @@
+{
+  "id": "bc3607ee-5ba9-4311-9393-f633ef711528",
+  "object": "beer",
+  "name": "Workingman",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

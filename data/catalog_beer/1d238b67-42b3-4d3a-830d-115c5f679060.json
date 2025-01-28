@@ -1,0 +1,11 @@
+{
+  "id": "1d238b67-42b3-4d3a-830d-115c5f679060",
+  "object": "beer",
+  "name": "Hornsby's Crisp Hard Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

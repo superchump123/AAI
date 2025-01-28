@@ -1,0 +1,11 @@
+{
+  "id": "0ebc15b3-1ac0-4b92-92d7-5c200f160700",
+  "object": "beer",
+  "name": "Hitachino Nest White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

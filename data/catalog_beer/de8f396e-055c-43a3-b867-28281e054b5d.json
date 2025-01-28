@@ -1,0 +1,11 @@
+{
+  "id": "de8f396e-055c-43a3-b867-28281e054b5d",
+  "object": "beer",
+  "name": "Icebreak IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

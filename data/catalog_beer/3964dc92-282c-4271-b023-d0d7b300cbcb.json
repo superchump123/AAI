@@ -1,0 +1,11 @@
+{
+  "id": "3964dc92-282c-4271-b023-d0d7b300cbcb",
+  "object": "beer",
+  "name": "Flip Flop",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

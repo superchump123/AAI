@@ -1,0 +1,11 @@
+{
+  "id": "703dcc70-c5ee-4984-bcec-05901bb31753",
+  "object": "beer",
+  "name": "Shiner Texas Warmer",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f55f4c2f-fb91-44ae-b5f6-81812ca597a2",
+  "object": "beer",
+  "name": "Guile 500",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

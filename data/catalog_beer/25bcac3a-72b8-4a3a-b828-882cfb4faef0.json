@@ -1,0 +1,11 @@
+{
+  "id": "25bcac3a-72b8-4a3a-b828-882cfb4faef0",
+  "object": "beer",
+  "name": "Nothing But Flowers Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

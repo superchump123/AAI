@@ -1,0 +1,11 @@
+{
+  "id": "f5ebb891-be8e-48b6-8f7a-85d59ea3fabb",
+  "object": "beer",
+  "name": "Toolpusher",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

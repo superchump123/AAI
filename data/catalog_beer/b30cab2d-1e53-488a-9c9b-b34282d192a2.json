@@ -1,0 +1,11 @@
+{
+  "id": "b30cab2d-1e53-488a-9c9b-b34282d192a2",
+  "object": "beer",
+  "name": "MOTHER LEEDS",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9f2dce15-2ba5-40ca-bcae-787133da41c9",
+  "object": "beer",
+  "name": "The Liverator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

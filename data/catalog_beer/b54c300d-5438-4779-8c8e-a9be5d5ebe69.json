@@ -1,0 +1,11 @@
+{
+  "id": "b54c300d-5438-4779-8c8e-a9be5d5ebe69",
+  "object": "beer",
+  "name": "Railroad Street IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

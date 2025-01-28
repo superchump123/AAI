@@ -1,0 +1,11 @@
+{
+  "id": "fa56e43c-2299-444b-8f0e-c9a6f42612b8",
+  "object": "beer",
+  "name": "Big Scrub",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

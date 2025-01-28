@@ -1,0 +1,11 @@
+{
+  "id": "476ae7f6-dc55-4915-937b-f0c81d042d47",
+  "object": "beer",
+  "name": "Christmas Morning",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

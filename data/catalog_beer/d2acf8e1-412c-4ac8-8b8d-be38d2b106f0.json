@@ -1,0 +1,11 @@
+{
+  "id": "d2acf8e1-412c-4ac8-8b8d-be38d2b106f0",
+  "object": "beer",
+  "name": "Semper Fi Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

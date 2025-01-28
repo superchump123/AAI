@@ -1,0 +1,11 @@
+{
+  "id": "a0cfe094-5c53-473d-9f63-37be25e8506f",
+  "object": "beer",
+  "name": "Suge Knite",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

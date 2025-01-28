@@ -1,0 +1,11 @@
+{
+  "id": "d58298f2-3613-416b-85ff-420a373c1645",
+  "object": "beer",
+  "name": "Millennium Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

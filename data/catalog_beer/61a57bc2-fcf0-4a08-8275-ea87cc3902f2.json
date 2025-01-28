@@ -1,0 +1,11 @@
+{
+  "id": "61a57bc2-fcf0-4a08-8275-ea87cc3902f2",
+  "object": "beer",
+  "name": "Ruffled Feathers",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

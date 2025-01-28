@@ -1,0 +1,11 @@
+{
+  "id": "2a128555-59ae-45de-9f40-7c1b03834f85",
+  "object": "beer",
+  "name": "Tombstone Reserve",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4c70e9ae-df37-40b6-ab87-ec00ec9b4ef2",
+  "object": "beer",
+  "name": "AutumnFest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

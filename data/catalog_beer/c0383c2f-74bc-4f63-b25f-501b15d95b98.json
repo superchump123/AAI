@@ -1,0 +1,11 @@
+{
+  "id": "c0383c2f-74bc-4f63-b25f-501b15d95b98",
+  "object": "beer",
+  "name": "Duvel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

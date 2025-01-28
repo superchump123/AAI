@@ -1,0 +1,11 @@
+{
+  "id": "35b6817b-d2d8-4d68-90c9-951ab0fa69ad",
+  "object": "beer",
+  "name": "Double IPA - BJ's Brewmaster's Reserve",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

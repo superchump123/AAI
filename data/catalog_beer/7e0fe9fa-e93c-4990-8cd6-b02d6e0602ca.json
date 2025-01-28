@@ -1,0 +1,11 @@
+{
+  "id": "7e0fe9fa-e93c-4990-8cd6-b02d6e0602ca",
+  "object": "beer",
+  "name": "Seat Kicker",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

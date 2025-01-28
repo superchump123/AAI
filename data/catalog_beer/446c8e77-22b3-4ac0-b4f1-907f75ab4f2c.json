@@ -1,0 +1,11 @@
+{
+  "id": "446c8e77-22b3-4ac0-b4f1-907f75ab4f2c",
+  "object": "beer",
+  "name": "Battle Line",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

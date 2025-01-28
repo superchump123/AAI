@@ -1,0 +1,11 @@
+{
+  "id": "f24a0cd4-e4b2-4c19-8181-2141d7cc135b",
+  "object": "beer",
+  "name": "Woodchuck Fall Harvest",
+  "style": "New England Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

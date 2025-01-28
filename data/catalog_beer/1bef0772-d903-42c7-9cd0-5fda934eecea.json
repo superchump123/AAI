@@ -1,0 +1,11 @@
+{
+  "id": "1bef0772-d903-42c7-9cd0-5fda934eecea",
+  "object": "beer",
+  "name": "OOBerWeizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

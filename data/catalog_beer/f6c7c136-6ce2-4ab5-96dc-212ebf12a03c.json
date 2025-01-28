@@ -1,0 +1,11 @@
+{
+  "id": "f6c7c136-6ce2-4ab5-96dc-212ebf12a03c",
+  "object": "beer",
+  "name": "Kentucky K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

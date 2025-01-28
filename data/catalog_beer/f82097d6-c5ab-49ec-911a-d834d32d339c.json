@@ -1,0 +1,11 @@
+{
+  "id": "f82097d6-c5ab-49ec-911a-d834d32d339c",
+  "object": "beer",
+  "name": "Fastback Racer X3",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

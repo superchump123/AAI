@@ -1,0 +1,11 @@
+{
+  "id": "e848970f-161f-49ed-b4f2-d926e8b1fe57",
+  "object": "beer",
+  "name": "Summer Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

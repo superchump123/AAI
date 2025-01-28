@@ -1,0 +1,11 @@
+{
+  "id": "22e52816-74f0-48ab-ba95-25107f46532c",
+  "object": "beer",
+  "name": "Rock",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

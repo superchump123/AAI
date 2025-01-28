@@ -1,0 +1,11 @@
+{
+  "id": "ff7c6da3-5ff0-416e-bb5c-6667d40e2eb2",
+  "object": "beer",
+  "name": "Cirque du Wit",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

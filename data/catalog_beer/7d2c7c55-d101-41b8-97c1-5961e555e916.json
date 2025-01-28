@@ -1,0 +1,11 @@
+{
+  "id": "7d2c7c55-d101-41b8-97c1-5961e555e916",
+  "object": "beer",
+  "name": "Babe's Honey Blonde Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

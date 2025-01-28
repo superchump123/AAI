@@ -1,0 +1,11 @@
+{
+  "id": "f3fa2b3f-83af-40f3-bcac-7c98c817f010",
+  "object": "beer",
+  "name": "Nitro Dank",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d7b7e15-049b-4c4f-8022-4af61ee5833b",
+  "object": "beer",
+  "name": "Red Rye Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

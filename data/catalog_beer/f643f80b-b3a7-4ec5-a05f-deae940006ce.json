@@ -1,0 +1,11 @@
+{
+  "id": "f643f80b-b3a7-4ec5-a05f-deae940006ce",
+  "object": "beer",
+  "name": "Pro Bono Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

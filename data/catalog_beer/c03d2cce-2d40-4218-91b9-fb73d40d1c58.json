@@ -1,0 +1,11 @@
+{
+  "id": "c03d2cce-2d40-4218-91b9-fb73d40d1c58",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Boysenberry Wheatwine",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 11,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74d53014-edf2-4b57-86bd-341d2c3f88ed",
+  "object": "beer",
+  "name": "Scaredy Cat",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

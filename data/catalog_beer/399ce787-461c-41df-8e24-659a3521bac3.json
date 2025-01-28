@@ -1,0 +1,11 @@
+{
+  "id": "399ce787-461c-41df-8e24-659a3521bac3",
+  "object": "beer",
+  "name": "Snowy",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

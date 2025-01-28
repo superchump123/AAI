@@ -1,0 +1,11 @@
+{
+  "id": "843bfdd7-4e2e-4303-8b9e-65369c4f05fa",
+  "object": "beer",
+  "name": "Come Again",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

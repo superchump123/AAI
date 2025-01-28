@@ -1,0 +1,11 @@
+{
+  "id": "bfa6344e-fb65-4538-8d4f-9fbf64634238",
+  "object": "beer",
+  "name": "Baby Reida",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

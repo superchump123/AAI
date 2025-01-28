@@ -1,0 +1,11 @@
+{
+  "id": "0a6c3a69-9773-4648-921f-294642973b54",
+  "object": "beer",
+  "name": "Rivet Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

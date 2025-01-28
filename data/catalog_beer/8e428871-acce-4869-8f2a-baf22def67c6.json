@@ -1,0 +1,11 @@
+{
+  "id": "8e428871-acce-4869-8f2a-baf22def67c6",
+  "object": "beer",
+  "name": "Black Tulip",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

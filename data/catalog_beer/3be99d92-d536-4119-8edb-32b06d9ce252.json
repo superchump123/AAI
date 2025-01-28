@@ -1,0 +1,11 @@
+{
+  "id": "3be99d92-d536-4119-8edb-32b06d9ce252",
+  "object": "beer",
+  "name": "Belgo-APA",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "07e866ee-abcf-4036-a50d-4343398e2d1d",
+  "object": "beer",
+  "name": "Ulmer Vollmondbier",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

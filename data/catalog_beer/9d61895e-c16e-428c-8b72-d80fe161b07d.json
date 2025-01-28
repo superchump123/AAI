@@ -1,0 +1,11 @@
+{
+  "id": "9d61895e-c16e-428c-8b72-d80fe161b07d",
+  "object": "beer",
+  "name": "AM:PM",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 330,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

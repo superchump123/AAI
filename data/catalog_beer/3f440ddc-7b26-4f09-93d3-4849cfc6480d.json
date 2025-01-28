@@ -1,0 +1,11 @@
+{
+  "id": "3f440ddc-7b26-4f09-93d3-4849cfc6480d",
+  "object": "beer",
+  "name": "Surf Shack Akala",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

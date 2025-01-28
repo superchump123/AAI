@@ -1,0 +1,11 @@
+{
+  "id": "3207571b-ca64-46ce-9d21-b66a0b15cf3f",
+  "object": "beer",
+  "name": "The Baroness",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7c9c8c12-1c4f-41a2-8ce3-887865e821cb",
+  "object": "beer",
+  "name": "Local Color",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

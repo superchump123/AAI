@@ -1,0 +1,11 @@
+{
+  "id": "0799eb4c-dcec-4769-83b9-b202b7ccb7c4",
+  "object": "beer",
+  "name": "Penguin",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4c9cb54-de9a-45ed-8bc8-054ffbcfc9a3",
+  "object": "beer",
+  "name": "Golden's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

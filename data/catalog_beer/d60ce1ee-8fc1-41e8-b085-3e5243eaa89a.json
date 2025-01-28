@@ -1,0 +1,11 @@
+{
+  "id": "d60ce1ee-8fc1-41e8-b085-3e5243eaa89a",
+  "object": "beer",
+  "name": "Beer Right Meow",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

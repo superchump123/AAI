@@ -1,0 +1,11 @@
+{
+  "id": "8fb823d1-3648-4296-9cde-a62a610b7b61",
+  "object": "beer",
+  "name": "Worthy Pilsner",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

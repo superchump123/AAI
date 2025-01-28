@@ -1,0 +1,11 @@
+{
+  "id": "c3823ff2-840f-46c0-b8b4-e2c4a58ab1b0",
+  "object": "beer",
+  "name": "Brickhouse Brown Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

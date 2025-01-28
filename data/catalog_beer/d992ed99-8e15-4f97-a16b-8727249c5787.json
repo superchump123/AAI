@@ -1,0 +1,11 @@
+{
+  "id": "d992ed99-8e15-4f97-a16b-8727249c5787",
+  "object": "beer",
+  "name": "Camo",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

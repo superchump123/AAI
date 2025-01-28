@@ -1,0 +1,11 @@
+{
+  "id": "a86f80b6-81a8-4783-9244-1e40645058e9",
+  "object": "beer",
+  "name": "Pt. Richmond Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

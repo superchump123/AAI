@@ -1,0 +1,11 @@
+{
+  "id": "d630a21f-c1e3-4b11-8246-b8832e594f2c",
+  "object": "beer",
+  "name": "Pack Dog Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

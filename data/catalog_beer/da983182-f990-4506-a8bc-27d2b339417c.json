@@ -1,0 +1,11 @@
+{
+  "id": "da983182-f990-4506-a8bc-27d2b339417c",
+  "object": "beer",
+  "name": "Ghost",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

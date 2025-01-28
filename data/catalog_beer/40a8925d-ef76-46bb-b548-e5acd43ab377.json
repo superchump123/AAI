@@ -1,0 +1,11 @@
+{
+  "id": "40a8925d-ef76-46bb-b548-e5acd43ab377",
+  "object": "beer",
+  "name": "Blackberry Cyser",
+  "style": "Cyser (Apple Melomel)",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

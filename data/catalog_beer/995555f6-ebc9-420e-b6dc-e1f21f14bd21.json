@@ -1,0 +1,11 @@
+{
+  "id": "995555f6-ebc9-420e-b6dc-e1f21f14bd21",
+  "object": "beer",
+  "name": "Rysing Tide",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

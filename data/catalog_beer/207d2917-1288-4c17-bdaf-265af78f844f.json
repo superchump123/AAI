@@ -1,0 +1,11 @@
+{
+  "id": "207d2917-1288-4c17-bdaf-265af78f844f",
+  "object": "beer",
+  "name": "Bretts' Hop Farm",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

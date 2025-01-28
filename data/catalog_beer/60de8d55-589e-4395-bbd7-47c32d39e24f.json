@@ -1,0 +1,11 @@
+{
+  "id": "60de8d55-589e-4395-bbd7-47c32d39e24f",
+  "object": "beer",
+  "name": "Give Peach A Chance",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

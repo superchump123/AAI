@@ -1,0 +1,11 @@
+{
+  "id": "5f55641f-1ce2-43c4-a579-8d545d955217",
+  "object": "beer",
+  "name": "Starfish",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

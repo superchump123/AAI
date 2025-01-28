@@ -1,0 +1,11 @@
+{
+  "id": "6fb09e74-07be-4bfc-820c-0c76f24a4d20",
+  "object": "beer",
+  "name": "GPA (German Pale Ale)",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

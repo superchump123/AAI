@@ -1,0 +1,11 @@
+{
+  "id": "8bb9e9d0-b2ff-4fe4-8d21-1c15e7f4bf53",
+  "object": "beer",
+  "name": "Sugar Magnolia",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

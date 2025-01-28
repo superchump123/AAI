@@ -1,0 +1,11 @@
+{
+  "id": "5a1a0ade-72a5-486a-847d-0d8e3204ea2d",
+  "object": "beer",
+  "name": "Salty Beard",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

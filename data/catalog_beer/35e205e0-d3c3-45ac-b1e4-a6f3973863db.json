@@ -1,0 +1,11 @@
+{
+  "id": "35e205e0-d3c3-45ac-b1e4-a6f3973863db",
+  "object": "beer",
+  "name": "Fuquette",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

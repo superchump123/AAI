@@ -1,0 +1,11 @@
+{
+  "id": "77fedf55-44d1-4242-8f96-7cc581eee026",
+  "object": "beer",
+  "name": "H7 Brewer's Reserve",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

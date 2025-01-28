@@ -1,0 +1,11 @@
+{
+  "id": "776e70b6-3d0b-450b-b6f7-a75ada01c174",
+  "object": "beer",
+  "name": "Quatrain",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6fd50780-d3e6-43ee-a90e-ab9a1b8c03a9",
+  "object": "beer",
+  "name": "It's Always Sunny In Citradelphia",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

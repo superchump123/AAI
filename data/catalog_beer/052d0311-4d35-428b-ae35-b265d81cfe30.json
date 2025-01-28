@@ -1,0 +1,11 @@
+{
+  "id": "052d0311-4d35-428b-ae35-b265d81cfe30",
+  "object": "beer",
+  "name": "La Cruda",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7200311c-8390-458a-aac0-d6f66d3030db",
+  "object": "beer",
+  "name": "Harvest Colonial Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06ad1dba-f53a-47ba-a189-dff06eae9950",
+  "object": "beer",
+  "name": "Dark Crystal",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

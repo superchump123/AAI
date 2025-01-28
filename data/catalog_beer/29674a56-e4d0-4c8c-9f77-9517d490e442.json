@@ -1,0 +1,11 @@
+{
+  "id": "29674a56-e4d0-4c8c-9f77-9517d490e442",
+  "object": "beer",
+  "name": "Lighthouse Lite",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

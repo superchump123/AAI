@@ -1,0 +1,11 @@
+{
+  "id": "e2520ecf-0f40-4a79-bb3c-e04292b020b8",
+  "object": "beer",
+  "name": "Chimera",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

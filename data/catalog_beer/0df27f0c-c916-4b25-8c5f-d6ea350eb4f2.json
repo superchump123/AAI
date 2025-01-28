@@ -1,0 +1,11 @@
+{
+  "id": "0df27f0c-c916-4b25-8c5f-d6ea350eb4f2",
+  "object": "beer",
+  "name": "Koperen Ketel",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

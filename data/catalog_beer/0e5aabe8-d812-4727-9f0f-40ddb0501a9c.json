@@ -1,0 +1,11 @@
+{
+  "id": "0e5aabe8-d812-4727-9f0f-40ddb0501a9c",
+  "object": "beer",
+  "name": "Pucker Up Pale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

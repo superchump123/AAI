@@ -1,0 +1,11 @@
+{
+  "id": "29652be6-78f8-4680-a0bc-77641ff53c50",
+  "object": "beer",
+  "name": "Cat Fight",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e3f5fbd9-4e64-429f-861d-c18b76a799ba",
+  "object": "beer",
+  "name": "Blackened Voodoo",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

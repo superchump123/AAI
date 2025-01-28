@@ -1,0 +1,11 @@
+{
+  "id": "314407f6-f720-438a-88f3-b730b931b7dd",
+  "object": "beer",
+  "name": "Tartanium Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

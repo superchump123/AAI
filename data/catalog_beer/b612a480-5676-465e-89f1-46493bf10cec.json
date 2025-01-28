@@ -1,0 +1,11 @@
+{
+  "id": "b612a480-5676-465e-89f1-46493bf10cec",
+  "object": "beer",
+  "name": "Troll Toll",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

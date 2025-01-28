@@ -1,0 +1,11 @@
+{
+  "id": "562ede9f-af31-442a-82bc-7b1d5a8757fd",
+  "object": "beer",
+  "name": "Ping Pong Wizard",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

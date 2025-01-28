@@ -1,0 +1,11 @@
+{
+  "id": "4c01f3cc-a542-4fe3-9866-dc0d5d6635d4",
+  "object": "beer",
+  "name": "Buccaneer Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

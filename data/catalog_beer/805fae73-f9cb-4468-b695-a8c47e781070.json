@@ -1,0 +1,11 @@
+{
+  "id": "805fae73-f9cb-4468-b695-a8c47e781070",
+  "object": "beer",
+  "name": "Imperial Smoked Porter With Vanilla Beans",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d3c0835c-26ea-4456-ad4d-a77a6bb90644",
+  "object": "beer",
+  "name": "Brocktoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

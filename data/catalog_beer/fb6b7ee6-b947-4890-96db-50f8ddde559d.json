@@ -1,0 +1,11 @@
+{
+  "id": "fb6b7ee6-b947-4890-96db-50f8ddde559d",
+  "object": "beer",
+  "name": "Triple Stone ESB",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

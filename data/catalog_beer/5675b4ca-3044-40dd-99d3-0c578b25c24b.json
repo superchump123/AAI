@@ -1,0 +1,11 @@
+{
+  "id": "5675b4ca-3044-40dd-99d3-0c578b25c24b",
+  "object": "beer",
+  "name": "Two Rivers Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

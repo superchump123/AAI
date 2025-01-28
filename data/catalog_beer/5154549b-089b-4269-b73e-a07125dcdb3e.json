@@ -1,0 +1,11 @@
+{
+  "id": "5154549b-089b-4269-b73e-a07125dcdb3e",
+  "object": "beer",
+  "name": "Session IPA",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

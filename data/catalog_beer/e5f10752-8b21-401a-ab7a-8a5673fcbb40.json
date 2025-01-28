@@ -1,0 +1,11 @@
+{
+  "id": "e5f10752-8b21-401a-ab7a-8a5673fcbb40",
+  "object": "beer",
+  "name": "Bear lake IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

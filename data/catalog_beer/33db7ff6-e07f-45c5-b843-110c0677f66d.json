@@ -1,0 +1,11 @@
+{
+  "id": "33db7ff6-e07f-45c5-b843-110c0677f66d",
+  "object": "beer",
+  "name": "Golden Sunshine",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

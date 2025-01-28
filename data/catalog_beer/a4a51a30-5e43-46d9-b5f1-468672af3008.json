@@ -1,0 +1,11 @@
+{
+  "id": "a4a51a30-5e43-46d9-b5f1-468672af3008",
+  "object": "beer",
+  "name": "Lao Wang Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

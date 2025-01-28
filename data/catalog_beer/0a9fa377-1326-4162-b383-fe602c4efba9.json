@@ -1,0 +1,11 @@
+{
+  "id": "0a9fa377-1326-4162-b383-fe602c4efba9",
+  "object": "beer",
+  "name": "Vintage Ale 2008",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

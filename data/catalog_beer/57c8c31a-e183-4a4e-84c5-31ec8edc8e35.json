@@ -1,0 +1,11 @@
+{
+  "id": "57c8c31a-e183-4a4e-84c5-31ec8edc8e35",
+  "object": "beer",
+  "name": "Big Eddy Royal Nektar",
+  "style": "Braggot",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

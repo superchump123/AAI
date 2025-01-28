@@ -1,0 +1,11 @@
+{
+  "id": "94d960ce-cf64-449a-b9ca-3a5ef68cb0b0",
+  "object": "beer",
+  "name": "True & Gritty",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

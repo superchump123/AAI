@@ -1,0 +1,11 @@
+{
+  "id": "f8ffbbb2-cb6c-4c67-b46f-803ef824e876",
+  "object": "beer",
+  "name": "Exemption",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

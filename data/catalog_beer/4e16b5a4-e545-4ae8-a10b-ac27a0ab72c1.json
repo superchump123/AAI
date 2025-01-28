@@ -1,0 +1,11 @@
+{
+  "id": "4e16b5a4-e545-4ae8-a10b-ac27a0ab72c1",
+  "object": "beer",
+  "name": "Sour Apple Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

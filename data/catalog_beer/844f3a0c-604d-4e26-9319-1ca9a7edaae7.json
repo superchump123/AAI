@@ -1,0 +1,11 @@
+{
+  "id": "844f3a0c-604d-4e26-9319-1ca9a7edaae7",
+  "object": "beer",
+  "name": "Kite Tail",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a1d14628-a381-40c1-85f8-5b95e942d351",
+  "object": "beer",
+  "name": "Chai Dog",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

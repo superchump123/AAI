@@ -1,0 +1,11 @@
+{
+  "id": "7d82a64a-e1ca-4cf5-bcc5-35203e948db3",
+  "object": "beer",
+  "name": "Sour Asylum #6: Provence",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

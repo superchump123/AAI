@@ -1,0 +1,11 @@
+{
+  "id": "b4c2ffc8-0a12-48c1-82b9-1ff557fba0ef",
+  "object": "beer",
+  "name": "Vanilla Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

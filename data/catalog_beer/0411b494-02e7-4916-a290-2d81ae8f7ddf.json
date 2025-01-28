@@ -1,0 +1,11 @@
+{
+  "id": "0411b494-02e7-4916-a290-2d81ae8f7ddf",
+  "object": "beer",
+  "name": "Mumbai Rye",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

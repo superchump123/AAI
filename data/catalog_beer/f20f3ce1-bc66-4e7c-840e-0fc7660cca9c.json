@@ -1,0 +1,11 @@
+{
+  "id": "f20f3ce1-bc66-4e7c-840e-0fc7660cca9c",
+  "object": "beer",
+  "name": "The Expeditious Guest IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

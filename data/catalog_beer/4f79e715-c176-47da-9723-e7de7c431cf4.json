@@ -1,0 +1,11 @@
+{
+  "id": "4f79e715-c176-47da-9723-e7de7c431cf4",
+  "object": "beer",
+  "name": "Weiz Guys",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

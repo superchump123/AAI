@@ -1,0 +1,11 @@
+{
+  "id": "64b0b0a2-0d3c-419f-a6e8-fe7ece8a5a3e",
+  "object": "beer",
+  "name": "Beltian White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

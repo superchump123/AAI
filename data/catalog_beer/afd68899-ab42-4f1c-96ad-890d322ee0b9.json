@@ -1,0 +1,11 @@
+{
+  "id": "afd68899-ab42-4f1c-96ad-890d322ee0b9",
+  "object": "beer",
+  "name": "Velvet Merkin",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

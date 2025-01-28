@@ -1,0 +1,11 @@
+{
+  "id": "f9053b16-bffd-4922-a7e3-b995fb80dd84",
+  "object": "beer",
+  "name": "Rousal Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

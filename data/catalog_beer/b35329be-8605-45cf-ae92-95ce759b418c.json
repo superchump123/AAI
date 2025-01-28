@@ -1,0 +1,11 @@
+{
+  "id": "b35329be-8605-45cf-ae92-95ce759b418c",
+  "object": "beer",
+  "name": "Greenstone APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

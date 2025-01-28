@@ -1,0 +1,11 @@
+{
+  "id": "feb9f68e-678d-48b2-bf4e-ee0c6f80e1ac",
+  "object": "beer",
+  "name": "CoastWise Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

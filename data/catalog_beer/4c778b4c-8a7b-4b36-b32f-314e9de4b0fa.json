@@ -1,0 +1,11 @@
+{
+  "id": "4c778b4c-8a7b-4b36-b32f-314e9de4b0fa",
+  "object": "beer",
+  "name": "Mouth Party",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

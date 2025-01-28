@@ -1,0 +1,11 @@
+{
+  "id": "a475b2be-1384-41e3-9513-9ff8ae3bcd09",
+  "object": "beer",
+  "name": "Hard Smashed Apple Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

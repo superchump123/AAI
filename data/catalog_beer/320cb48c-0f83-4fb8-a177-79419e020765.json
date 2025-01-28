@@ -1,0 +1,11 @@
+{
+  "id": "320cb48c-0f83-4fb8-a177-79419e020765",
+  "object": "beer",
+  "name": "Big House Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "261ed145-9b69-4648-b4cd-74b867549c26",
+  "object": "beer",
+  "name": "Cali-Weisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

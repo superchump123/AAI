@@ -1,0 +1,11 @@
+{
+  "id": "09a507f1-093e-40f9-b699-677abda47b14",
+  "object": "beer",
+  "name": "Cosmic Bloom",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

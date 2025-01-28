@@ -1,0 +1,11 @@
+{
+  "id": "a009e233-9e2c-4451-bd5d-2b26065273ab",
+  "object": "beer",
+  "name": "Simcoe Smash IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

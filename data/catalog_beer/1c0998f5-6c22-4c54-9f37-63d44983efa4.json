@@ -1,0 +1,11 @@
+{
+  "id": "1c0998f5-6c22-4c54-9f37-63d44983efa4",
+  "object": "beer",
+  "name": "Dark Side",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

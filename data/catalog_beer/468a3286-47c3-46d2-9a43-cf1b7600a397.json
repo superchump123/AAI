@@ -1,0 +1,11 @@
+{
+  "id": "468a3286-47c3-46d2-9a43-cf1b7600a397",
+  "object": "beer",
+  "name": "Citraphilia",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

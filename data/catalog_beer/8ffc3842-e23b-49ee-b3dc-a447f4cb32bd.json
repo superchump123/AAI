@@ -1,0 +1,11 @@
+{
+  "id": "8ffc3842-e23b-49ee-b3dc-a447f4cb32bd",
+  "object": "beer",
+  "name": "Oud Bruin",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

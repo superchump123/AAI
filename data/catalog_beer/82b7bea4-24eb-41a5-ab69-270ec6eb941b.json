@@ -1,0 +1,11 @@
+{
+  "id": "82b7bea4-24eb-41a5-ab69-270ec6eb941b",
+  "object": "beer",
+  "name": "Big Ben House Mild Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

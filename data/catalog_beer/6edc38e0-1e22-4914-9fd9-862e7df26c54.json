@@ -1,0 +1,11 @@
+{
+  "id": "6edc38e0-1e22-4914-9fd9-862e7df26c54",
+  "object": "beer",
+  "name": "Bad Tom Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

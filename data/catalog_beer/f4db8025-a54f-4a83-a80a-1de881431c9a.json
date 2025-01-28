@@ -1,0 +1,11 @@
+{
+  "id": "f4db8025-a54f-4a83-a80a-1de881431c9a",
+  "object": "beer",
+  "name": "Groundskeeper Willie",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "47a67fe2-f313-4e0a-af97-086acc98122a",
+  "object": "beer",
+  "name": "Horchata",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "148e5d25-9810-4981-b906-7c788a5799e7",
+  "object": "beer",
+  "name": "Jean-Claude Van Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

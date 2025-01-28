@@ -1,0 +1,11 @@
+{
+  "id": "fb71de4a-32bd-4d2e-ae48-1d87ad25f96c",
+  "object": "beer",
+  "name": "Primus",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aec15e26-3006-4c2a-95e0-79344c3b507a",
+  "object": "beer",
+  "name": "Widowmaker",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

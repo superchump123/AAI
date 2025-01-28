@@ -1,0 +1,11 @@
+{
+  "id": "f5b9b947-a6be-4433-835d-1432cf0e1f64",
+  "object": "beer",
+  "name": "D'aison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

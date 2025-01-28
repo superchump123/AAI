@@ -1,0 +1,11 @@
+{
+  "id": "85f743b9-6875-4fb1-b02c-3a6962903f4b",
+  "object": "beer",
+  "name": "Keller Brau",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

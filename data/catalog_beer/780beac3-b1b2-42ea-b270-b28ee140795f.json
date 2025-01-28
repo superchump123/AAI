@@ -1,0 +1,11 @@
+{
+  "id": "780beac3-b1b2-42ea-b270-b28ee140795f",
+  "object": "beer",
+  "name": "Big Punisher",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

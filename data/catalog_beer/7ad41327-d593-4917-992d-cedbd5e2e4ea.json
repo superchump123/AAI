@@ -1,0 +1,11 @@
+{
+  "id": "7ad41327-d593-4917-992d-cedbd5e2e4ea",
+  "object": "beer",
+  "name": "Big & Bright IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

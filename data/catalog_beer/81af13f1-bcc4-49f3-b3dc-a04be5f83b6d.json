@@ -1,0 +1,11 @@
+{
+  "id": "81af13f1-bcc4-49f3-b3dc-a04be5f83b6d",
+  "object": "beer",
+  "name": "Electric Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

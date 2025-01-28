@@ -1,0 +1,11 @@
+{
+  "id": "d53f3932-0bc7-43ff-a99b-987011c20908",
+  "object": "beer",
+  "name": "Little Foot",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c8e73caf-c4f3-4f3a-91b3-69a0f307133d",
+  "object": "beer",
+  "name": "Waypoint",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

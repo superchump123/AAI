@@ -1,0 +1,11 @@
+{
+  "id": "febe4f14-0bcb-45d8-a21c-1721f76320d8",
+  "object": "beer",
+  "name": "Baron Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

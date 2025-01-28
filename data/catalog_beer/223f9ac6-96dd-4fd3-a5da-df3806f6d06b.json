@@ -1,0 +1,11 @@
+{
+  "id": "223f9ac6-96dd-4fd3-a5da-df3806f6d06b",
+  "object": "beer",
+  "name": "Violent Femme",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

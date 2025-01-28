@@ -1,0 +1,11 @@
+{
+  "id": "5122adee-192e-404d-bf7b-3c5ca2e101c0",
+  "object": "beer",
+  "name": "W'12 Dark Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

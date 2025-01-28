@@ -1,0 +1,11 @@
+{
+  "id": "43caccaf-c77c-4667-af96-94c0b20a917b",
+  "object": "beer",
+  "name": "Pale Otter Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

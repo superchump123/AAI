@@ -1,0 +1,11 @@
+{
+  "id": "08e0aa67-7e81-4805-a77c-c59b2ec3a0d3",
+  "object": "beer",
+  "name": "Smoked Apple Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

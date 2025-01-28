@@ -1,0 +1,11 @@
+{
+  "id": "c9d4e4d0-ea4c-4be6-b810-441314c3d0d9",
+  "object": "beer",
+  "name": "No Manners Smoked Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

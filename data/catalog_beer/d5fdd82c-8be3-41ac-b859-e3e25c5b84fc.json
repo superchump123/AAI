@@ -1,0 +1,11 @@
+{
+  "id": "d5fdd82c-8be3-41ac-b859-e3e25c5b84fc",
+  "object": "beer",
+  "name": "Mammoth Extra Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

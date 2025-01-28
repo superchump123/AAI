@@ -1,0 +1,11 @@
+{
+  "id": "7cd852a8-f0d0-441f-820b-661eb05e977a",
+  "object": "beer",
+  "name": "Gram For The Glass",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

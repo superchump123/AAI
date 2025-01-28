@@ -1,0 +1,11 @@
+{
+  "id": "6f6caf9e-42e6-4da8-b220-a976601ab150",
+  "object": "beer",
+  "name": "Stripping Run",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

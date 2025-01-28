@@ -1,0 +1,11 @@
+{
+  "id": "37dd0750-0d5e-4f6c-92cd-547c4200c637",
+  "object": "beer",
+  "name": "I Drink Therefore I Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

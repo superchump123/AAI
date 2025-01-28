@@ -1,0 +1,11 @@
+{
+  "id": "bab01681-3270-4ca6-8af6-6ec9726f3852",
+  "object": "beer",
+  "name": "Falstaff's Folly",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

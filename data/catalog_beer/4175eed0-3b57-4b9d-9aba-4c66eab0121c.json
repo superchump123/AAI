@@ -1,0 +1,11 @@
+{
+  "id": "4175eed0-3b57-4b9d-9aba-4c66eab0121c",
+  "object": "beer",
+  "name": "Porter Baltique",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

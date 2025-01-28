@@ -1,0 +1,11 @@
+{
+  "id": "d190543a-abdb-44ed-b946-423601062af6",
+  "object": "beer",
+  "name": "Domhof Helles",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "01d40373-b21f-4db0-a5af-2dbcb7176b70",
+  "object": "beer",
+  "name": "Leatherwood Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

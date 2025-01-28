@@ -1,0 +1,11 @@
+{
+  "id": "f9c666bc-6895-4887-986a-854cd858a9ec",
+  "object": "beer",
+  "name": "Growler K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

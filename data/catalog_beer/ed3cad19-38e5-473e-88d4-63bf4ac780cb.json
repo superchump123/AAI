@@ -1,0 +1,11 @@
+{
+  "id": "ed3cad19-38e5-473e-88d4-63bf4ac780cb",
+  "object": "beer",
+  "name": "Seven Peaks",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

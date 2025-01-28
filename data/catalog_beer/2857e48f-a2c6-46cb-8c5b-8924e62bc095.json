@@ -1,0 +1,11 @@
+{
+  "id": "2857e48f-a2c6-46cb-8c5b-8924e62bc095",
+  "object": "beer",
+  "name": "Slow Hand",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1265b154-ef03-4622-bce6-f2b2c335a1b1",
+  "object": "beer",
+  "name": "Gluten Full",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

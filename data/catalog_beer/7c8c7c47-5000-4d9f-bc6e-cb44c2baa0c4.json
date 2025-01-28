@@ -1,0 +1,11 @@
+{
+  "id": "7c8c7c47-5000-4d9f-bc6e-cb44c2baa0c4",
+  "object": "beer",
+  "name": "Chocolate Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

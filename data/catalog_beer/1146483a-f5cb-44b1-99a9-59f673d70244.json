@@ -1,0 +1,11 @@
+{
+  "id": "1146483a-f5cb-44b1-99a9-59f673d70244",
+  "object": "beer",
+  "name": "Amendment Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

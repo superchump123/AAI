@@ -1,0 +1,11 @@
+{
+  "id": "a96e1d62-3516-42c2-9cdb-05298a7213a9",
+  "object": "beer",
+  "name": "Heyday",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

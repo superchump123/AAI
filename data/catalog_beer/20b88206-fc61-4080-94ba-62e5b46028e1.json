@@ -1,0 +1,11 @@
+{
+  "id": "20b88206-fc61-4080-94ba-62e5b46028e1",
+  "object": "beer",
+  "name": "Holy Crap!",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

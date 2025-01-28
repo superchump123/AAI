@@ -1,0 +1,11 @@
+{
+  "id": "8b652140-e18c-4996-8b59-0a57f635dbe6",
+  "object": "beer",
+  "name": "Triple Crown Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

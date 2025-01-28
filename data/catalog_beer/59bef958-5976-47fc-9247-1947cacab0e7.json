@@ -1,0 +1,11 @@
+{
+  "id": "59bef958-5976-47fc-9247-1947cacab0e7",
+  "object": "beer",
+  "name": "Kings Pilsener",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

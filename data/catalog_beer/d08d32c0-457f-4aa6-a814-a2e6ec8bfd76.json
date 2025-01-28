@@ -1,0 +1,11 @@
+{
+  "id": "d08d32c0-457f-4aa6-a814-a2e6ec8bfd76",
+  "object": "beer",
+  "name": "TAP4 Meine Festweisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

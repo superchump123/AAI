@@ -1,0 +1,11 @@
+{
+  "id": "f964ef00-bbab-40fe-8965-e2f73d164176",
+  "object": "beer",
+  "name": "Sleeping Owl Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

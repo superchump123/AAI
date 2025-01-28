@@ -1,0 +1,11 @@
+{
+  "id": "c37028c0-d4e1-417d-a70a-07405379f813",
+  "object": "beer",
+  "name": "French Silk Stout",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

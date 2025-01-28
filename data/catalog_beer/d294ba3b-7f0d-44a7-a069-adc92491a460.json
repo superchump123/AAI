@@ -1,0 +1,11 @@
+{
+  "id": "d294ba3b-7f0d-44a7-a069-adc92491a460",
+  "object": "beer",
+  "name": "Piston",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

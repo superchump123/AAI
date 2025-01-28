@@ -1,0 +1,11 @@
+{
+  "id": "9d833018-6fe3-45be-859d-e8f369589d43",
+  "object": "beer",
+  "name": "Pound Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

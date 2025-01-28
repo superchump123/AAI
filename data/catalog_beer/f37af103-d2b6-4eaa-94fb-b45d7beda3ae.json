@@ -1,0 +1,11 @@
+{
+  "id": "f37af103-d2b6-4eaa-94fb-b45d7beda3ae",
+  "object": "beer",
+  "name": "Restoration Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

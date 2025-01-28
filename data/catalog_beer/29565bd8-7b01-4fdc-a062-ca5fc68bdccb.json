@@ -1,0 +1,11 @@
+{
+  "id": "29565bd8-7b01-4fdc-a062-ca5fc68bdccb",
+  "object": "beer",
+  "name": "Mill City White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

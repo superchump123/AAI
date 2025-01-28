@@ -1,0 +1,11 @@
+{
+  "id": "89a4d0e3-7d53-4199-ad7f-370c5f48298e",
+  "object": "beer",
+  "name": "Cinna Toad",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

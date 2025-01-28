@@ -1,0 +1,11 @@
+{
+  "id": "672d75cd-527d-46ae-9eda-5ed2ea3abce3",
+  "object": "beer",
+  "name": "Mary Hoppins English Summer Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

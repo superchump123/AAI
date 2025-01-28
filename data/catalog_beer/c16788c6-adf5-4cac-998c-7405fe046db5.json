@@ -1,0 +1,11 @@
+{
+  "id": "c16788c6-adf5-4cac-998c-7405fe046db5",
+  "object": "beer",
+  "name": "Siamese Twin Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

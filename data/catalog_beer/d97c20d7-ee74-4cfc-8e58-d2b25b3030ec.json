@@ -1,0 +1,11 @@
+{
+  "id": "d97c20d7-ee74-4cfc-8e58-d2b25b3030ec",
+  "object": "beer",
+  "name": "Csar",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

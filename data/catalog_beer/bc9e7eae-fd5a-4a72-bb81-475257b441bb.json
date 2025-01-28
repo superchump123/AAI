@@ -1,0 +1,11 @@
+{
+  "id": "bc9e7eae-fd5a-4a72-bb81-475257b441bb",
+  "object": "beer",
+  "name": "Mosaic IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7d2b3a9e-6249-42ec-be73-5de624f2edd2",
+  "object": "beer",
+  "name": "Way Up Yer Kilt",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

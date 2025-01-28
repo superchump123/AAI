@@ -1,0 +1,11 @@
+{
+  "id": "6a48f088-0084-480d-b290-601ee61b1279",
+  "object": "beer",
+  "name": "Daphne - with Citra",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

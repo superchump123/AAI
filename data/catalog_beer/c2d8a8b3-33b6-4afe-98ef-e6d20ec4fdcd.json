@@ -1,0 +1,11 @@
+{
+  "id": "c2d8a8b3-33b6-4afe-98ef-e6d20ec4fdcd",
+  "object": "beer",
+  "name": "Remedy",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ccb7427e-7eae-400a-857c-251e6d3cd9e7",
+  "object": "beer",
+  "name": "Creemore Springs Kellerbier",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

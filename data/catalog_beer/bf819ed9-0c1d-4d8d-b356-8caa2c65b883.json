@@ -1,0 +1,11 @@
+{
+  "id": "bf819ed9-0c1d-4d8d-b356-8caa2c65b883",
+  "object": "beer",
+  "name": "The Landing Summer Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

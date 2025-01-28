@@ -1,0 +1,11 @@
+{
+  "id": "d449a170-0c2c-4bc7-97b7-f218c4ee8158",
+  "object": "beer",
+  "name": "XTra",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

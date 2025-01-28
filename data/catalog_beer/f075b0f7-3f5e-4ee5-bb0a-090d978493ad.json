@@ -1,0 +1,11 @@
+{
+  "id": "f075b0f7-3f5e-4ee5-bb0a-090d978493ad",
+  "object": "beer",
+  "name": "Blanche",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

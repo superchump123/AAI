@@ -1,0 +1,11 @@
+{
+  "id": "0e54e909-9a5b-45d9-a406-4052a3d82646",
+  "object": "beer",
+  "name": "Paddle Wheel",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

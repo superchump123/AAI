@@ -1,0 +1,11 @@
+{
+  "id": "5c5dba00-03c7-4a3c-8e1b-ef730bebf434",
+  "object": "beer",
+  "name": "Baderbr\u00e4u Lawnmower Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

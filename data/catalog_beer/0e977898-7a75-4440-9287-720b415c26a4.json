@@ -1,0 +1,11 @@
+{
+  "id": "0e977898-7a75-4440-9287-720b415c26a4",
+  "object": "beer",
+  "name": "Jadis",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

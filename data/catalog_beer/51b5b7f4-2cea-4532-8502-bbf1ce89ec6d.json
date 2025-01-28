@@ -1,0 +1,11 @@
+{
+  "id": "51b5b7f4-2cea-4532-8502-bbf1ce89ec6d",
+  "object": "beer",
+  "name": "Eddie",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

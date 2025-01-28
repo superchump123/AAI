@@ -1,0 +1,11 @@
+{
+  "id": "c906eb64-28f0-43b3-a224-5e589d8e3715",
+  "object": "beer",
+  "name": "Single Chair Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

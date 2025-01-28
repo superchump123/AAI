@@ -1,0 +1,11 @@
+{
+  "id": "0b8b2727-a160-49fe-90df-8993ce7f0d63",
+  "object": "beer",
+  "name": "Lumber Lung",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

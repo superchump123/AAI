@@ -1,0 +1,11 @@
+{
+  "id": "94202ccd-add4-402f-854c-4f1c0069b5dc",
+  "object": "beer",
+  "name": "Smugglers Hazelnut Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

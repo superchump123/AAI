@@ -1,0 +1,11 @@
+{
+  "id": "e826fdb1-5ac7-4df3-8e32-87c68485d103",
+  "object": "beer",
+  "name": "Deep Hop Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

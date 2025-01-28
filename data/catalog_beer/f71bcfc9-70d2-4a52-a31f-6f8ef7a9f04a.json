@@ -1,0 +1,11 @@
+{
+  "id": "f71bcfc9-70d2-4a52-a31f-6f8ef7a9f04a",
+  "object": "beer",
+  "name": "The Grotto",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

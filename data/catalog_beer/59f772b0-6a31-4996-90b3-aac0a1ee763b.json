@@ -1,0 +1,11 @@
+{
+  "id": "59f772b0-6a31-4996-90b3-aac0a1ee763b",
+  "object": "beer",
+  "name": "Coffee Hour",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

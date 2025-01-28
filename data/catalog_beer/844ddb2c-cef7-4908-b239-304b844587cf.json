@@ -1,0 +1,11 @@
+{
+  "id": "844ddb2c-cef7-4908-b239-304b844587cf",
+  "object": "beer",
+  "name": "Baja",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1c599030-b9c8-4135-8fdf-4e040f4062b5",
+  "object": "beer",
+  "name": "Blueberry Cobbler Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

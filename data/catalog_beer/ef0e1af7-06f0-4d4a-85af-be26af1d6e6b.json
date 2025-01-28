@@ -1,0 +1,11 @@
+{
+  "id": "ef0e1af7-06f0-4d4a-85af-be26af1d6e6b",
+  "object": "beer",
+  "name": "Triplo Malto",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

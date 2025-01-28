@@ -1,0 +1,11 @@
+{
+  "id": "47c7adf0-9c63-4fcb-a0f8-c8a0bcfe3bc8",
+  "object": "beer",
+  "name": "Special Amber",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

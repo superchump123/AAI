@@ -1,0 +1,11 @@
+{
+  "id": "4269b679-34b2-41e1-a35c-92b55277cb9b",
+  "object": "beer",
+  "name": "Kirke",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

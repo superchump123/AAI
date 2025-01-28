@@ -1,0 +1,11 @@
+{
+  "id": "e944d4b4-bc64-4c2d-8449-8e366d7668fc",
+  "object": "beer",
+  "name": "Hopped Up McGonigal",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

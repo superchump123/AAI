@@ -1,0 +1,11 @@
+{
+  "id": "d3681cf3-64d0-4241-bd5e-6fb467958234",
+  "object": "beer",
+  "name": "Rock Lobster",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

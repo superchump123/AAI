@@ -1,0 +1,11 @@
+{
+  "id": "63c9c152-ccdc-454b-81c0-11598c1b8ab4",
+  "object": "beer",
+  "name": "Cerveza Por Favor",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

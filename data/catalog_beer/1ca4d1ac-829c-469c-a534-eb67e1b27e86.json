@@ -1,0 +1,11 @@
+{
+  "id": "1ca4d1ac-829c-469c-a534-eb67e1b27e86",
+  "object": "beer",
+  "name": "Head In A Jar",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

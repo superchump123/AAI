@@ -1,0 +1,11 @@
+{
+  "id": "f810eb97-bb35-4782-8c1b-16dc5a09189e",
+  "object": "beer",
+  "name": "Stanley's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

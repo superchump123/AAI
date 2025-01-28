@@ -1,0 +1,11 @@
+{
+  "id": "cdef850e-26d1-453a-b10a-4a524ba40713",
+  "object": "beer",
+  "name": "Eagle Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

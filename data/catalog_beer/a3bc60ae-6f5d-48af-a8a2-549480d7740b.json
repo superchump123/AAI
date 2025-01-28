@@ -1,0 +1,11 @@
+{
+  "id": "a3bc60ae-6f5d-48af-a8a2-549480d7740b",
+  "object": "beer",
+  "name": "Epic IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

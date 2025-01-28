@@ -1,0 +1,11 @@
+{
+  "id": "d6be17d1-313d-4660-a84c-59f8e76fa378",
+  "object": "beer",
+  "name": "Peril Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

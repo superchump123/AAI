@@ -1,0 +1,11 @@
+{
+  "id": "5d81583e-40ff-417d-965c-b82f581b462d",
+  "object": "beer",
+  "name": "Donk Dunkel",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

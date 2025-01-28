@@ -1,0 +1,11 @@
+{
+  "id": "7825fa3d-24c4-4c55-ac56-bbb4d946c29f",
+  "object": "beer",
+  "name": "Mohren Zitronen Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

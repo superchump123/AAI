@@ -1,0 +1,11 @@
+{
+  "id": "dacf0b6c-d85a-414e-9538-8064205b2050",
+  "object": "beer",
+  "name": "Chloe Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

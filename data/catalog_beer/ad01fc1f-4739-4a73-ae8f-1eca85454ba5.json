@@ -1,0 +1,11 @@
+{
+  "id": "ad01fc1f-4739-4a73-ae8f-1eca85454ba5",
+  "object": "beer",
+  "name": "Smuggler Wheat Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

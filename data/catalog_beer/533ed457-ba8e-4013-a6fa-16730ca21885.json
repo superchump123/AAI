@@ -1,0 +1,11 @@
+{
+  "id": "533ed457-ba8e-4013-a6fa-16730ca21885",
+  "object": "beer",
+  "name": "Chops!",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1c6844a0-98b8-4775-9acf-8f3ec88453f0",
+  "object": "beer",
+  "name": "West Fest Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

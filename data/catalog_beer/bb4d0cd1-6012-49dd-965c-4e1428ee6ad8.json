@@ -1,0 +1,11 @@
+{
+  "id": "bb4d0cd1-6012-49dd-965c-4e1428ee6ad8",
+  "object": "beer",
+  "name": "Idlewild",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

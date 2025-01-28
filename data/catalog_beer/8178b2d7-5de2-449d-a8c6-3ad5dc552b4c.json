@@ -1,0 +1,11 @@
+{
+  "id": "8178b2d7-5de2-449d-a8c6-3ad5dc552b4c",
+  "object": "beer",
+  "name": "Redstreak",
+  "style": "English Cider",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

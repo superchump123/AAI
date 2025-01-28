@@ -1,0 +1,11 @@
+{
+  "id": "fc1af00b-24fe-4078-85f6-362c89ca8c87",
+  "object": "beer",
+  "name": "20th Anniversary",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

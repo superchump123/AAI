@@ -1,0 +1,11 @@
+{
+  "id": "568cb3ee-93cd-4df3-8055-58eef0b356ce",
+  "object": "beer",
+  "name": "KBB Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

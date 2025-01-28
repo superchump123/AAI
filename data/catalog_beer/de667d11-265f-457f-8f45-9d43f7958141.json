@@ -1,0 +1,11 @@
+{
+  "id": "de667d11-265f-457f-8f45-9d43f7958141",
+  "object": "beer",
+  "name": "Firefly",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

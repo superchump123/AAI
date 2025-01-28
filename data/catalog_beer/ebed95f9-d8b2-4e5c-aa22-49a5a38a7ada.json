@@ -1,0 +1,11 @@
+{
+  "id": "ebed95f9-d8b2-4e5c-aa22-49a5a38a7ada",
+  "object": "beer",
+  "name": "Big Boat Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36802209-6a00-4564-a9e7-6a7c1d12f77f",
+  "object": "beer",
+  "name": "Pico",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

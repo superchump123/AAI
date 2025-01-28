@@ -1,0 +1,11 @@
+{
+  "id": "c2d24edb-7a01-472c-905d-6b0efde74746",
+  "object": "beer",
+  "name": "Blonde Bomber",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

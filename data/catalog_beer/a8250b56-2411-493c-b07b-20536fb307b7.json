@@ -1,0 +1,11 @@
+{
+  "id": "a8250b56-2411-493c-b07b-20536fb307b7",
+  "object": "beer",
+  "name": "Vila Irene",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

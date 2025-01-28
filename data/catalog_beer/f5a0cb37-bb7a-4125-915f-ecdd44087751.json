@@ -1,0 +1,11 @@
+{
+  "id": "f5a0cb37-bb7a-4125-915f-ecdd44087751",
+  "object": "beer",
+  "name": "29'er",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ad47e6a-9580-4bc1-9b8f-540fa9833753",
+  "object": "beer",
+  "name": "Tommy Raj IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

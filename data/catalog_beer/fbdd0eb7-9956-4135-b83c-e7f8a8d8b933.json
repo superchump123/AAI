@@ -1,0 +1,11 @@
+{
+  "id": "fbdd0eb7-9956-4135-b83c-e7f8a8d8b933",
+  "object": "beer",
+  "name": "Black Cherry Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "216edc43-1808-4dc3-bfd7-323c72b3e6cc",
+  "object": "beer",
+  "name": "Folk'n Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

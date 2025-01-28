@@ -1,0 +1,11 @@
+{
+  "id": "93c2b349-2bd4-4c84-999c-dabc1a76280c",
+  "object": "beer",
+  "name": "Innovator Man",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

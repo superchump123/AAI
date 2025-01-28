@@ -1,0 +1,11 @@
+{
+  "id": "39d4f31f-cf9a-4518-9aa1-97c46809d46b",
+  "object": "beer",
+  "name": "Lost Souls",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

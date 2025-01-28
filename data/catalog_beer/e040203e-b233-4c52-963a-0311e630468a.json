@@ -1,0 +1,11 @@
+{
+  "id": "e040203e-b233-4c52-963a-0311e630468a",
+  "object": "beer",
+  "name": "Our Perry",
+  "style": "Traditional Perry",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

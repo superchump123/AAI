@@ -1,0 +1,11 @@
+{
+  "id": "d777c4db-7690-473f-8619-36b2fa29c052",
+  "object": "beer",
+  "name": "MacTarnahan\u2019s Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

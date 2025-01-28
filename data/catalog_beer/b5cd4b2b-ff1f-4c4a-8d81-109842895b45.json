@@ -1,0 +1,11 @@
+{
+  "id": "b5cd4b2b-ff1f-4c4a-8d81-109842895b45",
+  "object": "beer",
+  "name": "Georges d'Anthes",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 19,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "569e4870-5186-4139-9cef-7fc33f5fd7c2",
+  "object": "beer",
+  "name": "Cider Spritz",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

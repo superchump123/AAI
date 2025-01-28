@@ -1,0 +1,11 @@
+{
+  "id": "8fc47680-fa78-487d-9711-8523a71b0fae",
+  "object": "beer",
+  "name": "Black Betty",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

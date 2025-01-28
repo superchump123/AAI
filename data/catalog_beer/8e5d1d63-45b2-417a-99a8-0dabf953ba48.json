@@ -1,0 +1,11 @@
+{
+  "id": "8e5d1d63-45b2-417a-99a8-0dabf953ba48",
+  "object": "beer",
+  "name": "Barrel Aged Dubbel",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "description": null,
+  "abv": 12,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

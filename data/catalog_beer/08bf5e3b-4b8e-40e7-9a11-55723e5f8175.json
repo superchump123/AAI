@@ -1,0 +1,11 @@
+{
+  "id": "08bf5e3b-4b8e-40e7-9a11-55723e5f8175",
+  "object": "beer",
+  "name": "Ice Hole Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

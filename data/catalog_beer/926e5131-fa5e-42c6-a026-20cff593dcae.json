@@ -1,0 +1,11 @@
+{
+  "id": "926e5131-fa5e-42c6-a026-20cff593dcae",
+  "object": "beer",
+  "name": "Shut The Fook Up",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

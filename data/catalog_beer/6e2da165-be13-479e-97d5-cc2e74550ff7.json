@@ -1,0 +1,11 @@
+{
+  "id": "6e2da165-be13-479e-97d5-cc2e74550ff7",
+  "object": "beer",
+  "name": "Easy Shift",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 330,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

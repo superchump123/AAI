@@ -1,0 +1,11 @@
+{
+  "id": "eea05c85-dda1-4f9f-aa0f-38111875ea3c",
+  "object": "beer",
+  "name": "Bodacious Bob",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

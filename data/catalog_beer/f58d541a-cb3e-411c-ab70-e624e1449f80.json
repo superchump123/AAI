@@ -1,0 +1,11 @@
+{
+  "id": "f58d541a-cb3e-411c-ab70-e624e1449f80",
+  "object": "beer",
+  "name": "Oktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

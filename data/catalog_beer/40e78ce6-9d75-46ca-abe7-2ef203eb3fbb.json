@@ -1,0 +1,11 @@
+{
+  "id": "40e78ce6-9d75-46ca-abe7-2ef203eb3fbb",
+  "object": "beer",
+  "name": "Forest City Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

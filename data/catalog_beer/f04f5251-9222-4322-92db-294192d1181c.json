@@ -1,0 +1,11 @@
+{
+  "id": "f04f5251-9222-4322-92db-294192d1181c",
+  "object": "beer",
+  "name": "Roland's ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

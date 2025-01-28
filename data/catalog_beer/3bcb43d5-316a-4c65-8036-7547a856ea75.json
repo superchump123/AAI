@@ -1,0 +1,11 @@
+{
+  "id": "3bcb43d5-316a-4c65-8036-7547a856ea75",
+  "object": "beer",
+  "name": "Easy Rider",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

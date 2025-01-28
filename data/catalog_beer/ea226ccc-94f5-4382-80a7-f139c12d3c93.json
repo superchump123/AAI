@@ -1,0 +1,11 @@
+{
+  "id": "ea226ccc-94f5-4382-80a7-f139c12d3c93",
+  "object": "beer",
+  "name": "Yak's RIS",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

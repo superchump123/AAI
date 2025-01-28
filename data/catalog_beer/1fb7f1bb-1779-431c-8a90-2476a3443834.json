@@ -1,0 +1,11 @@
+{
+  "id": "1fb7f1bb-1779-431c-8a90-2476a3443834",
+  "object": "beer",
+  "name": "Catherine the Great",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

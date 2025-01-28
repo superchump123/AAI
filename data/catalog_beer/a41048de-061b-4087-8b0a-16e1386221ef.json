@@ -1,0 +1,11 @@
+{
+  "id": "a41048de-061b-4087-8b0a-16e1386221ef",
+  "object": "beer",
+  "name": "Durty",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 97,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

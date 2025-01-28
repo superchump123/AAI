@@ -1,0 +1,11 @@
+{
+  "id": "068ae33b-f32d-411a-bd5f-d7639a11f9b4",
+  "object": "beer",
+  "name": "Cherry Blonde Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

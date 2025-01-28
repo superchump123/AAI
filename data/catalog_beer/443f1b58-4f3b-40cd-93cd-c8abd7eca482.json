@@ -1,0 +1,11 @@
+{
+  "id": "443f1b58-4f3b-40cd-93cd-c8abd7eca482",
+  "object": "beer",
+  "name": "Efes Ice",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db7d0195-62f7-4a06-b747-5f19de138831",
+  "object": "beer",
+  "name": "HEMI 5.4 (BLUE PALMS 6th)",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

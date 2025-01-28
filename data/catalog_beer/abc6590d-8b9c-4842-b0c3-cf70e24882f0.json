@@ -1,0 +1,11 @@
+{
+  "id": "abc6590d-8b9c-4842-b0c3-cf70e24882f0",
+  "object": "beer",
+  "name": "Oberhausen",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

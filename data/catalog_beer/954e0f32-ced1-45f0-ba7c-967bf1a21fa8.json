@@ -1,0 +1,11 @@
+{
+  "id": "954e0f32-ced1-45f0-ba7c-967bf1a21fa8",
+  "object": "beer",
+  "name": "The Lawn Ranger",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

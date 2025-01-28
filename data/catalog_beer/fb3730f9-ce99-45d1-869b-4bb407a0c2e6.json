@@ -1,0 +1,11 @@
+{
+  "id": "fb3730f9-ce99-45d1-869b-4bb407a0c2e6",
+  "object": "beer",
+  "name": "Coffee Redemption",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

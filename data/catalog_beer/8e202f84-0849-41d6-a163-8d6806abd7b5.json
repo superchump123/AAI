@@ -1,0 +1,11 @@
+{
+  "id": "8e202f84-0849-41d6-a163-8d6806abd7b5",
+  "object": "beer",
+  "name": "3 Minutes To Midnight",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

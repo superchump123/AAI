@@ -1,0 +1,11 @@
+{
+  "id": "4c4e4323-17fd-4fb7-bf54-5da6486578d2",
+  "object": "beer",
+  "name": "Tandem",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

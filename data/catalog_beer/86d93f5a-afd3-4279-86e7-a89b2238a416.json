@@ -1,0 +1,11 @@
+{
+  "id": "86d93f5a-afd3-4279-86e7-a89b2238a416",
+  "object": "beer",
+  "name": "Duck 'n Cover",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

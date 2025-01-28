@@ -1,0 +1,11 @@
+{
+  "id": "0769cbc0-669b-4571-8b31-a987c664b5cc",
+  "object": "beer",
+  "name": "The Oracle",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

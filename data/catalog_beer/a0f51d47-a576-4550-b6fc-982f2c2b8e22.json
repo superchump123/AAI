@@ -1,0 +1,11 @@
+{
+  "id": "a0f51d47-a576-4550-b6fc-982f2c2b8e22",
+  "object": "beer",
+  "name": "Party Boy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

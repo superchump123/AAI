@@ -1,0 +1,11 @@
+{
+  "id": "c3b1bd15-9630-4ff3-b0d7-1959fc698d0a",
+  "object": "beer",
+  "name": "Weize Guy",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

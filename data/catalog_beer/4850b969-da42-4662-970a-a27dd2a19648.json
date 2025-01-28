@@ -1,0 +1,11 @@
+{
+  "id": "4850b969-da42-4662-970a-a27dd2a19648",
+  "object": "beer",
+  "name": "Duck-Rabbit Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

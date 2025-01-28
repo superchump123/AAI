@@ -1,0 +1,11 @@
+{
+  "id": "1c778d18-1a95-4a34-ace4-75016732281e",
+  "object": "beer",
+  "name": "Death Roll",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "535183bd-0249-4717-a8de-dd9a3380ec26",
+  "object": "beer",
+  "name": "Qualified",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

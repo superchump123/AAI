@@ -1,0 +1,11 @@
+{
+  "id": "6e8c8a3e-e829-45b1-9f23-b822ac6b41a5",
+  "object": "beer",
+  "name": "3rd Light Gold Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

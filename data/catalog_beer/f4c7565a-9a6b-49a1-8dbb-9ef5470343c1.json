@@ -1,0 +1,11 @@
+{
+  "id": "f4c7565a-9a6b-49a1-8dbb-9ef5470343c1",
+  "object": "beer",
+  "name": "Last Chance IPA with Apricot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

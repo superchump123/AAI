@@ -1,0 +1,11 @@
+{
+  "id": "30f0a427-db68-4ab5-acef-d77b65c6c18d",
+  "object": "beer",
+  "name": "Kees East India Porter",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

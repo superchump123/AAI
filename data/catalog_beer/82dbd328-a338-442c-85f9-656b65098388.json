@@ -1,0 +1,11 @@
+{
+  "id": "82dbd328-a338-442c-85f9-656b65098388",
+  "object": "beer",
+  "name": "Pi 3.14 Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

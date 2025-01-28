@@ -1,0 +1,11 @@
+{
+  "id": "5c4a7a37-9722-4a56-8f6a-487397b37208",
+  "object": "beer",
+  "name": "Jacks Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

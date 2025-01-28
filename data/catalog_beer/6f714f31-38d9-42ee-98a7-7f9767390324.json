@@ -1,0 +1,11 @@
+{
+  "id": "6f714f31-38d9-42ee-98a7-7f9767390324",
+  "object": "beer",
+  "name": "The Jungle Bock",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

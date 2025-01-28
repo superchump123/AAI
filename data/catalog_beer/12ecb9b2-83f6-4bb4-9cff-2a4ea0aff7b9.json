@@ -1,0 +1,11 @@
+{
+  "id": "12ecb9b2-83f6-4bb4-9cff-2a4ea0aff7b9",
+  "object": "beer",
+  "name": "NOBO",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

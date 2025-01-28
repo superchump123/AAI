@@ -1,0 +1,11 @@
+{
+  "id": "3c9fc206-f9a8-48a7-bebc-527c799602da",
+  "object": "beer",
+  "name": "Crankenstein Amber Lager",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

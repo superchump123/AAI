@@ -1,0 +1,11 @@
+{
+  "id": "d8861dd8-3e19-448e-9d2f-9ecaf3999343",
+  "object": "beer",
+  "name": "Mini Mo",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

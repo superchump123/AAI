@@ -1,0 +1,11 @@
+{
+  "id": "36c702ea-53f8-4979-8bfa-91ebae9f0af7",
+  "object": "beer",
+  "name": "Gimble Hop",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cbf6c448-2cef-41e6-a7d6-15964a38d85e",
+  "object": "beer",
+  "name": "Old Red Beard Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

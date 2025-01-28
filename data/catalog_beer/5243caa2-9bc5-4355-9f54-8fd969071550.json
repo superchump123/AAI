@@ -1,0 +1,11 @@
+{
+  "id": "5243caa2-9bc5-4355-9f54-8fd969071550",
+  "object": "beer",
+  "name": "Harvest",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd6bf01e-b9ce-400a-bf6c-c18dd8a49e90",
+  "object": "beer",
+  "name": "Belgian Showers",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

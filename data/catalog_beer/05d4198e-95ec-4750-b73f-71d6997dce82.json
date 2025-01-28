@@ -1,0 +1,11 @@
+{
+  "id": "05d4198e-95ec-4750-b73f-71d6997dce82",
+  "object": "beer",
+  "name": "Cat Fight IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

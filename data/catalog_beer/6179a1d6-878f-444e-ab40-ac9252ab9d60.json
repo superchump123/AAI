@@ -1,0 +1,11 @@
+{
+  "id": "6179a1d6-878f-444e-ab40-ac9252ab9d60",
+  "object": "beer",
+  "name": "Hopulent IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "31069a00-55aa-4f10-9149-49305dcbba86",
+  "object": "beer",
+  "name": "Bigwig Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

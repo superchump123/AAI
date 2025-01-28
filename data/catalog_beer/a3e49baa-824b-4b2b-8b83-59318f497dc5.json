@@ -1,0 +1,11 @@
+{
+  "id": "a3e49baa-824b-4b2b-8b83-59318f497dc5",
+  "object": "beer",
+  "name": "ESB - Early Spring Beer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

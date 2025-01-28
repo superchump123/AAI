@@ -1,0 +1,11 @@
+{
+  "id": "53ea1e2d-2d4b-407e-8df3-cc7275fc0fab",
+  "object": "beer",
+  "name": "Baldwin FishEYE PA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

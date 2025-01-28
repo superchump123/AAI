@@ -1,0 +1,11 @@
+{
+  "id": "19fb7fde-66fd-4291-aeb7-51158fe75f7a",
+  "object": "beer",
+  "name": "Cheap Date",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

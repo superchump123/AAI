@@ -1,0 +1,11 @@
+{
+  "id": "a736263e-1840-45e2-b8f8-6815753f418a",
+  "object": "beer",
+  "name": "Hawk Haus Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

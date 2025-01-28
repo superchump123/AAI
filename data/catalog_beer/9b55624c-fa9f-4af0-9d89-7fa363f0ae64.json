@@ -1,0 +1,11 @@
+{
+  "id": "9b55624c-fa9f-4af0-9d89-7fa363f0ae64",
+  "object": "beer",
+  "name": "Particle City",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

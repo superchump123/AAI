@@ -1,0 +1,11 @@
+{
+  "id": "76b03302-799a-4478-ab19-b5df7dcfb86b",
+  "object": "beer",
+  "name": "Indian Trails IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

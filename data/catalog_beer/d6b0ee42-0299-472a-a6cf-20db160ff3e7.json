@@ -1,0 +1,11 @@
+{
+  "id": "d6b0ee42-0299-472a-a6cf-20db160ff3e7",
+  "object": "beer",
+  "name": "Lobo Oktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

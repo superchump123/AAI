@@ -1,0 +1,11 @@
+{
+  "id": "83af3adc-34e6-4841-a591-5a4cb2e815a5",
+  "object": "beer",
+  "name": "Berliner Weisse",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 2.5,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

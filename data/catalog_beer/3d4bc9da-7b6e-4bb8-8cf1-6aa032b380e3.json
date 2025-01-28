@@ -1,0 +1,11 @@
+{
+  "id": "3d4bc9da-7b6e-4bb8-8cf1-6aa032b380e3",
+  "object": "beer",
+  "name": "Heidi",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b6d461a7-a000-4ff5-9c2f-b4cab1b599a0",
+  "object": "beer",
+  "name": "Weiss-K",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

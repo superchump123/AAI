@@ -1,0 +1,11 @@
+{
+  "id": "fdd5b78e-2b7a-4e0f-8eb9-99cf1b5d00d4",
+  "object": "beer",
+  "name": "CAPSLOCK",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

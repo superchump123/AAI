@@ -1,0 +1,11 @@
+{
+  "id": "28f52353-539c-4c61-9886-224b4bbfeaaa",
+  "object": "beer",
+  "name": "Parcae",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

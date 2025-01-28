@@ -1,0 +1,11 @@
+{
+  "id": "a664f9a2-ee96-4a2c-bf8b-cbb9c1ea1175",
+  "object": "beer",
+  "name": "Mayan Mocha Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

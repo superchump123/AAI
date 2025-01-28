@@ -1,0 +1,11 @@
+{
+  "id": "4a8ec772-f2cb-459e-92c7-fad2ac4f7da2",
+  "object": "beer",
+  "name": "1st Anniversary Black Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

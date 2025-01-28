@@ -1,0 +1,11 @@
+{
+  "id": "9bd9b1d8-8b25-4151-a9fa-d426c8200e36",
+  "object": "beer",
+  "name": "Randy Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

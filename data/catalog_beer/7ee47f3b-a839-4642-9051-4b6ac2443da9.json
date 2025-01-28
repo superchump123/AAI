@@ -1,0 +1,11 @@
+{
+  "id": "7ee47f3b-a839-4642-9051-4b6ac2443da9",
+  "object": "beer",
+  "name": "\u2018Pumperkin\u2019 Pumpkin IPA",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

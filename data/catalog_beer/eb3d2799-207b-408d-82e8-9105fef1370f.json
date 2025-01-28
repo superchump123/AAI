@@ -1,0 +1,11 @@
+{
+  "id": "eb3d2799-207b-408d-82e8-9105fef1370f",
+  "object": "beer",
+  "name": "Public Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

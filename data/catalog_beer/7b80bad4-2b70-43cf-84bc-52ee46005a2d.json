@@ -1,0 +1,11 @@
+{
+  "id": "7b80bad4-2b70-43cf-84bc-52ee46005a2d",
+  "object": "beer",
+  "name": "Belma",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "89d223d8-69b8-4bf4-9ffa-a53fcce9db23",
+  "object": "beer",
+  "name": "Whiffle",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

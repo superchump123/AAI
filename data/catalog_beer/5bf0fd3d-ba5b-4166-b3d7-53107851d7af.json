@@ -1,0 +1,11 @@
+{
+  "id": "5bf0fd3d-ba5b-4166-b3d7-53107851d7af",
+  "object": "beer",
+  "name": "Lizard's Mouth",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

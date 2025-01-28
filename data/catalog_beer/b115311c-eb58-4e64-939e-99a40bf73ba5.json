@@ -1,0 +1,11 @@
+{
+  "id": "b115311c-eb58-4e64-939e-99a40bf73ba5",
+  "object": "beer",
+  "name": "Four Legs Good",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

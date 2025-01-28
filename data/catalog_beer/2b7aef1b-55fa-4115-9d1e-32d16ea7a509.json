@@ -1,0 +1,11 @@
+{
+  "id": "2b7aef1b-55fa-4115-9d1e-32d16ea7a509",
+  "object": "beer",
+  "name": "Kristall Weizen",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "632d9487-aea4-41b8-a330-4311c8c06839",
+  "object": "beer",
+  "name": "Small Batch Callista Red Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

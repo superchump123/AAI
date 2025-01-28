@@ -1,0 +1,11 @@
+{
+  "id": "a792e71d-fc6b-40e1-843a-3d9eab7eccf3",
+  "object": "beer",
+  "name": "New Moon Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

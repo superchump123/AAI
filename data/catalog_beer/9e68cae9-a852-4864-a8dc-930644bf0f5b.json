@@ -1,0 +1,11 @@
+{
+  "id": "9e68cae9-a852-4864-a8dc-930644bf0f5b",
+  "object": "beer",
+  "name": "Soester Weihnachtsbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

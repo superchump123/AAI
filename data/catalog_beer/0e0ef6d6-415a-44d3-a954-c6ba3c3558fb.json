@@ -1,0 +1,11 @@
+{
+  "id": "0e0ef6d6-415a-44d3-a954-c6ba3c3558fb",
+  "object": "beer",
+  "name": "Bottled Landlord",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

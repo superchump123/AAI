@@ -1,0 +1,11 @@
+{
+  "id": "6f749bb8-1545-49fa-ab7b-18c5337b6f4e",
+  "object": "beer",
+  "name": "Sock Knocker",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

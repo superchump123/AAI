@@ -1,0 +1,11 @@
+{
+  "id": "81e0bb3f-6243-4d63-8815-86423b9b420c",
+  "object": "beer",
+  "name": "Juicy Wolf",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

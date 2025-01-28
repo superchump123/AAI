@@ -1,0 +1,11 @@
+{
+  "id": "d80d5b62-bffc-4169-b376-b0716400de94",
+  "object": "beer",
+  "name": "Rye Baby IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

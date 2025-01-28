@@ -1,0 +1,11 @@
+{
+  "id": "5cef8c80-35ed-41cc-b091-9b48bf2cbb43",
+  "object": "beer",
+  "name": "Impromptu Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

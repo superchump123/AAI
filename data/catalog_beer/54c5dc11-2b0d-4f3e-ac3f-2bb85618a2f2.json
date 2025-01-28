@@ -1,0 +1,11 @@
+{
+  "id": "54c5dc11-2b0d-4f3e-ac3f-2bb85618a2f2",
+  "object": "beer",
+  "name": "Hop Shot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 20,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

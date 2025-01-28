@@ -1,0 +1,11 @@
+{
+  "id": "8b4f1155-59d2-4d0c-a85c-caa635fcfbb1",
+  "object": "beer",
+  "name": "Chateau Americana",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

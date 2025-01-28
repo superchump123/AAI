@@ -1,0 +1,11 @@
+{
+  "id": "fd13ec9a-c6e8-441a-97b4-80ed75be3c25",
+  "object": "beer",
+  "name": "Long Dong Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

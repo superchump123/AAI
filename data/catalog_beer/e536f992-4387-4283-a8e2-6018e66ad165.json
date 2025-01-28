@@ -1,0 +1,11 @@
+{
+  "id": "e536f992-4387-4283-a8e2-6018e66ad165",
+  "object": "beer",
+  "name": "Bilbo Baggins",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

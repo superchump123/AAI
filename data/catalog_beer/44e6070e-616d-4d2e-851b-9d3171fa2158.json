@@ -1,0 +1,11 @@
+{
+  "id": "44e6070e-616d-4d2e-851b-9d3171fa2158",
+  "object": "beer",
+  "name": "Vital IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

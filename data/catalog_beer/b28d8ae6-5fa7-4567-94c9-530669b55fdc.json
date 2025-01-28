@@ -1,0 +1,11 @@
+{
+  "id": "b28d8ae6-5fa7-4567-94c9-530669b55fdc",
+  "object": "beer",
+  "name": "Dad's Best Boy",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

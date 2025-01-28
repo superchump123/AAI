@@ -1,0 +1,11 @@
+{
+  "id": "d1b7ca4c-48ca-4107-9d12-3e6c36ec8c92",
+  "object": "beer",
+  "name": "Viridi Rex",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

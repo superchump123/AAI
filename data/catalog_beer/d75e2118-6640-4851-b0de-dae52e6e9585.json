@@ -1,0 +1,11 @@
+{
+  "id": "d75e2118-6640-4851-b0de-dae52e6e9585",
+  "object": "beer",
+  "name": "Beach Blonde Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

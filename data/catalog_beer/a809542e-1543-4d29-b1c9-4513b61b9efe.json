@@ -1,0 +1,11 @@
+{
+  "id": "a809542e-1543-4d29-b1c9-4513b61b9efe",
+  "object": "beer",
+  "name": "Division Order",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

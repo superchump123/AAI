@@ -1,0 +1,11 @@
+{
+  "id": "423ec5e5-9624-484f-9044-6c7f34e36795",
+  "object": "beer",
+  "name": "Razzu",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

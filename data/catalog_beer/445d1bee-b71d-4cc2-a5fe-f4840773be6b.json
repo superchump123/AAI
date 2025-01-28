@@ -1,0 +1,11 @@
+{
+  "id": "445d1bee-b71d-4cc2-a5fe-f4840773be6b",
+  "object": "beer",
+  "name": "Beak Breaker",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

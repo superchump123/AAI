@@ -1,0 +1,11 @@
+{
+  "id": "28ae813a-a97a-4b43-b84b-aa9f9eec773d",
+  "object": "beer",
+  "name": "Nordisk Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "70c0b71c-c298-4fa3-8329-1603e4c55ac2",
+  "object": "beer",
+  "name": "Ojos Locos",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

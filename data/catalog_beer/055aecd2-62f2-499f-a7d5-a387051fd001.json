@@ -1,0 +1,11 @@
+{
+  "id": "055aecd2-62f2-499f-a7d5-a387051fd001",
+  "object": "beer",
+  "name": "Hickson Imperiale IPA",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

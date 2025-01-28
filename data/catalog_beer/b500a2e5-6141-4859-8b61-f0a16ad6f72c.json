@@ -1,0 +1,11 @@
+{
+  "id": "b500a2e5-6141-4859-8b61-f0a16ad6f72c",
+  "object": "beer",
+  "name": "Gristly Bear Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

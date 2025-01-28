@@ -1,0 +1,11 @@
+{
+  "id": "0e9c8f68-9efa-4a7f-8bea-15edfd238d16",
+  "object": "beer",
+  "name": "SMASH",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

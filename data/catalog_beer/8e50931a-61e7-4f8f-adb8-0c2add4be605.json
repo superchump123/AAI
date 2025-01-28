@@ -1,0 +1,11 @@
+{
+  "id": "8e50931a-61e7-4f8f-adb8-0c2add4be605",
+  "object": "beer",
+  "name": "Seizoen Bretta",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

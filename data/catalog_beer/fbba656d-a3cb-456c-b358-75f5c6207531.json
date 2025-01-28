@@ -1,0 +1,11 @@
+{
+  "id": "fbba656d-a3cb-456c-b358-75f5c6207531",
+  "object": "beer",
+  "name": "Beersel Lager",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

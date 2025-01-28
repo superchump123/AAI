@@ -1,0 +1,11 @@
+{
+  "id": "6543b1aa-6ab9-4432-972f-c694f11a99fd",
+  "object": "beer",
+  "name": "Detention Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 118,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

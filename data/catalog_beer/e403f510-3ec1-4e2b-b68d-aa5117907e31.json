@@ -1,0 +1,11 @@
+{
+  "id": "e403f510-3ec1-4e2b-b68d-aa5117907e31",
+  "object": "beer",
+  "name": "Humming Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

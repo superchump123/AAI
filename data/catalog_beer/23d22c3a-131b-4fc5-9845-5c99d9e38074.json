@@ -1,0 +1,11 @@
+{
+  "id": "23d22c3a-131b-4fc5-9845-5c99d9e38074",
+  "object": "beer",
+  "name": "Peek A Brew",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

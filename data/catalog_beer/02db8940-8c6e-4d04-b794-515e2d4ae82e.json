@@ -1,0 +1,11 @@
+{
+  "id": "02db8940-8c6e-4d04-b794-515e2d4ae82e",
+  "object": "beer",
+  "name": "Pingree Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

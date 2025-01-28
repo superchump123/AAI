@@ -1,0 +1,11 @@
+{
+  "id": "4a324784-8502-4050-b0c3-afb4cc3ad669",
+  "object": "beer",
+  "name": "Pied -a- terre",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

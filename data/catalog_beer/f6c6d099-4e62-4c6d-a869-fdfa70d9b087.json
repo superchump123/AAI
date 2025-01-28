@@ -1,0 +1,11 @@
+{
+  "id": "f6c6d099-4e62-4c6d-a869-fdfa70d9b087",
+  "object": "beer",
+  "name": "Jackmans Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

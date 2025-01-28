@@ -1,0 +1,11 @@
+{
+  "id": "736d5e58-4d3c-4c4a-8960-a194e4d3014e",
+  "object": "beer",
+  "name": "Rig Pig Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

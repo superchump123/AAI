@@ -1,0 +1,11 @@
+{
+  "id": "494da507-ac34-4863-bf68-a22dcf61320b",
+  "object": "beer",
+  "name": "Imperial Mild Ale",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

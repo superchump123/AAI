@@ -1,0 +1,11 @@
+{
+  "id": "bcd80811-639a-48fb-bdfa-3da87652929c",
+  "object": "beer",
+  "name": "Oasthouse Wheat Ale",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

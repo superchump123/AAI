@@ -1,0 +1,11 @@
+{
+  "id": "28fd15c2-08b4-4bdd-b677-5db2390a0ebd",
+  "object": "beer",
+  "name": "Hop, Trip & Stumble",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

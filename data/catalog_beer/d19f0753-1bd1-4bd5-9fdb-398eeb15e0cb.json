@@ -1,0 +1,11 @@
+{
+  "id": "d19f0753-1bd1-4bd5-9fdb-398eeb15e0cb",
+  "object": "beer",
+  "name": "Polimango",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

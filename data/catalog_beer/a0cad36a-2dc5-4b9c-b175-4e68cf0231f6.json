@@ -1,0 +1,11 @@
+{
+  "id": "a0cad36a-2dc5-4b9c-b175-4e68cf0231f6",
+  "object": "beer",
+  "name": "Strongarm Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

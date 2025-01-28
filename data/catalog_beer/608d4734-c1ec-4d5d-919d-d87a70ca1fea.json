@@ -1,0 +1,11 @@
+{
+  "id": "608d4734-c1ec-4d5d-919d-d87a70ca1fea",
+  "object": "beer",
+  "name": "Springtime Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

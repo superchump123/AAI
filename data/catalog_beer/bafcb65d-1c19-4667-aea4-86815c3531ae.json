@@ -1,0 +1,11 @@
+{
+  "id": "bafcb65d-1c19-4667-aea4-86815c3531ae",
+  "object": "beer",
+  "name": "Christmas Spirit",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

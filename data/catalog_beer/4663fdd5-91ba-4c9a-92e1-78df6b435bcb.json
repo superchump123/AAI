@@ -1,0 +1,11 @@
+{
+  "id": "4663fdd5-91ba-4c9a-92e1-78df6b435bcb",
+  "object": "beer",
+  "name": "Moat Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

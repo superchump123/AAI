@@ -1,0 +1,11 @@
+{
+  "id": "834a972a-a37a-4e6f-8207-9cd537a6a3e4",
+  "object": "beer",
+  "name": "Box of Beans",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cf726cbc-d609-4bd9-9f9d-b1d5db50e58f",
+  "object": "beer",
+  "name": "Abbey Brune",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

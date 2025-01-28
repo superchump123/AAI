@@ -1,0 +1,11 @@
+{
+  "id": "2db904e6-1588-443a-a32d-2862e33f0a07",
+  "object": "beer",
+  "name": "Samson Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

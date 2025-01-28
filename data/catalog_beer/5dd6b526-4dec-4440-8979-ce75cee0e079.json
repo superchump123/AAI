@@ -1,0 +1,11 @@
+{
+  "id": "5dd6b526-4dec-4440-8979-ce75cee0e079",
+  "object": "beer",
+  "name": "Nitro Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

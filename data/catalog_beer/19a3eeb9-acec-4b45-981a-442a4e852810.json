@@ -1,0 +1,11 @@
+{
+  "id": "19a3eeb9-acec-4b45-981a-442a4e852810",
+  "object": "beer",
+  "name": "Cygnus X-1 Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

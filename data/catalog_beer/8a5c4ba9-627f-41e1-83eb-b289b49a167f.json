@@ -1,0 +1,11 @@
+{
+  "id": "8a5c4ba9-627f-41e1-83eb-b289b49a167f",
+  "object": "beer",
+  "name": "Rebel County Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

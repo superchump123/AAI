@@ -1,0 +1,11 @@
+{
+  "id": "abc4e93a-f7e2-479a-bf8a-86bba26ee8f0",
+  "object": "beer",
+  "name": "Bischoff Donnersberger",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

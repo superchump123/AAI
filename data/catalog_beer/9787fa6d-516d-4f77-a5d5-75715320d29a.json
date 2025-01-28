@@ -1,0 +1,11 @@
+{
+  "id": "9787fa6d-516d-4f77-a5d5-75715320d29a",
+  "object": "beer",
+  "name": "Hep Cat",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

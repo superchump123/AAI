@@ -1,0 +1,11 @@
+{
+  "id": "4c625263-c2be-4a08-8fb2-ea40214c6710",
+  "object": "beer",
+  "name": "Beth Sour Ale",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 12,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

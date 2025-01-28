@@ -1,0 +1,11 @@
+{
+  "id": "7cb6f132-c255-4595-bbba-a5a9fe405d0b",
+  "object": "beer",
+  "name": "Power of the Voodoo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

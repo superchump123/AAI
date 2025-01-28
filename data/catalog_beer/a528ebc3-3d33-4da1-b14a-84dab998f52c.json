@@ -1,0 +1,11 @@
+{
+  "id": "a528ebc3-3d33-4da1-b14a-84dab998f52c",
+  "object": "beer",
+  "name": "The Saucony Sessions",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

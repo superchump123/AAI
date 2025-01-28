@@ -1,0 +1,11 @@
+{
+  "id": "ff0b1343-a204-42b7-98b2-5593f9cfbae6",
+  "object": "beer",
+  "name": "Timmy T's English Pale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

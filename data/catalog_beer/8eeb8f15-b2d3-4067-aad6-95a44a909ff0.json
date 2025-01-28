@@ -1,0 +1,11 @@
+{
+  "id": "8eeb8f15-b2d3-4067-aad6-95a44a909ff0",
+  "object": "beer",
+  "name": "Marquette Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7ed2585e-43f5-4a69-9875-a0b8bdb55bdf",
+  "object": "beer",
+  "name": "Mamba",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

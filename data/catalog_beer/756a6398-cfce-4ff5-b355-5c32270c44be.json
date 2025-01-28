@@ -1,0 +1,11 @@
+{
+  "id": "756a6398-cfce-4ff5-b355-5c32270c44be",
+  "object": "beer",
+  "name": "Calypso",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

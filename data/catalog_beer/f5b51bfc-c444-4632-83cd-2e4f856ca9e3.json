@@ -1,0 +1,11 @@
+{
+  "id": "f5b51bfc-c444-4632-83cd-2e4f856ca9e3",
+  "object": "beer",
+  "name": "Saison du Flounder",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

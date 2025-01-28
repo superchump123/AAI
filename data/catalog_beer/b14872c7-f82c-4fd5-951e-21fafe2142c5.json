@@ -1,0 +1,11 @@
+{
+  "id": "b14872c7-f82c-4fd5-951e-21fafe2142c5",
+  "object": "beer",
+  "name": "Stitchbuster",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

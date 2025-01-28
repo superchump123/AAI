@@ -1,0 +1,11 @@
+{
+  "id": "2a1e013c-ec2e-4c1f-870d-38c854e32c4d",
+  "object": "beer",
+  "name": "Lucky 25",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

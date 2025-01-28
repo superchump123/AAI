@@ -1,0 +1,11 @@
+{
+  "id": "695f7ab8-daa9-4179-82cf-9878f8131e9b",
+  "object": "beer",
+  "name": "Pickman's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "55d00512-c810-4c86-9228-d4dbd4287ef4",
+  "object": "beer",
+  "name": "Bath Star",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

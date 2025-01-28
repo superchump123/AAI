@@ -1,0 +1,11 @@
+{
+  "id": "27cf9775-22ba-4c3e-9e3d-17bf7468df06",
+  "object": "beer",
+  "name": "The Crystal Sphere",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

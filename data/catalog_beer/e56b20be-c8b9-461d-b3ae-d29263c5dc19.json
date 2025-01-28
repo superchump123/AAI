@@ -1,0 +1,11 @@
+{
+  "id": "e56b20be-c8b9-461d-b3ae-d29263c5dc19",
+  "object": "beer",
+  "name": "Oerbier",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

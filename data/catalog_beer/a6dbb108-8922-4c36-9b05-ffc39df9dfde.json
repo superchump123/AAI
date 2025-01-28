@@ -1,0 +1,11 @@
+{
+  "id": "a6dbb108-8922-4c36-9b05-ffc39df9dfde",
+  "object": "beer",
+  "name": "Sirin Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

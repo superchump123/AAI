@@ -1,0 +1,11 @@
+{
+  "id": "de1b9eb4-c47a-4842-90e0-68587f87a686",
+  "object": "beer",
+  "name": "Wee Heavy Champ",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

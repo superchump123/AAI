@@ -1,0 +1,11 @@
+{
+  "id": "aee4b4f5-d48f-4c6e-b034-3cc137a84cde",
+  "object": "beer",
+  "name": "Cream City Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

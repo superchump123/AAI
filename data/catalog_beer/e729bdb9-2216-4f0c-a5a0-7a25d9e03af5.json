@@ -1,0 +1,11 @@
+{
+  "id": "e729bdb9-2216-4f0c-a5a0-7a25d9e03af5",
+  "object": "beer",
+  "name": "St. Nick's Porter",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

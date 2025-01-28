@@ -1,0 +1,11 @@
+{
+  "id": "e35b8e9e-eff3-429d-b0e2-e2899c888e17",
+  "object": "beer",
+  "name": "Basil's Rocket Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

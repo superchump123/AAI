@@ -1,0 +1,11 @@
+{
+  "id": "32d9d81c-281c-40d5-a5b5-ffe8e9ab8fee",
+  "object": "beer",
+  "name": "Big Sister",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e7255653-c7ae-4f98-93fd-d0e9f965c152",
+  "object": "beer",
+  "name": "Smittytown",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

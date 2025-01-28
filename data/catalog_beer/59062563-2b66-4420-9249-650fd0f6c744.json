@@ -1,0 +1,11 @@
+{
+  "id": "59062563-2b66-4420-9249-650fd0f6c744",
+  "object": "beer",
+  "name": "Small Batch: Mandarina Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

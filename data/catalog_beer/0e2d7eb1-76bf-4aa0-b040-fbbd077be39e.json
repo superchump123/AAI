@@ -1,0 +1,11 @@
+{
+  "id": "0e2d7eb1-76bf-4aa0-b040-fbbd077be39e",
+  "object": "beer",
+  "name": "I Can't C U",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

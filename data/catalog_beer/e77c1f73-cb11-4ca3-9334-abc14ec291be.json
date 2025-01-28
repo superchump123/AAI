@@ -1,0 +1,11 @@
+{
+  "id": "e77c1f73-cb11-4ca3-9334-abc14ec291be",
+  "object": "beer",
+  "name": "A Special Kind Of Evil",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

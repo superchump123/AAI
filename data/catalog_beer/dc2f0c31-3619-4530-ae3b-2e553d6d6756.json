@@ -1,0 +1,11 @@
+{
+  "id": "dc2f0c31-3619-4530-ae3b-2e553d6d6756",
+  "object": "beer",
+  "name": "The Pugilist",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

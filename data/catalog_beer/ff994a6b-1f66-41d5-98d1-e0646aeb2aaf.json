@@ -1,0 +1,11 @@
+{
+  "id": "ff994a6b-1f66-41d5-98d1-e0646aeb2aaf",
+  "object": "beer",
+  "name": "Hoptail IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

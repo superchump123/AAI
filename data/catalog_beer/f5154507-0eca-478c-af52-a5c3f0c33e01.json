@@ -1,0 +1,11 @@
+{
+  "id": "f5154507-0eca-478c-af52-a5c3f0c33e01",
+  "object": "beer",
+  "name": "Stave It For Later",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

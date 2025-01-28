@@ -1,0 +1,11 @@
+{
+  "id": "267168ee-312b-43ae-8566-70f5bd4e88dd",
+  "object": "beer",
+  "name": "Kalamazoo IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

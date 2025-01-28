@@ -1,0 +1,11 @@
+{
+  "id": "891c79bb-20bd-4c61-a028-0e54deccf296",
+  "object": "beer",
+  "name": "Dragonslayer Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

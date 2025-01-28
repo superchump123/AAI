@@ -1,0 +1,11 @@
+{
+  "id": "4a77a7a9-84cc-483d-9c50-eb0fd323d652",
+  "object": "beer",
+  "name": "Intolerance Pale Ale",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

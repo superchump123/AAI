@@ -1,0 +1,11 @@
+{
+  "id": "db40cda1-1209-497f-87ad-b5f1e21272cd",
+  "object": "beer",
+  "name": "Chai Tea Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e9e7de08-eba5-4185-8a21-f71ddb750d53",
+  "object": "beer",
+  "name": "Unchained 24: Spring Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

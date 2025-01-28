@@ -1,0 +1,11 @@
+{
+  "id": "75bc5bc5-4703-4710-a10a-52cf84c33a45",
+  "object": "beer",
+  "name": "King of Hop",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

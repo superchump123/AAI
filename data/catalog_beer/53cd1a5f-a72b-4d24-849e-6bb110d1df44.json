@@ -1,0 +1,11 @@
+{
+  "id": "53cd1a5f-a72b-4d24-849e-6bb110d1df44",
+  "object": "beer",
+  "name": "Cutlass",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

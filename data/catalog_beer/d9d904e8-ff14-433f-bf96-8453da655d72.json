@@ -1,0 +1,11 @@
+{
+  "id": "d9d904e8-ff14-433f-bf96-8453da655d72",
+  "object": "beer",
+  "name": "Stoup Northwest Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

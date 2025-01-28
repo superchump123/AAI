@@ -1,0 +1,11 @@
+{
+  "id": "4e554675-5453-4030-93be-7baeb2c6ffe1",
+  "object": "beer",
+  "name": "Schneider Weisse",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

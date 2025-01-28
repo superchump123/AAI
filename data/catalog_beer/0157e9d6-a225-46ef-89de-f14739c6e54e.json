@@ -1,0 +1,11 @@
+{
+  "id": "0157e9d6-a225-46ef-89de-f14739c6e54e",
+  "object": "beer",
+  "name": "Chaparral Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

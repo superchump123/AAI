@@ -1,0 +1,11 @@
+{
+  "id": "8289fb78-a0bf-43ca-87a1-6df3e6ff0f82",
+  "object": "beer",
+  "name": "12th Anniversary Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

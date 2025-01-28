@@ -1,0 +1,11 @@
+{
+  "id": "e70f7552-f41f-4388-ae08-f161a2ce9ce3",
+  "object": "beer",
+  "name": "LeMonster",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

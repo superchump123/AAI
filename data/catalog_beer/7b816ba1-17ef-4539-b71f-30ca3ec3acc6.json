@@ -1,0 +1,11 @@
+{
+  "id": "7b816ba1-17ef-4539-b71f-30ca3ec3acc6",
+  "object": "beer",
+  "name": "Crater Lake",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

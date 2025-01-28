@@ -1,0 +1,11 @@
+{
+  "id": "43bafd02-7961-4726-a482-00db83c14942",
+  "object": "beer",
+  "name": "Liquid Vinyl",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ef5fe1ed-328e-42f2-8948-a32116a4ae59",
+  "object": "beer",
+  "name": "Peaotch",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

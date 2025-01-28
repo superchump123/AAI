@@ -1,0 +1,11 @@
+{
+  "id": "2a5815d9-bfdd-4eff-8d8c-459cf06fb09d",
+  "object": "beer",
+  "name": "Sorachi Dollar",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "75bf9347-354a-4069-ad36-ccb37fc9a1a5",
+  "object": "beer",
+  "name": "20th Anniversary Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

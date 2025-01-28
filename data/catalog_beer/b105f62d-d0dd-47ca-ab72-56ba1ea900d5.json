@@ -1,0 +1,11 @@
+{
+  "id": "b105f62d-d0dd-47ca-ab72-56ba1ea900d5",
+  "object": "beer",
+  "name": "Tropical Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

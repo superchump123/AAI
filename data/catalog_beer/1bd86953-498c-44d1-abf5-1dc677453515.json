@@ -1,0 +1,11 @@
+{
+  "id": "1bd86953-498c-44d1-abf5-1dc677453515",
+  "object": "beer",
+  "name": "Maillard's Odyssey",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

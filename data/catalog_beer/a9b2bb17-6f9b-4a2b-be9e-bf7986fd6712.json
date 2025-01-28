@@ -1,0 +1,11 @@
+{
+  "id": "a9b2bb17-6f9b-4a2b-be9e-bf7986fd6712",
+  "object": "beer",
+  "name": "Nectar",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

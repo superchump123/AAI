@@ -1,0 +1,11 @@
+{
+  "id": "5397439b-efde-4a5f-b6a2-1d81853d2276",
+  "object": "beer",
+  "name": "Thai Tea Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1bd69110-e899-403a-877c-6600c3fc2990",
+  "object": "beer",
+  "name": "SPF 50/50",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

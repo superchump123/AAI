@@ -1,0 +1,11 @@
+{
+  "id": "68b04ca7-3ace-459e-91df-d1cca4277302",
+  "object": "beer",
+  "name": "Poop Deck",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

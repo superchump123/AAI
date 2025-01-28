@@ -1,0 +1,11 @@
+{
+  "id": "2b4d4060-b440-4aa4-af4a-f199163cc53a",
+  "object": "beer",
+  "name": "World Beer Fest Beer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

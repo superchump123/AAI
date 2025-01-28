@@ -1,0 +1,11 @@
+{
+  "id": "a6ed2289-234a-4ea2-ae01-b6e8cdc14d94",
+  "object": "beer",
+  "name": "French Summer Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

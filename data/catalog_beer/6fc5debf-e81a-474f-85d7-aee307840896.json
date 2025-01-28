@@ -1,0 +1,11 @@
+{
+  "id": "6fc5debf-e81a-474f-85d7-aee307840896",
+  "object": "beer",
+  "name": "Raspberry Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

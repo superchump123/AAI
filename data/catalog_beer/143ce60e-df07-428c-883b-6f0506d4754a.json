@@ -1,0 +1,11 @@
+{
+  "id": "143ce60e-df07-428c-883b-6f0506d4754a",
+  "object": "beer",
+  "name": "Vanilla Bandit",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

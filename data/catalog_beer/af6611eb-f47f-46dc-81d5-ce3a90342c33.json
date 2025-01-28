@@ -1,0 +1,11 @@
+{
+  "id": "af6611eb-f47f-46dc-81d5-ce3a90342c33",
+  "object": "beer",
+  "name": "Kingpin",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

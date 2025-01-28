@@ -1,0 +1,11 @@
+{
+  "id": "ad6cdee8-f16a-4735-b8dd-4b4da248140c",
+  "object": "beer",
+  "name": "Shield Maiden",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d7eab67b-1f59-4ee4-bdea-9fe8111f9180",
+  "object": "beer",
+  "name": "Wildflower Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

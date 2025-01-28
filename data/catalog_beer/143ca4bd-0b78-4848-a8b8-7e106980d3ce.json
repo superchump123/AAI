@@ -1,0 +1,11 @@
+{
+  "id": "143ca4bd-0b78-4848-a8b8-7e106980d3ce",
+  "object": "beer",
+  "name": "Summer Vice",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

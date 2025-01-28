@@ -1,0 +1,11 @@
+{
+  "id": "d9fb8f1f-f506-4240-9290-515a86677d10",
+  "object": "beer",
+  "name": "BATCH 88",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

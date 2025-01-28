@@ -1,0 +1,11 @@
+{
+  "id": "72213c49-6f78-449f-86d9-0590b741e711",
+  "object": "beer",
+  "name": "El Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

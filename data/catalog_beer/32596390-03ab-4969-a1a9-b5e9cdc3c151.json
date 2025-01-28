@@ -1,0 +1,11 @@
+{
+  "id": "32596390-03ab-4969-a1a9-b5e9cdc3c151",
+  "object": "beer",
+  "name": "Turtles On Pterodactyls",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

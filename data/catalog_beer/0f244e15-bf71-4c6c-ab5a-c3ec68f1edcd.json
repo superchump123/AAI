@@ -1,0 +1,11 @@
+{
+  "id": "0f244e15-bf71-4c6c-ab5a-c3ec68f1edcd",
+  "object": "beer",
+  "name": "Sticke Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

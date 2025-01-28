@@ -1,0 +1,11 @@
+{
+  "id": "3bf09c1a-e506-4e8c-939e-c855cf228684",
+  "object": "beer",
+  "name": "Moocowponcho",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

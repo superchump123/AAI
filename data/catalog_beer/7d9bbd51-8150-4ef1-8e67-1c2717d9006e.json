@@ -1,0 +1,11 @@
+{
+  "id": "7d9bbd51-8150-4ef1-8e67-1c2717d9006e",
+  "object": "beer",
+  "name": "Cowbell",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

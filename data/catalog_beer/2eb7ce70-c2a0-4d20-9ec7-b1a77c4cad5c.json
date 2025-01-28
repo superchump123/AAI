@@ -1,0 +1,11 @@
+{
+  "id": "2eb7ce70-c2a0-4d20-9ec7-b1a77c4cad5c",
+  "object": "beer",
+  "name": "Oatis Redding",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

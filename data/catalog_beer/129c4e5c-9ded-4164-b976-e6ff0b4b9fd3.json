@@ -1,0 +1,11 @@
+{
+  "id": "129c4e5c-9ded-4164-b976-e6ff0b4b9fd3",
+  "object": "beer",
+  "name": "The Physics",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

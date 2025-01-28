@@ -1,0 +1,11 @@
+{
+  "id": "1bc7585b-801d-4fa7-9db6-7616b3759a94",
+  "object": "beer",
+  "name": "Trouble Ahead",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

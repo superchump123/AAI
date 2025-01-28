@@ -1,0 +1,11 @@
+{
+  "id": "5262ab43-0225-485c-9de8-9963cb72e9f8",
+  "object": "beer",
+  "name": "Black Nymph",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

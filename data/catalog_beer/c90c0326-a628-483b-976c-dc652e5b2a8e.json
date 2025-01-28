@@ -1,0 +1,11 @@
+{
+  "id": "c90c0326-a628-483b-976c-dc652e5b2a8e",
+  "object": "beer",
+  "name": "Deer Beer Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

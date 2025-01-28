@@ -1,0 +1,11 @@
+{
+  "id": "064295ed-5c3e-4ed3-9438-15728255d635",
+  "object": "beer",
+  "name": "Mash & Grind",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

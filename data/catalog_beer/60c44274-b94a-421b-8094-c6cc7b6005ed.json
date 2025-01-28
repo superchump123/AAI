@@ -1,0 +1,11 @@
+{
+  "id": "60c44274-b94a-421b-8094-c6cc7b6005ed",
+  "object": "beer",
+  "name": "Poffo Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

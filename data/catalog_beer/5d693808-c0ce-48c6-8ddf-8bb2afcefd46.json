@@ -1,0 +1,11 @@
+{
+  "id": "5d693808-c0ce-48c6-8ddf-8bb2afcefd46",
+  "object": "beer",
+  "name": "Speight's Gold Medal Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

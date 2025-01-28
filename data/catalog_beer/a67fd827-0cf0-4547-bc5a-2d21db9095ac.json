@@ -1,0 +1,11 @@
+{
+  "id": "a67fd827-0cf0-4547-bc5a-2d21db9095ac",
+  "object": "beer",
+  "name": "Suleiman Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "62d00f5b-b3d0-43d9-869f-0ff95bd71936",
+  "object": "beer",
+  "name": "High Living",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

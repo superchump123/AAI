@@ -1,0 +1,11 @@
+{
+  "id": "fe486dbb-2953-4032-95ec-d969e41d80d1",
+  "object": "beer",
+  "name": "Cool Your Jets Saison",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

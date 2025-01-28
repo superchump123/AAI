@@ -1,0 +1,11 @@
+{
+  "id": "80c370ca-22b8-4141-8795-ac55b7354e7b",
+  "object": "beer",
+  "name": "Peanut Butter & Jelly",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

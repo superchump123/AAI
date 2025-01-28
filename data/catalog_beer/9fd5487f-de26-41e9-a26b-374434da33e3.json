@@ -1,0 +1,11 @@
+{
+  "id": "9fd5487f-de26-41e9-a26b-374434da33e3",
+  "object": "beer",
+  "name": "Tasmania Wild Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

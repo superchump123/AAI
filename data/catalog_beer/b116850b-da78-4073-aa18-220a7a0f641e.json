@@ -1,0 +1,11 @@
+{
+  "id": "b116850b-da78-4073-aa18-220a7a0f641e",
+  "object": "beer",
+  "name": "Witbier",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

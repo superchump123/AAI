@@ -1,0 +1,11 @@
+{
+  "id": "0fd344eb-5dce-4854-8dbb-a7962d0bfd2b",
+  "object": "beer",
+  "name": "3rd Conversation",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "57694e46-3819-4330-9484-5a4217d4cac8",
+  "object": "beer",
+  "name": "Boar Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

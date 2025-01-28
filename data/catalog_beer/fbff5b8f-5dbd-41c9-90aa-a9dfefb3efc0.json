@@ -1,0 +1,11 @@
+{
+  "id": "fbff5b8f-5dbd-41c9-90aa-a9dfefb3efc0",
+  "object": "beer",
+  "name": "Drink'in the Sunbelt",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

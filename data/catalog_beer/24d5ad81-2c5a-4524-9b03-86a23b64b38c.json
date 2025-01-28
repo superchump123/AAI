@@ -1,0 +1,11 @@
+{
+  "id": "24d5ad81-2c5a-4524-9b03-86a23b64b38c",
+  "object": "beer",
+  "name": "Pumpkin Brown",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

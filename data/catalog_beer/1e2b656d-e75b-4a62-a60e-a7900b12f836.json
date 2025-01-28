@@ -1,0 +1,11 @@
+{
+  "id": "1e2b656d-e75b-4a62-a60e-a7900b12f836",
+  "object": "beer",
+  "name": "Alien AutHOPsy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

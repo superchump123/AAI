@@ -1,0 +1,11 @@
+{
+  "id": "87d5b51e-527a-4367-b186-ba0c75764797",
+  "object": "beer",
+  "name": "Lil' Nug",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

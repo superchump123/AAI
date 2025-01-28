@@ -1,0 +1,11 @@
+{
+  "id": "59f95c36-8fe6-4889-99d5-6eae7afe87d4",
+  "object": "beer",
+  "name": "Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

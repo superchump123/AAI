@@ -1,0 +1,11 @@
+{
+  "id": "2ed2957c-22ae-40d2-86a3-70c2a29df800",
+  "object": "beer",
+  "name": "Uncle Leo's Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b74b1020-7b45-4ae7-9a7a-6fa7ba85d035",
+  "object": "beer",
+  "name": "Midnight Dream",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 16,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

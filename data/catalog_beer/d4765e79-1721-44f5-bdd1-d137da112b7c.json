@@ -1,0 +1,11 @@
+{
+  "id": "d4765e79-1721-44f5-bdd1-d137da112b7c",
+  "object": "beer",
+  "name": "Big Wheel Deluxe Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

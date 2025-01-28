@@ -1,0 +1,11 @@
+{
+  "id": "d154fca4-2858-4ae7-86e4-49d60e756de8",
+  "object": "beer",
+  "name": "Pathos",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

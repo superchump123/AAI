@@ -1,0 +1,11 @@
+{
+  "id": "a39ae420-47c4-4f8c-9166-726652ec8f7e",
+  "object": "beer",
+  "name": "Rasputin",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b0ec7ae6-72a3-43bb-b2ee-fe9bd70a0e18",
+  "object": "beer",
+  "name": "Belgian Rye",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

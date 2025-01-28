@@ -1,0 +1,11 @@
+{
+  "id": "881ebf33-6304-4a4e-aa27-97cf74df0d40",
+  "object": "beer",
+  "name": "Bear Naked Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

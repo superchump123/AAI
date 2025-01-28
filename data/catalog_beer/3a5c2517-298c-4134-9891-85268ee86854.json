@@ -1,0 +1,11 @@
+{
+  "id": "3a5c2517-298c-4134-9891-85268ee86854",
+  "object": "beer",
+  "name": "Darkside Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

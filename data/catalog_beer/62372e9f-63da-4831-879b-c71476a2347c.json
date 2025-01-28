@@ -1,0 +1,11 @@
+{
+  "id": "62372e9f-63da-4831-879b-c71476a2347c",
+  "object": "beer",
+  "name": "Macadamia Nut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e0d95527-1962-4566-98ee-d493271b8eb1",
+  "object": "beer",
+  "name": "Red Dog Rye",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4199fd89-03b4-445e-b14f-16ef68e112ef",
+  "object": "beer",
+  "name": "Hammerhead IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ff5d0c6d-e799-472e-9645-5beb89dd527a",
+  "object": "beer",
+  "name": "Rostocker Freibeuter",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

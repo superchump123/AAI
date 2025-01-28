@@ -1,0 +1,11 @@
+{
+  "id": "cc466a73-6c8e-45ce-8bb8-708392082469",
+  "object": "beer",
+  "name": "Gateway IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

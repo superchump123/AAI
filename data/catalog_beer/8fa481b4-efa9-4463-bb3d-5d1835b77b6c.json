@@ -1,0 +1,11 @@
+{
+  "id": "8fa481b4-efa9-4463-bb3d-5d1835b77b6c",
+  "object": "beer",
+  "name": "Bran",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

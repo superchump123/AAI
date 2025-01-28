@@ -1,0 +1,11 @@
+{
+  "id": "ac9c99ae-1972-4d69-a6a9-e9fe939ef0a3",
+  "object": "beer",
+  "name": "Amber Waves",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

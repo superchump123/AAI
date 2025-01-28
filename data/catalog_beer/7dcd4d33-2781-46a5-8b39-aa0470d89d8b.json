@@ -1,0 +1,11 @@
+{
+  "id": "7dcd4d33-2781-46a5-8b39-aa0470d89d8b",
+  "object": "beer",
+  "name": "Shiner Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8ed5ea4e-6a15-44d0-b040-96193024765a",
+  "object": "beer",
+  "name": "Meister Pilsener",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

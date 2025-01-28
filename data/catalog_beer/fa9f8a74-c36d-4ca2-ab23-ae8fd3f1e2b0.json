@@ -1,0 +1,11 @@
+{
+  "id": "fa9f8a74-c36d-4ca2-ab23-ae8fd3f1e2b0",
+  "object": "beer",
+  "name": "Saison Revolution",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

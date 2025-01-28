@@ -1,0 +1,11 @@
+{
+  "id": "72a71094-3455-40a8-8c18-a0f8d20faa60",
+  "object": "beer",
+  "name": "Absolution",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

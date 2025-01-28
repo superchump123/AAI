@@ -1,0 +1,11 @@
+{
+  "id": "290da52b-ad4a-4043-a091-80f4aa15f1cb",
+  "object": "beer",
+  "name": "Grok IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

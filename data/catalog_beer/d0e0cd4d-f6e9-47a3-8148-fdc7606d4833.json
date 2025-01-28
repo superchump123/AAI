@@ -1,0 +1,11 @@
+{
+  "id": "d0e0cd4d-f6e9-47a3-8148-fdc7606d4833",
+  "object": "beer",
+  "name": "Batch 100",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

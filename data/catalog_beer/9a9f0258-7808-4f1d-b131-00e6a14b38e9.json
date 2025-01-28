@@ -1,0 +1,11 @@
+{
+  "id": "9a9f0258-7808-4f1d-b131-00e6a14b38e9",
+  "object": "beer",
+  "name": "BA Grand Cru",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "927cc1ce-45c6-4bb3-b551-893ffcc5d98d",
+  "object": "beer",
+  "name": "Papa Doble",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

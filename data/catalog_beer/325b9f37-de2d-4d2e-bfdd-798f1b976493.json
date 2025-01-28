@@ -1,0 +1,11 @@
+{
+  "id": "325b9f37-de2d-4d2e-bfdd-798f1b976493",
+  "object": "beer",
+  "name": "Longbow Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

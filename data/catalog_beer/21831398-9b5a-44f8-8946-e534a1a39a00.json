@@ -1,0 +1,11 @@
+{
+  "id": "21831398-9b5a-44f8-8946-e534a1a39a00",
+  "object": "beer",
+  "name": "Red Llama",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

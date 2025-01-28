@@ -1,0 +1,11 @@
+{
+  "id": "5997b022-4741-4921-b0cd-ed1cf03848be",
+  "object": "beer",
+  "name": "Danny Brau",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

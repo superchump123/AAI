@@ -1,0 +1,11 @@
+{
+  "id": "62fc13cb-ddde-4686-9921-4c30d44056c3",
+  "object": "beer",
+  "name": "A Little Hoppy",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

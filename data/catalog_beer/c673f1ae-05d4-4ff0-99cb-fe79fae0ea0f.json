@@ -1,0 +1,11 @@
+{
+  "id": "c673f1ae-05d4-4ff0-99cb-fe79fae0ea0f",
+  "object": "beer",
+  "name": "Cask Aged Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

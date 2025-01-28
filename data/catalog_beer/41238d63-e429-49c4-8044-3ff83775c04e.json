@@ -1,0 +1,11 @@
+{
+  "id": "41238d63-e429-49c4-8044-3ff83775c04e",
+  "object": "beer",
+  "name": "Blue Collar",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

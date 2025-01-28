@@ -1,0 +1,11 @@
+{
+  "id": "36334ca2-3916-4206-a570-360e31f6cba3",
+  "object": "beer",
+  "name": "Hellroaring",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

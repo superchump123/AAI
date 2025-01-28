@@ -1,0 +1,11 @@
+{
+  "id": "e3c13fc4-745d-472e-832f-2244f84bec7b",
+  "object": "beer",
+  "name": "Pixelated Commando",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

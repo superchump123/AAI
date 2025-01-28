@@ -1,0 +1,11 @@
+{
+  "id": "90c01ced-0899-4e4f-8d4a-82e8dc6ac045",
+  "object": "beer",
+  "name": "Little Bo Pivo",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

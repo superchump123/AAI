@@ -1,0 +1,11 @@
+{
+  "id": "8e0d541c-b52a-4bea-9295-9e954ad541cb",
+  "object": "beer",
+  "name": "Spring Reign",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

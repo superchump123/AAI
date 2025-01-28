@@ -1,0 +1,11 @@
+{
+  "id": "b70d6c59-05ce-4c4d-98f1-c53e9ff021b7",
+  "object": "beer",
+  "name": "Tritonia",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

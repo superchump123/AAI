@@ -1,0 +1,11 @@
+{
+  "id": "9b47f789-8c5b-4174-8776-3952a0b6c716",
+  "object": "beer",
+  "name": "Massacre",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

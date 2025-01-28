@@ -1,0 +1,11 @@
+{
+  "id": "1631aac6-010e-4949-b1e1-fc26afaf47c1",
+  "object": "beer",
+  "name": "Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bdaf5a40-fb9e-4de9-9c3a-aaf2fee47733",
+  "object": "beer",
+  "name": "Miracle Off 28th Street",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

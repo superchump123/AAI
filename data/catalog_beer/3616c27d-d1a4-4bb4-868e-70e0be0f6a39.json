@@ -1,0 +1,11 @@
+{
+  "id": "3616c27d-d1a4-4bb4-868e-70e0be0f6a39",
+  "object": "beer",
+  "name": "Baphomet Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

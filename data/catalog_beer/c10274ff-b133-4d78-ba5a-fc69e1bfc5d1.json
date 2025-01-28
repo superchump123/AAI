@@ -1,0 +1,11 @@
+{
+  "id": "c10274ff-b133-4d78-ba5a-fc69e1bfc5d1",
+  "object": "beer",
+  "name": "La Brea Brown",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

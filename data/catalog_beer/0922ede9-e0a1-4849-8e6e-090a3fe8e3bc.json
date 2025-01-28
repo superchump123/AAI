@@ -1,0 +1,11 @@
+{
+  "id": "0922ede9-e0a1-4849-8e6e-090a3fe8e3bc",
+  "object": "beer",
+  "name": "Centennial Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

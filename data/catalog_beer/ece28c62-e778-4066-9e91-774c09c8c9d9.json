@@ -1,0 +1,11 @@
+{
+  "id": "ece28c62-e778-4066-9e91-774c09c8c9d9",
+  "object": "beer",
+  "name": "South Dock",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

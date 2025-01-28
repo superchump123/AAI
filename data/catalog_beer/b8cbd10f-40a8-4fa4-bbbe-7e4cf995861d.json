@@ -1,0 +1,11 @@
+{
+  "id": "b8cbd10f-40a8-4fa4-bbbe-7e4cf995861d",
+  "object": "beer",
+  "name": "Totes McOats",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

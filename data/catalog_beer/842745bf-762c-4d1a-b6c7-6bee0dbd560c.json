@@ -1,0 +1,11 @@
+{
+  "id": "842745bf-762c-4d1a-b6c7-6bee0dbd560c",
+  "object": "beer",
+  "name": "Monsooner",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bde5f85f-50b4-47d2-890a-24f6a3597674",
+  "object": "beer",
+  "name": "ESA",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

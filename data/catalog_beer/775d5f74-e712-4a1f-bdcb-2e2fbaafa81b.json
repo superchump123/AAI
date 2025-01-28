@@ -1,0 +1,11 @@
+{
+  "id": "775d5f74-e712-4a1f-bdcb-2e2fbaafa81b",
+  "object": "beer",
+  "name": "Snow Roller",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

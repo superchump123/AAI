@@ -1,0 +1,11 @@
+{
+  "id": "ca646d3f-76af-4ad1-937f-1bfc87d8842b",
+  "object": "beer",
+  "name": "DUDE",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

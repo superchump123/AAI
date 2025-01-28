@@ -1,0 +1,11 @@
+{
+  "id": "0e703c14-b43e-485c-a60f-7f7623a49a7a",
+  "object": "beer",
+  "name": "Impish Iguana",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

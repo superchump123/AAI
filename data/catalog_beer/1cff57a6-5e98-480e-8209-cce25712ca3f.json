@@ -1,0 +1,11 @@
+{
+  "id": "1cff57a6-5e98-480e-8209-cce25712ca3f",
+  "object": "beer",
+  "name": "Afternoon D-light",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

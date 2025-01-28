@@ -1,0 +1,11 @@
+{
+  "id": "f375f2f5-e085-4f59-8812-4cd76ccd5f49",
+  "object": "beer",
+  "name": "Bourbon Barrel Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 9,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

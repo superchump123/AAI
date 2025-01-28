@@ -1,0 +1,11 @@
+{
+  "id": "227b85af-5a2d-4109-9711-ec76d791cdba",
+  "object": "beer",
+  "name": "Nut Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

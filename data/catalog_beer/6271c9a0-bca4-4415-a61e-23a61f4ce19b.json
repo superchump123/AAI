@@ -1,0 +1,11 @@
+{
+  "id": "6271c9a0-bca4-4415-a61e-23a61f4ce19b",
+  "object": "beer",
+  "name": "Sidra Con Mora",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

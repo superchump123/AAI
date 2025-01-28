@@ -1,0 +1,11 @@
+{
+  "id": "83ff7f68-011c-4203-9c85-011736df07aa",
+  "object": "beer",
+  "name": "Dead Flowers",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

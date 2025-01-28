@@ -1,0 +1,11 @@
+{
+  "id": "e8ccbb6c-ac70-4e86-b218-b0e2a31a8c6d",
+  "object": "beer",
+  "name": "Black Talon R.I.S.",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

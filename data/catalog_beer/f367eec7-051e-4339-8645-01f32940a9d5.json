@@ -1,0 +1,11 @@
+{
+  "id": "f367eec7-051e-4339-8645-01f32940a9d5",
+  "object": "beer",
+  "name": "Biophilia Rousse",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

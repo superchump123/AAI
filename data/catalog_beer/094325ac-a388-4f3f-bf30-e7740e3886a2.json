@@ -1,0 +1,11 @@
+{
+  "id": "094325ac-a388-4f3f-bf30-e7740e3886a2",
+  "object": "beer",
+  "name": "2-Wheeler Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

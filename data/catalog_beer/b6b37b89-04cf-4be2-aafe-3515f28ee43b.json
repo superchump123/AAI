@@ -1,0 +1,11 @@
+{
+  "id": "b6b37b89-04cf-4be2-aafe-3515f28ee43b",
+  "object": "beer",
+  "name": "Turbo Wolf",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

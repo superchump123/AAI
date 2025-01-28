@@ -1,0 +1,11 @@
+{
+  "id": "e37ba62b-7282-4a99-84c4-ca5dd62041a5",
+  "object": "beer",
+  "name": "Old Friend Holiday Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

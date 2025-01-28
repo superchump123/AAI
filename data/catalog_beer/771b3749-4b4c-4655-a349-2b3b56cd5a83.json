@@ -1,0 +1,11 @@
+{
+  "id": "771b3749-4b4c-4655-a349-2b3b56cd5a83",
+  "object": "beer",
+  "name": "Echo Amber",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

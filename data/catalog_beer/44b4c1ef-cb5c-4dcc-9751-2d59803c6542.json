@@ -1,0 +1,11 @@
+{
+  "id": "44b4c1ef-cb5c-4dcc-9751-2d59803c6542",
+  "object": "beer",
+  "name": "Lost My Way IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

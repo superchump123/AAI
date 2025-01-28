@@ -1,0 +1,11 @@
+{
+  "id": "fe0437b2-2d25-4456-b2ae-a1847b728fae",
+  "object": "beer",
+  "name": "Sour Opal",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

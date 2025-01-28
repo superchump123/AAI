@@ -1,0 +1,11 @@
+{
+  "id": "cfe19b3e-947a-4a6b-b788-016af5d23867",
+  "object": "beer",
+  "name": "Ridgeway Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "740e5d2e-6536-4fa0-b32f-a7b02895f61c",
+  "object": "beer",
+  "name": "Belgian Golden Strong",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

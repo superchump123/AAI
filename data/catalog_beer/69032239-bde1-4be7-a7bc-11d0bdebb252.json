@@ -1,0 +1,11 @@
+{
+  "id": "69032239-bde1-4be7-a7bc-11d0bdebb252",
+  "object": "beer",
+  "name": "POW! Triple IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

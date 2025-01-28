@@ -1,0 +1,11 @@
+{
+  "id": "cfb0b38d-1ffe-40d3-b1db-9f8d833874e3",
+  "object": "beer",
+  "name": "Blitz Raspberry",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

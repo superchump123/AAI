@@ -1,0 +1,11 @@
+{
+  "id": "5ebea14b-c2a4-4625-848f-977f1e223387",
+  "object": "beer",
+  "name": "Velen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

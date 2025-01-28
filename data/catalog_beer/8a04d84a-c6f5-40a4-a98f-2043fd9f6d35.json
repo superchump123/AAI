@@ -1,0 +1,11 @@
+{
+  "id": "8a04d84a-c6f5-40a4-a98f-2043fd9f6d35",
+  "object": "beer",
+  "name": "Spice of Life",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

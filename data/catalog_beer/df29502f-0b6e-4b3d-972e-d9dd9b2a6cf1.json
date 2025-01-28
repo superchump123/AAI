@@ -1,0 +1,11 @@
+{
+  "id": "df29502f-0b6e-4b3d-972e-d9dd9b2a6cf1",
+  "object": "beer",
+  "name": "Mexican Lime Lager",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8dc9c2df-4124-4512-92a8-f6f65fa3dd3b",
+  "object": "beer",
+  "name": "Schwelmer Kupfer",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

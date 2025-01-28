@@ -1,0 +1,11 @@
+{
+  "id": "0cd0e067-da12-4aeb-ada9-5c47eafa919a",
+  "object": "beer",
+  "name": "Saens Zoentje",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

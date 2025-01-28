@@ -1,0 +1,11 @@
+{
+  "id": "0b6ca578-03d2-484d-bf52-a4872e958713",
+  "object": "beer",
+  "name": "Candi Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

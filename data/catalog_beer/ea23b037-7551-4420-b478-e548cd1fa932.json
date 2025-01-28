@@ -1,0 +1,11 @@
+{
+  "id": "ea23b037-7551-4420-b478-e548cd1fa932",
+  "object": "beer",
+  "name": "New Almaden Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

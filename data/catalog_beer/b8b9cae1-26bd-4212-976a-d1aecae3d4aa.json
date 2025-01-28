@@ -1,0 +1,11 @@
+{
+  "id": "b8b9cae1-26bd-4212-976a-d1aecae3d4aa",
+  "object": "beer",
+  "name": "100s of Peachcots",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

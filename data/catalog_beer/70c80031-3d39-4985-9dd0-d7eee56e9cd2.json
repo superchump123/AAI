@@ -1,0 +1,11 @@
+{
+  "id": "70c80031-3d39-4985-9dd0-d7eee56e9cd2",
+  "object": "beer",
+  "name": "Sunshine City IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e920d12a-e1d9-4cb8-93ed-1aa017706276",
+  "object": "beer",
+  "name": "Cool Beanz",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7767c4b5-ad6f-4418-89f0-be43515a92b2",
+  "object": "beer",
+  "name": "Roasted Jalapeno Blueberry Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

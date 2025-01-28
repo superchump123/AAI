@@ -1,0 +1,11 @@
+{
+  "id": "45fccec4-e061-4237-a902-5c85b9e51824",
+  "object": "beer",
+  "name": "Sturdy Hippie",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

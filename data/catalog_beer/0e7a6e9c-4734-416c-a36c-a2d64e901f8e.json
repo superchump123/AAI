@@ -1,0 +1,11 @@
+{
+  "id": "0e7a6e9c-4734-416c-a36c-a2d64e901f8e",
+  "object": "beer",
+  "name": "Angry Goat",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

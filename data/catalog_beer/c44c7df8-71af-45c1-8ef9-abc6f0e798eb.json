@@ -1,0 +1,11 @@
+{
+  "id": "c44c7df8-71af-45c1-8ef9-abc6f0e798eb",
+  "object": "beer",
+  "name": "Mr. Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

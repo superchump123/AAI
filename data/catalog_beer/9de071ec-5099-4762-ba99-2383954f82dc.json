@@ -1,0 +1,11 @@
+{
+  "id": "9de071ec-5099-4762-ba99-2383954f82dc",
+  "object": "beer",
+  "name": "Oak And Orchard",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

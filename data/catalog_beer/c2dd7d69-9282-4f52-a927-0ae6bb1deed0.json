@@ -1,0 +1,11 @@
+{
+  "id": "c2dd7d69-9282-4f52-a927-0ae6bb1deed0",
+  "object": "beer",
+  "name": "Black Strap Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

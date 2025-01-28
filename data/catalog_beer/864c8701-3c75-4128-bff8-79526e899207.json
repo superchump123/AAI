@@ -1,0 +1,11 @@
+{
+  "id": "864c8701-3c75-4128-bff8-79526e899207",
+  "object": "beer",
+  "name": "Hopdigger",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "27d6c7d0-178e-43b4-8ca3-bed692b435f1",
+  "object": "beer",
+  "name": "Samuin Harvest",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

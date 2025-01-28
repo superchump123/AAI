@@ -1,0 +1,11 @@
+{
+  "id": "e5570b42-4051-42b2-b6c2-cb76ddab5e5b",
+  "object": "beer",
+  "name": "Broken Nose",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

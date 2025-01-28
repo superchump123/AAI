@@ -1,0 +1,11 @@
+{
+  "id": "d55e87ea-108a-4c50-aa6f-9741d6e111d9",
+  "object": "beer",
+  "name": "Sandstone Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

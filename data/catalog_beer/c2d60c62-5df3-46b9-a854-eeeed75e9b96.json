@@ -1,0 +1,11 @@
+{
+  "id": "c2d60c62-5df3-46b9-a854-eeeed75e9b96",
+  "object": "beer",
+  "name": "Poltergeist",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

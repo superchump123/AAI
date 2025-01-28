@@ -1,0 +1,11 @@
+{
+  "id": "cc0e8ffd-54f5-4f59-bf37-9ad8e6d0d526",
+  "object": "beer",
+  "name": "Shining Star Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

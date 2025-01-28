@@ -1,0 +1,11 @@
+{
+  "id": "cadf5e35-e4a9-4899-ad9f-2548bf59f605",
+  "object": "beer",
+  "name": "Pas De Dieux",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

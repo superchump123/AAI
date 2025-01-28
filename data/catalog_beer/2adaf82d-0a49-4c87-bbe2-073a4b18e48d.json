@@ -1,0 +1,11 @@
+{
+  "id": "2adaf82d-0a49-4c87-bbe2-073a4b18e48d",
+  "object": "beer",
+  "name": "Boji Beach",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

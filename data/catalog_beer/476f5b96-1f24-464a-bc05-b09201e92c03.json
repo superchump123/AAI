@@ -1,0 +1,11 @@
+{
+  "id": "476f5b96-1f24-464a-bc05-b09201e92c03",
+  "object": "beer",
+  "name": "Merlot \u00e0 Trois",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

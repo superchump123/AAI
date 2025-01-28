@@ -1,0 +1,11 @@
+{
+  "id": "d9856361-840e-4c00-81b5-230cecaf8c1e",
+  "object": "beer",
+  "name": "Summer Brew",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

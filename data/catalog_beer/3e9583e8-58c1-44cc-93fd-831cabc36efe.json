@@ -1,0 +1,11 @@
+{
+  "id": "3e9583e8-58c1-44cc-93fd-831cabc36efe",
+  "object": "beer",
+  "name": "Modern Romance",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

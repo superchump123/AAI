@@ -1,0 +1,11 @@
+{
+  "id": "fe338177-fea9-45cb-88e6-af36dae7b6cf",
+  "object": "beer",
+  "name": "Root Down",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

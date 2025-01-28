@@ -1,0 +1,11 @@
+{
+  "id": "38a7d90c-007a-4c0d-b6bd-65fbc311b5ac",
+  "object": "beer",
+  "name": "Fripp",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

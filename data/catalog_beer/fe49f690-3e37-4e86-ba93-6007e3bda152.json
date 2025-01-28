@@ -1,0 +1,11 @@
+{
+  "id": "fe49f690-3e37-4e86-ba93-6007e3bda152",
+  "object": "beer",
+  "name": "12 Gauge",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "09348f42-5560-4eea-b0e7-34618b0e57f0",
+  "object": "beer",
+  "name": "Wattaquadock Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

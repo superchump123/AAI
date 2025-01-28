@@ -1,0 +1,11 @@
+{
+  "id": "6602abfb-313b-4fe1-a85f-012bba327a55",
+  "object": "beer",
+  "name": "Professor Hops",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

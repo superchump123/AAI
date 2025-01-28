@@ -1,0 +1,11 @@
+{
+  "id": "49f76c1a-02f6-40fd-9ed0-f585e534202e",
+  "object": "beer",
+  "name": "John Barleycorn",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

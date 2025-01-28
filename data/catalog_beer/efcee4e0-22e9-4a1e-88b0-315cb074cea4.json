@@ -1,0 +1,11 @@
+{
+  "id": "efcee4e0-22e9-4a1e-88b0-315cb074cea4",
+  "object": "beer",
+  "name": "Wheat IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

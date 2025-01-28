@@ -1,0 +1,11 @@
+{
+  "id": "82c26770-a18b-4593-9814-d4371757f2f5",
+  "object": "beer",
+  "name": "The Mule",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

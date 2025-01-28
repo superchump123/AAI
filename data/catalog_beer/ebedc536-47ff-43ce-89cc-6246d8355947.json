@@ -1,0 +1,11 @@
+{
+  "id": "ebedc536-47ff-43ce-89cc-6246d8355947",
+  "object": "beer",
+  "name": "Tangerine IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

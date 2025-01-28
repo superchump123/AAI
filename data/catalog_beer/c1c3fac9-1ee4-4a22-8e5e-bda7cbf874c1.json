@@ -1,0 +1,11 @@
+{
+  "id": "c1c3fac9-1ee4-4a22-8e5e-bda7cbf874c1",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

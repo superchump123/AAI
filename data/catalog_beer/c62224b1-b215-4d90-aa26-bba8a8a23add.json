@@ -1,0 +1,11 @@
+{
+  "id": "c62224b1-b215-4d90-aa26-bba8a8a23add",
+  "object": "beer",
+  "name": "Callisto",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

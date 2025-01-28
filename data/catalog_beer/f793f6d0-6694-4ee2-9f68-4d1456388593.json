@@ -1,0 +1,11 @@
+{
+  "id": "f793f6d0-6694-4ee2-9f68-4d1456388593",
+  "object": "beer",
+  "name": "Brewer's IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

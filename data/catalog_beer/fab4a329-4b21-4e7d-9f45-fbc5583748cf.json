@@ -1,0 +1,11 @@
+{
+  "id": "fab4a329-4b21-4e7d-9f45-fbc5583748cf",
+  "object": "beer",
+  "name": "Honey Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

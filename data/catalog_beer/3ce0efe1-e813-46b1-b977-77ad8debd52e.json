@@ -1,0 +1,11 @@
+{
+  "id": "3ce0efe1-e813-46b1-b977-77ad8debd52e",
+  "object": "beer",
+  "name": "Tahelenbak",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

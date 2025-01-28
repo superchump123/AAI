@@ -1,0 +1,11 @@
+{
+  "id": "8a300d1a-878c-468f-95d5-346ca75fa95a",
+  "object": "beer",
+  "name": "English Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

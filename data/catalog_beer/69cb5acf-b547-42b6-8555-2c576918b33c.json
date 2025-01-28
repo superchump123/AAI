@@ -1,0 +1,11 @@
+{
+  "id": "69cb5acf-b547-42b6-8555-2c576918b33c",
+  "object": "beer",
+  "name": "Float Your Boat",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

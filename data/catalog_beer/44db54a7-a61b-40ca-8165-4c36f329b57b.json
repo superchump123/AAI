@@ -1,0 +1,11 @@
+{
+  "id": "44db54a7-a61b-40ca-8165-4c36f329b57b",
+  "object": "beer",
+  "name": "I Test",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

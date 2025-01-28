@@ -1,0 +1,11 @@
+{
+  "id": "7d0e8bfb-8914-4315-a03e-36924cea7a03",
+  "object": "beer",
+  "name": "Hansel and Gretel Ginger Pumpkin Pilsner",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

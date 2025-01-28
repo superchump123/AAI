@@ -1,0 +1,11 @@
+{
+  "id": "f0d8179d-fefe-407f-a28e-47386f7fdca4",
+  "object": "beer",
+  "name": "Mexican Vienna Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

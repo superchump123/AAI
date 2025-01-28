@@ -1,0 +1,11 @@
+{
+  "id": "dacf469a-ff66-4aea-bfcc-0015ba82c9af",
+  "object": "beer",
+  "name": "Pi",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

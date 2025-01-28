@@ -1,0 +1,11 @@
+{
+  "id": "3a9fc9d1-2e91-44c2-99a0-c1a67b0ed102",
+  "object": "beer",
+  "name": "Homer's Oatesy Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

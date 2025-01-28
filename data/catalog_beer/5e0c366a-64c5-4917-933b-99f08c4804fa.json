@@ -1,0 +1,11 @@
+{
+  "id": "5e0c366a-64c5-4917-933b-99f08c4804fa",
+  "object": "beer",
+  "name": "CocoMondo",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

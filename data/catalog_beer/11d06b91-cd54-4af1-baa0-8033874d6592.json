@@ -1,0 +1,11 @@
+{
+  "id": "11d06b91-cd54-4af1-baa0-8033874d6592",
+  "object": "beer",
+  "name": "Vigneronne",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

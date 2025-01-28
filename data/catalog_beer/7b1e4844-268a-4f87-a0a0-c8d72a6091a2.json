@@ -1,0 +1,11 @@
+{
+  "id": "7b1e4844-268a-4f87-a0a0-c8d72a6091a2",
+  "object": "beer",
+  "name": "Danville IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

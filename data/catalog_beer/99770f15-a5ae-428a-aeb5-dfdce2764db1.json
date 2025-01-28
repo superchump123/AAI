@@ -1,0 +1,11 @@
+{
+  "id": "99770f15-a5ae-428a-aeb5-dfdce2764db1",
+  "object": "beer",
+  "name": "Foggy Jack",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

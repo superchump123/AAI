@@ -1,0 +1,11 @@
+{
+  "id": "ed90a70e-c9e9-4f57-84fa-44f25772bd11",
+  "object": "beer",
+  "name": "Reb Barn Irish Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

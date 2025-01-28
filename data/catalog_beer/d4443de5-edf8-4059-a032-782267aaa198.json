@@ -1,0 +1,11 @@
+{
+  "id": "d4443de5-edf8-4059-a032-782267aaa198",
+  "object": "beer",
+  "name": "Country Boy IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

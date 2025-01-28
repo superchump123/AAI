@@ -1,0 +1,11 @@
+{
+  "id": "2fa5704c-d24d-4b5c-9c9d-9270f8eb1b29",
+  "object": "beer",
+  "name": "Notch 9",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 105,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

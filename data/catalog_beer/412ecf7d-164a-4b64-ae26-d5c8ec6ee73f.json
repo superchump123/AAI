@@ -1,0 +1,11 @@
+{
+  "id": "412ecf7d-164a-4b64-ae26-d5c8ec6ee73f",
+  "object": "beer",
+  "name": "Winter Warmer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

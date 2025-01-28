@@ -1,0 +1,11 @@
+{
+  "id": "1dfc36c9-694e-4e3b-91c1-494012908fa9",
+  "object": "beer",
+  "name": "Tina",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

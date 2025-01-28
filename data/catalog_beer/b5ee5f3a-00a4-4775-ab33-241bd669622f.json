@@ -1,0 +1,11 @@
+{
+  "id": "b5ee5f3a-00a4-4775-ab33-241bd669622f",
+  "object": "beer",
+  "name": "Old Blaggard",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6565ee05-1003-4de5-9c55-ade1c3bcfcbf",
+  "object": "beer",
+  "name": "Goldie's Best Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

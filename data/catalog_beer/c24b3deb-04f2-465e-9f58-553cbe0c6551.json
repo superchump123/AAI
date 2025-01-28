@@ -1,0 +1,11 @@
+{
+  "id": "c24b3deb-04f2-465e-9f58-553cbe0c6551",
+  "object": "beer",
+  "name": "Poudre",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

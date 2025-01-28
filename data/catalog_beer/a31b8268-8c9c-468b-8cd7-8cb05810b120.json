@@ -1,0 +1,11 @@
+{
+  "id": "a31b8268-8c9c-468b-8cd7-8cb05810b120",
+  "object": "beer",
+  "name": "Barton Kriek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

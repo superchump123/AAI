@@ -1,0 +1,11 @@
+{
+  "id": "1c48325a-ed65-45b2-bf9b-88177cddbedf",
+  "object": "beer",
+  "name": "Deal With The Devil",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "769a9903-a8c8-472d-88db-aa0cb551dfa1",
+  "object": "beer",
+  "name": "Vanilla Bean Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

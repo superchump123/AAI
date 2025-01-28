@@ -1,0 +1,11 @@
+{
+  "id": "f64dc88b-6e54-4755-a7d7-3275b24c393d",
+  "object": "beer",
+  "name": "Candy Bar Pinstripe",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

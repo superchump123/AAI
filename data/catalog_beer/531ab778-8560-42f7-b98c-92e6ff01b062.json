@@ -1,0 +1,11 @@
+{
+  "id": "531ab778-8560-42f7-b98c-92e6ff01b062",
+  "object": "beer",
+  "name": "Texas Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

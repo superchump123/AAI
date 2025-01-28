@@ -1,0 +1,11 @@
+{
+  "id": "880ea120-7d5b-45fc-a2c2-7b885550e5cf",
+  "object": "beer",
+  "name": "Holiday Haze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

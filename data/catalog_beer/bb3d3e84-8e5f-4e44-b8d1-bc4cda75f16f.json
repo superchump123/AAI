@@ -1,0 +1,11 @@
+{
+  "id": "bb3d3e84-8e5f-4e44-b8d1-bc4cda75f16f",
+  "object": "beer",
+  "name": "Mosaic Red Rye IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

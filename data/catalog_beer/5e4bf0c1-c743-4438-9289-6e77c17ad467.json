@@ -1,0 +1,11 @@
+{
+  "id": "5e4bf0c1-c743-4438-9289-6e77c17ad467",
+  "object": "beer",
+  "name": "\u00a1Magnifico!",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

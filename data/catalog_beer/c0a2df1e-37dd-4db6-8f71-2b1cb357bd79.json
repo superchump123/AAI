@@ -1,0 +1,11 @@
+{
+  "id": "c0a2df1e-37dd-4db6-8f71-2b1cb357bd79",
+  "object": "beer",
+  "name": "Buzzed Bee Honey Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

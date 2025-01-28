@@ -1,0 +1,11 @@
+{
+  "id": "9ebafa91-7f0f-4be3-bd08-0f0eebd7e0ca",
+  "object": "beer",
+  "name": "Table Beer",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

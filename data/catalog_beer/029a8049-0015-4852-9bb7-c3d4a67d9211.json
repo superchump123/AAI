@@ -1,0 +1,11 @@
+{
+  "id": "029a8049-0015-4852-9bb7-c3d4a67d9211",
+  "object": "beer",
+  "name": "Hopfix",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f2ad0db9-468a-4813-aae3-9f600b8a69f1",
+  "object": "beer",
+  "name": "Second Breakfast",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

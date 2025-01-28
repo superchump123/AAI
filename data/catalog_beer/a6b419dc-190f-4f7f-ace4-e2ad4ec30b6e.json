@@ -1,0 +1,11 @@
+{
+  "id": "a6b419dc-190f-4f7f-ace4-e2ad4ec30b6e",
+  "object": "beer",
+  "name": "Lost Weekend",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

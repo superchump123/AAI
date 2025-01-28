@@ -1,0 +1,11 @@
+{
+  "id": "e9fc99c7-b432-46c4-ac27-b9c57f292f66",
+  "object": "beer",
+  "name": "Three Putt",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

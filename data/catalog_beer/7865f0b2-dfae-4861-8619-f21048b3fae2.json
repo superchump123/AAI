@@ -1,0 +1,11 @@
+{
+  "id": "7865f0b2-dfae-4861-8619-f21048b3fae2",
+  "object": "beer",
+  "name": "Oaked Tripel B",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2c2ff39d-3371-473f-9a4e-357501ce937b",
+  "object": "beer",
+  "name": "Landfall",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

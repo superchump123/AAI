@@ -1,0 +1,11 @@
+{
+  "id": "4b6f55a1-d2b9-48c2-978d-94b8e7d56b3a",
+  "object": "beer",
+  "name": "Autumn Ale",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

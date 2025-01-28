@@ -1,0 +1,11 @@
+{
+  "id": "dd90a67d-667f-4048-ab7e-d2e483fc802c",
+  "object": "beer",
+  "name": "Fallen DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

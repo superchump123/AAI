@@ -1,0 +1,11 @@
+{
+  "id": "ecfb1c48-e4ee-423f-ba61-1ac71cd46ccb",
+  "object": "beer",
+  "name": "Abbey IPA",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

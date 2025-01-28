@@ -1,0 +1,11 @@
+{
+  "id": "c295463c-6c40-4923-9e25-70f810b2e2a6",
+  "object": "beer",
+  "name": "Blue Eyed Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

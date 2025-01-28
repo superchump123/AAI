@@ -1,0 +1,11 @@
+{
+  "id": "f70de946-bb00-4cda-add6-6353dfeb9d5b",
+  "object": "beer",
+  "name": "Pabst Blue Ribbon (PBR)",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

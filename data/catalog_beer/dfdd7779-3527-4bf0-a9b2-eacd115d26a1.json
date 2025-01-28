@@ -1,0 +1,11 @@
+{
+  "id": "dfdd7779-3527-4bf0-a9b2-eacd115d26a1",
+  "object": "beer",
+  "name": "Born in the Sun",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

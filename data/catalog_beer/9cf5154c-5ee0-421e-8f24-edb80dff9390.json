@@ -1,0 +1,11 @@
+{
+  "id": "9cf5154c-5ee0-421e-8f24-edb80dff9390",
+  "object": "beer",
+  "name": "White Noise Hefeweizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

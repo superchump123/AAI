@@ -1,0 +1,11 @@
+{
+  "id": "b5f9b015-0fb2-415f-a6da-e11d5f1b3536",
+  "object": "beer",
+  "name": "Leroy Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

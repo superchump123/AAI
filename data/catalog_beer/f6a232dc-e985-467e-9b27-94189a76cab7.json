@@ -1,0 +1,11 @@
+{
+  "id": "f6a232dc-e985-467e-9b27-94189a76cab7",
+  "object": "beer",
+  "name": "Peppercorn 2.0",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

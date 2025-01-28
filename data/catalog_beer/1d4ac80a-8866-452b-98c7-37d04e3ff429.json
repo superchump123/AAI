@@ -1,0 +1,11 @@
+{
+  "id": "1d4ac80a-8866-452b-98c7-37d04e3ff429",
+  "object": "beer",
+  "name": "Grimbergen Blonde",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

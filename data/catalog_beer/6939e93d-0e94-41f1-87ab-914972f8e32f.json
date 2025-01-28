@@ -1,0 +1,11 @@
+{
+  "id": "6939e93d-0e94-41f1-87ab-914972f8e32f",
+  "object": "beer",
+  "name": "Hop Madness",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

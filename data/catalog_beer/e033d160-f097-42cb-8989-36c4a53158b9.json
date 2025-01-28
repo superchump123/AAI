@@ -1,0 +1,11 @@
+{
+  "id": "e033d160-f097-42cb-8989-36c4a53158b9",
+  "object": "beer",
+  "name": "Dry Limed Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

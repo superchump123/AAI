@@ -1,0 +1,11 @@
+{
+  "id": "0a273222-9336-4323-a9a8-945da4c0daf6",
+  "object": "beer",
+  "name": "Maize",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

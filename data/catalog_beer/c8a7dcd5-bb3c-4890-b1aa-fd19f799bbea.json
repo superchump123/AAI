@@ -1,0 +1,11 @@
+{
+  "id": "c8a7dcd5-bb3c-4890-b1aa-fd19f799bbea",
+  "object": "beer",
+  "name": "Narrowback",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

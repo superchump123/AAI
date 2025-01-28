@@ -1,0 +1,11 @@
+{
+  "id": "789cc4a9-61b0-4abb-850d-005a383bf7c9",
+  "object": "beer",
+  "name": "10th And Main",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

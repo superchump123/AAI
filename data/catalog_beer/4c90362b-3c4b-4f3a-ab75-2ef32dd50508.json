@@ -1,0 +1,11 @@
+{
+  "id": "4c90362b-3c4b-4f3a-ab75-2ef32dd50508",
+  "object": "beer",
+  "name": "Out of Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

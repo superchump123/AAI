@@ -1,0 +1,11 @@
+{
+  "id": "438b9621-6271-46f0-80ec-9952627f5b2c",
+  "object": "beer",
+  "name": "Raftman",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

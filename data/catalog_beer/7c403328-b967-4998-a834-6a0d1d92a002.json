@@ -1,0 +1,11 @@
+{
+  "id": "7c403328-b967-4998-a834-6a0d1d92a002",
+  "object": "beer",
+  "name": "The Skimmer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

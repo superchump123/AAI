@@ -1,0 +1,11 @@
+{
+  "id": "44a8472a-3b8a-4c12-adf8-b885770a472f",
+  "object": "beer",
+  "name": "Hell Chicken",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e9121c34-5a06-4a3e-8415-276485ffc6b9",
+  "object": "beer",
+  "name": "Gorilla Meets Hippy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

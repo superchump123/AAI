@@ -1,0 +1,11 @@
+{
+  "id": "9f4f4e09-7669-4522-be90-aa35982598e8",
+  "object": "beer",
+  "name": "Mudshark Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

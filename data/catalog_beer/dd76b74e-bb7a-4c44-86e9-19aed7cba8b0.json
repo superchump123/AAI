@@ -1,0 +1,11 @@
+{
+  "id": "dd76b74e-bb7a-4c44-86e9-19aed7cba8b0",
+  "object": "beer",
+  "name": "Vega Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

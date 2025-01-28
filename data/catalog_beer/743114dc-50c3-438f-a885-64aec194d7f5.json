@@ -1,0 +1,11 @@
+{
+  "id": "743114dc-50c3-438f-a885-64aec194d7f5",
+  "object": "beer",
+  "name": "Turbodog",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

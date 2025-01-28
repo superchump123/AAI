@@ -1,0 +1,11 @@
+{
+  "id": "1554c564-4b4a-4c84-bdf2-b963da3b2a1e",
+  "object": "beer",
+  "name": "Rums of Anarchy",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

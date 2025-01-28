@@ -1,0 +1,11 @@
+{
+  "id": "a0735b21-48b2-4d6d-b89e-ea220ee12b3f",
+  "object": "beer",
+  "name": "Fermentation Without Representation",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

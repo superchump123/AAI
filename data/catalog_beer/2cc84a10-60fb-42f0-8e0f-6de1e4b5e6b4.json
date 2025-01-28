@@ -1,0 +1,11 @@
+{
+  "id": "2cc84a10-60fb-42f0-8e0f-6de1e4b5e6b4",
+  "object": "beer",
+  "name": "Devil Craft Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

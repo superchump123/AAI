@@ -1,0 +1,11 @@
+{
+  "id": "3e3a1e65-c329-43d0-9562-c7ae1bb9a48e",
+  "object": "beer",
+  "name": "Tannen Bomb",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ab8371e7-cea9-467d-98ca-0612c0c4307b",
+  "object": "beer",
+  "name": "Magik",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

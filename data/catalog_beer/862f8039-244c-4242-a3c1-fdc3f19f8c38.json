@@ -1,0 +1,11 @@
+{
+  "id": "862f8039-244c-4242-a3c1-fdc3f19f8c38",
+  "object": "beer",
+  "name": "Big Chuck",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

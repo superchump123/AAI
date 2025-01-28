@@ -1,0 +1,11 @@
+{
+  "id": "bc3226fd-0280-448b-81e2-8a9ca1d148de",
+  "object": "beer",
+  "name": "Sweet Spot",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

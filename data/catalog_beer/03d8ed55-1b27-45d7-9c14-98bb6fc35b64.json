@@ -1,0 +1,11 @@
+{
+  "id": "03d8ed55-1b27-45d7-9c14-98bb6fc35b64",
+  "object": "beer",
+  "name": "Jersey Blues",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

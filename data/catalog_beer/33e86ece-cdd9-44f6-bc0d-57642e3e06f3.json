@@ -1,0 +1,11 @@
+{
+  "id": "33e86ece-cdd9-44f6-bc0d-57642e3e06f3",
+  "object": "beer",
+  "name": "Abricot Soleil",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

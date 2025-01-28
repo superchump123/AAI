@@ -1,0 +1,11 @@
+{
+  "id": "628d582d-7099-4803-87cf-214a23b3f217",
+  "object": "beer",
+  "name": "L'Ecurieux",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

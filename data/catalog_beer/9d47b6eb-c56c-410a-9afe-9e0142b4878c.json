@@ -1,0 +1,11 @@
+{
+  "id": "9d47b6eb-c56c-410a-9afe-9e0142b4878c",
+  "object": "beer",
+  "name": "Morezaik",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6eda4e65-09dd-4170-beaf-54c9ca10ac4f",
+  "object": "beer",
+  "name": "Enchantment Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

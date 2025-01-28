@@ -1,0 +1,11 @@
+{
+  "id": "636773b7-e2a0-431c-a62e-54a26c224b31",
+  "object": "beer",
+  "name": "Morocco Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

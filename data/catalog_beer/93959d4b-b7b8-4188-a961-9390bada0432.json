@@ -1,0 +1,11 @@
+{
+  "id": "93959d4b-b7b8-4188-a961-9390bada0432",
+  "object": "beer",
+  "name": "Saratoga Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

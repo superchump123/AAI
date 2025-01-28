@@ -1,0 +1,11 @@
+{
+  "id": "fc04e691-84c0-4b97-b679-f7e2658b02b7",
+  "object": "beer",
+  "name": "Red Hoptober",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

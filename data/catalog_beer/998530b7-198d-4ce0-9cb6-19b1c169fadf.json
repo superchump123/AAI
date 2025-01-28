@@ -1,0 +1,11 @@
+{
+  "id": "998530b7-198d-4ce0-9cb6-19b1c169fadf",
+  "object": "beer",
+  "name": "Coffee is for Closers",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

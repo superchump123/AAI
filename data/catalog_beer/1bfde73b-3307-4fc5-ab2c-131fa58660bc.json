@@ -1,0 +1,11 @@
+{
+  "id": "1bfde73b-3307-4fc5-ab2c-131fa58660bc",
+  "object": "beer",
+  "name": "Coffee Blaecorn",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

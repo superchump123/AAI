@@ -1,0 +1,11 @@
+{
+  "id": "9cece710-d45b-4efa-8863-e0892188378c",
+  "object": "beer",
+  "name": "Brettbury Wit",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

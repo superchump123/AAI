@@ -1,0 +1,11 @@
+{
+  "id": "0542896c-df0f-4707-82da-fffa3409ff1c",
+  "object": "beer",
+  "name": "Midnight Marauder",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

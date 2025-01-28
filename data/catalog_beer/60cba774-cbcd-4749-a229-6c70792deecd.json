@@ -1,0 +1,11 @@
+{
+  "id": "60cba774-cbcd-4749-a229-6c70792deecd",
+  "object": "beer",
+  "name": "Schaerbeekse Kriek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

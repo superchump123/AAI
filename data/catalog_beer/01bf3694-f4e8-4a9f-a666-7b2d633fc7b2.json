@@ -1,0 +1,11 @@
+{
+  "id": "01bf3694-f4e8-4a9f-a666-7b2d633fc7b2",
+  "object": "beer",
+  "name": "Rugporter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

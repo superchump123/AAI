@@ -1,0 +1,11 @@
+{
+  "id": "20237784-e9b6-47c1-927e-0c3e8e33e943",
+  "object": "beer",
+  "name": "Pilgrim Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

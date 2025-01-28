@@ -1,0 +1,11 @@
+{
+  "id": "eaa5d010-2e0b-4385-bfe7-6bb5af4e3127",
+  "object": "beer",
+  "name": "Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

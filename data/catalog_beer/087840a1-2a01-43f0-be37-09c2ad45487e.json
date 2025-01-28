@@ -1,0 +1,11 @@
+{
+  "id": "087840a1-2a01-43f0-be37-09c2ad45487e",
+  "object": "beer",
+  "name": "Best Bull",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

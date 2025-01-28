@@ -1,0 +1,11 @@
+{
+  "id": "86e90a4a-13bd-4efc-abc0-3928608cb645",
+  "object": "beer",
+  "name": "Foggy Commute",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

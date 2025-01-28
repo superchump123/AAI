@@ -1,0 +1,11 @@
+{
+  "id": "64bba475-0e87-417d-a53c-dd0174c220c5",
+  "object": "beer",
+  "name": "West Coast Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

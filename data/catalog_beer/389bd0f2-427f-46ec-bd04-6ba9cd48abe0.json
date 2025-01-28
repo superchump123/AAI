@@ -1,0 +1,11 @@
+{
+  "id": "389bd0f2-427f-46ec-bd04-6ba9cd48abe0",
+  "object": "beer",
+  "name": "St. Pat's Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

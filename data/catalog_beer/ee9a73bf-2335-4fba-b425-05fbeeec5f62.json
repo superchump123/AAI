@@ -1,0 +1,11 @@
+{
+  "id": "ee9a73bf-2335-4fba-b425-05fbeeec5f62",
+  "object": "beer",
+  "name": "Wyndridge Farm Crafty Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

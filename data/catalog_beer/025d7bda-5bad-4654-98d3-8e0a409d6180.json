@@ -1,0 +1,11 @@
+{
+  "id": "025d7bda-5bad-4654-98d3-8e0a409d6180",
+  "object": "beer",
+  "name": "Ballantrae",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dd591200-a005-49ff-9b00-168cb6e2f267",
+  "object": "beer",
+  "name": "Wee Dame",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

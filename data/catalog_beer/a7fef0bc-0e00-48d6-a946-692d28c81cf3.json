@@ -1,0 +1,11 @@
+{
+  "id": "a7fef0bc-0e00-48d6-a946-692d28c81cf3",
+  "object": "beer",
+  "name": "Pixel Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

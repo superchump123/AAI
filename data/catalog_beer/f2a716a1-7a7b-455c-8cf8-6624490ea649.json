@@ -1,0 +1,11 @@
+{
+  "id": "f2a716a1-7a7b-455c-8cf8-6624490ea649",
+  "object": "beer",
+  "name": "Abbot Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

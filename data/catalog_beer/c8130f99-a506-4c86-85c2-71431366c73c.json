@@ -1,0 +1,11 @@
+{
+  "id": "c8130f99-a506-4c86-85c2-71431366c73c",
+  "object": "beer",
+  "name": "Havtorn",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

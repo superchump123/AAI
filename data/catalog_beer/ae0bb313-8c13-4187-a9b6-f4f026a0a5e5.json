@@ -1,0 +1,11 @@
+{
+  "id": "ae0bb313-8c13-4187-a9b6-f4f026a0a5e5",
+  "object": "beer",
+  "name": "Hop'solutely",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

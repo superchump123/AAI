@@ -1,0 +1,11 @@
+{
+  "id": "65a9f89e-47aa-47d9-bfdd-fda808fe81ff",
+  "object": "beer",
+  "name": "Mellow",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e36dea02-b02b-4776-9022-80d2632186a1",
+  "object": "beer",
+  "name": "Hammerhead Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

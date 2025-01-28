@@ -1,0 +1,11 @@
+{
+  "id": "dd9875d6-dc99-4319-aa67-f658bde50e8b",
+  "object": "beer",
+  "name": "Cariboo Light Lager",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

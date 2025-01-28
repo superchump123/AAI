@@ -1,0 +1,11 @@
+{
+  "id": "e09dd27d-94f0-475f-89b5-fc1ec06c5a65",
+  "object": "beer",
+  "name": "Dan Bic",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

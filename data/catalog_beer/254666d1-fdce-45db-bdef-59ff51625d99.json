@@ -1,0 +1,11 @@
+{
+  "id": "254666d1-fdce-45db-bdef-59ff51625d99",
+  "object": "beer",
+  "name": "H3 Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

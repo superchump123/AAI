@@ -1,0 +1,11 @@
+{
+  "id": "e618695b-9bf6-4af5-964f-2d9e5fc490c2",
+  "object": "beer",
+  "name": "Dolla Dolla (Cream Ale)",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

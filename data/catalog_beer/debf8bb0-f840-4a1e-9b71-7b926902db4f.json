@@ -1,0 +1,11 @@
+{
+  "id": "debf8bb0-f840-4a1e-9b71-7b926902db4f",
+  "object": "beer",
+  "name": "Milk Stout - Nitrogenated",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

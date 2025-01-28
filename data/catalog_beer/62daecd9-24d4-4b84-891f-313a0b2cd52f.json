@@ -1,0 +1,11 @@
+{
+  "id": "62daecd9-24d4-4b84-891f-313a0b2cd52f",
+  "object": "beer",
+  "name": "Residenz Premium Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

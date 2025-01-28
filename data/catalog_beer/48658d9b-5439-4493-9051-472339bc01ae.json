@@ -1,0 +1,11 @@
+{
+  "id": "48658d9b-5439-4493-9051-472339bc01ae",
+  "object": "beer",
+  "name": "Down Under Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

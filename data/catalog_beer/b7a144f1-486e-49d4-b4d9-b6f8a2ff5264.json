@@ -1,0 +1,11 @@
+{
+  "id": "b7a144f1-486e-49d4-b4d9-b6f8a2ff5264",
+  "object": "beer",
+  "name": "Golden Acorn",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

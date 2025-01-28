@@ -1,0 +1,11 @@
+{
+  "id": "214909e0-2b4f-41a4-919a-1bc10761f5db",
+  "object": "beer",
+  "name": "Hopothesis",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

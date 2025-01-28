@@ -1,0 +1,11 @@
+{
+  "id": "e1a18a72-033b-476a-8062-07a01d586eb3",
+  "object": "beer",
+  "name": "Sloatman Special",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

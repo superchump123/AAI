@@ -1,0 +1,11 @@
+{
+  "id": "5ccaf4c4-ee89-4f3c-a130-c47f52f4c47c",
+  "object": "beer",
+  "name": "Batch 003",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

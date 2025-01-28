@@ -1,0 +1,11 @@
+{
+  "id": "281331d1-3d5b-4b4b-ace2-bf51c6c1a91f",
+  "object": "beer",
+  "name": "Mach Schnell!",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

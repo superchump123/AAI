@@ -1,0 +1,11 @@
+{
+  "id": "63429d44-2845-4ee3-8b71-8807a3aae426",
+  "object": "beer",
+  "name": "Free Form",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

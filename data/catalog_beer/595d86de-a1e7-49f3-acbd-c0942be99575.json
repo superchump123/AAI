@@ -1,0 +1,11 @@
+{
+  "id": "595d86de-a1e7-49f3-acbd-c0942be99575",
+  "object": "beer",
+  "name": "Wakatu",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

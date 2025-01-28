@@ -1,0 +1,11 @@
+{
+  "id": "eb35a33c-1fc7-41fe-b67f-364cee432ce4",
+  "object": "beer",
+  "name": "U Blonde",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

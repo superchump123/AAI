@@ -1,0 +1,11 @@
+{
+  "id": "e4737828-c7e1-434a-baba-cb7ccc9beca5",
+  "object": "beer",
+  "name": "Foras",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

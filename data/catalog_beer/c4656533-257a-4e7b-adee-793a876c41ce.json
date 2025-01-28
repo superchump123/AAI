@@ -1,0 +1,11 @@
+{
+  "id": "c4656533-257a-4e7b-adee-793a876c41ce",
+  "object": "beer",
+  "name": "Twisted Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

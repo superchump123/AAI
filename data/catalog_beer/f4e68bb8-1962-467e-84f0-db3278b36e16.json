@@ -1,0 +1,11 @@
+{
+  "id": "f4e68bb8-1962-467e-84f0-db3278b36e16",
+  "object": "beer",
+  "name": "Toasted Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

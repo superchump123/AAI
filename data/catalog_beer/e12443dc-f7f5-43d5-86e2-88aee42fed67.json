@@ -1,0 +1,11 @@
+{
+  "id": "e12443dc-f7f5-43d5-86e2-88aee42fed67",
+  "object": "beer",
+  "name": "Beach Bum Smoked Brown",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

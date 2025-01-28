@@ -1,0 +1,11 @@
+{
+  "id": "6d271e26-e8fe-4101-ba8a-c70a35a7b0f1",
+  "object": "beer",
+  "name": "Thorin",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

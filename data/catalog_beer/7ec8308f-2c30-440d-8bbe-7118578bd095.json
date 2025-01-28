@@ -1,0 +1,11 @@
+{
+  "id": "7ec8308f-2c30-440d-8bbe-7118578bd095",
+  "object": "beer",
+  "name": "Braveheart Light",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "75ba3334-f6ce-4e2f-aed3-49bc9479ef34",
+  "object": "beer",
+  "name": "Tropical Haze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9a3aa875-94e4-446a-bdeb-3a23a699cf40",
+  "object": "beer",
+  "name": "Glitter Bomb",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

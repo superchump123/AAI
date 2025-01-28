@@ -1,0 +1,11 @@
+{
+  "id": "edf6f34a-140f-4e2f-9af6-8ad93f4487fc",
+  "object": "beer",
+  "name": "World Game",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

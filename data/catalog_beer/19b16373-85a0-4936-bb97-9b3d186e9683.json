@@ -1,0 +1,11 @@
+{
+  "id": "19b16373-85a0-4936-bb97-9b3d186e9683",
+  "object": "beer",
+  "name": "Velvet Hammer",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

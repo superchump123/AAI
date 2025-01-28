@@ -1,0 +1,11 @@
+{
+  "id": "f8444717-b3cd-4dd3-8fd7-6cc2b38eabdb",
+  "object": "beer",
+  "name": "Anthem Cherry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

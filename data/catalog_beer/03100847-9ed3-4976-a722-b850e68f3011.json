@@ -1,0 +1,11 @@
+{
+  "id": "03100847-9ed3-4976-a722-b850e68f3011",
+  "object": "beer",
+  "name": "Exeter",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

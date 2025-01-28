@@ -1,0 +1,11 @@
+{
+  "id": "2c0fba8a-38f4-4315-961f-557bffbafe00",
+  "object": "beer",
+  "name": "3 Weight",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

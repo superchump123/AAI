@@ -1,0 +1,11 @@
+{
+  "id": "497e761a-899d-449f-94d3-5d52957d3187",
+  "object": "beer",
+  "name": "Trigger Man Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4f0b811-ef77-4ac8-acfe-10c7c88fa92a",
+  "object": "beer",
+  "name": "Duchamp",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f1194f78-4059-4f8e-86f9-54e2386d5963",
+  "object": "beer",
+  "name": "Blackberry Saison",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

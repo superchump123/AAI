@@ -1,0 +1,11 @@
+{
+  "id": "1dad3ef5-e793-48ad-ae9d-8fc9b4b020db",
+  "object": "beer",
+  "name": "Cornelius Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

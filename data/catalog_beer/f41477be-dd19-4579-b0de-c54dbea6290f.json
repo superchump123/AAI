@@ -1,0 +1,11 @@
+{
+  "id": "f41477be-dd19-4579-b0de-c54dbea6290f",
+  "object": "beer",
+  "name": "Shere Khan",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

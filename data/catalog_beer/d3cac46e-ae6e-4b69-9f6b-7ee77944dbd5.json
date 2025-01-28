@@ -1,0 +1,11 @@
+{
+  "id": "d3cac46e-ae6e-4b69-9f6b-7ee77944dbd5",
+  "object": "beer",
+  "name": "Beer Camp: Dry Hopped Belgian Golden",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6a48d0a1-fe50-497b-a41d-00d453151239",
+  "object": "beer",
+  "name": "Galacticake",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

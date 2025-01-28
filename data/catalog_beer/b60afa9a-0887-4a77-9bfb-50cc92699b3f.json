@@ -1,0 +1,11 @@
+{
+  "id": "b60afa9a-0887-4a77-9bfb-50cc92699b3f",
+  "object": "beer",
+  "name": "Our Humble Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f253f8ee-3ac1-4f03-86f2-6b11ed63c9aa",
+  "object": "beer",
+  "name": "Sluice Box",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

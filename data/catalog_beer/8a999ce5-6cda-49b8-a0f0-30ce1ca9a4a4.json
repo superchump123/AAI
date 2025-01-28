@@ -1,0 +1,11 @@
+{
+  "id": "8a999ce5-6cda-49b8-a0f0-30ce1ca9a4a4",
+  "object": "beer",
+  "name": "Redbridge",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

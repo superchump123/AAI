@@ -1,0 +1,11 @@
+{
+  "id": "3a297122-dd72-4a47-9cbb-81c407df231c",
+  "object": "beer",
+  "name": "Sol Y Luna",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "07d4b824-fe1d-41ba-be20-12a8bc54eb54",
+  "object": "beer",
+  "name": "Pale Ryeder",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 8,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

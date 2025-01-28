@@ -1,0 +1,11 @@
+{
+  "id": "51c6d8f3-b954-4c1c-b32e-1b3036278729",
+  "object": "beer",
+  "name": "North Fork",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

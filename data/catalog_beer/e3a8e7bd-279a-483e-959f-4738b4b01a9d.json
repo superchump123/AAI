@@ -1,0 +1,11 @@
+{
+  "id": "e3a8e7bd-279a-483e-959f-4738b4b01a9d",
+  "object": "beer",
+  "name": "Grimbergen Double Ambree",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

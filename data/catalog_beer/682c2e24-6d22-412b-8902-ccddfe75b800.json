@@ -1,0 +1,11 @@
+{
+  "id": "682c2e24-6d22-412b-8902-ccddfe75b800",
+  "object": "beer",
+  "name": "Santa's Sleigh",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

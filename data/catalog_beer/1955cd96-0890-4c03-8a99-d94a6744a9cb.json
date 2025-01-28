@@ -1,0 +1,11 @@
+{
+  "id": "1955cd96-0890-4c03-8a99-d94a6744a9cb",
+  "object": "beer",
+  "name": "Citra Fresh",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

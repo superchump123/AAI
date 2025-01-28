@@ -1,0 +1,11 @@
+{
+  "id": "321d5975-8c97-4a04-a3ed-7e19b4db9977",
+  "object": "beer",
+  "name": "Ring of Fire",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

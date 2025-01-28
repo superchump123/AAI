@@ -1,0 +1,11 @@
+{
+  "id": "aa76bd23-42c9-4063-8ab6-02a3a2047bad",
+  "object": "beer",
+  "name": "Special Cookie",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

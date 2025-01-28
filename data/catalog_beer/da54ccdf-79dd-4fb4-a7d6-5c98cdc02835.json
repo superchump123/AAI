@@ -1,0 +1,11 @@
+{
+  "id": "da54ccdf-79dd-4fb4-a7d6-5c98cdc02835",
+  "object": "beer",
+  "name": "Mr. Blue",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

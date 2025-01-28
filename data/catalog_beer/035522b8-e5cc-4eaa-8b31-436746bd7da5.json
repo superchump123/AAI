@@ -1,0 +1,11 @@
+{
+  "id": "035522b8-e5cc-4eaa-8b31-436746bd7da5",
+  "object": "beer",
+  "name": "Flying Scotsman",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

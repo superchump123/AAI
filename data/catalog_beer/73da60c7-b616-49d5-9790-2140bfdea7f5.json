@@ -1,0 +1,11 @@
+{
+  "id": "73da60c7-b616-49d5-9790-2140bfdea7f5",
+  "object": "beer",
+  "name": "Schlafly Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

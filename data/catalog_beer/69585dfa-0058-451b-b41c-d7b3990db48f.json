@@ -1,0 +1,11 @@
+{
+  "id": "69585dfa-0058-451b-b41c-d7b3990db48f",
+  "object": "beer",
+  "name": "Holy Mole",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

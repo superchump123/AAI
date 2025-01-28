@@ -1,0 +1,11 @@
+{
+  "id": "94ae33e5-c226-4bf5-bf23-8a40c6fea915",
+  "object": "beer",
+  "name": "Amazon Princess IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

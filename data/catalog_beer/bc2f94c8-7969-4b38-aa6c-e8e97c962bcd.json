@@ -1,0 +1,11 @@
+{
+  "id": "bc2f94c8-7969-4b38-aa6c-e8e97c962bcd",
+  "object": "beer",
+  "name": "Kickoff Mild Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

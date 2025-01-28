@@ -1,0 +1,11 @@
+{
+  "id": "e76e8d1d-d304-4713-a9d5-20528165d7c7",
+  "object": "beer",
+  "name": "Hooten Premium Dutch Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

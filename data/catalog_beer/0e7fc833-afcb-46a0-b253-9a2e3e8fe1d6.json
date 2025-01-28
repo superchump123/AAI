@@ -1,0 +1,11 @@
+{
+  "id": "0e7fc833-afcb-46a0-b253-9a2e3e8fe1d6",
+  "object": "beer",
+  "name": "McK's Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

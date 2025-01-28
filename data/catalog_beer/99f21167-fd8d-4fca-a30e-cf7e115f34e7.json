@@ -1,0 +1,11 @@
+{
+  "id": "99f21167-fd8d-4fca-a30e-cf7e115f34e7",
+  "object": "beer",
+  "name": "Lieutenant Dan",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

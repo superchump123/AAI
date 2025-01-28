@@ -1,0 +1,11 @@
+{
+  "id": "b4fee540-2772-4573-8cd8-766916538980",
+  "object": "beer",
+  "name": "Angie's Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d9bfe528-bf4b-45c6-a1a1-aa815f4d8315",
+  "object": "beer",
+  "name": "Wheat Pale Citrus Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

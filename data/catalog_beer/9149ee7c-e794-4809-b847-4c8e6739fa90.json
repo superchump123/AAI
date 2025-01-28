@@ -1,0 +1,11 @@
+{
+  "id": "9149ee7c-e794-4809-b847-4c8e6739fa90",
+  "object": "beer",
+  "name": "Happy Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

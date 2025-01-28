@@ -1,0 +1,11 @@
+{
+  "id": "29807f87-ba23-44fe-bc4c-0f9483bf5830",
+  "object": "beer",
+  "name": "Gimme Mo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

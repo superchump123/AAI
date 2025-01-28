@@ -1,0 +1,11 @@
+{
+  "id": "c8b8a7d4-1b01-4b9a-958c-6c52f5fe03e4",
+  "object": "beer",
+  "name": "Galactic Roo",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

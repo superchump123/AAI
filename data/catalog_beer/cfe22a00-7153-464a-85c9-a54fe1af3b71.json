@@ -1,0 +1,11 @@
+{
+  "id": "cfe22a00-7153-464a-85c9-a54fe1af3b71",
+  "object": "beer",
+  "name": "Smoked Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

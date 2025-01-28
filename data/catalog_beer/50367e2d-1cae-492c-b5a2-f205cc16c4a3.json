@@ -1,0 +1,11 @@
+{
+  "id": "50367e2d-1cae-492c-b5a2-f205cc16c4a3",
+  "object": "beer",
+  "name": "Revival",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

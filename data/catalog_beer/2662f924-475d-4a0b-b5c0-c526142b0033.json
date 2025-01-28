@@ -1,0 +1,11 @@
+{
+  "id": "2662f924-475d-4a0b-b5c0-c526142b0033",
+  "object": "beer",
+  "name": "Porter - Bright",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

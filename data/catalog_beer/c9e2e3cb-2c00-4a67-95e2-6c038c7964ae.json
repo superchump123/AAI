@@ -1,0 +1,11 @@
+{
+  "id": "c9e2e3cb-2c00-4a67-95e2-6c038c7964ae",
+  "object": "beer",
+  "name": "Enjoy By 12.25.15 IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

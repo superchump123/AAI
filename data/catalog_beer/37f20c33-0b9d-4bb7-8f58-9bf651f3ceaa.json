@@ -1,0 +1,11 @@
+{
+  "id": "37f20c33-0b9d-4bb7-8f58-9bf651f3ceaa",
+  "object": "beer",
+  "name": "Cranberry",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

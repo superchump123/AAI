@@ -1,0 +1,11 @@
+{
+  "id": "c364b48a-ca6c-4a47-9f4b-a43eff980a97",
+  "object": "beer",
+  "name": "Racogne",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1675cffd-294d-4c57-aca3-999be13d054b",
+  "object": "beer",
+  "name": "Golden Sky",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

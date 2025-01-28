@@ -1,0 +1,11 @@
+{
+  "id": "ed98d11e-c330-41f1-8c76-b2ecfb49f24b",
+  "object": "beer",
+  "name": "KeTo Reporter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

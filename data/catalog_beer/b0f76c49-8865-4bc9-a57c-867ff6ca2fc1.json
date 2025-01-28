@@ -1,0 +1,11 @@
+{
+  "id": "b0f76c49-8865-4bc9-a57c-867ff6ca2fc1",
+  "object": "beer",
+  "name": "Concrete Pillow",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

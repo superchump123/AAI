@@ -1,0 +1,11 @@
+{
+  "id": "36d9b066-6fb8-4b13-884b-5e5263801858",
+  "object": "beer",
+  "name": "Flensburger Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

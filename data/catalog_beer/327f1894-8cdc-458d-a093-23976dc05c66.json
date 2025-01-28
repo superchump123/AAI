@@ -1,0 +1,11 @@
+{
+  "id": "327f1894-8cdc-458d-a093-23976dc05c66",
+  "object": "beer",
+  "name": "Bar-B-Q Smoked Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

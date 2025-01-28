@@ -1,0 +1,11 @@
+{
+  "id": "1da4c390-6371-4f45-978a-68712bac3cff",
+  "object": "beer",
+  "name": "2nd Anniversary Imperial Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 11,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

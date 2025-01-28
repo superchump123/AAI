@@ -1,0 +1,11 @@
+{
+  "id": "596f5194-5c76-419b-a874-5a369710f28f",
+  "object": "beer",
+  "name": "Red Rabbit",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "80f11966-d562-471f-9b0e-7f14b40d5be5",
+  "object": "beer",
+  "name": "P.J.W.  Copper Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

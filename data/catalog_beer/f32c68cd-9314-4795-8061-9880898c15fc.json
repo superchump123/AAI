@@ -1,0 +1,11 @@
+{
+  "id": "f32c68cd-9314-4795-8061-9880898c15fc",
+  "object": "beer",
+  "name": "Les Grisettes",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

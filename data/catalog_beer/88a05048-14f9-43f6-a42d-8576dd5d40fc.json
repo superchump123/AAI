@@ -1,0 +1,11 @@
+{
+  "id": "88a05048-14f9-43f6-a42d-8576dd5d40fc",
+  "object": "beer",
+  "name": "King Cobra",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "644bb252-55bc-44ec-8104-afd809a3f428",
+  "object": "beer",
+  "name": "Simcoe BAE",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

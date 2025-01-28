@@ -1,0 +1,11 @@
+{
+  "id": "777c7c38-ac1a-4786-b977-924caf777e1b",
+  "object": "beer",
+  "name": "Wheelers Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

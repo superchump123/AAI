@@ -1,0 +1,11 @@
+{
+  "id": "5e43fd47-b7d3-4346-8af1-41c5aeaf480b",
+  "object": "beer",
+  "name": "Piston Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

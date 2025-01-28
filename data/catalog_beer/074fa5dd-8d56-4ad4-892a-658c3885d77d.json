@@ -1,0 +1,11 @@
+{
+  "id": "074fa5dd-8d56-4ad4-892a-658c3885d77d",
+  "object": "beer",
+  "name": "Brown Out",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

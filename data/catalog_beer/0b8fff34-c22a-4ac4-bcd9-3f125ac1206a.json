@@ -1,0 +1,11 @@
+{
+  "id": "0b8fff34-c22a-4ac4-bcd9-3f125ac1206a",
+  "object": "beer",
+  "name": "Alfred's Jewel",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

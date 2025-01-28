@@ -1,0 +1,11 @@
+{
+  "id": "ed9d381f-4b30-4c21-b8d8-3dc63e49af54",
+  "object": "beer",
+  "name": "Jack's White IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

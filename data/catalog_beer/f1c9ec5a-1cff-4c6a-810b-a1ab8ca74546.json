@@ -1,0 +1,11 @@
+{
+  "id": "f1c9ec5a-1cff-4c6a-810b-a1ab8ca74546",
+  "object": "beer",
+  "name": "Dubhe",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 109,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

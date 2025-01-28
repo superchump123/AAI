@@ -1,0 +1,11 @@
+{
+  "id": "7cc52c36-e448-4e38-bc8a-7588b843828c",
+  "object": "beer",
+  "name": "Companion",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

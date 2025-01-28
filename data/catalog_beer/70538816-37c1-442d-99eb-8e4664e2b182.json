@@ -1,0 +1,11 @@
+{
+  "id": "70538816-37c1-442d-99eb-8e4664e2b182",
+  "object": "beer",
+  "name": "Peak City Golden Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

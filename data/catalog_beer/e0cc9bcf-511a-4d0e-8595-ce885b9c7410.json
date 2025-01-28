@@ -1,0 +1,11 @@
+{
+  "id": "e0cc9bcf-511a-4d0e-8595-ce885b9c7410",
+  "object": "beer",
+  "name": "Badge",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

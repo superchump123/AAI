@@ -1,0 +1,11 @@
+{
+  "id": "a9e3274a-2b64-4725-a310-ab530ba63e96",
+  "object": "beer",
+  "name": "Strawberry Hefeweizen",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

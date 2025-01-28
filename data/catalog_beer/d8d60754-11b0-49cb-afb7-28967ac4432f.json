@@ -1,0 +1,11 @@
+{
+  "id": "d8d60754-11b0-49cb-afb7-28967ac4432f",
+  "object": "beer",
+  "name": "Kissmeyer: Nordic Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "81adfc4a-584f-4a44-8acd-478fdca6d1d4",
+  "object": "beer",
+  "name": "No. 14 English Style Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

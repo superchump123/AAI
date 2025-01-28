@@ -1,0 +1,11 @@
+{
+  "id": "b761c71a-d68e-4a47-9d42-aaa881e10bef",
+  "object": "beer",
+  "name": "Pumpkin Massacre",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

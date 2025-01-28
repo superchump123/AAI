@@ -1,0 +1,11 @@
+{
+  "id": "a623b811-29c0-4275-b2bb-0b01b334ff57",
+  "object": "beer",
+  "name": "St. Thomas Belgian Abbey",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

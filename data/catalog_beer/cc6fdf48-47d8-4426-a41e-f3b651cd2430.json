@@ -1,0 +1,11 @@
+{
+  "id": "cc6fdf48-47d8-4426-a41e-f3b651cd2430",
+  "object": "beer",
+  "name": "Virtuous",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

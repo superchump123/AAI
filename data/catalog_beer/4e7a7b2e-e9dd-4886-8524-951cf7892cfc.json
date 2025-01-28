@@ -1,0 +1,11 @@
+{
+  "id": "4e7a7b2e-e9dd-4886-8524-951cf7892cfc",
+  "object": "beer",
+  "name": "Goldfinch",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

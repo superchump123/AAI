@@ -1,0 +1,11 @@
+{
+  "id": "77388008-1dd0-4dd7-847c-caa23e658c91",
+  "object": "beer",
+  "name": "Brau Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

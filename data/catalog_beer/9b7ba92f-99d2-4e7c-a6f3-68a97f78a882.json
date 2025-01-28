@@ -1,0 +1,11 @@
+{
+  "id": "9b7ba92f-99d2-4e7c-a6f3-68a97f78a882",
+  "object": "beer",
+  "name": "Hobby Farm Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

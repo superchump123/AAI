@@ -1,0 +1,11 @@
+{
+  "id": "7f7813c5-37c6-4500-89c8-b45845f28361",
+  "object": "beer",
+  "name": "Stealin' Time",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

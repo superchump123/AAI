@@ -1,0 +1,11 @@
+{
+  "id": "594ef471-8736-4e40-92bc-663862bf66d7",
+  "object": "beer",
+  "name": "Rooster's Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

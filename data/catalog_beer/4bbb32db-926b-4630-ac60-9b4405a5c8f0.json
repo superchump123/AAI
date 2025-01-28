@@ -1,0 +1,11 @@
+{
+  "id": "4bbb32db-926b-4630-ac60-9b4405a5c8f0",
+  "object": "beer",
+  "name": "Cadence",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

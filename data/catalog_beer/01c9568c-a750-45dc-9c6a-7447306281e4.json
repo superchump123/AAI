@@ -1,0 +1,11 @@
+{
+  "id": "01c9568c-a750-45dc-9c6a-7447306281e4",
+  "object": "beer",
+  "name": "Pedaler's Hard Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

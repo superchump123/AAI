@@ -1,0 +1,11 @@
+{
+  "id": "83d36734-c03f-48f8-95c6-5be1e9108c0c",
+  "object": "beer",
+  "name": "Chief Blackhawk Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

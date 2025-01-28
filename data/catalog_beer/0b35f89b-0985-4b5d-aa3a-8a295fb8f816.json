@@ -1,0 +1,11 @@
+{
+  "id": "0b35f89b-0985-4b5d-aa3a-8a295fb8f816",
+  "object": "beer",
+  "name": "Reichenbrander Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

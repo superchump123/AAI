@@ -1,0 +1,11 @@
+{
+  "id": "1ce38701-d878-46c7-87c8-a11f1375268f",
+  "object": "beer",
+  "name": "Arboreal",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "401e826b-161d-448f-a7af-5ad9dff508a6",
+  "object": "beer",
+  "name": "Veteran Pale Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

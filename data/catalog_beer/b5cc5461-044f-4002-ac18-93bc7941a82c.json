@@ -1,0 +1,11 @@
+{
+  "id": "b5cc5461-044f-4002-ac18-93bc7941a82c",
+  "object": "beer",
+  "name": "Yankee Brew",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

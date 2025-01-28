@@ -1,0 +1,11 @@
+{
+  "id": "a73f9e34-79bb-4ac5-b45f-ff49aed310dd",
+  "object": "beer",
+  "name": "Americano Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

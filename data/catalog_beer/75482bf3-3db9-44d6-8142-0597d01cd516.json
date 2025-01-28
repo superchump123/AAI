@@ -1,0 +1,11 @@
+{
+  "id": "75482bf3-3db9-44d6-8142-0597d01cd516",
+  "object": "beer",
+  "name": "Primal Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

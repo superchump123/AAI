@@ -1,0 +1,11 @@
+{
+  "id": "5f0ef2e9-4549-498c-a591-a562ba4d5036",
+  "object": "beer",
+  "name": "Pineapple Streaker",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "08772ba6-9065-478e-8d0e-a65bb028e03d",
+  "object": "beer",
+  "name": "Chubgutz",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

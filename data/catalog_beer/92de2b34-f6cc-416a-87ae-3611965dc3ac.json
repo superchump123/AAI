@@ -1,0 +1,11 @@
+{
+  "id": "92de2b34-f6cc-416a-87ae-3611965dc3ac",
+  "object": "beer",
+  "name": "Unibroue 11",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

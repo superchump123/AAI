@@ -1,0 +1,11 @@
+{
+  "id": "cf1f5873-18bf-4c0b-8d64-b46a6870a408",
+  "object": "beer",
+  "name": "Iron And Steel",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 115,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "addec042-9214-4960-a71b-0bf72b895a5d",
+  "object": "beer",
+  "name": "Summer Sunset",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

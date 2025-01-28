@@ -1,0 +1,11 @@
+{
+  "id": "a6437bc7-3114-4e78-8564-02bb0286c56b",
+  "object": "beer",
+  "name": "Tiarna",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

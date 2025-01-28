@@ -1,0 +1,11 @@
+{
+  "id": "a3bfa69f-b286-461f-948f-8aff878a360d",
+  "object": "beer",
+  "name": "Cafe Noir",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

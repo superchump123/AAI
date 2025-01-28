@@ -1,0 +1,11 @@
+{
+  "id": "15cff641-ba29-44fd-9de6-08c4b454e05c",
+  "object": "beer",
+  "name": "BHS: Dubbel Down (Ghost 237)",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

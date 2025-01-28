@@ -1,0 +1,11 @@
+{
+  "id": "463131b2-115a-4ebb-94c5-7fd93f6584df",
+  "object": "beer",
+  "name": "Mortal DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

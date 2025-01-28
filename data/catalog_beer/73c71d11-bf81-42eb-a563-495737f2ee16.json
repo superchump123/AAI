@@ -1,0 +1,11 @@
+{
+  "id": "73c71d11-bf81-42eb-a563-495737f2ee16",
+  "object": "beer",
+  "name": "Moritz Fiege Bernstein",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

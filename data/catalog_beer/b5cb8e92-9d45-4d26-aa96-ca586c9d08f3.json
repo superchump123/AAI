@@ -1,0 +1,11 @@
+{
+  "id": "b5cb8e92-9d45-4d26-aa96-ca586c9d08f3",
+  "object": "beer",
+  "name": "Old Sebastes Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

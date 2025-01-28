@@ -1,0 +1,11 @@
+{
+  "id": "7667d9f9-4273-4a64-b385-43f993f89339",
+  "object": "beer",
+  "name": "Cream Ale - Session",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

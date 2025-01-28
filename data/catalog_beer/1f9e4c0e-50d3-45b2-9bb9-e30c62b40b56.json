@@ -1,0 +1,11 @@
+{
+  "id": "1f9e4c0e-50d3-45b2-9bb9-e30c62b40b56",
+  "object": "beer",
+  "name": "Barreled",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

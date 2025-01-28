@@ -1,0 +1,11 @@
+{
+  "id": "7e5decc9-8396-494b-bbdc-c16876a75ab3",
+  "object": "beer",
+  "name": "Two Headed Rooster",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

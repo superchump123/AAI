@@ -1,0 +1,11 @@
+{
+  "id": "75e2085a-8238-4806-84c5-e67860ad9421",
+  "object": "beer",
+  "name": "7th Noel",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

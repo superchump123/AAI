@@ -1,0 +1,11 @@
+{
+  "id": "88354e2f-8a1a-4b1f-bdd1-8bbdc6b04acf",
+  "object": "beer",
+  "name": "Immort Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

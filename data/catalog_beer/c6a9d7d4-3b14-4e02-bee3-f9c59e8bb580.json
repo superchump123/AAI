@@ -1,0 +1,11 @@
+{
+  "id": "c6a9d7d4-3b14-4e02-bee3-f9c59e8bb580",
+  "object": "beer",
+  "name": "Seven Sisters IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

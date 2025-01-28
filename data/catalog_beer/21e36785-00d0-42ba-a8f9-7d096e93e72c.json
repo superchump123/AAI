@@ -1,0 +1,11 @@
+{
+  "id": "21e36785-00d0-42ba-a8f9-7d096e93e72c",
+  "object": "beer",
+  "name": "Imperial CoCo LoCo",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

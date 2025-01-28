@@ -1,0 +1,11 @@
+{
+  "id": "b66afb3f-456d-4e50-b93d-e2d6f70bc82f",
+  "object": "beer",
+  "name": "Rabbit's Reserve #7: Thrice Hopped Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

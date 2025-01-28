@@ -1,0 +1,11 @@
+{
+  "id": "b424f39b-ee0c-4787-87cd-dca5e1ec160d",
+  "object": "beer",
+  "name": "Krue",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

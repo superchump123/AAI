@@ -1,0 +1,11 @@
+{
+  "id": "bec3654e-cd90-4816-a16d-6210cfdb6b8f",
+  "object": "beer",
+  "name": "The Shining",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

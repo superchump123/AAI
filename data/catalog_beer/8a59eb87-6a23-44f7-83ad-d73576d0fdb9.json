@@ -1,0 +1,11 @@
+{
+  "id": "8a59eb87-6a23-44f7-83ad-d73576d0fdb9",
+  "object": "beer",
+  "name": "Deep Tracks",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

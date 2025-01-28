@@ -1,0 +1,11 @@
+{
+  "id": "a8b22648-820b-4a52-994c-2ab94e05169c",
+  "object": "beer",
+  "name": "Axis Mundi",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

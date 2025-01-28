@@ -1,0 +1,11 @@
+{
+  "id": "801179e9-d19a-4973-b1b2-b22ac84f1082",
+  "object": "beer",
+  "name": "Sly Rye Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

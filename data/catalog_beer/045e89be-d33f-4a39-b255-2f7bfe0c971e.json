@@ -1,0 +1,11 @@
+{
+  "id": "045e89be-d33f-4a39-b255-2f7bfe0c971e",
+  "object": "beer",
+  "name": "Don Perfecto",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

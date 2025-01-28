@@ -1,0 +1,11 @@
+{
+  "id": "e7eed20a-78e7-4df3-8396-97061a6c07fa",
+  "object": "beer",
+  "name": "Farm-Assist",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

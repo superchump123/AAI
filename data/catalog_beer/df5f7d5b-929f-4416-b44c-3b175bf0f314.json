@@ -1,0 +1,11 @@
+{
+  "id": "df5f7d5b-929f-4416-b44c-3b175bf0f314",
+  "object": "beer",
+  "name": "Welcome To I-80",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

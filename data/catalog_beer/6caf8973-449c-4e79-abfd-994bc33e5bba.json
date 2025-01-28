@@ -1,0 +1,11 @@
+{
+  "id": "6caf8973-449c-4e79-abfd-994bc33e5bba",
+  "object": "beer",
+  "name": "Rauchbier Weissbier",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

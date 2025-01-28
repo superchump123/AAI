@@ -1,0 +1,11 @@
+{
+  "id": "7b8801de-f839-4156-a0dc-afe5da6017ac",
+  "object": "beer",
+  "name": "Brutus Imperial Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

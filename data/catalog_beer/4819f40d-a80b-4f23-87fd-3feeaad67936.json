@@ -1,0 +1,11 @@
+{
+  "id": "4819f40d-a80b-4f23-87fd-3feeaad67936",
+  "object": "beer",
+  "name": "Peach Buzz",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

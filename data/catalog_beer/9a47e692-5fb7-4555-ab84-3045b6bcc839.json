@@ -1,0 +1,11 @@
+{
+  "id": "9a47e692-5fb7-4555-ab84-3045b6bcc839",
+  "object": "beer",
+  "name": "Farmhouse Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

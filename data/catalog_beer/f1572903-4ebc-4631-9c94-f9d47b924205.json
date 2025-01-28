@@ -1,0 +1,11 @@
+{
+  "id": "f1572903-4ebc-4631-9c94-f9d47b924205",
+  "object": "beer",
+  "name": "Mighty More Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

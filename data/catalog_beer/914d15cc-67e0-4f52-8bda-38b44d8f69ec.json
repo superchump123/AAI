@@ -1,0 +1,11 @@
+{
+  "id": "914d15cc-67e0-4f52-8bda-38b44d8f69ec",
+  "object": "beer",
+  "name": "Park West Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

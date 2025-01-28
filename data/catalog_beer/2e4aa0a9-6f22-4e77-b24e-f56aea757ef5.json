@@ -1,0 +1,11 @@
+{
+  "id": "2e4aa0a9-6f22-4e77-b24e-f56aea757ef5",
+  "object": "beer",
+  "name": "Red Buoy Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

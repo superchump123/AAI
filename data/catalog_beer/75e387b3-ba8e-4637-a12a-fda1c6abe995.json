@@ -1,0 +1,11 @@
+{
+  "id": "75e387b3-ba8e-4637-a12a-fda1c6abe995",
+  "object": "beer",
+  "name": "Bundle Up",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

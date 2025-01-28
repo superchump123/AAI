@@ -1,0 +1,11 @@
+{
+  "id": "492be2a1-c91b-4406-848e-cb1e3b4d72ee",
+  "object": "beer",
+  "name": "Bock Ness Monster",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

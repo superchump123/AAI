@@ -1,0 +1,11 @@
+{
+  "id": "d98c7b1b-e390-45fc-b34e-361245833d22",
+  "object": "beer",
+  "name": "Pine Street Blonde",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

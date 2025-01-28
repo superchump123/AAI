@@ -1,0 +1,11 @@
+{
+  "id": "f5cd7a5d-a623-4e9b-883d-4f52992683dc",
+  "object": "beer",
+  "name": "Honey Blue Blue",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

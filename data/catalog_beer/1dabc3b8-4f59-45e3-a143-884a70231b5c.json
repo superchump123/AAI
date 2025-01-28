@@ -1,0 +1,11 @@
+{
+  "id": "1dabc3b8-4f59-45e3-a143-884a70231b5c",
+  "object": "beer",
+  "name": "Pompous Ass English Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4dbc992f-ed3b-4d9c-80b8-52be7bb0368c",
+  "object": "beer",
+  "name": "Triple Dipsea",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

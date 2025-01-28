@@ -1,0 +1,11 @@
+{
+  "id": "5eb1fca2-d929-4da4-9e03-aa83c2e5a1b3",
+  "object": "beer",
+  "name": "Margarita Monday",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

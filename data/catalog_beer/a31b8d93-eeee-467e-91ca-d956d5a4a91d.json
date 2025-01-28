@@ -1,0 +1,11 @@
+{
+  "id": "a31b8d93-eeee-467e-91ca-d956d5a4a91d",
+  "object": "beer",
+  "name": "Karl Strauss 25th Anniversary Barrel Aged Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

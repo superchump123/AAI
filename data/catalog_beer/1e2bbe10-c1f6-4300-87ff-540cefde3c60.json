@@ -1,0 +1,11 @@
+{
+  "id": "1e2bbe10-c1f6-4300-87ff-540cefde3c60",
+  "object": "beer",
+  "name": "Blanc",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

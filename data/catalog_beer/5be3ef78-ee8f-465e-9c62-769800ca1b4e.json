@@ -1,0 +1,11 @@
+{
+  "id": "5be3ef78-ee8f-465e-9c62-769800ca1b4e",
+  "object": "beer",
+  "name": "Riverwalk Empire",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

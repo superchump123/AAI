@@ -1,0 +1,11 @@
+{
+  "id": "d7e93c49-d15e-4d52-bbea-a7ba2ce59bcc",
+  "object": "beer",
+  "name": "Payback Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

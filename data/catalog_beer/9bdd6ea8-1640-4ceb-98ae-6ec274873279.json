@@ -1,0 +1,11 @@
+{
+  "id": "9bdd6ea8-1640-4ceb-98ae-6ec274873279",
+  "object": "beer",
+  "name": "Banana Seat",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f688554e-1c07-4ce1-961f-80a8250ad2ef",
+  "object": "beer",
+  "name": "NTD - Nitro Training Day",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

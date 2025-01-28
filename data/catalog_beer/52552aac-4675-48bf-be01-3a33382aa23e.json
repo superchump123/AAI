@@ -1,0 +1,11 @@
+{
+  "id": "52552aac-4675-48bf-be01-3a33382aa23e",
+  "object": "beer",
+  "name": "Maelstrom",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

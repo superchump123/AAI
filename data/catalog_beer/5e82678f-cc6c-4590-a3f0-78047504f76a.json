@@ -1,0 +1,11 @@
+{
+  "id": "5e82678f-cc6c-4590-a3f0-78047504f76a",
+  "object": "beer",
+  "name": "Sprinkles American Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9820014d-721b-4732-b1a7-e743cb95835e",
+  "object": "beer",
+  "name": "Blanche du Paradis",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

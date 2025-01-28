@@ -1,0 +1,11 @@
+{
+  "id": "a3a7d14e-9d7e-4bfa-80c7-d986d1a78270",
+  "object": "beer",
+  "name": "New Albion Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

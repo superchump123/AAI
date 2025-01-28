@@ -1,0 +1,11 @@
+{
+  "id": "78e2e0b4-9b57-4a84-8b0c-d2d51baabad3",
+  "object": "beer",
+  "name": "Black Mystic",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

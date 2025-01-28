@@ -1,0 +1,11 @@
+{
+  "id": "3eb753b8-73d8-4ee9-9d12-57f51501db0a",
+  "object": "beer",
+  "name": "Black Heart Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

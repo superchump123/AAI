@@ -1,0 +1,11 @@
+{
+  "id": "93c77d0b-25a5-42b9-8cda-c368128d3707",
+  "object": "beer",
+  "name": "Choice Make Good",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

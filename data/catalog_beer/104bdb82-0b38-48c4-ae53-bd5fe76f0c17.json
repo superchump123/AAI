@@ -1,0 +1,11 @@
+{
+  "id": "104bdb82-0b38-48c4-ae53-bd5fe76f0c17",
+  "object": "beer",
+  "name": "Two 5 Left DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

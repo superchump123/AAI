@@ -1,0 +1,11 @@
+{
+  "id": "f9bdd7cf-c2f6-42ad-9169-feba6788f9bd",
+  "object": "beer",
+  "name": "Plaid Panther",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

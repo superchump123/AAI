@@ -1,0 +1,11 @@
+{
+  "id": "620ab257-265d-43d6-90b2-7176a82f4d7e",
+  "object": "beer",
+  "name": "Shandi",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

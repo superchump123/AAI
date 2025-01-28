@@ -1,0 +1,11 @@
+{
+  "id": "26cf7cd0-9c3d-40b1-978c-5f33155ecf93",
+  "object": "beer",
+  "name": "Facula Tripel Wit",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

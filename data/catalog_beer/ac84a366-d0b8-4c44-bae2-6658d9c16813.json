@@ -1,0 +1,11 @@
+{
+  "id": "ac84a366-d0b8-4c44-bae2-6658d9c16813",
+  "object": "beer",
+  "name": "Hulihee Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

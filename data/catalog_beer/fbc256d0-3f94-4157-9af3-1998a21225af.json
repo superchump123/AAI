@@ -1,0 +1,11 @@
+{
+  "id": "fbc256d0-3f94-4157-9af3-1998a21225af",
+  "object": "beer",
+  "name": "Malka Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

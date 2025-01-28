@@ -1,0 +1,11 @@
+{
+  "id": "535998d7-9b5e-4699-8d12-34161cff44c9",
+  "object": "beer",
+  "name": "Tripel Reserve",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

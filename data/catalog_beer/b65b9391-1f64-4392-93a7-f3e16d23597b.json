@@ -1,0 +1,11 @@
+{
+  "id": "b65b9391-1f64-4392-93a7-f3e16d23597b",
+  "object": "beer",
+  "name": "Ivanhoe Pale Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

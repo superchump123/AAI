@@ -1,0 +1,11 @@
+{
+  "id": "6951e93f-b863-477b-bc6f-dcdeb9547a9f",
+  "object": "beer",
+  "name": "Red Shoes Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

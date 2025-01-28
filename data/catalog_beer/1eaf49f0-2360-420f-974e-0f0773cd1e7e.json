@@ -1,0 +1,11 @@
+{
+  "id": "1eaf49f0-2360-420f-974e-0f0773cd1e7e",
+  "object": "beer",
+  "name": "Leviathan \u00dcber-Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

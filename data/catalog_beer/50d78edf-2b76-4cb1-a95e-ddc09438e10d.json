@@ -1,0 +1,11 @@
+{
+  "id": "50d78edf-2b76-4cb1-a95e-ddc09438e10d",
+  "object": "beer",
+  "name": "Schaumburger Landbier-Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

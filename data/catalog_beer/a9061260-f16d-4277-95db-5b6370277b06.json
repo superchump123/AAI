@@ -1,0 +1,11 @@
+{
+  "id": "a9061260-f16d-4277-95db-5b6370277b06",
+  "object": "beer",
+  "name": "Berry The Hatchet",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

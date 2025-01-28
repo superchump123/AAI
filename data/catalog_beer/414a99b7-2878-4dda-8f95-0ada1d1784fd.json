@@ -1,0 +1,11 @@
+{
+  "id": "414a99b7-2878-4dda-8f95-0ada1d1784fd",
+  "object": "beer",
+  "name": "Hoppy Palm Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

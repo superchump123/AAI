@@ -1,0 +1,11 @@
+{
+  "id": "b3de84ec-3071-4c7d-8a16-b0e458be8a97",
+  "object": "beer",
+  "name": "Black and Wet",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

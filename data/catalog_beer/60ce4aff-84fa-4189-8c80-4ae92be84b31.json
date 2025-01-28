@@ -1,0 +1,11 @@
+{
+  "id": "60ce4aff-84fa-4189-8c80-4ae92be84b31",
+  "object": "beer",
+  "name": "B2B Cherry Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

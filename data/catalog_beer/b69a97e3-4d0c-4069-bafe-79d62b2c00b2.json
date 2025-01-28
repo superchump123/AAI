@@ -1,0 +1,11 @@
+{
+  "id": "b69a97e3-4d0c-4069-bafe-79d62b2c00b2",
+  "object": "beer",
+  "name": "Deconstruction",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

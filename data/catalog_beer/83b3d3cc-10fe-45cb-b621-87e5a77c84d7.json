@@ -1,0 +1,11 @@
+{
+  "id": "83b3d3cc-10fe-45cb-b621-87e5a77c84d7",
+  "object": "beer",
+  "name": "Chaider",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

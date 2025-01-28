@@ -1,0 +1,11 @@
+{
+  "id": "7cd314bf-2070-4444-ba13-2319850a46fc",
+  "object": "beer",
+  "name": "Hunt for Red Oaktober",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

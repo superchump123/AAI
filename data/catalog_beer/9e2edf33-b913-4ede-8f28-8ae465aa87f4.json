@@ -1,0 +1,11 @@
+{
+  "id": "9e2edf33-b913-4ede-8f28-8ae465aa87f4",
+  "object": "beer",
+  "name": "Cosmic Cowboy",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

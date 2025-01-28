@@ -1,0 +1,11 @@
+{
+  "id": "6f58be9b-4c2b-477c-8de6-3acf9cc20859",
+  "object": "beer",
+  "name": "FARM BOY",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

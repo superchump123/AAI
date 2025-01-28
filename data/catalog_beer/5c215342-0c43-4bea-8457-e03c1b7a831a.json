@@ -1,0 +1,11 @@
+{
+  "id": "5c215342-0c43-4bea-8457-e03c1b7a831a",
+  "object": "beer",
+  "name": "Roaming Bear Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4ad5d48d-dbd5-48d7-806d-f1c506b78dab",
+  "object": "beer",
+  "name": "Passion Fruit Bravo IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

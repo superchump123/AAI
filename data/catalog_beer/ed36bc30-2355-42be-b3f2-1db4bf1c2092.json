@@ -1,0 +1,11 @@
+{
+  "id": "ed36bc30-2355-42be-b3f2-1db4bf1c2092",
+  "object": "beer",
+  "name": "Blueberry Blast Kettle Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

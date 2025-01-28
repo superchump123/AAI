@@ -1,0 +1,11 @@
+{
+  "id": "fa2486d0-1ac0-4468-98ed-f8ea553a5fe7",
+  "object": "beer",
+  "name": "Vincent Van Couch",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b866b641-ddd5-4416-b7ec-0efcae49992c",
+  "object": "beer",
+  "name": "Pacific Pear Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

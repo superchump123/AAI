@@ -1,0 +1,11 @@
+{
+  "id": "088ccc45-e950-449e-ae05-21fa9b7c4f89",
+  "object": "beer",
+  "name": "Moonrise Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

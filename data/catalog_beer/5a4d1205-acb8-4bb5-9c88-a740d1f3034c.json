@@ -1,0 +1,11 @@
+{
+  "id": "5a4d1205-acb8-4bb5-9c88-a740d1f3034c",
+  "object": "beer",
+  "name": "Blackwing Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

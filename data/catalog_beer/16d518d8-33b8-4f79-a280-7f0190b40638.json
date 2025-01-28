@@ -1,0 +1,11 @@
+{
+  "id": "16d518d8-33b8-4f79-a280-7f0190b40638",
+  "object": "beer",
+  "name": "My City Is On Fire",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

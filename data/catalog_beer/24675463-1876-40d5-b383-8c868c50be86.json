@@ -1,0 +1,11 @@
+{
+  "id": "24675463-1876-40d5-b383-8c868c50be86",
+  "object": "beer",
+  "name": "Coup de Boule",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

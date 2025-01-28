@@ -1,0 +1,11 @@
+{
+  "id": "a11d839f-652a-4591-a202-37558d394e3c",
+  "object": "beer",
+  "name": "Pumpkinhead Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

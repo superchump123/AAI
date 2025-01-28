@@ -1,0 +1,11 @@
+{
+  "id": "14b545db-675e-4fe4-9ed5-f6c3bc8989d1",
+  "object": "beer",
+  "name": "PATH- Pale Ale True Hoboken",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

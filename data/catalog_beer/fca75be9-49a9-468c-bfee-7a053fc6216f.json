@@ -1,0 +1,11 @@
+{
+  "id": "fca75be9-49a9-468c-bfee-7a053fc6216f",
+  "object": "beer",
+  "name": "Lust",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

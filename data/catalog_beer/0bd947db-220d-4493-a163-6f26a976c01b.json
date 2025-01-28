@@ -1,0 +1,11 @@
+{
+  "id": "0bd947db-220d-4493-a163-6f26a976c01b",
+  "object": "beer",
+  "name": "Watermelon",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

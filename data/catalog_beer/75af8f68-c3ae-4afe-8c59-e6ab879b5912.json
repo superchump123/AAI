@@ -1,0 +1,11 @@
+{
+  "id": "75af8f68-c3ae-4afe-8c59-e6ab879b5912",
+  "object": "beer",
+  "name": "Susie Q Summer Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

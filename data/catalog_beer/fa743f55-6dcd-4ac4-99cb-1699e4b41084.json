@@ -1,0 +1,11 @@
+{
+  "id": "fa743f55-6dcd-4ac4-99cb-1699e4b41084",
+  "object": "beer",
+  "name": "Winter Brew",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

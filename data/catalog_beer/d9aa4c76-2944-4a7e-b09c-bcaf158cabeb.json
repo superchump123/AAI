@@ -1,0 +1,11 @@
+{
+  "id": "d9aa4c76-2944-4a7e-b09c-bcaf158cabeb",
+  "object": "beer",
+  "name": "Brown Chicken/Brown Cow",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

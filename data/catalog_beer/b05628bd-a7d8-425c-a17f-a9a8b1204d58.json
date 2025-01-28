@@ -1,0 +1,11 @@
+{
+  "id": "b05628bd-a7d8-425c-a17f-a9a8b1204d58",
+  "object": "beer",
+  "name": "8 Malty Nights",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

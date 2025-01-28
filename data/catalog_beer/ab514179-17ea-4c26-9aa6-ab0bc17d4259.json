@@ -1,0 +1,11 @@
+{
+  "id": "ab514179-17ea-4c26-9aa6-ab0bc17d4259",
+  "object": "beer",
+  "name": "IPO IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

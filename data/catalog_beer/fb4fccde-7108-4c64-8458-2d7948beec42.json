@@ -1,0 +1,11 @@
+{
+  "id": "fb4fccde-7108-4c64-8458-2d7948beec42",
+  "object": "beer",
+  "name": "Chaka",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

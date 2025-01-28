@@ -1,0 +1,11 @@
+{
+  "id": "d51cbf42-c145-44a7-b5a0-f3ca1827843c",
+  "object": "beer",
+  "name": "Pumpkinstein",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

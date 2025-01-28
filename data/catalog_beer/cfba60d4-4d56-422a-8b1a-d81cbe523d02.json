@@ -1,0 +1,11 @@
+{
+  "id": "cfba60d4-4d56-422a-8b1a-d81cbe523d02",
+  "object": "beer",
+  "name": "Lucille",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

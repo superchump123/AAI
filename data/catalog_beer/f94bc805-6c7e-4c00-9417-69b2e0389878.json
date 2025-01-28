@@ -1,0 +1,11 @@
+{
+  "id": "f94bc805-6c7e-4c00-9417-69b2e0389878",
+  "object": "beer",
+  "name": "Angry Santa",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

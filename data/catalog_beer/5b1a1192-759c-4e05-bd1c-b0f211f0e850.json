@@ -1,0 +1,11 @@
+{
+  "id": "5b1a1192-759c-4e05-bd1c-b0f211f0e850",
+  "object": "beer",
+  "name": "Hold Still",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

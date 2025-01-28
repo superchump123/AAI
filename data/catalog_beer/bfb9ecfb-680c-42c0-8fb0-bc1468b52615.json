@@ -1,0 +1,11 @@
+{
+  "id": "bfb9ecfb-680c-42c0-8fb0-bc1468b52615",
+  "object": "beer",
+  "name": "The Green Room",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

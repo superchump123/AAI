@@ -1,0 +1,11 @@
+{
+  "id": "3e5f25b4-d97a-498d-8be8-88b147e10b43",
+  "object": "beer",
+  "name": "Wayfarer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

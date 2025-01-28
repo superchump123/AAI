@@ -1,0 +1,11 @@
+{
+  "id": "5b0fe2a1-8fef-4997-8b27-3a27f2ee857b",
+  "object": "beer",
+  "name": "See The Light",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

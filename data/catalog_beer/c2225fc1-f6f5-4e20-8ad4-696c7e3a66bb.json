@@ -1,0 +1,11 @@
+{
+  "id": "c2225fc1-f6f5-4e20-8ad4-696c7e3a66bb",
+  "object": "beer",
+  "name": "Updog",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f2ad03df-6491-4758-8e79-a5a933def968",
+  "object": "beer",
+  "name": "Tripel Dog Dare",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

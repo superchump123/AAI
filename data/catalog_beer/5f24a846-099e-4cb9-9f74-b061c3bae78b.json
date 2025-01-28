@@ -1,0 +1,11 @@
+{
+  "id": "5f24a846-099e-4cb9-9f74-b061c3bae78b",
+  "object": "beer",
+  "name": "Gold Ochsen Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0cefe88a-eda7-42a9-bba7-fb401f6007b2",
+  "object": "beer",
+  "name": "Caulier 28 Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

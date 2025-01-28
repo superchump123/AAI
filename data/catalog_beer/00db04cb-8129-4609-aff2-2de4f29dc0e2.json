@@ -1,0 +1,11 @@
+{
+  "id": "00db04cb-8129-4609-aff2-2de4f29dc0e2",
+  "object": "beer",
+  "name": "The Glowing Sea",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

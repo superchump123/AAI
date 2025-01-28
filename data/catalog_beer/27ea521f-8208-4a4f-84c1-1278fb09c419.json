@@ -1,0 +1,11 @@
+{
+  "id": "27ea521f-8208-4a4f-84c1-1278fb09c419",
+  "object": "beer",
+  "name": "Japonica Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64f33cc1-5312-4716-be2f-525907cb2a2e",
+  "object": "beer",
+  "name": "Doc Rae Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

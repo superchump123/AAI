@@ -1,0 +1,11 @@
+{
+  "id": "60c1b468-efc0-4b58-9b13-11d81684ee6c",
+  "object": "beer",
+  "name": "O.T.R.",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

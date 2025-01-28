@@ -1,0 +1,11 @@
+{
+  "id": "5ea0397a-fc69-42a1-a775-df6c6cbc9041",
+  "object": "beer",
+  "name": "Red Dusk",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

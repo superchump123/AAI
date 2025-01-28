@@ -1,0 +1,11 @@
+{
+  "id": "fd29cd07-0926-4295-83b4-be64febb7656",
+  "object": "beer",
+  "name": "Bourbon Street Mint Julep",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0130d67a-a7b5-4202-a0d6-aae80eef1930",
+  "object": "beer",
+  "name": "Williams Ginger",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

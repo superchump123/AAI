@@ -1,0 +1,11 @@
+{
+  "id": "5fc8abca-1e59-4fa0-8a69-a841e37131aa",
+  "object": "beer",
+  "name": "Mama Zacca",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

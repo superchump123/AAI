@@ -1,0 +1,11 @@
+{
+  "id": "7bdddb47-9b7f-4f89-b3ba-5cd1c53738f8",
+  "object": "beer",
+  "name": "Kurofune Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

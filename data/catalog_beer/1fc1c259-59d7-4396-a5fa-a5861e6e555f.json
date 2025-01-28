@@ -1,0 +1,11 @@
+{
+  "id": "1fc1c259-59d7-4396-a5fa-a5861e6e555f",
+  "object": "beer",
+  "name": "Honey Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9c2d2ba1-7878-4e1c-99b6-8bcc7b8778f2",
+  "object": "beer",
+  "name": "Neunspringer Doppel Karamel",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

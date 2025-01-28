@@ -1,0 +1,11 @@
+{
+  "id": "b0177f95-22f3-4fc2-bfb4-673fd25c3328",
+  "object": "beer",
+  "name": "Twice Told",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 105,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

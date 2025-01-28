@@ -1,0 +1,11 @@
+{
+  "id": "2e794b38-bbd0-4d89-b5d6-71769798d8dd",
+  "object": "beer",
+  "name": "El Dorado",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

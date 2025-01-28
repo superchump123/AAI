@@ -1,0 +1,11 @@
+{
+  "id": "c3f75b2a-1bf6-4be6-8b9e-c2610a355a59",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

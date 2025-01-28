@@ -1,0 +1,11 @@
+{
+  "id": "325e591e-a6a5-4155-989f-969a81a2590e",
+  "object": "beer",
+  "name": "General Young's Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

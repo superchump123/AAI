@@ -1,0 +1,11 @@
+{
+  "id": "08b83d69-5750-44bf-b4c9-44644071d009",
+  "object": "beer",
+  "name": "Idaho Select Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

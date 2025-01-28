@@ -1,0 +1,11 @@
+{
+  "id": "e64f263d-6d09-4cd5-8e96-eef2d782d5e2",
+  "object": "beer",
+  "name": "Bough Breaker",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

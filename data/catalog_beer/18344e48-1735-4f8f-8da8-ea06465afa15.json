@@ -1,0 +1,11 @@
+{
+  "id": "18344e48-1735-4f8f-8da8-ea06465afa15",
+  "object": "beer",
+  "name": "Pakala Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

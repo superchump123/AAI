@@ -1,0 +1,11 @@
+{
+  "id": "f7f16102-cc99-4c5e-a70e-42b32cd450f3",
+  "object": "beer",
+  "name": "Shadowclock Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

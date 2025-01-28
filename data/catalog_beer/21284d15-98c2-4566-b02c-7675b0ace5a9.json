@@ -1,0 +1,11 @@
+{
+  "id": "21284d15-98c2-4566-b02c-7675b0ace5a9",
+  "object": "beer",
+  "name": "Lemongrass Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

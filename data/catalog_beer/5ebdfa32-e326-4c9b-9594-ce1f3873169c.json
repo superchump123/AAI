@@ -1,0 +1,11 @@
+{
+  "id": "5ebdfa32-e326-4c9b-9594-ce1f3873169c",
+  "object": "beer",
+  "name": "Mind's Eye P.A.",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

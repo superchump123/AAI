@@ -1,0 +1,11 @@
+{
+  "id": "7e81052e-89b6-44b6-85a3-b88f2d043832",
+  "object": "beer",
+  "name": "Cosmic Dancer",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

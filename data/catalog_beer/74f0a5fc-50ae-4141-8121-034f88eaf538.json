@@ -1,0 +1,11 @@
+{
+  "id": "74f0a5fc-50ae-4141-8121-034f88eaf538",
+  "object": "beer",
+  "name": "Projekt Mayhem",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

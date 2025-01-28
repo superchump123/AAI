@@ -1,0 +1,11 @@
+{
+  "id": "53f62d63-7f0d-4d32-be60-93a9e43ec483",
+  "object": "beer",
+  "name": "Little Kings",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

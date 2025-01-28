@@ -1,0 +1,11 @@
+{
+  "id": "89452e98-ca41-4438-b12c-c8eee75b8e42",
+  "object": "beer",
+  "name": "3's Company",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

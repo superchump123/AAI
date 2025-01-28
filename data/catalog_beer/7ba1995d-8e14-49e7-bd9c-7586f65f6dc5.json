@@ -1,0 +1,11 @@
+{
+  "id": "7ba1995d-8e14-49e7-bd9c-7586f65f6dc5",
+  "object": "beer",
+  "name": "Stock Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

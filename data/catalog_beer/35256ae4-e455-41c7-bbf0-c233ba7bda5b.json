@@ -1,0 +1,11 @@
+{
+  "id": "35256ae4-e455-41c7-bbf0-c233ba7bda5b",
+  "object": "beer",
+  "name": "Goose Festbier",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

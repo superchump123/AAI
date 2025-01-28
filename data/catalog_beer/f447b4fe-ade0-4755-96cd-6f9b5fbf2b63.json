@@ -1,0 +1,11 @@
+{
+  "id": "f447b4fe-ade0-4755-96cd-6f9b5fbf2b63",
+  "object": "beer",
+  "name": "Brimstone",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

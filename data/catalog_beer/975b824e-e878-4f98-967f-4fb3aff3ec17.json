@@ -1,0 +1,11 @@
+{
+  "id": "975b824e-e878-4f98-967f-4fb3aff3ec17",
+  "object": "beer",
+  "name": "Battle Horse",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

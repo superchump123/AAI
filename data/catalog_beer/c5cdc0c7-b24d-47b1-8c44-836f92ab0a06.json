@@ -1,0 +1,11 @@
+{
+  "id": "c5cdc0c7-b24d-47b1-8c44-836f92ab0a06",
+  "object": "beer",
+  "name": "Ale of the Hermit",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

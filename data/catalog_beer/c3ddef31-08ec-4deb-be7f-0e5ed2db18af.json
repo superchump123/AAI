@@ -1,0 +1,11 @@
+{
+  "id": "c3ddef31-08ec-4deb-be7f-0e5ed2db18af",
+  "object": "beer",
+  "name": "MK1",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

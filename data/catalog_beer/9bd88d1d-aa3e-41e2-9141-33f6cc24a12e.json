@@ -1,0 +1,11 @@
+{
+  "id": "9bd88d1d-aa3e-41e2-9141-33f6cc24a12e",
+  "object": "beer",
+  "name": "Where Lizards Dare",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

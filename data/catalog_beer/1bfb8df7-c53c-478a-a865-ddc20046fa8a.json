@@ -1,0 +1,11 @@
+{
+  "id": "1bfb8df7-c53c-478a-a865-ddc20046fa8a",
+  "object": "beer",
+  "name": "Golden Newt",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

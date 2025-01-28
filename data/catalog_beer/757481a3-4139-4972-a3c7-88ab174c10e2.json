@@ -1,0 +1,11 @@
+{
+  "id": "757481a3-4139-4972-a3c7-88ab174c10e2",
+  "object": "beer",
+  "name": "Belafonte",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

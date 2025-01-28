@@ -1,0 +1,11 @@
+{
+  "id": "7dc7e3ce-1fa8-4916-adc9-efb0fb538a9c",
+  "object": "beer",
+  "name": "Tommy's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

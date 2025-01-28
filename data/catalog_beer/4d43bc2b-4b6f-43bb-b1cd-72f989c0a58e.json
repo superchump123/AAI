@@ -1,0 +1,11 @@
+{
+  "id": "4d43bc2b-4b6f-43bb-b1cd-72f989c0a58e",
+  "object": "beer",
+  "name": "Brite Blond",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

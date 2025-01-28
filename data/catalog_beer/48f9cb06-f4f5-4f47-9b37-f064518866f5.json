@@ -1,0 +1,11 @@
+{
+  "id": "48f9cb06-f4f5-4f47-9b37-f064518866f5",
+  "object": "beer",
+  "name": "The Oud Couple",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

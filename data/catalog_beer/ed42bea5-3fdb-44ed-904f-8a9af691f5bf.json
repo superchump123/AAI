@@ -1,0 +1,11 @@
+{
+  "id": "ed42bea5-3fdb-44ed-904f-8a9af691f5bf",
+  "object": "beer",
+  "name": "North Third Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

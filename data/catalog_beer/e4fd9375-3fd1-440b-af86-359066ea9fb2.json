@@ -1,0 +1,11 @@
+{
+  "id": "e4fd9375-3fd1-440b-af86-359066ea9fb2",
+  "object": "beer",
+  "name": "High Sierra FestivAle",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

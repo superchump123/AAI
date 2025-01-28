@@ -1,0 +1,11 @@
+{
+  "id": "c5f46602-53a8-422b-8c34-d524d4d4591d",
+  "object": "beer",
+  "name": "Peche Cyser",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

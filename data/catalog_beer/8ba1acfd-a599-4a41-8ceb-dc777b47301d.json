@@ -1,0 +1,11 @@
+{
+  "id": "8ba1acfd-a599-4a41-8ceb-dc777b47301d",
+  "object": "beer",
+  "name": "Alcateia",
+  "style": "Grodziskie",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b5acd44f-b0e3-4b84-b6f3-2b338de24677",
+  "object": "beer",
+  "name": "Berlin Collaboration Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

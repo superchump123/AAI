@@ -1,0 +1,11 @@
+{
+  "id": "61b6fa24-b171-44e2-9f46-b2142ec683d9",
+  "object": "beer",
+  "name": "Bandwagon 8.0",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

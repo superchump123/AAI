@@ -1,0 +1,11 @@
+{
+  "id": "215a65c2-6dfe-401b-8f46-48a567420501",
+  "object": "beer",
+  "name": "Fury & Son Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

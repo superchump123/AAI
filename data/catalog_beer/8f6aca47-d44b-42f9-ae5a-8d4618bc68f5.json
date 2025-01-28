@@ -1,0 +1,11 @@
+{
+  "id": "8f6aca47-d44b-42f9-ae5a-8d4618bc68f5",
+  "object": "beer",
+  "name": "Starman",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

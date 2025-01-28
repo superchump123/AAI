@@ -1,0 +1,11 @@
+{
+  "id": "423c2134-0808-486d-a604-eee23e66007c",
+  "object": "beer",
+  "name": "Golden Pheasant",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

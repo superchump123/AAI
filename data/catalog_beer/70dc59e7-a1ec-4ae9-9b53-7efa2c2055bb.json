@@ -1,0 +1,11 @@
+{
+  "id": "70dc59e7-a1ec-4ae9-9b53-7efa2c2055bb",
+  "object": "beer",
+  "name": "Dark Island",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

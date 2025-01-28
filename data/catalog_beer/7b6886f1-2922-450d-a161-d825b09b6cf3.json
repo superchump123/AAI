@@ -1,0 +1,11 @@
+{
+  "id": "7b6886f1-2922-450d-a161-d825b09b6cf3",
+  "object": "beer",
+  "name": "Fiedler Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

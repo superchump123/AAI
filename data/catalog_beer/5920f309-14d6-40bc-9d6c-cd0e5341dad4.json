@@ -1,0 +1,11 @@
+{
+  "id": "5920f309-14d6-40bc-9d6c-cd0e5341dad4",
+  "object": "beer",
+  "name": "Skull Bucket IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

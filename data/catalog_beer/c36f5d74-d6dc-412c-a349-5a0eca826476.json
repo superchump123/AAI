@@ -1,0 +1,11 @@
+{
+  "id": "c36f5d74-d6dc-412c-a349-5a0eca826476",
+  "object": "beer",
+  "name": "Exesus Sanctum",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

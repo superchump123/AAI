@@ -1,0 +1,11 @@
+{
+  "id": "9a5a2388-be6d-461c-b233-019810765be6",
+  "object": "beer",
+  "name": "Pioneer",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

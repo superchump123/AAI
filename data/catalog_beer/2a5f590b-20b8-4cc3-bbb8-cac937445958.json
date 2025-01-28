@@ -1,0 +1,11 @@
+{
+  "id": "2a5f590b-20b8-4cc3-bbb8-cac937445958",
+  "object": "beer",
+  "name": "Coffee Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

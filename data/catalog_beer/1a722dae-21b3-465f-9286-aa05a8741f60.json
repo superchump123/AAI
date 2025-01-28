@@ -1,0 +1,11 @@
+{
+  "id": "1a722dae-21b3-465f-9286-aa05a8741f60",
+  "object": "beer",
+  "name": "Thurman's Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "78215017-6e57-4ff9-8158-54abcb9c86a9",
+  "object": "beer",
+  "name": "Pacific Coast Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65056ed5-91b6-4b32-9e75-d802486db1ae",
+  "object": "beer",
+  "name": "Acoustic Kitty",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

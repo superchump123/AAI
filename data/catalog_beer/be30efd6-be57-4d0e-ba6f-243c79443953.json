@@ -1,0 +1,11 @@
+{
+  "id": "be30efd6-be57-4d0e-ba6f-243c79443953",
+  "object": "beer",
+  "name": "The Destro",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

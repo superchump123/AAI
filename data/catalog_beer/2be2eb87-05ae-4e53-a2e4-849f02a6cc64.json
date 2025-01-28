@@ -1,0 +1,11 @@
+{
+  "id": "2be2eb87-05ae-4e53-a2e4-849f02a6cc64",
+  "object": "beer",
+  "name": "English Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

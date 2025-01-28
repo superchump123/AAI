@@ -1,0 +1,11 @@
+{
+  "id": "8c09c3f4-beaa-433f-aa22-853d1803ac85",
+  "object": "beer",
+  "name": "Sloop Solstice",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

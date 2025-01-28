@@ -1,0 +1,11 @@
+{
+  "id": "e53ba66c-e89e-4730-afbf-b72a26ac0230",
+  "object": "beer",
+  "name": "Komodo Dragonfly Black IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

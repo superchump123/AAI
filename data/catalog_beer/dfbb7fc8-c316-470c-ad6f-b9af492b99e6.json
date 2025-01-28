@@ -1,0 +1,11 @@
+{
+  "id": "dfbb7fc8-c316-470c-ad6f-b9af492b99e6",
+  "object": "beer",
+  "name": "Kuppler",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

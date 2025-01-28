@@ -1,0 +1,11 @@
+{
+  "id": "ccd908a5-0a91-4ddb-8f83-a9c298b721ec",
+  "object": "beer",
+  "name": "Hunchback",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5252d09d-b0d8-41f5-aa29-9c5b7df30e73",
+  "object": "beer",
+  "name": "The Golden Flounder",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

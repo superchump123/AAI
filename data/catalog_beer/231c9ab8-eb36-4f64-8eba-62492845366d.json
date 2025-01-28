@@ -1,0 +1,11 @@
+{
+  "id": "231c9ab8-eb36-4f64-8eba-62492845366d",
+  "object": "beer",
+  "name": "Hola Dali",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

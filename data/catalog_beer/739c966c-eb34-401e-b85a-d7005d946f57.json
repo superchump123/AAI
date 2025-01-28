@@ -1,0 +1,11 @@
+{
+  "id": "739c966c-eb34-401e-b85a-d7005d946f57",
+  "object": "beer",
+  "name": "Bootlegger Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "50d9a8e8-65ca-42a1-8984-dc629cb129a9",
+  "object": "beer",
+  "name": "Summerteeth",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

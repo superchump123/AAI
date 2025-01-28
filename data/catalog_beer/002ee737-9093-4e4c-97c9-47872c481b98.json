@@ -1,0 +1,11 @@
+{
+  "id": "002ee737-9093-4e4c-97c9-47872c481b98",
+  "object": "beer",
+  "name": "Thompson Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

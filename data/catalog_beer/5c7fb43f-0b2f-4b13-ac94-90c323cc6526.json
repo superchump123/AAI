@@ -1,0 +1,11 @@
+{
+  "id": "5c7fb43f-0b2f-4b13-ac94-90c323cc6526",
+  "object": "beer",
+  "name": "Bike Beer",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

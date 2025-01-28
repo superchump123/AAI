@@ -1,0 +1,11 @@
+{
+  "id": "0ff3d8f0-c0d0-4903-8929-b77cdf39285f",
+  "object": "beer",
+  "name": "Shanghai'd IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

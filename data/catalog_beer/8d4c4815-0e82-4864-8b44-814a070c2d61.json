@@ -1,0 +1,11 @@
+{
+  "id": "8d4c4815-0e82-4864-8b44-814a070c2d61",
+  "object": "beer",
+  "name": "Drake's Crude",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

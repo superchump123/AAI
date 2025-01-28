@@ -1,0 +1,11 @@
+{
+  "id": "f1277bbd-8aa3-42f2-8a88-e9ae4631b4ca",
+  "object": "beer",
+  "name": "Gnarly Brown Vanilla",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "05f62a65-44b5-4d60-b805-e45f1b25a751",
+  "object": "beer",
+  "name": "Smittlefest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 7.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

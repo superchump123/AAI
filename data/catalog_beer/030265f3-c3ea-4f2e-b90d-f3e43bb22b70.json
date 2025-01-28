@@ -1,0 +1,11 @@
+{
+  "id": "030265f3-c3ea-4f2e-b90d-f3e43bb22b70",
+  "object": "beer",
+  "name": "Covalent",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

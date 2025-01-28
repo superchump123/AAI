@@ -1,0 +1,11 @@
+{
+  "id": "16f2e08a-628b-47ae-90b5-e7388b194f0d",
+  "object": "beer",
+  "name": "Baltas Alus",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

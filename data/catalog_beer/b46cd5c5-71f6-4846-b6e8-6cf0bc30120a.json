@@ -1,0 +1,11 @@
+{
+  "id": "b46cd5c5-71f6-4846-b6e8-6cf0bc30120a",
+  "object": "beer",
+  "name": "Sorcerer",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

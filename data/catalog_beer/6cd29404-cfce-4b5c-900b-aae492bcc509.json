@@ -1,0 +1,11 @@
+{
+  "id": "6cd29404-cfce-4b5c-900b-aae492bcc509",
+  "object": "beer",
+  "name": "Gato del Sol IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

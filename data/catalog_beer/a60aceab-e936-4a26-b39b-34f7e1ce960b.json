@@ -1,0 +1,11 @@
+{
+  "id": "a60aceab-e936-4a26-b39b-34f7e1ce960b",
+  "object": "beer",
+  "name": "Green Thumb",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65d78f4f-33ec-4d58-a583-f761b71769d0",
+  "object": "beer",
+  "name": "Cambridge IPA Dark",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

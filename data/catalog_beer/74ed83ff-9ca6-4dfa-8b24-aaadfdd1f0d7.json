@@ -1,0 +1,11 @@
+{
+  "id": "74ed83ff-9ca6-4dfa-8b24-aaadfdd1f0d7",
+  "object": "beer",
+  "name": "Hyzer Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

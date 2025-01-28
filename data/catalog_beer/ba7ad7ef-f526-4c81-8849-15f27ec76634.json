@@ -1,0 +1,11 @@
+{
+  "id": "ba7ad7ef-f526-4c81-8849-15f27ec76634",
+  "object": "beer",
+  "name": "Wicked Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

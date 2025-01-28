@@ -1,0 +1,11 @@
+{
+  "id": "16ff7bc8-22fe-488d-89ce-a6aea536af97",
+  "object": "beer",
+  "name": "Turtle Murder",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

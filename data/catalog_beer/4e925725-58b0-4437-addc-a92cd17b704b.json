@@ -1,0 +1,11 @@
+{
+  "id": "4e925725-58b0-4437-addc-a92cd17b704b",
+  "object": "beer",
+  "name": "Antimatter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

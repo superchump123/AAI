@@ -1,0 +1,11 @@
+{
+  "id": "fe8ded9e-66e6-432b-9072-6e33283ae4c7",
+  "object": "beer",
+  "name": "Big Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

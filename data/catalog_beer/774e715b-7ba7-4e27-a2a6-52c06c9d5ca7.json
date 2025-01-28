@@ -1,0 +1,11 @@
+{
+  "id": "774e715b-7ba7-4e27-a2a6-52c06c9d5ca7",
+  "object": "beer",
+  "name": "King Fergus Southern English Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

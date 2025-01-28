@@ -1,0 +1,11 @@
+{
+  "id": "a86179e4-b5e5-4855-9de3-0b2c55517a5b",
+  "object": "beer",
+  "name": "Trashy Blonde",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

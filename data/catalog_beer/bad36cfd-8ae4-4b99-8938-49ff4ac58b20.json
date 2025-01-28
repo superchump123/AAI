@@ -1,0 +1,11 @@
+{
+  "id": "bad36cfd-8ae4-4b99-8938-49ff4ac58b20",
+  "object": "beer",
+  "name": "La Broue dans l\u2019Toupette",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

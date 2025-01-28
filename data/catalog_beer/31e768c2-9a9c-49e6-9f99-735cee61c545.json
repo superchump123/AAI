@@ -1,0 +1,11 @@
+{
+  "id": "31e768c2-9a9c-49e6-9f99-735cee61c545",
+  "object": "beer",
+  "name": "Coconut IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

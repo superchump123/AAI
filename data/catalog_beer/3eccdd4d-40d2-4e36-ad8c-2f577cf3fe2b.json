@@ -1,0 +1,11 @@
+{
+  "id": "3eccdd4d-40d2-4e36-ad8c-2f577cf3fe2b",
+  "object": "beer",
+  "name": "Barreliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

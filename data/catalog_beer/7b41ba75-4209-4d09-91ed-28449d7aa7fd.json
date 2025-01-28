@@ -1,0 +1,11 @@
+{
+  "id": "7b41ba75-4209-4d09-91ed-28449d7aa7fd",
+  "object": "beer",
+  "name": "Abbey Triple",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

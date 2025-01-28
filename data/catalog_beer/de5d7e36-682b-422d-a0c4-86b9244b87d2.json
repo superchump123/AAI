@@ -1,0 +1,11 @@
+{
+  "id": "de5d7e36-682b-422d-a0c4-86b9244b87d2",
+  "object": "beer",
+  "name": "F\u00fcchschen Weihnachtsbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

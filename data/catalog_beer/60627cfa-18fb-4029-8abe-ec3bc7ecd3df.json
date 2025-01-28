@@ -1,0 +1,11 @@
+{
+  "id": "60627cfa-18fb-4029-8abe-ec3bc7ecd3df",
+  "object": "beer",
+  "name": "Bad Bad Leroy Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 81,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

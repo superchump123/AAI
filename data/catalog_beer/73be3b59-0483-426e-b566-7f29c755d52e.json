@@ -1,0 +1,11 @@
+{
+  "id": "73be3b59-0483-426e-b566-7f29c755d52e",
+  "object": "beer",
+  "name": "Sidewinder",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1c33b42f-58fa-4cfb-aa88-dcb6de9e9e07",
+  "object": "beer",
+  "name": "Monstrosus",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 14.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

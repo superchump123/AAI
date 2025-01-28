@@ -1,0 +1,11 @@
+{
+  "id": "99fece11-9e79-4d91-954d-cc050bb032fe",
+  "object": "beer",
+  "name": "Morning After",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

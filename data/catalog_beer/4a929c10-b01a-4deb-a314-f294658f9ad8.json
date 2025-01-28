@@ -1,0 +1,11 @@
+{
+  "id": "4a929c10-b01a-4deb-a314-f294658f9ad8",
+  "object": "beer",
+  "name": "New World Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

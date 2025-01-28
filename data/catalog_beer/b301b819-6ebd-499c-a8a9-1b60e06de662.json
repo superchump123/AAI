@@ -1,0 +1,11 @@
+{
+  "id": "b301b819-6ebd-499c-a8a9-1b60e06de662",
+  "object": "beer",
+  "name": "Dark Matter",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

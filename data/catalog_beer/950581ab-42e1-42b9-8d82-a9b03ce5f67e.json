@@ -1,0 +1,11 @@
+{
+  "id": "950581ab-42e1-42b9-8d82-a9b03ce5f67e",
+  "object": "beer",
+  "name": "Tidal",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

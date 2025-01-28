@@ -1,0 +1,11 @@
+{
+  "id": "26bf2aac-26b1-4442-813d-bc7e62c3287e",
+  "object": "beer",
+  "name": "Summer Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

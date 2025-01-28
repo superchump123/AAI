@@ -1,0 +1,11 @@
+{
+  "id": "ccdd86ed-2931-40b3-9128-f93850a31beb",
+  "object": "beer",
+  "name": "The Skippers Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4cba6da5-da1c-4542-8c69-7ebf74dd00d1",
+  "object": "beer",
+  "name": "Blueberry Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

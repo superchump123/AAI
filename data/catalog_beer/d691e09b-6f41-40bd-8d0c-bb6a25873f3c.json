@@ -1,0 +1,11 @@
+{
+  "id": "d691e09b-6f41-40bd-8d0c-bb6a25873f3c",
+  "object": "beer",
+  "name": "Bachelor Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

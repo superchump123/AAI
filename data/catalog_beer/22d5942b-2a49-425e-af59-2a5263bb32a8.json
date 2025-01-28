@@ -1,0 +1,11 @@
+{
+  "id": "22d5942b-2a49-425e-af59-2a5263bb32a8",
+  "object": "beer",
+  "name": "Kilauea Black Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

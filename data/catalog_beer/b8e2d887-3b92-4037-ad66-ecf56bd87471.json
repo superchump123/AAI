@@ -1,0 +1,11 @@
+{
+  "id": "b8e2d887-3b92-4037-ad66-ecf56bd87471",
+  "object": "beer",
+  "name": "Spring Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

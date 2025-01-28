@@ -1,0 +1,11 @@
+{
+  "id": "a7d82da1-b162-46e8-92e7-2e9e0d28c01d",
+  "object": "beer",
+  "name": "Old '96 Sticke Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

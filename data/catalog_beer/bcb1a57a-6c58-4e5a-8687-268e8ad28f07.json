@@ -1,0 +1,11 @@
+{
+  "id": "bcb1a57a-6c58-4e5a-8687-268e8ad28f07",
+  "object": "beer",
+  "name": "Gran Sport",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

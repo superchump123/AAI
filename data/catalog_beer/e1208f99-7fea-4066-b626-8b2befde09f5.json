@@ -1,0 +1,11 @@
+{
+  "id": "e1208f99-7fea-4066-b626-8b2befde09f5",
+  "object": "beer",
+  "name": "FT3",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

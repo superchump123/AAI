@@ -1,0 +1,11 @@
+{
+  "id": "39e13fbb-176d-489c-b8ce-bd9625b9dfd0",
+  "object": "beer",
+  "name": "Glutenberg Blonde",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

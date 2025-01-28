@@ -1,0 +1,11 @@
+{
+  "id": "488d0b3c-b3d6-468f-97ea-bcab87734d28",
+  "object": "beer",
+  "name": "Revolution Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

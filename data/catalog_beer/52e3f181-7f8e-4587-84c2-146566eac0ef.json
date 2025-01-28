@@ -1,0 +1,11 @@
+{
+  "id": "52e3f181-7f8e-4587-84c2-146566eac0ef",
+  "object": "beer",
+  "name": "Christmas Cranberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

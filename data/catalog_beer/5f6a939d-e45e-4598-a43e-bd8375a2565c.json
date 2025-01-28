@@ -1,0 +1,11 @@
+{
+  "id": "5f6a939d-e45e-4598-a43e-bd8375a2565c",
+  "object": "beer",
+  "name": "WEISSTHEIMER - Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

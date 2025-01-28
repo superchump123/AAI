@@ -1,0 +1,11 @@
+{
+  "id": "db5e9455-5925-4b78-a171-1cab685eb8e2",
+  "object": "beer",
+  "name": "Chapel",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

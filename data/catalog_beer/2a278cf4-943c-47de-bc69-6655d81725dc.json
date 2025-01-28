@@ -1,0 +1,11 @@
+{
+  "id": "2a278cf4-943c-47de-bc69-6655d81725dc",
+  "object": "beer",
+  "name": "Horizon Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

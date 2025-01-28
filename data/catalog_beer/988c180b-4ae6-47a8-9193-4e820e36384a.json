@@ -1,0 +1,11 @@
+{
+  "id": "988c180b-4ae6-47a8-9193-4e820e36384a",
+  "object": "beer",
+  "name": "Moa St Josephs Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cc35a22a-365e-4423-83ab-64da85114d4d",
+  "object": "beer",
+  "name": "Midnight Cab",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 75,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

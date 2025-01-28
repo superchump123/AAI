@@ -1,0 +1,11 @@
+{
+  "id": "34f1f2ed-2d7e-4179-bd02-6b4762e70070",
+  "object": "beer",
+  "name": "Vichtenaar",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

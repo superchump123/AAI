@@ -1,0 +1,11 @@
+{
+  "id": "dd7a1358-c8c0-4f78-abfd-4a7638570a45",
+  "object": "beer",
+  "name": "Kasteel Winter",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

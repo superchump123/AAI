@@ -1,0 +1,11 @@
+{
+  "id": "fd7d4779-9092-4573-b589-0ada433120fb",
+  "object": "beer",
+  "name": "SchuppenBoer",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4540c89f-f2f2-44e2-880e-6c1667235b58",
+  "object": "beer",
+  "name": "Ridge Run Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

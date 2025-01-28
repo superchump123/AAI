@@ -1,0 +1,11 @@
+{
+  "id": "0b87c454-4d7a-40be-a3d1-fbc3c0d4b159",
+  "object": "beer",
+  "name": "Barstool",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

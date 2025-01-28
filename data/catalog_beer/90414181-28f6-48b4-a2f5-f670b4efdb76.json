@@ -1,0 +1,11 @@
+{
+  "id": "90414181-28f6-48b4-a2f5-f670b4efdb76",
+  "object": "beer",
+  "name": "Holy Cow IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

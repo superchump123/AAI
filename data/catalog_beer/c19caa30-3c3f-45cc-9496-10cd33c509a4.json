@@ -1,0 +1,11 @@
+{
+  "id": "c19caa30-3c3f-45cc-9496-10cd33c509a4",
+  "object": "beer",
+  "name": "Yammy Yammy",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

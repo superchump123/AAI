@@ -1,0 +1,11 @@
+{
+  "id": "ed00288a-c4a4-46e0-a3da-26d2b6351e86",
+  "object": "beer",
+  "name": "Dive Bomb Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

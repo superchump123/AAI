@@ -1,0 +1,11 @@
+{
+  "id": "50feacf1-c08b-4eee-a080-38804e742301",
+  "object": "beer",
+  "name": "Raspberry Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

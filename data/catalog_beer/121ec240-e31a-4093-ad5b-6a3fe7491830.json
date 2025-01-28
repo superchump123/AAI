@@ -1,0 +1,11 @@
+{
+  "id": "121ec240-e31a-4093-ad5b-6a3fe7491830",
+  "object": "beer",
+  "name": "Weiss Principal Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

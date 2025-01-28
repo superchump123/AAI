@@ -1,0 +1,11 @@
+{
+  "id": "0591ca68-eacc-4cd1-8ca6-62a5f1ce8ab2",
+  "object": "beer",
+  "name": "Budapest Gambit",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

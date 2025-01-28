@@ -1,0 +1,11 @@
+{
+  "id": "2c6fff3f-385a-4dc2-84ee-847448ff6083",
+  "object": "beer",
+  "name": "Pacific Gravity",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

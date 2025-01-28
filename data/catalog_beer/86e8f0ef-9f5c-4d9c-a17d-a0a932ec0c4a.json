@@ -1,0 +1,11 @@
+{
+  "id": "86e8f0ef-9f5c-4d9c-a17d-a0a932ec0c4a",
+  "object": "beer",
+  "name": "Makumba",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

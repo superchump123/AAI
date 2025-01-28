@@ -1,0 +1,11 @@
+{
+  "id": "71061ea7-01d8-49c9-bce4-042832d6e9a1",
+  "object": "beer",
+  "name": "Bravo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

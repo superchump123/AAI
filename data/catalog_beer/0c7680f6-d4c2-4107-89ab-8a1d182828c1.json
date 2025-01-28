@@ -1,0 +1,11 @@
+{
+  "id": "0c7680f6-d4c2-4107-89ab-8a1d182828c1",
+  "object": "beer",
+  "name": "River City Raspberry Wheat Ale",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

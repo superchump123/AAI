@@ -1,0 +1,11 @@
+{
+  "id": "fd4cf69f-4fdb-41ab-a561-1c05c43ad21f",
+  "object": "beer",
+  "name": "Mystic Lamb Lavender Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

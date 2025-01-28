@@ -1,0 +1,11 @@
+{
+  "id": "1b8a3ba9-7a59-40de-8121-2e0e37fba0c3",
+  "object": "beer",
+  "name": "Haze Flux",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

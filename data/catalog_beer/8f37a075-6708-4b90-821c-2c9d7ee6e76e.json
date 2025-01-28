@@ -1,0 +1,11 @@
+{
+  "id": "8f37a075-6708-4b90-821c-2c9d7ee6e76e",
+  "object": "beer",
+  "name": "Colossal Six",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

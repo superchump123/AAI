@@ -1,0 +1,11 @@
+{
+  "id": "e03a21a0-99cb-4440-a76d-0140df6da511",
+  "object": "beer",
+  "name": "Ironhorse",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

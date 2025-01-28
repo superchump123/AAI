@@ -1,0 +1,11 @@
+{
+  "id": "d6661cc0-9b25-4690-86fd-73339e221643",
+  "object": "beer",
+  "name": "Wild Jo",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

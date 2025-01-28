@@ -1,0 +1,11 @@
+{
+  "id": "d5b769ce-70c0-44b3-8698-2b5757fe7a5a",
+  "object": "beer",
+  "name": "Tarasque",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

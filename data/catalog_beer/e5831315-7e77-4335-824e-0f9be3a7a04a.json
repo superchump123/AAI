@@ -1,0 +1,11 @@
+{
+  "id": "e5831315-7e77-4335-824e-0f9be3a7a04a",
+  "object": "beer",
+  "name": "Staple English IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

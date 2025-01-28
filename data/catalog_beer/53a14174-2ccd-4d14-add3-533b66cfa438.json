@@ -1,0 +1,11 @@
+{
+  "id": "53a14174-2ccd-4d14-add3-533b66cfa438",
+  "object": "beer",
+  "name": "Union'Hop",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

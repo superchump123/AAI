@@ -1,0 +1,11 @@
+{
+  "id": "321c0c86-794a-4861-9a64-e77defdecb7d",
+  "object": "beer",
+  "name": "Clink!",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

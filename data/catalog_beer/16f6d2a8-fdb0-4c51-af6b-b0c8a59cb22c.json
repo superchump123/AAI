@@ -1,0 +1,11 @@
+{
+  "id": "16f6d2a8-fdb0-4c51-af6b-b0c8a59cb22c",
+  "object": "beer",
+  "name": "Redrum",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

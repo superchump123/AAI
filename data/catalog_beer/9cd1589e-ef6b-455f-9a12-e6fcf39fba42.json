@@ -1,0 +1,11 @@
+{
+  "id": "9cd1589e-ef6b-455f-9a12-e6fcf39fba42",
+  "object": "beer",
+  "name": "Prospect Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

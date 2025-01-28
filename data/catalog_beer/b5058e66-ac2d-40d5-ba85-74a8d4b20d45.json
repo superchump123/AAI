@@ -1,0 +1,11 @@
+{
+  "id": "b5058e66-ac2d-40d5-ba85-74a8d4b20d45",
+  "object": "beer",
+  "name": "Malton Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

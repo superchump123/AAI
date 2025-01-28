@@ -1,0 +1,11 @@
+{
+  "id": "9ee746d0-aab0-45a8-b6fa-196c1ee48ab9",
+  "object": "beer",
+  "name": "Exchequer Amber",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

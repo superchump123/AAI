@@ -1,0 +1,11 @@
+{
+  "id": "b51a98f9-4560-47d2-8b0a-0771a2c83bce",
+  "object": "beer",
+  "name": "Hex XPA",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

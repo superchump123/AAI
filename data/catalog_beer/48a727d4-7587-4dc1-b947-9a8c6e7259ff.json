@@ -1,0 +1,11 @@
+{
+  "id": "48a727d4-7587-4dc1-b947-9a8c6e7259ff",
+  "object": "beer",
+  "name": "Martini Edel-Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

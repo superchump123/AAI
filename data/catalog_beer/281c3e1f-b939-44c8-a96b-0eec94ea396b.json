@@ -1,0 +1,11 @@
+{
+  "id": "281c3e1f-b939-44c8-a96b-0eec94ea396b",
+  "object": "beer",
+  "name": "Second Rodeo",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

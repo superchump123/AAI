@@ -1,0 +1,11 @@
+{
+  "id": "e864e21c-0061-4fdf-8f63-a646eb002b6f",
+  "object": "beer",
+  "name": "Special",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

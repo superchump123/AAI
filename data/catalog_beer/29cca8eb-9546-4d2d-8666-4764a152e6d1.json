@@ -1,0 +1,11 @@
+{
+  "id": "29cca8eb-9546-4d2d-8666-4764a152e6d1",
+  "object": "beer",
+  "name": "Brahma Extra",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

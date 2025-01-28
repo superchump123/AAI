@@ -1,0 +1,11 @@
+{
+  "id": "4b6a67b4-6c93-47a6-a746-3f30ea28ece4",
+  "object": "beer",
+  "name": "Evil Genius",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

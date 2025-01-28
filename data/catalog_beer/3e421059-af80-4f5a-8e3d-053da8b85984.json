@@ -1,0 +1,11 @@
+{
+  "id": "3e421059-af80-4f5a-8e3d-053da8b85984",
+  "object": "beer",
+  "name": "AfterBurner Habanero Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ec386b1c-7035-4710-952a-cc51c7487d82",
+  "object": "beer",
+  "name": "Evil Eye",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

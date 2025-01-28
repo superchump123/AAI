@@ -1,0 +1,11 @@
+{
+  "id": "d79368c9-39a4-4b58-9524-5f4513bf6f2f",
+  "object": "beer",
+  "name": "The Carlton",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "384bd4ab-8dfa-46df-8033-01eb9534241f",
+  "object": "beer",
+  "name": "Exit 12 Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

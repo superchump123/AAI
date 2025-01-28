@@ -1,0 +1,11 @@
+{
+  "id": "7d556f59-1159-41be-a8dd-462fcb6f5ba9",
+  "object": "beer",
+  "name": "River Rouge IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

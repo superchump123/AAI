@@ -1,0 +1,11 @@
+{
+  "id": "bbc9503e-9386-4d4e-8e54-ab5c59c1ffbe",
+  "object": "beer",
+  "name": "Colorado Sunset Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

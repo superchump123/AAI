@@ -1,0 +1,11 @@
+{
+  "id": "f40c661d-b6ef-4323-8221-1bf2c52b3d10",
+  "object": "beer",
+  "name": "Fleur d' Elise",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

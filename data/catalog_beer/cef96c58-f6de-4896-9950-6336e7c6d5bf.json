@@ -1,0 +1,11 @@
+{
+  "id": "cef96c58-f6de-4896-9950-6336e7c6d5bf",
+  "object": "beer",
+  "name": "Tabula Rasa",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

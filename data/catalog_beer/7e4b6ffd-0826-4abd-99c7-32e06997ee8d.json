@@ -1,0 +1,11 @@
+{
+  "id": "7e4b6ffd-0826-4abd-99c7-32e06997ee8d",
+  "object": "beer",
+  "name": "Greenade Organic IIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

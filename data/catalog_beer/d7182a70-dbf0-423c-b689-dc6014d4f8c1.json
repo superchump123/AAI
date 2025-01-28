@@ -1,0 +1,11 @@
+{
+  "id": "d7182a70-dbf0-423c-b689-dc6014d4f8c1",
+  "object": "beer",
+  "name": "Rectifier",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

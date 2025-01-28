@@ -1,0 +1,11 @@
+{
+  "id": "8cd04cec-aad4-498d-b6b4-c43674e06ecb",
+  "object": "beer",
+  "name": "Armand'4 Lente",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

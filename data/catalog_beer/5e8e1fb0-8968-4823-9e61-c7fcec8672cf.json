@@ -1,0 +1,11 @@
+{
+  "id": "5e8e1fb0-8968-4823-9e61-c7fcec8672cf",
+  "object": "beer",
+  "name": "Dust Bunny",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

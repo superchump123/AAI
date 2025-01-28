@@ -1,0 +1,11 @@
+{
+  "id": "fa5f100f-b34b-4c42-b77c-20a7e31e08a9",
+  "object": "beer",
+  "name": "Biloxi Blonde",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

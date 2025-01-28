@@ -1,0 +1,11 @@
+{
+  "id": "2204df57-6d34-4e47-980e-57c0d0c1c44f",
+  "object": "beer",
+  "name": "Maggie's Dog Slobber Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

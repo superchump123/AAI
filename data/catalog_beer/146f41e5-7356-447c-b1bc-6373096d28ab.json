@@ -1,0 +1,11 @@
+{
+  "id": "146f41e5-7356-447c-b1bc-6373096d28ab",
+  "object": "beer",
+  "name": "Little Mo'",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

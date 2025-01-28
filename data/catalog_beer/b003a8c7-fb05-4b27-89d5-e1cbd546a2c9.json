@@ -1,0 +1,11 @@
+{
+  "id": "b003a8c7-fb05-4b27-89d5-e1cbd546a2c9",
+  "object": "beer",
+  "name": "Test Batch #5: Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

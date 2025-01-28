@@ -1,0 +1,11 @@
+{
+  "id": "5051b471-c552-4b41-ac84-f3a42e8d7212",
+  "object": "beer",
+  "name": "The Fletcher",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

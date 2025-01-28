@@ -1,0 +1,11 @@
+{
+  "id": "d46ecaf4-abce-40aa-be4b-cdfdc996cff9",
+  "object": "beer",
+  "name": "Black Tuesday",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 19.7,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

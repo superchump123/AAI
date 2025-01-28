@@ -1,0 +1,11 @@
+{
+  "id": "9e04239a-5137-4791-83e4-15fb71b55e34",
+  "object": "beer",
+  "name": "Dirty Hippy",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

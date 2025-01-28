@@ -1,0 +1,11 @@
+{
+  "id": "e5e1068d-9054-4260-a7b5-c9e6f0cabffa",
+  "object": "beer",
+  "name": "Hausterhosen",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

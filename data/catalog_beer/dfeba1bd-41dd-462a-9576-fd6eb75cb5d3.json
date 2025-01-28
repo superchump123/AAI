@@ -1,0 +1,11 @@
+{
+  "id": "dfeba1bd-41dd-462a-9576-fd6eb75cb5d3",
+  "object": "beer",
+  "name": "Lost Lake IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5c4a518d-dbd9-4272-8ff4-f4a9538693e6",
+  "object": "beer",
+  "name": "Garden Fare",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

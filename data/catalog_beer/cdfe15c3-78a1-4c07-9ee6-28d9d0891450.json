@@ -1,0 +1,11 @@
+{
+  "id": "cdfe15c3-78a1-4c07-9ee6-28d9d0891450",
+  "object": "beer",
+  "name": "Midnight Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

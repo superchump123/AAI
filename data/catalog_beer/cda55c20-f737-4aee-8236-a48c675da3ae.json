@@ -1,0 +1,11 @@
+{
+  "id": "cda55c20-f737-4aee-8236-a48c675da3ae",
+  "object": "beer",
+  "name": "Fred Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

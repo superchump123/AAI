@@ -1,0 +1,11 @@
+{
+  "id": "8fdd4c3c-0c25-4d08-983c-83965e154119",
+  "object": "beer",
+  "name": "Chocolatey",
+  "style": "Lite Dry Stout",
+  "description": "Chocolatey, rich, smooth dry stout is perfectly balanced for your glass.",
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": true,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "32d45d32-0339-4346-bbbc-a2ffce46f044",
+  "object": "beer",
+  "name": "Wiener Wasser",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

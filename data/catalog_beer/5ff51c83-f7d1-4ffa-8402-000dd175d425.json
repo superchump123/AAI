@@ -1,0 +1,11 @@
+{
+  "id": "5ff51c83-f7d1-4ffa-8402-000dd175d425",
+  "object": "beer",
+  "name": "Otter ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

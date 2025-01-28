@@ -1,0 +1,11 @@
+{
+  "id": "a42d0d6b-df84-4ef9-9bb1-8e62d6582c3e",
+  "object": "beer",
+  "name": "The Duke",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

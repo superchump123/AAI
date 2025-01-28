@@ -1,0 +1,11 @@
+{
+  "id": "d2da3dca-d0b1-4464-bc7d-d8daa28fc0fd",
+  "object": "beer",
+  "name": "Bitter",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

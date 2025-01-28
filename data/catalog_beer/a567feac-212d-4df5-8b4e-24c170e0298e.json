@@ -1,0 +1,11 @@
+{
+  "id": "a567feac-212d-4df5-8b4e-24c170e0298e",
+  "object": "beer",
+  "name": "Redbocq",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

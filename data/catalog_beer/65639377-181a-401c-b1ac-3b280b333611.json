@@ -1,0 +1,11 @@
+{
+  "id": "65639377-181a-401c-b1ac-3b280b333611",
+  "object": "beer",
+  "name": "Grand-Am",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

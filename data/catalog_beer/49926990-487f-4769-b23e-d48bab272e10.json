@@ -1,0 +1,11 @@
+{
+  "id": "49926990-487f-4769-b23e-d48bab272e10",
+  "object": "beer",
+  "name": "Pale Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

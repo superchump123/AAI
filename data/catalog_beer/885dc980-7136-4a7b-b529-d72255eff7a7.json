@@ -1,0 +1,11 @@
+{
+  "id": "885dc980-7136-4a7b-b529-d72255eff7a7",
+  "object": "beer",
+  "name": "Cryptic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

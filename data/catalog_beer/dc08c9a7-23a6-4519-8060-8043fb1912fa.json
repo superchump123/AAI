@@ -1,0 +1,11 @@
+{
+  "id": "dc08c9a7-23a6-4519-8060-8043fb1912fa",
+  "object": "beer",
+  "name": "Chardonnay Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

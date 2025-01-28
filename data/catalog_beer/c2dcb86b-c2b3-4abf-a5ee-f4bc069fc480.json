@@ -1,0 +1,11 @@
+{
+  "id": "c2dcb86b-c2b3-4abf-a5ee-f4bc069fc480",
+  "object": "beer",
+  "name": "Nutter Your Business Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

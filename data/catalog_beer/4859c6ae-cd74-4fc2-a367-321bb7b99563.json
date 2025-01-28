@@ -1,0 +1,11 @@
+{
+  "id": "4859c6ae-cd74-4fc2-a367-321bb7b99563",
+  "object": "beer",
+  "name": "Cowboy Coffee",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

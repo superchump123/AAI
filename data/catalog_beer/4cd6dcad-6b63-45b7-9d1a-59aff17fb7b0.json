@@ -1,0 +1,11 @@
+{
+  "id": "4cd6dcad-6b63-45b7-9d1a-59aff17fb7b0",
+  "object": "beer",
+  "name": "Sixty-Six Lager",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c287ee83-38d8-4775-a82e-9dd7249eebd3",
+  "object": "beer",
+  "name": "A Paranormal Vibe",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

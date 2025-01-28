@@ -1,0 +1,11 @@
+{
+  "id": "ec1aba34-9004-43fb-8979-4cc3feb624a0",
+  "object": "beer",
+  "name": "Slow Elk Nitro",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

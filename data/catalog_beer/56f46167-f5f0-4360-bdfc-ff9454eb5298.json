@@ -1,0 +1,11 @@
+{
+  "id": "56f46167-f5f0-4360-bdfc-ff9454eb5298",
+  "object": "beer",
+  "name": "OB-1",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

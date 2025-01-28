@@ -1,0 +1,11 @@
+{
+  "id": "08166c98-308f-477a-a96b-673740d81e9c",
+  "object": "beer",
+  "name": "Crank Tank",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

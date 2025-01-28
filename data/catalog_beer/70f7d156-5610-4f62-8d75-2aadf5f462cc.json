@@ -1,0 +1,11 @@
+{
+  "id": "70f7d156-5610-4f62-8d75-2aadf5f462cc",
+  "object": "beer",
+  "name": "Breakaway Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

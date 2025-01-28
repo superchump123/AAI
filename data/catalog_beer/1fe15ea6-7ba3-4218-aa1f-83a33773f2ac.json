@@ -1,0 +1,11 @@
+{
+  "id": "1fe15ea6-7ba3-4218-aa1f-83a33773f2ac",
+  "object": "beer",
+  "name": "Curmudgeonator",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

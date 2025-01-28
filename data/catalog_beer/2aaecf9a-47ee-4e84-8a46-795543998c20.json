@@ -1,0 +1,11 @@
+{
+  "id": "2aaecf9a-47ee-4e84-8a46-795543998c20",
+  "object": "beer",
+  "name": "Pescado Rojo Grande",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 9,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

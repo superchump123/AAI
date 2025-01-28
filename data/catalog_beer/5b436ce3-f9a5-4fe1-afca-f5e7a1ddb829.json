@@ -1,0 +1,11 @@
+{
+  "id": "5b436ce3-f9a5-4fe1-afca-f5e7a1ddb829",
+  "object": "beer",
+  "name": "Samuel Adams Belgian Session",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

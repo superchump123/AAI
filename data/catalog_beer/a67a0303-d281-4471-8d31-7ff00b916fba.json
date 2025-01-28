@@ -1,0 +1,11 @@
+{
+  "id": "a67a0303-d281-4471-8d31-7ff00b916fba",
+  "object": "beer",
+  "name": "Chai Porter",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

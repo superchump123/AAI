@@ -1,0 +1,11 @@
+{
+  "id": "c503387a-0fcb-4923-a8ba-d0a0c30fa240",
+  "object": "beer",
+  "name": "Raspberry Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0b6db9c7-3e89-4a09-bc59-67cb2db91ba4",
+  "object": "beer",
+  "name": "Galbraith Mountain Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

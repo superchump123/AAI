@@ -1,0 +1,11 @@
+{
+  "id": "c2176697-e934-4b11-a464-31c08ca0ea34",
+  "object": "beer",
+  "name": "Red Devil",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b2d21fa5-866d-4d0b-81e2-74c66e8916c2",
+  "object": "beer",
+  "name": "Nitro Deduction",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

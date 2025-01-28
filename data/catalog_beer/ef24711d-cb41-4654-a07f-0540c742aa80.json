@@ -1,0 +1,11 @@
+{
+  "id": "ef24711d-cb41-4654-a07f-0540c742aa80",
+  "object": "beer",
+  "name": "Poblano Dankosaurus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

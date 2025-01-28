@@ -1,0 +1,11 @@
+{
+  "id": "4c7c690a-28f2-4ef6-8348-11fb75bb163c",
+  "object": "beer",
+  "name": "Big Sting",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e51b7dd6-73c7-4110-a6ea-92214691f170",
+  "object": "beer",
+  "name": "Half-Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

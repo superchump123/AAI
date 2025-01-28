@@ -1,0 +1,11 @@
+{
+  "id": "994c458e-5186-473b-a4c2-61e9647d763b",
+  "object": "beer",
+  "name": "Casey Jones Baltic",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

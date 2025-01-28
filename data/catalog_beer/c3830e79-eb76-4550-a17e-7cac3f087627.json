@@ -1,0 +1,11 @@
+{
+  "id": "c3830e79-eb76-4550-a17e-7cac3f087627",
+  "object": "beer",
+  "name": "Burn Out",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

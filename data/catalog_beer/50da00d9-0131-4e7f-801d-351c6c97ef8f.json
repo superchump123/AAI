@@ -1,0 +1,11 @@
+{
+  "id": "50da00d9-0131-4e7f-801d-351c6c97ef8f",
+  "object": "beer",
+  "name": "Switchgear IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f475ea36-63a9-441c-8019-324b6f92f965",
+  "object": "beer",
+  "name": "Humulus Insani",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

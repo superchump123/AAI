@@ -1,0 +1,11 @@
+{
+  "id": "ffc056eb-3b56-463d-9049-19cc829442d9",
+  "object": "beer",
+  "name": "Buckshot Bock",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

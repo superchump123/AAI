@@ -1,0 +1,11 @@
+{
+  "id": "f6cac5b4-31b4-407f-a357-4c166eb2190d",
+  "object": "beer",
+  "name": "Oak Aged Mocha Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

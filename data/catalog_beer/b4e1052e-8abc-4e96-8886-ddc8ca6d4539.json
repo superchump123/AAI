@@ -1,0 +1,11 @@
+{
+  "id": "b4e1052e-8abc-4e96-8886-ddc8ca6d4539",
+  "object": "beer",
+  "name": "Light & Day",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

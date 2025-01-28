@@ -1,0 +1,11 @@
+{
+  "id": "848dfd82-92ae-4c05-80d6-7cbf8c1da8cb",
+  "object": "beer",
+  "name": "Mud Puddle Multi-Grain Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

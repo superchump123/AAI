@@ -1,0 +1,11 @@
+{
+  "id": "a8863c53-e010-4b0d-8e88-f6fb28967f4c",
+  "object": "beer",
+  "name": "Beck's",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

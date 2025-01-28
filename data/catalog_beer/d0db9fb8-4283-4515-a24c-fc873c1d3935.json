@@ -1,0 +1,11 @@
+{
+  "id": "d0db9fb8-4283-4515-a24c-fc873c1d3935",
+  "object": "beer",
+  "name": "Twin Sister Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

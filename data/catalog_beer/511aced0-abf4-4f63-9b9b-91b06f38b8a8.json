@@ -1,0 +1,11 @@
+{
+  "id": "511aced0-abf4-4f63-9b9b-91b06f38b8a8",
+  "object": "beer",
+  "name": "Crispin Original",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

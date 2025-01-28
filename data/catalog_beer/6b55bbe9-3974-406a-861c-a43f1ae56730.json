@@ -1,0 +1,11 @@
+{
+  "id": "6b55bbe9-3974-406a-861c-a43f1ae56730",
+  "object": "beer",
+  "name": "Peter Piper's Pickled Pepper Purple Peated Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

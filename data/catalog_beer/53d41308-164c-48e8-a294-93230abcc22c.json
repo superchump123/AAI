@@ -1,0 +1,11 @@
+{
+  "id": "53d41308-164c-48e8-a294-93230abcc22c",
+  "object": "beer",
+  "name": "Sigma",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

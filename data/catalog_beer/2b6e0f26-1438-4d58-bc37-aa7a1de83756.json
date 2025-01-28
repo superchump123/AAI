@@ -1,0 +1,11 @@
+{
+  "id": "2b6e0f26-1438-4d58-bc37-aa7a1de83756",
+  "object": "beer",
+  "name": "Remedy",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

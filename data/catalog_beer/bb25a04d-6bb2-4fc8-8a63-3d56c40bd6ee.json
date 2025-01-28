@@ -1,0 +1,11 @@
+{
+  "id": "bb25a04d-6bb2-4fc8-8a63-3d56c40bd6ee",
+  "object": "beer",
+  "name": "Bum's Beach Wheat",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

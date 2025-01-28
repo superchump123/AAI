@@ -1,0 +1,11 @@
+{
+  "id": "2cc3401b-9083-4992-94e0-b152b908cfd3",
+  "object": "beer",
+  "name": "Escape",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

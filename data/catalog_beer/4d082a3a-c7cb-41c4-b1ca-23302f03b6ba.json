@@ -1,0 +1,11 @@
+{
+  "id": "4d082a3a-c7cb-41c4-b1ca-23302f03b6ba",
+  "object": "beer",
+  "name": "Blueberry Gruit",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

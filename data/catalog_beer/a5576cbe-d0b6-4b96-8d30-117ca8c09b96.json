@@ -1,0 +1,11 @@
+{
+  "id": "a5576cbe-d0b6-4b96-8d30-117ca8c09b96",
+  "object": "beer",
+  "name": "Lone Wolf IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

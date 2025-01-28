@@ -1,0 +1,11 @@
+{
+  "id": "0f61e195-cf2f-4774-9da6-c8638fa80489",
+  "object": "beer",
+  "name": "Wild Manimal",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

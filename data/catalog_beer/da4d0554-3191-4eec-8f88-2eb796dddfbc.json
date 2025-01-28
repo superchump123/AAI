@@ -1,0 +1,11 @@
+{
+  "id": "da4d0554-3191-4eec-8f88-2eb796dddfbc",
+  "object": "beer",
+  "name": "Saranac Maple Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

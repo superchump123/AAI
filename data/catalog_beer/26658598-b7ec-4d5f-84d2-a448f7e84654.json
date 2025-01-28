@@ -1,0 +1,11 @@
+{
+  "id": "26658598-b7ec-4d5f-84d2-a448f7e84654",
+  "object": "beer",
+  "name": "One Goal, One Rye'd",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

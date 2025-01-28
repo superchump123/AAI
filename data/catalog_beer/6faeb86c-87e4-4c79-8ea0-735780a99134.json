@@ -1,0 +1,11 @@
+{
+  "id": "6faeb86c-87e4-4c79-8ea0-735780a99134",
+  "object": "beer",
+  "name": "Noble King",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ae9b1b72-9fa7-4928-9461-dad2ccc05f13",
+  "object": "beer",
+  "name": "Early Riser",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

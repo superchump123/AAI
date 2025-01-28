@@ -1,0 +1,11 @@
+{
+  "id": "d74fb72a-c04a-4885-8da3-35d53d982364",
+  "object": "beer",
+  "name": "Kompadre Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

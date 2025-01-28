@@ -1,0 +1,11 @@
+{
+  "id": "0199c07c-8274-4951-9f2b-d55724e28f4a",
+  "object": "beer",
+  "name": "Golden Grizzly Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

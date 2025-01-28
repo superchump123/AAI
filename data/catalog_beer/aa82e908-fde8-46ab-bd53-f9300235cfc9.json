@@ -1,0 +1,11 @@
+{
+  "id": "aa82e908-fde8-46ab-bd53-f9300235cfc9",
+  "object": "beer",
+  "name": "Hard Cider Sweet",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

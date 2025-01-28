@@ -1,0 +1,11 @@
+{
+  "id": "d91668fa-3fe1-4892-b72b-f13cdf2177a7",
+  "object": "beer",
+  "name": "Shoehorn",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

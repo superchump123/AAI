@@ -1,0 +1,11 @@
+{
+  "id": "7bbbf55a-b2a5-463b-be16-8c48e5e406d0",
+  "object": "beer",
+  "name": "Philly Tripel Plan B",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

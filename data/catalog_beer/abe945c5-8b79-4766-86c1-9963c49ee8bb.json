@@ -1,0 +1,11 @@
+{
+  "id": "abe945c5-8b79-4766-86c1-9963c49ee8bb",
+  "object": "beer",
+  "name": "Irish Mint Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a35f8492-c168-4185-bf60-ed5c54aae382",
+  "object": "beer",
+  "name": "Un-Happy Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

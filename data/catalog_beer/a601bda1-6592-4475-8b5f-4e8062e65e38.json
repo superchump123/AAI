@@ -1,0 +1,11 @@
+{
+  "id": "a601bda1-6592-4475-8b5f-4e8062e65e38",
+  "object": "beer",
+  "name": "Witness",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

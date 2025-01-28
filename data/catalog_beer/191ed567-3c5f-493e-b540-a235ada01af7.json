@@ -1,0 +1,11 @@
+{
+  "id": "191ed567-3c5f-493e-b540-a235ada01af7",
+  "object": "beer",
+  "name": "VMO #3",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

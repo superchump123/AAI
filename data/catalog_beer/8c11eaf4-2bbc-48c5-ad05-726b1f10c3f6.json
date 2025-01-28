@@ -1,0 +1,11 @@
+{
+  "id": "8c11eaf4-2bbc-48c5-ad05-726b1f10c3f6",
+  "object": "beer",
+  "name": "Capra Sanctus",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

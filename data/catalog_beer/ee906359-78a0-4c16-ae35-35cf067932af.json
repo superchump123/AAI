@@ -1,0 +1,11 @@
+{
+  "id": "ee906359-78a0-4c16-ae35-35cf067932af",
+  "object": "beer",
+  "name": "Jack Thorne Nitro",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

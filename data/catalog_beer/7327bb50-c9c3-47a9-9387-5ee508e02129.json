@@ -1,0 +1,11 @@
+{
+  "id": "7327bb50-c9c3-47a9-9387-5ee508e02129",
+  "object": "beer",
+  "name": "Guide IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

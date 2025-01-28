@@ -1,0 +1,11 @@
+{
+  "id": "dde174a9-960c-41c3-a10b-fa5d9889531d",
+  "object": "beer",
+  "name": "The Hotchkiss Six",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

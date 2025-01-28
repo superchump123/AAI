@@ -1,0 +1,11 @@
+{
+  "id": "8f10ea5f-2b33-4922-873a-fe71f588ca11",
+  "object": "beer",
+  "name": "Silver Lining Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

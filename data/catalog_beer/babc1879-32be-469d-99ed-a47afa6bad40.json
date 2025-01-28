@@ -1,0 +1,11 @@
+{
+  "id": "babc1879-32be-469d-99ed-a47afa6bad40",
+  "object": "beer",
+  "name": "Beechy Keen",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

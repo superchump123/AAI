@@ -1,0 +1,11 @@
+{
+  "id": "cf8481f6-39ef-4f6d-807a-856cc23e818f",
+  "object": "beer",
+  "name": "Sheehan's Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

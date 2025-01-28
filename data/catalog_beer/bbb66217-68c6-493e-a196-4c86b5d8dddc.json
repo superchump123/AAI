@@ -1,0 +1,11 @@
+{
+  "id": "bbb66217-68c6-493e-a196-4c86b5d8dddc",
+  "object": "beer",
+  "name": "Steamboat IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

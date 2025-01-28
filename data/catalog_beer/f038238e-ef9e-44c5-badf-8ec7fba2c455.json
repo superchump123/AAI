@@ -1,0 +1,11 @@
+{
+  "id": "f038238e-ef9e-44c5-badf-8ec7fba2c455",
+  "object": "beer",
+  "name": "Creamy Dark",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3105fd9c-8bf7-45cd-9c01-73683e7a07d2",
+  "object": "beer",
+  "name": "Dublin Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

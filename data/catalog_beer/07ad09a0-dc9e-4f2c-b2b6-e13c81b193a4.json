@@ -1,0 +1,11 @@
+{
+  "id": "07ad09a0-dc9e-4f2c-b2b6-e13c81b193a4",
+  "object": "beer",
+  "name": "10 Speed Hoppy Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

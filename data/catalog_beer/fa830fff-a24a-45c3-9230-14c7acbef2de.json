@@ -1,0 +1,11 @@
+{
+  "id": "fa830fff-a24a-45c3-9230-14c7acbef2de",
+  "object": "beer",
+  "name": "Santa's Private Reserve",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d5c321a4-adbe-4c85-b21e-85d6de4121bc",
+  "object": "beer",
+  "name": "Pear Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

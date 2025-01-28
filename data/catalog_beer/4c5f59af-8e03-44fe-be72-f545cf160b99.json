@@ -1,0 +1,11 @@
+{
+  "id": "4c5f59af-8e03-44fe-be72-f545cf160b99",
+  "object": "beer",
+  "name": "Powder 8 Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

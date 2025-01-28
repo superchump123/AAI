@@ -1,0 +1,11 @@
+{
+  "id": "c6cb9ccc-df6f-4e67-b1f6-2e0ea9af3fc9",
+  "object": "beer",
+  "name": "A.F.O. Ale For Obsessed",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

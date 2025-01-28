@@ -1,0 +1,11 @@
+{
+  "id": "1f7b2c04-d160-4363-b2a0-7d64e326b4a5",
+  "object": "beer",
+  "name": "Regal Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

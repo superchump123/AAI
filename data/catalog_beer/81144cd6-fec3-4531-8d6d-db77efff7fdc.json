@@ -1,0 +1,11 @@
+{
+  "id": "81144cd6-fec3-4531-8d6d-db77efff7fdc",
+  "object": "beer",
+  "name": "Ryes Against the Machine",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b35abe12-f172-4d30-a95c-298f49cac004",
+  "object": "beer",
+  "name": "Farmingdale Firehouse Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

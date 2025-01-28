@@ -1,0 +1,11 @@
+{
+  "id": "868e340a-8298-4393-b987-da41e0c2af5b",
+  "object": "beer",
+  "name": "Larry's Latest Pale Ale 2014-3",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

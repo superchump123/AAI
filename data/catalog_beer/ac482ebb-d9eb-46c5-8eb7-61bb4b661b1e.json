@@ -1,0 +1,11 @@
+{
+  "id": "ac482ebb-d9eb-46c5-8eb7-61bb4b661b1e",
+  "object": "beer",
+  "name": "Tucker's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

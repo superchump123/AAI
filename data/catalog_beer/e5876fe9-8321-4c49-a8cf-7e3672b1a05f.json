@@ -1,0 +1,11 @@
+{
+  "id": "e5876fe9-8321-4c49-a8cf-7e3672b1a05f",
+  "object": "beer",
+  "name": "Mr. Ouroboros",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

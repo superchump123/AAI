@@ -1,0 +1,11 @@
+{
+  "id": "4e2a347d-8a5e-4e07-87dd-dde35384ff13",
+  "object": "beer",
+  "name": "Santa Barbara Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

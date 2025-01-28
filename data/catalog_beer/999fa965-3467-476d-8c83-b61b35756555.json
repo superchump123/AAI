@@ -1,0 +1,11 @@
+{
+  "id": "999fa965-3467-476d-8c83-b61b35756555",
+  "object": "beer",
+  "name": "Cherry Brett",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

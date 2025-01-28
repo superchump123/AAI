@@ -1,0 +1,11 @@
+{
+  "id": "0d3f8723-8245-425c-98f1-43647341a3c2",
+  "object": "beer",
+  "name": "Pitch Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

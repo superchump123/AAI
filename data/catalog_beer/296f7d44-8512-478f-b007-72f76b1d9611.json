@@ -1,0 +1,11 @@
+{
+  "id": "296f7d44-8512-478f-b007-72f76b1d9611",
+  "object": "beer",
+  "name": "Whippersnapper",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

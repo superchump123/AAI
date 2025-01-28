@@ -1,0 +1,11 @@
+{
+  "id": "bc947956-2c6c-495b-8b3e-1851c98f5ba0",
+  "object": "beer",
+  "name": "Stampede Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

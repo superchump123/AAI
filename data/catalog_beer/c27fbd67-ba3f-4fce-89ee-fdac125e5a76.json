@@ -1,0 +1,11 @@
+{
+  "id": "c27fbd67-ba3f-4fce-89ee-fdac125e5a76",
+  "object": "beer",
+  "name": "Black Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

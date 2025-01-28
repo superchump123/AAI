@@ -1,0 +1,11 @@
+{
+  "id": "638bef78-992d-4057-b4d5-d3f974996a59",
+  "object": "beer",
+  "name": "Black Gold",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0012b4d8-0153-4b40-a17e-e9d2b223c920",
+  "object": "beer",
+  "name": "Green Light",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

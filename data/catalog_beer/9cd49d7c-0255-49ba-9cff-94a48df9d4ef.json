@@ -1,0 +1,11 @@
+{
+  "id": "9cd49d7c-0255-49ba-9cff-94a48df9d4ef",
+  "object": "beer",
+  "name": "Bourganel Au Nougat",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

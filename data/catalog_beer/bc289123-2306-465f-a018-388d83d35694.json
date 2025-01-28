@@ -1,0 +1,11 @@
+{
+  "id": "bc289123-2306-465f-a018-388d83d35694",
+  "object": "beer",
+  "name": "The Wright Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

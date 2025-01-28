@@ -1,0 +1,11 @@
+{
+  "id": "dc396cdb-bd0d-49f0-9b9d-a0323d2f7f6c",
+  "object": "beer",
+  "name": "Alan's Alchemist Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

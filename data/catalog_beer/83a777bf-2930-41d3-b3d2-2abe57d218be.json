@@ -1,0 +1,11 @@
+{
+  "id": "83a777bf-2930-41d3-b3d2-2abe57d218be",
+  "object": "beer",
+  "name": "The Chapless Horseman",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

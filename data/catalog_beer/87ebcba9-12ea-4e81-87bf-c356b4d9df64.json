@@ -1,0 +1,11 @@
+{
+  "id": "87ebcba9-12ea-4e81-87bf-c356b4d9df64",
+  "object": "beer",
+  "name": "Blue Bell Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

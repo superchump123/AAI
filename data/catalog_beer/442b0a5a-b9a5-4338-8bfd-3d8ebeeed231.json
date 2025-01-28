@@ -1,0 +1,11 @@
+{
+  "id": "442b0a5a-b9a5-4338-8bfd-3d8ebeeed231",
+  "object": "beer",
+  "name": "Wuhrer",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

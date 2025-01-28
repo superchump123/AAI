@@ -1,0 +1,11 @@
+{
+  "id": "e615d0d8-4511-459b-959f-605705d2415e",
+  "object": "beer",
+  "name": "Blodwens Beer",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "703218bb-9db4-4492-b37d-f22e94270ad4",
+  "object": "beer",
+  "name": "SBC Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f58d86e1-bd31-45f6-bd8d-bfebb1563ecf",
+  "object": "beer",
+  "name": "Twin Peaks",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "749657f2-722a-4994-a977-977c0b0276a9",
+  "object": "beer",
+  "name": "Tumbler",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

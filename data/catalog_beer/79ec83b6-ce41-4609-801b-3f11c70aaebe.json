@@ -1,0 +1,11 @@
+{
+  "id": "79ec83b6-ce41-4609-801b-3f11c70aaebe",
+  "object": "beer",
+  "name": "Black Cat",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

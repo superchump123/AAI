@@ -1,0 +1,11 @@
+{
+  "id": "86d70f59-1b25-402b-9863-198ae146b6c7",
+  "object": "beer",
+  "name": "No Problems",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

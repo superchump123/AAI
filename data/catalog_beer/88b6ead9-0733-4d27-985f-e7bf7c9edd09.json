@@ -1,0 +1,11 @@
+{
+  "id": "88b6ead9-0733-4d27-985f-e7bf7c9edd09",
+  "object": "beer",
+  "name": "Holy City Slam",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

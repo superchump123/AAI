@@ -1,0 +1,11 @@
+{
+  "id": "472cc9d1-cf54-4500-9da1-b288e8788c41",
+  "object": "beer",
+  "name": "The Big \"O\" Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

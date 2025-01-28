@@ -1,0 +1,11 @@
+{
+  "id": "19ad5184-aac3-4ee3-bd6e-3eab202a19c0",
+  "object": "beer",
+  "name": "Sutter's Secret Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

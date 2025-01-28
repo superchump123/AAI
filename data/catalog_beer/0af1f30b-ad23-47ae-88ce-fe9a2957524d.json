@@ -1,0 +1,11 @@
+{
+  "id": "0af1f30b-ad23-47ae-88ce-fe9a2957524d",
+  "object": "beer",
+  "name": "Moritz Fiege Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0e3c8bcc-97fd-4e0f-ace5-d4f68f154ae4",
+  "object": "beer",
+  "name": "Common Sense",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

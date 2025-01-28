@@ -1,0 +1,11 @@
+{
+  "id": "505f30ef-3d13-42f4-873b-999ad32d5e73",
+  "object": "beer",
+  "name": "Green Peppercorn Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

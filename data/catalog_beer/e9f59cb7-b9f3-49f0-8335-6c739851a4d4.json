@@ -1,0 +1,11 @@
+{
+  "id": "e9f59cb7-b9f3-49f0-8335-6c739851a4d4",
+  "object": "beer",
+  "name": "Frisse Wind",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

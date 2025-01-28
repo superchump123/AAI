@@ -1,0 +1,11 @@
+{
+  "id": "e9276b21-dab6-4d57-93d2-fa630db7d537",
+  "object": "beer",
+  "name": "TAP1 Meine blonde Weisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

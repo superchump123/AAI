@@ -1,0 +1,11 @@
+{
+  "id": "e8de8f2e-a334-43cc-8c8b-2025080d2d6a",
+  "object": "beer",
+  "name": "Easy Rider Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

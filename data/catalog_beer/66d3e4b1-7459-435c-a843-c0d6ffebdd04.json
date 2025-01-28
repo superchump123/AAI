@@ -1,0 +1,11 @@
+{
+  "id": "66d3e4b1-7459-435c-a843-c0d6ffebdd04",
+  "object": "beer",
+  "name": "Kattegat",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

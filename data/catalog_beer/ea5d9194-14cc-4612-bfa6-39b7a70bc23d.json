@@ -1,0 +1,11 @@
+{
+  "id": "ea5d9194-14cc-4612-bfa6-39b7a70bc23d",
+  "object": "beer",
+  "name": "Deep In The Green",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

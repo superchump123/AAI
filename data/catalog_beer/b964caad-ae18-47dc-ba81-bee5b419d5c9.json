@@ -1,0 +1,11 @@
+{
+  "id": "b964caad-ae18-47dc-ba81-bee5b419d5c9",
+  "object": "beer",
+  "name": "Poolside",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ac27ec6d-110f-4bd3-bf86-b23e84b5e787",
+  "object": "beer",
+  "name": "Habanero Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

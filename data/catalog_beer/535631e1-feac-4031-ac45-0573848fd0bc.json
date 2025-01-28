@@ -1,0 +1,11 @@
+{
+  "id": "535631e1-feac-4031-ac45-0573848fd0bc",
+  "object": "beer",
+  "name": "Ill Tempered Gnome Winter Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

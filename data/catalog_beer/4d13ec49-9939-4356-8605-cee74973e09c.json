@@ -1,0 +1,11 @@
+{
+  "id": "4d13ec49-9939-4356-8605-cee74973e09c",
+  "object": "beer",
+  "name": "Dick the Butcher",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

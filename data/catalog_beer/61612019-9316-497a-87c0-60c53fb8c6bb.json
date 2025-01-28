@@ -1,0 +1,11 @@
+{
+  "id": "61612019-9316-497a-87c0-60c53fb8c6bb",
+  "object": "beer",
+  "name": "Fireman's Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

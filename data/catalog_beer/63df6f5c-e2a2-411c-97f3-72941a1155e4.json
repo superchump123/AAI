@@ -1,0 +1,11 @@
+{
+  "id": "63df6f5c-e2a2-411c-97f3-72941a1155e4",
+  "object": "beer",
+  "name": "Cafe Leche",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

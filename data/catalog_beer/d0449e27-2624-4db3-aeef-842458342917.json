@@ -1,0 +1,11 @@
+{
+  "id": "d0449e27-2624-4db3-aeef-842458342917",
+  "object": "beer",
+  "name": "Deerfly IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

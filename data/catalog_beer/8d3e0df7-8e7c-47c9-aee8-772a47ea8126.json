@@ -1,0 +1,11 @@
+{
+  "id": "8d3e0df7-8e7c-47c9-aee8-772a47ea8126",
+  "object": "beer",
+  "name": "There goes the neighborhood",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

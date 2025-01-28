@@ -1,0 +1,11 @@
+{
+  "id": "8bebaa67-46f6-4c24-bc7c-cae0acc88b1b",
+  "object": "beer",
+  "name": "Killer Whale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

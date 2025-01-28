@@ -1,0 +1,11 @@
+{
+  "id": "18ba86d1-3cb3-4dae-a851-b0356cb91231",
+  "object": "beer",
+  "name": "Anybody Missing A Donkey?",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

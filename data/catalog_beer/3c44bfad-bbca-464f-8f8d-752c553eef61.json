@@ -1,0 +1,11 @@
+{
+  "id": "3c44bfad-bbca-464f-8f8d-752c553eef61",
+  "object": "beer",
+  "name": "Pony Pasture Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

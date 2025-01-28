@@ -1,0 +1,11 @@
+{
+  "id": "ec79d01b-f4bf-48c5-959e-9a392d2a56ee",
+  "object": "beer",
+  "name": "Bee's Knees",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

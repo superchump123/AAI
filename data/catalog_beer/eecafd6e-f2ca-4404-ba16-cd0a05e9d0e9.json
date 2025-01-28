@@ -1,0 +1,11 @@
+{
+  "id": "eecafd6e-f2ca-4404-ba16-cd0a05e9d0e9",
+  "object": "beer",
+  "name": "Robson's Durban Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

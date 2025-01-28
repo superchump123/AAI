@@ -1,0 +1,11 @@
+{
+  "id": "4302d8cc-2862-4160-8762-4f260ef3315e",
+  "object": "beer",
+  "name": "Harvest Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

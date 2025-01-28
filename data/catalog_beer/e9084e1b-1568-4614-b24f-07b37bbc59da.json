@@ -1,0 +1,11 @@
+{
+  "id": "e9084e1b-1568-4614-b24f-07b37bbc59da",
+  "object": "beer",
+  "name": "Abbaye d'Aulne Triple Blonde",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

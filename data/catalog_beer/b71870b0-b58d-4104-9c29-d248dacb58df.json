@@ -1,0 +1,11 @@
+{
+  "id": "b71870b0-b58d-4104-9c29-d248dacb58df",
+  "object": "beer",
+  "name": "Gator Tail Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

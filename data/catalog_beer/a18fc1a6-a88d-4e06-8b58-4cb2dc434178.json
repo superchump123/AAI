@@ -1,0 +1,11 @@
+{
+  "id": "a18fc1a6-a88d-4e06-8b58-4cb2dc434178",
+  "object": "beer",
+  "name": "Flyin' Monks",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

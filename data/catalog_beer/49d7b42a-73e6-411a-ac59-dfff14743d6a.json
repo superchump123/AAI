@@ -1,0 +1,11 @@
+{
+  "id": "49d7b42a-73e6-411a-ac59-dfff14743d6a",
+  "object": "beer",
+  "name": "Kicker Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d72ded6d-4d8e-4424-bf23-ce90ab450a2f",
+  "object": "beer",
+  "name": "Tasha's Red Tail Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

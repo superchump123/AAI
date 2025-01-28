@@ -1,0 +1,11 @@
+{
+  "id": "b52b25bb-5118-420d-967c-293b91cc3c62",
+  "object": "beer",
+  "name": "Angry Beast",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "576a8917-b9dd-4870-9d39-32b6927ca827",
+  "object": "beer",
+  "name": "Hoppy Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

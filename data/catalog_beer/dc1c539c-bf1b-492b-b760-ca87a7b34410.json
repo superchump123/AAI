@@ -1,0 +1,11 @@
+{
+  "id": "dc1c539c-bf1b-492b-b760-ca87a7b34410",
+  "object": "beer",
+  "name": "Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

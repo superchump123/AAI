@@ -1,0 +1,11 @@
+{
+  "id": "4fc8dfe9-3773-453c-99a3-231a82601353",
+  "object": "beer",
+  "name": "Muffin Grass",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

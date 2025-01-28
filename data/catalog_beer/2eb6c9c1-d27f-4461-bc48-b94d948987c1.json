@@ -1,0 +1,11 @@
+{
+  "id": "2eb6c9c1-d27f-4461-bc48-b94d948987c1",
+  "object": "beer",
+  "name": "Scrumpy Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

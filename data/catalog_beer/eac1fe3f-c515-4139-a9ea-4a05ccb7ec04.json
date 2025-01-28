@@ -1,0 +1,11 @@
+{
+  "id": "eac1fe3f-c515-4139-a9ea-4a05ccb7ec04",
+  "object": "beer",
+  "name": "Cask Conditioned - Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

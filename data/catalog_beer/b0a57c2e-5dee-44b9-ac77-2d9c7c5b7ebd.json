@@ -1,0 +1,11 @@
+{
+  "id": "b0a57c2e-5dee-44b9-ac77-2d9c7c5b7ebd",
+  "object": "beer",
+  "name": "Barrel Aged Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

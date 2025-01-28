@@ -1,0 +1,11 @@
+{
+  "id": "d6bda6af-7b05-4d4b-8c16-e228600c4bc7",
+  "object": "beer",
+  "name": "Limesicle",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

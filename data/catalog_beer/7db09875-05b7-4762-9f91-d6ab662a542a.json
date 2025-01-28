@@ -1,0 +1,11 @@
+{
+  "id": "7db09875-05b7-4762-9f91-d6ab662a542a",
+  "object": "beer",
+  "name": "Balling The Queen",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

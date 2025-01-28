@@ -1,0 +1,11 @@
+{
+  "id": "d8b3b3bd-4357-4ea1-a1da-61bc485baf39",
+  "object": "beer",
+  "name": "Brown Street Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "94f6648f-ad3c-4a2e-9178-bf747006ca8e",
+  "object": "beer",
+  "name": "200 Special Edition Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

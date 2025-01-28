@@ -1,0 +1,11 @@
+{
+  "id": "84ccf91e-a519-4ee3-bea3-b9c3f3d3b98f",
+  "object": "beer",
+  "name": "Jalalima Ale",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

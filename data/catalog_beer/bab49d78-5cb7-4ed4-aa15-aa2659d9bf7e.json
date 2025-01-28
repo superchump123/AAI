@@ -1,0 +1,11 @@
+{
+  "id": "bab49d78-5cb7-4ed4-aa15-aa2659d9bf7e",
+  "object": "beer",
+  "name": "Should I stay or should I gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

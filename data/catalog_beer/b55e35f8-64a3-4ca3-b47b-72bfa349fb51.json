@@ -1,0 +1,11 @@
+{
+  "id": "b55e35f8-64a3-4ca3-b47b-72bfa349fb51",
+  "object": "beer",
+  "name": "Olympia",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

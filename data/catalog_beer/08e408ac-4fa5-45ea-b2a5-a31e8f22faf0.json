@@ -1,0 +1,11 @@
+{
+  "id": "08e408ac-4fa5-45ea-b2a5-a31e8f22faf0",
+  "object": "beer",
+  "name": "Red Banshee",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

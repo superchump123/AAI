@@ -1,0 +1,11 @@
+{
+  "id": "7f5c9867-0ddb-48f2-b6db-70827991f7af",
+  "object": "beer",
+  "name": "Honey Lavender Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d3725409-1f6e-4935-9384-90b524a951d4",
+  "object": "beer",
+  "name": "Bio Beer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

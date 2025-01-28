@@ -1,0 +1,11 @@
+{
+  "id": "771e15b9-58fe-4890-b96e-13a769e4f814",
+  "object": "beer",
+  "name": "Ginger Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

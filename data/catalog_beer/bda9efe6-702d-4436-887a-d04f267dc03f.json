@@ -1,0 +1,11 @@
+{
+  "id": "bda9efe6-702d-4436-887a-d04f267dc03f",
+  "object": "beer",
+  "name": "Urthel Samaranth",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

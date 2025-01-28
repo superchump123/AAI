@@ -1,0 +1,11 @@
+{
+  "id": "305e3ceb-2230-46a6-adec-1d7d6b78650c",
+  "object": "beer",
+  "name": "Slow Pour Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

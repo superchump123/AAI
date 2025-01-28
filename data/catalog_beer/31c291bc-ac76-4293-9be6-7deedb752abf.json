@@ -1,0 +1,11 @@
+{
+  "id": "31c291bc-ac76-4293-9be6-7deedb752abf",
+  "object": "beer",
+  "name": "Tripel Peche",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

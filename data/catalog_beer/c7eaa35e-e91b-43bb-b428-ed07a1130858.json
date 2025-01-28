@@ -1,0 +1,11 @@
+{
+  "id": "c7eaa35e-e91b-43bb-b428-ed07a1130858",
+  "object": "beer",
+  "name": "Veruca Snozzberry",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

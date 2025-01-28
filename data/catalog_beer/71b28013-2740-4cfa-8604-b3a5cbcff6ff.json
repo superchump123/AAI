@@ -1,0 +1,11 @@
+{
+  "id": "71b28013-2740-4cfa-8604-b3a5cbcff6ff",
+  "object": "beer",
+  "name": "Cranium",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

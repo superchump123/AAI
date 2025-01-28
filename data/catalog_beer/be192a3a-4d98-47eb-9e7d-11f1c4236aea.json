@@ -1,0 +1,11 @@
+{
+  "id": "be192a3a-4d98-47eb-9e7d-11f1c4236aea",
+  "object": "beer",
+  "name": "Unfiltered Afanasy",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

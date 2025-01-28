@@ -1,0 +1,11 @@
+{
+  "id": "aa51dcfa-8766-4475-8623-b37cdee3a5ce",
+  "object": "beer",
+  "name": "KPA (Kenosha Pale Ale)",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

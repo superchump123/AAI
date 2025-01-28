@@ -1,0 +1,11 @@
+{
+  "id": "e417beb9-7b0e-4208-996b-497cd0b94c2e",
+  "object": "beer",
+  "name": "Porse Guld",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

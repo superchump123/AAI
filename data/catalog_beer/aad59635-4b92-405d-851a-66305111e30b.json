@@ -1,0 +1,11 @@
+{
+  "id": "aad59635-4b92-405d-851a-66305111e30b",
+  "object": "beer",
+  "name": "Plain Porter",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

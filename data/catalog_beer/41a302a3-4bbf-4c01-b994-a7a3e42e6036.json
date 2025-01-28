@@ -1,0 +1,11 @@
+{
+  "id": "41a302a3-4bbf-4c01-b994-a7a3e42e6036",
+  "object": "beer",
+  "name": "Owen",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

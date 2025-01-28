@@ -1,0 +1,11 @@
+{
+  "id": "917e2598-284f-4a65-a9f5-de605a5946f0",
+  "object": "beer",
+  "name": "L-Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

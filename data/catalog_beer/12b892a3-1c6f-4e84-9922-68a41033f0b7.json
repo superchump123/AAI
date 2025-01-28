@@ -1,0 +1,11 @@
+{
+  "id": "12b892a3-1c6f-4e84-9922-68a41033f0b7",
+  "object": "beer",
+  "name": "Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

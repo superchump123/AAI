@@ -1,0 +1,11 @@
+{
+  "id": "d84927c1-a91e-408f-84db-b67cda1a0cd5",
+  "object": "beer",
+  "name": "Bella Czech Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

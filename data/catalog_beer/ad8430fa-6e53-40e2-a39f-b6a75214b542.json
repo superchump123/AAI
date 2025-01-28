@@ -1,0 +1,11 @@
+{
+  "id": "ad8430fa-6e53-40e2-a39f-b6a75214b542",
+  "object": "beer",
+  "name": "Mucho Aloha HPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

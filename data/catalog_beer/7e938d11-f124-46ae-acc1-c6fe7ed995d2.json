@@ -1,0 +1,11 @@
+{
+  "id": "7e938d11-f124-46ae-acc1-c6fe7ed995d2",
+  "object": "beer",
+  "name": "10-Day IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

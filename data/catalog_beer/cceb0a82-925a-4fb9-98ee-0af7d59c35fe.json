@@ -1,0 +1,11 @@
+{
+  "id": "cceb0a82-925a-4fb9-98ee-0af7d59c35fe",
+  "object": "beer",
+  "name": "A Sour Darkly",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

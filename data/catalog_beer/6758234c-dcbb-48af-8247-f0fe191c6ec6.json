@@ -1,0 +1,11 @@
+{
+  "id": "6758234c-dcbb-48af-8247-f0fe191c6ec6",
+  "object": "beer",
+  "name": "Abaddon",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

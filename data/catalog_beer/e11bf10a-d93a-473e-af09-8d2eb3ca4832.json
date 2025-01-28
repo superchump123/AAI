@@ -1,0 +1,11 @@
+{
+  "id": "e11bf10a-d93a-473e-af09-8d2eb3ca4832",
+  "object": "beer",
+  "name": "The Bitter End",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

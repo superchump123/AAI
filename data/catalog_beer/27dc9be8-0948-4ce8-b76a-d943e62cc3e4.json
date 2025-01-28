@@ -1,0 +1,11 @@
+{
+  "id": "27dc9be8-0948-4ce8-b76a-d943e62cc3e4",
+  "object": "beer",
+  "name": "Wheat",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

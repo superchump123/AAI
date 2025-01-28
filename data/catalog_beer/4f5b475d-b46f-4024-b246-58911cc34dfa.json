@@ -1,0 +1,11 @@
+{
+  "id": "4f5b475d-b46f-4024-b246-58911cc34dfa",
+  "object": "beer",
+  "name": "Portal Chili",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

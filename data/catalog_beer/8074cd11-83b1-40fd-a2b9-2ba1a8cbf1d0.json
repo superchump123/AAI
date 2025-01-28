@@ -1,0 +1,11 @@
+{
+  "id": "8074cd11-83b1-40fd-a2b9-2ba1a8cbf1d0",
+  "object": "beer",
+  "name": "Franco 'Murica Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

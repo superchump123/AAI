@@ -1,0 +1,11 @@
+{
+  "id": "b0f499c1-05a9-426d-b925-5ed6b8ce9a91",
+  "object": "beer",
+  "name": "Popo",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "41c9baf1-b948-41d3-85cf-000bc652e85b",
+  "object": "beer",
+  "name": "No Kings",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

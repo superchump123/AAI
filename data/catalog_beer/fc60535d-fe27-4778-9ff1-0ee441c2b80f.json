@@ -1,0 +1,11 @@
+{
+  "id": "fc60535d-fe27-4778-9ff1-0ee441c2b80f",
+  "object": "beer",
+  "name": "Saison De Brooklyn",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

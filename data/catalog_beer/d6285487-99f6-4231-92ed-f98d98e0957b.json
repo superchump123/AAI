@@ -1,0 +1,11 @@
+{
+  "id": "d6285487-99f6-4231-92ed-f98d98e0957b",
+  "object": "beer",
+  "name": "Ginger Beard",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

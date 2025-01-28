@@ -1,0 +1,11 @@
+{
+  "id": "0a593374-e39a-49bd-807c-63c6163d8137",
+  "object": "beer",
+  "name": "Pegasus Pilsner",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

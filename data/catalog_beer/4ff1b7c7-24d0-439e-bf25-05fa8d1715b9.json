@@ -1,0 +1,11 @@
+{
+  "id": "4ff1b7c7-24d0-439e-bf25-05fa8d1715b9",
+  "object": "beer",
+  "name": "Raspberry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

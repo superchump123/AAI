@@ -1,0 +1,11 @@
+{
+  "id": "ec493fd6-100b-4fc0-a25f-d30ea0cd60e1",
+  "object": "beer",
+  "name": "Blackberry Tart",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

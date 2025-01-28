@@ -1,0 +1,11 @@
+{
+  "id": "5c2d920b-0ca4-425b-a14a-f987f0cc83a6",
+  "object": "beer",
+  "name": "Crazy Train",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

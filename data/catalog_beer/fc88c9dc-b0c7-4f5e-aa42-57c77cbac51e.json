@@ -1,0 +1,11 @@
+{
+  "id": "fc88c9dc-b0c7-4f5e-aa42-57c77cbac51e",
+  "object": "beer",
+  "name": "Misfit Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

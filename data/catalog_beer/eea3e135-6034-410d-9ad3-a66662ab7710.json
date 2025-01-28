@@ -1,0 +1,11 @@
+{
+  "id": "eea3e135-6034-410d-9ad3-a66662ab7710",
+  "object": "beer",
+  "name": "Blood Orange Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

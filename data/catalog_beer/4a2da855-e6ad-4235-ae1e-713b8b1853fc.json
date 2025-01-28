@@ -1,0 +1,11 @@
+{
+  "id": "4a2da855-e6ad-4235-ae1e-713b8b1853fc",
+  "object": "beer",
+  "name": "Polish Potato Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

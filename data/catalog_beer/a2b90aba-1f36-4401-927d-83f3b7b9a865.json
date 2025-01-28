@@ -1,0 +1,11 @@
+{
+  "id": "a2b90aba-1f36-4401-927d-83f3b7b9a865",
+  "object": "beer",
+  "name": "MUNK",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

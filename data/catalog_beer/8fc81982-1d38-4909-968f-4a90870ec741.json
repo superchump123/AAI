@@ -1,0 +1,11 @@
+{
+  "id": "8fc81982-1d38-4909-968f-4a90870ec741",
+  "object": "beer",
+  "name": "Phat Abbot Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

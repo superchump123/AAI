@@ -1,0 +1,11 @@
+{
+  "id": "56d1f77c-adc3-4350-bf2e-e70c324c3119",
+  "object": "beer",
+  "name": "Pele (Brazilian Pale Ale)",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

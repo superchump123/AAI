@@ -1,0 +1,11 @@
+{
+  "id": "b9bafd31-7cb2-4f80-b069-199be0623647",
+  "object": "beer",
+  "name": "Argus 11 Premium",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

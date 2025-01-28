@@ -1,0 +1,11 @@
+{
+  "id": "82892cb8-eb5b-42b5-bc2d-ab63b58ca45b",
+  "object": "beer",
+  "name": "Hommel Bier",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "44deff1f-fdf9-4ee6-8fb8-51626f3f5be9",
+  "object": "beer",
+  "name": "Outpost Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

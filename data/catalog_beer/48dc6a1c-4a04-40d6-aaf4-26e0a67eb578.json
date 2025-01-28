@@ -1,0 +1,11 @@
+{
+  "id": "48dc6a1c-4a04-40d6-aaf4-26e0a67eb578",
+  "object": "beer",
+  "name": "Berliner Weiss With Peaches",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

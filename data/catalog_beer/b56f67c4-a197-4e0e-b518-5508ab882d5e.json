@@ -1,0 +1,11 @@
+{
+  "id": "b56f67c4-a197-4e0e-b518-5508ab882d5e",
+  "object": "beer",
+  "name": "Nutty Buddy",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

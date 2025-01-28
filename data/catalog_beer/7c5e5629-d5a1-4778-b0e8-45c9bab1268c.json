@@ -1,0 +1,11 @@
+{
+  "id": "7c5e5629-d5a1-4778-b0e8-45c9bab1268c",
+  "object": "beer",
+  "name": "DuCasse",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

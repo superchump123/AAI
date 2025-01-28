@@ -1,0 +1,11 @@
+{
+  "id": "84ee19ec-3ac5-4dbf-8b0e-fe82554da71f",
+  "object": "beer",
+  "name": "Avec Les Bons Voeux",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

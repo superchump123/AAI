@@ -1,0 +1,11 @@
+{
+  "id": "f0f39f88-ac67-4884-9d38-383be63cec76",
+  "object": "beer",
+  "name": "Jacobsen Dark Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

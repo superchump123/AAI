@@ -1,0 +1,11 @@
+{
+  "id": "e5becdf8-f675-43ce-856c-00463e10285a",
+  "object": "beer",
+  "name": "Olsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ef2c59c4-f12c-467a-9394-6f25e801ab89",
+  "object": "beer",
+  "name": "Tennent's Original Export Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aa8094a4-f491-47dc-bf33-ad0822ec9552",
+  "object": "beer",
+  "name": "Harvester",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "906a85d3-cf0d-4c99-81a3-04ff00d1f79b",
+  "object": "beer",
+  "name": "SenorWITa",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

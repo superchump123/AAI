@@ -1,0 +1,11 @@
+{
+  "id": "fb160b9f-ea35-4d52-b274-3487b3845226",
+  "object": "beer",
+  "name": "LA IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

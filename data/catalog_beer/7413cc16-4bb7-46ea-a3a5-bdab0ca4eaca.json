@@ -1,0 +1,11 @@
+{
+  "id": "7413cc16-4bb7-46ea-a3a5-bdab0ca4eaca",
+  "object": "beer",
+  "name": "Pale Ale Galaxy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

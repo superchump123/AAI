@@ -1,0 +1,11 @@
+{
+  "id": "7eb703f2-44e8-443f-b82c-e72f6e91d64b",
+  "object": "beer",
+  "name": "Black Oyster Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

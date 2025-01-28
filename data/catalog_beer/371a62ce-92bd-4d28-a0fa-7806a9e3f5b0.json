@@ -1,0 +1,11 @@
+{
+  "id": "371a62ce-92bd-4d28-a0fa-7806a9e3f5b0",
+  "object": "beer",
+  "name": "Freedom Fiesta Ale",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

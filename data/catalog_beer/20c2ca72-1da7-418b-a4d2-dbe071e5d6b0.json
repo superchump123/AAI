@@ -1,0 +1,11 @@
+{
+  "id": "20c2ca72-1da7-418b-a4d2-dbe071e5d6b0",
+  "object": "beer",
+  "name": "Challenger Single Hop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

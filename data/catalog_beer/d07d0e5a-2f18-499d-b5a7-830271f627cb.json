@@ -1,0 +1,11 @@
+{
+  "id": "d07d0e5a-2f18-499d-b5a7-830271f627cb",
+  "object": "beer",
+  "name": "Ukulele",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 13.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "45ac4b47-536c-401e-9a93-c001a69aa04a",
+  "object": "beer",
+  "name": "Tom 23",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 89,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "24c795fc-892c-46d2-a161-7e9ff0700c12",
+  "object": "beer",
+  "name": "Pilot Mountain Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c9c1f58f-172d-43e6-9857-835701f96934",
+  "object": "beer",
+  "name": "\u00dcber \u00dcrsa Imperial Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

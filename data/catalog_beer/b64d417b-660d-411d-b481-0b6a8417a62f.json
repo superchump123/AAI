@@ -1,0 +1,11 @@
+{
+  "id": "b64d417b-660d-411d-b481-0b6a8417a62f",
+  "object": "beer",
+  "name": "Old Prospector Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

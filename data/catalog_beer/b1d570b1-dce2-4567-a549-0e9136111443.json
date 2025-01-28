@@ -1,0 +1,11 @@
+{
+  "id": "b1d570b1-dce2-4567-a549-0e9136111443",
+  "object": "beer",
+  "name": "Fox 2",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

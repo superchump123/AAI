@@ -1,0 +1,11 @@
+{
+  "id": "7bdb681c-1b33-4730-ab53-17ec0b8c9c72",
+  "object": "beer",
+  "name": "Perseus Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

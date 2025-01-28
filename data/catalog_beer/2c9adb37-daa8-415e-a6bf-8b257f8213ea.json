@@ -1,0 +1,11 @@
+{
+  "id": "2c9adb37-daa8-415e-a6bf-8b257f8213ea",
+  "object": "beer",
+  "name": "Ipswich Dark Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

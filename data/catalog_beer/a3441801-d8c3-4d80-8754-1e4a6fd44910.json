@@ -1,0 +1,11 @@
+{
+  "id": "a3441801-d8c3-4d80-8754-1e4a6fd44910",
+  "object": "beer",
+  "name": "La Caverne",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

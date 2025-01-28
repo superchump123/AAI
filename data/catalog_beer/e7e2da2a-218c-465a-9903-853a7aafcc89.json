@@ -1,0 +1,11 @@
+{
+  "id": "e7e2da2a-218c-465a-9903-853a7aafcc89",
+  "object": "beer",
+  "name": "Peanut Butter Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

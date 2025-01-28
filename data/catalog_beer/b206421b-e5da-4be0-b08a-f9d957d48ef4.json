@@ -1,0 +1,11 @@
+{
+  "id": "b206421b-e5da-4be0-b08a-f9d957d48ef4",
+  "object": "beer",
+  "name": "Vanilla Espresso OP Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

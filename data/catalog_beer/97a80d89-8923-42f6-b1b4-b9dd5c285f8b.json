@@ -1,0 +1,11 @@
+{
+  "id": "97a80d89-8923-42f6-b1b4-b9dd5c285f8b",
+  "object": "beer",
+  "name": "Road Rage",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

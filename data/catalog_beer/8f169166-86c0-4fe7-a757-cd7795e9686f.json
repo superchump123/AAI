@@ -1,0 +1,11 @@
+{
+  "id": "8f169166-86c0-4fe7-a757-cd7795e9686f",
+  "object": "beer",
+  "name": "17-7 Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

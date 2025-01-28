@@ -1,0 +1,11 @@
+{
+  "id": "b467e994-9ab3-4b23-aded-e9c197dec828",
+  "object": "beer",
+  "name": "Greenhop Sticke",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

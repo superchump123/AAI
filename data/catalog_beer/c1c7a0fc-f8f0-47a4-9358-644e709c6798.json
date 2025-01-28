@@ -1,0 +1,11 @@
+{
+  "id": "c1c7a0fc-f8f0-47a4-9358-644e709c6798",
+  "object": "beer",
+  "name": "Andrew's Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

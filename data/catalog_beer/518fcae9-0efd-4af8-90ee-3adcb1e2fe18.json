@@ -1,0 +1,11 @@
+{
+  "id": "518fcae9-0efd-4af8-90ee-3adcb1e2fe18",
+  "object": "beer",
+  "name": "Brickyard Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

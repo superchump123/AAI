@@ -1,0 +1,11 @@
+{
+  "id": "0ae612d3-9ce0-4839-a1af-37ffc99c1ad0",
+  "object": "beer",
+  "name": "Amulet",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

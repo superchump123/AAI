@@ -1,0 +1,11 @@
+{
+  "id": "56dae5b8-4a66-49ba-9a7e-164e0b8411e7",
+  "object": "beer",
+  "name": "Tasman Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

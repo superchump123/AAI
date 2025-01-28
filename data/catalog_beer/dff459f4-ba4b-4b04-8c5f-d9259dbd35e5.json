@@ -1,0 +1,11 @@
+{
+  "id": "dff459f4-ba4b-4b04-8c5f-d9259dbd35e5",
+  "object": "beer",
+  "name": "Winter Cheer Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

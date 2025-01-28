@@ -1,0 +1,11 @@
+{
+  "id": "2f722dfb-f623-452f-9e5f-33ac400dcf6f",
+  "object": "beer",
+  "name": "Spectral",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e0c6212f-2a1b-4193-b2f7-85c6db09c8dc",
+  "object": "beer",
+  "name": "Birra Catania",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a0e5cb19-332e-414c-8010-2bd323e1f7bd",
+  "object": "beer",
+  "name": "St. Emeric's Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

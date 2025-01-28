@@ -1,0 +1,11 @@
+{
+  "id": "e7d7aa8e-6af4-443d-b58d-cc849af6c808",
+  "object": "beer",
+  "name": "Publican Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f11e53a1-29d0-42be-8d47-9dc36dbeb490",
+  "object": "beer",
+  "name": "Medvejie Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

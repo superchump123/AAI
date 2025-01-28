@@ -1,0 +1,11 @@
+{
+  "id": "71779305-9ee4-4675-a010-12755b743657",
+  "object": "beer",
+  "name": "Highland Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

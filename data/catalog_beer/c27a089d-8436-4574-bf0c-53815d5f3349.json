@@ -1,0 +1,11 @@
+{
+  "id": "c27a089d-8436-4574-bf0c-53815d5f3349",
+  "object": "beer",
+  "name": "Ground Pounder Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

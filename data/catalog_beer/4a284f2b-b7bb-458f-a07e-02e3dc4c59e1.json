@@ -1,0 +1,11 @@
+{
+  "id": "4a284f2b-b7bb-458f-a07e-02e3dc4c59e1",
+  "object": "beer",
+  "name": "Not Your Everyday Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4305bcf1-43dc-4fb6-8494-467474fd96b6",
+  "object": "beer",
+  "name": "RUSTY SPIKE IMPERIAL RED ALE",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "87d274a0-b3d2-4e1e-948c-cedf26ad9175",
+  "object": "beer",
+  "name": "Anglesea",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

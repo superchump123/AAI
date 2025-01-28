@@ -1,0 +1,11 @@
+{
+  "id": "1f3c1490-268b-4609-b204-7324fe12656f",
+  "object": "beer",
+  "name": "Pandemonium Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

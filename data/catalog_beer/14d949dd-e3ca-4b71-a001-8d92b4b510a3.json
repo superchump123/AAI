@@ -1,0 +1,11 @@
+{
+  "id": "14d949dd-e3ca-4b71-a001-8d92b4b510a3",
+  "object": "beer",
+  "name": "Mysterium Belgian Spiced Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

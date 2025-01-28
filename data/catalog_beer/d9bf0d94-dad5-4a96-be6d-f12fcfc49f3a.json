@@ -1,0 +1,11 @@
+{
+  "id": "d9bf0d94-dad5-4a96-be6d-f12fcfc49f3a",
+  "object": "beer",
+  "name": "Beyond IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

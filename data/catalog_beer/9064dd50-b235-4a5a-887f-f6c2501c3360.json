@@ -1,0 +1,11 @@
+{
+  "id": "9064dd50-b235-4a5a-887f-f6c2501c3360",
+  "object": "beer",
+  "name": "Barnburner",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

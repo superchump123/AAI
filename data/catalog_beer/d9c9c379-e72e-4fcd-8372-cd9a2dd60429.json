@@ -1,0 +1,11 @@
+{
+  "id": "d9c9c379-e72e-4fcd-8372-cd9a2dd60429",
+  "object": "beer",
+  "name": "Franconia Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

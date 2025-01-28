@@ -1,0 +1,11 @@
+{
+  "id": "cef26123-ecb1-4263-8a4c-e2ff6fd6c38a",
+  "object": "beer",
+  "name": "Sage On Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

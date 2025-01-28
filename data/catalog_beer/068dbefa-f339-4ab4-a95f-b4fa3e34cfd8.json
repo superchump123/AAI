@@ -1,0 +1,11 @@
+{
+  "id": "068dbefa-f339-4ab4-a95f-b4fa3e34cfd8",
+  "object": "beer",
+  "name": "Black Wheat",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

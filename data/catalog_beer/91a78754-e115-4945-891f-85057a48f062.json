@@ -1,0 +1,11 @@
+{
+  "id": "91a78754-e115-4945-891f-85057a48f062",
+  "object": "beer",
+  "name": "Hopness Monster IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6e1bd4af-eee5-42f9-af41-b625b8e28331",
+  "object": "beer",
+  "name": "Brethren",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d2fe3a9a-2d85-4eab-bf52-850f7b18883c",
+  "object": "beer",
+  "name": "Snake Bite Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

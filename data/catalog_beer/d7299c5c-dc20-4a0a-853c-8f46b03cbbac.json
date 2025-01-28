@@ -1,0 +1,11 @@
+{
+  "id": "d7299c5c-dc20-4a0a-853c-8f46b03cbbac",
+  "object": "beer",
+  "name": "Schmucker Doppel-Bock dunkel",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

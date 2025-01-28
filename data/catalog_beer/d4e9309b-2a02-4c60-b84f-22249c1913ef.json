@@ -1,0 +1,11 @@
+{
+  "id": "d4e9309b-2a02-4c60-b84f-22249c1913ef",
+  "object": "beer",
+  "name": "Ichabod Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

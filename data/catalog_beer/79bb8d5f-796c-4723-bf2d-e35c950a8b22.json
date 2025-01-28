@@ -1,0 +1,11 @@
+{
+  "id": "79bb8d5f-796c-4723-bf2d-e35c950a8b22",
+  "object": "beer",
+  "name": "Weka Apple Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

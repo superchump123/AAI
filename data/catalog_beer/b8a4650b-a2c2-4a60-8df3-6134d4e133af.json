@@ -1,0 +1,11 @@
+{
+  "id": "b8a4650b-a2c2-4a60-8df3-6134d4e133af",
+  "object": "beer",
+  "name": "Ten Penny Bit",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

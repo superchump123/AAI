@@ -1,0 +1,11 @@
+{
+  "id": "bb4ffa49-940e-4e25-bdf3-bc94795b8d34",
+  "object": "beer",
+  "name": "Summertime Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

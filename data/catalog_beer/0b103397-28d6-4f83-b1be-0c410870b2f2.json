@@ -1,0 +1,11 @@
+{
+  "id": "0b103397-28d6-4f83-b1be-0c410870b2f2",
+  "object": "beer",
+  "name": "Fire IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

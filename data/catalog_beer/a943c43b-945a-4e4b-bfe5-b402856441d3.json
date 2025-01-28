@@ -1,0 +1,11 @@
+{
+  "id": "a943c43b-945a-4e4b-bfe5-b402856441d3",
+  "object": "beer",
+  "name": "Rye 95 with White Oak Chips",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

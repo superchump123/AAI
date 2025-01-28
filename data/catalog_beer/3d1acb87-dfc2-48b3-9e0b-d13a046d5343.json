@@ -1,0 +1,11 @@
+{
+  "id": "3d1acb87-dfc2-48b3-9e0b-d13a046d5343",
+  "object": "beer",
+  "name": "Half-Wit Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 1.1,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

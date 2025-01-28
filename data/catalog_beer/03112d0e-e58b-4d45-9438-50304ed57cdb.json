@@ -1,0 +1,11 @@
+{
+  "id": "03112d0e-e58b-4d45-9438-50304ed57cdb",
+  "object": "beer",
+  "name": "Single Origin Mocha Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

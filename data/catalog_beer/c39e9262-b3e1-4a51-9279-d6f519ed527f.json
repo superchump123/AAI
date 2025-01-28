@@ -1,0 +1,11 @@
+{
+  "id": "c39e9262-b3e1-4a51-9279-d6f519ed527f",
+  "object": "beer",
+  "name": "Old Jubilation Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

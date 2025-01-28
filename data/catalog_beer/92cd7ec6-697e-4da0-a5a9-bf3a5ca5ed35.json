@@ -1,0 +1,11 @@
+{
+  "id": "92cd7ec6-697e-4da0-a5a9-bf3a5ca5ed35",
+  "object": "beer",
+  "name": "Illegal Ale-Ien",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

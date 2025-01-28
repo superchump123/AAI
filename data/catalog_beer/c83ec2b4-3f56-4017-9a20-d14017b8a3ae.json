@@ -1,0 +1,11 @@
+{
+  "id": "c83ec2b4-3f56-4017-9a20-d14017b8a3ae",
+  "object": "beer",
+  "name": "Overdub Session IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

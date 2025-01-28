@@ -1,0 +1,11 @@
+{
+  "id": "8a9d6598-6493-4ad4-9b6e-dbb711f5a2e8",
+  "object": "beer",
+  "name": "Call of Cthulhu",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e53d0d90-d157-4f76-88fa-1c9d526af38b",
+  "object": "beer",
+  "name": "Monk",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

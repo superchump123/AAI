@@ -1,0 +1,11 @@
+{
+  "id": "bd6121df-130d-4891-ba55-8da377f3b277",
+  "object": "beer",
+  "name": "Loral Lager",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

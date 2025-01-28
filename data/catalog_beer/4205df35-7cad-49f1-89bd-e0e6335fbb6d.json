@@ -1,0 +1,11 @@
+{
+  "id": "4205df35-7cad-49f1-89bd-e0e6335fbb6d",
+  "object": "beer",
+  "name": "Fluffy Pumpkin Toasted Marshmallow",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

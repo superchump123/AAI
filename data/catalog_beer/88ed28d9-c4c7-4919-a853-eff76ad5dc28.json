@@ -1,0 +1,11 @@
+{
+  "id": "88ed28d9-c4c7-4919-a853-eff76ad5dc28",
+  "object": "beer",
+  "name": "Good Things",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e523d6b0-cffd-4f7a-b49b-63fa224b0696",
+  "object": "beer",
+  "name": "Pennsylvania Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

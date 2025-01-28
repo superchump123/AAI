@@ -1,0 +1,11 @@
+{
+  "id": "101a1597-3706-48ed-bea3-72c0ef2f1c07",
+  "object": "beer",
+  "name": "Double Rainbow IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

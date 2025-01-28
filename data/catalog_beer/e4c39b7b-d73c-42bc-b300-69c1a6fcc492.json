@@ -1,0 +1,11 @@
+{
+  "id": "e4c39b7b-d73c-42bc-b300-69c1a6fcc492",
+  "object": "beer",
+  "name": "Border Battle Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 81,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b87a3529-a8e3-4fb5-b124-56c02217bea7",
+  "object": "beer",
+  "name": "Hot Streak",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

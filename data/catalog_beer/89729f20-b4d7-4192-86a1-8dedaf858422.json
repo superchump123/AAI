@@ -1,0 +1,11 @@
+{
+  "id": "89729f20-b4d7-4192-86a1-8dedaf858422",
+  "object": "beer",
+  "name": "Blootylicious Blueberry Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2afd0967-c892-4258-be4a-5082a91901ed",
+  "object": "beer",
+  "name": "Hopsy Dazy",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

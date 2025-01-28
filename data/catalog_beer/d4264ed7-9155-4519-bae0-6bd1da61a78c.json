@@ -1,0 +1,11 @@
+{
+  "id": "d4264ed7-9155-4519-bae0-6bd1da61a78c",
+  "object": "beer",
+  "name": "Gaer Bear",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

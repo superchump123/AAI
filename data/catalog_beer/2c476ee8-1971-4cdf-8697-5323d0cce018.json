@@ -1,0 +1,11 @@
+{
+  "id": "2c476ee8-1971-4cdf-8697-5323d0cce018",
+  "object": "beer",
+  "name": "Deep Water Dopplebock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

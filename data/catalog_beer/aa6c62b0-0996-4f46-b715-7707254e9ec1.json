@@ -1,0 +1,11 @@
+{
+  "id": "aa6c62b0-0996-4f46-b715-7707254e9ec1",
+  "object": "beer",
+  "name": "Double White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

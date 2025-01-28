@@ -1,0 +1,11 @@
+{
+  "id": "6bbc298e-2c73-4a99-9fc7-0e66175635ce",
+  "object": "beer",
+  "name": "Torchlight Munich Blonde",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

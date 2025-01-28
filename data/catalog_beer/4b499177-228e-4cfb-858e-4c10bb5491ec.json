@@ -1,0 +1,11 @@
+{
+  "id": "4b499177-228e-4cfb-858e-4c10bb5491ec",
+  "object": "beer",
+  "name": "Val Dieu Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

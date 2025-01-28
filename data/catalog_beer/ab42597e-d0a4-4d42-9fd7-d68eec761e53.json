@@ -1,0 +1,11 @@
+{
+  "id": "ab42597e-d0a4-4d42-9fd7-d68eec761e53",
+  "object": "beer",
+  "name": "Leibinger Kristall-Weizen",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

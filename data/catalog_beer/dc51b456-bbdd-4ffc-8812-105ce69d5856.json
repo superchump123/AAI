@@ -1,0 +1,11 @@
+{
+  "id": "dc51b456-bbdd-4ffc-8812-105ce69d5856",
+  "object": "beer",
+  "name": "Cutlass",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

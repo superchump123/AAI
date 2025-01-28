@@ -1,0 +1,11 @@
+{
+  "id": "617371e4-a20a-49ac-8471-8b4fd9de9ff0",
+  "object": "beer",
+  "name": "Clementine",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

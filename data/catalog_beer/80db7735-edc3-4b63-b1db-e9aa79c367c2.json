@@ -1,0 +1,11 @@
+{
+  "id": "80db7735-edc3-4b63-b1db-e9aa79c367c2",
+  "object": "beer",
+  "name": "Tooheys Extra Dry",
+  "style": "Dry Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

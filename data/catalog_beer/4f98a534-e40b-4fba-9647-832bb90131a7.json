@@ -1,0 +1,11 @@
+{
+  "id": "4f98a534-e40b-4fba-9647-832bb90131a7",
+  "object": "beer",
+  "name": "Wee Heavy",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "531e24bf-6fa9-47cf-8b18-6b1783bf8dcb",
+  "object": "beer",
+  "name": "Daily Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

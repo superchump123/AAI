@@ -1,0 +1,11 @@
+{
+  "id": "5efb0859-609c-4c28-8a04-6646b3adde02",
+  "object": "beer",
+  "name": "Spring Tyne",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

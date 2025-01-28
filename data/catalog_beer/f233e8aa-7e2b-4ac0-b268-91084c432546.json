@@ -1,0 +1,11 @@
+{
+  "id": "f233e8aa-7e2b-4ac0-b268-91084c432546",
+  "object": "beer",
+  "name": "Deception",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

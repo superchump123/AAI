@@ -1,0 +1,11 @@
+{
+  "id": "8bccdb01-4f26-4c79-a276-53563119aa8f",
+  "object": "beer",
+  "name": "Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

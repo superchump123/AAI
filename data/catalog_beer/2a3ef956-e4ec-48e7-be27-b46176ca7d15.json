@@ -1,0 +1,11 @@
+{
+  "id": "2a3ef956-e4ec-48e7-be27-b46176ca7d15",
+  "object": "beer",
+  "name": "Little Sister ISA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

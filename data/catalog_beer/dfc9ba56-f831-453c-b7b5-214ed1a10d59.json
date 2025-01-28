@@ -1,0 +1,11 @@
+{
+  "id": "dfc9ba56-f831-453c-b7b5-214ed1a10d59",
+  "object": "beer",
+  "name": "Ceili Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

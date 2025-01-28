@@ -1,0 +1,11 @@
+{
+  "id": "82eb5ec3-0c20-42e3-9fee-0f8a20568690",
+  "object": "beer",
+  "name": "Phantom Berry Cyser",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

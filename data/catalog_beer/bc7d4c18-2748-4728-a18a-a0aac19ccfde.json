@@ -1,0 +1,11 @@
+{
+  "id": "bc7d4c18-2748-4728-a18a-a0aac19ccfde",
+  "object": "beer",
+  "name": "North Shore Iron Works",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

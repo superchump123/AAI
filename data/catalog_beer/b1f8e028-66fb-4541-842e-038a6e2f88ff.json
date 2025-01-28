@@ -1,0 +1,11 @@
+{
+  "id": "b1f8e028-66fb-4541-842e-038a6e2f88ff",
+  "object": "beer",
+  "name": "Pirate Light",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

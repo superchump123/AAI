@@ -1,0 +1,11 @@
+{
+  "id": "615118ff-faf3-49b2-9507-3b372dda7351",
+  "object": "beer",
+  "name": "Industrious People Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

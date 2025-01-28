@@ -1,0 +1,11 @@
+{
+  "id": "7adcb5b6-7fc7-42f5-9040-c5100a397054",
+  "object": "beer",
+  "name": "Ultra Violet",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

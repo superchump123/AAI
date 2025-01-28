@@ -1,0 +1,11 @@
+{
+  "id": "04dc0968-e22c-479e-adc2-f68d95b2efc2",
+  "object": "beer",
+  "name": "Altenburger Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

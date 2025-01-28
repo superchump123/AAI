@@ -1,0 +1,11 @@
+{
+  "id": "e3166784-56b2-4eee-bf47-14127c2b769b",
+  "object": "beer",
+  "name": "Sommer Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

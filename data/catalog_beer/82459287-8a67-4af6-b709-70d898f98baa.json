@@ -1,0 +1,11 @@
+{
+  "id": "82459287-8a67-4af6-b709-70d898f98baa",
+  "object": "beer",
+  "name": "Extra Gold Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b63b4846-09dc-4636-9a13-9a7b3c58dc63",
+  "object": "beer",
+  "name": "Perry Hard Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

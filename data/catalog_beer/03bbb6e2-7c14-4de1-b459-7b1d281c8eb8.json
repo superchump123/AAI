@@ -1,0 +1,11 @@
+{
+  "id": "03bbb6e2-7c14-4de1-b459-7b1d281c8eb8",
+  "object": "beer",
+  "name": "Contrail White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

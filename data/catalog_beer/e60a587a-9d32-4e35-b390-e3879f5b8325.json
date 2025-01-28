@@ -1,0 +1,11 @@
+{
+  "id": "e60a587a-9d32-4e35-b390-e3879f5b8325",
+  "object": "beer",
+  "name": "Cherry Vanilla Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

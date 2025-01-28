@@ -1,0 +1,11 @@
+{
+  "id": "205856b4-c599-483f-85ce-284db4f312a4",
+  "object": "beer",
+  "name": "Hoppy Frog",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

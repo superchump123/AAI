@@ -1,0 +1,11 @@
+{
+  "id": "94cab2c1-1948-4356-a91d-8c03462c9071",
+  "object": "beer",
+  "name": "Saison Extra",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

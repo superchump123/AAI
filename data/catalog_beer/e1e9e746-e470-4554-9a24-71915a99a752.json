@@ -1,0 +1,11 @@
+{
+  "id": "e1e9e746-e470-4554-9a24-71915a99a752",
+  "object": "beer",
+  "name": "Banket Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

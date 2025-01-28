@@ -1,0 +1,11 @@
+{
+  "id": "8e074423-05d8-47e1-9b16-33e0d1199e30",
+  "object": "beer",
+  "name": "Puddle Jumper Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

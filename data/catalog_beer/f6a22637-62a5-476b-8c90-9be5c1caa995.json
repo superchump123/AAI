@@ -1,0 +1,11 @@
+{
+  "id": "f6a22637-62a5-476b-8c90-9be5c1caa995",
+  "object": "beer",
+  "name": "Deuces Wild",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

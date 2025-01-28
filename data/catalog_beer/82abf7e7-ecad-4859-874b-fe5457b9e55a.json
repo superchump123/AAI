@@ -1,0 +1,11 @@
+{
+  "id": "82abf7e7-ecad-4859-874b-fe5457b9e55a",
+  "object": "beer",
+  "name": "Labatt Blue Royale Light",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

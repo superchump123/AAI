@@ -1,0 +1,11 @@
+{
+  "id": "b5a04791-7911-4582-b0e3-cd6b5b8c1538",
+  "object": "beer",
+  "name": "Clarence",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

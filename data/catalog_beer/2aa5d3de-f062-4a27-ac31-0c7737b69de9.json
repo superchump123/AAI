@@ -1,0 +1,11 @@
+{
+  "id": "2aa5d3de-f062-4a27-ac31-0c7737b69de9",
+  "object": "beer",
+  "name": "Tafelbier",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

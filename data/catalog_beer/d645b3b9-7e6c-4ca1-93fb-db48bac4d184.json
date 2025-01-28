@@ -1,0 +1,11 @@
+{
+  "id": "d645b3b9-7e6c-4ca1-93fb-db48bac4d184",
+  "object": "beer",
+  "name": "Field Bier",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9d28ad3e-123d-4eda-a427-70ce2993a1dc",
+  "object": "beer",
+  "name": "Very Special Old Pale (V.S.O.P.)",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

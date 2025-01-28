@@ -1,0 +1,11 @@
+{
+  "id": "c51a1dbb-12b4-47f5-9996-b1908941f0f0",
+  "object": "beer",
+  "name": "Pinnacle Peak Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

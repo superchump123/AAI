@@ -1,0 +1,11 @@
+{
+  "id": "16c928af-27ea-4bb8-87d6-9e6f120da942",
+  "object": "beer",
+  "name": "Hogwashed Hickory-Smoked Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

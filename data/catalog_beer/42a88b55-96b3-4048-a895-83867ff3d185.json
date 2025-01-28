@@ -1,0 +1,11 @@
+{
+  "id": "42a88b55-96b3-4048-a895-83867ff3d185",
+  "object": "beer",
+  "name": "Buddy Rye'N",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

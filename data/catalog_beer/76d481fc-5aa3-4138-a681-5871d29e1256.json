@@ -1,0 +1,11 @@
+{
+  "id": "76d481fc-5aa3-4138-a681-5871d29e1256",
+  "object": "beer",
+  "name": "Chai Brown",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

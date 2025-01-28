@@ -1,0 +1,11 @@
+{
+  "id": "dfd4956b-20a9-4cee-8bf8-0157bf74530f",
+  "object": "beer",
+  "name": "FORBIDDEN FRUIT",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

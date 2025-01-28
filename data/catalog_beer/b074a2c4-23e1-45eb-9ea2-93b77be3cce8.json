@@ -1,0 +1,11 @@
+{
+  "id": "b074a2c4-23e1-45eb-9ea2-93b77be3cce8",
+  "object": "beer",
+  "name": "Winter Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

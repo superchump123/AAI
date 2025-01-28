@@ -1,0 +1,11 @@
+{
+  "id": "4c88e5a1-aa08-4010-b6d6-c9c49384dfe4",
+  "object": "beer",
+  "name": "The Mayan",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d645de3e-a49f-4149-ba56-65fd8cb79b0d",
+  "object": "beer",
+  "name": "Maven",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

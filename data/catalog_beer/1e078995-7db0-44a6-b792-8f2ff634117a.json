@@ -1,0 +1,11 @@
+{
+  "id": "1e078995-7db0-44a6-b792-8f2ff634117a",
+  "object": "beer",
+  "name": "White Marlin Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

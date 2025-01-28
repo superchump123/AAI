@@ -1,0 +1,11 @@
+{
+  "id": "c65b1c77-a1bc-4c33-b9d0-f4179787ec7c",
+  "object": "beer",
+  "name": "Amber Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

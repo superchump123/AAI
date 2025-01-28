@@ -1,0 +1,11 @@
+{
+  "id": "2a986ab0-ed2f-4aa9-9116-65d855ba080a",
+  "object": "beer",
+  "name": "Chamberlain Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "46840d5f-2f70-42fc-b705-619c07533cb1",
+  "object": "beer",
+  "name": "KCCO Gold Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

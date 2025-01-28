@@ -1,0 +1,11 @@
+{
+  "id": "4fe30895-1370-459b-8ed7-79f942615654",
+  "object": "beer",
+  "name": "Hobgoblin Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

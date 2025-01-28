@@ -1,0 +1,11 @@
+{
+  "id": "8ebe6ecd-6ac5-4d5c-8767-05abeb7c9f30",
+  "object": "beer",
+  "name": "Cuvee Delphine",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

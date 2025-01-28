@@ -1,0 +1,11 @@
+{
+  "id": "ecc748ea-6821-4fc1-9099-a8bf4e0f8843",
+  "object": "beer",
+  "name": "Blue Dream",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

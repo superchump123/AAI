@@ -1,0 +1,11 @@
+{
+  "id": "f3b0417d-660f-456e-b771-55a932b51c68",
+  "object": "beer",
+  "name": "Runway IPA",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

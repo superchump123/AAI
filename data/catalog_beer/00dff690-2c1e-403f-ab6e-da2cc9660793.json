@@ -1,0 +1,11 @@
+{
+  "id": "00dff690-2c1e-403f-ab6e-da2cc9660793",
+  "object": "beer",
+  "name": "Acres O' Green Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

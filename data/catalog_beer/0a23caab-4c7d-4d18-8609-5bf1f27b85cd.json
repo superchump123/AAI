@@ -1,0 +1,11 @@
+{
+  "id": "0a23caab-4c7d-4d18-8609-5bf1f27b85cd",
+  "object": "beer",
+  "name": "Self Control",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

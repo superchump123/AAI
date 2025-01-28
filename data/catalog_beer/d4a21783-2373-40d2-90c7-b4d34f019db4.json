@@ -1,0 +1,11 @@
+{
+  "id": "d4a21783-2373-40d2-90c7-b4d34f019db4",
+  "object": "beer",
+  "name": "Duvel Rustica",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

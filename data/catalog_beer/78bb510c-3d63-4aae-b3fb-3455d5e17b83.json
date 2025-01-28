@@ -1,0 +1,11 @@
+{
+  "id": "78bb510c-3d63-4aae-b3fb-3455d5e17b83",
+  "object": "beer",
+  "name": "Lehner Premium Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

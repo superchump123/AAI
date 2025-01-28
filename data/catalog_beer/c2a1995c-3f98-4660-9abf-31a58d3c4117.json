@@ -1,0 +1,11 @@
+{
+  "id": "c2a1995c-3f98-4660-9abf-31a58d3c4117",
+  "object": "beer",
+  "name": "Stone Smoked Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

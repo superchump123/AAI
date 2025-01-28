@@ -1,0 +1,11 @@
+{
+  "id": "ed8d2e26-4d6b-4ed9-a617-540886db29f7",
+  "object": "beer",
+  "name": "ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

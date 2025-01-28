@@ -1,0 +1,11 @@
+{
+  "id": "0c83b347-e87d-4a92-910f-de2e69539167",
+  "object": "beer",
+  "name": "Wildflower Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

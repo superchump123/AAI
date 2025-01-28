@@ -1,0 +1,11 @@
+{
+  "id": "bc413f53-0b62-419e-b4a6-b4fd7a15648d",
+  "object": "beer",
+  "name": "Double Jeopardy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

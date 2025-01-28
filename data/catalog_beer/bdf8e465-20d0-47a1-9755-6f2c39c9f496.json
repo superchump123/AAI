@@ -1,0 +1,11 @@
+{
+  "id": "bdf8e465-20d0-47a1-9755-6f2c39c9f496",
+  "object": "beer",
+  "name": "HC-100",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

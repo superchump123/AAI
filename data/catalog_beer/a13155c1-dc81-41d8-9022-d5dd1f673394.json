@@ -1,0 +1,11 @@
+{
+  "id": "a13155c1-dc81-41d8-9022-d5dd1f673394",
+  "object": "beer",
+  "name": "70 West IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

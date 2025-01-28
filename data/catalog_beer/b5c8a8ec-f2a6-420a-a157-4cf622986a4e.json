@@ -1,0 +1,11 @@
+{
+  "id": "b5c8a8ec-f2a6-420a-a157-4cf622986a4e",
+  "object": "beer",
+  "name": "Stone Kicker",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

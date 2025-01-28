@@ -1,0 +1,11 @@
+{
+  "id": "2c188be4-6ccc-493b-8823-cf55dfdea9d3",
+  "object": "beer",
+  "name": "Quatre-Centi\u00e8me",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

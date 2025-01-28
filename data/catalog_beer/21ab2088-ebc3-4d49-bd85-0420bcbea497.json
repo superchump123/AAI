@@ -1,0 +1,11 @@
+{
+  "id": "21ab2088-ebc3-4d49-bd85-0420bcbea497",
+  "object": "beer",
+  "name": "Mango 'Till They're Sore",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "afce6200-c19a-4fe3-be81-ea9b8a22be15",
+  "object": "beer",
+  "name": "Cloud 9",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

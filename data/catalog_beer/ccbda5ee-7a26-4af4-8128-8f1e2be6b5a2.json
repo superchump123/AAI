@@ -1,0 +1,11 @@
+{
+  "id": "ccbda5ee-7a26-4af4-8128-8f1e2be6b5a2",
+  "object": "beer",
+  "name": "Ron Finley",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6bae4afb-8c69-4d04-88ad-0ae58d239662",
+  "object": "beer",
+  "name": "Atlantik-Ale",
+  "style": "Pale Ale",
+  "description": "Der englische Bierstil \u201eAle\u201c bezeichnete urspr\u00fcnglich ein ungehopftes Bier. Zu Zeiten der Hanse wurde der Hopfen in England eingef\u00fchrt und es entstanden die heute bekannten englischen Ales, die vor allem f\u00fcr Ihre starke Hopfung und lange Haltbarkeit ber\u00fchmt sind. Das begehrte Ale-Rezept verbreitete sich in den Hansest\u00e4dten und stellt damit auch die Basis f\u00fcr unser Atlantik-Ale, ein naturbelassenes, oberg\u00e4riges, helles Ale mit einer Stammw\u00fcrze von 11,4%.",
+  "abv": 5.1,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1699879085
+}

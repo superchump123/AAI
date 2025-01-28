@@ -1,0 +1,11 @@
+{
+  "id": "59de5493-4fff-4b66-8473-779e8683b0c6",
+  "object": "beer",
+  "name": "Three Bandits",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

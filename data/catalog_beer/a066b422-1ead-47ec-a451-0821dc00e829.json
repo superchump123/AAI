@@ -1,0 +1,11 @@
+{
+  "id": "a066b422-1ead-47ec-a451-0821dc00e829",
+  "object": "beer",
+  "name": "Abolition",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

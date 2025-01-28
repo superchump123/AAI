@@ -1,0 +1,11 @@
+{
+  "id": "4d38f6ff-69e8-49be-9b6b-959da0e93181",
+  "object": "beer",
+  "name": "Nice",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

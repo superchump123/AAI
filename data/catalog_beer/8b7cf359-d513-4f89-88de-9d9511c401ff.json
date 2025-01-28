@@ -1,0 +1,11 @@
+{
+  "id": "8b7cf359-d513-4f89-88de-9d9511c401ff",
+  "object": "beer",
+  "name": "Spectre",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

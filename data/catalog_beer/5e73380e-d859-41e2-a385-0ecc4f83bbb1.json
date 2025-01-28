@@ -1,0 +1,11 @@
+{
+  "id": "5e73380e-d859-41e2-a385-0ecc4f83bbb1",
+  "object": "beer",
+  "name": "Later Days",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cce24655-9ff3-4de3-ae22-dc42655c9237",
+  "object": "beer",
+  "name": "Rusty Gold",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

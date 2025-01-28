@@ -1,0 +1,11 @@
+{
+  "id": "d8d031ae-a395-45fa-ae37-f0d57d7f1876",
+  "object": "beer",
+  "name": "Angkor Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

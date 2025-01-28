@@ -1,0 +1,11 @@
+{
+  "id": "d7b26a18-93fd-48f8-b494-ea1e78b2179d",
+  "object": "beer",
+  "name": "Kulshan Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

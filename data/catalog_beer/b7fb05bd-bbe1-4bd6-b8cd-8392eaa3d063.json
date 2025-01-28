@@ -1,0 +1,11 @@
+{
+  "id": "b7fb05bd-bbe1-4bd6-b8cd-8392eaa3d063",
+  "object": "beer",
+  "name": "Down By the River",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

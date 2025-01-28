@@ -1,0 +1,11 @@
+{
+  "id": "a39fc250-82fe-42c4-893e-f5244e31f75e",
+  "object": "beer",
+  "name": "Estrella Damm Daura",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

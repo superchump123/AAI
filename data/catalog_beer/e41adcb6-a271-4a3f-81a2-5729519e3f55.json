@@ -1,0 +1,11 @@
+{
+  "id": "e41adcb6-a271-4a3f-81a2-5729519e3f55",
+  "object": "beer",
+  "name": "Tasty Waves",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

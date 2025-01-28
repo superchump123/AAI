@@ -1,0 +1,11 @@
+{
+  "id": "71b0157a-d0c5-4fa1-a996-d04ee2859230",
+  "object": "beer",
+  "name": "Hop Baron",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 103,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b7f2e4a4-2ffc-4490-8077-00c491098dff",
+  "object": "beer",
+  "name": "Watt Bier Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

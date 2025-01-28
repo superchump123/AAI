@@ -1,0 +1,11 @@
+{
+  "id": "7c906bf8-d461-422c-aa45-37dd30f162a0",
+  "object": "beer",
+  "name": "Kipling",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65b89454-bd22-4d8c-800f-935eb0eba9b0",
+  "object": "beer",
+  "name": "Terry\u2019s Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a19cffdc-8c6c-48cf-860e-d16065588b73",
+  "object": "beer",
+  "name": "Samurai",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

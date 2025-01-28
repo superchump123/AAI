@@ -1,0 +1,11 @@
+{
+  "id": "393cb956-e681-423e-b64a-30022e35c492",
+  "object": "beer",
+  "name": "La Saint-Jean Baptiste",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

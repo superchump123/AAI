@@ -1,0 +1,11 @@
+{
+  "id": "2e7afd05-a62c-4cef-b795-c1ca74cd1c06",
+  "object": "beer",
+  "name": "Four Headed Wooly Mammoth",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

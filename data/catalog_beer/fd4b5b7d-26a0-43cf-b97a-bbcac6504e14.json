@@ -1,0 +1,11 @@
+{
+  "id": "fd4b5b7d-26a0-43cf-b97a-bbcac6504e14",
+  "object": "beer",
+  "name": "Simcoe IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

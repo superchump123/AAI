@@ -1,0 +1,11 @@
+{
+  "id": "bd5ed4e0-8a43-4dcc-a4a4-1883d88389be",
+  "object": "beer",
+  "name": "Drinko De Ryeo",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5baaebdf-56b3-40ef-85e5-be50f5b086ae",
+  "object": "beer",
+  "name": "Dynamic Duo IIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 77,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

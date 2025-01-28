@@ -1,0 +1,11 @@
+{
+  "id": "de96a4f3-194d-406d-beed-738f347a0e09",
+  "object": "beer",
+  "name": "13 Guns",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

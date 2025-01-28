@@ -1,0 +1,11 @@
+{
+  "id": "311f9f24-4b71-40fd-8c2e-f11177dd2337",
+  "object": "beer",
+  "name": "Route des Epices",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

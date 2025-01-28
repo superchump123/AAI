@@ -1,0 +1,11 @@
+{
+  "id": "1a48e022-e84d-415c-885a-4d96867196fc",
+  "object": "beer",
+  "name": "Take the Day Mild",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

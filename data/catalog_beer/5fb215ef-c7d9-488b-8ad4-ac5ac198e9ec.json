@@ -1,0 +1,11 @@
+{
+  "id": "5fb215ef-c7d9-488b-8ad4-ac5ac198e9ec",
+  "object": "beer",
+  "name": "Scoresby Stout",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

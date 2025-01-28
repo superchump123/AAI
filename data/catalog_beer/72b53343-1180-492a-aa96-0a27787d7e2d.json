@@ -1,0 +1,11 @@
+{
+  "id": "72b53343-1180-492a-aa96-0a27787d7e2d",
+  "object": "beer",
+  "name": "Funk'd Nelson",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4c2dfa91-2dd9-4b8e-9cd5-84bcab826a24",
+  "object": "beer",
+  "name": "Generation",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

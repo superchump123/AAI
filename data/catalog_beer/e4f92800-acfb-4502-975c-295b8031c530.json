@@ -1,0 +1,11 @@
+{
+  "id": "e4f92800-acfb-4502-975c-295b8031c530",
+  "object": "beer",
+  "name": "Rousse du Prospecteur",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

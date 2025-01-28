@@ -1,0 +1,11 @@
+{
+  "id": "f9d6c6a3-3fa0-4c5e-a0a2-7d913500e5b7",
+  "object": "beer",
+  "name": "Cabin Fever",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

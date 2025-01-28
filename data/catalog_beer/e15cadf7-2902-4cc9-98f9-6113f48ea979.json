@@ -1,0 +1,11 @@
+{
+  "id": "e15cadf7-2902-4cc9-98f9-6113f48ea979",
+  "object": "beer",
+  "name": "Changing Tides Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

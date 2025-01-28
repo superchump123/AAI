@@ -1,0 +1,11 @@
+{
+  "id": "e4eadaf9-c535-4c9f-932a-69f58b08b3fc",
+  "object": "beer",
+  "name": "Belgian Exchange Student",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

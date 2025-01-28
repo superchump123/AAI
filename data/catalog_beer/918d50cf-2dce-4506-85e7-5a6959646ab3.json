@@ -1,0 +1,11 @@
+{
+  "id": "918d50cf-2dce-4506-85e7-5a6959646ab3",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Citra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

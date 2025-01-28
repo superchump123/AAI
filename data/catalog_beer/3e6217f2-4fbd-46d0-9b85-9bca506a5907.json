@@ -1,0 +1,11 @@
+{
+  "id": "3e6217f2-4fbd-46d0-9b85-9bca506a5907",
+  "object": "beer",
+  "name": "Oatmeal Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

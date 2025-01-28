@@ -1,0 +1,11 @@
+{
+  "id": "6ea2a10d-fb3f-4b71-ab9f-fb78a6ba7a83",
+  "object": "beer",
+  "name": "Brett Frambois",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

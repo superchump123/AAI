@@ -1,0 +1,11 @@
+{
+  "id": "a74ee96c-8220-4881-a65f-58af23cfe971",
+  "object": "beer",
+  "name": "Numero Uno Agave Cerveza",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

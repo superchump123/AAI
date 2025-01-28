@@ -1,0 +1,11 @@
+{
+  "id": "0c44baff-0c4a-43be-af61-5af2e8d40c76",
+  "object": "beer",
+  "name": "Brindled Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

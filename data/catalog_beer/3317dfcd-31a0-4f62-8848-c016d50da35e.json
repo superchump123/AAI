@@ -1,0 +1,11 @@
+{
+  "id": "3317dfcd-31a0-4f62-8848-c016d50da35e",
+  "object": "beer",
+  "name": "B.F. Ete",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

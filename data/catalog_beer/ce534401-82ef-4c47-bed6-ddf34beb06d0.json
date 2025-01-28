@@ -1,0 +1,11 @@
+{
+  "id": "ce534401-82ef-4c47-bed6-ddf34beb06d0",
+  "object": "beer",
+  "name": "St. Andrews Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "619b30f9-8afc-41d7-b81c-fb394f7f6ed6",
+  "object": "beer",
+  "name": "John Lemon",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

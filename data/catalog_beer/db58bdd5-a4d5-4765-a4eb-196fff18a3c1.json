@@ -1,0 +1,11 @@
+{
+  "id": "db58bdd5-a4d5-4765-a4eb-196fff18a3c1",
+  "object": "beer",
+  "name": "Owd Engwish Barrel-Aged Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

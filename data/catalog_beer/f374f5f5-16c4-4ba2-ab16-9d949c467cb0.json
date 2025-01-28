@@ -1,0 +1,11 @@
+{
+  "id": "f374f5f5-16c4-4ba2-ab16-9d949c467cb0",
+  "object": "beer",
+  "name": "Tent City Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

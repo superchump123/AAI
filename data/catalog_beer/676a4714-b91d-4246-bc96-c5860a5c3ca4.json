@@ -1,0 +1,11 @@
+{
+  "id": "676a4714-b91d-4246-bc96-c5860a5c3ca4",
+  "object": "beer",
+  "name": "Ruben",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

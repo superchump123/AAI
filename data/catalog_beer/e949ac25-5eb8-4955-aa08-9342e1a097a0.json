@@ -1,0 +1,11 @@
+{
+  "id": "e949ac25-5eb8-4955-aa08-9342e1a097a0",
+  "object": "beer",
+  "name": "Orion's Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

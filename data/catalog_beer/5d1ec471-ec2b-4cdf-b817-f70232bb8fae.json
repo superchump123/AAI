@@ -1,0 +1,11 @@
+{
+  "id": "5d1ec471-ec2b-4cdf-b817-f70232bb8fae",
+  "object": "beer",
+  "name": "Lime-a-Rita",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

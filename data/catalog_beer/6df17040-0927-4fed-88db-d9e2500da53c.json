@@ -1,0 +1,11 @@
+{
+  "id": "6df17040-0927-4fed-88db-d9e2500da53c",
+  "object": "beer",
+  "name": "Lady Legger",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

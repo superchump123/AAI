@@ -1,0 +1,11 @@
+{
+  "id": "891b67ba-6977-4f4c-ba7b-aff213982568",
+  "object": "beer",
+  "name": "Common Man",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

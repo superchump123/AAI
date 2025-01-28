@@ -1,0 +1,11 @@
+{
+  "id": "ef808f82-2a19-4ef0-8b2f-5916f292fce0",
+  "object": "beer",
+  "name": "Uncle Jim's Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00bfe7aa-33ba-445f-86c1-b824d5fe67b0",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Regulator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

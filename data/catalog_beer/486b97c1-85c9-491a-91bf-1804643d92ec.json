@@ -1,0 +1,11 @@
+{
+  "id": "486b97c1-85c9-491a-91bf-1804643d92ec",
+  "object": "beer",
+  "name": "Margarita Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

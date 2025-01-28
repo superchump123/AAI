@@ -1,0 +1,11 @@
+{
+  "id": "bef2a613-df97-47e0-922e-538300660160",
+  "object": "beer",
+  "name": "Superfly",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

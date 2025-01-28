@@ -1,0 +1,11 @@
+{
+  "id": "1cf83108-93c8-4b68-b404-d1aa12e13f60",
+  "object": "beer",
+  "name": "Surette Reserva",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

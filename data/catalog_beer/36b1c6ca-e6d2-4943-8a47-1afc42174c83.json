@@ -1,0 +1,11 @@
+{
+  "id": "36b1c6ca-e6d2-4943-8a47-1afc42174c83",
+  "object": "beer",
+  "name": "MARBLED RYE",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

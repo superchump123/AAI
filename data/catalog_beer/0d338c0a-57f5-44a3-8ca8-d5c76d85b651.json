@@ -1,0 +1,11 @@
+{
+  "id": "0d338c0a-57f5-44a3-8ca8-d5c76d85b651",
+  "object": "beer",
+  "name": "Trae PA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

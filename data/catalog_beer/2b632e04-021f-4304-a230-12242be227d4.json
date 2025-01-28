@@ -1,0 +1,11 @@
+{
+  "id": "2b632e04-021f-4304-a230-12242be227d4",
+  "object": "beer",
+  "name": "White Zombie",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

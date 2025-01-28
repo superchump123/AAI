@@ -1,0 +1,11 @@
+{
+  "id": "4a4be04e-61c5-403d-8fd5-21fbb9e8cd33",
+  "object": "beer",
+  "name": "Life On Mars",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

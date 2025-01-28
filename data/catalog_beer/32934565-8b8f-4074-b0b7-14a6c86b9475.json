@@ -1,0 +1,11 @@
+{
+  "id": "32934565-8b8f-4074-b0b7-14a6c86b9475",
+  "object": "beer",
+  "name": "Parrish St. Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6c04f7bd-e9ef-4d88-bac8-8514bc60b7cb",
+  "object": "beer",
+  "name": "Belgian Session Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

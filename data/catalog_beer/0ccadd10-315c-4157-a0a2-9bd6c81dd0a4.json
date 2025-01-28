@@ -1,0 +1,11 @@
+{
+  "id": "0ccadd10-315c-4157-a0a2-9bd6c81dd0a4",
+  "object": "beer",
+  "name": "Empire No. 8",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

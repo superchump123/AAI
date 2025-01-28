@@ -1,0 +1,11 @@
+{
+  "id": "0cae29ed-5388-4ec2-ab64-8931a5b839ab",
+  "object": "beer",
+  "name": "Arkie Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

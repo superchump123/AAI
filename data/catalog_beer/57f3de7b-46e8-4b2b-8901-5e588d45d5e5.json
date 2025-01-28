@@ -1,0 +1,11 @@
+{
+  "id": "57f3de7b-46e8-4b2b-8901-5e588d45d5e5",
+  "object": "beer",
+  "name": "Bramblin\u2019 Man",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

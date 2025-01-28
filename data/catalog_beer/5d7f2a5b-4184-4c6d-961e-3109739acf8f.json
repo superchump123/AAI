@@ -1,0 +1,11 @@
+{
+  "id": "5d7f2a5b-4184-4c6d-961e-3109739acf8f",
+  "object": "beer",
+  "name": "Dunkel Dimmel Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

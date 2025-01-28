@@ -1,0 +1,11 @@
+{
+  "id": "9dcca68c-fa0b-46a5-9513-19ccd268c5ef",
+  "object": "beer",
+  "name": "Horchata Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

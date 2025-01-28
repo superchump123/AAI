@@ -1,0 +1,11 @@
+{
+  "id": "d35196a2-0e6b-42b9-9bd8-a7ab8c9127f4",
+  "object": "beer",
+  "name": "Diablo in Disguise",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a8f83093-a04c-4d6c-9cec-df101af8c076",
+  "object": "beer",
+  "name": "Banker's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

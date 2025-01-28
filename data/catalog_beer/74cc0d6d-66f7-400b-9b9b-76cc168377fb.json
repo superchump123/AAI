@@ -1,0 +1,11 @@
+{
+  "id": "74cc0d6d-66f7-400b-9b9b-76cc168377fb",
+  "object": "beer",
+  "name": "Weekday Mild",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

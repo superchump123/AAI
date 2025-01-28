@@ -1,0 +1,11 @@
+{
+  "id": "0ac2fcad-3a0a-40ad-9570-4ade51b3936e",
+  "object": "beer",
+  "name": "East Village Amber",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

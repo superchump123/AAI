@@ -1,0 +1,11 @@
+{
+  "id": "bd8d7bbe-4198-45f8-a27e-e0cf90e2a0c2",
+  "object": "beer",
+  "name": "Citra Blonde Summer Brew",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

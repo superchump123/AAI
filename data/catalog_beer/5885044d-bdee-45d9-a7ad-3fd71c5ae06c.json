@@ -1,0 +1,11 @@
+{
+  "id": "5885044d-bdee-45d9-a7ad-3fd71c5ae06c",
+  "object": "beer",
+  "name": "Country Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

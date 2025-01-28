@@ -1,0 +1,11 @@
+{
+  "id": "6145652c-93c5-4579-925c-208a3555be81",
+  "object": "beer",
+  "name": "Wheat Beer",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

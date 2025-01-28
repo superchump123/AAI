@@ -1,0 +1,11 @@
+{
+  "id": "b4cfabaa-3302-4f5d-a128-f63d904cfa1a",
+  "object": "beer",
+  "name": "Virginia Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

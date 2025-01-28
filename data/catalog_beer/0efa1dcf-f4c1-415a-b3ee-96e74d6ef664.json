@@ -1,0 +1,11 @@
+{
+  "id": "0efa1dcf-f4c1-415a-b3ee-96e74d6ef664",
+  "object": "beer",
+  "name": "Pasayten Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

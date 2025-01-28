@@ -1,0 +1,11 @@
+{
+  "id": "dc08ccb3-ed57-4219-880d-04d58a6f1582",
+  "object": "beer",
+  "name": "Super Spruce",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

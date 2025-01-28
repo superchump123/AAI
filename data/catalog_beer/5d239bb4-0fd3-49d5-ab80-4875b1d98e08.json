@@ -1,0 +1,11 @@
+{
+  "id": "5d239bb4-0fd3-49d5-ab80-4875b1d98e08",
+  "object": "beer",
+  "name": "Scarecrow Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

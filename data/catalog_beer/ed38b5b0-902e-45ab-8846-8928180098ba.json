@@ -1,0 +1,11 @@
+{
+  "id": "ed38b5b0-902e-45ab-8846-8928180098ba",
+  "object": "beer",
+  "name": "Echo Sierra Bravo (ESB)",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

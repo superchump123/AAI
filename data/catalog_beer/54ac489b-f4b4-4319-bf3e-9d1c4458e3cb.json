@@ -1,0 +1,11 @@
+{
+  "id": "54ac489b-f4b4-4319-bf3e-9d1c4458e3cb",
+  "object": "beer",
+  "name": "PNW Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

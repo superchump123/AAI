@@ -1,0 +1,11 @@
+{
+  "id": "dfbb3019-ebef-4c94-b3c1-2f01190e352e",
+  "object": "beer",
+  "name": "Tailgate Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

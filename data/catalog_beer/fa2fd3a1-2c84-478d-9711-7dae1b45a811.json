@@ -1,0 +1,11 @@
+{
+  "id": "fa2fd3a1-2c84-478d-9711-7dae1b45a811",
+  "object": "beer",
+  "name": "Doble Moral",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

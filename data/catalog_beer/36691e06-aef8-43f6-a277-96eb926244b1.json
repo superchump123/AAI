@@ -1,0 +1,11 @@
+{
+  "id": "36691e06-aef8-43f6-a277-96eb926244b1",
+  "object": "beer",
+  "name": "The Alter Ego a/k/a Tony Clifton",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

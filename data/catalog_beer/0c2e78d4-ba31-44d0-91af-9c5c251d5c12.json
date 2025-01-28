@@ -1,0 +1,11 @@
+{
+  "id": "0c2e78d4-ba31-44d0-91af-9c5c251d5c12",
+  "object": "beer",
+  "name": "Bleeding Buckeye Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

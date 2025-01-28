@@ -1,0 +1,11 @@
+{
+  "id": "a390bdd9-2eff-4b2f-92d7-5db2b8a6ebb7",
+  "object": "beer",
+  "name": "Seismic IPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

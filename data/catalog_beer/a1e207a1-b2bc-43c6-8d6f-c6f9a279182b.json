@@ -1,0 +1,11 @@
+{
+  "id": "a1e207a1-b2bc-43c6-8d6f-c6f9a279182b",
+  "object": "beer",
+  "name": "Divine Sauvage",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

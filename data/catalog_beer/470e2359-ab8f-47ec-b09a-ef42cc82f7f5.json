@@ -1,0 +1,11 @@
+{
+  "id": "470e2359-ab8f-47ec-b09a-ef42cc82f7f5",
+  "object": "beer",
+  "name": "Double Mash Cutthroat",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

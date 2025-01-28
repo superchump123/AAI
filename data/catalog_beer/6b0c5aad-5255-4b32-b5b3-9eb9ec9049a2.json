@@ -1,0 +1,11 @@
+{
+  "id": "6b0c5aad-5255-4b32-b5b3-9eb9ec9049a2",
+  "object": "beer",
+  "name": "IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "308e0171-e22e-4832-bc7a-2248244972c1",
+  "object": "beer",
+  "name": "September Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

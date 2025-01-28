@@ -1,0 +1,11 @@
+{
+  "id": "542d0bb8-3ed3-4a8c-8573-841ef841c0b1",
+  "object": "beer",
+  "name": "Blue Gene",
+  "style": "Wood- and Barrel-Aged Dark Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

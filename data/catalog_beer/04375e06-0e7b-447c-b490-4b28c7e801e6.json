@@ -1,0 +1,11 @@
+{
+  "id": "04375e06-0e7b-447c-b490-4b28c7e801e6",
+  "object": "beer",
+  "name": "Little Black Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c6d1a5a9-cc47-4df5-b27f-01df07c5d434",
+  "object": "beer",
+  "name": "Worst Day IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "43a2a03a-f0cb-4229-99ee-7ed3f9e00db8",
+  "object": "beer",
+  "name": "Arroyo Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

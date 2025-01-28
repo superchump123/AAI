@@ -1,0 +1,11 @@
+{
+  "id": "6a73974f-555f-441a-bf60-dd75c4223256",
+  "object": "beer",
+  "name": "Shelter Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

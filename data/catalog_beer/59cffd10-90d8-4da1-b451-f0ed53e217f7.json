@@ -1,0 +1,11 @@
+{
+  "id": "59cffd10-90d8-4da1-b451-f0ed53e217f7",
+  "object": "beer",
+  "name": "Bad Boy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b1af44d4-25d2-4b27-b741-3f972e5c29e9",
+  "object": "beer",
+  "name": "Dortmunder Local Export Lager",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

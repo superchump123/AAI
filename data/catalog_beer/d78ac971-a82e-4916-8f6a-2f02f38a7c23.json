@@ -1,0 +1,11 @@
+{
+  "id": "d78ac971-a82e-4916-8f6a-2f02f38a7c23",
+  "object": "beer",
+  "name": "Ever Weisse",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

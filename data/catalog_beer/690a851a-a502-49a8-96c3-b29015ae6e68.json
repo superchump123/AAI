@@ -1,0 +1,11 @@
+{
+  "id": "690a851a-a502-49a8-96c3-b29015ae6e68",
+  "object": "beer",
+  "name": "\"EVL1\" Imperial Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

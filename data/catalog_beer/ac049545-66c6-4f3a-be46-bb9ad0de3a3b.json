@@ -1,0 +1,11 @@
+{
+  "id": "ac049545-66c6-4f3a-be46-bb9ad0de3a3b",
+  "object": "beer",
+  "name": "Uff-Da",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

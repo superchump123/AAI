@@ -1,0 +1,11 @@
+{
+  "id": "db11eb3f-7d01-4ae6-a88e-c2d80ac3700b",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

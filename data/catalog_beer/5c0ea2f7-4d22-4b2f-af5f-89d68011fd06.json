@@ -1,0 +1,11 @@
+{
+  "id": "5c0ea2f7-4d22-4b2f-af5f-89d68011fd06",
+  "object": "beer",
+  "name": "Blackberry Mead",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

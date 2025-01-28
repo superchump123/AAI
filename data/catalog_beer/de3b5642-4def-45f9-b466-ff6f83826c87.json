@@ -1,0 +1,11 @@
+{
+  "id": "de3b5642-4def-45f9-b466-ff6f83826c87",
+  "object": "beer",
+  "name": "Copperpop",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

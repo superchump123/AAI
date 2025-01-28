@@ -1,0 +1,11 @@
+{
+  "id": "9dbf18f7-6fe6-4cc9-a566-d0db350970e3",
+  "object": "beer",
+  "name": "Cape May Apple Pie",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

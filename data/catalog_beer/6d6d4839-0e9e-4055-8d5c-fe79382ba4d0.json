@@ -1,0 +1,11 @@
+{
+  "id": "6d6d4839-0e9e-4055-8d5c-fe79382ba4d0",
+  "object": "beer",
+  "name": "ACE Apple Honey Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

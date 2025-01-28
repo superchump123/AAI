@@ -1,0 +1,11 @@
+{
+  "id": "4705d095-eece-4389-bbb1-62d2a22f8bc9",
+  "object": "beer",
+  "name": "Just Another IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

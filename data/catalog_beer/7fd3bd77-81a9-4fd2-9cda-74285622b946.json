@@ -1,0 +1,11 @@
+{
+  "id": "7fd3bd77-81a9-4fd2-9cda-74285622b946",
+  "object": "beer",
+  "name": "The Statesman",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

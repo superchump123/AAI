@@ -1,0 +1,11 @@
+{
+  "id": "60d94f12-3566-46aa-927e-74e1751d8e36",
+  "object": "beer",
+  "name": "Wolfman's Brother",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

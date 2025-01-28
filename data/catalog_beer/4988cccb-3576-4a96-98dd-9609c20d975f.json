@@ -1,0 +1,11 @@
+{
+  "id": "4988cccb-3576-4a96-98dd-9609c20d975f",
+  "object": "beer",
+  "name": "Sah'tea",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

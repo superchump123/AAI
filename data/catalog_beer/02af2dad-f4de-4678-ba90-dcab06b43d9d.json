@@ -1,0 +1,11 @@
+{
+  "id": "02af2dad-f4de-4678-ba90-dcab06b43d9d",
+  "object": "beer",
+  "name": "Molten Lava",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

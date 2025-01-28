@@ -1,0 +1,11 @@
+{
+  "id": "1699bbd2-402d-47ee-a6ac-fd5e88e5ebb5",
+  "object": "beer",
+  "name": "Camp Depression Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

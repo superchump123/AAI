@@ -1,0 +1,11 @@
+{
+  "id": "4d33cf0f-05e5-419a-b8be-e38e66cbe2cd",
+  "object": "beer",
+  "name": "Son Of Wrath",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "75522d44-66ff-4ccd-bbb8-9d6a94b3ae1d",
+  "object": "beer",
+  "name": "Phast & Wreckless Wrye WIPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

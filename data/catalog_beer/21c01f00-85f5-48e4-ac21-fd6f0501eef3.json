@@ -1,0 +1,11 @@
+{
+  "id": "21c01f00-85f5-48e4-ac21-fd6f0501eef3",
+  "object": "beer",
+  "name": "Mounds of Grounds",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

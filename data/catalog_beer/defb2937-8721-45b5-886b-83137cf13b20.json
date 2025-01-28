@@ -1,0 +1,11 @@
+{
+  "id": "defb2937-8721-45b5-886b-83137cf13b20",
+  "object": "beer",
+  "name": "Lemon And Ginger Radler",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1f3096ba-3e3a-4af1-b54a-88724dea252d",
+  "object": "beer",
+  "name": "Red Brick Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a274a8d1-4dfc-4b26-98b3-7a181c16104a",
+  "object": "beer",
+  "name": "Coffee Kodiak",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

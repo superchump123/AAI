@@ -1,0 +1,11 @@
+{
+  "id": "61933a1d-9949-4c8c-8418-7f4d2eed4451",
+  "object": "beer",
+  "name": "The Implication",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 13,
+  "ibu": 89,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

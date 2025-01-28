@@ -1,0 +1,11 @@
+{
+  "id": "9b0cef16-b324-417e-b4ec-28dd22281f10",
+  "object": "beer",
+  "name": "Whizbang",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

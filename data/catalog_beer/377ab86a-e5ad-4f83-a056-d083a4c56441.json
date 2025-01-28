@@ -1,0 +1,11 @@
+{
+  "id": "377ab86a-e5ad-4f83-a056-d083a4c56441",
+  "object": "beer",
+  "name": "Super Jubel",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8f4cf8b1-db8a-4e1b-9122-c16327d67e9a",
+  "object": "beer",
+  "name": "Samson Crystal Lager Beer",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

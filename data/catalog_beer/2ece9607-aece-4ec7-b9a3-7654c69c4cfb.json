@@ -1,0 +1,11 @@
+{
+  "id": "2ece9607-aece-4ec7-b9a3-7654c69c4cfb",
+  "object": "beer",
+  "name": "Andrew's Snag & Drop",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

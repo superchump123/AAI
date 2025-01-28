@@ -1,0 +1,11 @@
+{
+  "id": "9e6336fa-914e-49d3-b408-e92d066c4fbb",
+  "object": "beer",
+  "name": "Sciaenhops",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

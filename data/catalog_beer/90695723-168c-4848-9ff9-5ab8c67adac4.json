@@ -1,0 +1,11 @@
+{
+  "id": "90695723-168c-4848-9ff9-5ab8c67adac4",
+  "object": "beer",
+  "name": "Farm Boy",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ea06f5df-5f09-4b5d-947f-55332c6229f3",
+  "object": "beer",
+  "name": "Stout Hearted",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

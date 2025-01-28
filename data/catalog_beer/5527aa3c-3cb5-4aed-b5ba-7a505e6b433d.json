@@ -1,0 +1,11 @@
+{
+  "id": "5527aa3c-3cb5-4aed-b5ba-7a505e6b433d",
+  "object": "beer",
+  "name": "Das \u00dcberkind",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

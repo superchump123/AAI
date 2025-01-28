@@ -1,0 +1,11 @@
+{
+  "id": "486a59c0-50f1-42cb-aebe-8c8cd91dca3e",
+  "object": "beer",
+  "name": "Get Thee to a Nunnery",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "90ea17c1-dce3-4bd9-8efe-1aa667fef4db",
+  "object": "beer",
+  "name": "Dec Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

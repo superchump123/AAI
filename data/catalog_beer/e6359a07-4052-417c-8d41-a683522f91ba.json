@@ -1,0 +1,11 @@
+{
+  "id": "e6359a07-4052-417c-8d41-a683522f91ba",
+  "object": "beer",
+  "name": "Grisette",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

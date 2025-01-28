@@ -1,0 +1,11 @@
+{
+  "id": "d7aa4850-4b86-400b-84bc-ad94792c30c4",
+  "object": "beer",
+  "name": "Hopzeit Autumn IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

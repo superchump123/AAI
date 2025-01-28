@@ -1,0 +1,11 @@
+{
+  "id": "d63aaab1-6b6b-457e-8a91-cf6041790676",
+  "object": "beer",
+  "name": "803 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

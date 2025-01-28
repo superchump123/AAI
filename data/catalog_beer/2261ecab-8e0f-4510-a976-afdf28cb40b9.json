@@ -1,0 +1,11 @@
+{
+  "id": "2261ecab-8e0f-4510-a976-afdf28cb40b9",
+  "object": "beer",
+  "name": "Cocodrie",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

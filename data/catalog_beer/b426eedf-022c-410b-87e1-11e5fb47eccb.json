@@ -1,0 +1,11 @@
+{
+  "id": "b426eedf-022c-410b-87e1-11e5fb47eccb",
+  "object": "beer",
+  "name": "Holly King",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

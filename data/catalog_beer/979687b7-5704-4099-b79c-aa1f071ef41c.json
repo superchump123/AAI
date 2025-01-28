@@ -1,0 +1,11 @@
+{
+  "id": "979687b7-5704-4099-b79c-aa1f071ef41c",
+  "object": "beer",
+  "name": "Second Wind",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

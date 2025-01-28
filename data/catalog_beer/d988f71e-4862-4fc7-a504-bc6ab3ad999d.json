@@ -1,0 +1,11 @@
+{
+  "id": "d988f71e-4862-4fc7-a504-bc6ab3ad999d",
+  "object": "beer",
+  "name": "Idiot IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

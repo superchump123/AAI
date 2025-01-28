@@ -1,0 +1,11 @@
+{
+  "id": "00424e8d-959b-4dfc-88e6-0e1503e1f5d2",
+  "object": "beer",
+  "name": "Coconut Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

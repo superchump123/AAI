@@ -1,0 +1,11 @@
+{
+  "id": "45671616-b8d8-4f2e-abbf-aec4eb762afe",
+  "object": "beer",
+  "name": "Ronaldo",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

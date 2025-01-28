@@ -1,0 +1,11 @@
+{
+  "id": "e57c8bfe-246d-42c7-b433-e05ff6242c05",
+  "object": "beer",
+  "name": "Cantankerous Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

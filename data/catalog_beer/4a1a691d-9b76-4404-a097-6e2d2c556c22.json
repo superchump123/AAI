@@ -1,0 +1,11 @@
+{
+  "id": "4a1a691d-9b76-4404-a097-6e2d2c556c22",
+  "object": "beer",
+  "name": "Rye'D On Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "85352cf4-554e-4a41-ba58-0d887658b97e",
+  "object": "beer",
+  "name": "Back East Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7caf365a-42b5-4847-8996-00c665fb95a6",
+  "object": "beer",
+  "name": "Chocolate Brown",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

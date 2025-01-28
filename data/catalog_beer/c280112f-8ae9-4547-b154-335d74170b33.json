@@ -1,0 +1,11 @@
+{
+  "id": "c280112f-8ae9-4547-b154-335d74170b33",
+  "object": "beer",
+  "name": "English Bay Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "43a37faa-0379-4368-865b-9ec72ecbe8a6",
+  "object": "beer",
+  "name": "Harbor Lights Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

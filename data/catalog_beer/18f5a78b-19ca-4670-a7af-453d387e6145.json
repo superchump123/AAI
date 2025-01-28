@@ -1,0 +1,11 @@
+{
+  "id": "18f5a78b-19ca-4670-a7af-453d387e6145",
+  "object": "beer",
+  "name": "Whistle-Wetter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a1ee0010-1f4e-4412-9d48-1c8e653510db",
+  "object": "beer",
+  "name": "Spiced Brown",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

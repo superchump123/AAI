@@ -1,0 +1,11 @@
+{
+  "id": "e3a79d10-9a26-45f6-a8c7-1dfa7a0ef937",
+  "object": "beer",
+  "name": "HydroPony Express HYPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

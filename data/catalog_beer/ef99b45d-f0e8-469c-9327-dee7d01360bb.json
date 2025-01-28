@@ -1,0 +1,11 @@
+{
+  "id": "ef99b45d-f0e8-469c-9327-dee7d01360bb",
+  "object": "beer",
+  "name": "Lift Bridge Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

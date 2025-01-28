@@ -1,0 +1,11 @@
+{
+  "id": "268d4827-b3bf-4806-b9f3-c1d440e256a7",
+  "object": "beer",
+  "name": "Tower Power",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

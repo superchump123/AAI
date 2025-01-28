@@ -1,0 +1,11 @@
+{
+  "id": "4e31374e-fb52-4887-bae8-9baaef94f72e",
+  "object": "beer",
+  "name": "Moon Dog",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

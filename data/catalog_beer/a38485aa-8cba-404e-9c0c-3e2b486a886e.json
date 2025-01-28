@@ -1,0 +1,11 @@
+{
+  "id": "a38485aa-8cba-404e-9c0c-3e2b486a886e",
+  "object": "beer",
+  "name": "Stuntman Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

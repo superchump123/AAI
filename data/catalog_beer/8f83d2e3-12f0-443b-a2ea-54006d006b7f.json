@@ -1,0 +1,11 @@
+{
+  "id": "8f83d2e3-12f0-443b-a2ea-54006d006b7f",
+  "object": "beer",
+  "name": "Butcher's Brew",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

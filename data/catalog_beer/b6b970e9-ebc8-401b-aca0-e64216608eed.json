@@ -1,0 +1,11 @@
+{
+  "id": "b6b970e9-ebc8-401b-aca0-e64216608eed",
+  "object": "beer",
+  "name": "Crimes of Passion",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

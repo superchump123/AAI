@@ -1,0 +1,11 @@
+{
+  "id": "6b8eeb87-c1d1-4e32-848f-365ecdbad881",
+  "object": "beer",
+  "name": "Hornblower",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

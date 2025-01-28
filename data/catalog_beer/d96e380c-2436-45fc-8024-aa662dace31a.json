@@ -1,0 +1,11 @@
+{
+  "id": "d96e380c-2436-45fc-8024-aa662dace31a",
+  "object": "beer",
+  "name": "SMaSH Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

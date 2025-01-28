@@ -1,0 +1,11 @@
+{
+  "id": "863abfaf-96e4-44a9-b089-53b1ad9ba826",
+  "object": "beer",
+  "name": "Tafel Bier",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

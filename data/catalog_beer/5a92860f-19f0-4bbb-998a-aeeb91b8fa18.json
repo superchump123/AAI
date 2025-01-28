@@ -1,0 +1,11 @@
+{
+  "id": "5a92860f-19f0-4bbb-998a-aeeb91b8fa18",
+  "object": "beer",
+  "name": "Ridgeway Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

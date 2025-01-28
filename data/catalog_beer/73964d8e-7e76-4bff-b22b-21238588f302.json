@@ -1,0 +1,11 @@
+{
+  "id": "73964d8e-7e76-4bff-b22b-21238588f302",
+  "object": "beer",
+  "name": "Blood & Fire",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

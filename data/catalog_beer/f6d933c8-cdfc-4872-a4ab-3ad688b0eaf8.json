@@ -1,0 +1,11 @@
+{
+  "id": "f6d933c8-cdfc-4872-a4ab-3ad688b0eaf8",
+  "object": "beer",
+  "name": "Morning Night Cap",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

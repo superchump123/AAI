@@ -1,0 +1,11 @@
+{
+  "id": "55c795f0-d8cf-4e03-8a25-97024c77693f",
+  "object": "beer",
+  "name": "Triton Project",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

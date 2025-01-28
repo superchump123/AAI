@@ -1,0 +1,11 @@
+{
+  "id": "a2fd68ae-5279-4842-a285-ec98da79e48d",
+  "object": "beer",
+  "name": "Ceraline Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

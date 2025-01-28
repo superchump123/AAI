@@ -1,0 +1,11 @@
+{
+  "id": "f50d5cbc-32ce-4b83-9bbe-a3f3e357036d",
+  "object": "beer",
+  "name": "The Juice is Real",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

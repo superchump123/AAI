@@ -1,0 +1,11 @@
+{
+  "id": "936dfcf2-1d20-4595-aff5-29cae2c52c1b",
+  "object": "beer",
+  "name": "Pumpkin Porter",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

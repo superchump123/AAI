@@ -1,0 +1,11 @@
+{
+  "id": "b8556306-5e21-4c12-993e-546f11f3f36c",
+  "object": "beer",
+  "name": "Kratti",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

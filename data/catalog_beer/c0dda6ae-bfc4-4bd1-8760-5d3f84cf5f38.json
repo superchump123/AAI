@@ -1,0 +1,11 @@
+{
+  "id": "c0dda6ae-bfc4-4bd1-8760-5d3f84cf5f38",
+  "object": "beer",
+  "name": "Toffee Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "785e05e4-ddcc-4fda-9ea1-ae22d80d9fb8",
+  "object": "beer",
+  "name": "Holiday Bonus",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

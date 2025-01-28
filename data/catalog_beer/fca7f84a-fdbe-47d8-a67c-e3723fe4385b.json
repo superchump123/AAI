@@ -1,0 +1,11 @@
+{
+  "id": "fca7f84a-fdbe-47d8-a67c-e3723fe4385b",
+  "object": "beer",
+  "name": "Strawberry Lodge",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

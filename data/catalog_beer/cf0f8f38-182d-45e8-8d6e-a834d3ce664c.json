@@ -1,0 +1,11 @@
+{
+  "id": "cf0f8f38-182d-45e8-8d6e-a834d3ce664c",
+  "object": "beer",
+  "name": "Cosmic Apparition",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

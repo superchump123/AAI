@@ -1,0 +1,11 @@
+{
+  "id": "dce3c442-4d33-4cce-9ac5-45fafd7f423c",
+  "object": "beer",
+  "name": "Aloha Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

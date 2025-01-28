@@ -1,0 +1,11 @@
+{
+  "id": "c167221a-16b7-45b9-a380-d496cdf35f5e",
+  "object": "beer",
+  "name": "Edgy Elf",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

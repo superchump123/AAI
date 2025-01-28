@@ -1,0 +1,11 @@
+{
+  "id": "0d5d3074-4e4b-475f-adcb-7a73854ab3c1",
+  "object": "beer",
+  "name": "The Spelunker",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

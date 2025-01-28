@@ -1,0 +1,11 @@
+{
+  "id": "bbdfb205-c628-4763-99a1-913379e8e318",
+  "object": "beer",
+  "name": "Chocolate Mint Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

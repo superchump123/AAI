@@ -1,0 +1,11 @@
+{
+  "id": "83994e1d-fb41-48e6-81ce-ff1fc7f1d85a",
+  "object": "beer",
+  "name": "Big Bison",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

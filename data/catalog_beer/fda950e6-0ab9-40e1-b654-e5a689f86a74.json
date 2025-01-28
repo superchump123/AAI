@@ -1,0 +1,11 @@
+{
+  "id": "fda950e6-0ab9-40e1-b654-e5a689f86a74",
+  "object": "beer",
+  "name": "Hooter Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

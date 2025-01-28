@@ -1,0 +1,11 @@
+{
+  "id": "c9837425-d0d9-4a19-b25c-d2464b06f9d2",
+  "object": "beer",
+  "name": "Dry Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

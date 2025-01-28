@@ -1,0 +1,11 @@
+{
+  "id": "9de64020-9f1a-4942-a7f1-f112e9aaa432",
+  "object": "beer",
+  "name": "Spartan Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "61e3fa0e-1d2a-4979-aeb3-7119e34e6824",
+  "object": "beer",
+  "name": "Delirium de Carlyle",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

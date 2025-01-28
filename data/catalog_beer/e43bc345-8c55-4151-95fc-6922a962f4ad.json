@@ -1,0 +1,11 @@
+{
+  "id": "e43bc345-8c55-4151-95fc-6922a962f4ad",
+  "object": "beer",
+  "name": "Half Cycle Reserve",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 104,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

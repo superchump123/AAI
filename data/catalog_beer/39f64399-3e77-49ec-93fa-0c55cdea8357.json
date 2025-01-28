@@ -1,0 +1,11 @@
+{
+  "id": "39f64399-3e77-49ec-93fa-0c55cdea8357",
+  "object": "beer",
+  "name": "Kustom Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74f8d662-4164-4278-b060-4820939c77e1",
+  "object": "beer",
+  "name": "Back Porch Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

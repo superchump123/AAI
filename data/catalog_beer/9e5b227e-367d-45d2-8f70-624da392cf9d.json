@@ -1,0 +1,11 @@
+{
+  "id": "9e5b227e-367d-45d2-8f70-624da392cf9d",
+  "object": "beer",
+  "name": "Sorry Umami IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

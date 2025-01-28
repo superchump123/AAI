@@ -1,0 +1,11 @@
+{
+  "id": "03f99a83-b6b4-47a4-9509-a26902717084",
+  "object": "beer",
+  "name": "El Sully",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

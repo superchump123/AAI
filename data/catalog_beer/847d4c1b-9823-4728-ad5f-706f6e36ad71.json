@@ -1,0 +1,11 @@
+{
+  "id": "847d4c1b-9823-4728-ad5f-706f6e36ad71",
+  "object": "beer",
+  "name": "Cassiopeia",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

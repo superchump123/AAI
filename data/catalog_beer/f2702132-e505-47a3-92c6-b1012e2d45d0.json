@@ -1,0 +1,11 @@
+{
+  "id": "f2702132-e505-47a3-92c6-b1012e2d45d0",
+  "object": "beer",
+  "name": "Batch 800",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

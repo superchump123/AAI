@@ -1,0 +1,11 @@
+{
+  "id": "bf11c65c-ca92-4e2f-85c1-bd1109d13620",
+  "object": "beer",
+  "name": "Cucumber Cream Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

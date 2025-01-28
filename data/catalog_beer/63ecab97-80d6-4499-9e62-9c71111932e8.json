@@ -1,0 +1,11 @@
+{
+  "id": "63ecab97-80d6-4499-9e62-9c71111932e8",
+  "object": "beer",
+  "name": "Rye Not Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

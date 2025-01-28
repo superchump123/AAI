@@ -1,0 +1,11 @@
+{
+  "id": "9503b375-4479-48d7-8e7d-6117bd678178",
+  "object": "beer",
+  "name": "Beatnik Sour",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

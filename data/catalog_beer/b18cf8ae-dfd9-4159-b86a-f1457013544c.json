@@ -1,0 +1,11 @@
+{
+  "id": "b18cf8ae-dfd9-4159-b86a-f1457013544c",
+  "object": "beer",
+  "name": "Kodiak Brown Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "44dd176d-5cf2-445b-8575-8af866f5f00f",
+  "object": "beer",
+  "name": "Daisy Chain",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

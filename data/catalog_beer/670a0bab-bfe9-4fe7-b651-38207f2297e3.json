@@ -1,0 +1,11 @@
+{
+  "id": "670a0bab-bfe9-4fe7-b651-38207f2297e3",
+  "object": "beer",
+  "name": "Strongbow Artisanal Blend",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

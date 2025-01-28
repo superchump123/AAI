@@ -1,0 +1,11 @@
+{
+  "id": "881da0dd-d91b-4295-8ed7-274cd62e5197",
+  "object": "beer",
+  "name": "Day Drinker",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

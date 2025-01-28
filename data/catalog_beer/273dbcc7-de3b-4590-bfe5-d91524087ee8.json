@@ -1,0 +1,11 @@
+{
+  "id": "273dbcc7-de3b-4590-bfe5-d91524087ee8",
+  "object": "beer",
+  "name": "Warehouse Experiment #2",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

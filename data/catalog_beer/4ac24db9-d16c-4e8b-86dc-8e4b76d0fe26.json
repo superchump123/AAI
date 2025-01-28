@@ -1,0 +1,11 @@
+{
+  "id": "4ac24db9-d16c-4e8b-86dc-8e4b76d0fe26",
+  "object": "beer",
+  "name": "Spanglish",
+  "style": "Australasian, Latin American or Tropical-Style Light Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "48c56914-0bc0-4ae7-ba37-049f4fc0d072",
+  "object": "beer",
+  "name": "Local Love",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2a67e0c1-d3a1-48e6-bdea-a0f72d8d07d3",
+  "object": "beer",
+  "name": "Jumping Cow",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

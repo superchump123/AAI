@@ -1,0 +1,11 @@
+{
+  "id": "5a670bff-ce25-4c98-87fe-ca9263142b73",
+  "object": "beer",
+  "name": "Golden Arm",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

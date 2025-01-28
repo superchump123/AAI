@@ -1,0 +1,11 @@
+{
+  "id": "24e6db0c-4435-46e2-8bdc-a2af4b26044a",
+  "object": "beer",
+  "name": "Mocha Marlin",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

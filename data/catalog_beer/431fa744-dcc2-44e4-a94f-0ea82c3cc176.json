@@ -1,0 +1,11 @@
+{
+  "id": "431fa744-dcc2-44e4-a94f-0ea82c3cc176",
+  "object": "beer",
+  "name": "CoroGato",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5b9995f8-f090-471b-b9d8-5e67749e6df2",
+  "object": "beer",
+  "name": "O'Sullivan Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

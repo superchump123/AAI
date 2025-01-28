@@ -1,0 +1,11 @@
+{
+  "id": "98851e78-3515-4b19-ad2e-7ca58e68bb13",
+  "object": "beer",
+  "name": "The Lutz IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

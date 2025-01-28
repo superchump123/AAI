@@ -1,0 +1,11 @@
+{
+  "id": "a9472c92-38a7-4d27-a3d5-2efaa1a0d5cd",
+  "object": "beer",
+  "name": "Couch Select Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

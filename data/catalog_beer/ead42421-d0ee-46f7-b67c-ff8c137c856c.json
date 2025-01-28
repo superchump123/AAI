@@ -1,0 +1,11 @@
+{
+  "id": "ead42421-d0ee-46f7-b67c-ff8c137c856c",
+  "object": "beer",
+  "name": "Bushwacker",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

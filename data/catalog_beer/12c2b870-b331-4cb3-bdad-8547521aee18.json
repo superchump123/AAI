@@ -1,0 +1,11 @@
+{
+  "id": "12c2b870-b331-4cb3-bdad-8547521aee18",
+  "object": "beer",
+  "name": "Courage Light Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

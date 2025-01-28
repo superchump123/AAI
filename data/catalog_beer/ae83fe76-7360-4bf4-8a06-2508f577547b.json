@@ -1,0 +1,11 @@
+{
+  "id": "ae83fe76-7360-4bf4-8a06-2508f577547b",
+  "object": "beer",
+  "name": "Fade to Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

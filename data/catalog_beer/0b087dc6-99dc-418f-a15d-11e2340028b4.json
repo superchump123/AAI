@@ -1,0 +1,11 @@
+{
+  "id": "0b087dc6-99dc-418f-a15d-11e2340028b4",
+  "object": "beer",
+  "name": "Apricot's Revenge",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

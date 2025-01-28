@@ -1,0 +1,11 @@
+{
+  "id": "fc9f9fee-adad-4cc8-ada6-60b7ee33c3b4",
+  "object": "beer",
+  "name": "Musette",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

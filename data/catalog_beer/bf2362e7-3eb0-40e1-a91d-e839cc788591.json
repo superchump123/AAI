@@ -1,0 +1,11 @@
+{
+  "id": "bf2362e7-3eb0-40e1-a91d-e839cc788591",
+  "object": "beer",
+  "name": "Wild Rooster",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

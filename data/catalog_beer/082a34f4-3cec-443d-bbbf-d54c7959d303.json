@@ -1,0 +1,11 @@
+{
+  "id": "082a34f4-3cec-443d-bbbf-d54c7959d303",
+  "object": "beer",
+  "name": "Seagram's Escapes Bahama Mama",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

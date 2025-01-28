@@ -1,0 +1,11 @@
+{
+  "id": "66573bbb-6cd0-404a-b8d4-a52bec317369",
+  "object": "beer",
+  "name": "Ename Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

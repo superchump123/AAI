@@ -1,0 +1,11 @@
+{
+  "id": "81ca9402-4c80-4910-b07a-91ca184f8e3a",
+  "object": "beer",
+  "name": "The Bitter Truth Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 115,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

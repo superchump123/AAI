@@ -1,0 +1,11 @@
+{
+  "id": "ba136419-3f74-4bdf-ad46-ca69f4f2ac27",
+  "object": "beer",
+  "name": "Hen's Tooth",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "28dddf84-7c7a-42ea-b48e-40a25c752a4d",
+  "object": "beer",
+  "name": "Lomond Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

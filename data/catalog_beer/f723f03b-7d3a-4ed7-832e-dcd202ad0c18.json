@@ -1,0 +1,11 @@
+{
+  "id": "f723f03b-7d3a-4ed7-832e-dcd202ad0c18",
+  "object": "beer",
+  "name": "Ducky's Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

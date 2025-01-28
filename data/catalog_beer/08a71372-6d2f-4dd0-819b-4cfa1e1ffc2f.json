@@ -1,0 +1,11 @@
+{
+  "id": "08a71372-6d2f-4dd0-819b-4cfa1e1ffc2f",
+  "object": "beer",
+  "name": "Shiga Kogen Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

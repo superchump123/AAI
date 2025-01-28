@@ -1,0 +1,11 @@
+{
+  "id": "657c8551-2a1f-4ff4-bef6-3dc5fbf4cede",
+  "object": "beer",
+  "name": "Kokos Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

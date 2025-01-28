@@ -1,0 +1,11 @@
+{
+  "id": "579d4c4e-1693-4445-9217-fe8f06d24a60",
+  "object": "beer",
+  "name": "Hoppy Jefe",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

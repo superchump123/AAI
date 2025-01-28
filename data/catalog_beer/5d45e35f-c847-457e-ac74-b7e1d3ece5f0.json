@@ -1,0 +1,11 @@
+{
+  "id": "5d45e35f-c847-457e-ac74-b7e1d3ece5f0",
+  "object": "beer",
+  "name": "Humulo Nimbus",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a9d33a0f-0b21-497d-8f01-5cb4a4d37b32",
+  "object": "beer",
+  "name": "Tripel Black Diamond",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "84cbdc06-c135-4ed4-b6e7-167a46e824cf",
+  "object": "beer",
+  "name": "Spruce It Up",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

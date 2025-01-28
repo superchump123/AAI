@@ -1,0 +1,11 @@
+{
+  "id": "dc0e7bc4-f5a4-4ccd-a8b4-897d18b557c6",
+  "object": "beer",
+  "name": "Monogamy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

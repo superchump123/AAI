@@ -1,0 +1,11 @@
+{
+  "id": "1a456a26-4087-44ca-9896-842b5c5eda8e",
+  "object": "beer",
+  "name": "Fuzzy Wuzzy",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

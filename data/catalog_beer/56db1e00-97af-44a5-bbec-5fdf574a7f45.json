@@ -1,0 +1,11 @@
+{
+  "id": "56db1e00-97af-44a5-bbec-5fdf574a7f45",
+  "object": "beer",
+  "name": "38 Hour Sour",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

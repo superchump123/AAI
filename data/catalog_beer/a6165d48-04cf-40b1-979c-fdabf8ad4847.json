@@ -1,0 +1,11 @@
+{
+  "id": "a6165d48-04cf-40b1-979c-fdabf8ad4847",
+  "object": "beer",
+  "name": "CELESTIAL BLONDE ALE",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

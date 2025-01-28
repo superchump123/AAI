@@ -1,0 +1,11 @@
+{
+  "id": "52745bf1-a355-41bf-a2f3-a054fcf44f6b",
+  "object": "beer",
+  "name": "CB Christmas Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

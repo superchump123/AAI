@@ -1,0 +1,11 @@
+{
+  "id": "39481344-aa12-48c9-be2f-aa00b63571c5",
+  "object": "beer",
+  "name": "1890 Founder's Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

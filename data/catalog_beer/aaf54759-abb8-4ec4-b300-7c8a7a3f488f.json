@@ -1,0 +1,11 @@
+{
+  "id": "aaf54759-abb8-4ec4-b300-7c8a7a3f488f",
+  "object": "beer",
+  "name": "Mean Monkey",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

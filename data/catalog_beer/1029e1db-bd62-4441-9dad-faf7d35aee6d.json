@@ -1,0 +1,11 @@
+{
+  "id": "1029e1db-bd62-4441-9dad-faf7d35aee6d",
+  "object": "beer",
+  "name": "Palmbender Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

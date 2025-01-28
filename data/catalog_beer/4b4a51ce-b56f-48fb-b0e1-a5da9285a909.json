@@ -1,0 +1,11 @@
+{
+  "id": "4b4a51ce-b56f-48fb-b0e1-a5da9285a909",
+  "object": "beer",
+  "name": "Red Crown Red",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

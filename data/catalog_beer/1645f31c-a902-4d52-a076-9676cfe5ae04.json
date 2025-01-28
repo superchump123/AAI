@@ -1,0 +1,11 @@
+{
+  "id": "1645f31c-a902-4d52-a076-9676cfe5ae04",
+  "object": "beer",
+  "name": "Atom Splitter",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

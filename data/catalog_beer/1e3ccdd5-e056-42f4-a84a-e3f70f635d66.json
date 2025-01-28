@@ -1,0 +1,11 @@
+{
+  "id": "1e3ccdd5-e056-42f4-a84a-e3f70f635d66",
+  "object": "beer",
+  "name": "Poormans Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

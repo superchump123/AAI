@@ -1,0 +1,11 @@
+{
+  "id": "505fd9a6-8d62-4fdc-b6bd-328aba8cdc22",
+  "object": "beer",
+  "name": "Jesse's",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 8,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

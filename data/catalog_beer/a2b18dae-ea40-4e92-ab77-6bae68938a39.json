@@ -1,0 +1,11 @@
+{
+  "id": "a2b18dae-ea40-4e92-ab77-6bae68938a39",
+  "object": "beer",
+  "name": "Beggar's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

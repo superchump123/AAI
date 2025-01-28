@@ -1,0 +1,11 @@
+{
+  "id": "b865f5dc-eda0-4105-a3c9-ca6f1f3edd6a",
+  "object": "beer",
+  "name": "The Beer With No Name",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

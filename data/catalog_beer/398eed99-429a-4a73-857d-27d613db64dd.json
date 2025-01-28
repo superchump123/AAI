@@ -1,0 +1,11 @@
+{
+  "id": "398eed99-429a-4a73-857d-27d613db64dd",
+  "object": "beer",
+  "name": "Session Premium Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

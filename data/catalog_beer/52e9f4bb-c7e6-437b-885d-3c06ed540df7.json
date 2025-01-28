@@ -1,0 +1,11 @@
+{
+  "id": "52e9f4bb-c7e6-437b-885d-3c06ed540df7",
+  "object": "beer",
+  "name": "Czech The Technique",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

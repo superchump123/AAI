@@ -1,0 +1,11 @@
+{
+  "id": "c67dad20-5c23-4a06-a432-0427fbc34d24",
+  "object": "beer",
+  "name": "Cut Throat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

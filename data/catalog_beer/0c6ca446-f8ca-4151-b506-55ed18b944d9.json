@@ -1,0 +1,11 @@
+{
+  "id": "0c6ca446-f8ca-4151-b506-55ed18b944d9",
+  "object": "beer",
+  "name": "Winter White Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

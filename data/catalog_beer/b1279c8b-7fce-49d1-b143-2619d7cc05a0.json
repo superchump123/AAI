@@ -1,0 +1,11 @@
+{
+  "id": "b1279c8b-7fce-49d1-b143-2619d7cc05a0",
+  "object": "beer",
+  "name": "Gingerbread Spiced Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

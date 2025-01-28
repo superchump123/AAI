@@ -1,0 +1,11 @@
+{
+  "id": "95e15b84-b168-46e7-8ccd-701869dc4a56",
+  "object": "beer",
+  "name": "Sticky McDoogle",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

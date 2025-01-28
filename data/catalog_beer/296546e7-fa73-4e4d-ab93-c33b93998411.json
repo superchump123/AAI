@@ -1,0 +1,11 @@
+{
+  "id": "296546e7-fa73-4e4d-ab93-c33b93998411",
+  "object": "beer",
+  "name": "Humongous",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

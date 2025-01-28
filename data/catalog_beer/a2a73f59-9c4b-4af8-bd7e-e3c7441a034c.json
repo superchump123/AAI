@@ -1,0 +1,11 @@
+{
+  "id": "a2a73f59-9c4b-4af8-bd7e-e3c7441a034c",
+  "object": "beer",
+  "name": "Brick Arch Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

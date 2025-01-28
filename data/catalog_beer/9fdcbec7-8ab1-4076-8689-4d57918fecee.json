@@ -1,0 +1,11 @@
+{
+  "id": "9fdcbec7-8ab1-4076-8689-4d57918fecee",
+  "object": "beer",
+  "name": "Smokin Fineapple",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

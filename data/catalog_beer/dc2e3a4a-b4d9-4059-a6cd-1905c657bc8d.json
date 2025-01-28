@@ -1,0 +1,11 @@
+{
+  "id": "dc2e3a4a-b4d9-4059-a6cd-1905c657bc8d",
+  "object": "beer",
+  "name": "Old Scratch Amber Lager",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

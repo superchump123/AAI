@@ -1,0 +1,11 @@
+{
+  "id": "efdaf40a-6e67-44fc-8fa0-7038015cce40",
+  "object": "beer",
+  "name": "Samuel Adams Boston Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

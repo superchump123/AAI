@@ -1,0 +1,11 @@
+{
+  "id": "7ea59c72-a858-425b-a336-a9e99abc28fc",
+  "object": "beer",
+  "name": "Harlot",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

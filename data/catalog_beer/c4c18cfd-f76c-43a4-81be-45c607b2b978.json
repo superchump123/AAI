@@ -1,0 +1,11 @@
+{
+  "id": "c4c18cfd-f76c-43a4-81be-45c607b2b978",
+  "object": "beer",
+  "name": "Callahan's Belgian Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e8470550-cb9f-4657-aa73-fdb95635d2bc",
+  "object": "beer",
+  "name": "Tuatara Tu-Rye-Ay",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

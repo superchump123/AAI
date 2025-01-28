@@ -1,0 +1,11 @@
+{
+  "id": "b97afa21-c351-40f5-9ce8-ec3b9e272a32",
+  "object": "beer",
+  "name": "Ruben's Revenge",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

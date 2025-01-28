@@ -1,0 +1,11 @@
+{
+  "id": "45c5f476-2ca2-40fa-8245-dffd9eaa5865",
+  "object": "beer",
+  "name": "Pineapple Hula",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

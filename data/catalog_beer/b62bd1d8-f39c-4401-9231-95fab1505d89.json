@@ -1,0 +1,11 @@
+{
+  "id": "b62bd1d8-f39c-4401-9231-95fab1505d89",
+  "object": "beer",
+  "name": "reDANKulous",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

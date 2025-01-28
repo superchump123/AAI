@@ -1,0 +1,11 @@
+{
+  "id": "ef9c7e3c-c3de-46b3-9b27-688c292d90ce",
+  "object": "beer",
+  "name": "Double Barreled",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

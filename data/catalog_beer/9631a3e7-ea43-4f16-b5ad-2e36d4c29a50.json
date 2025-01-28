@@ -1,0 +1,11 @@
+{
+  "id": "9631a3e7-ea43-4f16-b5ad-2e36d4c29a50",
+  "object": "beer",
+  "name": "Extra Pale Ale Tasting Room Series",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

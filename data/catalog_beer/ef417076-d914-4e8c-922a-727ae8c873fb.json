@@ -1,0 +1,11 @@
+{
+  "id": "ef417076-d914-4e8c-922a-727ae8c873fb",
+  "object": "beer",
+  "name": "Light Weight",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

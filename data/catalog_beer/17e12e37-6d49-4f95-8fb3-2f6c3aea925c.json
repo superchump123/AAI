@@ -1,0 +1,11 @@
+{
+  "id": "17e12e37-6d49-4f95-8fb3-2f6c3aea925c",
+  "object": "beer",
+  "name": "Snowboarder Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dab070ba-0371-40b8-acd7-97eb1a638d99",
+  "object": "beer",
+  "name": "Le Seul Et Unique",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

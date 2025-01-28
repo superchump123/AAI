@@ -1,0 +1,11 @@
+{
+  "id": "92942835-5ae5-48af-b65b-2bfae6bd3456",
+  "object": "beer",
+  "name": "Flag Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

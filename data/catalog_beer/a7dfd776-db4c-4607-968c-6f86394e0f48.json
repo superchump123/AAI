@@ -1,0 +1,11 @@
+{
+  "id": "a7dfd776-db4c-4607-968c-6f86394e0f48",
+  "object": "beer",
+  "name": "HIghlander Scottish",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

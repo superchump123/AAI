@@ -1,0 +1,11 @@
+{
+  "id": "00cf98d2-e488-43bf-93cd-e01313bcbf6e",
+  "object": "beer",
+  "name": "Sawyer's Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

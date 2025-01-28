@@ -1,0 +1,11 @@
+{
+  "id": "e71b9a45-9da4-40dd-a2c7-9a0cfaa5f049",
+  "object": "beer",
+  "name": "Rail La Spar",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dfc99e2b-a0ca-426f-808b-9397eca6965e",
+  "object": "beer",
+  "name": "Wolters Mai-Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

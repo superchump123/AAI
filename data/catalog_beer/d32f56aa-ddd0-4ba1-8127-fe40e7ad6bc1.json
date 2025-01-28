@@ -1,0 +1,11 @@
+{
+  "id": "d32f56aa-ddd0-4ba1-8127-fe40e7ad6bc1",
+  "object": "beer",
+  "name": "Night Terror",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

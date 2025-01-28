@@ -1,0 +1,11 @@
+{
+  "id": "a1d9a887-f771-4cab-9be8-73fa455eaf13",
+  "object": "beer",
+  "name": "Cayman Jack",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

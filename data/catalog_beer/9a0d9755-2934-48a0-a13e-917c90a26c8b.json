@@ -1,0 +1,11 @@
+{
+  "id": "9a0d9755-2934-48a0-a13e-917c90a26c8b",
+  "object": "beer",
+  "name": "Rooftop Bohemian Style Lager",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "234a7dec-3389-459e-8ae4-412c1265d0bb",
+  "object": "beer",
+  "name": "Dead Canary",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

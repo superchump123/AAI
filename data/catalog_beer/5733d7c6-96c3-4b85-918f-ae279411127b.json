@@ -1,0 +1,11 @@
+{
+  "id": "5733d7c6-96c3-4b85-918f-ae279411127b",
+  "object": "beer",
+  "name": "Mango Wheat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

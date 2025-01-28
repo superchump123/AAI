@@ -1,0 +1,11 @@
+{
+  "id": "ce6c392d-ae2f-470f-b4b6-885b6f1271c0",
+  "object": "beer",
+  "name": "Pot O\u2019Gold",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

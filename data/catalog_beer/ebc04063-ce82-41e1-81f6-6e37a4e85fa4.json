@@ -1,0 +1,11 @@
+{
+  "id": "ebc04063-ce82-41e1-81f6-6e37a4e85fa4",
+  "object": "beer",
+  "name": "Via Cordis",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

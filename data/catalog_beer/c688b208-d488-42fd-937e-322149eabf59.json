@@ -1,0 +1,11 @@
+{
+  "id": "c688b208-d488-42fd-937e-322149eabf59",
+  "object": "beer",
+  "name": "Dry Cidah",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

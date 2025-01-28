@@ -1,0 +1,11 @@
+{
+  "id": "804f89eb-04d6-4073-81e4-4f85e00bce34",
+  "object": "beer",
+  "name": "Full Throttle",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

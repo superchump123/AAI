@@ -1,0 +1,11 @@
+{
+  "id": "c683692c-ac29-46ec-90a3-211a6de1228f",
+  "object": "beer",
+  "name": "Eat A Peach",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

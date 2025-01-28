@@ -1,0 +1,11 @@
+{
+  "id": "3b8a5701-4f2b-4b3b-a031-bacfc2047f76",
+  "object": "beer",
+  "name": "Buddy Black IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

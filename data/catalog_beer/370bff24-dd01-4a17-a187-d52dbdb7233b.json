@@ -1,0 +1,11 @@
+{
+  "id": "370bff24-dd01-4a17-a187-d52dbdb7233b",
+  "object": "beer",
+  "name": "Pipe Organ Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

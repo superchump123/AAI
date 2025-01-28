@@ -1,0 +1,11 @@
+{
+  "id": "e53bf5aa-e3f9-4132-bcea-193596310695",
+  "object": "beer",
+  "name": "Sara's Ruby Mild",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cba40e57-e894-4128-897b-f20d0e0f9b87",
+  "object": "beer",
+  "name": "Golden Child",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

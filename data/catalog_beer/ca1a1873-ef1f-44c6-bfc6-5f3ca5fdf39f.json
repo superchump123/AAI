@@ -1,0 +1,11 @@
+{
+  "id": "ca1a1873-ef1f-44c6-bfc6-5f3ca5fdf39f",
+  "object": "beer",
+  "name": "Juggernaut Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

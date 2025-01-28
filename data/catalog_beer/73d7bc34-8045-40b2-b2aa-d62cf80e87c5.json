@@ -1,0 +1,11 @@
+{
+  "id": "73d7bc34-8045-40b2-b2aa-d62cf80e87c5",
+  "object": "beer",
+  "name": "Fest Only Beer",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

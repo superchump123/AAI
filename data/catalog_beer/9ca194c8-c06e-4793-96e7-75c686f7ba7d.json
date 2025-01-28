@@ -1,0 +1,11 @@
+{
+  "id": "9ca194c8-c06e-4793-96e7-75c686f7ba7d",
+  "object": "beer",
+  "name": "4-Leaf Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

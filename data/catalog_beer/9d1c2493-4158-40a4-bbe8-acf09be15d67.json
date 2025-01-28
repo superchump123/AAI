@@ -1,0 +1,11 @@
+{
+  "id": "9d1c2493-4158-40a4-bbe8-acf09be15d67",
+  "object": "beer",
+  "name": "Double Tap Fresh Hop",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

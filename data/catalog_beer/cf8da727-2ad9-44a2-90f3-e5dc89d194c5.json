@@ -1,0 +1,11 @@
+{
+  "id": "cf8da727-2ad9-44a2-90f3-e5dc89d194c5",
+  "object": "beer",
+  "name": "Shruggie",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

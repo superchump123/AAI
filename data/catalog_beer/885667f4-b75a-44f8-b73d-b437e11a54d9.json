@@ -1,0 +1,11 @@
+{
+  "id": "885667f4-b75a-44f8-b73d-b437e11a54d9",
+  "object": "beer",
+  "name": "Modus Hoperandi",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

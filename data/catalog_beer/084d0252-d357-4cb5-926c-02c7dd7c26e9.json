@@ -1,0 +1,11 @@
+{
+  "id": "084d0252-d357-4cb5-926c-02c7dd7c26e9",
+  "object": "beer",
+  "name": "Buoy Czech Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

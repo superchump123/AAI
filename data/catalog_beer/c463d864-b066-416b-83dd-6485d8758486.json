@@ -1,0 +1,11 @@
+{
+  "id": "c463d864-b066-416b-83dd-6485d8758486",
+  "object": "beer",
+  "name": "Jubilee XI",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

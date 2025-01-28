@@ -1,0 +1,11 @@
+{
+  "id": "45f2d21f-23bb-4c02-95f3-e5047aa620c9",
+  "object": "beer",
+  "name": "Standing Stones",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

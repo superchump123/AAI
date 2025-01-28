@@ -1,0 +1,11 @@
+{
+  "id": "fff30a06-e5d5-4087-a8d6-a505bd359a29",
+  "object": "beer",
+  "name": "Raison D'Extra",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 18,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

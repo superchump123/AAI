@@ -1,0 +1,11 @@
+{
+  "id": "fe1606cc-c795-4628-9e27-daf3b3cd76b9",
+  "object": "beer",
+  "name": "Cherry Poppins",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

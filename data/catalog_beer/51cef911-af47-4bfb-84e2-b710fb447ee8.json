@@ -1,0 +1,11 @@
+{
+  "id": "51cef911-af47-4bfb-84e2-b710fb447ee8",
+  "object": "beer",
+  "name": "Acton",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

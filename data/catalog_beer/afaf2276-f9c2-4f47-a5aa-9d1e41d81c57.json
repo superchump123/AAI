@@ -1,0 +1,11 @@
+{
+  "id": "afaf2276-f9c2-4f47-a5aa-9d1e41d81c57",
+  "object": "beer",
+  "name": "Never Say Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

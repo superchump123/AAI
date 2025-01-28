@@ -1,0 +1,11 @@
+{
+  "id": "bebb870b-afb6-4d62-aa43-1c886988e555",
+  "object": "beer",
+  "name": "2011 Christmas Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

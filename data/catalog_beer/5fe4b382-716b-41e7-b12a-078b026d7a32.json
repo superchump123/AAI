@@ -1,0 +1,11 @@
+{
+  "id": "5fe4b382-716b-41e7-b12a-078b026d7a32",
+  "object": "beer",
+  "name": "Cucumber Cool",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ee8f958-1eb3-4da3-8c2e-dc139000f86b",
+  "object": "beer",
+  "name": "Funny Farmhouse Cider With Strawberries",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

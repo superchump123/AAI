@@ -1,0 +1,11 @@
+{
+  "id": "2df33877-34c6-4172-9c71-e0db5ebfc3a5",
+  "object": "beer",
+  "name": "Illusion",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0a94fe4a-9688-4898-9eeb-c2d318723a5a",
+  "object": "beer",
+  "name": "One Eyed Jacques",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e2bb3e91-4946-4a20-89ad-706bd9d0f00c",
+  "object": "beer",
+  "name": "Basalt IBA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

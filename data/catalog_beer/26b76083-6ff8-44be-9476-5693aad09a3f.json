@@ -1,0 +1,11 @@
+{
+  "id": "26b76083-6ff8-44be-9476-5693aad09a3f",
+  "object": "beer",
+  "name": "I Love Scotch...Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

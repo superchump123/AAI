@@ -1,0 +1,11 @@
+{
+  "id": "717bc149-dd5c-4b62-922a-4bc23ce87ed7",
+  "object": "beer",
+  "name": "FOTO",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

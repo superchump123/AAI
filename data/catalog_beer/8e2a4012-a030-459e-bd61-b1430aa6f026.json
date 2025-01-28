@@ -1,0 +1,11 @@
+{
+  "id": "8e2a4012-a030-459e-bd61-b1430aa6f026",
+  "object": "beer",
+  "name": "Royal Anne Cherry Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

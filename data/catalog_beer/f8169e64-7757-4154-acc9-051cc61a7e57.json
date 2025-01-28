@@ -1,0 +1,11 @@
+{
+  "id": "f8169e64-7757-4154-acc9-051cc61a7e57",
+  "object": "beer",
+  "name": "Beau's All Natural Brewing Company",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

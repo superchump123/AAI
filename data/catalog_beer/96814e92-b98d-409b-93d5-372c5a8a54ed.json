@@ -1,0 +1,11 @@
+{
+  "id": "96814e92-b98d-409b-93d5-372c5a8a54ed",
+  "object": "beer",
+  "name": "A Guy Called Fudge",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

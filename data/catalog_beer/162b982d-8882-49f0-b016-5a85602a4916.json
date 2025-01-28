@@ -1,0 +1,11 @@
+{
+  "id": "162b982d-8882-49f0-b016-5a85602a4916",
+  "object": "beer",
+  "name": "Short Fuse",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

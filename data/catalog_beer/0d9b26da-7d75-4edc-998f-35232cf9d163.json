@@ -1,0 +1,11 @@
+{
+  "id": "0d9b26da-7d75-4edc-998f-35232cf9d163",
+  "object": "beer",
+  "name": "Rebirth Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e8b85e9-6b58-4f59-8fd0-b2157142b7b6",
+  "object": "beer",
+  "name": "Rainbow Trout ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

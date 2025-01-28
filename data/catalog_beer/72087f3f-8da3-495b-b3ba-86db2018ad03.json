@@ -1,0 +1,11 @@
+{
+  "id": "72087f3f-8da3-495b-b3ba-86db2018ad03",
+  "object": "beer",
+  "name": "Red Dwarf",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

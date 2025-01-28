@@ -1,0 +1,11 @@
+{
+  "id": "18edd394-70c0-4c21-8087-ae1f62566648",
+  "object": "beer",
+  "name": "Basement Bavarian Wheat",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

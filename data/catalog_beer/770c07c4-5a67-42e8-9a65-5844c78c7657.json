@@ -1,0 +1,11 @@
+{
+  "id": "770c07c4-5a67-42e8-9a65-5844c78c7657",
+  "object": "beer",
+  "name": "Roses are Red",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

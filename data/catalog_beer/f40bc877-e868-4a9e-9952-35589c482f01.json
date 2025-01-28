@@ -1,0 +1,11 @@
+{
+  "id": "f40bc877-e868-4a9e-9952-35589c482f01",
+  "object": "beer",
+  "name": "Metropolis",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

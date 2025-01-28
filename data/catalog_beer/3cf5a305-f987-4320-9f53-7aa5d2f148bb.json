@@ -1,0 +1,11 @@
+{
+  "id": "3cf5a305-f987-4320-9f53-7aa5d2f148bb",
+  "object": "beer",
+  "name": "Night Capsicum",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

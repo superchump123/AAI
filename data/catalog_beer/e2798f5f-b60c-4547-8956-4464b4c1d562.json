@@ -1,0 +1,11 @@
+{
+  "id": "e2798f5f-b60c-4547-8956-4464b4c1d562",
+  "object": "beer",
+  "name": "The Rated",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 12.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

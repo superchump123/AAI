@@ -1,0 +1,11 @@
+{
+  "id": "afe8d835-ca23-4e41-b2df-8955afa094ae",
+  "object": "beer",
+  "name": "Mandarina Jolie IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

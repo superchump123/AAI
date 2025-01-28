@@ -1,0 +1,11 @@
+{
+  "id": "5ec0ee4c-c36b-41f5-b94d-7331dcfd60ef",
+  "object": "beer",
+  "name": "Hopgave",
+  "style": "Australasian, Latin American or Tropical-Style Light Lager",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

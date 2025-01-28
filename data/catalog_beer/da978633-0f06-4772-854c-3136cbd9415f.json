@@ -1,0 +1,11 @@
+{
+  "id": "da978633-0f06-4772-854c-3136cbd9415f",
+  "object": "beer",
+  "name": "The Tramp",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

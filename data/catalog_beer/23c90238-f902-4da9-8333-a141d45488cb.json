@@ -1,0 +1,11 @@
+{
+  "id": "23c90238-f902-4da9-8333-a141d45488cb",
+  "object": "beer",
+  "name": "Portlandic IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

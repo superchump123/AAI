@@ -1,0 +1,11 @@
+{
+  "id": "a640812c-4604-45cd-ab54-bf438c0081ac",
+  "object": "beer",
+  "name": "Red Ryeot",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

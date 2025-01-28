@@ -1,0 +1,11 @@
+{
+  "id": "1e31a509-a830-44bc-a941-b9d460629fd4",
+  "object": "beer",
+  "name": "Pineus Leipziger Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

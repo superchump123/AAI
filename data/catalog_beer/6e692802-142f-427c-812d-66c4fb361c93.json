@@ -1,0 +1,11 @@
+{
+  "id": "6e692802-142f-427c-812d-66c4fb361c93",
+  "object": "beer",
+  "name": "Hello my name is Vladimir",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

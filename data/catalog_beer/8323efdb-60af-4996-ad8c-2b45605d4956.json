@@ -1,0 +1,11 @@
+{
+  "id": "8323efdb-60af-4996-ad8c-2b45605d4956",
+  "object": "beer",
+  "name": "Johnny Chapman",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

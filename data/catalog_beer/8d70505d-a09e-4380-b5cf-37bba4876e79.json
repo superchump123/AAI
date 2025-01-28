@@ -1,0 +1,11 @@
+{
+  "id": "8d70505d-a09e-4380-b5cf-37bba4876e79",
+  "object": "beer",
+  "name": "Aries M\u00e4rzen Oktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

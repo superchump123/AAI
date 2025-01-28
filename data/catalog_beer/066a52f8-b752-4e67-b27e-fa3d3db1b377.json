@@ -1,0 +1,11 @@
+{
+  "id": "066a52f8-b752-4e67-b27e-fa3d3db1b377",
+  "object": "beer",
+  "name": "Mowkeef Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

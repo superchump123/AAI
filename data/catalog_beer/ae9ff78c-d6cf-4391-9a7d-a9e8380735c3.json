@@ -1,0 +1,11 @@
+{
+  "id": "ae9ff78c-d6cf-4391-9a7d-a9e8380735c3",
+  "object": "beer",
+  "name": "Eye of the Hawk",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

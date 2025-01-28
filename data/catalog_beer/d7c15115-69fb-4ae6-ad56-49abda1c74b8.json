@@ -1,0 +1,11 @@
+{
+  "id": "d7c15115-69fb-4ae6-ad56-49abda1c74b8",
+  "object": "beer",
+  "name": "Marie Celeste",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

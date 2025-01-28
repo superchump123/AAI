@@ -1,0 +1,11 @@
+{
+  "id": "a5228972-9e7f-4b04-bb40-314c6b7fa522",
+  "object": "beer",
+  "name": "Jenny Scream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

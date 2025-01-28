@@ -1,0 +1,11 @@
+{
+  "id": "77ac30e4-f62e-4122-9322-357da2570061",
+  "object": "beer",
+  "name": "Flock Together",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

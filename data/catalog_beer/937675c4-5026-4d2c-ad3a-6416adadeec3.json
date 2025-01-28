@@ -1,0 +1,11 @@
+{
+  "id": "937675c4-5026-4d2c-ad3a-6416adadeec3",
+  "object": "beer",
+  "name": "Uptown Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

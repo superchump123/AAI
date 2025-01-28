@@ -1,0 +1,11 @@
+{
+  "id": "394e7f85-adc6-4a15-bb03-e02e67b2e4f8",
+  "object": "beer",
+  "name": "Blossom",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

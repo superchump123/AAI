@@ -1,0 +1,11 @@
+{
+  "id": "f9dedd44-d6d0-40cf-b670-ff0df0c2601b",
+  "object": "beer",
+  "name": "Jagged Edge IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

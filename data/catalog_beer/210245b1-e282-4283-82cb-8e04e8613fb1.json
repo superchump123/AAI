@@ -1,0 +1,11 @@
+{
+  "id": "210245b1-e282-4283-82cb-8e04e8613fb1",
+  "object": "beer",
+  "name": "Kronenbourg",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

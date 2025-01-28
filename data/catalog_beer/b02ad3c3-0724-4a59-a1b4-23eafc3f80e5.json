@@ -1,0 +1,11 @@
+{
+  "id": "b02ad3c3-0724-4a59-a1b4-23eafc3f80e5",
+  "object": "beer",
+  "name": "Rydeaway",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

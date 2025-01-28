@@ -1,0 +1,11 @@
+{
+  "id": "f0e56bec-12ce-4f09-bde7-6835810d7878",
+  "object": "beer",
+  "name": "Liquid Resume",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

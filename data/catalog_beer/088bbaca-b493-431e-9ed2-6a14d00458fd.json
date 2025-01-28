@@ -1,0 +1,11 @@
+{
+  "id": "088bbaca-b493-431e-9ed2-6a14d00458fd",
+  "object": "beer",
+  "name": "Foggy Doggy Coffee Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

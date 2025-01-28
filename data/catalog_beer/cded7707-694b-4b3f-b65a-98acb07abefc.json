@@ -1,0 +1,11 @@
+{
+  "id": "cded7707-694b-4b3f-b65a-98acb07abefc",
+  "object": "beer",
+  "name": "255 Amber Ale",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

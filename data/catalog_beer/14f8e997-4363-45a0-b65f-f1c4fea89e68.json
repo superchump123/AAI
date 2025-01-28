@@ -1,0 +1,11 @@
+{
+  "id": "14f8e997-4363-45a0-b65f-f1c4fea89e68",
+  "object": "beer",
+  "name": "Palo Comado Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

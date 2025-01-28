@@ -1,0 +1,11 @@
+{
+  "id": "cb8bedb3-3236-4503-a373-d889db6c24f8",
+  "object": "beer",
+  "name": "Barrel Aged Blue-Eyed Belgian Blonde",
+  "style": "Wood- and Barrel-Aged Pale to Amber Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

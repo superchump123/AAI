@@ -1,0 +1,11 @@
+{
+  "id": "f7858a27-ccee-4940-baad-13e9fbc363ce",
+  "object": "beer",
+  "name": "Footbridge IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 86,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

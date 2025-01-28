@@ -1,0 +1,11 @@
+{
+  "id": "c2d0797f-2ff5-4c20-87b5-6cabeb779629",
+  "object": "beer",
+  "name": "Snickerdoodle Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

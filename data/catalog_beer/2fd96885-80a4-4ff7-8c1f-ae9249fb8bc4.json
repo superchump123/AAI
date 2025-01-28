@@ -1,0 +1,11 @@
+{
+  "id": "2fd96885-80a4-4ff7-8c1f-ae9249fb8bc4",
+  "object": "beer",
+  "name": "Bellerose Biere Blonde Extra",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

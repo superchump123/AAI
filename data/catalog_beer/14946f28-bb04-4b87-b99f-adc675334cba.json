@@ -1,0 +1,11 @@
+{
+  "id": "14946f28-bb04-4b87-b99f-adc675334cba",
+  "object": "beer",
+  "name": "Derby Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

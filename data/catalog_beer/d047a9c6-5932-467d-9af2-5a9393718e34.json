@@ -1,0 +1,11 @@
+{
+  "id": "d047a9c6-5932-467d-9af2-5a9393718e34",
+  "object": "beer",
+  "name": "Pineappple Pop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

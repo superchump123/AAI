@@ -1,0 +1,11 @@
+{
+  "id": "ee08a59e-ef3b-40ac-bf7e-5f515f90afe7",
+  "object": "beer",
+  "name": "Premyslid Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

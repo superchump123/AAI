@@ -1,0 +1,11 @@
+{
+  "id": "5e715440-4f8f-4d5c-9da9-5d5d918ad3e5",
+  "object": "beer",
+  "name": "RIPTA",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

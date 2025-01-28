@@ -1,0 +1,11 @@
+{
+  "id": "3643eefd-3c9f-4bd2-b0d1-150c7180644b",
+  "object": "beer",
+  "name": "Fuzz IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "792e4d43-fc0c-45a6-9faf-b53ff6b7b289",
+  "object": "beer",
+  "name": "Violet Beauregarde",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

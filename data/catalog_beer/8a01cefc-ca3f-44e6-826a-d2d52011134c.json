@@ -1,0 +1,11 @@
+{
+  "id": "8a01cefc-ca3f-44e6-826a-d2d52011134c",
+  "object": "beer",
+  "name": "Esther's Little Secret",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

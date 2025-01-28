@@ -1,0 +1,11 @@
+{
+  "id": "d5eb00d1-1d37-411e-b581-46bceb55a3ae",
+  "object": "beer",
+  "name": "Napar Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

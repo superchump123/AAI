@@ -1,0 +1,11 @@
+{
+  "id": "b40155ea-f564-4e0a-9f02-ecff89b237d0",
+  "object": "beer",
+  "name": "Absence of Light",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

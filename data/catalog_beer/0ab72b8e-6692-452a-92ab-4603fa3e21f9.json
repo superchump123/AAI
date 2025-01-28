@@ -1,0 +1,11 @@
+{
+  "id": "0ab72b8e-6692-452a-92ab-4603fa3e21f9",
+  "object": "beer",
+  "name": "Kill Devil Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

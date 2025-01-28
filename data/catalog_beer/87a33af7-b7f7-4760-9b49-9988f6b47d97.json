@@ -1,0 +1,11 @@
+{
+  "id": "87a33af7-b7f7-4760-9b49-9988f6b47d97",
+  "object": "beer",
+  "name": "Hop Gun IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

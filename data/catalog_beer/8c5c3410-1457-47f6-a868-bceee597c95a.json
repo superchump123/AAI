@@ -1,0 +1,11 @@
+{
+  "id": "8c5c3410-1457-47f6-a868-bceee597c95a",
+  "object": "beer",
+  "name": "First Rye",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

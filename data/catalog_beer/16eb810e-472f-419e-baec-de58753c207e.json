@@ -1,0 +1,11 @@
+{
+  "id": "16eb810e-472f-419e-baec-de58753c207e",
+  "object": "beer",
+  "name": "Total Eclipse",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

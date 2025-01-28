@@ -1,0 +1,11 @@
+{
+  "id": "50e1412f-65c9-41bb-b299-566b4e0c5d37",
+  "object": "beer",
+  "name": "Black IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

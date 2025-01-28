@@ -1,0 +1,11 @@
+{
+  "id": "dd2d6f2f-36ff-45f8-bf86-1f18022daac9",
+  "object": "beer",
+  "name": "Project Failed Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "261fe922-9765-4226-bdd7-d2499d1071f1",
+  "object": "beer",
+  "name": "Surf Break Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

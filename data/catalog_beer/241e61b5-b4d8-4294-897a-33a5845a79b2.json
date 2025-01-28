@@ -1,0 +1,11 @@
+{
+  "id": "241e61b5-b4d8-4294-897a-33a5845a79b2",
+  "object": "beer",
+  "name": "Wild at Heart",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

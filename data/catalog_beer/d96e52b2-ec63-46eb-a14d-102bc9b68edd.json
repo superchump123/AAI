@@ -1,0 +1,11 @@
+{
+  "id": "d96e52b2-ec63-46eb-a14d-102bc9b68edd",
+  "object": "beer",
+  "name": "Peach Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c58717cb-b06d-480c-a2db-effbc75a0161",
+  "object": "beer",
+  "name": "Shamans Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

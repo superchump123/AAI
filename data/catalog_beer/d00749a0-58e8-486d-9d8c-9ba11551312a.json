@@ -1,0 +1,11 @@
+{
+  "id": "d00749a0-58e8-486d-9d8c-9ba11551312a",
+  "object": "beer",
+  "name": "Clyde",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "61a803a2-fc8c-45b9-8ecd-c3e4c3fb5dab",
+  "object": "beer",
+  "name": "Austrian Style Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

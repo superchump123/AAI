@@ -1,0 +1,11 @@
+{
+  "id": "f539a791-e716-44a8-b933-cc3cb88b4662",
+  "object": "beer",
+  "name": "Ellabus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

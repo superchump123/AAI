@@ -1,0 +1,11 @@
+{
+  "id": "d449e23a-32aa-4179-a113-1b68dde406bf",
+  "object": "beer",
+  "name": "Savour Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

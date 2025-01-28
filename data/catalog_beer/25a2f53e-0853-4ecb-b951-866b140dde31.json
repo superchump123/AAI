@@ -1,0 +1,11 @@
+{
+  "id": "25a2f53e-0853-4ecb-b951-866b140dde31",
+  "object": "beer",
+  "name": "Monkey Face Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

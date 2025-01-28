@@ -1,0 +1,11 @@
+{
+  "id": "64519cb0-bcec-40b2-b6f8-3f704ca1549b",
+  "object": "beer",
+  "name": "Old Reliable",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

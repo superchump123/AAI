@@ -1,0 +1,11 @@
+{
+  "id": "1b486813-085f-4878-89aa-a2bf7854aaf7",
+  "object": "beer",
+  "name": "The Brother Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

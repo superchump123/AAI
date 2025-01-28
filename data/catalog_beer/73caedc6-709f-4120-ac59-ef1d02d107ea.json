@@ -1,0 +1,11 @@
+{
+  "id": "73caedc6-709f-4120-ac59-ef1d02d107ea",
+  "object": "beer",
+  "name": "Erlbacher Bockbier",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

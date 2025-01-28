@@ -1,0 +1,11 @@
+{
+  "id": "ab60e157-0186-416e-ab9c-e637bb62c234",
+  "object": "beer",
+  "name": "Midnight Oil",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "85d87b07-8c55-4d8d-909f-c25c62cd8876",
+  "object": "beer",
+  "name": "Dragonfly IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

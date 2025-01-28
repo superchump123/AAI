@@ -1,0 +1,11 @@
+{
+  "id": "0bcfdf20-95a1-4bb7-a2b2-ecd9e6d97332",
+  "object": "beer",
+  "name": "Owyhee Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

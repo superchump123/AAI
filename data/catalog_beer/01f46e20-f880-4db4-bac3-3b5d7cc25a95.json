@@ -1,0 +1,11 @@
+{
+  "id": "01f46e20-f880-4db4-bac3-3b5d7cc25a95",
+  "object": "beer",
+  "name": "Hyper Dog",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

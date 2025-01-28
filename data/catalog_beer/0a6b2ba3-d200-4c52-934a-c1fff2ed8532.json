@@ -1,0 +1,11 @@
+{
+  "id": "0a6b2ba3-d200-4c52-934a-c1fff2ed8532",
+  "object": "beer",
+  "name": "Upswift Creek",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

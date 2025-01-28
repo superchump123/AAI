@@ -1,0 +1,11 @@
+{
+  "id": "2fd3053d-bace-4233-8de1-c88fa0c8b1a7",
+  "object": "beer",
+  "name": "Bishop's Pass Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

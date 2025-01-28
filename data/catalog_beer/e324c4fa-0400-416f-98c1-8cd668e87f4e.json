@@ -1,0 +1,11 @@
+{
+  "id": "e324c4fa-0400-416f-98c1-8cd668e87f4e",
+  "object": "beer",
+  "name": "Fluthered",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

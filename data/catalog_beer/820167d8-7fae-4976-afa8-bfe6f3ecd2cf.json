@@ -1,0 +1,11 @@
+{
+  "id": "820167d8-7fae-4976-afa8-bfe6f3ecd2cf",
+  "object": "beer",
+  "name": "Berliner Weisse With Raspberry",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

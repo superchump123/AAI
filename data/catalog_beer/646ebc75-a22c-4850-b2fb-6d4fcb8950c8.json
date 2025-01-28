@@ -1,0 +1,11 @@
+{
+  "id": "646ebc75-a22c-4850-b2fb-6d4fcb8950c8",
+  "object": "beer",
+  "name": "Big Black Smoke",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

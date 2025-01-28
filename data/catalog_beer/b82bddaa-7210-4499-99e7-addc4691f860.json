@@ -1,0 +1,11 @@
+{
+  "id": "b82bddaa-7210-4499-99e7-addc4691f860",
+  "object": "beer",
+  "name": "Citra Express",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

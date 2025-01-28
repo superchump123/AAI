@@ -1,0 +1,11 @@
+{
+  "id": "8a0bb557-3c9f-4c0a-a13d-778f1fc1ac13",
+  "object": "beer",
+  "name": "Lemongrass Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

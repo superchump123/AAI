@@ -1,0 +1,11 @@
+{
+  "id": "80d50995-1ee6-497f-8575-322dfb92801e",
+  "object": "beer",
+  "name": "Odin's Revenge",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d8cd0ff1-34b3-4451-aa1c-3c2c9188b7a8",
+  "object": "beer",
+  "name": "Hard Deck",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b234b546-98a1-48c7-af71-93049ba64623",
+  "object": "beer",
+  "name": "Federale",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

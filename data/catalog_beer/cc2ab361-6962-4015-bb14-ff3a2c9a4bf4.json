@@ -1,0 +1,11 @@
+{
+  "id": "cc2ab361-6962-4015-bb14-ff3a2c9a4bf4",
+  "object": "beer",
+  "name": "Warlander",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

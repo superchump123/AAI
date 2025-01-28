@@ -1,0 +1,11 @@
+{
+  "id": "220e907b-6543-40d0-ac60-7116d53988eb",
+  "object": "beer",
+  "name": "Hop Lab - White",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

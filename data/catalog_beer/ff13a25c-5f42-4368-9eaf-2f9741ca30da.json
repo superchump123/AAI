@@ -1,0 +1,11 @@
+{
+  "id": "ff13a25c-5f42-4368-9eaf-2f9741ca30da",
+  "object": "beer",
+  "name": "Contra",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

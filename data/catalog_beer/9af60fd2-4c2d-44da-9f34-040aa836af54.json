@@ -1,0 +1,11 @@
+{
+  "id": "9af60fd2-4c2d-44da-9f34-040aa836af54",
+  "object": "beer",
+  "name": "Laka Laka",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

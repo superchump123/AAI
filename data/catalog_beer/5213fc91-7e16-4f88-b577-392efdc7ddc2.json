@@ -1,0 +1,11 @@
+{
+  "id": "5213fc91-7e16-4f88-b577-392efdc7ddc2",
+  "object": "beer",
+  "name": "Paxon the Poniless",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

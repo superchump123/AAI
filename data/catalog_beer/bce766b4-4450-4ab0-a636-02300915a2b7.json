@@ -1,0 +1,11 @@
+{
+  "id": "bce766b4-4450-4ab0-a636-02300915a2b7",
+  "object": "beer",
+  "name": "Chinook IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "601b424c-879e-4551-b795-c899a2b794d5",
+  "object": "beer",
+  "name": "Imogene Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d08498a4-8034-4723-a41a-9717172af6d9",
+  "object": "beer",
+  "name": "Padua Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

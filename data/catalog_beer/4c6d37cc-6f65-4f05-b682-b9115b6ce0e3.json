@@ -1,0 +1,11 @@
+{
+  "id": "4c6d37cc-6f65-4f05-b682-b9115b6ce0e3",
+  "object": "beer",
+  "name": "Hop Kitchen Oatmeal IPA",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

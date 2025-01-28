@@ -1,0 +1,11 @@
+{
+  "id": "80f82faf-372e-4df7-bddb-8731c94f087b",
+  "object": "beer",
+  "name": "Premium Goods",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

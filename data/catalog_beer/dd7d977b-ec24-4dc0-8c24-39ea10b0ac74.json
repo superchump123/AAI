@@ -1,0 +1,11 @@
+{
+  "id": "dd7d977b-ec24-4dc0-8c24-39ea10b0ac74",
+  "object": "beer",
+  "name": "Carrot Cake",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

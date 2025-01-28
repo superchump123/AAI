@@ -1,0 +1,11 @@
+{
+  "id": "2b748eea-e0ef-4766-8870-67256f296451",
+  "object": "beer",
+  "name": "Superflower Pale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4a4ed8b1-a286-4724-9ad4-f90f142d4224",
+  "object": "beer",
+  "name": "Deception",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

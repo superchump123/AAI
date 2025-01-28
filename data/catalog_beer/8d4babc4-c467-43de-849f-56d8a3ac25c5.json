@@ -1,0 +1,11 @@
+{
+  "id": "8d4babc4-c467-43de-849f-56d8a3ac25c5",
+  "object": "beer",
+  "name": "Grain Belt Premium",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

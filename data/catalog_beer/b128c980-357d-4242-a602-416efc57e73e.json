@@ -1,0 +1,11 @@
+{
+  "id": "b128c980-357d-4242-a602-416efc57e73e",
+  "object": "beer",
+  "name": "Fairhop #1: The Bankhead Tunnel",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

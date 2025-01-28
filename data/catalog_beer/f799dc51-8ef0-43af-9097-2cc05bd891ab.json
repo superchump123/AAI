@@ -1,0 +1,11 @@
+{
+  "id": "f799dc51-8ef0-43af-9097-2cc05bd891ab",
+  "object": "beer",
+  "name": "Ascent Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

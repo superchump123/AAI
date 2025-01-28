@@ -1,0 +1,11 @@
+{
+  "id": "ce6ee88c-acc9-41ca-b59f-0e81d0b42766",
+  "object": "beer",
+  "name": "Fisherman's BREW",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

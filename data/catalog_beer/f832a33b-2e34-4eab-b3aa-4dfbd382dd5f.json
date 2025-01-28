@@ -1,0 +1,11 @@
+{
+  "id": "f832a33b-2e34-4eab-b3aa-4dfbd382dd5f",
+  "object": "beer",
+  "name": "Citrennial",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d1fd000-0101-4940-ae40-f8e55e08ab0d",
+  "object": "beer",
+  "name": "Hell",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dffb42bb-3af3-427a-9e3b-5c0b471e46a9",
+  "object": "beer",
+  "name": "Alkoholfrei",
+  "style": "Non-Alcoholic (Beer) Malt Beverages",
+  "description": null,
+  "abv": 0.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

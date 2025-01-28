@@ -1,0 +1,11 @@
+{
+  "id": "315fb246-7be1-4ae6-a330-45b0ca2f05d3",
+  "object": "beer",
+  "name": "Fruhbock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

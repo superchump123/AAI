@@ -1,0 +1,11 @@
+{
+  "id": "e3b85093-d7d4-43d4-9255-2a19f605bb5b",
+  "object": "beer",
+  "name": "Mischievous",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

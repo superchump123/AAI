@@ -1,0 +1,11 @@
+{
+  "id": "289d6c1e-876c-40ab-9f33-620d2d308d5a",
+  "object": "beer",
+  "name": "Howling Simdorado Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

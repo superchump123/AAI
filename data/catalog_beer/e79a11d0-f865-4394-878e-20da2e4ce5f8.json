@@ -1,0 +1,11 @@
+{
+  "id": "e79a11d0-f865-4394-878e-20da2e4ce5f8",
+  "object": "beer",
+  "name": "Nevis",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

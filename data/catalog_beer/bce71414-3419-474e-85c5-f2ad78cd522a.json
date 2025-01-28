@@ -1,0 +1,11 @@
+{
+  "id": "bce71414-3419-474e-85c5-f2ad78cd522a",
+  "object": "beer",
+  "name": "King Henry",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

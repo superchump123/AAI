@@ -1,0 +1,11 @@
+{
+  "id": "b0ff6b9a-1599-4526-a650-78f741236b34",
+  "object": "beer",
+  "name": "Jacobs Brook",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

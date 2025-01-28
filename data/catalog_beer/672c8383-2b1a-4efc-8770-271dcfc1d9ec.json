@@ -1,0 +1,11 @@
+{
+  "id": "672c8383-2b1a-4efc-8770-271dcfc1d9ec",
+  "object": "beer",
+  "name": "Aurora Crimson Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

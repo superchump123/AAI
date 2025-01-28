@@ -1,0 +1,11 @@
+{
+  "id": "105ea86a-b817-4d92-aeee-7ebdccda1491",
+  "object": "beer",
+  "name": "Pilgrim's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

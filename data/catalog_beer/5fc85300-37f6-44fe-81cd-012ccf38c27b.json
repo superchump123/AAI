@@ -1,0 +1,11 @@
+{
+  "id": "5fc85300-37f6-44fe-81cd-012ccf38c27b",
+  "object": "beer",
+  "name": "Forged Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

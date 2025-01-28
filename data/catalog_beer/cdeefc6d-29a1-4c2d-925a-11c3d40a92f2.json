@@ -1,0 +1,11 @@
+{
+  "id": "cdeefc6d-29a1-4c2d-925a-11c3d40a92f2",
+  "object": "beer",
+  "name": "Blue Blaze Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

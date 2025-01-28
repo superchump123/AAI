@@ -1,0 +1,11 @@
+{
+  "id": "959bd3d0-eb57-4fe6-b451-c45f76872e9b",
+  "object": "beer",
+  "name": "Jabby Brau",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

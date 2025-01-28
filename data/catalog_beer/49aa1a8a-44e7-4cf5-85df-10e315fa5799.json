@@ -1,0 +1,11 @@
+{
+  "id": "49aa1a8a-44e7-4cf5-85df-10e315fa5799",
+  "object": "beer",
+  "name": "Barrel-Aged Double Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

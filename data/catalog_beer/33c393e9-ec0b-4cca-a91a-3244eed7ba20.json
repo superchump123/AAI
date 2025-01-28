@@ -1,0 +1,11 @@
+{
+  "id": "33c393e9-ec0b-4cca-a91a-3244eed7ba20",
+  "object": "beer",
+  "name": "Last Light IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

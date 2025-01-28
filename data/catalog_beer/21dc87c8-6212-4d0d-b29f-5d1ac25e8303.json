@@ -1,0 +1,11 @@
+{
+  "id": "21dc87c8-6212-4d0d-b29f-5d1ac25e8303",
+  "object": "beer",
+  "name": "Black Bear",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

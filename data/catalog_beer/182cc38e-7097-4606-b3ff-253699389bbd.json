@@ -1,0 +1,11 @@
+{
+  "id": "182cc38e-7097-4606-b3ff-253699389bbd",
+  "object": "beer",
+  "name": "Anniversary Ale - Fourteen",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06febd56-85ee-499c-8c8d-c5b3b1061d8e",
+  "object": "beer",
+  "name": "Fifth Level",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

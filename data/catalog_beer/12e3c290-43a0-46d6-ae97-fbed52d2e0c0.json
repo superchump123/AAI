@@ -1,0 +1,11 @@
+{
+  "id": "12e3c290-43a0-46d6-ae97-fbed52d2e0c0",
+  "object": "beer",
+  "name": "My Turn #1 - Dan",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

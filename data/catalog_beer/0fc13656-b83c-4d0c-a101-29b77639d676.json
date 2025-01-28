@@ -1,0 +1,11 @@
+{
+  "id": "0fc13656-b83c-4d0c-a101-29b77639d676",
+  "object": "beer",
+  "name": "Heavy Cruiser",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ff6e67bf-a6be-49aa-8161-6d45c24c37b2",
+  "object": "beer",
+  "name": "Chicory Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

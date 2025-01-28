@@ -1,0 +1,11 @@
+{
+  "id": "d51c4348-e206-4cd5-b615-850489aa952e",
+  "object": "beer",
+  "name": "Leviathan Great Scott Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

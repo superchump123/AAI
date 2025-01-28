@@ -1,0 +1,11 @@
+{
+  "id": "5a69aa5e-03ac-451f-9c77-f9f645d78694",
+  "object": "beer",
+  "name": "Nitro Fluff",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ba4deffe-a48d-45b9-abea-07489c20962c",
+  "object": "beer",
+  "name": "Oh Brother",
+  "style": "Braggot",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7f525424-3815-427d-95a6-3278a347dabe",
+  "object": "beer",
+  "name": "Four",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "41a73dbe-6692-4b56-99be-6a5ee0f484a1",
+  "object": "beer",
+  "name": "Pine River Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

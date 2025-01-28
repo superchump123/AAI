@@ -1,0 +1,11 @@
+{
+  "id": "e1debba1-3244-46a8-930f-be53a88f4378",
+  "object": "beer",
+  "name": "Sacramento Beer Week Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

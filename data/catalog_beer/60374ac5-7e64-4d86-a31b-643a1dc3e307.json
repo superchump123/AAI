@@ -1,0 +1,11 @@
+{
+  "id": "60374ac5-7e64-4d86-a31b-643a1dc3e307",
+  "object": "beer",
+  "name": "Winter Spice",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

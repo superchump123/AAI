@@ -1,0 +1,11 @@
+{
+  "id": "5dbbf2af-0c7a-40da-bb56-bb946fedab5f",
+  "object": "beer",
+  "name": "Avenel Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

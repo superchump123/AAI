@@ -1,0 +1,11 @@
+{
+  "id": "9bb4bca2-88c2-41ed-9b4d-0f08b578be78",
+  "object": "beer",
+  "name": "Pickup Line Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

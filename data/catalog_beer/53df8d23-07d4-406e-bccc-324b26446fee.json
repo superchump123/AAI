@@ -1,0 +1,11 @@
+{
+  "id": "53df8d23-07d4-406e-bccc-324b26446fee",
+  "object": "beer",
+  "name": "Good Day Sunshine",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

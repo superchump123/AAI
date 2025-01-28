@@ -1,0 +1,11 @@
+{
+  "id": "b88b1ddd-c2ee-4975-8782-685c51ef1218",
+  "object": "beer",
+  "name": "Hopsack",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

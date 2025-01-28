@@ -1,0 +1,11 @@
+{
+  "id": "c350cdf2-ae7d-494a-b832-67d64da43579",
+  "object": "beer",
+  "name": "Stoup Robust Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

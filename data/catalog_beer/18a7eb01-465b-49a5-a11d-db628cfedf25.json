@@ -1,0 +1,11 @@
+{
+  "id": "18a7eb01-465b-49a5-a11d-db628cfedf25",
+  "object": "beer",
+  "name": "Le Poisson Rouge",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

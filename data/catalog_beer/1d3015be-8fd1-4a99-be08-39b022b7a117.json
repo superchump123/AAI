@@ -1,0 +1,11 @@
+{
+  "id": "1d3015be-8fd1-4a99-be08-39b022b7a117",
+  "object": "beer",
+  "name": "Captain Patrick Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b3fc98bf-f91d-4e89-8845-c40a25ef6978",
+  "object": "beer",
+  "name": "Kuehnes Blondes",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

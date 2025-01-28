@@ -1,0 +1,11 @@
+{
+  "id": "cf2ecad6-aa1f-468b-9d37-6e414a269272",
+  "object": "beer",
+  "name": "Carrot Cake",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

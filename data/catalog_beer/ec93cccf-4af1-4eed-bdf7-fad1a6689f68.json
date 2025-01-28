@@ -1,0 +1,11 @@
+{
+  "id": "ec93cccf-4af1-4eed-bdf7-fad1a6689f68",
+  "object": "beer",
+  "name": "GinjaNinja",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

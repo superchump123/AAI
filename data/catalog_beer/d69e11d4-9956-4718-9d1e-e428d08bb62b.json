@@ -1,0 +1,11 @@
+{
+  "id": "d69e11d4-9956-4718-9d1e-e428d08bb62b",
+  "object": "beer",
+  "name": "Stag",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

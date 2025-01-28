@@ -1,0 +1,11 @@
+{
+  "id": "1986c4c7-547d-4fd9-b33f-d422278c9055",
+  "object": "beer",
+  "name": "Big Blue Van",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

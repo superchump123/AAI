@@ -1,0 +1,11 @@
+{
+  "id": "4bddee63-1c4e-46f6-b596-2de54f4fee0f",
+  "object": "beer",
+  "name": "El Dorado Crooked Tree",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

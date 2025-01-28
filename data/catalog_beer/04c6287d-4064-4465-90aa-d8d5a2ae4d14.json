@@ -1,0 +1,11 @@
+{
+  "id": "04c6287d-4064-4465-90aa-d8d5a2ae4d14",
+  "object": "beer",
+  "name": "Brewthulhu",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

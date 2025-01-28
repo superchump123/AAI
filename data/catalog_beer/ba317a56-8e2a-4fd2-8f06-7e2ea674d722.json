@@ -1,0 +1,11 @@
+{
+  "id": "ba317a56-8e2a-4fd2-8f06-7e2ea674d722",
+  "object": "beer",
+  "name": "Blonde Moment",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

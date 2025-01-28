@@ -1,0 +1,11 @@
+{
+  "id": "c4943343-16e5-4fbd-981b-69fce96b169b",
+  "object": "beer",
+  "name": "Peniger Kellerberg Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

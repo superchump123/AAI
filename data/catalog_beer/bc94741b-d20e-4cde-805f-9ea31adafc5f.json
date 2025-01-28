@@ -1,0 +1,11 @@
+{
+  "id": "bc94741b-d20e-4cde-805f-9ea31adafc5f",
+  "object": "beer",
+  "name": "Kootenay True Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "950c6a35-4fb7-4ee8-8dff-417302bbfbad",
+  "object": "beer",
+  "name": "Pistolero",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

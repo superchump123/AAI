@@ -1,0 +1,11 @@
+{
+  "id": "d53b73d6-e66b-4a09-806c-359746e7b9b9",
+  "object": "beer",
+  "name": "Hippy Sippy",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

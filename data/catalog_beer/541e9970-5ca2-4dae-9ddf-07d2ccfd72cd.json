@@ -1,0 +1,11 @@
+{
+  "id": "541e9970-5ca2-4dae-9ddf-07d2ccfd72cd",
+  "object": "beer",
+  "name": "Wild Hop",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

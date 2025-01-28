@@ -1,0 +1,11 @@
+{
+  "id": "48bf71f2-2a66-4155-affc-84db12a2da2b",
+  "object": "beer",
+  "name": "Continental Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

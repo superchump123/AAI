@@ -1,0 +1,11 @@
+{
+  "id": "38d81f33-80ad-41ee-ace0-21f7183b8c07",
+  "object": "beer",
+  "name": "Brahma Malzbier",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

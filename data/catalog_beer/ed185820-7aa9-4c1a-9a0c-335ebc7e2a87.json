@@ -1,0 +1,11 @@
+{
+  "id": "ed185820-7aa9-4c1a-9a0c-335ebc7e2a87",
+  "object": "beer",
+  "name": "4th Year Beer",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

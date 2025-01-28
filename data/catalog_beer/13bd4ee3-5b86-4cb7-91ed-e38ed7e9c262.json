@@ -1,0 +1,11 @@
+{
+  "id": "13bd4ee3-5b86-4cb7-91ed-e38ed7e9c262",
+  "object": "beer",
+  "name": "Arkenstone",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

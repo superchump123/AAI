@@ -1,0 +1,11 @@
+{
+  "id": "62420c7f-1070-4368-9518-107977a13da9",
+  "object": "beer",
+  "name": "Durango Blueberry Wheat Ale",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

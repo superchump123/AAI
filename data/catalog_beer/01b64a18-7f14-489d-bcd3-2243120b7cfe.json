@@ -1,0 +1,11 @@
+{
+  "id": "01b64a18-7f14-489d-bcd3-2243120b7cfe",
+  "object": "beer",
+  "name": "Amarsi",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

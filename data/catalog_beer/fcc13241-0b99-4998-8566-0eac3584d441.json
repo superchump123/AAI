@@ -1,0 +1,11 @@
+{
+  "id": "fcc13241-0b99-4998-8566-0eac3584d441",
+  "object": "beer",
+  "name": "Martini Meister-Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

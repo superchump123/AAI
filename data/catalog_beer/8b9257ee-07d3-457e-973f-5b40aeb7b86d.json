@@ -1,0 +1,11 @@
+{
+  "id": "8b9257ee-07d3-457e-973f-5b40aeb7b86d",
+  "object": "beer",
+  "name": "Maldita Vida",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

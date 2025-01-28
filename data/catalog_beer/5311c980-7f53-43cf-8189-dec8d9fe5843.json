@@ -1,0 +1,11 @@
+{
+  "id": "5311c980-7f53-43cf-8189-dec8d9fe5843",
+  "object": "beer",
+  "name": "Berry Shakesbeer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

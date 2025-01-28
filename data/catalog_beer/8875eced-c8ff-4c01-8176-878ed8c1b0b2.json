@@ -1,0 +1,11 @@
+{
+  "id": "8875eced-c8ff-4c01-8176-878ed8c1b0b2",
+  "object": "beer",
+  "name": "Friek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

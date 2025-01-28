@@ -1,0 +1,11 @@
+{
+  "id": "c3bd0201-cec5-43cd-a633-d3bc6ffcc89f",
+  "object": "beer",
+  "name": "Propulsion",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

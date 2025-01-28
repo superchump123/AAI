@@ -1,0 +1,11 @@
+{
+  "id": "b7aa4f6d-b0a6-420c-9fdb-e6e8c5a12d11",
+  "object": "beer",
+  "name": "Quandary",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

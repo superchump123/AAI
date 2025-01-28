@@ -1,0 +1,11 @@
+{
+  "id": "0328d9cf-f244-40d5-a444-a0eed57df4f2",
+  "object": "beer",
+  "name": "Citra Blend",
+  "style": "Dark American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

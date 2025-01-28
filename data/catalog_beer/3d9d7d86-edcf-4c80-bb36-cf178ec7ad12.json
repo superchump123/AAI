@@ -1,0 +1,11 @@
+{
+  "id": "3d9d7d86-edcf-4c80-bb36-cf178ec7ad12",
+  "object": "beer",
+  "name": "1836",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

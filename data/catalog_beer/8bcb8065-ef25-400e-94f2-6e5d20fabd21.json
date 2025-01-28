@@ -1,0 +1,11 @@
+{
+  "id": "8bcb8065-ef25-400e-94f2-6e5d20fabd21",
+  "object": "beer",
+  "name": "Black Jack Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

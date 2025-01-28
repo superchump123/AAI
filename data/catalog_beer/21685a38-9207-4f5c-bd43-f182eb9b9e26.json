@@ -1,0 +1,11 @@
+{
+  "id": "21685a38-9207-4f5c-bd43-f182eb9b9e26",
+  "object": "beer",
+  "name": "Stocktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

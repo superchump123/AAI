@@ -1,0 +1,11 @@
+{
+  "id": "daaca6d2-c8a3-4cd8-8e5c-83ea93feff8a",
+  "object": "beer",
+  "name": "Switch Hitter Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

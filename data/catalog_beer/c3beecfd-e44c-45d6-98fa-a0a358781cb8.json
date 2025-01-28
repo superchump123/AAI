@@ -1,0 +1,11 @@
+{
+  "id": "c3beecfd-e44c-45d6-98fa-a0a358781cb8",
+  "object": "beer",
+  "name": "Blind Faith",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

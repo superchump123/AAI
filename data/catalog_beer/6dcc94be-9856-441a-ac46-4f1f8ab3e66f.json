@@ -1,0 +1,11 @@
+{
+  "id": "6dcc94be-9856-441a-ac46-4f1f8ab3e66f",
+  "object": "beer",
+  "name": "Salem's Lot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

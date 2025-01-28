@@ -1,0 +1,11 @@
+{
+  "id": "0bf8cacf-82b8-4cfe-aa2e-22af36b94e86",
+  "object": "beer",
+  "name": "Festival IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

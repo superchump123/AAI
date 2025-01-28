@@ -1,0 +1,11 @@
+{
+  "id": "211d3f54-bab0-4234-aafc-25bda984af2a",
+  "object": "beer",
+  "name": "Punch & Judy's Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

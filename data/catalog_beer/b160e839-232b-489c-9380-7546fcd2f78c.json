@@ -1,0 +1,11 @@
+{
+  "id": "b160e839-232b-489c-9380-7546fcd2f78c",
+  "object": "beer",
+  "name": "Sigmund's IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

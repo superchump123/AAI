@@ -1,0 +1,11 @@
+{
+  "id": "bc201165-b1a5-45f9-a7f5-fa965449be06",
+  "object": "beer",
+  "name": "16 Degrees Celsius",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

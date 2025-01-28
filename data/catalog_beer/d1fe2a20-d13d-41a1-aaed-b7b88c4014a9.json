@@ -1,0 +1,11 @@
+{
+  "id": "d1fe2a20-d13d-41a1-aaed-b7b88c4014a9",
+  "object": "beer",
+  "name": "Grand Cru",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

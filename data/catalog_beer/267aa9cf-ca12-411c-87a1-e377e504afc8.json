@@ -1,0 +1,11 @@
+{
+  "id": "267aa9cf-ca12-411c-87a1-e377e504afc8",
+  "object": "beer",
+  "name": "Caged Alpha Monkey IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

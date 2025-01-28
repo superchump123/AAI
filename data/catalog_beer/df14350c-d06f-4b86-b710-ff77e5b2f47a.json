@@ -1,0 +1,11 @@
+{
+  "id": "df14350c-d06f-4b86-b710-ff77e5b2f47a",
+  "object": "beer",
+  "name": "G String Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

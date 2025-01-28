@@ -1,0 +1,11 @@
+{
+  "id": "0ba1ee4c-befa-4788-851b-d797aad73afc",
+  "object": "beer",
+  "name": "Start Me Up",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

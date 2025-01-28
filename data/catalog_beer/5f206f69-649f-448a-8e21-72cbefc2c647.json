@@ -1,0 +1,11 @@
+{
+  "id": "5f206f69-649f-448a-8e21-72cbefc2c647",
+  "object": "beer",
+  "name": "Malt of the Earth",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

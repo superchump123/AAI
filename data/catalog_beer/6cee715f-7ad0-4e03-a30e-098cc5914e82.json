@@ -1,0 +1,11 @@
+{
+  "id": "6cee715f-7ad0-4e03-a30e-098cc5914e82",
+  "object": "beer",
+  "name": "Saison Imperiale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

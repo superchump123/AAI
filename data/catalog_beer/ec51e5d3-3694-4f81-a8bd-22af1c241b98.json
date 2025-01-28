@@ -1,0 +1,11 @@
+{
+  "id": "ec51e5d3-3694-4f81-a8bd-22af1c241b98",
+  "object": "beer",
+  "name": "Pepper Head",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

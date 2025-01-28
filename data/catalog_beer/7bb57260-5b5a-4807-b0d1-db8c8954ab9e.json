@@ -1,0 +1,11 @@
+{
+  "id": "7bb57260-5b5a-4807-b0d1-db8c8954ab9e",
+  "object": "beer",
+  "name": "Empress Mora Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

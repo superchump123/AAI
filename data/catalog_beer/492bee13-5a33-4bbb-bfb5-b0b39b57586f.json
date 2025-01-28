@@ -1,0 +1,11 @@
+{
+  "id": "492bee13-5a33-4bbb-bfb5-b0b39b57586f",
+  "object": "beer",
+  "name": "Seasonal Creep",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

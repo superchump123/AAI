@@ -1,0 +1,11 @@
+{
+  "id": "6c358b34-2e50-47e1-9e6d-edfb000c9c44",
+  "object": "beer",
+  "name": "Specht Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

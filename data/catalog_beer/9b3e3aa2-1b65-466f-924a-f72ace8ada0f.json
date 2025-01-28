@@ -1,0 +1,11 @@
+{
+  "id": "9b3e3aa2-1b65-466f-924a-f72ace8ada0f",
+  "object": "beer",
+  "name": "Vulture",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

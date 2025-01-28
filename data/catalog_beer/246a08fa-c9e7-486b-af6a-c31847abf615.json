@@ -1,0 +1,11 @@
+{
+  "id": "246a08fa-c9e7-486b-af6a-c31847abf615",
+  "object": "beer",
+  "name": "Dancing Elephants",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

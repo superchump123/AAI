@@ -1,0 +1,11 @@
+{
+  "id": "d0c03516-e379-4df7-9069-96f064b9f08c",
+  "object": "beer",
+  "name": "The Farmhouse Sour",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

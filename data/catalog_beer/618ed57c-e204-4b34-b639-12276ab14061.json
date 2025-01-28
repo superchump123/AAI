@@ -1,0 +1,11 @@
+{
+  "id": "618ed57c-e204-4b34-b639-12276ab14061",
+  "object": "beer",
+  "name": "Victor Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

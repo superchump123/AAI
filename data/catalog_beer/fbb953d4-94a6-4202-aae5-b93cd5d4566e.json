@@ -1,0 +1,11 @@
+{
+  "id": "fbb953d4-94a6-4202-aae5-b93cd5d4566e",
+  "object": "beer",
+  "name": "Cacao Bender",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

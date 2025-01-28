@@ -1,0 +1,11 @@
+{
+  "id": "bf985257-f863-4f65-99b8-ec74f4d84cc5",
+  "object": "beer",
+  "name": "Louisiana Rain",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

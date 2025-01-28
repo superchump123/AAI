@@ -1,0 +1,11 @@
+{
+  "id": "642e45d1-baf2-43fc-bd31-06555cd5afa4",
+  "object": "beer",
+  "name": "Cream of the Crop",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

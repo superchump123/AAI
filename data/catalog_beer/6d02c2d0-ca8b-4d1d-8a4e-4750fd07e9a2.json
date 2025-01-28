@@ -1,0 +1,11 @@
+{
+  "id": "6d02c2d0-ca8b-4d1d-8a4e-4750fd07e9a2",
+  "object": "beer",
+  "name": "Femme Fatale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

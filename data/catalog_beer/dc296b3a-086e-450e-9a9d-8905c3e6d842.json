@@ -1,0 +1,11 @@
+{
+  "id": "dc296b3a-086e-450e-9a9d-8905c3e6d842",
+  "object": "beer",
+  "name": "hoppian",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

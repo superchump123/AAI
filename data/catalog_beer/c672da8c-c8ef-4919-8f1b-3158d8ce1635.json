@@ -1,0 +1,11 @@
+{
+  "id": "c672da8c-c8ef-4919-8f1b-3158d8ce1635",
+  "object": "beer",
+  "name": "9326 Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

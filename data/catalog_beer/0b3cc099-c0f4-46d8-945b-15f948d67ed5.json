@@ -1,0 +1,11 @@
+{
+  "id": "0b3cc099-c0f4-46d8-945b-15f948d67ed5",
+  "object": "beer",
+  "name": "Scarlet Harlot",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

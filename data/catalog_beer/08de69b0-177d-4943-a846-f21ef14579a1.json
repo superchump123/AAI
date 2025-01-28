@@ -1,0 +1,11 @@
+{
+  "id": "08de69b0-177d-4943-a846-f21ef14579a1",
+  "object": "beer",
+  "name": "The Great Road",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

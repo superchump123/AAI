@@ -1,0 +1,11 @@
+{
+  "id": "c4c8280d-e273-4e9f-bed7-48920567b24c",
+  "object": "beer",
+  "name": "Trouble Ahead Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

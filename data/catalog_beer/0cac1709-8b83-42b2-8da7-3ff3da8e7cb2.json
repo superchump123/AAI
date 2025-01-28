@@ -1,0 +1,11 @@
+{
+  "id": "0cac1709-8b83-42b2-8da7-3ff3da8e7cb2",
+  "object": "beer",
+  "name": "Hoppy Side of Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

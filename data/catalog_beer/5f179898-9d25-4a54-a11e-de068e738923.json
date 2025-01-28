@@ -1,0 +1,11 @@
+{
+  "id": "5f179898-9d25-4a54-a11e-de068e738923",
+  "object": "beer",
+  "name": "Stranger Than Fiction",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

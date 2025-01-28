@@ -1,0 +1,11 @@
+{
+  "id": "921d0315-0c3e-4f72-996d-d0414e42fa83",
+  "object": "beer",
+  "name": "Dry Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "31fcc95a-d5bd-4d1f-b6bf-cbe0976c4df9",
+  "object": "beer",
+  "name": "Breakwater Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

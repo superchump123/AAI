@@ -1,0 +1,11 @@
+{
+  "id": "0ea93b47-30ca-4e97-bcfd-db5e74e966cc",
+  "object": "beer",
+  "name": "Southern Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

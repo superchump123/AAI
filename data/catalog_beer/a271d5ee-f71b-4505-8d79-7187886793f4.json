@@ -1,0 +1,11 @@
+{
+  "id": "a271d5ee-f71b-4505-8d79-7187886793f4",
+  "object": "beer",
+  "name": "Spearhead Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

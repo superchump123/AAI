@@ -1,0 +1,11 @@
+{
+  "id": "7a9ee61c-8ee4-45be-b078-dceb02b1feb5",
+  "object": "beer",
+  "name": "Festbier",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b6c4d3fc-b94d-4418-aa36-ae8a7161eee9",
+  "object": "beer",
+  "name": "Braunbier",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

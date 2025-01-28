@@ -1,0 +1,11 @@
+{
+  "id": "2f8f48ac-08df-4f0b-8fba-66b2e02b19da",
+  "object": "beer",
+  "name": "Rotundone",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

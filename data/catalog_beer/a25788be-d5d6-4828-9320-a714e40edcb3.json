@@ -1,0 +1,11 @@
+{
+  "id": "a25788be-d5d6-4828-9320-a714e40edcb3",
+  "object": "beer",
+  "name": "Kilt Lifter Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "948a4755-6eb6-46ca-abfe-11c98a206dec",
+  "object": "beer",
+  "name": "Mystery Bag",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

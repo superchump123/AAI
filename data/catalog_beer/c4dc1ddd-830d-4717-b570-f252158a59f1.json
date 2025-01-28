@@ -1,0 +1,11 @@
+{
+  "id": "c4dc1ddd-830d-4717-b570-f252158a59f1",
+  "object": "beer",
+  "name": "Dante's Porter",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

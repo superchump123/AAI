@@ -1,0 +1,11 @@
+{
+  "id": "dc94dccf-99c5-4f01-8cbe-088186710720",
+  "object": "beer",
+  "name": "Sour Cherry Deduction",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

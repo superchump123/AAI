@@ -1,0 +1,11 @@
+{
+  "id": "30df1f33-77f9-485d-b12b-95325fe7f48f",
+  "object": "beer",
+  "name": "Pumpkin Beast",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

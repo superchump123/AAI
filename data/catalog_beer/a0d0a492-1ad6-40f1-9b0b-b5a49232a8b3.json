@@ -1,0 +1,11 @@
+{
+  "id": "a0d0a492-1ad6-40f1-9b0b-b5a49232a8b3",
+  "object": "beer",
+  "name": "Flare Incident",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

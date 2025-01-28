@@ -1,0 +1,11 @@
+{
+  "id": "ce5a3d6a-5df6-4aea-a759-dd8de88b6af6",
+  "object": "beer",
+  "name": "Winter Session Ale",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

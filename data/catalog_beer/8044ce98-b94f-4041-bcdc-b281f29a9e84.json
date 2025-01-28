@@ -1,0 +1,11 @@
+{
+  "id": "8044ce98-b94f-4041-bcdc-b281f29a9e84",
+  "object": "beer",
+  "name": "Papa Louie's Test Batch #1",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

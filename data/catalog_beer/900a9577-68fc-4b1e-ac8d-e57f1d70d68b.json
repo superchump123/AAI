@@ -1,0 +1,11 @@
+{
+  "id": "900a9577-68fc-4b1e-ac8d-e57f1d70d68b",
+  "object": "beer",
+  "name": "Basic Beach",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

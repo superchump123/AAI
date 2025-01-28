@@ -1,0 +1,11 @@
+{
+  "id": "569fdbc9-82f1-4c95-a065-be511f85ddf6",
+  "object": "beer",
+  "name": "Seven Day Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "21c2f481-fb06-479d-b084-a941c3653a02",
+  "object": "beer",
+  "name": "The Hyponotist",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ecd4112-b47a-4feb-92b4-a71ee13c21dd",
+  "object": "beer",
+  "name": "Horse and Buggy Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a950e68c-a9dc-4e34-8e74-115d7adc0cb7",
+  "object": "beer",
+  "name": "Hyve",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

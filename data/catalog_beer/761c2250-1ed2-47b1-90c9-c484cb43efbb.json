@@ -1,0 +1,11 @@
+{
+  "id": "761c2250-1ed2-47b1-90c9-c484cb43efbb",
+  "object": "beer",
+  "name": "16 Barrels",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

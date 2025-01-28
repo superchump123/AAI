@@ -1,0 +1,11 @@
+{
+  "id": "93eda1d5-8b97-4412-95b4-dbf9c22eeae9",
+  "object": "beer",
+  "name": "The Unforgiven Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

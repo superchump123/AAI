@@ -1,0 +1,11 @@
+{
+  "id": "65321dcf-783c-48b1-a364-2ee697e2060a",
+  "object": "beer",
+  "name": "Old Diablo",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

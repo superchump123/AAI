@@ -1,0 +1,11 @@
+{
+  "id": "f8cf4cad-676a-40a4-87fb-f957f68a456e",
+  "object": "beer",
+  "name": "Franconia Kristall Weizen",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

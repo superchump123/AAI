@@ -1,0 +1,11 @@
+{
+  "id": "500e04ad-886d-460a-816b-af73cd4f3535",
+  "object": "beer",
+  "name": "Fruition",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

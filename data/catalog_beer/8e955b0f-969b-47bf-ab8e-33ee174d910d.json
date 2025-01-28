@@ -1,0 +1,11 @@
+{
+  "id": "8e955b0f-969b-47bf-ab8e-33ee174d910d",
+  "object": "beer",
+  "name": "Mr. Owl Double India Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

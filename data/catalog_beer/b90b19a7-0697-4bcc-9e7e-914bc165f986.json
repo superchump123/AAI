@@ -1,0 +1,11 @@
+{
+  "id": "b90b19a7-0697-4bcc-9e7e-914bc165f986",
+  "object": "beer",
+  "name": "Gratzer",
+  "style": "Grodziskie",
+  "description": null,
+  "abv": 4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

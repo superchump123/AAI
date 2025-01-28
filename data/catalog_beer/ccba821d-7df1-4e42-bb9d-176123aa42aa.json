@@ -1,0 +1,11 @@
+{
+  "id": "ccba821d-7df1-4e42-bb9d-176123aa42aa",
+  "object": "beer",
+  "name": "Obsidian Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

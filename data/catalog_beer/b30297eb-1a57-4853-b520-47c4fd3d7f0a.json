@@ -1,0 +1,11 @@
+{
+  "id": "b30297eb-1a57-4853-b520-47c4fd3d7f0a",
+  "object": "beer",
+  "name": "The Beer Pilgrim's Porter (\uc220\ub840\uc790)",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

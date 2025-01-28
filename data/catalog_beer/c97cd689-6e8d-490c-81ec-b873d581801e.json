@@ -1,0 +1,11 @@
+{
+  "id": "c97cd689-6e8d-490c-81ec-b873d581801e",
+  "object": "beer",
+  "name": "Starter Kit",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

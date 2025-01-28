@@ -1,0 +1,11 @@
+{
+  "id": "c509aeb7-e375-4686-8ba3-1312e2e6099a",
+  "object": "beer",
+  "name": "Anaheim Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

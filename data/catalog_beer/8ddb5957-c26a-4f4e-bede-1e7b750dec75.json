@@ -1,0 +1,11 @@
+{
+  "id": "8ddb5957-c26a-4f4e-bede-1e7b750dec75",
+  "object": "beer",
+  "name": "Evil Genius",
+  "style": "Semi-Sweet Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

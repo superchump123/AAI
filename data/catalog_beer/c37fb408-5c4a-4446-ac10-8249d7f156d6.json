@@ -1,0 +1,11 @@
+{
+  "id": "c37fb408-5c4a-4446-ac10-8249d7f156d6",
+  "object": "beer",
+  "name": "Slane's Irish Style Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

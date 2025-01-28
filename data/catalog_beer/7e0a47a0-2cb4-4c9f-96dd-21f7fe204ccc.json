@@ -1,0 +1,11 @@
+{
+  "id": "7e0a47a0-2cb4-4c9f-96dd-21f7fe204ccc",
+  "object": "beer",
+  "name": "West-Coast Glutton",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

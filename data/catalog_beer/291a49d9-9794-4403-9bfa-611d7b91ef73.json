@@ -1,0 +1,11 @@
+{
+  "id": "291a49d9-9794-4403-9bfa-611d7b91ef73",
+  "object": "beer",
+  "name": "Havanna Lima",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

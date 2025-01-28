@@ -1,0 +1,11 @@
+{
+  "id": "65845e33-e2c9-40d6-86ac-4f530704726e",
+  "object": "beer",
+  "name": "Pam's Kitchen Beer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

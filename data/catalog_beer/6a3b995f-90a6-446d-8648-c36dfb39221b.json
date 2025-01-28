@@ -1,0 +1,11 @@
+{
+  "id": "6a3b995f-90a6-446d-8648-c36dfb39221b",
+  "object": "beer",
+  "name": "Abby XXXX",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

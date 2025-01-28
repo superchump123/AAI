@@ -1,0 +1,11 @@
+{
+  "id": "b47f7f3a-dce4-404b-b13f-43beaec6b014",
+  "object": "beer",
+  "name": "Epiphany",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

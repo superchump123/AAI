@@ -1,0 +1,11 @@
+{
+  "id": "24d83674-e4d6-4b99-9e9a-b8d9c3a35f7c",
+  "object": "beer",
+  "name": "Farmhouse Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

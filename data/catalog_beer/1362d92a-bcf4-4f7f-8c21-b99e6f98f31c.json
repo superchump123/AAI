@@ -1,0 +1,11 @@
+{
+  "id": "1362d92a-bcf4-4f7f-8c21-b99e6f98f31c",
+  "object": "beer",
+  "name": "The Roustabout",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

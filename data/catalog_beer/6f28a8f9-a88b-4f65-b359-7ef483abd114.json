@@ -1,0 +1,11 @@
+{
+  "id": "6f28a8f9-a88b-4f65-b359-7ef483abd114",
+  "object": "beer",
+  "name": "Arizona Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

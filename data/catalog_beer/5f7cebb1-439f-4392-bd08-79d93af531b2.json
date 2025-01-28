@@ -1,0 +1,11 @@
+{
+  "id": "5f7cebb1-439f-4392-bd08-79d93af531b2",
+  "object": "beer",
+  "name": "Wedding Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

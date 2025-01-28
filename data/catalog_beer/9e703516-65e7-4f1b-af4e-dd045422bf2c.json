@@ -1,0 +1,11 @@
+{
+  "id": "9e703516-65e7-4f1b-af4e-dd045422bf2c",
+  "object": "beer",
+  "name": "Batch 97: American Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

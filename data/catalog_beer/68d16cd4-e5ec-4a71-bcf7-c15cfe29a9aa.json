@@ -1,0 +1,11 @@
+{
+  "id": "68d16cd4-e5ec-4a71-bcf7-c15cfe29a9aa",
+  "object": "beer",
+  "name": "Smokey And The Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

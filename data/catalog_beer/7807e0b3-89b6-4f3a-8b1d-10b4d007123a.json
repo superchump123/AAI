@@ -1,0 +1,11 @@
+{
+  "id": "7807e0b3-89b6-4f3a-8b1d-10b4d007123a",
+  "object": "beer",
+  "name": "Hyper Oblivious",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "42d1d9dc-4168-4819-92aa-35ab0d05b5a5",
+  "object": "beer",
+  "name": "Double Duckpin",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

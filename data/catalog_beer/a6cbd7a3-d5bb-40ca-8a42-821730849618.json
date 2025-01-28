@@ -1,0 +1,11 @@
+{
+  "id": "a6cbd7a3-d5bb-40ca-8a42-821730849618",
+  "object": "beer",
+  "name": "Los Locos Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

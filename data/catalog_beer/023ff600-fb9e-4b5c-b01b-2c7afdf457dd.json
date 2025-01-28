@@ -1,0 +1,11 @@
+{
+  "id": "023ff600-fb9e-4b5c-b01b-2c7afdf457dd",
+  "object": "beer",
+  "name": "Unicorn IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

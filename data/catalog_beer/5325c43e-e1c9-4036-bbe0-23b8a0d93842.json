@@ -1,0 +1,11 @@
+{
+  "id": "5325c43e-e1c9-4036-bbe0-23b8a0d93842",
+  "object": "beer",
+  "name": "Cute Little Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

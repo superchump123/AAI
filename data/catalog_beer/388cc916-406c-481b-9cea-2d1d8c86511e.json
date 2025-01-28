@@ -1,0 +1,11 @@
+{
+  "id": "388cc916-406c-481b-9cea-2d1d8c86511e",
+  "object": "beer",
+  "name": "Sunseeker Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

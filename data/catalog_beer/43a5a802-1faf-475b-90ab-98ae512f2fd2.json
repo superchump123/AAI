@@ -1,0 +1,11 @@
+{
+  "id": "43a5a802-1faf-475b-90ab-98ae512f2fd2",
+  "object": "beer",
+  "name": "Das Delikat Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "29f84314-08c1-4aa3-a2d0-7703071096c8",
+  "object": "beer",
+  "name": "mechanics grove",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

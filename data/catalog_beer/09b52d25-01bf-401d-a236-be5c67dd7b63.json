@@ -1,0 +1,11 @@
+{
+  "id": "09b52d25-01bf-401d-a236-be5c67dd7b63",
+  "object": "beer",
+  "name": "La Pitoune",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "88a08de5-f818-4987-bc7b-cb9e24204ac0",
+  "object": "beer",
+  "name": "Old Fashioned Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

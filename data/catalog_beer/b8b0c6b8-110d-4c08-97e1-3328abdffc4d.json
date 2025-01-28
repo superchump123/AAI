@@ -1,0 +1,11 @@
+{
+  "id": "b8b0c6b8-110d-4c08-97e1-3328abdffc4d",
+  "object": "beer",
+  "name": "Malterial Girl",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

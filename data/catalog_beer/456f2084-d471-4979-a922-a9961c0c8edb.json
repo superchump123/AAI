@@ -1,0 +1,11 @@
+{
+  "id": "456f2084-d471-4979-a922-a9961c0c8edb",
+  "object": "beer",
+  "name": "Santiam IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

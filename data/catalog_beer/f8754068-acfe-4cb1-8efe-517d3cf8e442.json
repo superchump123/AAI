@@ -1,0 +1,11 @@
+{
+  "id": "f8754068-acfe-4cb1-8efe-517d3cf8e442",
+  "object": "beer",
+  "name": "Berghoff Backyard Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

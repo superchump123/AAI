@@ -1,0 +1,11 @@
+{
+  "id": "328bfac9-3361-4db7-81db-9b9eb001eadd",
+  "object": "beer",
+  "name": "Tomahawk Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

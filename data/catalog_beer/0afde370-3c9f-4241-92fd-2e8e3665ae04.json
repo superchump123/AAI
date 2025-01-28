@@ -1,0 +1,11 @@
+{
+  "id": "0afde370-3c9f-4241-92fd-2e8e3665ae04",
+  "object": "beer",
+  "name": "Pimpin Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3da9f2a3-930d-45a5-aefb-cb911c8ed136",
+  "object": "beer",
+  "name": "Hard Fizz",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b9f66e8e-6218-40f5-9b9c-ebc2efbda781",
+  "object": "beer",
+  "name": "India Pale Ale Family Tree",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

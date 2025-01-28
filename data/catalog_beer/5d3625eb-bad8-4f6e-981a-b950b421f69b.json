@@ -1,0 +1,11 @@
+{
+  "id": "5d3625eb-bad8-4f6e-981a-b950b421f69b",
+  "object": "beer",
+  "name": "Immersion Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

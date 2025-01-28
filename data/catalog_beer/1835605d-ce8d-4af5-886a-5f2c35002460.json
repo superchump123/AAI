@@ -1,0 +1,11 @@
+{
+  "id": "1835605d-ce8d-4af5-886a-5f2c35002460",
+  "object": "beer",
+  "name": "Samuel Adams Light",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

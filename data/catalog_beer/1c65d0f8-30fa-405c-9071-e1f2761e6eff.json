@@ -1,0 +1,11 @@
+{
+  "id": "1c65d0f8-30fa-405c-9071-e1f2761e6eff",
+  "object": "beer",
+  "name": "Dark Berry Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

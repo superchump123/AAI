@@ -1,0 +1,11 @@
+{
+  "id": "f209238b-dc10-4457-8214-da5232db28d2",
+  "object": "beer",
+  "name": "Seasonal Reserve",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

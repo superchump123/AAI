@@ -1,0 +1,11 @@
+{
+  "id": "9ac6e7da-f402-4fe0-9c49-a5e8e0998015",
+  "object": "beer",
+  "name": "Exp06277",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

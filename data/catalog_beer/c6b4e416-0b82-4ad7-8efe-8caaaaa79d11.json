@@ -1,0 +1,11 @@
+{
+  "id": "c6b4e416-0b82-4ad7-8efe-8caaaaa79d11",
+  "object": "beer",
+  "name": "Gessner Dunkler Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

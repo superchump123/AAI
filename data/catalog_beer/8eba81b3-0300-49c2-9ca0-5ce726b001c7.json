@@ -1,0 +1,11 @@
+{
+  "id": "8eba81b3-0300-49c2-9ca0-5ce726b001c7",
+  "object": "beer",
+  "name": "Bock Beer",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

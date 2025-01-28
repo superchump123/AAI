@@ -1,0 +1,11 @@
+{
+  "id": "d51ab281-8695-429b-99f1-c90a14d57980",
+  "object": "beer",
+  "name": "Fume",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2d7534cf-673a-48b9-a6b3-87b9343ad2de",
+  "object": "beer",
+  "name": "Santa Barbara Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "529a27cc-7b44-440b-b68e-1e2bb97f107b",
+  "object": "beer",
+  "name": "Hidromiel",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

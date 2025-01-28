@@ -1,0 +1,11 @@
+{
+  "id": "b7863bb1-a3fb-477e-91be-dddb5c8191ae",
+  "object": "beer",
+  "name": "Alpha Khan Mongolian Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

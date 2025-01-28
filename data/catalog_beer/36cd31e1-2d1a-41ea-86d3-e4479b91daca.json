@@ -1,0 +1,11 @@
+{
+  "id": "36cd31e1-2d1a-41ea-86d3-e4479b91daca",
+  "object": "beer",
+  "name": "Capsicum Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

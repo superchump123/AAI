@@ -1,0 +1,11 @@
+{
+  "id": "aca37568-0ea1-4d04-a491-f2add30dc1ea",
+  "object": "beer",
+  "name": "Round Midnight",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d7334c1-f99e-4621-9666-b6e8a343fc8c",
+  "object": "beer",
+  "name": "Hi-Fi",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

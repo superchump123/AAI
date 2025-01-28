@@ -1,0 +1,11 @@
+{
+  "id": "fad2eafe-6f32-4621-ad8f-08d84aec9702",
+  "object": "beer",
+  "name": "Autumn Blaze",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

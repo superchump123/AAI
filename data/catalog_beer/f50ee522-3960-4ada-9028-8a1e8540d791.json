@@ -1,0 +1,11 @@
+{
+  "id": "f50ee522-3960-4ada-9028-8a1e8540d791",
+  "object": "beer",
+  "name": "Vrak",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

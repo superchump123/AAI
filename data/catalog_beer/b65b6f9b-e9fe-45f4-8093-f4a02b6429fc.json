@@ -1,0 +1,11 @@
+{
+  "id": "b65b6f9b-e9fe-45f4-8093-f4a02b6429fc",
+  "object": "beer",
+  "name": "Farmer's Daughter Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

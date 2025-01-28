@@ -1,0 +1,11 @@
+{
+  "id": "b7a6266a-dc55-4cea-b01d-b1129c300ec4",
+  "object": "beer",
+  "name": "Phat Lenny Leonardson",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

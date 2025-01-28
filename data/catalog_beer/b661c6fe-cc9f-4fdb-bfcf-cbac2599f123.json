@@ -1,0 +1,11 @@
+{
+  "id": "b661c6fe-cc9f-4fdb-bfcf-cbac2599f123",
+  "object": "beer",
+  "name": "Mac Drizzle",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

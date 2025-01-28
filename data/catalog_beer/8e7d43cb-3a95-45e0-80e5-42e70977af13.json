@@ -1,0 +1,11 @@
+{
+  "id": "8e7d43cb-3a95-45e0-80e5-42e70977af13",
+  "object": "beer",
+  "name": "Pumpkin Lager",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

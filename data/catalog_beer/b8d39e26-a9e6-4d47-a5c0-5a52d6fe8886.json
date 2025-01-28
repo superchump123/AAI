@@ -1,0 +1,11 @@
+{
+  "id": "b8d39e26-a9e6-4d47-a5c0-5a52d6fe8886",
+  "object": "beer",
+  "name": "Obrien's Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

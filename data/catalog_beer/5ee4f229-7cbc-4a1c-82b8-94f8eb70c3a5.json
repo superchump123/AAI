@@ -1,0 +1,11 @@
+{
+  "id": "5ee4f229-7cbc-4a1c-82b8-94f8eb70c3a5",
+  "object": "beer",
+  "name": "Local Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

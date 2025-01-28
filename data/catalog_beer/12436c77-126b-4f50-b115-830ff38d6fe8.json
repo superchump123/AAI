@@ -1,0 +1,11 @@
+{
+  "id": "12436c77-126b-4f50-b115-830ff38d6fe8",
+  "object": "beer",
+  "name": "Lavender Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

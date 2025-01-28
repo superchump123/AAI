@@ -1,0 +1,11 @@
+{
+  "id": "4598b072-c1f6-4488-bdd0-0af9849c997c",
+  "object": "beer",
+  "name": "Red Barn Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

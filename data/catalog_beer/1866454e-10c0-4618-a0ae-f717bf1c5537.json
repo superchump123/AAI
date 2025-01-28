@@ -1,0 +1,11 @@
+{
+  "id": "1866454e-10c0-4618-a0ae-f717bf1c5537",
+  "object": "beer",
+  "name": "Biere De Provence",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

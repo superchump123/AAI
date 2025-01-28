@@ -1,0 +1,11 @@
+{
+  "id": "1d1dd43c-2dca-4636-9b01-61458a217f40",
+  "object": "beer",
+  "name": "Tupac California Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

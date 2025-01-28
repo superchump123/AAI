@@ -1,0 +1,11 @@
+{
+  "id": "2067df22-f484-4564-8708-bcbfd05930a4",
+  "object": "beer",
+  "name": "Gasport Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

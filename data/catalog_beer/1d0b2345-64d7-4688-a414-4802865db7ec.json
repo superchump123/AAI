@@ -1,0 +1,11 @@
+{
+  "id": "1d0b2345-64d7-4688-a414-4802865db7ec",
+  "object": "beer",
+  "name": "Phin & Matt\u2019s",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

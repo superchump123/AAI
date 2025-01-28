@@ -1,0 +1,11 @@
+{
+  "id": "62e33f37-8365-4d8f-ac7c-97c07f47c39a",
+  "object": "beer",
+  "name": "Woody",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

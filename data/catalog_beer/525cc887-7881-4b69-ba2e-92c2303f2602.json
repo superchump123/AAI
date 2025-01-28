@@ -1,0 +1,11 @@
+{
+  "id": "525cc887-7881-4b69-ba2e-92c2303f2602",
+  "object": "beer",
+  "name": "Trail Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

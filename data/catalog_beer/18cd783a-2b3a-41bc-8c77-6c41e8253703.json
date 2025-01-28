@@ -1,0 +1,11 @@
+{
+  "id": "18cd783a-2b3a-41bc-8c77-6c41e8253703",
+  "object": "beer",
+  "name": "Replicale Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

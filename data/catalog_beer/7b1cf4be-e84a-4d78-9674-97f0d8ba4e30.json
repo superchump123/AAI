@@ -1,0 +1,11 @@
+{
+  "id": "7b1cf4be-e84a-4d78-9674-97f0d8ba4e30",
+  "object": "beer",
+  "name": "Bolita",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

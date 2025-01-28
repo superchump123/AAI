@@ -1,0 +1,11 @@
+{
+  "id": "0e58cb9a-8b5c-4b60-b622-62c4f954b14f",
+  "object": "beer",
+  "name": "Casa Azul",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

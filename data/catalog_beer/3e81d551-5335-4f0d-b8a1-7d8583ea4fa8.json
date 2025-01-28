@@ -1,0 +1,11 @@
+{
+  "id": "3e81d551-5335-4f0d-b8a1-7d8583ea4fa8",
+  "object": "beer",
+  "name": "Dirty Myrtle DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

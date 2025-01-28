@@ -1,0 +1,11 @@
+{
+  "id": "dc8f6011-0f14-4f37-9ec9-261e883a3527",
+  "object": "beer",
+  "name": "Das Braun Lager",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4fbd4cd6-3acf-4533-bf0d-15af8dd80c44",
+  "object": "beer",
+  "name": "Very Nice Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

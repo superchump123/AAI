@@ -1,0 +1,11 @@
+{
+  "id": "28e7d5c9-f9d6-42d7-81bc-3a22b1ddbadd",
+  "object": "beer",
+  "name": "America's Cup Bermuda Style Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

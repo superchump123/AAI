@@ -1,0 +1,11 @@
+{
+  "id": "df5c959b-8b48-4f86-ad8b-3d70c2958985",
+  "object": "beer",
+  "name": "3rd Anniversary Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

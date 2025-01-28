@@ -1,0 +1,11 @@
+{
+  "id": "24b24f8f-a5e1-4ecf-a048-f21ba96ed487",
+  "object": "beer",
+  "name": "Kasteel Cuv\u00e9e du Chateau",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

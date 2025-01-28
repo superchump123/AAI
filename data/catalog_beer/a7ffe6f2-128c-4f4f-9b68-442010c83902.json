@@ -1,0 +1,11 @@
+{
+  "id": "a7ffe6f2-128c-4f4f-9b68-442010c83902",
+  "object": "beer",
+  "name": "Double Deco",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "102d1b63-d579-4013-9289-7b6812e85e18",
+  "object": "beer",
+  "name": "O'fest (Wormtown Oktoberfest)",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

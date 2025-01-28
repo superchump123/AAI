@@ -1,0 +1,11 @@
+{
+  "id": "c533235a-ed2c-477e-816d-37ecbd1994c7",
+  "object": "beer",
+  "name": "Milwaukee's Best",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

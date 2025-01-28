@@ -1,0 +1,11 @@
+{
+  "id": "d7269ec9-850f-4236-b74a-29db2751971b",
+  "object": "beer",
+  "name": "Summer Time Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

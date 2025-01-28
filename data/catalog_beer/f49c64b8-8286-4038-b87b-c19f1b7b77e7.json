@@ -1,0 +1,11 @@
+{
+  "id": "f49c64b8-8286-4038-b87b-c19f1b7b77e7",
+  "object": "beer",
+  "name": "Loopy Oatmeal Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

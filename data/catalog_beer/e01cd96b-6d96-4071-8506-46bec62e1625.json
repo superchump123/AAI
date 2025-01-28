@@ -1,0 +1,11 @@
+{
+  "id": "e01cd96b-6d96-4071-8506-46bec62e1625",
+  "object": "beer",
+  "name": "Blocktoberfest",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

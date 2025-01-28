@@ -1,0 +1,11 @@
+{
+  "id": "791f1a07-47d3-4443-87d2-51e12518c2f2",
+  "object": "beer",
+  "name": "Crooked Hare",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

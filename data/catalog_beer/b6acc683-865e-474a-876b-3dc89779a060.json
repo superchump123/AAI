@@ -1,0 +1,11 @@
+{
+  "id": "b6acc683-865e-474a-876b-3dc89779a060",
+  "object": "beer",
+  "name": "Kurt's Mile High Malt",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

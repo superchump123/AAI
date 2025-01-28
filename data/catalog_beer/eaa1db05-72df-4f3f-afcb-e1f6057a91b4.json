@@ -1,0 +1,11 @@
+{
+  "id": "eaa1db05-72df-4f3f-afcb-e1f6057a91b4",
+  "object": "beer",
+  "name": "Brewhouse",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

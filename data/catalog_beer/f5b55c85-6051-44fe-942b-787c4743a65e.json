@@ -1,0 +1,11 @@
+{
+  "id": "f5b55c85-6051-44fe-942b-787c4743a65e",
+  "object": "beer",
+  "name": "Cape May Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

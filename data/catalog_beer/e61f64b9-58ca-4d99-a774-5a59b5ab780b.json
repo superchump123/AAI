@@ -1,0 +1,11 @@
+{
+  "id": "e61f64b9-58ca-4d99-a774-5a59b5ab780b",
+  "object": "beer",
+  "name": "STRASSEN KATZE BERLINER WEISSE",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

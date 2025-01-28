@@ -1,0 +1,11 @@
+{
+  "id": "b68aca60-982d-482b-a9d9-895928d0abdf",
+  "object": "beer",
+  "name": "Spring Fever Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

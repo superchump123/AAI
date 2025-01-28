@@ -1,0 +1,11 @@
+{
+  "id": "a21cad2a-284a-44e4-93b0-326af50ef941",
+  "object": "beer",
+  "name": "Extra Dry",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

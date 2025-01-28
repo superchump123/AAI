@@ -1,0 +1,11 @@
+{
+  "id": "1af46c52-a049-4d58-9bac-97211254f61b",
+  "object": "beer",
+  "name": "Kick Start",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e7c554d8-df12-40b0-9914-e47b3206f7d0",
+  "object": "beer",
+  "name": "Baltic 12",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 12.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

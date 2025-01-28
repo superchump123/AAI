@@ -1,0 +1,11 @@
+{
+  "id": "30f95b38-4d9d-4602-874f-31566a3ffb6c",
+  "object": "beer",
+  "name": "Rothaus Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

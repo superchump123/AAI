@@ -1,0 +1,11 @@
+{
+  "id": "99dd9055-7743-499c-be81-6718321e847e",
+  "object": "beer",
+  "name": "Beer Camp: Ginger Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

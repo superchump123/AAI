@@ -1,0 +1,11 @@
+{
+  "id": "6ed992e3-e200-4a6d-ad8f-7d4e5ad22629",
+  "object": "beer",
+  "name": "Obsidian",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

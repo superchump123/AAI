@@ -1,0 +1,11 @@
+{
+  "id": "2a57cd48-6e2c-4b9b-bffe-2a616d3a0243",
+  "object": "beer",
+  "name": "So I Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

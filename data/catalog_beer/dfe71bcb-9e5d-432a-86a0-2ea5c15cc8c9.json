@@ -1,0 +1,11 @@
+{
+  "id": "dfe71bcb-9e5d-432a-86a0-2ea5c15cc8c9",
+  "object": "beer",
+  "name": "Black Chai",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8388f55b-55ec-4cdd-8ad2-785cae261c76",
+  "object": "beer",
+  "name": "Hippias Major",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "71e3b041-e526-49b7-9464-3453a129bf8a",
+  "object": "beer",
+  "name": "Florida Black",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

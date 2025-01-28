@@ -1,0 +1,11 @@
+{
+  "id": "d97bc647-b71c-46dd-821b-0ecc1a696937",
+  "object": "beer",
+  "name": "G6 Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

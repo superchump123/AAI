@@ -1,0 +1,11 @@
+{
+  "id": "d748243e-9c10-419f-8a4d-2ab83f5d3c4a",
+  "object": "beer",
+  "name": "New Oak Racer 5 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36a68ebe-26c8-45e8-87ab-75e594f9ec4e",
+  "object": "beer",
+  "name": "Mudflats Belgian-style Quadrupel",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

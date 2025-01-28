@@ -1,0 +1,11 @@
+{
+  "id": "4e59b470-05e7-4658-b9fb-54f7d655598e",
+  "object": "beer",
+  "name": "Woodchuck Amber",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

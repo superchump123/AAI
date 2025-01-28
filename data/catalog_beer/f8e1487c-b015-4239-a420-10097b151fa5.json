@@ -1,0 +1,11 @@
+{
+  "id": "f8e1487c-b015-4239-a420-10097b151fa5",
+  "object": "beer",
+  "name": "The Czar",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

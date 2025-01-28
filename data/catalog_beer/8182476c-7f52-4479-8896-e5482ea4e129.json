@@ -1,0 +1,11 @@
+{
+  "id": "8182476c-7f52-4479-8896-e5482ea4e129",
+  "object": "beer",
+  "name": "Back in Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 81,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8c360ce1-9377-4843-aa20-0615af9ae00e",
+  "object": "beer",
+  "name": "Very Ill-tempered Gnome",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

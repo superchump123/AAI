@@ -1,0 +1,11 @@
+{
+  "id": "87a8f810-44ab-4bc6-80f4-4337d9b9b043",
+  "object": "beer",
+  "name": "Western Bloc IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

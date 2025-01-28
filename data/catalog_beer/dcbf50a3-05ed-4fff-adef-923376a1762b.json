@@ -1,0 +1,11 @@
+{
+  "id": "dcbf50a3-05ed-4fff-adef-923376a1762b",
+  "object": "beer",
+  "name": "Speciale Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

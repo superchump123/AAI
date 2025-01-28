@@ -1,0 +1,11 @@
+{
+  "id": "e44cccfa-e70c-45d0-8a28-ce2bc7be2fd3",
+  "object": "beer",
+  "name": "Pentagram",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

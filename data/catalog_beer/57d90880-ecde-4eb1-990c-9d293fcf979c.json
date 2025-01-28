@@ -1,0 +1,11 @@
+{
+  "id": "57d90880-ecde-4eb1-990c-9d293fcf979c",
+  "object": "beer",
+  "name": "Batch 7000",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d55a495-f558-43e4-8984-3fddc4247fcc",
+  "object": "beer",
+  "name": "Golden Rey",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7dd2cff6-faa0-4262-acca-6e6bed78b57f",
+  "object": "beer",
+  "name": "Devil's Pitchfork",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

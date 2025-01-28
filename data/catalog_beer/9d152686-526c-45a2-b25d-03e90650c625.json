@@ -1,0 +1,11 @@
+{
+  "id": "9d152686-526c-45a2-b25d-03e90650c625",
+  "object": "beer",
+  "name": "White City",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

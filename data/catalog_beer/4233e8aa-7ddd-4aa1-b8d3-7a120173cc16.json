@@ -1,0 +1,11 @@
+{
+  "id": "4233e8aa-7ddd-4aa1-b8d3-7a120173cc16",
+  "object": "beer",
+  "name": "Saison En Regalia",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

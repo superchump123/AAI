@@ -1,0 +1,11 @@
+{
+  "id": "593210cc-3625-4dc5-b26f-6703fdefa776",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

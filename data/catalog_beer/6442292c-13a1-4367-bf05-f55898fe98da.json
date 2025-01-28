@@ -1,0 +1,11 @@
+{
+  "id": "6442292c-13a1-4367-bf05-f55898fe98da",
+  "object": "beer",
+  "name": "Strong Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

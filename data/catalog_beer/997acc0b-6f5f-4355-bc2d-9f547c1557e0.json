@@ -1,0 +1,11 @@
+{
+  "id": "997acc0b-6f5f-4355-bc2d-9f547c1557e0",
+  "object": "beer",
+  "name": "Brett Safe",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

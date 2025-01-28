@@ -1,0 +1,11 @@
+{
+  "id": "38f3b78d-a98a-4c2a-8ad5-7859b93f2dab",
+  "object": "beer",
+  "name": "Blonde Sour Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

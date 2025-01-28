@@ -1,0 +1,11 @@
+{
+  "id": "8c20fdfa-a137-45c8-be52-caf53290b818",
+  "object": "beer",
+  "name": "Red Tape Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

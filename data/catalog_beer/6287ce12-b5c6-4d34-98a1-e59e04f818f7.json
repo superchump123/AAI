@@ -1,0 +1,11 @@
+{
+  "id": "6287ce12-b5c6-4d34-98a1-e59e04f818f7",
+  "object": "beer",
+  "name": "The Fitch Cask",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

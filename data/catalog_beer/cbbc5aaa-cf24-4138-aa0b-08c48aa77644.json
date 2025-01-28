@@ -1,0 +1,11 @@
+{
+  "id": "cbbc5aaa-cf24-4138-aa0b-08c48aa77644",
+  "object": "beer",
+  "name": "Golden Ale 3",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

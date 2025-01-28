@@ -1,0 +1,11 @@
+{
+  "id": "d9826bdb-b018-4e64-a615-38c441303957",
+  "object": "beer",
+  "name": "Prior 8",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c53c0aec-83f3-4f81-bd13-5eb9a5495915",
+  "object": "beer",
+  "name": "FLOSS Kriek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

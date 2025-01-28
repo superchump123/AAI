@@ -1,0 +1,11 @@
+{
+  "id": "53a87280-2b00-4bdf-9c5e-532749d13245",
+  "object": "beer",
+  "name": "Lumpy",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

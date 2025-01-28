@@ -1,0 +1,11 @@
+{
+  "id": "bd4d73ea-e573-45b3-b038-d542769d0ff4",
+  "object": "beer",
+  "name": "Cow Palace Scotch Ale 1998",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "063239ae-9465-451a-9c37-daff3584ad8e",
+  "object": "beer",
+  "name": "Edge",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

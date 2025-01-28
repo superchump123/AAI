@@ -1,0 +1,11 @@
+{
+  "id": "ffd2fcd9-dec5-4b3c-b826-f9886945bbe4",
+  "object": "beer",
+  "name": "Order in the Port",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

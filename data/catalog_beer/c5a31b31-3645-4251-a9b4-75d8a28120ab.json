@@ -1,0 +1,11 @@
+{
+  "id": "c5a31b31-3645-4251-a9b4-75d8a28120ab",
+  "object": "beer",
+  "name": "Cherry Bourbon",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c88dbc5-9683-41ac-abba-bd9324a7371c",
+  "object": "beer",
+  "name": "Hop Overboard",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

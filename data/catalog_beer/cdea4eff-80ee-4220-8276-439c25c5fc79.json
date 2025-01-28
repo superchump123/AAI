@@ -1,0 +1,11 @@
+{
+  "id": "cdea4eff-80ee-4220-8276-439c25c5fc79",
+  "object": "beer",
+  "name": "Foxy Blond Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

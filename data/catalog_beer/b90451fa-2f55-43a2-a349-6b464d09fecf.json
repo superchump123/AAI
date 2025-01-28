@@ -1,0 +1,11 @@
+{
+  "id": "b90451fa-2f55-43a2-a349-6b464d09fecf",
+  "object": "beer",
+  "name": "Summer Grifter",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

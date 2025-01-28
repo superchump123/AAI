@@ -1,0 +1,11 @@
+{
+  "id": "e058a756-ebd9-4d71-8ada-00c480439934",
+  "object": "beer",
+  "name": "Blueberry Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

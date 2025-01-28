@@ -1,0 +1,11 @@
+{
+  "id": "18f80511-c955-4e1c-b166-47d5ea9e9c62",
+  "object": "beer",
+  "name": "Kentucky Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

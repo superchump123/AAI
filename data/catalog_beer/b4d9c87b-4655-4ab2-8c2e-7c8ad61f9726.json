@@ -1,0 +1,11 @@
+{
+  "id": "b4d9c87b-4655-4ab2-8c2e-7c8ad61f9726",
+  "object": "beer",
+  "name": "Kanu",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

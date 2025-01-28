@@ -1,0 +1,11 @@
+{
+  "id": "bc6fef80-45f7-418d-ae4e-d7e918f8371d",
+  "object": "beer",
+  "name": "Katz Pis",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

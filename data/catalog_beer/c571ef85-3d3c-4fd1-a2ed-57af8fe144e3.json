@@ -1,0 +1,11 @@
+{
+  "id": "c571ef85-3d3c-4fd1-a2ed-57af8fe144e3",
+  "object": "beer",
+  "name": "Second Coming",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

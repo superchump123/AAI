@@ -1,0 +1,11 @@
+{
+  "id": "83873517-0f4a-476d-b24d-cd55d425c952",
+  "object": "beer",
+  "name": "Vanilla Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

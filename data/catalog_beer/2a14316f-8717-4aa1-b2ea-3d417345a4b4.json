@@ -1,0 +1,11 @@
+{
+  "id": "2a14316f-8717-4aa1-b2ea-3d417345a4b4",
+  "object": "beer",
+  "name": "Featherweight Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

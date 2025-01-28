@@ -1,0 +1,11 @@
+{
+  "id": "baa694b0-9f3a-49ac-9b07-0758daf2c6b2",
+  "object": "beer",
+  "name": "Thy Classic",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

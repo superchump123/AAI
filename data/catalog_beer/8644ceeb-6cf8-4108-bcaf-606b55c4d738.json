@@ -1,0 +1,11 @@
+{
+  "id": "8644ceeb-6cf8-4108-bcaf-606b55c4d738",
+  "object": "beer",
+  "name": "Reichenbrander Bockbier",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

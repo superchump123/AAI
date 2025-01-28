@@ -1,0 +1,11 @@
+{
+  "id": "0eafaab6-81ac-49a0-ba75-7d335a20b1c7",
+  "object": "beer",
+  "name": "Meyer Lemon Berliner Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

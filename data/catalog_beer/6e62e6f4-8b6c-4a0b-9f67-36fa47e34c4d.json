@@ -1,0 +1,11 @@
+{
+  "id": "6e62e6f4-8b6c-4a0b-9f67-36fa47e34c4d",
+  "object": "beer",
+  "name": "Bock of the Future",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

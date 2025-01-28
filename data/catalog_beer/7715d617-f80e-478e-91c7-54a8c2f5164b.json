@@ -1,0 +1,11 @@
+{
+  "id": "7715d617-f80e-478e-91c7-54a8c2f5164b",
+  "object": "beer",
+  "name": "Singing Birds",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

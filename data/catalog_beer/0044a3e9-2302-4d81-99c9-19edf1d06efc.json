@@ -1,0 +1,11 @@
+{
+  "id": "0044a3e9-2302-4d81-99c9-19edf1d06efc",
+  "object": "beer",
+  "name": "Eastside",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

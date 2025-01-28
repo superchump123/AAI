@@ -1,0 +1,11 @@
+{
+  "id": "dea94d71-f219-4bc0-a84a-9b471297b37a",
+  "object": "beer",
+  "name": "Sorry Chicky",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.3,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

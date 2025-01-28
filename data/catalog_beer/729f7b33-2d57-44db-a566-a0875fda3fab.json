@@ -1,0 +1,11 @@
+{
+  "id": "729f7b33-2d57-44db-a566-a0875fda3fab",
+  "object": "beer",
+  "name": "Nooky Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4c5908e0-3d33-4d91-9fad-0d22268443b3",
+  "object": "beer",
+  "name": "Troll Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

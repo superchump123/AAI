@@ -1,0 +1,11 @@
+{
+  "id": "fbf191dd-2ce2-4799-ba17-c111491945cc",
+  "object": "beer",
+  "name": "Supernova",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

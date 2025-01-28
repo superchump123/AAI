@@ -1,0 +1,11 @@
+{
+  "id": "af24afa1-689a-41ea-b0cc-ae590b0c64da",
+  "object": "beer",
+  "name": "Sunwise",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

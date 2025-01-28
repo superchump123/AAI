@@ -1,0 +1,11 @@
+{
+  "id": "900f130a-b674-40ee-99f1-6c8d433a7e24",
+  "object": "beer",
+  "name": "Shenandoah",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

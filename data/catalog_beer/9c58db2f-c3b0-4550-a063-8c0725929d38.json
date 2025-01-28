@@ -1,0 +1,11 @@
+{
+  "id": "9c58db2f-c3b0-4550-a063-8c0725929d38",
+  "object": "beer",
+  "name": "Vanguard IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

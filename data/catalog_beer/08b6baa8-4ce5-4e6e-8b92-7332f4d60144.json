@@ -1,0 +1,11 @@
+{
+  "id": "08b6baa8-4ce5-4e6e-8b92-7332f4d60144",
+  "object": "beer",
+  "name": "Luna Weizen",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

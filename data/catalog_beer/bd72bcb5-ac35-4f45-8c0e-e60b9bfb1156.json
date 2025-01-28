@@ -1,0 +1,11 @@
+{
+  "id": "bd72bcb5-ac35-4f45-8c0e-e60b9bfb1156",
+  "object": "beer",
+  "name": "Apollo SMaSH",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

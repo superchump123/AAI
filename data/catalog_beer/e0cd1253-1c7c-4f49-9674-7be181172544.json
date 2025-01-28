@@ -1,0 +1,11 @@
+{
+  "id": "e0cd1253-1c7c-4f49-9674-7be181172544",
+  "object": "beer",
+  "name": "Jack the Quaffer Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

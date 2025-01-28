@@ -1,0 +1,11 @@
+{
+  "id": "12fc75d1-d607-47cf-bce6-eb766efa3929",
+  "object": "beer",
+  "name": "Pensacola Bay's",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

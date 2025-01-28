@@ -1,0 +1,11 @@
+{
+  "id": "2af73f84-ccec-46f8-84d9-c2cb74f8d305",
+  "object": "beer",
+  "name": "Grazer",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

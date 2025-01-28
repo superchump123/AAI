@@ -1,0 +1,11 @@
+{
+  "id": "b3d8c889-5912-4115-a5fd-cc85d9d560e3",
+  "object": "beer",
+  "name": "Blitz Cherry",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

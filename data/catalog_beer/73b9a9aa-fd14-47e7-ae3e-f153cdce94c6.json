@@ -1,0 +1,11 @@
+{
+  "id": "73b9a9aa-fd14-47e7-ae3e-f153cdce94c6",
+  "object": "beer",
+  "name": "Crossroads",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

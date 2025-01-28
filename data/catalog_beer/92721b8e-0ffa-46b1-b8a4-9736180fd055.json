@@ -1,0 +1,11 @@
+{
+  "id": "92721b8e-0ffa-46b1-b8a4-9736180fd055",
+  "object": "beer",
+  "name": "PMX",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

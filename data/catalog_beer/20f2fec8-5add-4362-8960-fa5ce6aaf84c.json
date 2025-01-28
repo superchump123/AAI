@@ -1,0 +1,11 @@
+{
+  "id": "20f2fec8-5add-4362-8960-fa5ce6aaf84c",
+  "object": "beer",
+  "name": "Son of Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

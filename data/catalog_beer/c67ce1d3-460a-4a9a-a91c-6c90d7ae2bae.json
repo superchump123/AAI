@@ -1,0 +1,11 @@
+{
+  "id": "c67ce1d3-460a-4a9a-a91c-6c90d7ae2bae",
+  "object": "beer",
+  "name": "Blatz Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

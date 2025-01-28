@@ -1,0 +1,11 @@
+{
+  "id": "dae89c60-1d20-4447-8591-d0f5bc68f9eb",
+  "object": "beer",
+  "name": "Hop Wallop",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

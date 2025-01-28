@@ -1,0 +1,11 @@
+{
+  "id": "b09d45b7-85a4-4989-abaa-7125c418a2c0",
+  "object": "beer",
+  "name": "Newtonian",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

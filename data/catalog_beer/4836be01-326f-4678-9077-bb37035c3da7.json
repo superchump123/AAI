@@ -1,0 +1,11 @@
+{
+  "id": "4836be01-326f-4678-9077-bb37035c3da7",
+  "object": "beer",
+  "name": "Day Walker",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

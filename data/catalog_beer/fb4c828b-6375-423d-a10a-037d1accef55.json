@@ -1,0 +1,11 @@
+{
+  "id": "fb4c828b-6375-423d-a10a-037d1accef55",
+  "object": "beer",
+  "name": "Wet Hop Harvest Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

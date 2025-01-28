@@ -1,0 +1,11 @@
+{
+  "id": "b54dfa64-d691-4a8f-a81c-7ac9c77fdfef",
+  "object": "beer",
+  "name": "Red Lion Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

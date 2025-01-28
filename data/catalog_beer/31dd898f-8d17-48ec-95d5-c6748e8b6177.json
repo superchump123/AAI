@@ -1,0 +1,11 @@
+{
+  "id": "31dd898f-8d17-48ec-95d5-c6748e8b6177",
+  "object": "beer",
+  "name": "Tour Biere",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

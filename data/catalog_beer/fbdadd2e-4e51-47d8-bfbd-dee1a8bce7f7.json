@@ -1,0 +1,11 @@
+{
+  "id": "fbdadd2e-4e51-47d8-bfbd-dee1a8bce7f7",
+  "object": "beer",
+  "name": "Spruce Beersteen",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

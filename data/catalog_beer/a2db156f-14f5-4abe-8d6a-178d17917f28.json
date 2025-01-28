@@ -1,0 +1,11 @@
+{
+  "id": "a2db156f-14f5-4abe-8d6a-178d17917f28",
+  "object": "beer",
+  "name": "Undone IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

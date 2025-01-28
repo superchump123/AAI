@@ -1,0 +1,11 @@
+{
+  "id": "bba7b3e9-7397-40cc-94cd-027ba5aacf6b",
+  "object": "beer",
+  "name": "Wilshire Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

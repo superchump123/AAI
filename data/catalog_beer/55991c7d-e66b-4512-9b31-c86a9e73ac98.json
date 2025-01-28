@@ -1,0 +1,11 @@
+{
+  "id": "55991c7d-e66b-4512-9b31-c86a9e73ac98",
+  "object": "beer",
+  "name": "Nectar of the Hops",
+  "style": "Semi-Sweet Mead",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

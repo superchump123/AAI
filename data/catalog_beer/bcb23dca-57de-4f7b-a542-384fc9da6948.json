@@ -1,0 +1,11 @@
+{
+  "id": "bcb23dca-57de-4f7b-a542-384fc9da6948",
+  "object": "beer",
+  "name": "Big Nuggets IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

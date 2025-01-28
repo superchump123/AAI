@@ -1,0 +1,11 @@
+{
+  "id": "a79896a8-47e9-4be4-a91d-2edc23a21ce8",
+  "object": "beer",
+  "name": "Lille Palle",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

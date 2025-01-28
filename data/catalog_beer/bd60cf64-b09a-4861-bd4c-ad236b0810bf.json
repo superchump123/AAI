@@ -1,0 +1,11 @@
+{
+  "id": "bd60cf64-b09a-4861-bd4c-ad236b0810bf",
+  "object": "beer",
+  "name": "Cerveza Palax",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

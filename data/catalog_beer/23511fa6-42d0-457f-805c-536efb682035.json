@@ -1,0 +1,11 @@
+{
+  "id": "23511fa6-42d0-457f-805c-536efb682035",
+  "object": "beer",
+  "name": "Warrior IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

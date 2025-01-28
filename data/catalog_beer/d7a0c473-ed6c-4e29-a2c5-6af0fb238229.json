@@ -1,0 +1,11 @@
+{
+  "id": "d7a0c473-ed6c-4e29-a2c5-6af0fb238229",
+  "object": "beer",
+  "name": "Dirty Frank Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f92e634-ec1a-4b2a-9faf-a2f351e887a4",
+  "object": "beer",
+  "name": "Black Mamba",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ad623e3-bc8c-415a-be65-90807d85cdba",
+  "object": "beer",
+  "name": "Cross Eye Rye",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

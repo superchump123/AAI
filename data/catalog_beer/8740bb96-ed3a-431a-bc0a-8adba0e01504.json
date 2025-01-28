@@ -1,0 +1,11 @@
+{
+  "id": "8740bb96-ed3a-431a-bc0a-8adba0e01504",
+  "object": "beer",
+  "name": "WhiteWater Black Beer",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

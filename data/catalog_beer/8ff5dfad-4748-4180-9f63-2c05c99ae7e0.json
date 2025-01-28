@@ -1,0 +1,11 @@
+{
+  "id": "8ff5dfad-4748-4180-9f63-2c05c99ae7e0",
+  "object": "beer",
+  "name": "Lord Nelson",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

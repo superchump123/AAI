@@ -1,0 +1,11 @@
+{
+  "id": "42433231-bce1-4c24-bc6e-eee8a5f75112",
+  "object": "beer",
+  "name": "Matt's Red Eye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

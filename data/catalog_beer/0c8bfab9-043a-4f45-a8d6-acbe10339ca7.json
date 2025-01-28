@@ -1,0 +1,11 @@
+{
+  "id": "0c8bfab9-043a-4f45-a8d6-acbe10339ca7",
+  "object": "beer",
+  "name": "The Griz Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

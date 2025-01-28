@@ -1,0 +1,11 @@
+{
+  "id": "372ab981-100c-4748-ae5c-cd8afb85043f",
+  "object": "beer",
+  "name": "Fall Summit Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

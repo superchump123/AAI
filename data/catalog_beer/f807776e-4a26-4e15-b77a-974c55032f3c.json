@@ -1,0 +1,11 @@
+{
+  "id": "f807776e-4a26-4e15-b77a-974c55032f3c",
+  "object": "beer",
+  "name": "House Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

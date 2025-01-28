@@ -1,0 +1,11 @@
+{
+  "id": "c6f06cb8-622b-4847-ae1e-7c61e81fac60",
+  "object": "beer",
+  "name": "Harvester Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d0064791-d85f-4a86-8b6f-12469a9dc9f1",
+  "object": "beer",
+  "name": "Snow Day",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

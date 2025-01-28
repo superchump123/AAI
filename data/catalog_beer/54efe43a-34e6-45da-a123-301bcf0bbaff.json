@@ -1,0 +1,11 @@
+{
+  "id": "54efe43a-34e6-45da-a123-301bcf0bbaff",
+  "object": "beer",
+  "name": "Dim Sum",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

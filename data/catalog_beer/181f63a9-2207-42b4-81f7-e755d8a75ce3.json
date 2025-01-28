@@ -1,0 +1,11 @@
+{
+  "id": "181f63a9-2207-42b4-81f7-e755d8a75ce3",
+  "object": "beer",
+  "name": "Western IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

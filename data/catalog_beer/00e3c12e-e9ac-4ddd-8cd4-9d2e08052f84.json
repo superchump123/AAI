@@ -1,0 +1,11 @@
+{
+  "id": "00e3c12e-e9ac-4ddd-8cd4-9d2e08052f84",
+  "object": "beer",
+  "name": "Schwartz",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

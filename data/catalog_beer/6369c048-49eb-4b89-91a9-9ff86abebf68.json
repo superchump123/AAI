@@ -1,0 +1,11 @@
+{
+  "id": "6369c048-49eb-4b89-91a9-9ff86abebf68",
+  "object": "beer",
+  "name": "Kein Lacheln Mein Nachbar",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

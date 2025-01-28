@@ -1,0 +1,11 @@
+{
+  "id": "bbb3ab50-05c6-4b2f-9837-a21ecf32f603",
+  "object": "beer",
+  "name": "Weiss-Blau",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

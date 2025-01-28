@@ -1,0 +1,11 @@
+{
+  "id": "ac0ed740-37f9-43da-8b9c-338dbbc76db9",
+  "object": "beer",
+  "name": "Saison De Silas",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

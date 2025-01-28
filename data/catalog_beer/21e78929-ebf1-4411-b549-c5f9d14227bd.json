@@ -1,0 +1,11 @@
+{
+  "id": "21e78929-ebf1-4411-b549-c5f9d14227bd",
+  "object": "beer",
+  "name": "Nuck Futter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

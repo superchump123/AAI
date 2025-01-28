@@ -1,0 +1,11 @@
+{
+  "id": "03f24be5-15fe-49e8-8ee9-84577fb810c4",
+  "object": "beer",
+  "name": "Benson'Ight",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

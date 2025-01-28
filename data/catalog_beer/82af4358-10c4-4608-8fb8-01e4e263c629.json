@@ -1,0 +1,11 @@
+{
+  "id": "82af4358-10c4-4608-8fb8-01e4e263c629",
+  "object": "beer",
+  "name": "Stellar",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

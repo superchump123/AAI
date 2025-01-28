@@ -1,0 +1,11 @@
+{
+  "id": "8edad66a-5c75-4b56-bc4a-c54350e46f9e",
+  "object": "beer",
+  "name": "Cernunnos",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

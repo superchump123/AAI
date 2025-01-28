@@ -1,0 +1,11 @@
+{
+  "id": "b2f96a30-50d4-46c0-9aa1-502a7cb6aa20",
+  "object": "beer",
+  "name": "Bourbon Barleywine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

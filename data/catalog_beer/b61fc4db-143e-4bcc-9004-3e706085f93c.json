@@ -1,0 +1,11 @@
+{
+  "id": "b61fc4db-143e-4bcc-9004-3e706085f93c",
+  "object": "beer",
+  "name": "Jublee X",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

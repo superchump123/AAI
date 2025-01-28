@@ -1,0 +1,11 @@
+{
+  "id": "bde77a22-32fa-445e-a83c-1d092c27b67d",
+  "object": "beer",
+  "name": "Dock Time Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

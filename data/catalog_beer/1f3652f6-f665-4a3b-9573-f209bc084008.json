@@ -1,0 +1,11 @@
+{
+  "id": "1f3652f6-f665-4a3b-9573-f209bc084008",
+  "object": "beer",
+  "name": "Tundrabeary Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

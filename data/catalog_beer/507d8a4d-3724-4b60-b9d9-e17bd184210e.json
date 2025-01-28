@@ -1,0 +1,11 @@
+{
+  "id": "507d8a4d-3724-4b60-b9d9-e17bd184210e",
+  "object": "beer",
+  "name": "Throwback Triple Double",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

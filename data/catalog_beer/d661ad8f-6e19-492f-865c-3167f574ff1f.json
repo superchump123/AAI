@@ -1,0 +1,11 @@
+{
+  "id": "d661ad8f-6e19-492f-865c-3167f574ff1f",
+  "object": "beer",
+  "name": "Kentucky Home",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

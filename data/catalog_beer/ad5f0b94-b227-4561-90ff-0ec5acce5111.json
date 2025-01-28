@@ -1,0 +1,11 @@
+{
+  "id": "ad5f0b94-b227-4561-90ff-0ec5acce5111",
+  "object": "beer",
+  "name": "SUBduction IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

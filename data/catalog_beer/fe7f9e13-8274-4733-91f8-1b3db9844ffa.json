@@ -1,0 +1,11 @@
+{
+  "id": "fe7f9e13-8274-4733-91f8-1b3db9844ffa",
+  "object": "beer",
+  "name": "Sour Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

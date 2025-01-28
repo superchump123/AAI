@@ -1,0 +1,11 @@
+{
+  "id": "0fe58758-56eb-46f1-a91c-9e62f8def03d",
+  "object": "beer",
+  "name": "Autumn Apple",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c981d055-8ccc-4c32-9f29-7deaf2e4397e",
+  "object": "beer",
+  "name": "Giggly Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

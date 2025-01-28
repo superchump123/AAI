@@ -1,0 +1,11 @@
+{
+  "id": "8babfb23-d7e8-4526-8090-8f9f3f3e4b5b",
+  "object": "beer",
+  "name": "Hathor Red Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

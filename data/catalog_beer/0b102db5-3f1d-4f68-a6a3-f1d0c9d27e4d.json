@@ -1,0 +1,11 @@
+{
+  "id": "0b102db5-3f1d-4f68-a6a3-f1d0c9d27e4d",
+  "object": "beer",
+  "name": "Gambrinus Premium",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

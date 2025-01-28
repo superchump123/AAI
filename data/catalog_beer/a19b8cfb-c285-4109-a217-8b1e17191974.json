@@ -1,0 +1,11 @@
+{
+  "id": "a19b8cfb-c285-4109-a217-8b1e17191974",
+  "object": "beer",
+  "name": "Donkey Punch",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

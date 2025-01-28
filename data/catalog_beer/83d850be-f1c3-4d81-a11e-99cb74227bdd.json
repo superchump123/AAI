@@ -1,0 +1,11 @@
+{
+  "id": "83d850be-f1c3-4d81-a11e-99cb74227bdd",
+  "object": "beer",
+  "name": "Cuv\u00e9e de Ren\u00e9",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

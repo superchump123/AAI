@@ -1,0 +1,11 @@
+{
+  "id": "74c9e6fc-dedf-4798-9f8d-c52cdbfb07f0",
+  "object": "beer",
+  "name": "Harvest 17",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

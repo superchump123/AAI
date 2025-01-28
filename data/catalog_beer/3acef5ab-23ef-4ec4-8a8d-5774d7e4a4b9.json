@@ -1,0 +1,11 @@
+{
+  "id": "3acef5ab-23ef-4ec4-8a8d-5774d7e4a4b9",
+  "object": "beer",
+  "name": "Coffee",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

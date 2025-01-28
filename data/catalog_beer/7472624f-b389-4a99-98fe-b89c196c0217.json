@@ -1,0 +1,11 @@
+{
+  "id": "7472624f-b389-4a99-98fe-b89c196c0217",
+  "object": "beer",
+  "name": "Mango Dream",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

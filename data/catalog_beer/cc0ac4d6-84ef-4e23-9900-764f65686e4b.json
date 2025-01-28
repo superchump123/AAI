@@ -1,0 +1,11 @@
+{
+  "id": "cc0ac4d6-84ef-4e23-9900-764f65686e4b",
+  "object": "beer",
+  "name": "Dry-Hopped Farmhouse Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

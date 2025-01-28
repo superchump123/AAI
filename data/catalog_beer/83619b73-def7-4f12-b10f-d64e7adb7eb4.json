@@ -1,0 +1,11 @@
+{
+  "id": "83619b73-def7-4f12-b10f-d64e7adb7eb4",
+  "object": "beer",
+  "name": "Over/ Under Amber",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

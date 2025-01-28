@@ -1,0 +1,11 @@
+{
+  "id": "b9d9a0d4-a223-475d-8662-287c8133bc05",
+  "object": "beer",
+  "name": "Sterling Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

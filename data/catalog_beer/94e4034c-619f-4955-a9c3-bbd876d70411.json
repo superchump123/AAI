@@ -1,0 +1,11 @@
+{
+  "id": "94e4034c-619f-4955-a9c3-bbd876d70411",
+  "object": "beer",
+  "name": "Top Banana",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

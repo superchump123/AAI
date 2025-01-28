@@ -1,0 +1,11 @@
+{
+  "id": "efc187fd-135e-4c8f-81d5-e4b3b3953670",
+  "object": "beer",
+  "name": "Wild Mild Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

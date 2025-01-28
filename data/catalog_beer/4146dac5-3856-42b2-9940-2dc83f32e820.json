@@ -1,0 +1,11 @@
+{
+  "id": "4146dac5-3856-42b2-9940-2dc83f32e820",
+  "object": "beer",
+  "name": "Saison de Beaver",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

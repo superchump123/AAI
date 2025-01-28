@@ -1,0 +1,11 @@
+{
+  "id": "b8cac326-e713-45dd-9576-e3d438780d56",
+  "object": "beer",
+  "name": "Tangerine Dream",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

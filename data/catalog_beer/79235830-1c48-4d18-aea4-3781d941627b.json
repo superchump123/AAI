@@ -1,0 +1,11 @@
+{
+  "id": "79235830-1c48-4d18-aea4-3781d941627b",
+  "object": "beer",
+  "name": "Best in Show",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

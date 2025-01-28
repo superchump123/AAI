@@ -1,0 +1,11 @@
+{
+  "id": "32651f07-922d-494d-a9d3-d978ddf166b2",
+  "object": "beer",
+  "name": "Old Slugger Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

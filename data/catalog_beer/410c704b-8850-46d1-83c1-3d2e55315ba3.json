@@ -1,0 +1,11 @@
+{
+  "id": "410c704b-8850-46d1-83c1-3d2e55315ba3",
+  "object": "beer",
+  "name": "Tropical Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

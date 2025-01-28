@@ -1,0 +1,11 @@
+{
+  "id": "0d47ea41-8baf-4958-bdbc-66b663da814b",
+  "object": "beer",
+  "name": "Avena Sativa",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

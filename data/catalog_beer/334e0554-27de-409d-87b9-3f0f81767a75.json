@@ -1,0 +1,11 @@
+{
+  "id": "334e0554-27de-409d-87b9-3f0f81767a75",
+  "object": "beer",
+  "name": "Super Bitter",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e70e276f-2497-41df-b827-ee2e5e1c8fe0",
+  "object": "beer",
+  "name": "Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "920b8b42-c9be-4090-921f-37d5715204ef",
+  "object": "beer",
+  "name": "California Oak",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

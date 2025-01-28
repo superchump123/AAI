@@ -1,0 +1,11 @@
+{
+  "id": "00d49107-770d-40f0-a8d8-cf5cf7dabce7",
+  "object": "beer",
+  "name": "The Hoppy Homunculus Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

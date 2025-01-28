@@ -1,0 +1,11 @@
+{
+  "id": "62722eae-4025-4ea7-850c-33b7b0184942",
+  "object": "beer",
+  "name": "La Vie en Rose",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

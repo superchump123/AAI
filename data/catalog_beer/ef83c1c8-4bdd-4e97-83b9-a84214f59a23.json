@@ -1,0 +1,11 @@
+{
+  "id": "ef83c1c8-4bdd-4e97-83b9-a84214f59a23",
+  "object": "beer",
+  "name": "Thai Fi",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

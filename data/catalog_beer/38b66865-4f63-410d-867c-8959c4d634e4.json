@@ -1,0 +1,11 @@
+{
+  "id": "38b66865-4f63-410d-867c-8959c4d634e4",
+  "object": "beer",
+  "name": "The Washboard",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b1a3fbaf-25ef-4e6d-b25b-f963302e1982",
+  "object": "beer",
+  "name": "Epidote ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

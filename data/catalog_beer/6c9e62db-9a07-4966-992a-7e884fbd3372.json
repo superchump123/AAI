@@ -1,0 +1,11 @@
+{
+  "id": "6c9e62db-9a07-4966-992a-7e884fbd3372",
+  "object": "beer",
+  "name": "A Beer Named Sue",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

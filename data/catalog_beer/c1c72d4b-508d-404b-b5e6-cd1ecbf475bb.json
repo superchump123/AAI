@@ -1,0 +1,11 @@
+{
+  "id": "c1c72d4b-508d-404b-b5e6-cd1ecbf475bb",
+  "object": "beer",
+  "name": "Vlakvark",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

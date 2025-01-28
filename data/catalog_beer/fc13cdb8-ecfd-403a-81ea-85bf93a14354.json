@@ -1,0 +1,11 @@
+{
+  "id": "fc13cdb8-ecfd-403a-81ea-85bf93a14354",
+  "object": "beer",
+  "name": "Brush Fit Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

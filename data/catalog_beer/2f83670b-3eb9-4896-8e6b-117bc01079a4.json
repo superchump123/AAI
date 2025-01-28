@@ -1,0 +1,11 @@
+{
+  "id": "2f83670b-3eb9-4896-8e6b-117bc01079a4",
+  "object": "beer",
+  "name": "Seven Sips Belgian Strong Ale",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

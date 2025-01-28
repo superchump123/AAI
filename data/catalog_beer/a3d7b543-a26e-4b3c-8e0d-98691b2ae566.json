@@ -1,0 +1,11 @@
+{
+  "id": "a3d7b543-a26e-4b3c-8e0d-98691b2ae566",
+  "object": "beer",
+  "name": "Spandauer Potz-Blitz-Bier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

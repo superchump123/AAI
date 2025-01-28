@@ -1,0 +1,11 @@
+{
+  "id": "5e8f18cd-f24f-4232-b771-b0d1df9254b9",
+  "object": "beer",
+  "name": "Mash & Coconut",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

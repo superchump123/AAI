@@ -1,0 +1,11 @@
+{
+  "id": "57b106c7-ad1c-4a99-8838-85ff7fc47d18",
+  "object": "beer",
+  "name": "Double Dawn",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

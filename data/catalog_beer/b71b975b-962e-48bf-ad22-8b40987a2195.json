@@ -1,0 +1,11 @@
+{
+  "id": "b71b975b-962e-48bf-ad22-8b40987a2195",
+  "object": "beer",
+  "name": "Brown Willie",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

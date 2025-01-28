@@ -1,0 +1,11 @@
+{
+  "id": "3d15cfa8-2d60-41f8-aec2-41f242d8d950",
+  "object": "beer",
+  "name": "Paddle Wheeler",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

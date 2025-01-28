@@ -1,0 +1,11 @@
+{
+  "id": "bc51b8bd-42ac-4bd3-ae6d-d1ae3824cf0d",
+  "object": "beer",
+  "name": "General Lenoir's Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

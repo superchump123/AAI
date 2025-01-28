@@ -1,0 +1,11 @@
+{
+  "id": "f78d9be7-da44-4c0f-9615-dae2fb067bde",
+  "object": "beer",
+  "name": "Rising Trout",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e8804c94-bcac-4377-9eb4-9563b3173eb5",
+  "object": "beer",
+  "name": "Coffee Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b94924d-3dd9-4550-aa38-9121be845732",
+  "object": "beer",
+  "name": "Art's Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

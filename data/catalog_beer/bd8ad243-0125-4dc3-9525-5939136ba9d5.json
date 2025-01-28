@@ -1,0 +1,11 @@
+{
+  "id": "bd8ad243-0125-4dc3-9525-5939136ba9d5",
+  "object": "beer",
+  "name": "Woodshed",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

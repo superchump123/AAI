@@ -1,0 +1,11 @@
+{
+  "id": "e7fa53ae-3562-498f-a96e-b6c4229162fa",
+  "object": "beer",
+  "name": "Dream Girl",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

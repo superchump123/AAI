@@ -1,0 +1,11 @@
+{
+  "id": "e8f34a8f-7788-46dc-8cfa-5674633fc637",
+  "object": "beer",
+  "name": "Vondel",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

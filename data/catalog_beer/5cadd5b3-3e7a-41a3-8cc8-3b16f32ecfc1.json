@@ -1,0 +1,11 @@
+{
+  "id": "5cadd5b3-3e7a-41a3-8cc8-3b16f32ecfc1",
+  "object": "beer",
+  "name": "Hemp Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

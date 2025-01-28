@@ -1,0 +1,11 @@
+{
+  "id": "d7ea0920-75c2-4f80-87ab-8e5eb8f490d1",
+  "object": "beer",
+  "name": "B.T. Oktoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

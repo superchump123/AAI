@@ -1,0 +1,11 @@
+{
+  "id": "0ba80934-92ac-48f7-8717-95dd44b49123",
+  "object": "beer",
+  "name": "Rapture",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

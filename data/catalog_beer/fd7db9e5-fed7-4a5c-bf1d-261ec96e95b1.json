@@ -1,0 +1,11 @@
+{
+  "id": "fd7db9e5-fed7-4a5c-bf1d-261ec96e95b1",
+  "object": "beer",
+  "name": "Molotov Cocktail",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

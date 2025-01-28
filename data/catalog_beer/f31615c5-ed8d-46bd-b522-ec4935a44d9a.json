@@ -1,0 +1,11 @@
+{
+  "id": "f31615c5-ed8d-46bd-b522-ec4935a44d9a",
+  "object": "beer",
+  "name": "Bristlecone Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

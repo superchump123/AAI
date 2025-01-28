@@ -1,0 +1,11 @@
+{
+  "id": "e03ceb4e-5049-495a-bb5b-e58509ed0e8b",
+  "object": "beer",
+  "name": "Happy Face Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

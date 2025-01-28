@@ -1,0 +1,11 @@
+{
+  "id": "facfbe7d-d43a-4690-8089-328cbb5fd723",
+  "object": "beer",
+  "name": "Trilogy 3",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

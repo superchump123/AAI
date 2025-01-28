@@ -1,0 +1,11 @@
+{
+  "id": "f245d155-e002-473a-b45f-633b8eab347c",
+  "object": "beer",
+  "name": "Inebriator",
+  "style": "Bamberg-Style Bock Rauchbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

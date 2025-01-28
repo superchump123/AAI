@@ -1,0 +1,11 @@
+{
+  "id": "93b0ff1d-36a1-4bac-97a7-7d1167cd11d3",
+  "object": "beer",
+  "name": "Harp Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

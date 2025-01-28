@@ -1,0 +1,11 @@
+{
+  "id": "787efb1f-c8f2-4871-9fc4-a928750977ce",
+  "object": "beer",
+  "name": "Special Hoperations",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "980b03e8-3d27-479d-bc38-3165c5479139",
+  "object": "beer",
+  "name": "Roggenbier",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

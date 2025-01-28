@@ -1,0 +1,11 @@
+{
+  "id": "cdedb63c-8810-4794-ad94-a90f9be55a91",
+  "object": "beer",
+  "name": "Ray's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

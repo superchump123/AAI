@@ -1,0 +1,11 @@
+{
+  "id": "6bc531e1-d597-4c58-bc38-78998688c9ce",
+  "object": "beer",
+  "name": "Pile of Face",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

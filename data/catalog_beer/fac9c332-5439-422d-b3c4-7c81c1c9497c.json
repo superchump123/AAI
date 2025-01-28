@@ -1,0 +1,11 @@
+{
+  "id": "fac9c332-5439-422d-b3c4-7c81c1c9497c",
+  "object": "beer",
+  "name": "Doom",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

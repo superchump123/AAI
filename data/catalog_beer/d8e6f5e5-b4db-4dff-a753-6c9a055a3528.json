@@ -1,0 +1,11 @@
+{
+  "id": "d8e6f5e5-b4db-4dff-a753-6c9a055a3528",
+  "object": "beer",
+  "name": "Dark Corner",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

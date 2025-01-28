@@ -1,0 +1,11 @@
+{
+  "id": "88f4b82e-fb9d-4a25-bd6c-755af6ee7b10",
+  "object": "beer",
+  "name": "Looking Glass Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4fa94990-42fd-494d-839f-f22a8650f6ea",
+  "object": "beer",
+  "name": "Skully Red IPA",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

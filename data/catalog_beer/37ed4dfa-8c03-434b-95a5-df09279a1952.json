@@ -1,0 +1,11 @@
+{
+  "id": "37ed4dfa-8c03-434b-95a5-df09279a1952",
+  "object": "beer",
+  "name": "Citrus Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

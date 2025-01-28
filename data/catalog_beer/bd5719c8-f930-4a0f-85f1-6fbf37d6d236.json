@@ -1,0 +1,11 @@
+{
+  "id": "bd5719c8-f930-4a0f-85f1-6fbf37d6d236",
+  "object": "beer",
+  "name": "Beach St. Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "16270eec-ab7a-4b06-bfd3-20400246fcde",
+  "object": "beer",
+  "name": "Whipling",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

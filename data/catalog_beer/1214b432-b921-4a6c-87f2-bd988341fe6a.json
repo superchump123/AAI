@@ -1,0 +1,11 @@
+{
+  "id": "1214b432-b921-4a6c-87f2-bd988341fe6a",
+  "object": "beer",
+  "name": "Ace of Cascades",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

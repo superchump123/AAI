@@ -1,0 +1,11 @@
+{
+  "id": "5e54094e-49f9-489b-b07a-eaee7b65450a",
+  "object": "beer",
+  "name": "Barnsley Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

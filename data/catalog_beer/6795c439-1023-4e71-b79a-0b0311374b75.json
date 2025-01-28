@@ -1,0 +1,11 @@
+{
+  "id": "6795c439-1023-4e71-b79a-0b0311374b75",
+  "object": "beer",
+  "name": "Invasion Imperial Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

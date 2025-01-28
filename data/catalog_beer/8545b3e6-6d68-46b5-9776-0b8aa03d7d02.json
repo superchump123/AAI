@@ -1,0 +1,11 @@
+{
+  "id": "8545b3e6-6d68-46b5-9776-0b8aa03d7d02",
+  "object": "beer",
+  "name": "Two Ponds Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

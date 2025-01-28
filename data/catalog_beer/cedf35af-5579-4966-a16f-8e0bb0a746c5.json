@@ -1,0 +1,11 @@
+{
+  "id": "cedf35af-5579-4966-a16f-8e0bb0a746c5",
+  "object": "beer",
+  "name": "WYLD",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

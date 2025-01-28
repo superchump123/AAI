@@ -1,0 +1,11 @@
+{
+  "id": "e2895e6a-94b8-46a7-b687-155fde638457",
+  "object": "beer",
+  "name": "Old Foghorn 1996",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

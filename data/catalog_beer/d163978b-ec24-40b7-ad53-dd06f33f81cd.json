@@ -1,0 +1,11 @@
+{
+  "id": "d163978b-ec24-40b7-ad53-dd06f33f81cd",
+  "object": "beer",
+  "name": "Whaleback White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

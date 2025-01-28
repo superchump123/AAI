@@ -1,0 +1,11 @@
+{
+  "id": "efa8b779-4f43-4497-ac4c-8c6b7209d725",
+  "object": "beer",
+  "name": "Tiny Dancers",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

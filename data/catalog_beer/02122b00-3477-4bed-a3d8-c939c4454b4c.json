@@ -1,0 +1,11 @@
+{
+  "id": "02122b00-3477-4bed-a3d8-c939c4454b4c",
+  "object": "beer",
+  "name": "Leibinger Edel-Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

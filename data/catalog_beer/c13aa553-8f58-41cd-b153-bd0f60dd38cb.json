@@ -1,0 +1,11 @@
+{
+  "id": "c13aa553-8f58-41cd-b153-bd0f60dd38cb",
+  "object": "beer",
+  "name": "Stepchild Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

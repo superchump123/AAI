@@ -1,0 +1,11 @@
+{
+  "id": "adfb2549-d349-4846-ac0e-619a06e60364",
+  "object": "beer",
+  "name": "Boring Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

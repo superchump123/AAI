@@ -1,0 +1,11 @@
+{
+  "id": "e67b3d04-3d8e-412b-97c9-a552825d1b41",
+  "object": "beer",
+  "name": "Biere Larue",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

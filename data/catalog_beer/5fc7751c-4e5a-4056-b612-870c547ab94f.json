@@ -1,0 +1,11 @@
+{
+  "id": "5fc7751c-4e5a-4056-b612-870c547ab94f",
+  "object": "beer",
+  "name": "Arctic Spice",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

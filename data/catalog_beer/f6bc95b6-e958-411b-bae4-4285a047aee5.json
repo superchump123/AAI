@@ -1,0 +1,11 @@
+{
+  "id": "f6bc95b6-e958-411b-bae4-4285a047aee5",
+  "object": "beer",
+  "name": "West Coast Ale",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

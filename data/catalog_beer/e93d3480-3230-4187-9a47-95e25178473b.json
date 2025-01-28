@@ -1,0 +1,11 @@
+{
+  "id": "e93d3480-3230-4187-9a47-95e25178473b",
+  "object": "beer",
+  "name": "Smoke & Repeat",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

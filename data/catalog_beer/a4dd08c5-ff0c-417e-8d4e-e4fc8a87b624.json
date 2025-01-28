@@ -1,0 +1,11 @@
+{
+  "id": "a4dd08c5-ff0c-417e-8d4e-e4fc8a87b624",
+  "object": "beer",
+  "name": "Mirac Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

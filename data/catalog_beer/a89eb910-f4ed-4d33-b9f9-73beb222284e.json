@@ -1,0 +1,11 @@
+{
+  "id": "a89eb910-f4ed-4d33-b9f9-73beb222284e",
+  "object": "beer",
+  "name": "Ten",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

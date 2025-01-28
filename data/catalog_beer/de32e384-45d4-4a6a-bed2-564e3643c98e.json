@@ -1,0 +1,11 @@
+{
+  "id": "de32e384-45d4-4a6a-bed2-564e3643c98e",
+  "object": "beer",
+  "name": "Dolores Day",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

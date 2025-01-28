@@ -1,0 +1,11 @@
+{
+  "id": "b35fe687-b7a7-4e4a-9684-07a40ea0528b",
+  "object": "beer",
+  "name": "Hell Fire",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ecb4d2fc-f53c-4743-b497-42ba0013938a",
+  "object": "beer",
+  "name": "Lil Gye Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

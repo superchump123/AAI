@@ -1,0 +1,11 @@
+{
+  "id": "4d756790-8ea1-4b5a-a41e-cf31ebb6445a",
+  "object": "beer",
+  "name": "SKB Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

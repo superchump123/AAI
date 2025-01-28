@@ -1,0 +1,11 @@
+{
+  "id": "ad6895cc-c12f-418c-9a9b-2c3cb7920b6f",
+  "object": "beer",
+  "name": "UnObtainium",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

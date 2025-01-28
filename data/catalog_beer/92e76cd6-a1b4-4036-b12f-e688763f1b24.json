@@ -1,0 +1,11 @@
+{
+  "id": "92e76cd6-a1b4-4036-b12f-e688763f1b24",
+  "object": "beer",
+  "name": "Maple-Bacon Porter",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

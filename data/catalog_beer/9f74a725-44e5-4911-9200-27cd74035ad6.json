@@ -1,0 +1,11 @@
+{
+  "id": "9f74a725-44e5-4911-9200-27cd74035ad6",
+  "object": "beer",
+  "name": "Conga Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

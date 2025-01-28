@@ -1,0 +1,11 @@
+{
+  "id": "b64b7fb4-54f4-401f-a486-9bf185f57c2e",
+  "object": "beer",
+  "name": "Bourbon Barrel Mocha Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

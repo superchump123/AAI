@@ -1,0 +1,11 @@
+{
+  "id": "05b7daef-8e63-4f8c-8cba-0a7299752157",
+  "object": "beer",
+  "name": "Bill'sner Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

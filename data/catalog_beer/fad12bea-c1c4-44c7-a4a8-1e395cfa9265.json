@@ -1,0 +1,11 @@
+{
+  "id": "fad12bea-c1c4-44c7-a4a8-1e395cfa9265",
+  "object": "beer",
+  "name": "Humidity Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

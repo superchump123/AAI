@@ -1,0 +1,11 @@
+{
+  "id": "69c20e05-009d-4449-9473-78cd8b386059",
+  "object": "beer",
+  "name": "Mighty Melon Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

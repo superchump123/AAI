@@ -1,0 +1,11 @@
+{
+  "id": "9fa61c4c-1606-46c3-810b-1832e2653bdf",
+  "object": "beer",
+  "name": "Bavarian Brunette",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

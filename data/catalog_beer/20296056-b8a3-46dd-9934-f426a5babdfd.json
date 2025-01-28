@@ -1,0 +1,11 @@
+{
+  "id": "20296056-b8a3-46dd-9934-f426a5babdfd",
+  "object": "beer",
+  "name": "Derecho Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

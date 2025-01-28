@@ -1,0 +1,11 @@
+{
+  "id": "4ba3476a-d889-4f84-8787-8633d0a82f1e",
+  "object": "beer",
+  "name": "Foggy Goggles",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

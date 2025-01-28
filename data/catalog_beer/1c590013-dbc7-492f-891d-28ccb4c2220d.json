@@ -1,0 +1,11 @@
+{
+  "id": "1c590013-dbc7-492f-891d-28ccb4c2220d",
+  "object": "beer",
+  "name": "Hopliner IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

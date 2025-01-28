@@ -1,0 +1,11 @@
+{
+  "id": "ac6e23a6-fd93-4b8b-8149-9935128e8790",
+  "object": "beer",
+  "name": "Triple Crush",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

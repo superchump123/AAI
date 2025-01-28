@@ -1,0 +1,11 @@
+{
+  "id": "5ef00815-76d5-442a-883b-3916d518c83a",
+  "object": "beer",
+  "name": "Goliath Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

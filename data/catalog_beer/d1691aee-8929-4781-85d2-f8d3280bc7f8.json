@@ -1,0 +1,11 @@
+{
+  "id": "d1691aee-8929-4781-85d2-f8d3280bc7f8",
+  "object": "beer",
+  "name": "Deadwood",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

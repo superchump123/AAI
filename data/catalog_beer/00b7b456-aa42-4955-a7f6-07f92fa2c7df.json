@@ -1,0 +1,11 @@
+{
+  "id": "00b7b456-aa42-4955-a7f6-07f92fa2c7df",
+  "object": "beer",
+  "name": "Boucane",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

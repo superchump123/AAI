@@ -1,0 +1,11 @@
+{
+  "id": "07454c5c-723e-423e-a738-6eb7af1821b2",
+  "object": "beer",
+  "name": "Lucky U IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "225bbf68-c94b-41dc-a9ed-9b8b4d74c363",
+  "object": "beer",
+  "name": "Private Party",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

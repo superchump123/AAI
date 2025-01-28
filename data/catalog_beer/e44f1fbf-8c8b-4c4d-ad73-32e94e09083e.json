@@ -1,0 +1,11 @@
+{
+  "id": "e44f1fbf-8c8b-4c4d-ad73-32e94e09083e",
+  "object": "beer",
+  "name": "Mongrel Double India Pale Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "005ce534-9855-4b0e-bfa7-689faa7057a0",
+  "object": "beer",
+  "name": "Trade & Tryon",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd0bc4a0-927d-48b6-bd86-0dc686da358a",
+  "object": "beer",
+  "name": "Lord Sorachi",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

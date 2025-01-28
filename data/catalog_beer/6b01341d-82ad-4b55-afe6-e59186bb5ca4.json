@@ -1,0 +1,11 @@
+{
+  "id": "6b01341d-82ad-4b55-afe6-e59186bb5ca4",
+  "object": "beer",
+  "name": "Harbinger",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

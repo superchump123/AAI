@@ -1,0 +1,11 @@
+{
+  "id": "4ce4dd71-20c6-4bae-a883-77d82600e8af",
+  "object": "beer",
+  "name": "Grapefruit IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a7a7860f-b63d-4ba8-bfb7-58eba1bb01df",
+  "object": "beer",
+  "name": "Coco Loco",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

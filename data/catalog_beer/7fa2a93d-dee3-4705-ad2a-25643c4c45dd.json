@@ -1,0 +1,11 @@
+{
+  "id": "7fa2a93d-dee3-4705-ad2a-25643c4c45dd",
+  "object": "beer",
+  "name": "Mad Max",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cc2eda77-3156-4798-826f-bbc66f1289a3",
+  "object": "beer",
+  "name": "7 Swans-A-Swimming",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "95d80fd5-d0c7-4877-8c1d-204cc57790d1",
+  "object": "beer",
+  "name": "Standard Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

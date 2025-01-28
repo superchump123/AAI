@@ -1,0 +1,11 @@
+{
+  "id": "dfe4b501-6743-4c86-aa39-2562f9214796",
+  "object": "beer",
+  "name": "Maledetta",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

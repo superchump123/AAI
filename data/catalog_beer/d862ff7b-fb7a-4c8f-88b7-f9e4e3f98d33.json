@@ -1,0 +1,11 @@
+{
+  "id": "d862ff7b-fb7a-4c8f-88b7-f9e4e3f98d33",
+  "object": "beer",
+  "name": "Rebellion",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

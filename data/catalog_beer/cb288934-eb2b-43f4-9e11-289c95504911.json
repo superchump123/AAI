@@ -1,0 +1,11 @@
+{
+  "id": "cb288934-eb2b-43f4-9e11-289c95504911",
+  "object": "beer",
+  "name": "Sir Charles Barley Wine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

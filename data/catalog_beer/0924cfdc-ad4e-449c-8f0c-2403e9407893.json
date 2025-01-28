@@ -1,0 +1,11 @@
+{
+  "id": "0924cfdc-ad4e-449c-8f0c-2403e9407893",
+  "object": "beer",
+  "name": "Rye Pale Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

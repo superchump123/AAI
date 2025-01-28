@@ -1,0 +1,11 @@
+{
+  "id": "43901eb2-75ac-41bd-9c6b-e72799d0684d",
+  "object": "beer",
+  "name": "Amigo Warmer",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

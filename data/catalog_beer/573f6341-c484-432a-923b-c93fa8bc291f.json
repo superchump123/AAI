@@ -1,0 +1,11 @@
+{
+  "id": "573f6341-c484-432a-923b-c93fa8bc291f",
+  "object": "beer",
+  "name": "Double Tap",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

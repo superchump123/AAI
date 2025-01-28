@@ -1,0 +1,11 @@
+{
+  "id": "959db8ae-78ed-42be-a8ad-8024add2671d",
+  "object": "beer",
+  "name": "TacocaT",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d68bc48-bc83-48e7-8e0c-7af3ae9647e0",
+  "object": "beer",
+  "name": "Moodoo Voodoo",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

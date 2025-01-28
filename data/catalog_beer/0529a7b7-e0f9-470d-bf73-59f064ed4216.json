@@ -1,0 +1,11 @@
+{
+  "id": "0529a7b7-e0f9-470d-bf73-59f064ed4216",
+  "object": "beer",
+  "name": "Alpha Dog Double Red",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

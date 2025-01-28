@@ -1,0 +1,11 @@
+{
+  "id": "7f7f5acf-8fce-445f-bb66-66acc889c1fc",
+  "object": "beer",
+  "name": "Medardus Weizenbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

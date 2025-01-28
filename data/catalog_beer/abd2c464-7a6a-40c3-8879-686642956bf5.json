@@ -1,0 +1,11 @@
+{
+  "id": "abd2c464-7a6a-40c3-8879-686642956bf5",
+  "object": "beer",
+  "name": "Black Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "872e3db4-6060-492c-aa63-46071da7f2ad",
+  "object": "beer",
+  "name": "Roggenbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

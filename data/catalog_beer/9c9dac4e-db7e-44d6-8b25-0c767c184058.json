@@ -1,0 +1,11 @@
+{
+  "id": "9c9dac4e-db7e-44d6-8b25-0c767c184058",
+  "object": "beer",
+  "name": "Just Hit Play",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

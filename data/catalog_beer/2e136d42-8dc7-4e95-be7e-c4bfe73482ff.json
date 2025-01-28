@@ -1,0 +1,11 @@
+{
+  "id": "2e136d42-8dc7-4e95-be7e-c4bfe73482ff",
+  "object": "beer",
+  "name": "O.G. Colfax Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

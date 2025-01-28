@@ -1,0 +1,11 @@
+{
+  "id": "502f955f-31fd-4d38-a4c6-9455f58e19bc",
+  "object": "beer",
+  "name": "Brother David\u2019s Triple Abbey Style Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

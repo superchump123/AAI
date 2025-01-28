@@ -1,0 +1,11 @@
+{
+  "id": "9426eaf8-54ca-4352-a85a-bb497e10dced",
+  "object": "beer",
+  "name": "Mosquito's Revenge",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

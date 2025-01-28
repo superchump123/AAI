@@ -1,0 +1,11 @@
+{
+  "id": "4547265a-c7c5-4a2a-b5e0-c6ac64cf0d42",
+  "object": "beer",
+  "name": "Hop of the Muffin",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c99ea411-21c3-4376-8223-89f00e16a118",
+  "object": "beer",
+  "name": "Polly Olly",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

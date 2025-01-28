@@ -1,0 +1,11 @@
+{
+  "id": "201cf66b-d8f4-4491-8f0c-dbafa71ddb7a",
+  "object": "beer",
+  "name": "Lupi",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

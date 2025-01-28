@@ -1,0 +1,11 @@
+{
+  "id": "57bd61f2-c8cd-4e28-a15f-87fc16b57ddf",
+  "object": "beer",
+  "name": "Third Eye P.A.",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

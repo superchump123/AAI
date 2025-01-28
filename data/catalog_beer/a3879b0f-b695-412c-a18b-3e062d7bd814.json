@@ -1,0 +1,11 @@
+{
+  "id": "a3879b0f-b695-412c-a18b-3e062d7bd814",
+  "object": "beer",
+  "name": "4 Bars of Bitterness",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

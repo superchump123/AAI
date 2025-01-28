@@ -1,0 +1,11 @@
+{
+  "id": "b1ed444e-e0f7-4b40-931d-7c3e1a18c396",
+  "object": "beer",
+  "name": "Resolute",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

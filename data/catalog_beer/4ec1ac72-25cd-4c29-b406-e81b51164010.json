@@ -1,0 +1,11 @@
+{
+  "id": "4ec1ac72-25cd-4c29-b406-e81b51164010",
+  "object": "beer",
+  "name": "Stardust Pilot",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1cbba52d-00e6-4dc9-b810-48756d133d33",
+  "object": "beer",
+  "name": "Salish IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

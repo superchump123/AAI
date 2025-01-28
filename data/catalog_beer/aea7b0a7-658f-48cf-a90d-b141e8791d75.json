@@ -1,0 +1,11 @@
+{
+  "id": "aea7b0a7-658f-48cf-a90d-b141e8791d75",
+  "object": "beer",
+  "name": "50 Nodi",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

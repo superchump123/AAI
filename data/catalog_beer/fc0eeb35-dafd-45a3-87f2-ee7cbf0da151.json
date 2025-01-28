@@ -1,0 +1,11 @@
+{
+  "id": "fc0eeb35-dafd-45a3-87f2-ee7cbf0da151",
+  "object": "beer",
+  "name": "Apparition Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

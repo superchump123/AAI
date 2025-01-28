@@ -1,0 +1,11 @@
+{
+  "id": "6a35ad80-3105-4654-b164-a535f5b66c3c",
+  "object": "beer",
+  "name": "Litmus Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

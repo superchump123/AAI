@@ -1,0 +1,11 @@
+{
+  "id": "d2edf139-1529-4d6e-9a29-edf63ea5906e",
+  "object": "beer",
+  "name": "Brighton ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

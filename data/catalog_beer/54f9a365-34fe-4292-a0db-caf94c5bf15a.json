@@ -1,0 +1,11 @@
+{
+  "id": "54f9a365-34fe-4292-a0db-caf94c5bf15a",
+  "object": "beer",
+  "name": "Smooth Operator",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

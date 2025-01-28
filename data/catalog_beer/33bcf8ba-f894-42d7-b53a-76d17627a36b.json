@@ -1,0 +1,11 @@
+{
+  "id": "33bcf8ba-f894-42d7-b53a-76d17627a36b",
+  "object": "beer",
+  "name": "Got Your Back",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

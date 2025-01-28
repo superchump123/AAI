@@ -1,0 +1,11 @@
+{
+  "id": "7ce8d2a9-3ea1-4b10-92a1-ad11e2b609cd",
+  "object": "beer",
+  "name": "Teufel",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

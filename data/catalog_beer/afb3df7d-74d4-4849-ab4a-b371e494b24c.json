@@ -1,0 +1,11 @@
+{
+  "id": "afb3df7d-74d4-4849-ab4a-b371e494b24c",
+  "object": "beer",
+  "name": "Burnabarian",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

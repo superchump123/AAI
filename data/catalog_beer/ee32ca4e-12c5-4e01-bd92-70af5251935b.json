@@ -1,0 +1,11 @@
+{
+  "id": "ee32ca4e-12c5-4e01-bd92-70af5251935b",
+  "object": "beer",
+  "name": "Minutemen Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

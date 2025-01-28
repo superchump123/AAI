@@ -1,0 +1,11 @@
+{
+  "id": "95810c0d-b3a1-4a2a-8c25-8ca166894144",
+  "object": "beer",
+  "name": "Barnwood",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

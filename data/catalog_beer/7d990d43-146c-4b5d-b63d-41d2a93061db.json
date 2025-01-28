@@ -1,0 +1,11 @@
+{
+  "id": "7d990d43-146c-4b5d-b63d-41d2a93061db",
+  "object": "beer",
+  "name": "Granny Mary's Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

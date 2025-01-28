@@ -1,0 +1,11 @@
+{
+  "id": "92b5ce1a-4a14-40e9-86f8-f415071debaa",
+  "object": "beer",
+  "name": "Kensington Grand Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

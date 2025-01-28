@@ -1,0 +1,11 @@
+{
+  "id": "6ea2ac47-007f-43f7-b1ab-82a98f859a35",
+  "object": "beer",
+  "name": "Noyaux",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

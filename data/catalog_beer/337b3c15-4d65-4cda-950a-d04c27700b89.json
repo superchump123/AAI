@@ -1,0 +1,11 @@
+{
+  "id": "337b3c15-4d65-4cda-950a-d04c27700b89",
+  "object": "beer",
+  "name": "Extra Special Pig",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

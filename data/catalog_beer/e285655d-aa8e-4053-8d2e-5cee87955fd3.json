@@ -1,0 +1,11 @@
+{
+  "id": "e285655d-aa8e-4053-8d2e-5cee87955fd3",
+  "object": "beer",
+  "name": "Tropical Madness",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

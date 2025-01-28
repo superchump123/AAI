@@ -1,0 +1,11 @@
+{
+  "id": "f147a167-6b27-4cdb-94fb-b6533303678e",
+  "object": "beer",
+  "name": "Xtra-Citra",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

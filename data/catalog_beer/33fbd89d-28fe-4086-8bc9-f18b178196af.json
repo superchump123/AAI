@@ -1,0 +1,11 @@
+{
+  "id": "33fbd89d-28fe-4086-8bc9-f18b178196af",
+  "object": "beer",
+  "name": "Stormwatcher's Winterfest",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

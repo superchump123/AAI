@@ -1,0 +1,11 @@
+{
+  "id": "42487dc9-3fda-43ea-9ab3-33f68d7e5e58",
+  "object": "beer",
+  "name": "Smoked Chipotle",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

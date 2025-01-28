@@ -1,0 +1,11 @@
+{
+  "id": "5a2dc305-b15f-4cd7-8bec-7216601d7399",
+  "object": "beer",
+  "name": "Foray",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

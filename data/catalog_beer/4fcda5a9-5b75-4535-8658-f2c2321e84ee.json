@@ -1,0 +1,11 @@
+{
+  "id": "4fcda5a9-5b75-4535-8658-f2c2321e84ee",
+  "object": "beer",
+  "name": "Treerider IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

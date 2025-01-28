@@ -1,0 +1,11 @@
+{
+  "id": "6c2412cf-697d-45a1-9a1a-e6bbe2ffb335",
+  "object": "beer",
+  "name": "Oskar the G\u2019Rauch",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6503a1c3-1e79-45a6-8a8a-9a860722617d",
+  "object": "beer",
+  "name": "Gypsy Tart",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0abd7122-87de-4871-9aef-0adfa525c59e",
+  "object": "beer",
+  "name": "Augusta Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f5d3496d-fc26-47e4-adb4-758a23fa6757",
+  "object": "beer",
+  "name": "Cock O' The Walk",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

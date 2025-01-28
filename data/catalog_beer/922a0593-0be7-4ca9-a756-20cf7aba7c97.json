@@ -1,0 +1,11 @@
+{
+  "id": "922a0593-0be7-4ca9-a756-20cf7aba7c97",
+  "object": "beer",
+  "name": "Flanders Sour Red Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b3fd8c0d-55d1-484f-888c-6d2fdbe1cc55",
+  "object": "beer",
+  "name": "Elation",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9460b772-8ce3-48ff-b039-348839f15934",
+  "object": "beer",
+  "name": "Beale St. Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

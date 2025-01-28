@@ -1,0 +1,11 @@
+{
+  "id": "fbeecd9f-7614-45b0-a54b-b76d9a0026cd",
+  "object": "beer",
+  "name": "Gold Beach Lager",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

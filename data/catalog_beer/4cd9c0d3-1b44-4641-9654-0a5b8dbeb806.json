@@ -1,0 +1,11 @@
+{
+  "id": "4cd9c0d3-1b44-4641-9654-0a5b8dbeb806",
+  "object": "beer",
+  "name": "Centennial Session Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

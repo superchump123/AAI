@@ -1,0 +1,11 @@
+{
+  "id": "b2eac30e-5010-4be5-844f-b4d7a2701000",
+  "object": "beer",
+  "name": "Brambles",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

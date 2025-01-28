@@ -1,0 +1,11 @@
+{
+  "id": "90d5de7a-5afb-4fd4-bc9e-331919a9c214",
+  "object": "beer",
+  "name": "Alstadberger",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

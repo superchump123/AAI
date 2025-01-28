@@ -1,0 +1,11 @@
+{
+  "id": "74abc274-717f-4371-a229-9666e8634393",
+  "object": "beer",
+  "name": "Ratsherrn Pilsener",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

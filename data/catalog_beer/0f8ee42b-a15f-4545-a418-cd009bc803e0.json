@@ -1,0 +1,11 @@
+{
+  "id": "0f8ee42b-a15f-4545-a418-cd009bc803e0",
+  "object": "beer",
+  "name": "1895 Barleyweiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 2.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

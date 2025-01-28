@@ -1,0 +1,11 @@
+{
+  "id": "470aa37a-5597-4f44-b7f1-01d448c2a646",
+  "object": "beer",
+  "name": "Winter-Festbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

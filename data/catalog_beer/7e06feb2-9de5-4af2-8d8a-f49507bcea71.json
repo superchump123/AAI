@@ -1,0 +1,11 @@
+{
+  "id": "7e06feb2-9de5-4af2-8d8a-f49507bcea71",
+  "object": "beer",
+  "name": "Azaccarado Cask Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

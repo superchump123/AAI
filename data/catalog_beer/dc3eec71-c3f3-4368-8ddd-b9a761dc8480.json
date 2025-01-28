@@ -1,0 +1,11 @@
+{
+  "id": "dc3eec71-c3f3-4368-8ddd-b9a761dc8480",
+  "object": "beer",
+  "name": "Citrum IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

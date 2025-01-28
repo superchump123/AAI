@@ -1,0 +1,11 @@
+{
+  "id": "728b87d0-ec5c-4914-8fd2-72f49802b876",
+  "object": "beer",
+  "name": "Barktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "93518a4a-2256-4f24-8a29-016f7a91c42a",
+  "object": "beer",
+  "name": "Moll's Medicine",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 3.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

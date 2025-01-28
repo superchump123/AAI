@@ -1,0 +1,11 @@
+{
+  "id": "e0ebec49-7686-44aa-a295-8ad57668ee40",
+  "object": "beer",
+  "name": "Tipperary",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

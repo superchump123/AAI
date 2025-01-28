@@ -1,0 +1,11 @@
+{
+  "id": "4a61d632-ab69-45ad-86f0-0a79b5cbb5b5",
+  "object": "beer",
+  "name": "Tailgater",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

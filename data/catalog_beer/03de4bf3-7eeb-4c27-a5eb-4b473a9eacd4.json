@@ -1,0 +1,11 @@
+{
+  "id": "03de4bf3-7eeb-4c27-a5eb-4b473a9eacd4",
+  "object": "beer",
+  "name": "Tokyo*",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 16.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

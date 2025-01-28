@@ -1,0 +1,11 @@
+{
+  "id": "b0c1a06d-eebc-4303-ab19-d677592d5b32",
+  "object": "beer",
+  "name": "Social Butterfly",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

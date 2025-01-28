@@ -1,0 +1,11 @@
+{
+  "id": "5896bfd4-ce8c-431a-88c2-24e61329b64f",
+  "object": "beer",
+  "name": "Eve",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

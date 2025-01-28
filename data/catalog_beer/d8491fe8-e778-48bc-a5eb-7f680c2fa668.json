@@ -1,0 +1,11 @@
+{
+  "id": "d8491fe8-e778-48bc-a5eb-7f680c2fa668",
+  "object": "beer",
+  "name": "Erlbacher Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

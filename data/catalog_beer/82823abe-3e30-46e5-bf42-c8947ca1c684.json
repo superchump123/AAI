@@ -1,0 +1,11 @@
+{
+  "id": "82823abe-3e30-46e5-bf42-c8947ca1c684",
+  "object": "beer",
+  "name": "Bash-Bish-Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d6a86f4d-7b2b-46ba-a004-c86374ca9c9d",
+  "object": "beer",
+  "name": "Cobra",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

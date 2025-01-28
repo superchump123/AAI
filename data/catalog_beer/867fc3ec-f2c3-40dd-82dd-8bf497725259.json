@@ -1,0 +1,11 @@
+{
+  "id": "867fc3ec-f2c3-40dd-82dd-8bf497725259",
+  "object": "beer",
+  "name": "Mangozacca",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

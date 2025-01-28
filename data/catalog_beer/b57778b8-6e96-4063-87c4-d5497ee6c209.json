@@ -1,0 +1,11 @@
+{
+  "id": "b57778b8-6e96-4063-87c4-d5497ee6c209",
+  "object": "beer",
+  "name": "Pumpkin Harvest Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

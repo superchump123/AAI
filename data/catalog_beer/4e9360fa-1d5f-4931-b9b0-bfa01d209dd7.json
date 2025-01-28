@@ -1,0 +1,11 @@
+{
+  "id": "4e9360fa-1d5f-4931-b9b0-bfa01d209dd7",
+  "object": "beer",
+  "name": "27th Anniversary",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

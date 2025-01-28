@@ -1,0 +1,11 @@
+{
+  "id": "e82a05b7-4171-481b-b3c5-1ae22ebc8d04",
+  "object": "beer",
+  "name": "Craic Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "497697a8-323d-4734-b82b-5a5c636e335c",
+  "object": "beer",
+  "name": "Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

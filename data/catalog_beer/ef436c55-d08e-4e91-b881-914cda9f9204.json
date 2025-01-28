@@ -1,0 +1,11 @@
+{
+  "id": "ef436c55-d08e-4e91-b881-914cda9f9204",
+  "object": "beer",
+  "name": "No Beach IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

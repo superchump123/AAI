@@ -1,0 +1,11 @@
+{
+  "id": "26e7a296-c400-49d8-b045-e28d7b425e2a",
+  "object": "beer",
+  "name": "Red Rocket Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0202314c-206f-44a6-9d26-0175f1e10d5d",
+  "object": "beer",
+  "name": "Pacifico",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

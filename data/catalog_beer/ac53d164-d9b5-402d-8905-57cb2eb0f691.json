@@ -1,0 +1,11 @@
+{
+  "id": "ac53d164-d9b5-402d-8905-57cb2eb0f691",
+  "object": "beer",
+  "name": "Eric the Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

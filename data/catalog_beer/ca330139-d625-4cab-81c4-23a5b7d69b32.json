@@ -1,0 +1,11 @@
+{
+  "id": "ca330139-d625-4cab-81c4-23a5b7d69b32",
+  "object": "beer",
+  "name": "Fresh Hoptoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

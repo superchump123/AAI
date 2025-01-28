@@ -1,0 +1,11 @@
+{
+  "id": "61550ebc-e404-4e21-8f1b-79e1fa2af127",
+  "object": "beer",
+  "name": "Old Shonie",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

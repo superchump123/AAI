@@ -1,0 +1,11 @@
+{
+  "id": "d44c0259-04f3-4d06-a8ff-bdbe84bc4a57",
+  "object": "beer",
+  "name": "FreeLoader",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

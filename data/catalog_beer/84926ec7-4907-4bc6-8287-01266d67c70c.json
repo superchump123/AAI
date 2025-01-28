@@ -1,0 +1,11 @@
+{
+  "id": "84926ec7-4907-4bc6-8287-01266d67c70c",
+  "object": "beer",
+  "name": "Haarlem Globefrotter",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

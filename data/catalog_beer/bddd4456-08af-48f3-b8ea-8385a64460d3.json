@@ -1,0 +1,11 @@
+{
+  "id": "bddd4456-08af-48f3-b8ea-8385a64460d3",
+  "object": "beer",
+  "name": "Working Title",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

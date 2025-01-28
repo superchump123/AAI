@@ -1,0 +1,11 @@
+{
+  "id": "78e48ed6-f4b3-4474-bd16-1201ddbceadd",
+  "object": "beer",
+  "name": "Event Horizon Cascadian Dark Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

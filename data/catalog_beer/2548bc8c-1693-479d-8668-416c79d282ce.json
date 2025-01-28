@@ -1,0 +1,11 @@
+{
+  "id": "2548bc8c-1693-479d-8668-416c79d282ce",
+  "object": "beer",
+  "name": "Bed Head",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

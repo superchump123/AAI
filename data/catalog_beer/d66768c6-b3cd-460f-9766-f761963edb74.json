@@ -1,0 +1,11 @@
+{
+  "id": "d66768c6-b3cd-460f-9766-f761963edb74",
+  "object": "beer",
+  "name": "Float Trip Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

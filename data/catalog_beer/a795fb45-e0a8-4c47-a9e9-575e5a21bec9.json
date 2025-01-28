@@ -1,0 +1,11 @@
+{
+  "id": "a795fb45-e0a8-4c47-a9e9-575e5a21bec9",
+  "object": "beer",
+  "name": "Ain't That a Peach",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

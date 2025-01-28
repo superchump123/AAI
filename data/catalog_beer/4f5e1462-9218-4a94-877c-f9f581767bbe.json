@@ -1,0 +1,11 @@
+{
+  "id": "4f5e1462-9218-4a94-877c-f9f581767bbe",
+  "object": "beer",
+  "name": "Amalgamation",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

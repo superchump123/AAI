@@ -1,0 +1,11 @@
+{
+  "id": "5dd629f1-5bf2-4bb0-b84b-8a483c358540",
+  "object": "beer",
+  "name": "Wesser Evil Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

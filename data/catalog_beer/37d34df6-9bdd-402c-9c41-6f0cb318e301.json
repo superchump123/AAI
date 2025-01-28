@@ -1,0 +1,11 @@
+{
+  "id": "37d34df6-9bdd-402c-9c41-6f0cb318e301",
+  "object": "beer",
+  "name": "Mini-Mosaic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

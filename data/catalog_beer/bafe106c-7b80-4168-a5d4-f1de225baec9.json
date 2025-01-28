@@ -1,0 +1,11 @@
+{
+  "id": "bafe106c-7b80-4168-a5d4-f1de225baec9",
+  "object": "beer",
+  "name": "Farmhouse White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

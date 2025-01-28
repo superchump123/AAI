@@ -1,0 +1,11 @@
+{
+  "id": "80a70b7b-57eb-43d4-abd1-5ddf8be40326",
+  "object": "beer",
+  "name": "34th Street Wheat",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

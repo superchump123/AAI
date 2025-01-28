@@ -1,0 +1,11 @@
+{
+  "id": "e9b6319b-e92e-4769-bd0e-1a3bfeb12bff",
+  "object": "beer",
+  "name": "Alternate Galaxy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

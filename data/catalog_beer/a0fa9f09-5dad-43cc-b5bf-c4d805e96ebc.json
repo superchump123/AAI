@@ -1,0 +1,11 @@
+{
+  "id": "a0fa9f09-5dad-43cc-b5bf-c4d805e96ebc",
+  "object": "beer",
+  "name": "Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

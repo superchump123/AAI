@@ -1,0 +1,11 @@
+{
+  "id": "3fa00ef3-203b-41d4-b96a-3833e3db7779",
+  "object": "beer",
+  "name": "Blonde Ale with Brettanomyces",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

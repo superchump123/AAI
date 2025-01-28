@@ -1,0 +1,11 @@
+{
+  "id": "e076bb60-2d62-487a-92ae-8e0ae959383c",
+  "object": "beer",
+  "name": "Quadraphonic",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0dba1e76-5bf6-4ea0-8d77-0fb1f61bea7a",
+  "object": "beer",
+  "name": "Southern Charred",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 12.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

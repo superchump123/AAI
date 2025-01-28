@@ -1,0 +1,11 @@
+{
+  "id": "ae5e3def-3e47-42ff-b78a-4fb400bc3dd9",
+  "object": "beer",
+  "name": "Dunkelweizen",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

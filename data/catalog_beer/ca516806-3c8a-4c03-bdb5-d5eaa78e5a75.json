@@ -1,0 +1,11 @@
+{
+  "id": "ca516806-3c8a-4c03-bdb5-d5eaa78e5a75",
+  "object": "beer",
+  "name": "Tachyon",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

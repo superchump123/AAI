@@ -1,0 +1,11 @@
+{
+  "id": "f1848dd8-fd1c-4b9b-866c-9c610344ee94",
+  "object": "beer",
+  "name": "Coastal Dark Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

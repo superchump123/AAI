@@ -1,0 +1,11 @@
+{
+  "id": "aca68c32-3e01-4fdc-a82b-f3fca827ff26",
+  "object": "beer",
+  "name": "SweetWater Festive Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

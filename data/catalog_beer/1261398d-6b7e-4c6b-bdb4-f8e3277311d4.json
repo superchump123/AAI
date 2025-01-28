@@ -1,0 +1,11 @@
+{
+  "id": "1261398d-6b7e-4c6b-bdb4-f8e3277311d4",
+  "object": "beer",
+  "name": "Le Wac Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

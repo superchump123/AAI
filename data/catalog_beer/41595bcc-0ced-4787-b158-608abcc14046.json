@@ -1,0 +1,11 @@
+{
+  "id": "41595bcc-0ced-4787-b158-608abcc14046",
+  "object": "beer",
+  "name": "Summer in Belgium",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

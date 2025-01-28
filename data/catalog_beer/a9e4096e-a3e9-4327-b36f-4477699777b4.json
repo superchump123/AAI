@@ -1,0 +1,11 @@
+{
+  "id": "a9e4096e-a3e9-4327-b36f-4477699777b4",
+  "object": "beer",
+  "name": "Honky",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

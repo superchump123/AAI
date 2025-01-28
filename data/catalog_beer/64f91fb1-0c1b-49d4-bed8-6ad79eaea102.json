@@ -1,0 +1,11 @@
+{
+  "id": "64f91fb1-0c1b-49d4-bed8-6ad79eaea102",
+  "object": "beer",
+  "name": "July IPA of the Month (\"Seamus and Marlowe\")",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

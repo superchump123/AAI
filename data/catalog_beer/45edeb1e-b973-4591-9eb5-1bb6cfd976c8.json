@@ -1,0 +1,11 @@
+{
+  "id": "45edeb1e-b973-4591-9eb5-1bb6cfd976c8",
+  "object": "beer",
+  "name": "Brett Pale Ale",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

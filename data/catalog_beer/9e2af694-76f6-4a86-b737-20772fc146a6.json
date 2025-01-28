@@ -1,0 +1,11 @@
+{
+  "id": "9e2af694-76f6-4a86-b737-20772fc146a6",
+  "object": "beer",
+  "name": "BIBC Replicale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

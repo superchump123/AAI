@@ -1,0 +1,11 @@
+{
+  "id": "14058c66-756a-4343-97c9-5e50b1e7de4b",
+  "object": "beer",
+  "name": "Toll House Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

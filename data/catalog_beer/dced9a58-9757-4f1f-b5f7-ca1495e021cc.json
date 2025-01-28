@@ -1,0 +1,11 @@
+{
+  "id": "dced9a58-9757-4f1f-b5f7-ca1495e021cc",
+  "object": "beer",
+  "name": "Freudian Slip",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

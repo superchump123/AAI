@@ -1,0 +1,11 @@
+{
+  "id": "ef1423a4-32f8-48f8-92ab-7e32c656ddb5",
+  "object": "beer",
+  "name": "La Belle Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

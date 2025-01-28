@@ -1,0 +1,11 @@
+{
+  "id": "02b199e6-e097-41aa-a00a-2087b6a72e8f",
+  "object": "beer",
+  "name": "Hall Of Gods",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

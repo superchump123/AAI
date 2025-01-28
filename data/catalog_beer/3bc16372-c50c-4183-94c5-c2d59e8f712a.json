@@ -1,0 +1,11 @@
+{
+  "id": "3bc16372-c50c-4183-94c5-c2d59e8f712a",
+  "object": "beer",
+  "name": "Captain Trips Hoppy Summer Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

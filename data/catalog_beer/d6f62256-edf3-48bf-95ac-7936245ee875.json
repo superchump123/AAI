@@ -1,0 +1,11 @@
+{
+  "id": "d6f62256-edf3-48bf-95ac-7936245ee875",
+  "object": "beer",
+  "name": "Street Cred",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

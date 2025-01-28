@@ -1,0 +1,11 @@
+{
+  "id": "061b4772-354d-4a35-bc48-7306b74baf0e",
+  "object": "beer",
+  "name": "Roxy Rye Lager",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

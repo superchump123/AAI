@@ -1,0 +1,11 @@
+{
+  "id": "d85a2a75-f217-4318-82de-919333e07ac6",
+  "object": "beer",
+  "name": "Southern Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4cbc4cb-ba13-4d93-83c8-bfe70002035d",
+  "object": "beer",
+  "name": "Three Chopt Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

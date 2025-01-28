@@ -1,0 +1,11 @@
+{
+  "id": "14a89c0b-1a6d-4276-b85a-6038ca776d97",
+  "object": "beer",
+  "name": "Chocolate Milk Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

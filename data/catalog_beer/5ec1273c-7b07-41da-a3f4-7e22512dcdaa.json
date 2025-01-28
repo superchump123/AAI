@@ -1,0 +1,11 @@
+{
+  "id": "5ec1273c-7b07-41da-a3f4-7e22512dcdaa",
+  "object": "beer",
+  "name": "Hopperbolic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

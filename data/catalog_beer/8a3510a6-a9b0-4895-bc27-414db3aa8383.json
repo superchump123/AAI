@@ -1,0 +1,11 @@
+{
+  "id": "8a3510a6-a9b0-4895-bc27-414db3aa8383",
+  "object": "beer",
+  "name": "State of Mind",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

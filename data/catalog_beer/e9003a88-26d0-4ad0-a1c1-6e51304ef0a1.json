@@ -1,0 +1,11 @@
+{
+  "id": "e9003a88-26d0-4ad0-a1c1-6e51304ef0a1",
+  "object": "beer",
+  "name": "Tropical \"Key Lime\" Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "acebe302-5e7c-4cc5-aceb-1eb28baa364d",
+  "object": "beer",
+  "name": "Shanty Warmer",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f9666b5e-be2a-4e5d-9a49-c0dd82a17936",
+  "object": "beer",
+  "name": "My Turn - Tom",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

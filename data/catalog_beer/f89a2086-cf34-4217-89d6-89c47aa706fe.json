@@ -1,0 +1,11 @@
+{
+  "id": "f89a2086-cf34-4217-89d6-89c47aa706fe",
+  "object": "beer",
+  "name": "Dirty DIPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

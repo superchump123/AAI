@@ -1,0 +1,11 @@
+{
+  "id": "42bf48b8-c437-49c5-94a8-15ccb7417c90",
+  "object": "beer",
+  "name": "Square Grouper",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

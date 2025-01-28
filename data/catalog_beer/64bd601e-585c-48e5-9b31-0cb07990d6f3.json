@@ -1,0 +1,11 @@
+{
+  "id": "64bd601e-585c-48e5-9b31-0cb07990d6f3",
+  "object": "beer",
+  "name": "India Pale Common",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

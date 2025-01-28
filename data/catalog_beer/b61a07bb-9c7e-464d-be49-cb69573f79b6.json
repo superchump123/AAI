@@ -1,0 +1,11 @@
+{
+  "id": "b61a07bb-9c7e-464d-be49-cb69573f79b6",
+  "object": "beer",
+  "name": "P5 Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

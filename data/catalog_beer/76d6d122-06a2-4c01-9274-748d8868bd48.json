@@ -1,0 +1,11 @@
+{
+  "id": "76d6d122-06a2-4c01-9274-748d8868bd48",
+  "object": "beer",
+  "name": "Chiller",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

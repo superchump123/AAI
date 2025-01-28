@@ -1,0 +1,11 @@
+{
+  "id": "40c30cc1-6bdb-432e-8f9a-294437949c27",
+  "object": "beer",
+  "name": "Festival Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

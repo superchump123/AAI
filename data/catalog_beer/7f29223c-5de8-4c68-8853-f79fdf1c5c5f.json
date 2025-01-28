@@ -1,0 +1,11 @@
+{
+  "id": "7f29223c-5de8-4c68-8853-f79fdf1c5c5f",
+  "object": "beer",
+  "name": "Sidra Pear",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

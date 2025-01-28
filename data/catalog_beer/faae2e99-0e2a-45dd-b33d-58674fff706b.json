@@ -1,0 +1,11 @@
+{
+  "id": "faae2e99-0e2a-45dd-b33d-58674fff706b",
+  "object": "beer",
+  "name": "Bonedog Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

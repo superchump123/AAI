@@ -1,0 +1,11 @@
+{
+  "id": "d611eb58-2949-47a5-9ac4-2e64392b1c08",
+  "object": "beer",
+  "name": "Hippie Speedball",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

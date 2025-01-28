@@ -1,0 +1,11 @@
+{
+  "id": "86da3fb2-f5e0-4c82-9e2f-6eca796852e8",
+  "object": "beer",
+  "name": "Oxymoron",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

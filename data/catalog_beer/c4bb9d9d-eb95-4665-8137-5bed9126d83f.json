@@ -1,0 +1,11 @@
+{
+  "id": "c4bb9d9d-eb95-4665-8137-5bed9126d83f",
+  "object": "beer",
+  "name": "Richbrau Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

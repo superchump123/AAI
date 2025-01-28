@@ -1,0 +1,11 @@
+{
+  "id": "fb7cc6a3-c947-4b57-bbd5-aa1cd980eea1",
+  "object": "beer",
+  "name": "Leviathan Imperial Rye",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "091b78c3-1d65-42ec-9f7e-e5d30b82d4bc",
+  "object": "beer",
+  "name": "Gratzerful Dead",
+  "style": "Grodziskie",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

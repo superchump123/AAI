@@ -1,0 +1,11 @@
+{
+  "id": "0de36273-ab5e-4197-a2e5-a1a1db80e61d",
+  "object": "beer",
+  "name": "Old Peculier",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

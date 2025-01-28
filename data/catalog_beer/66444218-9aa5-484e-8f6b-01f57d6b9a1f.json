@@ -1,0 +1,11 @@
+{
+  "id": "66444218-9aa5-484e-8f6b-01f57d6b9a1f",
+  "object": "beer",
+  "name": "Swagger Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

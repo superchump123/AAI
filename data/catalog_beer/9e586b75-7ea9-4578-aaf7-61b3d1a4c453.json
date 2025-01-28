@@ -1,0 +1,11 @@
+{
+  "id": "9e586b75-7ea9-4578-aaf7-61b3d1a4c453",
+  "object": "beer",
+  "name": "Montejo",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

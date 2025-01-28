@@ -1,0 +1,11 @@
+{
+  "id": "b152ddce-0ac8-4d61-9f1b-698a65836d67",
+  "object": "beer",
+  "name": "John Smith's Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

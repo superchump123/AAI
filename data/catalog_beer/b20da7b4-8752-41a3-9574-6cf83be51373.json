@@ -1,0 +1,11 @@
+{
+  "id": "b20da7b4-8752-41a3-9574-6cf83be51373",
+  "object": "beer",
+  "name": "Confused Belgian",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

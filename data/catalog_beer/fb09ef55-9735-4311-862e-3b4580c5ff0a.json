@@ -1,0 +1,11 @@
+{
+  "id": "fb09ef55-9735-4311-862e-3b4580c5ff0a",
+  "object": "beer",
+  "name": "Premium Ultra Dry",
+  "style": "Dry Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

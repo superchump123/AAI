@@ -1,0 +1,11 @@
+{
+  "id": "9371be1c-0725-4d03-baf0-0d309dd677ff",
+  "object": "beer",
+  "name": "Blitzen",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

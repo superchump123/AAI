@@ -1,0 +1,11 @@
+{
+  "id": "7b2b2e59-28f5-484c-944f-cb5c837655e5",
+  "object": "beer",
+  "name": "Kasteel Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f15601ca-0a6c-4cc1-9f44-84c0b0b7d1a1",
+  "object": "beer",
+  "name": "Orange Label",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

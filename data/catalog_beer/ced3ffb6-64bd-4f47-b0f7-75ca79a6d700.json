@@ -1,0 +1,11 @@
+{
+  "id": "ced3ffb6-64bd-4f47-b0f7-75ca79a6d700",
+  "object": "beer",
+  "name": "Laguna The Greeter's Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

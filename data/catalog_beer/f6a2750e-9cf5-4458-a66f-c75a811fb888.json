@@ -1,0 +1,11 @@
+{
+  "id": "f6a2750e-9cf5-4458-a66f-c75a811fb888",
+  "object": "beer",
+  "name": "Vermontster",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

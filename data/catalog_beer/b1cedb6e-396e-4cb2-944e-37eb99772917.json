@@ -1,0 +1,11 @@
+{
+  "id": "b1cedb6e-396e-4cb2-944e-37eb99772917",
+  "object": "beer",
+  "name": "TESTBEER",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

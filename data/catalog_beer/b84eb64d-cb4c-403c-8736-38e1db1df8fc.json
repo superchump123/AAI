@@ -1,0 +1,11 @@
+{
+  "id": "b84eb64d-cb4c-403c-8736-38e1db1df8fc",
+  "object": "beer",
+  "name": "Double OPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

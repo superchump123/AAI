@@ -1,0 +1,11 @@
+{
+  "id": "858fdcb7-cf47-4fef-ba40-dfe9dd36ea29",
+  "object": "beer",
+  "name": "Diesel",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

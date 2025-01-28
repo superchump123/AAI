@@ -1,0 +1,11 @@
+{
+  "id": "72a04a72-3fa3-4fcc-a384-fe3d4a86c606",
+  "object": "beer",
+  "name": "Hesitation Point",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

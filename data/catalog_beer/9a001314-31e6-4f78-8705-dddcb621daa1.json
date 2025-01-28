@@ -1,0 +1,11 @@
+{
+  "id": "9a001314-31e6-4f78-8705-dddcb621daa1",
+  "object": "beer",
+  "name": "Qu\u00e9bec Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

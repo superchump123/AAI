@@ -1,0 +1,11 @@
+{
+  "id": "df8d92f3-07be-4045-a686-bf033e6e21e0",
+  "object": "beer",
+  "name": "Kentucky Waterfall",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

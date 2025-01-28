@@ -1,0 +1,11 @@
+{
+  "id": "a13248ac-819a-4df9-a896-78cf3684616a",
+  "object": "beer",
+  "name": "Double Columbus IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

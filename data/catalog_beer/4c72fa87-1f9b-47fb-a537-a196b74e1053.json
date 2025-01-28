@@ -1,0 +1,11 @@
+{
+  "id": "4c72fa87-1f9b-47fb-a537-a196b74e1053",
+  "object": "beer",
+  "name": "Buffalo Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

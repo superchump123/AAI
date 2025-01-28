@@ -1,0 +1,11 @@
+{
+  "id": "6b4fc8cd-e525-451a-b502-f809ff48abb3",
+  "object": "beer",
+  "name": "Summer Moon",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

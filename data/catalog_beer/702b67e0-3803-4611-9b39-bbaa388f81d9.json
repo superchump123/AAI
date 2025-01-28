@@ -1,0 +1,11 @@
+{
+  "id": "702b67e0-3803-4611-9b39-bbaa388f81d9",
+  "object": "beer",
+  "name": "Grimbergen Optimo Bruno",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

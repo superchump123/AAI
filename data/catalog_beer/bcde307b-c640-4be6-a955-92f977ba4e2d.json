@@ -1,0 +1,11 @@
+{
+  "id": "bcde307b-c640-4be6-a955-92f977ba4e2d",
+  "object": "beer",
+  "name": "Little Magic Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

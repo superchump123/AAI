@@ -1,0 +1,11 @@
+{
+  "id": "86f7e857-7718-4e0a-bd72-cbdb81dba0de",
+  "object": "beer",
+  "name": "Barre Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

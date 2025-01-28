@@ -1,0 +1,11 @@
+{
+  "id": "bf53b746-2715-471c-8636-848ddcf9f0eb",
+  "object": "beer",
+  "name": "Imperial IPA Release #3",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

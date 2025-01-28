@@ -1,0 +1,11 @@
+{
+  "id": "96e5a3b1-6e8e-4c92-bf33-d4f21aa4db10",
+  "object": "beer",
+  "name": "Wahoo Summer Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

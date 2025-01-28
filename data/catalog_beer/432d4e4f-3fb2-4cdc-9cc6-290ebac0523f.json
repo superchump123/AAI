@@ -1,0 +1,11 @@
+{
+  "id": "432d4e4f-3fb2-4cdc-9cc6-290ebac0523f",
+  "object": "beer",
+  "name": "Milk Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

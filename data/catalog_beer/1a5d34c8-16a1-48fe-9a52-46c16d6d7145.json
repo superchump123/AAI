@@ -1,0 +1,11 @@
+{
+  "id": "1a5d34c8-16a1-48fe-9a52-46c16d6d7145",
+  "object": "beer",
+  "name": "Rusty Plow",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

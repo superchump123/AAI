@@ -1,0 +1,11 @@
+{
+  "id": "6073b12f-0f46-47b5-9071-656eb7937cc3",
+  "object": "beer",
+  "name": "Calliope",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

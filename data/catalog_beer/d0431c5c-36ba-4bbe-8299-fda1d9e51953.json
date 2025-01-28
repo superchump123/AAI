@@ -1,0 +1,11 @@
+{
+  "id": "d0431c5c-36ba-4bbe-8299-fda1d9e51953",
+  "object": "beer",
+  "name": "Rye Braggot",
+  "style": "Braggot",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

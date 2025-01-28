@@ -1,0 +1,11 @@
+{
+  "id": "0da03f8e-5003-4e58-9244-e2fd805365b7",
+  "object": "beer",
+  "name": "Imperial",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

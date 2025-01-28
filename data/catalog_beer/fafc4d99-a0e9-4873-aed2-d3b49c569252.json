@@ -1,0 +1,11 @@
+{
+  "id": "fafc4d99-a0e9-4873-aed2-d3b49c569252",
+  "object": "beer",
+  "name": "Legend",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 10,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

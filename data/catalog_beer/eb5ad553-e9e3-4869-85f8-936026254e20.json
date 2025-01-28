@@ -1,0 +1,11 @@
+{
+  "id": "eb5ad553-e9e3-4869-85f8-936026254e20",
+  "object": "beer",
+  "name": "Java Mariana Trench",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

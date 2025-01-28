@@ -1,0 +1,11 @@
+{
+  "id": "dcc2b493-afe3-41ae-8a95-5339d385596d",
+  "object": "beer",
+  "name": "Bender",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

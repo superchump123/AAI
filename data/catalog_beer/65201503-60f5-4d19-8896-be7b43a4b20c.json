@@ -1,0 +1,11 @@
+{
+  "id": "65201503-60f5-4d19-8896-be7b43a4b20c",
+  "object": "beer",
+  "name": "Outboard",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

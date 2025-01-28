@@ -1,0 +1,11 @@
+{
+  "id": "b13489d3-ed75-4239-8fae-80c32f75a40a",
+  "object": "beer",
+  "name": "Blond Shnit",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

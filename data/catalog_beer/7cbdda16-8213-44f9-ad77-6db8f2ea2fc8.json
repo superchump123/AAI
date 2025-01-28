@@ -1,0 +1,11 @@
+{
+  "id": "7cbdda16-8213-44f9-ad77-6db8f2ea2fc8",
+  "object": "beer",
+  "name": "Torgauer Doppel-Caramel",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 1.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

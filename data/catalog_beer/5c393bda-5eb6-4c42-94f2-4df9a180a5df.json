@@ -1,0 +1,11 @@
+{
+  "id": "5c393bda-5eb6-4c42-94f2-4df9a180a5df",
+  "object": "beer",
+  "name": "Old Trail",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

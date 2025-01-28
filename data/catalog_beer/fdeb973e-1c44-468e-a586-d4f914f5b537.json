@@ -1,0 +1,11 @@
+{
+  "id": "fdeb973e-1c44-468e-a586-d4f914f5b537",
+  "object": "beer",
+  "name": "Special Hops",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

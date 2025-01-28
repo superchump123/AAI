@@ -1,0 +1,11 @@
+{
+  "id": "b5e737ed-1af9-4f91-b308-f8c92c0cb45d",
+  "object": "beer",
+  "name": "Darker Than Your Soul",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

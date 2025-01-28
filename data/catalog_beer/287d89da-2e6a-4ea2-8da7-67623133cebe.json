@@ -1,0 +1,11 @@
+{
+  "id": "287d89da-2e6a-4ea2-8da7-67623133cebe",
+  "object": "beer",
+  "name": "Charlie's",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

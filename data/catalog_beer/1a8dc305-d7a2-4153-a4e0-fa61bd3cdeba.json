@@ -1,0 +1,11 @@
+{
+  "id": "1a8dc305-d7a2-4153-a4e0-fa61bd3cdeba",
+  "object": "beer",
+  "name": "Saranac 4059' Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

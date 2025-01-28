@@ -1,0 +1,11 @@
+{
+  "id": "adc977cc-f4c8-4ccd-a59b-19e085d21959",
+  "object": "beer",
+  "name": "Premium Beer",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

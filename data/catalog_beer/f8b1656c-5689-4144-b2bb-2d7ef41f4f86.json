@@ -1,0 +1,11 @@
+{
+  "id": "f8b1656c-5689-4144-b2bb-2d7ef41f4f86",
+  "object": "beer",
+  "name": "Firemans #4",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

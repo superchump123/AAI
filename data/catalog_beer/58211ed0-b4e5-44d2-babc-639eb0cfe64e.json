@@ -1,0 +1,11 @@
+{
+  "id": "58211ed0-b4e5-44d2-babc-639eb0cfe64e",
+  "object": "beer",
+  "name": "Dark Something",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

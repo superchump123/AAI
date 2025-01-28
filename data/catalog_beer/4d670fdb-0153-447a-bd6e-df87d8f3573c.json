@@ -1,0 +1,11 @@
+{
+  "id": "4d670fdb-0153-447a-bd6e-df87d8f3573c",
+  "object": "beer",
+  "name": "Lemon Meringue Pie",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

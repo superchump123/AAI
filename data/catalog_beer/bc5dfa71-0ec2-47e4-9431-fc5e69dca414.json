@@ -1,0 +1,11 @@
+{
+  "id": "bc5dfa71-0ec2-47e4-9431-fc5e69dca414",
+  "object": "beer",
+  "name": "Swan Song",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

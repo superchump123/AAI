@@ -1,0 +1,11 @@
+{
+  "id": "e09d0b69-2879-49f1-a986-bda1f787f569",
+  "object": "beer",
+  "name": "El Treeablo",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

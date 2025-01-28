@@ -1,0 +1,11 @@
+{
+  "id": "d967c2ec-bf55-4fb1-bd12-9e19b9c444b2",
+  "object": "beer",
+  "name": "Another Day, Another Apocalypse",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

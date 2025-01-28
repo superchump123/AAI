@@ -1,0 +1,11 @@
+{
+  "id": "dde2224a-33b9-4995-8f61-9e11e749f991",
+  "object": "beer",
+  "name": "Camp Travis",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

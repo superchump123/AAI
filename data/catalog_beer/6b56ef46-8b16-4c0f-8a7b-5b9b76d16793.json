@@ -1,0 +1,11 @@
+{
+  "id": "6b56ef46-8b16-4c0f-8a7b-5b9b76d16793",
+  "object": "beer",
+  "name": "Tilburg's Dutch Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

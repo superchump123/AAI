@@ -1,0 +1,11 @@
+{
+  "id": "e32697c3-fa6c-42d6-b690-7413a8824b16",
+  "object": "beer",
+  "name": "Stickum",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

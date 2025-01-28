@@ -1,0 +1,11 @@
+{
+  "id": "8dc19f2a-08ab-47cb-859d-5db0cc4d7bf0",
+  "object": "beer",
+  "name": "Devil's Rest",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ca8fc29-2c90-42ac-8e9e-cab0ad8c23a6",
+  "object": "beer",
+  "name": "Hack's American Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

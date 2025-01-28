@@ -1,0 +1,11 @@
+{
+  "id": "2cc9af20-223b-42a3-89fa-1058e9ee57b1",
+  "object": "beer",
+  "name": "Deadpan",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

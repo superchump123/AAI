@@ -1,0 +1,11 @@
+{
+  "id": "895730fe-8f86-4ebc-9f94-66ed163396fc",
+  "object": "beer",
+  "name": "Cascading Dark Ale",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

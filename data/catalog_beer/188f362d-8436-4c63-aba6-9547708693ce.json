@@ -1,0 +1,11 @@
+{
+  "id": "188f362d-8436-4c63-aba6-9547708693ce",
+  "object": "beer",
+  "name": "HopJack",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

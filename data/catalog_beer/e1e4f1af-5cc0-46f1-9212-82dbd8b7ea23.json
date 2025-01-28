@@ -1,0 +1,11 @@
+{
+  "id": "e1e4f1af-5cc0-46f1-9212-82dbd8b7ea23",
+  "object": "beer",
+  "name": "Lhasa Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5b98ec46-f23c-4de9-9afc-3ab56d2cdcca",
+  "object": "beer",
+  "name": "FAT UNICORN PALE ALE",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

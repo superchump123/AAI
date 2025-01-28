@@ -1,0 +1,11 @@
+{
+  "id": "5b550e2b-35bd-4e97-ba23-245b4a4e36fb",
+  "object": "beer",
+  "name": "Ham on Rye",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

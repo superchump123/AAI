@@ -1,0 +1,11 @@
+{
+  "id": "26e2a1fd-658d-4d43-9804-9ddf5909e29e",
+  "object": "beer",
+  "name": "Wolters Herbstbier",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

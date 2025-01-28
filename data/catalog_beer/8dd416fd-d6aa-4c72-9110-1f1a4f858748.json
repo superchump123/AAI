@@ -1,0 +1,11 @@
+{
+  "id": "8dd416fd-d6aa-4c72-9110-1f1a4f858748",
+  "object": "beer",
+  "name": "Wheels of Soul",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

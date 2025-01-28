@@ -1,0 +1,11 @@
+{
+  "id": "d5751ad4-a9f6-406c-ad42-4514fdc6f6a2",
+  "object": "beer",
+  "name": "Bristol",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

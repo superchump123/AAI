@@ -1,0 +1,11 @@
+{
+  "id": "3b7ae6c9-7b68-4da2-8a61-4c40152bba3d",
+  "object": "beer",
+  "name": "Schilling Grapefruit Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

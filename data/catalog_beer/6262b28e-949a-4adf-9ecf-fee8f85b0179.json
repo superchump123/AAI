@@ -1,0 +1,11 @@
+{
+  "id": "6262b28e-949a-4adf-9ecf-fee8f85b0179",
+  "object": "beer",
+  "name": "Solo Flight American Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

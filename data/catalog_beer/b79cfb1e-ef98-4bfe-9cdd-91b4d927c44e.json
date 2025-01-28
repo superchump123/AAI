@@ -1,0 +1,11 @@
+{
+  "id": "b79cfb1e-ef98-4bfe-9cdd-91b4d927c44e",
+  "object": "beer",
+  "name": "Black Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

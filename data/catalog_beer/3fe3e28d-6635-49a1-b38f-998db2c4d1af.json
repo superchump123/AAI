@@ -1,0 +1,11 @@
+{
+  "id": "3fe3e28d-6635-49a1-b38f-998db2c4d1af",
+  "object": "beer",
+  "name": "Catch 23",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

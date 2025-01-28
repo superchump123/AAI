@@ -1,0 +1,11 @@
+{
+  "id": "7712825d-d3a8-4cff-a9f1-f654fb4870de",
+  "object": "beer",
+  "name": "Climax Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

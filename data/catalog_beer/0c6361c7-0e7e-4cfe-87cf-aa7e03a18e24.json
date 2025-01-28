@@ -1,0 +1,11 @@
+{
+  "id": "0c6361c7-0e7e-4cfe-87cf-aa7e03a18e24",
+  "object": "beer",
+  "name": "Red King",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

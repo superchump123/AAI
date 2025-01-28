@@ -1,0 +1,11 @@
+{
+  "id": "12c03243-5d4a-4a2b-8773-f6edc850f4c9",
+  "object": "beer",
+  "name": "Scrumpy",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

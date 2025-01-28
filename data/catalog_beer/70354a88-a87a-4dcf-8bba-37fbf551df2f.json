@@ -1,0 +1,11 @@
+{
+  "id": "70354a88-a87a-4dcf-8bba-37fbf551df2f",
+  "object": "beer",
+  "name": "Steel Wheels",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

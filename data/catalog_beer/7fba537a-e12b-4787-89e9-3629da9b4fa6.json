@@ -1,0 +1,11 @@
+{
+  "id": "7fba537a-e12b-4787-89e9-3629da9b4fa6",
+  "object": "beer",
+  "name": "Sour Patch Pumkin Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

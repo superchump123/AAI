@@ -1,0 +1,11 @@
+{
+  "id": "0fbed9cb-d1b0-4960-b46f-1c0716c7e7c7",
+  "object": "beer",
+  "name": "Green Chili Ale",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

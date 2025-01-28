@@ -1,0 +1,11 @@
+{
+  "id": "ecb18a82-22bc-47a2-becf-33798138ba12",
+  "object": "beer",
+  "name": "Hopski",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

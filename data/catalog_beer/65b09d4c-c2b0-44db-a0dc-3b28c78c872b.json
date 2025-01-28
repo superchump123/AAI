@@ -1,0 +1,11 @@
+{
+  "id": "65b09d4c-c2b0-44db-a0dc-3b28c78c872b",
+  "object": "beer",
+  "name": "The Devil Went Down To Oregon",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

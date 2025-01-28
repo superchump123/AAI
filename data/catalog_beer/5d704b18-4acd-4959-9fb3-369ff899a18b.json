@@ -1,0 +1,11 @@
+{
+  "id": "5d704b18-4acd-4959-9fb3-369ff899a18b",
+  "object": "beer",
+  "name": "Turn Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

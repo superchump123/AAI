@@ -1,0 +1,11 @@
+{
+  "id": "c39c2959-49b8-4c6a-bc1f-1e216bcd85bc",
+  "object": "beer",
+  "name": "The Witty Goat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

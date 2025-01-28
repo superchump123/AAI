@@ -1,0 +1,11 @@
+{
+  "id": "dc91f773-c715-4a7b-9b04-74f1c65cdc7b",
+  "object": "beer",
+  "name": "Galactic",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

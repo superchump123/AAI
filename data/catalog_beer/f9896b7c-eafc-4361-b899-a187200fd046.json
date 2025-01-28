@@ -1,0 +1,11 @@
+{
+  "id": "f9896b7c-eafc-4361-b899-a187200fd046",
+  "object": "beer",
+  "name": "Bullet Tooth",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c8afeddc-8268-4556-8f57-fe664eddab81",
+  "object": "beer",
+  "name": "Swanky Monk",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

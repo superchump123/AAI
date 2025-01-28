@@ -1,0 +1,11 @@
+{
+  "id": "6ab0cc55-b68d-4ed8-a313-70eef993ce26",
+  "object": "beer",
+  "name": "Copperhead Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

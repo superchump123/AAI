@@ -1,0 +1,11 @@
+{
+  "id": "421b6d6a-2547-41a0-8c5b-c2dae4521211",
+  "object": "beer",
+  "name": "Cerveza Espacial",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

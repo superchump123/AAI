@@ -1,0 +1,11 @@
+{
+  "id": "11b5d8f0-0a2a-4367-83fc-64ddd3e0a50c",
+  "object": "beer",
+  "name": "Stovepipe Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

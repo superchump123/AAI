@@ -1,0 +1,11 @@
+{
+  "id": "35a70e2c-3e2e-42af-af92-76272b3cd381",
+  "object": "beer",
+  "name": "Java Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

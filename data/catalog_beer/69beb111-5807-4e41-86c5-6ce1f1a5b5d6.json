@@ -1,0 +1,11 @@
+{
+  "id": "69beb111-5807-4e41-86c5-6ce1f1a5b5d6",
+  "object": "beer",
+  "name": "Flying Magic Zebras",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

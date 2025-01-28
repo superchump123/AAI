@@ -1,0 +1,11 @@
+{
+  "id": "aed18957-d425-4848-beaa-0ff47ef942ae",
+  "object": "beer",
+  "name": "Temple Ridge",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

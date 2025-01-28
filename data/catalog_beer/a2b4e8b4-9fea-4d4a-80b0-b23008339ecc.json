@@ -1,0 +1,11 @@
+{
+  "id": "a2b4e8b4-9fea-4d4a-80b0-b23008339ecc",
+  "object": "beer",
+  "name": "Mild Brown",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

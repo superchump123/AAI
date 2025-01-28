@@ -1,0 +1,11 @@
+{
+  "id": "64264a34-e645-41eb-9cbe-ebf97d3f925e",
+  "object": "beer",
+  "name": "5th Voyage",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

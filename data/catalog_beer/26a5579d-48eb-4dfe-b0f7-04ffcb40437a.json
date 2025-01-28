@@ -1,0 +1,11 @@
+{
+  "id": "26a5579d-48eb-4dfe-b0f7-04ffcb40437a",
+  "object": "beer",
+  "name": "Disco Lemonade",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

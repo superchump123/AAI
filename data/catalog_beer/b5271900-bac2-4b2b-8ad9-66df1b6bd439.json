@@ -1,0 +1,11 @@
+{
+  "id": "b5271900-bac2-4b2b-8ad9-66df1b6bd439",
+  "object": "beer",
+  "name": "Hell",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

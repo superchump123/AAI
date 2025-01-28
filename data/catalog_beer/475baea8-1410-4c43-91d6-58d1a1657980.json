@@ -1,0 +1,11 @@
+{
+  "id": "475baea8-1410-4c43-91d6-58d1a1657980",
+  "object": "beer",
+  "name": "The Point",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

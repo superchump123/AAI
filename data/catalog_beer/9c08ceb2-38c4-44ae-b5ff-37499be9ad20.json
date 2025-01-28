@@ -1,0 +1,11 @@
+{
+  "id": "9c08ceb2-38c4-44ae-b5ff-37499be9ad20",
+  "object": "beer",
+  "name": "Pure Blonde Naked",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

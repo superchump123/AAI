@@ -1,0 +1,11 @@
+{
+  "id": "2ea79288-ae38-4d8e-9a00-880f356ca133",
+  "object": "beer",
+  "name": "Potus 3",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

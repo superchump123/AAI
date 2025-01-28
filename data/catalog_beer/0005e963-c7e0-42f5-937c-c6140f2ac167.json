@@ -1,0 +1,11 @@
+{
+  "id": "0005e963-c7e0-42f5-937c-c6140f2ac167",
+  "object": "beer",
+  "name": "Ruby Jazz Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

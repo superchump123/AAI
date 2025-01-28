@@ -1,0 +1,11 @@
+{
+  "id": "0a90cc51-36f5-4533-81df-82f38957a2f7",
+  "object": "beer",
+  "name": "RoughRiders Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

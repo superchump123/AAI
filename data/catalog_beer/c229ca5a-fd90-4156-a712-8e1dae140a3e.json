@@ -1,0 +1,11 @@
+{
+  "id": "c229ca5a-fd90-4156-a712-8e1dae140a3e",
+  "object": "beer",
+  "name": "Lazarus",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

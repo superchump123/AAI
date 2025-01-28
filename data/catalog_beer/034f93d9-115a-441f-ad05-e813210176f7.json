@@ -1,0 +1,11 @@
+{
+  "id": "034f93d9-115a-441f-ad05-e813210176f7",
+  "object": "beer",
+  "name": "Double Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

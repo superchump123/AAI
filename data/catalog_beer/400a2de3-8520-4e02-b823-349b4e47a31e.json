@@ -1,0 +1,11 @@
+{
+  "id": "400a2de3-8520-4e02-b823-349b4e47a31e",
+  "object": "beer",
+  "name": "Waterman's Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

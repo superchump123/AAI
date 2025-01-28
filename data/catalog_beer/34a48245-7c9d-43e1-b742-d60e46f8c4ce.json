@@ -1,0 +1,11 @@
+{
+  "id": "34a48245-7c9d-43e1-b742-d60e46f8c4ce",
+  "object": "beer",
+  "name": "Ladies and Gentlemen",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

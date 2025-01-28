@@ -1,0 +1,11 @@
+{
+  "id": "cf14ec69-0263-4aeb-9a20-623b824ab3f0",
+  "object": "beer",
+  "name": "Red Rye Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

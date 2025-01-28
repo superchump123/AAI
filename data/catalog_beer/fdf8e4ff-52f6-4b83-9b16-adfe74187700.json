@@ -1,0 +1,11 @@
+{
+  "id": "fdf8e4ff-52f6-4b83-9b16-adfe74187700",
+  "object": "beer",
+  "name": "Cubano Walker",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

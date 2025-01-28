@@ -1,0 +1,11 @@
+{
+  "id": "bc43f60f-414c-4bcc-b6aa-60f2f0949de3",
+  "object": "beer",
+  "name": "Rockaway ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

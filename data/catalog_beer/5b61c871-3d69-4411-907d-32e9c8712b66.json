@@ -1,0 +1,11 @@
+{
+  "id": "5b61c871-3d69-4411-907d-32e9c8712b66",
+  "object": "beer",
+  "name": "Chocolate MInt",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

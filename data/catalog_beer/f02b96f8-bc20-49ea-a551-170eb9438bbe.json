@@ -1,0 +1,11 @@
+{
+  "id": "f02b96f8-bc20-49ea-a551-170eb9438bbe",
+  "object": "beer",
+  "name": "The Corner Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

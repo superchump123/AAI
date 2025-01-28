@@ -1,0 +1,11 @@
+{
+  "id": "8aadfbef-944b-4f55-ac69-859c0599f75b",
+  "object": "beer",
+  "name": "Black Bauble",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

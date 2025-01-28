@@ -1,0 +1,11 @@
+{
+  "id": "44d41c8a-97ad-41f4-af5f-646ef109bbc6",
+  "object": "beer",
+  "name": "Glass Hopper",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

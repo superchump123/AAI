@@ -1,0 +1,11 @@
+{
+  "id": "94fa1362-dbbd-41cf-a90d-16821ef13a80",
+  "object": "beer",
+  "name": "Beaver Bite",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

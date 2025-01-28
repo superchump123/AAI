@@ -1,0 +1,11 @@
+{
+  "id": "222e0117-1d7f-4a58-9ff0-88b0ea9e55d8",
+  "object": "beer",
+  "name": "Braveheart Nitro",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

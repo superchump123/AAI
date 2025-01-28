@@ -1,0 +1,11 @@
+{
+  "id": "4bea9f45-1f10-4772-847d-1a1828d79015",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

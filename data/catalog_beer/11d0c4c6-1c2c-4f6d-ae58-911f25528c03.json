@@ -1,0 +1,11 @@
+{
+  "id": "11d0c4c6-1c2c-4f6d-ae58-911f25528c03",
+  "object": "beer",
+  "name": "Blackcat Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

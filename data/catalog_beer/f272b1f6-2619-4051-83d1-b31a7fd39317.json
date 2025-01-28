@@ -1,0 +1,11 @@
+{
+  "id": "f272b1f6-2619-4051-83d1-b31a7fd39317",
+  "object": "beer",
+  "name": "Spring Equinox",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

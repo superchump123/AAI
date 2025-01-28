@@ -1,0 +1,11 @@
+{
+  "id": "39d68ba8-6ce4-42a2-ba50-52219a197065",
+  "object": "beer",
+  "name": "Cahoots",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "15e30f4e-e71c-4e5f-9f55-03dc37a32158",
+  "object": "beer",
+  "name": "LMFAO Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b6aa1139-3aaa-4d42-a469-93957dea3b20",
+  "object": "beer",
+  "name": "Sacred Gruit Ale",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

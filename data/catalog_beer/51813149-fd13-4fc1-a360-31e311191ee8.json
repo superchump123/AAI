@@ -1,0 +1,11 @@
+{
+  "id": "51813149-fd13-4fc1-a360-31e311191ee8",
+  "object": "beer",
+  "name": "St. Patrick's Best",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

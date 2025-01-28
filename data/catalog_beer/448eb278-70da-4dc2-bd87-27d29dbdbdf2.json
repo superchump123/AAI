@@ -1,0 +1,11 @@
+{
+  "id": "448eb278-70da-4dc2-bd87-27d29dbdbdf2",
+  "object": "beer",
+  "name": "Paradigm Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

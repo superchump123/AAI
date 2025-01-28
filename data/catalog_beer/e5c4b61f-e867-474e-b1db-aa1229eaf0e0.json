@@ -1,0 +1,11 @@
+{
+  "id": "e5c4b61f-e867-474e-b1db-aa1229eaf0e0",
+  "object": "beer",
+  "name": "Farmer",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

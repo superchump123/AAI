@@ -1,0 +1,11 @@
+{
+  "id": "83eb9644-6eae-4c7a-967f-c9506da2f304",
+  "object": "beer",
+  "name": "21 Guns",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06d7ae0b-5434-4442-adef-18999348929a",
+  "object": "beer",
+  "name": "Black Ops IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cf95e462-2f30-42d7-a338-b0b3a4e9e41b",
+  "object": "beer",
+  "name": "Eirik Bloodaxe",
+  "style": "Braggot",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

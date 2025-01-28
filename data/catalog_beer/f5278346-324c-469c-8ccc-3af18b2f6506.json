@@ -1,0 +1,11 @@
+{
+  "id": "f5278346-324c-469c-8ccc-3af18b2f6506",
+  "object": "beer",
+  "name": "Jupiter Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

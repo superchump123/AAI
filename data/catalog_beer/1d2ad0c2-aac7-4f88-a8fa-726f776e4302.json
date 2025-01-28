@@ -1,0 +1,11 @@
+{
+  "id": "1d2ad0c2-aac7-4f88-a8fa-726f776e4302",
+  "object": "beer",
+  "name": "Hallowed Be Thy Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

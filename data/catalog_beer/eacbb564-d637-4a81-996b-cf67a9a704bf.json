@@ -1,0 +1,11 @@
+{
+  "id": "eacbb564-d637-4a81-996b-cf67a9a704bf",
+  "object": "beer",
+  "name": "Udderly Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

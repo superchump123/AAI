@@ -1,0 +1,11 @@
+{
+  "id": "65343bd7-cd51-46c3-8998-853eabd8393d",
+  "object": "beer",
+  "name": "BarrelHouse Black Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e0f1333-0d7c-4188-94a9-d98b8b2b41ab",
+  "object": "beer",
+  "name": "CNY Harvest Ale",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

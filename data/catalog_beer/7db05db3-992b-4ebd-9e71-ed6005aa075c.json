@@ -1,0 +1,11 @@
+{
+  "id": "7db05db3-992b-4ebd-9e71-ed6005aa075c",
+  "object": "beer",
+  "name": "Under the Table Belgian Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

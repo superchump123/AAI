@@ -1,0 +1,11 @@
+{
+  "id": "e4c833d9-ce0d-48dc-8d15-5478a9de1036",
+  "object": "beer",
+  "name": "Harvest IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

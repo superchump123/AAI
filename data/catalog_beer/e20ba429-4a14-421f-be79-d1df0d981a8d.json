@@ -1,0 +1,11 @@
+{
+  "id": "e20ba429-4a14-421f-be79-d1df0d981a8d",
+  "object": "beer",
+  "name": "Bloody Show",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

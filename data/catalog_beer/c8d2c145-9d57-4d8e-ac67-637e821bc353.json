@@ -1,0 +1,11 @@
+{
+  "id": "c8d2c145-9d57-4d8e-ac67-637e821bc353",
+  "object": "beer",
+  "name": "New Growth",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

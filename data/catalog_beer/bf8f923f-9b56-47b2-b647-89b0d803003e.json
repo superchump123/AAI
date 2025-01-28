@@ -1,0 +1,11 @@
+{
+  "id": "bf8f923f-9b56-47b2-b647-89b0d803003e",
+  "object": "beer",
+  "name": "Bleidorf Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

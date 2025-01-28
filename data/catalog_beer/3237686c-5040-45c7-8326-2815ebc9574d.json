@@ -1,0 +1,11 @@
+{
+  "id": "3237686c-5040-45c7-8326-2815ebc9574d",
+  "object": "beer",
+  "name": "Lowcountry Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

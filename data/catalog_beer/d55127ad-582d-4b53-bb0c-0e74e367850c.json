@@ -1,0 +1,11 @@
+{
+  "id": "d55127ad-582d-4b53-bb0c-0e74e367850c",
+  "object": "beer",
+  "name": "Kashmir",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "85e7e72e-f00c-4733-b258-5630660d7cd9",
+  "object": "beer",
+  "name": "Arend Blond",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

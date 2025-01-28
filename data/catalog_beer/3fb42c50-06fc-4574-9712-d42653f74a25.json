@@ -1,0 +1,11 @@
+{
+  "id": "3fb42c50-06fc-4574-9712-d42653f74a25",
+  "object": "beer",
+  "name": "Black Onyx",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

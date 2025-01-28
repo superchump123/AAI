@@ -1,0 +1,11 @@
+{
+  "id": "664f4959-0236-4bfa-807a-dd0ab23f0684",
+  "object": "beer",
+  "name": "Live Free Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

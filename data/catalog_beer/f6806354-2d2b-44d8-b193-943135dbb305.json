@@ -1,0 +1,11 @@
+{
+  "id": "f6806354-2d2b-44d8-b193-943135dbb305",
+  "object": "beer",
+  "name": "Transcontinental",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

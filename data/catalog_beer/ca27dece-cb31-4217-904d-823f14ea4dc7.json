@@ -1,0 +1,11 @@
+{
+  "id": "ca27dece-cb31-4217-904d-823f14ea4dc7",
+  "object": "beer",
+  "name": "Smiling Lizard Shandy",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

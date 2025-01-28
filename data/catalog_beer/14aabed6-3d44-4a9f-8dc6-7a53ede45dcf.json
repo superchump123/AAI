@@ -1,0 +1,11 @@
+{
+  "id": "14aabed6-3d44-4a9f-8dc6-7a53ede45dcf",
+  "object": "beer",
+  "name": "Lemon Yellow Sun",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1ed795c4-1725-4b1b-963b-03b7fa978400",
+  "object": "beer",
+  "name": "Placer ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

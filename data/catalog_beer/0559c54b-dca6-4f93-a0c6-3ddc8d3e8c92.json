@@ -1,0 +1,11 @@
+{
+  "id": "0559c54b-dca6-4f93-a0c6-3ddc8d3e8c92",
+  "object": "beer",
+  "name": "Aarh Hvad?!",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f0a763c6-7f94-4968-a985-605263087f8f",
+  "object": "beer",
+  "name": "Blackberry Deduction",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

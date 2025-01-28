@@ -1,0 +1,11 @@
+{
+  "id": "fb9011fb-f55f-4548-bccd-fd6017137aff",
+  "object": "beer",
+  "name": "Fig Saison Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "73762f53-a9a7-498e-ae73-81cfb07e472a",
+  "object": "beer",
+  "name": "Ladyface Anniversary Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

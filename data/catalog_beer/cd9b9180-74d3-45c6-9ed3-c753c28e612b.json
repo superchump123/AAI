@@ -1,0 +1,11 @@
+{
+  "id": "cd9b9180-74d3-45c6-9ed3-c753c28e612b",
+  "object": "beer",
+  "name": "Krysztoff",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

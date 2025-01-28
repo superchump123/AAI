@@ -1,0 +1,11 @@
+{
+  "id": "c8a93f50-3fe8-44fa-9ce1-bf4c57c93aa5",
+  "object": "beer",
+  "name": "Raspberry Bandit",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

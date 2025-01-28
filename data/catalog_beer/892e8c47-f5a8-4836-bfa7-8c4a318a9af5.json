@@ -1,0 +1,11 @@
+{
+  "id": "892e8c47-f5a8-4836-bfa7-8c4a318a9af5",
+  "object": "beer",
+  "name": "Worthy Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

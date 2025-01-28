@@ -1,0 +1,11 @@
+{
+  "id": "c944805a-ea7d-485e-99d2-5a8a237a8781",
+  "object": "beer",
+  "name": "Gose All The Way",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": 3,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

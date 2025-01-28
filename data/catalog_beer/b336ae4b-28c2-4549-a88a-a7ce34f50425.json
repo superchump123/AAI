@@ -1,0 +1,11 @@
+{
+  "id": "b336ae4b-28c2-4549-a88a-a7ce34f50425",
+  "object": "beer",
+  "name": "Tough Kitty",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

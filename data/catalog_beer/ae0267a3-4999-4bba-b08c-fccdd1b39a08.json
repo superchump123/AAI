@@ -1,0 +1,11 @@
+{
+  "id": "ae0267a3-4999-4bba-b08c-fccdd1b39a08",
+  "object": "beer",
+  "name": "Big Bunny Cascadian Dark Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

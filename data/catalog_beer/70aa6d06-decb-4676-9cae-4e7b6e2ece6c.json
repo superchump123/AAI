@@ -1,0 +1,11 @@
+{
+  "id": "70aa6d06-decb-4676-9cae-4e7b6e2ece6c",
+  "object": "beer",
+  "name": "Caff\u00e8 Americano",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bf3481ca-c37c-4d67-a807-7be063e2a4ef",
+  "object": "beer",
+  "name": "Something Hoppy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

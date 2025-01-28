@@ -1,0 +1,11 @@
+{
+  "id": "d0ab7270-54cc-4a4a-af6a-25b6bc20040e",
+  "object": "beer",
+  "name": "Klevenkop",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

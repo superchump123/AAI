@@ -1,0 +1,11 @@
+{
+  "id": "a5ea6d15-108a-4602-84f4-b701b120f766",
+  "object": "beer",
+  "name": "Ama Mora",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

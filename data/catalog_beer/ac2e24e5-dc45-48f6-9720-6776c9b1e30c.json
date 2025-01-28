@@ -1,0 +1,11 @@
+{
+  "id": "ac2e24e5-dc45-48f6-9720-6776c9b1e30c",
+  "object": "beer",
+  "name": "Winter Haze",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

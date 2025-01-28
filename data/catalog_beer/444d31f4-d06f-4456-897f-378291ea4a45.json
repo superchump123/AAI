@@ -1,0 +1,11 @@
+{
+  "id": "444d31f4-d06f-4456-897f-378291ea4a45",
+  "object": "beer",
+  "name": "Sweet Tarts",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

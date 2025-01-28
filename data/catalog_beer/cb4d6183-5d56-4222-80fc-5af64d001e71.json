@@ -1,0 +1,11 @@
+{
+  "id": "cb4d6183-5d56-4222-80fc-5af64d001e71",
+  "object": "beer",
+  "name": "Last Red Cent",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

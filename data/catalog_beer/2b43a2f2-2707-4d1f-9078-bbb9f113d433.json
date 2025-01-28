@@ -1,0 +1,11 @@
+{
+  "id": "2b43a2f2-2707-4d1f-9078-bbb9f113d433",
+  "object": "beer",
+  "name": "Hopulization",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

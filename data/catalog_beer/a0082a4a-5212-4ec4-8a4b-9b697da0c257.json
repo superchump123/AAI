@@ -1,0 +1,11 @@
+{
+  "id": "a0082a4a-5212-4ec4-8a4b-9b697da0c257",
+  "object": "beer",
+  "name": "Santa's Little Helper",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

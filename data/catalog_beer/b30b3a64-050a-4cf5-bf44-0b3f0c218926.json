@@ -1,0 +1,11 @@
+{
+  "id": "b30b3a64-050a-4cf5-bf44-0b3f0c218926",
+  "object": "beer",
+  "name": "Blue-Eyed Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

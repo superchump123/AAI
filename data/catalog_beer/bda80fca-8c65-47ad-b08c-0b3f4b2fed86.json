@@ -1,0 +1,11 @@
+{
+  "id": "bda80fca-8c65-47ad-b08c-0b3f4b2fed86",
+  "object": "beer",
+  "name": "Epiphany SMASH",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

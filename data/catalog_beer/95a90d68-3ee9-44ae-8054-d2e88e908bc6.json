@@ -1,0 +1,11 @@
+{
+  "id": "95a90d68-3ee9-44ae-8054-d2e88e908bc6",
+  "object": "beer",
+  "name": "Whole Hog Six-Hop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

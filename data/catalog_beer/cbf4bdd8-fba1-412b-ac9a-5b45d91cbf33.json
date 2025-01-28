@@ -1,0 +1,11 @@
+{
+  "id": "cbf4bdd8-fba1-412b-ac9a-5b45d91cbf33",
+  "object": "beer",
+  "name": "Paint Rock Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

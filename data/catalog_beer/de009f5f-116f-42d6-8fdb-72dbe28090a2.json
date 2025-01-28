@@ -1,0 +1,11 @@
+{
+  "id": "de009f5f-116f-42d6-8fdb-72dbe28090a2",
+  "object": "beer",
+  "name": "The Return of Ichabod's Oatmeal Pumpkin Stout",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

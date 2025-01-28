@@ -1,0 +1,11 @@
+{
+  "id": "e6453acc-af94-46f4-85f5-813cc3566905",
+  "object": "beer",
+  "name": "The Wizard",
+  "style": "Wit/White Ale",
+  "description": "The Wit, Witbier or White Ale is a staple among Belgian brewers and is an ideal style for those seeking a drinkable yet full flavored beer. The large quantities of wheat lend a slight bready tang that compliments the orange peel and coriander spice we add to the boil. This beer is meant to be cloudy from the suspended yeast and proteins from the wheat malt. The fruit notes, phenolic spiciness of the yeast and tanginess of the wheat malt make this a refreshing yet complex beer.",
+  "abv": 5.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "972491d2-a64f-4e4b-83e9-86de15d6534f",
+  "object": "beer",
+  "name": "Grapefruit Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

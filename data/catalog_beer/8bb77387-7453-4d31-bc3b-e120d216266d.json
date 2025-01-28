@@ -1,0 +1,11 @@
+{
+  "id": "8bb77387-7453-4d31-bc3b-e120d216266d",
+  "object": "beer",
+  "name": "Whiskey Sour",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

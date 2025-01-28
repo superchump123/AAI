@@ -1,0 +1,11 @@
+{
+  "id": "2e8237af-72ab-47fe-b004-b1fa35e67e89",
+  "object": "beer",
+  "name": "Vinalia Urbana",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

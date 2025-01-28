@@ -1,0 +1,11 @@
+{
+  "id": "0604cf5b-2405-4aa0-a88d-21d755af0d1e",
+  "object": "beer",
+  "name": "Mucho Aloha Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

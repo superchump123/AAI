@@ -1,0 +1,11 @@
+{
+  "id": "b2a883b8-bc33-4a5e-867d-763ffcd22527",
+  "object": "beer",
+  "name": "Wine Barrel Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

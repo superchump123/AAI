@@ -1,0 +1,11 @@
+{
+  "id": "9ccb993b-b668-4592-8aec-391ef24f44f4",
+  "object": "beer",
+  "name": "Kilowatt Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

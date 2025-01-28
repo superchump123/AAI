@@ -1,0 +1,11 @@
+{
+  "id": "91ea9a7c-a31c-449b-bd80-589c07480dbe",
+  "object": "beer",
+  "name": "Short Sleeve",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

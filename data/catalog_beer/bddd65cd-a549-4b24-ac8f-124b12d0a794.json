@@ -1,0 +1,11 @@
+{
+  "id": "bddd65cd-a549-4b24-ac8f-124b12d0a794",
+  "object": "beer",
+  "name": "Four",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

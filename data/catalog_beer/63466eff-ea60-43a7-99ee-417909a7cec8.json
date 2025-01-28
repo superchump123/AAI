@@ -1,0 +1,11 @@
+{
+  "id": "63466eff-ea60-43a7-99ee-417909a7cec8",
+  "object": "beer",
+  "name": "Coco Rasa",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

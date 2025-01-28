@@ -1,0 +1,11 @@
+{
+  "id": "f43cd983-1438-4d29-8e69-f02e9a6cf19f",
+  "object": "beer",
+  "name": "Deadwood Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

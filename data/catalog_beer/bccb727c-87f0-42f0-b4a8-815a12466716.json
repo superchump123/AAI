@@ -1,0 +1,11 @@
+{
+  "id": "bccb727c-87f0-42f0-b4a8-815a12466716",
+  "object": "beer",
+  "name": "Charles De Mar",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e74e92a6-74f3-4e44-8e0b-11755578ae9e",
+  "object": "beer",
+  "name": "Huckleberry Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 1.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

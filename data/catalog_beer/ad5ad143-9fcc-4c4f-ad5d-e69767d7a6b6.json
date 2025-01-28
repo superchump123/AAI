@@ -1,0 +1,11 @@
+{
+  "id": "ad5ad143-9fcc-4c4f-ad5d-e69767d7a6b6",
+  "object": "beer",
+  "name": "Hoppy Seconds",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

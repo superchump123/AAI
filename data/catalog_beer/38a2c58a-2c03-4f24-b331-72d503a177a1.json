@@ -1,0 +1,11 @@
+{
+  "id": "38a2c58a-2c03-4f24-b331-72d503a177a1",
+  "object": "beer",
+  "name": "Bourbon Barrel Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

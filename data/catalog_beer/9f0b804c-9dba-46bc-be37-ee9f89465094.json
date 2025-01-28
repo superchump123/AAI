@@ -1,0 +1,11 @@
+{
+  "id": "9f0b804c-9dba-46bc-be37-ee9f89465094",
+  "object": "beer",
+  "name": "bOOb Check",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

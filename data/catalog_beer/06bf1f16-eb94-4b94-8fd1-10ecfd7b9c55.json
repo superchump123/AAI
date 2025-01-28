@@ -1,0 +1,11 @@
+{
+  "id": "06bf1f16-eb94-4b94-8fd1-10ecfd7b9c55",
+  "object": "beer",
+  "name": "Bauren Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

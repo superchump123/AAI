@@ -1,0 +1,11 @@
+{
+  "id": "9114056b-10e3-42e3-b0a2-98ba03e7e967",
+  "object": "beer",
+  "name": "Liberator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

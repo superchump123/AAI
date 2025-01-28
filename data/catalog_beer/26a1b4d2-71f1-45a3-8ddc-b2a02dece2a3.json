@@ -1,0 +1,11 @@
+{
+  "id": "26a1b4d2-71f1-45a3-8ddc-b2a02dece2a3",
+  "object": "beer",
+  "name": "Pomme Par Jour",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

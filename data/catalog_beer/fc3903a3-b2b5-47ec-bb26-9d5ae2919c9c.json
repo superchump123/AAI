@@ -1,0 +1,11 @@
+{
+  "id": "fc3903a3-b2b5-47ec-bb26-9d5ae2919c9c",
+  "object": "beer",
+  "name": "5 & 20 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

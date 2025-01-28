@@ -1,0 +1,11 @@
+{
+  "id": "5be5ffeb-e548-4002-8c27-b7a8b4ee21c4",
+  "object": "beer",
+  "name": "Hop Gose The Grapefruit",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

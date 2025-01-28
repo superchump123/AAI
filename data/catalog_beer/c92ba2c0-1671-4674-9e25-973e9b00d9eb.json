@@ -1,0 +1,11 @@
+{
+  "id": "c92ba2c0-1671-4674-9e25-973e9b00d9eb",
+  "object": "beer",
+  "name": "Clifford the Big Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

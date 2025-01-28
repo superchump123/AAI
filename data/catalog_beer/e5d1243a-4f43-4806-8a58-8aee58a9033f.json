@@ -1,0 +1,11 @@
+{
+  "id": "e5d1243a-4f43-4806-8a58-8aee58a9033f",
+  "object": "beer",
+  "name": "Sequestered Blueberry Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

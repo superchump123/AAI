@@ -1,0 +1,11 @@
+{
+  "id": "f5692c79-26d8-4167-ae17-7ca4617400c2",
+  "object": "beer",
+  "name": "Suebi Doo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

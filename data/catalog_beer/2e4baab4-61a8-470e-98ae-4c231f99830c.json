@@ -1,0 +1,11 @@
+{
+  "id": "2e4baab4-61a8-470e-98ae-4c231f99830c",
+  "object": "beer",
+  "name": "Cutthroat Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

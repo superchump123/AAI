@@ -1,0 +1,11 @@
+{
+  "id": "35bbdede-3b21-4ed5-89f0-a58f7d507da3",
+  "object": "beer",
+  "name": "Matt's Burning Rosides",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

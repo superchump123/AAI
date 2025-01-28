@@ -1,0 +1,11 @@
+{
+  "id": "b70f647a-4253-4aff-b020-257ce014cfc2",
+  "object": "beer",
+  "name": "Fain's Sword",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

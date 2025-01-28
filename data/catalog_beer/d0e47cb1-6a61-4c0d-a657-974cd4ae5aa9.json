@@ -1,0 +1,11 @@
+{
+  "id": "d0e47cb1-6a61-4c0d-a657-974cd4ae5aa9",
+  "object": "beer",
+  "name": "Blue Eyed Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

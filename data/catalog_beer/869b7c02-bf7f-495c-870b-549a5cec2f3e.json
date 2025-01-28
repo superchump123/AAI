@@ -1,0 +1,11 @@
+{
+  "id": "869b7c02-bf7f-495c-870b-549a5cec2f3e",
+  "object": "beer",
+  "name": "Disel",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

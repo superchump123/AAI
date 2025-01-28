@@ -1,0 +1,11 @@
+{
+  "id": "42201d1c-537f-49c1-b209-893d8f404046",
+  "object": "beer",
+  "name": "Double ZZ Razzberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

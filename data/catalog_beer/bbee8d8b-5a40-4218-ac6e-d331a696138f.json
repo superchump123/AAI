@@ -1,0 +1,11 @@
+{
+  "id": "bbee8d8b-5a40-4218-ac6e-d331a696138f",
+  "object": "beer",
+  "name": "Stone Levitation Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

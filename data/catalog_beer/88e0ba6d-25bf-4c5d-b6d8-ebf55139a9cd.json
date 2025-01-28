@@ -1,0 +1,11 @@
+{
+  "id": "88e0ba6d-25bf-4c5d-b6d8-ebf55139a9cd",
+  "object": "beer",
+  "name": "Nitro Night",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

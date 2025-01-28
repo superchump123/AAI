@@ -1,0 +1,11 @@
+{
+  "id": "52ee21a3-71d5-4e1f-93f5-33ac13e20b2a",
+  "object": "beer",
+  "name": "River Rat Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

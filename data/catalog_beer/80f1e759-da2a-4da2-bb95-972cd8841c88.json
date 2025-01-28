@@ -1,0 +1,11 @@
+{
+  "id": "80f1e759-da2a-4da2-bb95-972cd8841c88",
+  "object": "beer",
+  "name": "Serrano Pepper Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

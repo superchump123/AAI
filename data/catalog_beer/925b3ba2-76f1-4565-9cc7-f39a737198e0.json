@@ -1,0 +1,11 @@
+{
+  "id": "925b3ba2-76f1-4565-9cc7-f39a737198e0",
+  "object": "beer",
+  "name": "Day Drinker",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

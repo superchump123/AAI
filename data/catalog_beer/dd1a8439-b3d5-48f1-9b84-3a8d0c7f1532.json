@@ -1,0 +1,11 @@
+{
+  "id": "dd1a8439-b3d5-48f1-9b84-3a8d0c7f1532",
+  "object": "beer",
+  "name": "Jetty Cream Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

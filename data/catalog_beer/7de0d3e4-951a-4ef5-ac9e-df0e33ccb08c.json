@@ -1,0 +1,11 @@
+{
+  "id": "7de0d3e4-951a-4ef5-ac9e-df0e33ccb08c",
+  "object": "beer",
+  "name": "Michigan Mud",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

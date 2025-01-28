@@ -1,0 +1,11 @@
+{
+  "id": "bfe8fe7c-c240-4dad-baf1-199ae4e7b626",
+  "object": "beer",
+  "name": "Semi Conductor",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

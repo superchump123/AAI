@@ -1,0 +1,11 @@
+{
+  "id": "ec10d976-d803-463e-8268-13c2a7d09e7a",
+  "object": "beer",
+  "name": "Tree Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

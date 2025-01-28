@@ -1,0 +1,11 @@
+{
+  "id": "98bd697e-b154-4f3e-8dc3-fab7bdbeb2d5",
+  "object": "beer",
+  "name": "Every Minute IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

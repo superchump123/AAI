@@ -1,0 +1,11 @@
+{
+  "id": "d450bc34-3092-4c6a-a691-0448ec21065b",
+  "object": "beer",
+  "name": "Blithering Idiot",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.1,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

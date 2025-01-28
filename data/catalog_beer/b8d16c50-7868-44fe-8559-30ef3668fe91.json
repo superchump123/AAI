@@ -1,0 +1,11 @@
+{
+  "id": "b8d16c50-7868-44fe-8559-30ef3668fe91",
+  "object": "beer",
+  "name": "Foggy Quahog",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

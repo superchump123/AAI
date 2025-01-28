@@ -1,0 +1,11 @@
+{
+  "id": "ee8b8d1a-65ee-4787-be44-8a7147f802eb",
+  "object": "beer",
+  "name": "Tailgater",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

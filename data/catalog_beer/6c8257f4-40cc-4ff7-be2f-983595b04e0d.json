@@ -1,0 +1,11 @@
+{
+  "id": "6c8257f4-40cc-4ff7-be2f-983595b04e0d",
+  "object": "beer",
+  "name": "Summer",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

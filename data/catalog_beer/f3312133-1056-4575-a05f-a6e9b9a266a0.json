@@ -1,0 +1,11 @@
+{
+  "id": "f3312133-1056-4575-a05f-a6e9b9a266a0",
+  "object": "beer",
+  "name": "Slainte",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3f9a77b2-cab2-480d-a79b-b2fdb67fa97f",
+  "object": "beer",
+  "name": "Gumption",
+  "style": "New England Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

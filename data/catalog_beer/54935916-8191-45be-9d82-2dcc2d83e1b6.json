@@ -1,0 +1,11 @@
+{
+  "id": "54935916-8191-45be-9d82-2dcc2d83e1b6",
+  "object": "beer",
+  "name": "Michelob Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

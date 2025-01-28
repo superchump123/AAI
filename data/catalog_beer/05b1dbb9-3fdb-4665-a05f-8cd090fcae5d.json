@@ -1,0 +1,11 @@
+{
+  "id": "05b1dbb9-3fdb-4665-a05f-8cd090fcae5d",
+  "object": "beer",
+  "name": "Fresh Bread",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

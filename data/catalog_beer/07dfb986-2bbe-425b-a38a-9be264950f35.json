@@ -1,0 +1,11 @@
+{
+  "id": "07dfb986-2bbe-425b-a38a-9be264950f35",
+  "object": "beer",
+  "name": "Tres pa\u2019 Cuatro",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "96c68515-40f6-485d-a8c0-be4bd3965863",
+  "object": "beer",
+  "name": "Abrasive Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

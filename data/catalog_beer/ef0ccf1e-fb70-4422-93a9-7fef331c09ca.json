@@ -1,0 +1,11 @@
+{
+  "id": "ef0ccf1e-fb70-4422-93a9-7fef331c09ca",
+  "object": "beer",
+  "name": "Grolsch Premium Weizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

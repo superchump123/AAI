@@ -1,0 +1,11 @@
+{
+  "id": "50334c64-8052-4d9b-ae71-e18aa22904e9",
+  "object": "beer",
+  "name": "Truth, Justice and the American Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8c951da4-8907-4c25-8aca-ff3494c92bc3",
+  "object": "beer",
+  "name": "2XStout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

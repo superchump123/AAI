@@ -1,0 +1,11 @@
+{
+  "id": "b2f12b1c-ac6e-4b5f-8086-0605038217b3",
+  "object": "beer",
+  "name": "Permagrin Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

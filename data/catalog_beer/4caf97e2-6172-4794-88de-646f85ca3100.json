@@ -1,0 +1,11 @@
+{
+  "id": "4caf97e2-6172-4794-88de-646f85ca3100",
+  "object": "beer",
+  "name": "Quadrophenia",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

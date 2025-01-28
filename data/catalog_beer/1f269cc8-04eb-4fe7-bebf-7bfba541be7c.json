@@ -1,0 +1,11 @@
+{
+  "id": "1f269cc8-04eb-4fe7-bebf-7bfba541be7c",
+  "object": "beer",
+  "name": "Inspector Stonewall's Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

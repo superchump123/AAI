@@ -1,0 +1,11 @@
+{
+  "id": "8282913f-9732-4e28-9624-09d9436ccd7b",
+  "object": "beer",
+  "name": "Courage",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

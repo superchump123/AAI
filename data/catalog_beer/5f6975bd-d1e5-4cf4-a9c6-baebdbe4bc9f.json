@@ -1,0 +1,11 @@
+{
+  "id": "5f6975bd-d1e5-4cf4-a9c6-baebdbe4bc9f",
+  "object": "beer",
+  "name": "Red Wine Barrel Aged Shadow of Truth",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "eb92e3a8-f30f-4c3e-9b77-63072fc96c03",
+  "object": "beer",
+  "name": "Belgian Imperial Red",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

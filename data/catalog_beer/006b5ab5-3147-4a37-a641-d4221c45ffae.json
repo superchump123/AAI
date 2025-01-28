@@ -1,0 +1,11 @@
+{
+  "id": "006b5ab5-3147-4a37-a641-d4221c45ffae",
+  "object": "beer",
+  "name": "Mac Daddy",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

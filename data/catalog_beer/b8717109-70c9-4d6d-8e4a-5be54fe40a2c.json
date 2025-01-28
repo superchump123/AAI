@@ -1,0 +1,11 @@
+{
+  "id": "b8717109-70c9-4d6d-8e4a-5be54fe40a2c",
+  "object": "beer",
+  "name": "Hello",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

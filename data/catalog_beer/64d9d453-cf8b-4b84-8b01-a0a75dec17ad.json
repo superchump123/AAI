@@ -1,0 +1,11 @@
+{
+  "id": "64d9d453-cf8b-4b84-8b01-a0a75dec17ad",
+  "object": "beer",
+  "name": "KUKA - American Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "128af62f-8988-40cc-a1ca-b9f4835fb4b4",
+  "object": "beer",
+  "name": "Parrothead Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

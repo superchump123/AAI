@@ -1,0 +1,11 @@
+{
+  "id": "c45d17c4-ea7a-4f87-8413-c2407cecdee4",
+  "object": "beer",
+  "name": "Double Trouble",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 86,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

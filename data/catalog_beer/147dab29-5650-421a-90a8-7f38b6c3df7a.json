@@ -1,0 +1,11 @@
+{
+  "id": "147dab29-5650-421a-90a8-7f38b6c3df7a",
+  "object": "beer",
+  "name": "Session Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

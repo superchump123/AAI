@@ -1,0 +1,11 @@
+{
+  "id": "218649f3-3dd6-43f9-ba0d-a4cbfdf3ece3",
+  "object": "beer",
+  "name": "3 Kings",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

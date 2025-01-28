@@ -1,0 +1,11 @@
+{
+  "id": "ecbc4dc2-9da1-4a09-abeb-fd915f7dab1f",
+  "object": "beer",
+  "name": "Watermelon Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

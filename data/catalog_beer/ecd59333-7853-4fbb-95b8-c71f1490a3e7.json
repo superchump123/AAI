@@ -1,0 +1,11 @@
+{
+  "id": "ecd59333-7853-4fbb-95b8-c71f1490a3e7",
+  "object": "beer",
+  "name": "Cascadian Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

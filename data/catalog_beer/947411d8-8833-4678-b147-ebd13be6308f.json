@@ -1,0 +1,11 @@
+{
+  "id": "947411d8-8833-4678-b147-ebd13be6308f",
+  "object": "beer",
+  "name": "Storm Cat",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

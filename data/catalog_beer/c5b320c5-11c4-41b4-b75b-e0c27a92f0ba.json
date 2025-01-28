@@ -1,0 +1,11 @@
+{
+  "id": "c5b320c5-11c4-41b4-b75b-e0c27a92f0ba",
+  "object": "beer",
+  "name": "Mithril Dice",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

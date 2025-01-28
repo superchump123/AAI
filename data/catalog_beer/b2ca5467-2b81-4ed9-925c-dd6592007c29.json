@@ -1,0 +1,11 @@
+{
+  "id": "b2ca5467-2b81-4ed9-925c-dd6592007c29",
+  "object": "beer",
+  "name": "Saranac Red IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

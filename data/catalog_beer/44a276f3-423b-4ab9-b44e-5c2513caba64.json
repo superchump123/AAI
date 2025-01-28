@@ -1,0 +1,11 @@
+{
+  "id": "44a276f3-423b-4ab9-b44e-5c2513caba64",
+  "object": "beer",
+  "name": "5 Golden Rings",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

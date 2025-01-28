@@ -1,0 +1,11 @@
+{
+  "id": "6ebd7fa0-68c5-4afd-b040-4bb82968be21",
+  "object": "beer",
+  "name": "Strawberry Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

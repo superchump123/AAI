@@ -1,0 +1,11 @@
+{
+  "id": "f71cd21a-e6ef-48a9-b1f8-4fa4369d18e7",
+  "object": "beer",
+  "name": "Nopalito de Trigo",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

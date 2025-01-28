@@ -1,0 +1,11 @@
+{
+  "id": "f8f7a85b-6b4c-412f-b17b-f463dc1c2ace",
+  "object": "beer",
+  "name": "Duckstein Original",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

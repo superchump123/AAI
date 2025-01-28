@@ -1,0 +1,11 @@
+{
+  "id": "f0475fa8-27b7-43d3-a9a4-28bf1c47fe01",
+  "object": "beer",
+  "name": "Strawberry Milk Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

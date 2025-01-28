@@ -1,0 +1,11 @@
+{
+  "id": "f590e0a2-ad12-49e8-853e-1476369c567c",
+  "object": "beer",
+  "name": "Neato Bandito",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

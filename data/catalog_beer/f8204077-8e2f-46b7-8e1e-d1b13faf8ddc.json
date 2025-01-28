@@ -1,0 +1,11 @@
+{
+  "id": "f8204077-8e2f-46b7-8e1e-d1b13faf8ddc",
+  "object": "beer",
+  "name": "Catz Pajamaz",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

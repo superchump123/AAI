@@ -1,0 +1,11 @@
+{
+  "id": "8dce42e0-a0c0-4ef7-ac46-d740ade82d87",
+  "object": "beer",
+  "name": "Loretta",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d5a015a0-0e5e-4422-bc00-583a2047b8ac",
+  "object": "beer",
+  "name": "Calwer Eck Weihnachtsbier",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

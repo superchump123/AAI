@@ -1,0 +1,11 @@
+{
+  "id": "239327b1-d07b-490e-9549-66db7eed3f82",
+  "object": "beer",
+  "name": "Sixty-Five",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3b943518-015b-480c-881e-9c17d1a12db0",
+  "object": "beer",
+  "name": "Hella Good Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

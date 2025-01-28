@@ -1,0 +1,11 @@
+{
+  "id": "8913a0b6-ec21-40ea-83fc-bb3bbaf1328a",
+  "object": "beer",
+  "name": "Artist Colony Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

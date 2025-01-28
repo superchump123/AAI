@@ -1,0 +1,11 @@
+{
+  "id": "beefd7f1-c180-4138-9b6e-a15490d841d1",
+  "object": "beer",
+  "name": "Little Peat",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

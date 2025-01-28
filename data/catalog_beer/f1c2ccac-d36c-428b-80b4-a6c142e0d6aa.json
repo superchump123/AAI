@@ -1,0 +1,11 @@
+{
+  "id": "f1c2ccac-d36c-428b-80b4-a6c142e0d6aa",
+  "object": "beer",
+  "name": "Oatmeal Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

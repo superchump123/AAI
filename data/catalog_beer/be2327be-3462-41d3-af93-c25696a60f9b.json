@@ -1,0 +1,11 @@
+{
+  "id": "be2327be-3462-41d3-af93-c25696a60f9b",
+  "object": "beer",
+  "name": "GrayJacket",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

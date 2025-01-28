@@ -1,0 +1,11 @@
+{
+  "id": "98f1fa10-aca9-4192-a870-a40a23fb22bd",
+  "object": "beer",
+  "name": "Naughty & Spiced",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5f6ac429-51d6-44c7-aba3-6761280deea0",
+  "object": "beer",
+  "name": "Grog of the Grogan",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

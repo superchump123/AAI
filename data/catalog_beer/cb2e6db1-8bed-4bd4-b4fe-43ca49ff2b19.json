@@ -1,0 +1,11 @@
+{
+  "id": "cb2e6db1-8bed-4bd4-b4fe-43ca49ff2b19",
+  "object": "beer",
+  "name": "Merry Cinnamas",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

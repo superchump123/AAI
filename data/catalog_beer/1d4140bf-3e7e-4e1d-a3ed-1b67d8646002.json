@@ -1,0 +1,11 @@
+{
+  "id": "1d4140bf-3e7e-4e1d-a3ed-1b67d8646002",
+  "object": "beer",
+  "name": "Red Wine Barrel-Aged Gold Standard",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

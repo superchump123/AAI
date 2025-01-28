@@ -1,0 +1,11 @@
+{
+  "id": "9a7f4d25-588d-44a6-bf17-cf52b8db8459",
+  "object": "beer",
+  "name": "Nooner Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

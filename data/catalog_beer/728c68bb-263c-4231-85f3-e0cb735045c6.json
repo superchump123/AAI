@@ -1,0 +1,11 @@
+{
+  "id": "728c68bb-263c-4231-85f3-e0cb735045c6",
+  "object": "beer",
+  "name": "Smash Gordon",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

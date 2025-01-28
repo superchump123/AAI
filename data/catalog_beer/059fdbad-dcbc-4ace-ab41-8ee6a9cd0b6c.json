@@ -1,0 +1,11 @@
+{
+  "id": "059fdbad-dcbc-4ace-ab41-8ee6a9cd0b6c",
+  "object": "beer",
+  "name": "Katabatic Hefeweizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

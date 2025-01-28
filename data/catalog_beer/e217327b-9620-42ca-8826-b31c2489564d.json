@@ -1,0 +1,11 @@
+{
+  "id": "e217327b-9620-42ca-8826-b31c2489564d",
+  "object": "beer",
+  "name": "Graveyard's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

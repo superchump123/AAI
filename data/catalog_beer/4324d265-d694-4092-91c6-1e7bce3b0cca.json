@@ -1,0 +1,11 @@
+{
+  "id": "4324d265-d694-4092-91c6-1e7bce3b0cca",
+  "object": "beer",
+  "name": "Adelardus Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

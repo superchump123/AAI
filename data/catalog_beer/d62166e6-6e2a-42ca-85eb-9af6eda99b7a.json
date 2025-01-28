@@ -1,0 +1,11 @@
+{
+  "id": "d62166e6-6e2a-42ca-85eb-9af6eda99b7a",
+  "object": "beer",
+  "name": "Radioactive Chihuahua",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

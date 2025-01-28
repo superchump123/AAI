@@ -1,0 +1,11 @@
+{
+  "id": "882fdf8e-b52f-4830-9265-b7703b8f5c88",
+  "object": "beer",
+  "name": "Newcastle Caledonian Caley Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

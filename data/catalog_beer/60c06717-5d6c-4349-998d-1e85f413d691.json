@@ -1,0 +1,11 @@
+{
+  "id": "60c06717-5d6c-4349-998d-1e85f413d691",
+  "object": "beer",
+  "name": "Monster Mash",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

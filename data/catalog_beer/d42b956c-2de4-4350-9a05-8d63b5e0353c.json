@@ -1,0 +1,11 @@
+{
+  "id": "d42b956c-2de4-4350-9a05-8d63b5e0353c",
+  "object": "beer",
+  "name": "Blanc de Blanche",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

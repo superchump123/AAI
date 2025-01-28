@@ -1,0 +1,11 @@
+{
+  "id": "b9f18066-bb62-4046-b39d-797490305c19",
+  "object": "beer",
+  "name": "Icarus",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

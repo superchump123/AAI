@@ -1,0 +1,11 @@
+{
+  "id": "a911f8dc-1859-4e24-a1cd-a3e26d074740",
+  "object": "beer",
+  "name": "Stetsons And Sombreros",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

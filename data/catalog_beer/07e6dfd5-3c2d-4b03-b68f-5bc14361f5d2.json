@@ -1,0 +1,11 @@
+{
+  "id": "07e6dfd5-3c2d-4b03-b68f-5bc14361f5d2",
+  "object": "beer",
+  "name": "ToeTally Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

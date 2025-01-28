@@ -1,0 +1,11 @@
+{
+  "id": "183c9d6d-8cd8-4df3-b31d-a6becc6406f2",
+  "object": "beer",
+  "name": "Warrant",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

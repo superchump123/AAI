@@ -1,0 +1,11 @@
+{
+  "id": "a3dc6650-bc89-47d5-b65b-8e19ede5312e",
+  "object": "beer",
+  "name": "Black River",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

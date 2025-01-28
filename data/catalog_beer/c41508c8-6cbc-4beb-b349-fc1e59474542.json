@@ -1,0 +1,11 @@
+{
+  "id": "c41508c8-6cbc-4beb-b349-fc1e59474542",
+  "object": "beer",
+  "name": "The Green Room",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

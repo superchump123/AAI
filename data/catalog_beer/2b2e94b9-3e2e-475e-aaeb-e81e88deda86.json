@@ -1,0 +1,11 @@
+{
+  "id": "2b2e94b9-3e2e-475e-aaeb-e81e88deda86",
+  "object": "beer",
+  "name": "Minibrew Summit",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

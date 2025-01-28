@@ -1,0 +1,11 @@
+{
+  "id": "23a71605-06f2-4df1-a8d1-add551644f03",
+  "object": "beer",
+  "name": "New Guy IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

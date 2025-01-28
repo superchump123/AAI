@@ -1,0 +1,11 @@
+{
+  "id": "e14bb153-2d63-46ac-b110-1fb1359e6704",
+  "object": "beer",
+  "name": "Rumblefish",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

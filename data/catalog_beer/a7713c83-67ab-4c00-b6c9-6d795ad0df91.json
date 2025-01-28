@@ -1,0 +1,11 @@
+{
+  "id": "a7713c83-67ab-4c00-b6c9-6d795ad0df91",
+  "object": "beer",
+  "name": "Wyoming Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

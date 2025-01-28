@@ -1,0 +1,11 @@
+{
+  "id": "ad4fa235-079d-42f6-9f3d-0e6f1ba5543f",
+  "object": "beer",
+  "name": "Farmhouse Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

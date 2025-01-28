@@ -1,0 +1,11 @@
+{
+  "id": "891889d4-0533-4769-b230-4a0911c73a8f",
+  "object": "beer",
+  "name": "Copperhead Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

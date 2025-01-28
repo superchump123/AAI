@@ -1,0 +1,11 @@
+{
+  "id": "6efb4e99-48a4-4cc1-8e07-59ee997b0cfc",
+  "object": "beer",
+  "name": "Snoweizen Wheat Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

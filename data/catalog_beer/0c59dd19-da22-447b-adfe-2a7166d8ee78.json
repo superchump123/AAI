@@ -1,0 +1,11 @@
+{
+  "id": "0c59dd19-da22-447b-adfe-2a7166d8ee78",
+  "object": "beer",
+  "name": "Waterford",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

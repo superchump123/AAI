@@ -1,0 +1,11 @@
+{
+  "id": "e2ac37cc-a44c-4b17-baa5-c01946c4c5b4",
+  "object": "beer",
+  "name": "Sweet Action",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

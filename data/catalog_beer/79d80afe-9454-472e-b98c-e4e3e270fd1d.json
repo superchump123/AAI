@@ -1,0 +1,11 @@
+{
+  "id": "79d80afe-9454-472e-b98c-e4e3e270fd1d",
+  "object": "beer",
+  "name": "Great Crescent IPA-DHCentennial",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

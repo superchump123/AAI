@@ -1,0 +1,11 @@
+{
+  "id": "2298bea5-89a9-4cff-942f-ae38fa6822a8",
+  "object": "beer",
+  "name": "Hooligan",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

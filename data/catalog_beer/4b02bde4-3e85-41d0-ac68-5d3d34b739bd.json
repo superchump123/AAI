@@ -1,0 +1,11 @@
+{
+  "id": "4b02bde4-3e85-41d0-ac68-5d3d34b739bd",
+  "object": "beer",
+  "name": "Blue Eyed Blonde",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

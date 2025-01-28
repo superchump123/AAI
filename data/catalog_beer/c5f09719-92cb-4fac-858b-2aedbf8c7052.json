@@ -1,0 +1,11 @@
+{
+  "id": "c5f09719-92cb-4fac-858b-2aedbf8c7052",
+  "object": "beer",
+  "name": "Igor's Dream",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

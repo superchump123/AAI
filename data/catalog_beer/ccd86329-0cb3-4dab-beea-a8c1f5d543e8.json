@@ -1,0 +1,11 @@
+{
+  "id": "ccd86329-0cb3-4dab-beea-a8c1f5d543e8",
+  "object": "beer",
+  "name": "Code 24",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

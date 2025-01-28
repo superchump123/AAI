@@ -1,0 +1,11 @@
+{
+  "id": "09022c95-c9f8-4c98-9895-e0234c4e9718",
+  "object": "beer",
+  "name": "King Quat",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

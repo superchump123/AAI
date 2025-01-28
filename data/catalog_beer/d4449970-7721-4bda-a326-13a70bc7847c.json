@@ -1,0 +1,11 @@
+{
+  "id": "d4449970-7721-4bda-a326-13a70bc7847c",
+  "object": "beer",
+  "name": "Alter Your Brew",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

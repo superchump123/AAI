@@ -1,0 +1,11 @@
+{
+  "id": "4a34e998-075c-4aac-8744-2092823d993c",
+  "object": "beer",
+  "name": "The Maneuver",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

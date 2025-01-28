@@ -1,0 +1,11 @@
+{
+  "id": "98f5c15c-aedc-42e2-b992-a2f446c2640e",
+  "object": "beer",
+  "name": "Barrel Aged Gold Standard",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

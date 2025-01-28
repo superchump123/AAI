@@ -1,0 +1,11 @@
+{
+  "id": "8ec72579-fefb-4c0c-b563-768a92796119",
+  "object": "beer",
+  "name": "Dry Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c979b62c-45e3-4f4d-8b00-b9e7bb4a40db",
+  "object": "beer",
+  "name": "Spring Heel Jack London Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f992451f-34e7-414c-bf8e-24e111df8b92",
+  "object": "beer",
+  "name": "Dragon's Breath",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

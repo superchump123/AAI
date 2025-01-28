@@ -1,0 +1,11 @@
+{
+  "id": "6b2f53ef-5495-4fd7-b6d7-df548a9385c6",
+  "object": "beer",
+  "name": "Boiler Room",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

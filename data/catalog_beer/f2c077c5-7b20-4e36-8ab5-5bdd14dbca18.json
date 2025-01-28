@@ -1,0 +1,11 @@
+{
+  "id": "f2c077c5-7b20-4e36-8ab5-5bdd14dbca18",
+  "object": "beer",
+  "name": "Old Man Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bc9517ad-8c68-4e8d-9c10-d50d315c88a5",
+  "object": "beer",
+  "name": "Wartmann's - No. 1 Barley Wine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

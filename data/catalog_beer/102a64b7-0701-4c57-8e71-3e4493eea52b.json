@@ -1,0 +1,11 @@
+{
+  "id": "102a64b7-0701-4c57-8e71-3e4493eea52b",
+  "object": "beer",
+  "name": "Mustang Pawnee Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

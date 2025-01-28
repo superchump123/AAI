@@ -1,0 +1,11 @@
+{
+  "id": "b1da9524-25cc-4a06-a91f-3456d7c8e0c1",
+  "object": "beer",
+  "name": "Space Oddity Double India Pale Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

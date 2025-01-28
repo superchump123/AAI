@@ -1,0 +1,11 @@
+{
+  "id": "865fbf03-c754-44d4-84c9-52883368c7da",
+  "object": "beer",
+  "name": "Semi Sweet",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

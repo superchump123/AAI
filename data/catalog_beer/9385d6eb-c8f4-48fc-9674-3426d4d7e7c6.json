@@ -1,0 +1,11 @@
+{
+  "id": "9385d6eb-c8f4-48fc-9674-3426d4d7e7c6",
+  "object": "beer",
+  "name": "Swirl",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

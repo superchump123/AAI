@@ -1,0 +1,11 @@
+{
+  "id": "9d171905-05fb-4284-a1f6-8b8e15935338",
+  "object": "beer",
+  "name": "Oat Me",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

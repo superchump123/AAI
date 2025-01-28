@@ -1,0 +1,11 @@
+{
+  "id": "def977b0-1956-408e-ab47-7fa031219513",
+  "object": "beer",
+  "name": "Naughty Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

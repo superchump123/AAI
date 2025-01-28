@@ -1,0 +1,11 @@
+{
+  "id": "ef963a57-a36f-42cb-b88a-81d2753db331",
+  "object": "beer",
+  "name": "Season Pass Pale Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

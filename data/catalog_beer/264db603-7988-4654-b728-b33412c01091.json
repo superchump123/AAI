@@ -1,0 +1,11 @@
+{
+  "id": "264db603-7988-4654-b728-b33412c01091",
+  "object": "beer",
+  "name": "Troopers Tipple IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

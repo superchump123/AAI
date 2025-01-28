@@ -1,0 +1,11 @@
+{
+  "id": "af968d53-3bc6-4047-b98d-c51d616a7b88",
+  "object": "beer",
+  "name": "Richard The Whale Coffee",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

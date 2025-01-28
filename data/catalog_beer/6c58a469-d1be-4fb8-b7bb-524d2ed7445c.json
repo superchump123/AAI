@@ -1,0 +1,11 @@
+{
+  "id": "6c58a469-d1be-4fb8-b7bb-524d2ed7445c",
+  "object": "beer",
+  "name": "Green Zebra",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

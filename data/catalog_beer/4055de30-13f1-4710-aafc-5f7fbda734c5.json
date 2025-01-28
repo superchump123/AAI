@@ -1,0 +1,11 @@
+{
+  "id": "4055de30-13f1-4710-aafc-5f7fbda734c5",
+  "object": "beer",
+  "name": "Bug Lager",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

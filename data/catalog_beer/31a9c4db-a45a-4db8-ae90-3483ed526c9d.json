@@ -1,0 +1,11 @@
+{
+  "id": "31a9c4db-a45a-4db8-ae90-3483ed526c9d",
+  "object": "beer",
+  "name": "What'cha What'cha What'cha Want",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

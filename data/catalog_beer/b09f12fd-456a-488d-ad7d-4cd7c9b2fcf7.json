@@ -1,0 +1,11 @@
+{
+  "id": "b09f12fd-456a-488d-ad7d-4cd7c9b2fcf7",
+  "object": "beer",
+  "name": "HXL IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

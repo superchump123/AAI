@@ -1,0 +1,11 @@
+{
+  "id": "9da1271f-f964-4e3e-b208-b76b190edf55",
+  "object": "beer",
+  "name": "Wismarer Pilsener",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

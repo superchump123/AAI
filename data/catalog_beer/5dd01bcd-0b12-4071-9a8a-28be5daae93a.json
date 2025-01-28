@@ -1,0 +1,11 @@
+{
+  "id": "5dd01bcd-0b12-4071-9a8a-28be5daae93a",
+  "object": "beer",
+  "name": "Watermelon Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

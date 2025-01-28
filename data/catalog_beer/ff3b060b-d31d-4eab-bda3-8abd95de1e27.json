@@ -1,0 +1,11 @@
+{
+  "id": "ff3b060b-d31d-4eab-bda3-8abd95de1e27",
+  "object": "beer",
+  "name": "Aces High",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

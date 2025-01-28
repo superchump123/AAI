@@ -1,0 +1,11 @@
+{
+  "id": "1be3add9-b000-4bae-848f-a909ac6b7fab",
+  "object": "beer",
+  "name": "Lake Bluff Gamma Ray",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

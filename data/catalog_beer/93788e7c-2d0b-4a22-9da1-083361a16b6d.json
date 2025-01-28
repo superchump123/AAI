@@ -1,0 +1,11 @@
+{
+  "id": "93788e7c-2d0b-4a22-9da1-083361a16b6d",
+  "object": "beer",
+  "name": "Amsterdam Session",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

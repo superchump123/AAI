@@ -1,0 +1,11 @@
+{
+  "id": "b7b50bd4-3b4c-4cd9-b166-cb280e99b6bf",
+  "object": "beer",
+  "name": "100 Acres IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

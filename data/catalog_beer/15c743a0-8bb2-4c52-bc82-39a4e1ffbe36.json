@@ -1,0 +1,11 @@
+{
+  "id": "15c743a0-8bb2-4c52-bc82-39a4e1ffbe36",
+  "object": "beer",
+  "name": "Barrel Aged Frog's Hollow Double Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

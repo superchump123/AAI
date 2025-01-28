@@ -1,0 +1,11 @@
+{
+  "id": "6e4aa4c2-22bc-4467-b6ab-4c2449f92286",
+  "object": "beer",
+  "name": "Double Noir",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

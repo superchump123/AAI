@@ -1,0 +1,11 @@
+{
+  "id": "9729739c-27d5-4337-be33-6c5e2d5674a5",
+  "object": "beer",
+  "name": "High Wire",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7186c255-7d14-4e7f-a290-45d5c9c07095",
+  "object": "beer",
+  "name": "Hazed Hoppy Session Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

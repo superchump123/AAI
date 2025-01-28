@@ -1,0 +1,11 @@
+{
+  "id": "dcbe34de-04c1-4c55-89ab-9960a4e720f8",
+  "object": "beer",
+  "name": "Amstel Malt",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

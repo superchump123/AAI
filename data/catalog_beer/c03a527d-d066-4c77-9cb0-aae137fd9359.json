@@ -1,0 +1,11 @@
+{
+  "id": "c03a527d-d066-4c77-9cb0-aae137fd9359",
+  "object": "beer",
+  "name": "Goolman Premium",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

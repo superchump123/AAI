@@ -1,0 +1,11 @@
+{
+  "id": "027c81f8-86ec-4533-b7fb-b746c096a101",
+  "object": "beer",
+  "name": "We \u2665 NY",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

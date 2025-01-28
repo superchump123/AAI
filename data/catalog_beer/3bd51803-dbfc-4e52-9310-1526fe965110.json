@@ -1,0 +1,11 @@
+{
+  "id": "3bd51803-dbfc-4e52-9310-1526fe965110",
+  "object": "beer",
+  "name": "Circle City Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

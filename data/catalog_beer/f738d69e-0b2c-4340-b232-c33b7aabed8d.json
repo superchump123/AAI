@@ -1,0 +1,11 @@
+{
+  "id": "f738d69e-0b2c-4340-b232-c33b7aabed8d",
+  "object": "beer",
+  "name": "ThunderHop, IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

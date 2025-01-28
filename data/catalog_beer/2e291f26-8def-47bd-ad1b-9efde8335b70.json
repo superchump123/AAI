@@ -1,0 +1,11 @@
+{
+  "id": "2e291f26-8def-47bd-ad1b-9efde8335b70",
+  "object": "beer",
+  "name": "Gamelan Vibes",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

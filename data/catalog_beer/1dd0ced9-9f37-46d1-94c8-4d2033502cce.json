@@ -1,0 +1,11 @@
+{
+  "id": "1dd0ced9-9f37-46d1-94c8-4d2033502cce",
+  "object": "beer",
+  "name": "TNT Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

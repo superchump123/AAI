@@ -1,0 +1,11 @@
+{
+  "id": "6565b5b4-4e75-458e-bfe0-05e29f8cc97a",
+  "object": "beer",
+  "name": "Hollow Point",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

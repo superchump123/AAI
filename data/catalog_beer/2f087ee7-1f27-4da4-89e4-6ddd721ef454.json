@@ -1,0 +1,11 @@
+{
+  "id": "2f087ee7-1f27-4da4-89e4-6ddd721ef454",
+  "object": "beer",
+  "name": "Yankee",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

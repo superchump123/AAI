@@ -1,0 +1,11 @@
+{
+  "id": "a8344bbb-e7d5-4a51-8b1b-32f152aee2b5",
+  "object": "beer",
+  "name": "Barrel Aged Freaky Deaky",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

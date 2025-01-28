@@ -1,0 +1,11 @@
+{
+  "id": "824959cf-f1e2-4037-867c-5184c474a935",
+  "object": "beer",
+  "name": "Samsquanch",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

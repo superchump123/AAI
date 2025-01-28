@@ -1,0 +1,11 @@
+{
+  "id": "390a5105-a369-4435-9765-e27a52f0b107",
+  "object": "beer",
+  "name": "Betelgeuse",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

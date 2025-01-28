@@ -1,0 +1,11 @@
+{
+  "id": "f73e21ec-792d-431b-a735-ba18e598d2d2",
+  "object": "beer",
+  "name": "Go To IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

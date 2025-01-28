@@ -1,0 +1,11 @@
+{
+  "id": "9e18c52b-e770-43c7-93c0-1aa356e2366d",
+  "object": "beer",
+  "name": "Ginger Perry",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

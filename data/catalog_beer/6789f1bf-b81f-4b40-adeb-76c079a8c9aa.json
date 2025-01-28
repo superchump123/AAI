@@ -1,0 +1,11 @@
+{
+  "id": "6789f1bf-b81f-4b40-adeb-76c079a8c9aa",
+  "object": "beer",
+  "name": "Benard, Belgian Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

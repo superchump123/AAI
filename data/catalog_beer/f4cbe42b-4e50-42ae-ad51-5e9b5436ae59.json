@@ -1,0 +1,11 @@
+{
+  "id": "f4cbe42b-4e50-42ae-ad51-5e9b5436ae59",
+  "object": "beer",
+  "name": "The Hoff",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

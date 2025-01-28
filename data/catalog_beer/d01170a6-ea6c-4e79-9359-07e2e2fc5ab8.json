@@ -1,0 +1,11 @@
+{
+  "id": "d01170a6-ea6c-4e79-9359-07e2e2fc5ab8",
+  "object": "beer",
+  "name": "Lentebier",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

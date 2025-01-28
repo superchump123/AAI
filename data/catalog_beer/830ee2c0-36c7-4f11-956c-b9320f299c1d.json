@@ -1,0 +1,11 @@
+{
+  "id": "830ee2c0-36c7-4f11-956c-b9320f299c1d",
+  "object": "beer",
+  "name": "Monkfish",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

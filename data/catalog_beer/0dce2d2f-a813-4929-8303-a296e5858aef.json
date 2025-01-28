@@ -1,0 +1,11 @@
+{
+  "id": "0dce2d2f-a813-4929-8303-a296e5858aef",
+  "object": "beer",
+  "name": "Bob Ross Did It",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

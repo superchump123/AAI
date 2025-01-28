@@ -1,0 +1,11 @@
+{
+  "id": "aff49777-8c06-4aa8-8390-b09df79faf00",
+  "object": "beer",
+  "name": "Boston 26.2 Brew",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

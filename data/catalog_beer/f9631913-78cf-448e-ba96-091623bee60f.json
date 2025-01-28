@@ -1,0 +1,11 @@
+{
+  "id": "f9631913-78cf-448e-ba96-091623bee60f",
+  "object": "beer",
+  "name": "Mary",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

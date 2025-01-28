@@ -1,0 +1,11 @@
+{
+  "id": "2e717022-93da-4fa9-aaf9-86670c5472f7",
+  "object": "beer",
+  "name": "Paulaner Munchmarzen",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

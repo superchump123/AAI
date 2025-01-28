@@ -1,0 +1,11 @@
+{
+  "id": "7b7e8fa8-91b8-40a2-8975-aba56050daf5",
+  "object": "beer",
+  "name": "Crush IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

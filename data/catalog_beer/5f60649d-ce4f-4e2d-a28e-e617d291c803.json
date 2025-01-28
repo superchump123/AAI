@@ -1,0 +1,11 @@
+{
+  "id": "5f60649d-ce4f-4e2d-a28e-e617d291c803",
+  "object": "beer",
+  "name": "Best Bitter ESB",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

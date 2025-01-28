@@ -1,0 +1,11 @@
+{
+  "id": "de493419-44ed-4cb4-89f8-e4aca8985157",
+  "object": "beer",
+  "name": "Boro Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de3f46d1-e310-470d-844f-9985ba0a7e88",
+  "object": "beer",
+  "name": "Fat Bottom IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

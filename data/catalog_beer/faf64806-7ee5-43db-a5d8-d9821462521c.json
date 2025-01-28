@@ -1,0 +1,11 @@
+{
+  "id": "faf64806-7ee5-43db-a5d8-d9821462521c",
+  "object": "beer",
+  "name": "Moon Phase",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 13,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

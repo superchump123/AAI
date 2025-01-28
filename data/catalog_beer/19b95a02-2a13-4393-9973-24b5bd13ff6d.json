@@ -1,0 +1,11 @@
+{
+  "id": "19b95a02-2a13-4393-9973-24b5bd13ff6d",
+  "object": "beer",
+  "name": "Riptide",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

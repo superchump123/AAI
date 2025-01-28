@@ -1,0 +1,11 @@
+{
+  "id": "35aae629-e813-48b3-88f4-a84f770c3b96",
+  "object": "beer",
+  "name": "Silly Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

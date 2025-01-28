@@ -1,0 +1,11 @@
+{
+  "id": "95349100-f9eb-4edd-8141-cfd402d649fe",
+  "object": "beer",
+  "name": "Queen's Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9bac9656-2e11-4b2b-ac57-41a84f0d5f5d",
+  "object": "beer",
+  "name": "Here Comes the Sun",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

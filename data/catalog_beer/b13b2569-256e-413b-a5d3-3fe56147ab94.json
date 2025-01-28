@@ -1,0 +1,11 @@
+{
+  "id": "b13b2569-256e-413b-a5d3-3fe56147ab94",
+  "object": "beer",
+  "name": "Cirrus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

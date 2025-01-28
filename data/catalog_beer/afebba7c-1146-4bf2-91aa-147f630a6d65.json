@@ -1,0 +1,11 @@
+{
+  "id": "afebba7c-1146-4bf2-91aa-147f630a6d65",
+  "object": "beer",
+  "name": "Classique",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

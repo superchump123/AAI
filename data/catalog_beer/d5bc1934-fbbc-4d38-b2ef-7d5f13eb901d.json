@@ -1,0 +1,11 @@
+{
+  "id": "d5bc1934-fbbc-4d38-b2ef-7d5f13eb901d",
+  "object": "beer",
+  "name": "I.P.A.",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d83f48e1-7bfd-4dbc-9486-d82eaff263c0",
+  "object": "beer",
+  "name": "Mosaic Session IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

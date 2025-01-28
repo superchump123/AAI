@@ -1,0 +1,11 @@
+{
+  "id": "cccd7e92-7e76-48bf-9600-9e0c617f4449",
+  "object": "beer",
+  "name": "Millennium Falconer's",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

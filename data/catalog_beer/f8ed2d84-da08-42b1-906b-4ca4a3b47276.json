@@ -1,0 +1,11 @@
+{
+  "id": "f8ed2d84-da08-42b1-906b-4ca4a3b47276",
+  "object": "beer",
+  "name": "Fixed Gear",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

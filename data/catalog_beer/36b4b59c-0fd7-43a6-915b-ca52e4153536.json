@@ -1,0 +1,11 @@
+{
+  "id": "36b4b59c-0fd7-43a6-915b-ca52e4153536",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Piper Down",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

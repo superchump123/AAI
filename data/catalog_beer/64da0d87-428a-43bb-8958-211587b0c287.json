@@ -1,0 +1,11 @@
+{
+  "id": "64da0d87-428a-43bb-8958-211587b0c287",
+  "object": "beer",
+  "name": "Blondage",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

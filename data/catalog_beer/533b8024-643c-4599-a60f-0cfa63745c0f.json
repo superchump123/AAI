@@ -1,0 +1,11 @@
+{
+  "id": "533b8024-643c-4599-a60f-0cfa63745c0f",
+  "object": "beer",
+  "name": "Auranja",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

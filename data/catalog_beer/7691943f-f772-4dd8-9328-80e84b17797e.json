@@ -1,0 +1,11 @@
+{
+  "id": "7691943f-f772-4dd8-9328-80e84b17797e",
+  "object": "beer",
+  "name": "In Session Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c6a9041a-c683-4937-bc5a-5e61a12174b6",
+  "object": "beer",
+  "name": "Hammarby Syndrome",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

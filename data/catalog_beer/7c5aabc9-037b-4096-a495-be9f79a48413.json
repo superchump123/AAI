@@ -1,0 +1,11 @@
+{
+  "id": "7c5aabc9-037b-4096-a495-be9f79a48413",
+  "object": "beer",
+  "name": "Dragons Blood",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

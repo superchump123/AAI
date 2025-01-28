@@ -1,0 +1,11 @@
+{
+  "id": "91884623-531b-4891-9f61-e9f372ae725b",
+  "object": "beer",
+  "name": "White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

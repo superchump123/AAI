@@ -1,0 +1,11 @@
+{
+  "id": "531a1d31-2ec8-4a5e-84d8-016cb77506bd",
+  "object": "beer",
+  "name": "Honey Brown Ale",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

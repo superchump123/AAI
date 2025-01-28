@@ -1,0 +1,11 @@
+{
+  "id": "e3f09f73-721c-4365-83af-aa2a03df77e3",
+  "object": "beer",
+  "name": "The Dos",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

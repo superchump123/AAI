@@ -1,0 +1,11 @@
+{
+  "id": "c15b29b9-4e8c-4a17-99c6-7b735af00efc",
+  "object": "beer",
+  "name": "SASKBERRY SAISON",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

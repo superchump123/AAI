@@ -1,0 +1,11 @@
+{
+  "id": "2dd67285-b49f-464d-8265-5584ff15f033",
+  "object": "beer",
+  "name": "Belgian Red Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

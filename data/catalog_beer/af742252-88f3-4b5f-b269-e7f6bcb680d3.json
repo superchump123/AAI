@@ -1,0 +1,11 @@
+{
+  "id": "af742252-88f3-4b5f-b269-e7f6bcb680d3",
+  "object": "beer",
+  "name": "Acheron",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

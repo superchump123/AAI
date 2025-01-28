@@ -1,0 +1,11 @@
+{
+  "id": "30c7c5f0-e847-4b69-a9c4-17cf44f4acaa",
+  "object": "beer",
+  "name": "Enchantress",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

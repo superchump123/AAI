@@ -1,0 +1,11 @@
+{
+  "id": "c6b7a7dd-e46f-453d-a6d8-0d581959db83",
+  "object": "beer",
+  "name": "Wheat Monkey",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

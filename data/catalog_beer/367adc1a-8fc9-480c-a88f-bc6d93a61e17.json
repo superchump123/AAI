@@ -1,0 +1,11 @@
+{
+  "id": "367adc1a-8fc9-480c-a88f-bc6d93a61e17",
+  "object": "beer",
+  "name": "Fellowship Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06a77718-aac6-415f-ade9-ad3a900f6cbb",
+  "object": "beer",
+  "name": "Thunderstruck Coffee Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a572ff54-96db-4d1e-b0df-8ba30d28af1f",
+  "object": "beer",
+  "name": "La Bonne Fortune",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

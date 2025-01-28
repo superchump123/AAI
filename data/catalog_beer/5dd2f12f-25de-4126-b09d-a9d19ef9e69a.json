@@ -1,0 +1,11 @@
+{
+  "id": "5dd2f12f-25de-4126-b09d-a9d19ef9e69a",
+  "object": "beer",
+  "name": "S.W.A.G.",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

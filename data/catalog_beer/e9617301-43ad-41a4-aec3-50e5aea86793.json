@@ -1,0 +1,11 @@
+{
+  "id": "e9617301-43ad-41a4-aec3-50e5aea86793",
+  "object": "beer",
+  "name": "All Hands",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

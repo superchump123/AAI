@@ -1,0 +1,11 @@
+{
+  "id": "b77be958-98fb-4543-a448-336160ec1587",
+  "object": "beer",
+  "name": "Eddie Oyster Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "23e63e27-ab7d-4bc0-b2fe-cda9d3d0b096",
+  "object": "beer",
+  "name": "Nevin's Southside Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "98c37c81-a38d-4ba8-a578-2d0ca017a747",
+  "object": "beer",
+  "name": "Crows Foot",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

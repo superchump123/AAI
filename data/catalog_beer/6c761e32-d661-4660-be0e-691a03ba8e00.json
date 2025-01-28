@@ -1,0 +1,11 @@
+{
+  "id": "6c761e32-d661-4660-be0e-691a03ba8e00",
+  "object": "beer",
+  "name": "Summer Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

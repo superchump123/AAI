@@ -1,0 +1,11 @@
+{
+  "id": "e18ab73b-12f8-4242-9a76-b57d2eef85fe",
+  "object": "beer",
+  "name": "Just the Tip",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0d9a185b-e837-49a3-889a-f24867c178d6",
+  "object": "beer",
+  "name": "Directionally Challenged",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

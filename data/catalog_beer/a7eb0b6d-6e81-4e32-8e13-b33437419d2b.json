@@ -1,0 +1,11 @@
+{
+  "id": "a7eb0b6d-6e81-4e32-8e13-b33437419d2b",
+  "object": "beer",
+  "name": "Autumn Tyne",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

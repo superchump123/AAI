@@ -1,0 +1,11 @@
+{
+  "id": "be994d4a-6536-465f-a9f5-f506883d981a",
+  "object": "beer",
+  "name": "Polygamy Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

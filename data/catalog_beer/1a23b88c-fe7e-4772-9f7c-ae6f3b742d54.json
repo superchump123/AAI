@@ -1,0 +1,11 @@
+{
+  "id": "1a23b88c-fe7e-4772-9f7c-ae6f3b742d54",
+  "object": "beer",
+  "name": "Chili Pepper Pale Ale",
+  "style": "Field Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

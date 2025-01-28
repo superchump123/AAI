@@ -1,0 +1,11 @@
+{
+  "id": "45e45eeb-f04d-4add-9719-27a35f4e5d63",
+  "object": "beer",
+  "name": "Urban Trail",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

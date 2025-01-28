@@ -1,0 +1,11 @@
+{
+  "id": "0a5c94e6-f000-41d0-a830-b952c4f83fa1",
+  "object": "beer",
+  "name": "Speciale 1900",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

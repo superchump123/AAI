@@ -1,0 +1,11 @@
+{
+  "id": "b03650a5-2e76-48ec-931b-93fde17060f7",
+  "object": "beer",
+  "name": "Special K",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9f07e2fc-d228-4b97-a0ef-e1cd367e4e8d",
+  "object": "beer",
+  "name": "Plateau",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

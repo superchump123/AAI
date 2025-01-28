@@ -1,0 +1,11 @@
+{
+  "id": "bdfc8324-7872-4f49-bd70-08dc20b8bd12",
+  "object": "beer",
+  "name": "O'Fallon Wheach",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7f31c12c-7f64-44cd-a4b7-58aa22107287",
+  "object": "beer",
+  "name": "Fool's Gold",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

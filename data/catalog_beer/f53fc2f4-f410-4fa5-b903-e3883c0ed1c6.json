@@ -1,0 +1,11 @@
+{
+  "id": "f53fc2f4-f410-4fa5-b903-e3883c0ed1c6",
+  "object": "beer",
+  "name": "Gauloise Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

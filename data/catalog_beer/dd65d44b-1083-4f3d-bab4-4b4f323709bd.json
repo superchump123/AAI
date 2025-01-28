@@ -1,0 +1,11 @@
+{
+  "id": "dd65d44b-1083-4f3d-bab4-4b4f323709bd",
+  "object": "beer",
+  "name": "Orange Giant Barleywine Bourbon aged",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 14,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

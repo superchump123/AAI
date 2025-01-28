@@ -1,0 +1,11 @@
+{
+  "id": "4c17912b-c380-422a-b11d-89c76f662419",
+  "object": "beer",
+  "name": "Seamus Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

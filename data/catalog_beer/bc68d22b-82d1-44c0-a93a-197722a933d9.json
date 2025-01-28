@@ -1,0 +1,11 @@
+{
+  "id": "bc68d22b-82d1-44c0-a93a-197722a933d9",
+  "object": "beer",
+  "name": "Mikropolis",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

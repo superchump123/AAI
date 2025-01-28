@@ -1,0 +1,11 @@
+{
+  "id": "64cffdf6-b446-4bc8-8bef-e13956501d17",
+  "object": "beer",
+  "name": "Maledetta Zymatore",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "497cc415-5b5b-4474-8514-2d2205bdd839",
+  "object": "beer",
+  "name": "Plank III",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

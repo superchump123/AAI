@@ -1,0 +1,11 @@
+{
+  "id": "cd445b9f-6983-4d79-9a78-75c2ce636f53",
+  "object": "beer",
+  "name": "Honor",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

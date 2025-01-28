@@ -1,0 +1,11 @@
+{
+  "id": "afe2e44b-9682-4da9-8488-2e03282f8797",
+  "object": "beer",
+  "name": "Ironstone IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

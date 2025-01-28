@@ -1,0 +1,11 @@
+{
+  "id": "610b8732-a8b4-418b-b772-f96a8a6a5f1a",
+  "object": "beer",
+  "name": "Double NZ IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "08915ed2-c3d1-41aa-b5aa-2a8faba72236",
+  "object": "beer",
+  "name": "Rosenweiss",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "22e3da5c-7097-4de0-9dcb-fdb3ff8c0158",
+  "object": "beer",
+  "name": "Experimental Pale Ale #007: James Bond",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

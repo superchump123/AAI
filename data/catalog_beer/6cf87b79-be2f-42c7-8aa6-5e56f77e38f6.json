@@ -1,0 +1,11 @@
+{
+  "id": "6cf87b79-be2f-42c7-8aa6-5e56f77e38f6",
+  "object": "beer",
+  "name": "Saoirse Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

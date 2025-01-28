@@ -1,0 +1,11 @@
+{
+  "id": "0935f0aa-42ec-4ffc-a569-58a474937d42",
+  "object": "beer",
+  "name": "Cirrus",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

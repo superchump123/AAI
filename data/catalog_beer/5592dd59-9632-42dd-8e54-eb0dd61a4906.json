@@ -1,0 +1,11 @@
+{
+  "id": "5592dd59-9632-42dd-8e54-eb0dd61a4906",
+  "object": "beer",
+  "name": "The Timeless Tale Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

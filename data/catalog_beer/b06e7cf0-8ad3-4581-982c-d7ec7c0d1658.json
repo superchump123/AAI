@@ -1,0 +1,11 @@
+{
+  "id": "b06e7cf0-8ad3-4581-982c-d7ec7c0d1658",
+  "object": "beer",
+  "name": "Training Day",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

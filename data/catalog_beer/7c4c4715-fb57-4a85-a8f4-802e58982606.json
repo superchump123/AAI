@@ -1,0 +1,11 @@
+{
+  "id": "7c4c4715-fb57-4a85-a8f4-802e58982606",
+  "object": "beer",
+  "name": "Turkish Delight",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

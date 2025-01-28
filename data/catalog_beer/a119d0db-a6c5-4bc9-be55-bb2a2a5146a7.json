@@ -1,0 +1,11 @@
+{
+  "id": "a119d0db-a6c5-4bc9-be55-bb2a2a5146a7",
+  "object": "beer",
+  "name": "Taiwan Beer Light",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "806f9be0-0177-4645-aa64-4beb910b701f",
+  "object": "beer",
+  "name": "Luminosity Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

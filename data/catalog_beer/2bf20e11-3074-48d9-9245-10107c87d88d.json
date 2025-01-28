@@ -1,0 +1,11 @@
+{
+  "id": "2bf20e11-3074-48d9-9245-10107c87d88d",
+  "object": "beer",
+  "name": "Easy Peezy Lemon Squeezy",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

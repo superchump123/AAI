@@ -1,0 +1,11 @@
+{
+  "id": "81ecec9f-3192-4802-bd98-f66fe82b7e4e",
+  "object": "beer",
+  "name": "This One Time at Band Camp",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

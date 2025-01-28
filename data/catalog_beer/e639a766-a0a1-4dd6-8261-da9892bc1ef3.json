@@ -1,0 +1,11 @@
+{
+  "id": "e639a766-a0a1-4dd6-8261-da9892bc1ef3",
+  "object": "beer",
+  "name": "House Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

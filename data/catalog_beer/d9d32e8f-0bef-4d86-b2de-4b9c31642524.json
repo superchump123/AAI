@@ -1,0 +1,11 @@
+{
+  "id": "d9d32e8f-0bef-4d86-b2de-4b9c31642524",
+  "object": "beer",
+  "name": "Burly Girl",
+  "style": "Braggot",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

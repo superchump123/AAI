@@ -1,0 +1,11 @@
+{
+  "id": "04495eb5-917c-4bde-83a7-ee43b328efc2",
+  "object": "beer",
+  "name": "Birra Minestra",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

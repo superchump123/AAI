@@ -1,0 +1,11 @@
+{
+  "id": "7e76aa71-38d2-4c60-a279-4214c9bd2c82",
+  "object": "beer",
+  "name": "Loch Ness",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

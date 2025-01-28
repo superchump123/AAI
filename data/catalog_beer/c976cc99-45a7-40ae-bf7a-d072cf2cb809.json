@@ -1,0 +1,11 @@
+{
+  "id": "c976cc99-45a7-40ae-bf7a-d072cf2cb809",
+  "object": "beer",
+  "name": "Sofie",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

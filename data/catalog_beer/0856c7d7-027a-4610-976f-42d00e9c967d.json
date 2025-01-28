@@ -1,0 +1,11 @@
+{
+  "id": "0856c7d7-027a-4610-976f-42d00e9c967d",
+  "object": "beer",
+  "name": "Halo",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

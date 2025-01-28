@@ -1,0 +1,11 @@
+{
+  "id": "51107d63-260e-4dd8-8a09-ad280b14785d",
+  "object": "beer",
+  "name": "White Cap",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

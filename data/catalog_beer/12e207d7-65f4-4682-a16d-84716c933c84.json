@@ -1,0 +1,11 @@
+{
+  "id": "12e207d7-65f4-4682-a16d-84716c933c84",
+  "object": "beer",
+  "name": "Bucolia Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

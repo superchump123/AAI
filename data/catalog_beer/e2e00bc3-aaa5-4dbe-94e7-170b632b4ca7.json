@@ -1,0 +1,11 @@
+{
+  "id": "e2e00bc3-aaa5-4dbe-94e7-170b632b4ca7",
+  "object": "beer",
+  "name": "Stone Bridge Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

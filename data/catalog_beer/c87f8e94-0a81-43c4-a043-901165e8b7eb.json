@@ -1,0 +1,11 @@
+{
+  "id": "c87f8e94-0a81-43c4-a043-901165e8b7eb",
+  "object": "beer",
+  "name": "Mystic Cherry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

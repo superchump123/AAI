@@ -1,0 +1,11 @@
+{
+  "id": "30a9fa5a-d689-4533-a55a-b851d9308e0f",
+  "object": "beer",
+  "name": "Parapet ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

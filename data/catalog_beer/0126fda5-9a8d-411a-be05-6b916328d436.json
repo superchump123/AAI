@@ -1,0 +1,11 @@
+{
+  "id": "0126fda5-9a8d-411a-be05-6b916328d436",
+  "object": "beer",
+  "name": "Red Eye Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

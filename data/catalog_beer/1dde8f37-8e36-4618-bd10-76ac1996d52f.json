@@ -1,0 +1,11 @@
+{
+  "id": "1dde8f37-8e36-4618-bd10-76ac1996d52f",
+  "object": "beer",
+  "name": "Grande Reserve 17",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

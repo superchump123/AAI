@@ -1,0 +1,11 @@
+{
+  "id": "f2ad9c46-71c8-4fec-8b7b-2395daf12d31",
+  "object": "beer",
+  "name": "Keyboard Warrior",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

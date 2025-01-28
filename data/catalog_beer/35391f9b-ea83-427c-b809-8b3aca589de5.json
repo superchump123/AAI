@@ -1,0 +1,11 @@
+{
+  "id": "35391f9b-ea83-427c-b809-8b3aca589de5",
+  "object": "beer",
+  "name": "Ishmael",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

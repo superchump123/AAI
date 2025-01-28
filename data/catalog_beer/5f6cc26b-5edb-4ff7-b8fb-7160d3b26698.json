@@ -1,0 +1,11 @@
+{
+  "id": "5f6cc26b-5edb-4ff7-b8fb-7160d3b26698",
+  "object": "beer",
+  "name": "College Street Light",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

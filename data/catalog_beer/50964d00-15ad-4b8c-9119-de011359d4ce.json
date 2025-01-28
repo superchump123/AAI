@@ -1,0 +1,11 @@
+{
+  "id": "50964d00-15ad-4b8c-9119-de011359d4ce",
+  "object": "beer",
+  "name": "Rust Bucket Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

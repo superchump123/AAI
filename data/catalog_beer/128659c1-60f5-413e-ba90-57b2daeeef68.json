@@ -1,0 +1,11 @@
+{
+  "id": "128659c1-60f5-413e-ba90-57b2daeeef68",
+  "object": "beer",
+  "name": "Mogabi",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

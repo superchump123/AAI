@@ -1,0 +1,11 @@
+{
+  "id": "78ed1392-bf12-40f4-83c0-05df798347d5",
+  "object": "beer",
+  "name": "Captain Sparkles",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

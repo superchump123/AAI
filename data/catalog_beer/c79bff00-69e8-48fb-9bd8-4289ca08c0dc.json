@@ -1,0 +1,11 @@
+{
+  "id": "c79bff00-69e8-48fb-9bd8-4289ca08c0dc",
+  "object": "beer",
+  "name": "Anniversary Ale 2009",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

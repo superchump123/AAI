@@ -1,0 +1,11 @@
+{
+  "id": "6ce2437e-52a2-4dba-a6f6-c398d9576da9",
+  "object": "beer",
+  "name": "Hoppy Shepherd",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

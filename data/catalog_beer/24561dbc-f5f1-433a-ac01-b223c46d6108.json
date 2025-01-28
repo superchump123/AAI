@@ -1,0 +1,11 @@
+{
+  "id": "24561dbc-f5f1-433a-ac01-b223c46d6108",
+  "object": "beer",
+  "name": "Highland Dawn",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

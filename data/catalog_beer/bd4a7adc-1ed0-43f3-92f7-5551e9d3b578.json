@@ -1,0 +1,11 @@
+{
+  "id": "bd4a7adc-1ed0-43f3-92f7-5551e9d3b578",
+  "object": "beer",
+  "name": "Monkey Wrench IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

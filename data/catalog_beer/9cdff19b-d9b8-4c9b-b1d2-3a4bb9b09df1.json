@@ -1,0 +1,11 @@
+{
+  "id": "9cdff19b-d9b8-4c9b-b1d2-3a4bb9b09df1",
+  "object": "beer",
+  "name": "46 North",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

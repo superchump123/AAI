@@ -1,0 +1,11 @@
+{
+  "id": "fe96eb0c-6df9-493d-b12c-2605e79f44ec",
+  "object": "beer",
+  "name": "Mixolydian Rag Rye Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

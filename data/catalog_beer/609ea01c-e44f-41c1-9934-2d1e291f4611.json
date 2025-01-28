@@ -1,0 +1,11 @@
+{
+  "id": "609ea01c-e44f-41c1-9934-2d1e291f4611",
+  "object": "beer",
+  "name": "GirthQuake",
+  "style": "Braggot",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

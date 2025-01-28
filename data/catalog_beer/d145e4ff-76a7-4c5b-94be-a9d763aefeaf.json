@@ -1,0 +1,11 @@
+{
+  "id": "d145e4ff-76a7-4c5b-94be-a9d763aefeaf",
+  "object": "beer",
+  "name": "Walker's Blueberry Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

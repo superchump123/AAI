@@ -1,0 +1,11 @@
+{
+  "id": "2aba533e-a536-46ce-ba06-d48ff8a6b94f",
+  "object": "beer",
+  "name": "Girl Next Door",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3b85912a-3a6b-4314-8ef9-1e02c75db53a",
+  "object": "beer",
+  "name": "Alsfelder Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

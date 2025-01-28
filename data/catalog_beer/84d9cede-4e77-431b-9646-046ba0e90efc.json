@@ -1,0 +1,11 @@
+{
+  "id": "84d9cede-4e77-431b-9646-046ba0e90efc",
+  "object": "beer",
+  "name": "Whitechapel WItPA",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

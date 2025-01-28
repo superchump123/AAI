@@ -1,0 +1,11 @@
+{
+  "id": "89763d76-d0b3-4d4b-abaa-4a322b1b188c",
+  "object": "beer",
+  "name": "Bosko",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

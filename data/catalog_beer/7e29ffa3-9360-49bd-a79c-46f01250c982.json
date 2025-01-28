@@ -1,0 +1,11 @@
+{
+  "id": "7e29ffa3-9360-49bd-a79c-46f01250c982",
+  "object": "beer",
+  "name": "Oregon Alley IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

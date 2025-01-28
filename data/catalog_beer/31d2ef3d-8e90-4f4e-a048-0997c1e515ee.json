@@ -1,0 +1,11 @@
+{
+  "id": "31d2ef3d-8e90-4f4e-a048-0997c1e515ee",
+  "object": "beer",
+  "name": "Chili the Kid",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

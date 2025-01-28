@@ -1,0 +1,11 @@
+{
+  "id": "64b8e153-c7ee-44b9-8c88-fdf61efbabba",
+  "object": "beer",
+  "name": "Maltosa",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 1.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

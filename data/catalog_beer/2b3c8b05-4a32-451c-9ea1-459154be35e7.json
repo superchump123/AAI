@@ -1,0 +1,11 @@
+{
+  "id": "2b3c8b05-4a32-451c-9ea1-459154be35e7",
+  "object": "beer",
+  "name": "Sour Brown",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

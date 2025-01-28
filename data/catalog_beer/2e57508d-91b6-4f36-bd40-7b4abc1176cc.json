@@ -1,0 +1,11 @@
+{
+  "id": "2e57508d-91b6-4f36-bd40-7b4abc1176cc",
+  "object": "beer",
+  "name": "Gravitation",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

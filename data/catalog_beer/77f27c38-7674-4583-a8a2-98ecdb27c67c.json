@@ -1,0 +1,11 @@
+{
+  "id": "77f27c38-7674-4583-a8a2-98ecdb27c67c",
+  "object": "beer",
+  "name": "Grapefruit Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

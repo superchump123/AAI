@@ -1,0 +1,11 @@
+{
+  "id": "844c5001-6978-4abc-ba5a-02c1430c001c",
+  "object": "beer",
+  "name": "Midnight Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

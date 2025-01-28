@@ -1,0 +1,11 @@
+{
+  "id": "3d0e2b87-e3ef-4d30-8af1-c3846e03e68c",
+  "object": "beer",
+  "name": "Outbreak",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

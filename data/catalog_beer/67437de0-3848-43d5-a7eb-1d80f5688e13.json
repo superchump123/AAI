@@ -1,0 +1,11 @@
+{
+  "id": "67437de0-3848-43d5-a7eb-1d80f5688e13",
+  "object": "beer",
+  "name": "Grizzly Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

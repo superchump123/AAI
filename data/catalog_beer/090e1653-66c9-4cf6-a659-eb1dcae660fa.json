@@ -1,0 +1,11 @@
+{
+  "id": "090e1653-66c9-4cf6-a659-eb1dcae660fa",
+  "object": "beer",
+  "name": "Christavice",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

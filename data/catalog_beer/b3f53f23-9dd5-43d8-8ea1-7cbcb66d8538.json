@@ -1,0 +1,11 @@
+{
+  "id": "b3f53f23-9dd5-43d8-8ea1-7cbcb66d8538",
+  "object": "beer",
+  "name": "Santa's Secret",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e6160e7c-c6bc-4325-9c68-d8bee3228ae7",
+  "object": "beer",
+  "name": "Sugar Hill",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

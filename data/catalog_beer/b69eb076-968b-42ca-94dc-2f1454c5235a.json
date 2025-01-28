@@ -1,0 +1,11 @@
+{
+  "id": "b69eb076-968b-42ca-94dc-2f1454c5235a",
+  "object": "beer",
+  "name": "Sour IPA",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

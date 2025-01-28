@@ -1,0 +1,11 @@
+{
+  "id": "56e7f7d1-9724-4ecf-8f39-5ef0af3e53a8",
+  "object": "beer",
+  "name": "Biere de Garde",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

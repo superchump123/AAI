@@ -1,0 +1,11 @@
+{
+  "id": "46897d90-d3cc-41ee-a2c9-09cf7f1805c3",
+  "object": "beer",
+  "name": "Lentebock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

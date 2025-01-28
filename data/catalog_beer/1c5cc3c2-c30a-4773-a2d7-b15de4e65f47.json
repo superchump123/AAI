@@ -1,0 +1,11 @@
+{
+  "id": "1c5cc3c2-c30a-4773-a2d7-b15de4e65f47",
+  "object": "beer",
+  "name": "Blackberry Orange Pop!",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

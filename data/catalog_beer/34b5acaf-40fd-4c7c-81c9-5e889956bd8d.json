@@ -1,0 +1,11 @@
+{
+  "id": "34b5acaf-40fd-4c7c-81c9-5e889956bd8d",
+  "object": "beer",
+  "name": "Barrel-Aged Lunatic Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

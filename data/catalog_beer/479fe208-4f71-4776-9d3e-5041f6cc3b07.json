@@ -1,0 +1,11 @@
+{
+  "id": "479fe208-4f71-4776-9d3e-5041f6cc3b07",
+  "object": "beer",
+  "name": "Hoptronic",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

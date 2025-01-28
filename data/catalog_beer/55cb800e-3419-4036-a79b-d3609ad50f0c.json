@@ -1,0 +1,11 @@
+{
+  "id": "55cb800e-3419-4036-a79b-d3609ad50f0c",
+  "object": "beer",
+  "name": "Winter Chill",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

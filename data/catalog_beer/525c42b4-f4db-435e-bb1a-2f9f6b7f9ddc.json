@@ -1,0 +1,11 @@
+{
+  "id": "525c42b4-f4db-435e-bb1a-2f9f6b7f9ddc",
+  "object": "beer",
+  "name": "Dunkelweiss",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

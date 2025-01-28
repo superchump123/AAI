@@ -1,0 +1,11 @@
+{
+  "id": "c1e074bb-5762-4629-8260-a03cbc23ffb3",
+  "object": "beer",
+  "name": "120 Minute IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 18,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

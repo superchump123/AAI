@@ -1,0 +1,11 @@
+{
+  "id": "03e7a683-e1ea-433c-984f-b037f47b8043",
+  "object": "beer",
+  "name": "Germaniac Pale Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

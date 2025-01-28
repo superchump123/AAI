@@ -1,0 +1,11 @@
+{
+  "id": "a1ea2332-c18d-4a4e-b152-074def77679b",
+  "object": "beer",
+  "name": "Truck Stop Honey",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

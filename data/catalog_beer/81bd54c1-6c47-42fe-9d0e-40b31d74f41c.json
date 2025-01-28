@@ -1,0 +1,11 @@
+{
+  "id": "81bd54c1-6c47-42fe-9d0e-40b31d74f41c",
+  "object": "beer",
+  "name": "Goat Parade",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

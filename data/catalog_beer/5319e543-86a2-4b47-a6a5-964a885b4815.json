@@ -1,0 +1,11 @@
+{
+  "id": "5319e543-86a2-4b47-a6a5-964a885b4815",
+  "object": "beer",
+  "name": "The Temptress",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

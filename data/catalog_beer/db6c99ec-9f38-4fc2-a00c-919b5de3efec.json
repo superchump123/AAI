@@ -1,0 +1,11 @@
+{
+  "id": "db6c99ec-9f38-4fc2-a00c-919b5de3efec",
+  "object": "beer",
+  "name": "Gold Special",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

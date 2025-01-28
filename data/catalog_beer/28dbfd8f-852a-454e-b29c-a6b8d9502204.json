@@ -1,0 +1,11 @@
+{
+  "id": "28dbfd8f-852a-454e-b29c-a6b8d9502204",
+  "object": "beer",
+  "name": "Gordian Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0b81a4c3-6973-4dc4-825b-7f1015f2316a",
+  "object": "beer",
+  "name": "Lemon Ginger Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

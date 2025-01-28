@@ -1,0 +1,11 @@
+{
+  "id": "9ac52a46-d227-40f9-9d14-4c3f9189a1ea",
+  "object": "beer",
+  "name": "British Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

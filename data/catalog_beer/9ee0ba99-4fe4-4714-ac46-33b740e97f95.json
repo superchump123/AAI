@@ -1,0 +1,11 @@
+{
+  "id": "9ee0ba99-4fe4-4714-ac46-33b740e97f95",
+  "object": "beer",
+  "name": "Watermelon Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.1,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

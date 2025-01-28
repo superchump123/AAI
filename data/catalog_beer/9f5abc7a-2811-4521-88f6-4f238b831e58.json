@@ -1,0 +1,11 @@
+{
+  "id": "9f5abc7a-2811-4521-88f6-4f238b831e58",
+  "object": "beer",
+  "name": "Barrel Aged Tripel Dog Dare",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

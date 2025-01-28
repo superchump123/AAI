@@ -1,0 +1,11 @@
+{
+  "id": "d245bb68-877a-4031-8bd3-1e1974ddba1b",
+  "object": "beer",
+  "name": "El Corazon Rojo",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

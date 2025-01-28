@@ -1,0 +1,11 @@
+{
+  "id": "6c73a1d7-2a67-4cb5-8afa-dfe498c30629",
+  "object": "beer",
+  "name": "Urkontinent",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c336c801-7fa7-4e10-a8b6-c34722924707",
+  "object": "beer",
+  "name": "Lap Dance Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "84589549-5900-46c4-b936-de535362c41c",
+  "object": "beer",
+  "name": "Citra Verde",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

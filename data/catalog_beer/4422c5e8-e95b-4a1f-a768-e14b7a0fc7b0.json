@@ -1,0 +1,11 @@
+{
+  "id": "4422c5e8-e95b-4a1f-a768-e14b7a0fc7b0",
+  "object": "beer",
+  "name": "Painted Stallion",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

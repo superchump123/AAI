@@ -1,0 +1,11 @@
+{
+  "id": "ab65a4b0-b618-4fa8-9fb6-9d2b6b121580",
+  "object": "beer",
+  "name": "EspressoSelf",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

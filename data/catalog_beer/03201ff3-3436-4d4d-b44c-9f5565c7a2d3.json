@@ -1,0 +1,11 @@
+{
+  "id": "03201ff3-3436-4d4d-b44c-9f5565c7a2d3",
+  "object": "beer",
+  "name": "Chai-Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

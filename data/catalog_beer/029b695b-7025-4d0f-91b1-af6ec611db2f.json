@@ -1,0 +1,11 @@
+{
+  "id": "029b695b-7025-4d0f-91b1-af6ec611db2f",
+  "object": "beer",
+  "name": "Without a Paddle Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

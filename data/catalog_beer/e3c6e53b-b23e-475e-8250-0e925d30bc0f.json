@@ -1,0 +1,11 @@
+{
+  "id": "e3c6e53b-b23e-475e-8250-0e925d30bc0f",
+  "object": "beer",
+  "name": "Green Bird Gose...",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

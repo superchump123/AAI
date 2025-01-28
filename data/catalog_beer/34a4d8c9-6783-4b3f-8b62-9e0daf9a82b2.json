@@ -1,0 +1,11 @@
+{
+  "id": "34a4d8c9-6783-4b3f-8b62-9e0daf9a82b2",
+  "object": "beer",
+  "name": "Krampus",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

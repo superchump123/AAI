@@ -1,0 +1,11 @@
+{
+  "id": "67bcdac4-1976-4093-b588-6aa164131587",
+  "object": "beer",
+  "name": "Hoptometrist",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

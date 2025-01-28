@@ -1,0 +1,11 @@
+{
+  "id": "67ef3921-7897-4e7e-a338-ea18f19cf600",
+  "object": "beer",
+  "name": "Tornado Alley",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

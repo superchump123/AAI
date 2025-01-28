@@ -1,0 +1,11 @@
+{
+  "id": "120aec6a-fe03-418f-a267-ade810a9dfe5",
+  "object": "beer",
+  "name": "Spirit Animal",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

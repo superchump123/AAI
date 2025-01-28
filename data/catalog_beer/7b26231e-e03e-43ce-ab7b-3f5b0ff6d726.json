@@ -1,0 +1,11 @@
+{
+  "id": "7b26231e-e03e-43ce-ab7b-3f5b0ff6d726",
+  "object": "beer",
+  "name": "Volta Volta Volta Beer",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

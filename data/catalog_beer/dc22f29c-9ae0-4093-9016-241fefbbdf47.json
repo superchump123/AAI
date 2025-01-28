@@ -1,0 +1,11 @@
+{
+  "id": "dc22f29c-9ae0-4093-9016-241fefbbdf47",
+  "object": "beer",
+  "name": "Sunset",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

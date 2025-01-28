@@ -1,0 +1,11 @@
+{
+  "id": "cda956a5-7aa7-4b5b-a421-ea6c35cd9455",
+  "object": "beer",
+  "name": "Norm",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

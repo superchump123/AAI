@@ -1,0 +1,11 @@
+{
+  "id": "ccf724fb-47b0-4fe7-a687-acfad301e46e",
+  "object": "beer",
+  "name": "Proud American Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

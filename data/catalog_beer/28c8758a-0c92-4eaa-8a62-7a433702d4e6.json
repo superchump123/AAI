@@ -1,0 +1,11 @@
+{
+  "id": "28c8758a-0c92-4eaa-8a62-7a433702d4e6",
+  "object": "beer",
+  "name": "The Mulligan",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b35d7d6e-ae6d-4fb2-8de4-1173ea5f5f0a",
+  "object": "beer",
+  "name": "Oh Pale Yeah!",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

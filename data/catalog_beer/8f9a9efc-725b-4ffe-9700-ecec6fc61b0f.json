@@ -1,0 +1,11 @@
+{
+  "id": "8f9a9efc-725b-4ffe-9700-ecec6fc61b0f",
+  "object": "beer",
+  "name": "Bergquell Goldener Reiter",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

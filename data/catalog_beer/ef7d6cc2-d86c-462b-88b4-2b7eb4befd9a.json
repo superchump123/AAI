@@ -1,0 +1,11 @@
+{
+  "id": "ef7d6cc2-d86c-462b-88b4-2b7eb4befd9a",
+  "object": "beer",
+  "name": "Deranger Imperial Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

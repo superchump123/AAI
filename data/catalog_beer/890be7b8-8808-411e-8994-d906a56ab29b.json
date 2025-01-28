@@ -1,0 +1,11 @@
+{
+  "id": "890be7b8-8808-411e-8994-d906a56ab29b",
+  "object": "beer",
+  "name": "Dire Wolf",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

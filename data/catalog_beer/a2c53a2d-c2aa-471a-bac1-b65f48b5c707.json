@@ -1,0 +1,11 @@
+{
+  "id": "a2c53a2d-c2aa-471a-bac1-b65f48b5c707",
+  "object": "beer",
+  "name": "Winter Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

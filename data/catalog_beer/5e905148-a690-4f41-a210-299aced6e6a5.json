@@ -1,0 +1,11 @@
+{
+  "id": "5e905148-a690-4f41-a210-299aced6e6a5",
+  "object": "beer",
+  "name": "Techno Viking",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

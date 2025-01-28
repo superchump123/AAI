@@ -1,0 +1,11 @@
+{
+  "id": "a68a7e68-015b-4795-b9b7-7b502f56bb1a",
+  "object": "beer",
+  "name": "The Most Interesting Mexican Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

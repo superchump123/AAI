@@ -1,0 +1,11 @@
+{
+  "id": "39724c65-6cca-420f-876d-402b03f81c91",
+  "object": "beer",
+  "name": "Rusty Rail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

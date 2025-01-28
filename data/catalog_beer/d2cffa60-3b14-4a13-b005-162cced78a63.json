@@ -1,0 +1,11 @@
+{
+  "id": "d2cffa60-3b14-4a13-b005-162cced78a63",
+  "object": "beer",
+  "name": "Brett Pale Ale",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

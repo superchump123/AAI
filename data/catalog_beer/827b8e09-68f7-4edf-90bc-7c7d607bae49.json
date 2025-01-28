@@ -1,0 +1,11 @@
+{
+  "id": "827b8e09-68f7-4edf-90bc-7c7d607bae49",
+  "object": "beer",
+  "name": "Enigma",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

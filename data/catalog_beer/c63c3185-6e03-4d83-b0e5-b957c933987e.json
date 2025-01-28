@@ -1,0 +1,11 @@
+{
+  "id": "c63c3185-6e03-4d83-b0e5-b957c933987e",
+  "object": "beer",
+  "name": "Hombre Secreto Mango",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 10,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

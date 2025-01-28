@@ -1,0 +1,11 @@
+{
+  "id": "693a8485-1fe1-4c8c-b878-dd683ceb6b4c",
+  "object": "beer",
+  "name": "Uncle Bob Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0509f64d-f8b7-439f-89a2-d2b0bb92bf8a",
+  "object": "beer",
+  "name": "Spica",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

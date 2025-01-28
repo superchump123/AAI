@@ -1,0 +1,11 @@
+{
+  "id": "f4be9646-9bbb-459f-8cfe-ac54bd7cf5f3",
+  "object": "beer",
+  "name": "Coconut Pineapple IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

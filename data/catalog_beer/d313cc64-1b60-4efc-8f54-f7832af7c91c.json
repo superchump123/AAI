@@ -1,0 +1,11 @@
+{
+  "id": "d313cc64-1b60-4efc-8f54-f7832af7c91c",
+  "object": "beer",
+  "name": "Metro IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

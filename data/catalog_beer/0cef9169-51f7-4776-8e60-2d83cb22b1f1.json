@@ -1,0 +1,11 @@
+{
+  "id": "0cef9169-51f7-4776-8e60-2d83cb22b1f1",
+  "object": "beer",
+  "name": "Kanzu",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

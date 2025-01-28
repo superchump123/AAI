@@ -1,0 +1,11 @@
+{
+  "id": "966b38e6-da46-4c18-aa18-b99653190e6b",
+  "object": "beer",
+  "name": "Royal Summer",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

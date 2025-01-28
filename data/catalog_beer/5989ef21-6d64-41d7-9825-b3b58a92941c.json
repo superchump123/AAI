@@ -1,0 +1,11 @@
+{
+  "id": "5989ef21-6d64-41d7-9825-b3b58a92941c",
+  "object": "beer",
+  "name": "Comfortably Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

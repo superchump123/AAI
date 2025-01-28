@@ -1,0 +1,11 @@
+{
+  "id": "d127af7c-86c6-401e-a301-82b91f160392",
+  "object": "beer",
+  "name": "Ovila Abbey Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

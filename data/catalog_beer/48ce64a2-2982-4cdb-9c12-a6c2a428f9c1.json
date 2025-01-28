@@ -1,0 +1,11 @@
+{
+  "id": "48ce64a2-2982-4cdb-9c12-a6c2a428f9c1",
+  "object": "beer",
+  "name": "Rice Pudding",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

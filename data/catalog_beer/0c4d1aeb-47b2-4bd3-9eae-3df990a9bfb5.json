@@ -1,0 +1,11 @@
+{
+  "id": "0c4d1aeb-47b2-4bd3-9eae-3df990a9bfb5",
+  "object": "beer",
+  "name": "Prabu Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

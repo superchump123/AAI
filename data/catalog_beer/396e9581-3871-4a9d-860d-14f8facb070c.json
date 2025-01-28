@@ -1,0 +1,11 @@
+{
+  "id": "396e9581-3871-4a9d-860d-14f8facb070c",
+  "object": "beer",
+  "name": "Viru",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

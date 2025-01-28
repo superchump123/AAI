@@ -1,0 +1,11 @@
+{
+  "id": "99cccbc3-3214-484c-a508-d31a4a9a7df4",
+  "object": "beer",
+  "name": "Vanilla Gorilla",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

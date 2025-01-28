@@ -1,0 +1,11 @@
+{
+  "id": "70c481f2-8e36-4ab4-980c-9d6cd353cfce",
+  "object": "beer",
+  "name": "Bar Hopper",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8cdf7a46-9e45-4938-8ba6-e63790f0eea8",
+  "object": "beer",
+  "name": "Moonage Daydream",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

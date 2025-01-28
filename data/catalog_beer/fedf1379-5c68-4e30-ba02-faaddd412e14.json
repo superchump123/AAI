@@ -1,0 +1,11 @@
+{
+  "id": "fedf1379-5c68-4e30-ba02-faaddd412e14",
+  "object": "beer",
+  "name": "Arise",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

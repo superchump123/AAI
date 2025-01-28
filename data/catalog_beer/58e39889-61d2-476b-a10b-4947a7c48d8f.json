@@ -1,0 +1,11 @@
+{
+  "id": "58e39889-61d2-476b-a10b-4947a7c48d8f",
+  "object": "beer",
+  "name": "Shastafarian Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

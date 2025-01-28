@@ -1,0 +1,11 @@
+{
+  "id": "04bb7ade-aa70-4fa8-8d39-d77e6cf909cd",
+  "object": "beer",
+  "name": "Black is the New Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

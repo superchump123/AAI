@@ -1,0 +1,11 @@
+{
+  "id": "d9aa06f9-9966-4911-af4c-ae56201d476b",
+  "object": "beer",
+  "name": "Nightshine",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

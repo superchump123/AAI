@@ -1,0 +1,11 @@
+{
+  "id": "62d1c8ba-e854-4f3a-b9ac-48341ea0027f",
+  "object": "beer",
+  "name": "Hops Kill?",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

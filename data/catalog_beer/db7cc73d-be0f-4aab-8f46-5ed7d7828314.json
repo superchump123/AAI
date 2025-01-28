@@ -1,0 +1,11 @@
+{
+  "id": "db7cc73d-be0f-4aab-8f46-5ed7d7828314",
+  "object": "beer",
+  "name": "Pale Smoke Lager",
+  "style": "Bamberg-Style Helles Rauchbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

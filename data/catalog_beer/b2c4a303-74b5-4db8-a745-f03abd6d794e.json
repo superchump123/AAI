@@ -1,0 +1,11 @@
+{
+  "id": "b2c4a303-74b5-4db8-a745-f03abd6d794e",
+  "object": "beer",
+  "name": "Garden Of Grass",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

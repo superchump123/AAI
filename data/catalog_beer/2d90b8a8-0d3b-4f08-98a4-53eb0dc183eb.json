@@ -1,0 +1,11 @@
+{
+  "id": "2d90b8a8-0d3b-4f08-98a4-53eb0dc183eb",
+  "object": "beer",
+  "name": "Urban Chicken",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

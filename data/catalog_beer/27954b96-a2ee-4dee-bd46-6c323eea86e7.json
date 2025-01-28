@@ -1,0 +1,11 @@
+{
+  "id": "27954b96-a2ee-4dee-bd46-6c323eea86e7",
+  "object": "beer",
+  "name": "King Ziggy",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ae106a4d-ef3c-4dda-98a1-178213d6d584",
+  "object": "beer",
+  "name": "Mocha",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fcd7f9d0-39e4-47b9-b589-b9358e28a4fd",
+  "object": "beer",
+  "name": "Southern Tea",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

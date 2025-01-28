@@ -1,0 +1,11 @@
+{
+  "id": "0fdc7c10-327c-4283-acc0-e490ee5f76b4",
+  "object": "beer",
+  "name": "Dark Peak",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

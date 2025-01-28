@@ -1,0 +1,11 @@
+{
+  "id": "42d9085f-f2bf-4dec-9d1e-f1701814a5ce",
+  "object": "beer",
+  "name": "Non-alcoholic beer",
+  "style": "Non-Alcoholic (Beer) Malt Beverages",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

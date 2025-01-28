@@ -1,0 +1,11 @@
+{
+  "id": "1dd665c3-1fcc-430c-b49c-acf5a0e8eba1",
+  "object": "beer",
+  "name": "Stallion",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

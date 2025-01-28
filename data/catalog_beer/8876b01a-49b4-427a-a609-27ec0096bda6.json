@@ -1,0 +1,11 @@
+{
+  "id": "8876b01a-49b4-427a-a609-27ec0096bda6",
+  "object": "beer",
+  "name": "Andromeda",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

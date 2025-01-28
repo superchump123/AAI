@@ -1,0 +1,11 @@
+{
+  "id": "e4cf7018-7540-42a2-9b71-f512fe983ed4",
+  "object": "beer",
+  "name": "Spire Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

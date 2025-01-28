@@ -1,0 +1,11 @@
+{
+  "id": "e91fde06-59ce-4549-8483-a543c3bab402",
+  "object": "beer",
+  "name": "Fall Harvest Ale",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

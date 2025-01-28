@@ -1,0 +1,11 @@
+{
+  "id": "7f358ae4-82ac-4740-8168-551a5d48b21e",
+  "object": "beer",
+  "name": "Faust Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

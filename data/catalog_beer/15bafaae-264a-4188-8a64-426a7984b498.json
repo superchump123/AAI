@@ -1,0 +1,11 @@
+{
+  "id": "15bafaae-264a-4188-8a64-426a7984b498",
+  "object": "beer",
+  "name": "Strong Scotch Ale",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

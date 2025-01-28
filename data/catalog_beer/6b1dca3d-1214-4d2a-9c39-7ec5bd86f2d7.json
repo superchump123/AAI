@@ -1,0 +1,11 @@
+{
+  "id": "6b1dca3d-1214-4d2a-9c39-7ec5bd86f2d7",
+  "object": "beer",
+  "name": "Saaz Monster Ale",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

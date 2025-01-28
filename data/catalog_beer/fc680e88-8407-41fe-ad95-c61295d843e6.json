@@ -1,0 +1,11 @@
+{
+  "id": "fc680e88-8407-41fe-ad95-c61295d843e6",
+  "object": "beer",
+  "name": "Blonde du Prospecteur",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

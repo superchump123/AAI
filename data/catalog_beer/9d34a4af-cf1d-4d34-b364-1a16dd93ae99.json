@@ -1,0 +1,11 @@
+{
+  "id": "9d34a4af-cf1d-4d34-b364-1a16dd93ae99",
+  "object": "beer",
+  "name": "Southern Revival",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7f449d85-5927-4365-bc33-810848b3e54b",
+  "object": "beer",
+  "name": "Biltre Matreira APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

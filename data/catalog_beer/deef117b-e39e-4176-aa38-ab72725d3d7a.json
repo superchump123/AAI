@@ -1,0 +1,11 @@
+{
+  "id": "deef117b-e39e-4176-aa38-ab72725d3d7a",
+  "object": "beer",
+  "name": "Kriek",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

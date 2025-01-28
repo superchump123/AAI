@@ -1,0 +1,11 @@
+{
+  "id": "d65f98bc-d398-4f4a-9b59-d781e5168c95",
+  "object": "beer",
+  "name": "Samuel Adams Octoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

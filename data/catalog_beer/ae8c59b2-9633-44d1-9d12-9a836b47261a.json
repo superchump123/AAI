@@ -1,0 +1,11 @@
+{
+  "id": "ae8c59b2-9633-44d1-9d12-9a836b47261a",
+  "object": "beer",
+  "name": "Liquid Assets",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

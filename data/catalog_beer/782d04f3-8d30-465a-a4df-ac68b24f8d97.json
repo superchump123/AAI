@@ -1,0 +1,11 @@
+{
+  "id": "782d04f3-8d30-465a-a4df-ac68b24f8d97",
+  "object": "beer",
+  "name": "Brother Leo Belgian IPA",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

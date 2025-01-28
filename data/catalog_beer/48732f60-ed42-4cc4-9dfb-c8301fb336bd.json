@@ -1,0 +1,11 @@
+{
+  "id": "48732f60-ed42-4cc4-9dfb-c8301fb336bd",
+  "object": "beer",
+  "name": "South Broad Berliner Weisse",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 2.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

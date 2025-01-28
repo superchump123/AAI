@@ -1,0 +1,11 @@
+{
+  "id": "ce795014-a9b9-4b2c-87f4-96240ca0820c",
+  "object": "beer",
+  "name": "Saranac Blueberry Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

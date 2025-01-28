@@ -1,0 +1,11 @@
+{
+  "id": "8e6d2856-05ec-4ffd-b3bb-473a04a83769",
+  "object": "beer",
+  "name": "Community Dark",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

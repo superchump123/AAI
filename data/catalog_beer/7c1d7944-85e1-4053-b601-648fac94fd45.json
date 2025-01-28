@@ -1,0 +1,11 @@
+{
+  "id": "7c1d7944-85e1-4053-b601-648fac94fd45",
+  "object": "beer",
+  "name": "Bake Head Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

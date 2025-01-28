@@ -1,0 +1,11 @@
+{
+  "id": "acb0e3f1-9f3f-440a-a25b-440e8f2cf4eb",
+  "object": "beer",
+  "name": "Schussenrieder Schwarze Weisse",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

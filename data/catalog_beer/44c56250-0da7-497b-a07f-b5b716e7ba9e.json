@@ -1,0 +1,11 @@
+{
+  "id": "44c56250-0da7-497b-a07f-b5b716e7ba9e",
+  "object": "beer",
+  "name": "Long Branch",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

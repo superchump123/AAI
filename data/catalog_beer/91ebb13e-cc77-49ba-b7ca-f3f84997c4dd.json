@@ -1,0 +1,11 @@
+{
+  "id": "91ebb13e-cc77-49ba-b7ca-f3f84997c4dd",
+  "object": "beer",
+  "name": "Flyer Red",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

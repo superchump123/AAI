@@ -1,0 +1,11 @@
+{
+  "id": "652bedbb-1eb6-43f2-8570-81b97377225d",
+  "object": "beer",
+  "name": "Creekbank Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

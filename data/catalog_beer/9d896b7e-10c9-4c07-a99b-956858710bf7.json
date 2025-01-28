@@ -1,0 +1,11 @@
+{
+  "id": "9d896b7e-10c9-4c07-a99b-956858710bf7",
+  "object": "beer",
+  "name": "Puma Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

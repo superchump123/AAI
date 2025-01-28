@@ -1,0 +1,11 @@
+{
+  "id": "99315e11-5dd6-4701-8acf-d91830c92d54",
+  "object": "beer",
+  "name": "Triptych",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

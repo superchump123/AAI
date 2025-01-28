@@ -1,0 +1,11 @@
+{
+  "id": "9aa62a75-8ecc-48e5-b8d4-7a4d56229c2b",
+  "object": "beer",
+  "name": "Herducken",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

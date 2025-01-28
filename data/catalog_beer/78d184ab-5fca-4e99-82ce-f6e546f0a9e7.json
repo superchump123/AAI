@@ -1,0 +1,11 @@
+{
+  "id": "78d184ab-5fca-4e99-82ce-f6e546f0a9e7",
+  "object": "beer",
+  "name": "Monkey Knife Fight",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

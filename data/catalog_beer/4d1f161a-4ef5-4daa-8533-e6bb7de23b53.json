@@ -1,0 +1,11 @@
+{
+  "id": "4d1f161a-4ef5-4daa-8533-e6bb7de23b53",
+  "object": "beer",
+  "name": "Broken Spoke",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

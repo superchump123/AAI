@@ -1,0 +1,11 @@
+{
+  "id": "d4230a95-29c8-4287-9c8a-2edcea2223e4",
+  "object": "beer",
+  "name": "Copper Mule",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

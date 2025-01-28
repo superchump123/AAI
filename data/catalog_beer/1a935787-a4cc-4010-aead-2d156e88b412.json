@@ -1,0 +1,11 @@
+{
+  "id": "1a935787-a4cc-4010-aead-2d156e88b412",
+  "object": "beer",
+  "name": "Crystal Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

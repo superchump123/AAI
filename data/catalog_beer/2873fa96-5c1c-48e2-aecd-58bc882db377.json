@@ -1,0 +1,11 @@
+{
+  "id": "2873fa96-5c1c-48e2-aecd-58bc882db377",
+  "object": "beer",
+  "name": "Tripel de Ripple",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

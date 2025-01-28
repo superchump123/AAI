@@ -1,0 +1,11 @@
+{
+  "id": "a1c3d308-a85b-4b65-b286-643fae02d401",
+  "object": "beer",
+  "name": "Quickhatch",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cb34499a-80c8-4091-8571-15799f71b632",
+  "object": "beer",
+  "name": "Excalibur Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 128,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

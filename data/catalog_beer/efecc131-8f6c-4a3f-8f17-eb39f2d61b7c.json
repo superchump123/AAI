@@ -1,0 +1,11 @@
+{
+  "id": "efecc131-8f6c-4a3f-8f17-eb39f2d61b7c",
+  "object": "beer",
+  "name": "Holiday Crumbs",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

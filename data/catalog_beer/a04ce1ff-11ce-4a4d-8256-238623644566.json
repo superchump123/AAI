@@ -1,0 +1,11 @@
+{
+  "id": "a04ce1ff-11ce-4a4d-8256-238623644566",
+  "object": "beer",
+  "name": "10W Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

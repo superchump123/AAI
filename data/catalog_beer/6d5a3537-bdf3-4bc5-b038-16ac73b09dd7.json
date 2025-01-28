@@ -1,0 +1,11 @@
+{
+  "id": "6d5a3537-bdf3-4bc5-b038-16ac73b09dd7",
+  "object": "beer",
+  "name": "Snow Flurry",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

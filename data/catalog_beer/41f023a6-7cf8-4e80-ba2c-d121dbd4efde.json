@@ -1,0 +1,11 @@
+{
+  "id": "41f023a6-7cf8-4e80-ba2c-d121dbd4efde",
+  "object": "beer",
+  "name": "Loopty Loop",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "57d84aad-ed63-4f80-b9f9-aeb0f99c2cfd",
+  "object": "beer",
+  "name": "Macadocious",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

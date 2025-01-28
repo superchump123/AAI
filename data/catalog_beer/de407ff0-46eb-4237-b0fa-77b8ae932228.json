@@ -1,0 +1,11 @@
+{
+  "id": "de407ff0-46eb-4237-b0fa-77b8ae932228",
+  "object": "beer",
+  "name": "Butte Original",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

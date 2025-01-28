@@ -1,0 +1,11 @@
+{
+  "id": "1ae97e49-bc3b-4bee-8119-47d98824594c",
+  "object": "beer",
+  "name": "Be Hoppy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

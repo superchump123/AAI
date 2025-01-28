@@ -1,0 +1,11 @@
+{
+  "id": "9b2865c3-aede-458b-9edd-8717ec4bd720",
+  "object": "beer",
+  "name": "Ramblin' Raspberry Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

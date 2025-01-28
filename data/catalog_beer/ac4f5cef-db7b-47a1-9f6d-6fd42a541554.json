@@ -1,0 +1,11 @@
+{
+  "id": "ac4f5cef-db7b-47a1-9f6d-6fd42a541554",
+  "object": "beer",
+  "name": "Dark Road Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4b4ab2c6-5b9f-4bb7-a7e7-f21dd77ea76e",
+  "object": "beer",
+  "name": "Slammin Bones",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

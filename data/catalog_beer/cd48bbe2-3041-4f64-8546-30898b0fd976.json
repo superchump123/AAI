@@ -1,0 +1,11 @@
+{
+  "id": "cd48bbe2-3041-4f64-8546-30898b0fd976",
+  "object": "beer",
+  "name": "Depth Perception",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

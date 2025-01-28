@@ -1,0 +1,11 @@
+{
+  "id": "534d7564-ddda-49f4-8998-5c6c5c988465",
+  "object": "beer",
+  "name": "Lucky 13",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

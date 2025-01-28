@@ -1,0 +1,11 @@
+{
+  "id": "41893f0f-b912-4188-8372-50b6f46408c5",
+  "object": "beer",
+  "name": "TAP2 Mein Kristall",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

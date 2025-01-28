@@ -1,0 +1,11 @@
+{
+  "id": "1567aa72-87cf-4ac2-8f5b-39d97647568f",
+  "object": "beer",
+  "name": "Scenic Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

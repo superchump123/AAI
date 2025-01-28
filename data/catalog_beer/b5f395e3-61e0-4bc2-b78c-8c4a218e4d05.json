@@ -1,0 +1,11 @@
+{
+  "id": "b5f395e3-61e0-4bc2-b78c-8c4a218e4d05",
+  "object": "beer",
+  "name": "Callista Red Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

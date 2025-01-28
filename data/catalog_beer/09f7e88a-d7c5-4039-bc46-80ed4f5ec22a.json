@@ -1,0 +1,11 @@
+{
+  "id": "09f7e88a-d7c5-4039-bc46-80ed4f5ec22a",
+  "object": "beer",
+  "name": "Golden Girl",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

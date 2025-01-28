@@ -1,0 +1,11 @@
+{
+  "id": "2511b39f-c494-4dbd-a768-986ba8d5ff72",
+  "object": "beer",
+  "name": "Faisca",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

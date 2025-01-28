@@ -1,0 +1,11 @@
+{
+  "id": "a575f9ea-5c12-4bcc-ba6f-914f0cffa47b",
+  "object": "beer",
+  "name": "Killer Grove",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

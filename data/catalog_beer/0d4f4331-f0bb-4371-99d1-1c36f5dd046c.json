@@ -1,0 +1,11 @@
+{
+  "id": "0d4f4331-f0bb-4371-99d1-1c36f5dd046c",
+  "object": "beer",
+  "name": "Stagecoach Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

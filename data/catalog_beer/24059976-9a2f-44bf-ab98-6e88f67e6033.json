@@ -1,0 +1,11 @@
+{
+  "id": "24059976-9a2f-44bf-ab98-6e88f67e6033",
+  "object": "beer",
+  "name": "Night Ryeder",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

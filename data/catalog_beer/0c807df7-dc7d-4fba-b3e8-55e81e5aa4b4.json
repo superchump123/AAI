@@ -1,0 +1,11 @@
+{
+  "id": "0c807df7-dc7d-4fba-b3e8-55e81e5aa4b4",
+  "object": "beer",
+  "name": "Gambler's Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

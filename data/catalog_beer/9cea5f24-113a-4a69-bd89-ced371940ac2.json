@@ -1,0 +1,11 @@
+{
+  "id": "9cea5f24-113a-4a69-bd89-ced371940ac2",
+  "object": "beer",
+  "name": "Gaslight",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4e7be750-e324-4528-9af3-00748428e261",
+  "object": "beer",
+  "name": "Samichlaus Classic",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b2f6939c-a75c-4847-a85a-04f6b157146c",
+  "object": "beer",
+  "name": "The Other End",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

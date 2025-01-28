@@ -1,0 +1,11 @@
+{
+  "id": "e992eb68-e6bc-43fa-aa20-b3b8dbf64905",
+  "object": "beer",
+  "name": "Balt The More",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

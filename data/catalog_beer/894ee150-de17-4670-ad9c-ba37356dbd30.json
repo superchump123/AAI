@@ -1,0 +1,11 @@
+{
+  "id": "894ee150-de17-4670-ad9c-ba37356dbd30",
+  "object": "beer",
+  "name": "Oubliette",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

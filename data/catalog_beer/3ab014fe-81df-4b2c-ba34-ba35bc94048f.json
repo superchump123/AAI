@@ -1,0 +1,11 @@
+{
+  "id": "3ab014fe-81df-4b2c-ba34-ba35bc94048f",
+  "object": "beer",
+  "name": "Berserker",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

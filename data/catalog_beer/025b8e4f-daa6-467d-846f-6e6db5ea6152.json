@@ -1,0 +1,11 @@
+{
+  "id": "025b8e4f-daa6-467d-846f-6e6db5ea6152",
+  "object": "beer",
+  "name": "Tropic Thunder",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

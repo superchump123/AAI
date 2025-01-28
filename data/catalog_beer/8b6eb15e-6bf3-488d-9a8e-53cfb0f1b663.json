@@ -1,0 +1,11 @@
+{
+  "id": "8b6eb15e-6bf3-488d-9a8e-53cfb0f1b663",
+  "object": "beer",
+  "name": "Mons Abbey Witte",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

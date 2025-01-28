@@ -1,0 +1,11 @@
+{
+  "id": "6bf9c9b5-e843-459d-abea-6daa7dbc3088",
+  "object": "beer",
+  "name": "Green is Gold",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

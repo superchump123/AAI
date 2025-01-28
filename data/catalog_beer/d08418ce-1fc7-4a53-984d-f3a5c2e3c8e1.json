@@ -1,0 +1,11 @@
+{
+  "id": "d08418ce-1fc7-4a53-984d-f3a5c2e3c8e1",
+  "object": "beer",
+  "name": "Simcoe Sour",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

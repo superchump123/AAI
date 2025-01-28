@@ -1,0 +1,11 @@
+{
+  "id": "a2aee743-0b12-468b-a4c0-f14044b6dd70",
+  "object": "beer",
+  "name": "Mohren Pfiff",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

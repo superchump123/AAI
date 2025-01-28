@@ -1,0 +1,11 @@
+{
+  "id": "2f818d38-96f7-41f2-a0ae-1262a57f04eb",
+  "object": "beer",
+  "name": "White IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

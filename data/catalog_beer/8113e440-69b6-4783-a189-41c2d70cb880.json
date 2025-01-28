@@ -1,0 +1,11 @@
+{
+  "id": "8113e440-69b6-4783-a189-41c2d70cb880",
+  "object": "beer",
+  "name": "Winter's Wolves",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

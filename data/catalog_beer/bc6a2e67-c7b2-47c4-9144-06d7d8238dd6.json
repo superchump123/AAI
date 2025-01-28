@@ -1,0 +1,11 @@
+{
+  "id": "bc6a2e67-c7b2-47c4-9144-06d7d8238dd6",
+  "object": "beer",
+  "name": "Smokebrush Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

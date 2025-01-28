@@ -1,0 +1,11 @@
+{
+  "id": "85eaed03-86b2-47f4-b406-3b903a5ae0e1",
+  "object": "beer",
+  "name": "Pepin \u201cThe Short\u201d Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

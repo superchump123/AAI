@@ -1,0 +1,11 @@
+{
+  "id": "78a290c4-3fd9-4db7-8b96-21caa07b526e",
+  "object": "beer",
+  "name": "Hop Sun",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

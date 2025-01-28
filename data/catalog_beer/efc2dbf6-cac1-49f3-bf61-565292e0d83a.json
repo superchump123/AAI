@@ -1,0 +1,11 @@
+{
+  "id": "efc2dbf6-cac1-49f3-bf61-565292e0d83a",
+  "object": "beer",
+  "name": "Woody Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

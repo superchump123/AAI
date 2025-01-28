@@ -1,0 +1,11 @@
+{
+  "id": "5ba3af0e-3ca7-4624-a033-075f9e72b97e",
+  "object": "beer",
+  "name": "Unscripted",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

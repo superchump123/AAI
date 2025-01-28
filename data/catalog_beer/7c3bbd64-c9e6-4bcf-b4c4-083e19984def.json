@@ -1,0 +1,11 @@
+{
+  "id": "7c3bbd64-c9e6-4bcf-b4c4-083e19984def",
+  "object": "beer",
+  "name": "Probie Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

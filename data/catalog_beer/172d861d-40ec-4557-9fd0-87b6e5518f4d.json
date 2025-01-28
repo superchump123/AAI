@@ -1,0 +1,11 @@
+{
+  "id": "172d861d-40ec-4557-9fd0-87b6e5518f4d",
+  "object": "beer",
+  "name": "Cicada",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

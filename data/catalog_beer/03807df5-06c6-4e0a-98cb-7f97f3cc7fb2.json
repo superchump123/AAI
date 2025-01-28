@@ -1,0 +1,11 @@
+{
+  "id": "03807df5-06c6-4e0a-98cb-7f97f3cc7fb2",
+  "object": "beer",
+  "name": "Wee Sheaf Scotch Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

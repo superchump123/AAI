@@ -1,0 +1,11 @@
+{
+  "id": "b955ec5c-c7b0-482d-b53a-6f03e0fe309c",
+  "object": "beer",
+  "name": "Pastime Summer Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

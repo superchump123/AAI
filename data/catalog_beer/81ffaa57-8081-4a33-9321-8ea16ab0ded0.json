@@ -1,0 +1,11 @@
+{
+  "id": "81ffaa57-8081-4a33-9321-8ea16ab0ded0",
+  "object": "beer",
+  "name": "Wicket Gate",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

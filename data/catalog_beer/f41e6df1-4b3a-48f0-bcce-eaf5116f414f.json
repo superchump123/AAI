@@ -1,0 +1,11 @@
+{
+  "id": "f41e6df1-4b3a-48f0-bcce-eaf5116f414f",
+  "object": "beer",
+  "name": "Double Chocolate Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

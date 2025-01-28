@@ -1,0 +1,11 @@
+{
+  "id": "8ffe7e73-5cc9-4f33-98bc-30aff45b0289",
+  "object": "beer",
+  "name": "Golden Goose Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

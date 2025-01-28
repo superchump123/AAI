@@ -1,0 +1,11 @@
+{
+  "id": "203aa551-28b6-4fc6-bbb7-d0ba8a9f5a42",
+  "object": "beer",
+  "name": "1881 Sacramento Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

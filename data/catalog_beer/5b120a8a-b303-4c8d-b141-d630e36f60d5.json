@@ -1,0 +1,11 @@
+{
+  "id": "5b120a8a-b303-4c8d-b141-d630e36f60d5",
+  "object": "beer",
+  "name": "Golden Frog",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

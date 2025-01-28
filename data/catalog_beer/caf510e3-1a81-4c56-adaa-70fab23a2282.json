@@ -1,0 +1,11 @@
+{
+  "id": "caf510e3-1a81-4c56-adaa-70fab23a2282",
+  "object": "beer",
+  "name": "Whole Hog Barley Wine Style",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

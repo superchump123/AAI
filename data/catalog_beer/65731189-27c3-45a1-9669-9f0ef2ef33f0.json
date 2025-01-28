@@ -1,0 +1,11 @@
+{
+  "id": "65731189-27c3-45a1-9669-9f0ef2ef33f0",
+  "object": "beer",
+  "name": "Norman Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

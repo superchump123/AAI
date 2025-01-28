@@ -1,0 +1,11 @@
+{
+  "id": "6993f926-c9f1-40f6-8c80-ecdbde1e6014",
+  "object": "beer",
+  "name": "Broad Arrow",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

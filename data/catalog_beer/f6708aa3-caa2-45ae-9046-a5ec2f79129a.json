@@ -1,0 +1,11 @@
+{
+  "id": "f6708aa3-caa2-45ae-9046-a5ec2f79129a",
+  "object": "beer",
+  "name": "Iron Jack",
+  "style": "Australasian, Latin American or Tropical-Style Light Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

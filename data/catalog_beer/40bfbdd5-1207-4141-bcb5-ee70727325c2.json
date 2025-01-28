@@ -1,0 +1,11 @@
+{
+  "id": "40bfbdd5-1207-4141-bcb5-ee70727325c2",
+  "object": "beer",
+  "name": "Moylander Double IPA (India Pale Ale)",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a36598cf-f988-4b4b-979d-1d6ac9e7c351",
+  "object": "beer",
+  "name": "East Village Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

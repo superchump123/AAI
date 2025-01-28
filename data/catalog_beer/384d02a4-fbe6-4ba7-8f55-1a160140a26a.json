@@ -1,0 +1,11 @@
+{
+  "id": "384d02a4-fbe6-4ba7-8f55-1a160140a26a",
+  "object": "beer",
+  "name": "Globe Trotter",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

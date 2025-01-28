@@ -1,0 +1,11 @@
+{
+  "id": "973b21d0-6d5d-489c-a31b-e98725bc983e",
+  "object": "beer",
+  "name": "Southern Gothic Session Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

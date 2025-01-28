@@ -1,0 +1,11 @@
+{
+  "id": "13f8d836-f443-4b93-afcd-01c9cf7a1636",
+  "object": "beer",
+  "name": "Penny's Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

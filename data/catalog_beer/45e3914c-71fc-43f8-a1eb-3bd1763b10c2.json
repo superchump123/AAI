@@ -1,0 +1,11 @@
+{
+  "id": "45e3914c-71fc-43f8-a1eb-3bd1763b10c2",
+  "object": "beer",
+  "name": "Provincial",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

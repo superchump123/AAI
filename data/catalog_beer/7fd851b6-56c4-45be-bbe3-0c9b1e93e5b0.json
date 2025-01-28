@@ -1,0 +1,11 @@
+{
+  "id": "7fd851b6-56c4-45be-bbe3-0c9b1e93e5b0",
+  "object": "beer",
+  "name": "Padawan Pumpkin",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

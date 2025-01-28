@@ -1,0 +1,11 @@
+{
+  "id": "225f72ac-4c4f-4750-a27b-8b329d4f9f0d",
+  "object": "beer",
+  "name": "Harmony",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

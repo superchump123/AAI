@@ -1,0 +1,11 @@
+{
+  "id": "e69cc4d4-4040-4def-a446-b4d20d67791b",
+  "object": "beer",
+  "name": "Steinpils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

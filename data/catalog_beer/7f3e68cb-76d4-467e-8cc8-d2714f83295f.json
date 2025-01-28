@@ -1,0 +1,11 @@
+{
+  "id": "7f3e68cb-76d4-467e-8cc8-d2714f83295f",
+  "object": "beer",
+  "name": "The Bossman",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

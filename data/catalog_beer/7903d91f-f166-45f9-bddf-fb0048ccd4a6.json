@@ -1,0 +1,11 @@
+{
+  "id": "7903d91f-f166-45f9-bddf-fb0048ccd4a6",
+  "object": "beer",
+  "name": "Imperial Stout 2003",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06fc711b-c2cf-4a80-8a70-0b3d33bd038f",
+  "object": "beer",
+  "name": "Black Butte XXIII",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

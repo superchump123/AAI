@@ -1,0 +1,11 @@
+{
+  "id": "50901923-ab6e-4187-98fd-aebd6d2504c8",
+  "object": "beer",
+  "name": "Millennium Brew",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

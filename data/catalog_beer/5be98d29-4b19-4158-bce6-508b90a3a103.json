@@ -1,0 +1,11 @@
+{
+  "id": "5be98d29-4b19-4158-bce6-508b90a3a103",
+  "object": "beer",
+  "name": "Lemon Drop Sun",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

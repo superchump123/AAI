@@ -1,0 +1,11 @@
+{
+  "id": "a4c83bed-d35f-4f27-a7f3-bf4e3842e3d9",
+  "object": "beer",
+  "name": "Breakfast Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

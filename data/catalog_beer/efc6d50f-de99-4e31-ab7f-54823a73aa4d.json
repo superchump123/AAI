@@ -1,0 +1,11 @@
+{
+  "id": "efc6d50f-de99-4e31-ab7f-54823a73aa4d",
+  "object": "beer",
+  "name": "Anniversary Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

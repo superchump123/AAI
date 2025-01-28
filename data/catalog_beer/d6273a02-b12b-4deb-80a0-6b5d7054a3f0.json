@@ -1,0 +1,11 @@
+{
+  "id": "d6273a02-b12b-4deb-80a0-6b5d7054a3f0",
+  "object": "beer",
+  "name": "Berlot",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

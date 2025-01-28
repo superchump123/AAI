@@ -1,0 +1,11 @@
+{
+  "id": "b4b899ce-100b-4563-b3f6-22066744729d",
+  "object": "beer",
+  "name": "Poretti Rossa Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

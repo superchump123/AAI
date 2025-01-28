@@ -1,0 +1,11 @@
+{
+  "id": "9b09abfa-6f98-4f69-bd48-15d62641bf80",
+  "object": "beer",
+  "name": "Normcore",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

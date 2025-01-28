@@ -1,0 +1,11 @@
+{
+  "id": "5eb28d19-b60b-4422-9055-6764e83c85ea",
+  "object": "beer",
+  "name": "Black Raspberry Reserve",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

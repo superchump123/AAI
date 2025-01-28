@@ -1,0 +1,11 @@
+{
+  "id": "5f367221-5ea3-4f32-b877-14662f616a31",
+  "object": "beer",
+  "name": "Berserkr",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

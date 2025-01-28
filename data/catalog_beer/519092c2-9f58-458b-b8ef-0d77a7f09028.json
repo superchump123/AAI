@@ -1,0 +1,11 @@
+{
+  "id": "519092c2-9f58-458b-b8ef-0d77a7f09028",
+  "object": "beer",
+  "name": "Rychtovar",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

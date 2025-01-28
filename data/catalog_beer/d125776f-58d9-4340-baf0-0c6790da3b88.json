@@ -1,0 +1,11 @@
+{
+  "id": "d125776f-58d9-4340-baf0-0c6790da3b88",
+  "object": "beer",
+  "name": "Lasser Premium Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

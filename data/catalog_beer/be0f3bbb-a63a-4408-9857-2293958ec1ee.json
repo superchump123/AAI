@@ -1,0 +1,11 @@
+{
+  "id": "be0f3bbb-a63a-4408-9857-2293958ec1ee",
+  "object": "beer",
+  "name": "Marin Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

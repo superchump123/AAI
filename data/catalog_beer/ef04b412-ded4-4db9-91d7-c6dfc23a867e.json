@@ -1,0 +1,11 @@
+{
+  "id": "ef04b412-ded4-4db9-91d7-c6dfc23a867e",
+  "object": "beer",
+  "name": "Paulina Lake Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

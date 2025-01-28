@@ -1,0 +1,11 @@
+{
+  "id": "0c78b6ff-9ded-43e5-8cb1-d62ad3ab1479",
+  "object": "beer",
+  "name": "Johnny Low IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

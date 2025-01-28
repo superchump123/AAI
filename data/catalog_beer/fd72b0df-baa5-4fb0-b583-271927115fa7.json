@@ -1,0 +1,11 @@
+{
+  "id": "fd72b0df-baa5-4fb0-b583-271927115fa7",
+  "object": "beer",
+  "name": "It's Not Always Sunny In LA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

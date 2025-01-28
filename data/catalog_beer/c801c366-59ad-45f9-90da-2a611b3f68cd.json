@@ -1,0 +1,11 @@
+{
+  "id": "c801c366-59ad-45f9-90da-2a611b3f68cd",
+  "object": "beer",
+  "name": "Ryes 'N Shine",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

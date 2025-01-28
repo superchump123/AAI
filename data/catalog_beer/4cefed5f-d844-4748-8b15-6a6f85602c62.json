@@ -1,0 +1,11 @@
+{
+  "id": "4cefed5f-d844-4748-8b15-6a6f85602c62",
+  "object": "beer",
+  "name": "Arctic Blast Vanilla Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "546a3d70-fbb8-4819-8363-542ba9d4b7a4",
+  "object": "beer",
+  "name": "Old Teuton",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7de27199-8989-4d02-8a44-03b8d6e9db03",
+  "object": "beer",
+  "name": "Dundee Festive Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "71eacf8f-9def-4119-982d-41b1a760c913",
+  "object": "beer",
+  "name": "Lakeside Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

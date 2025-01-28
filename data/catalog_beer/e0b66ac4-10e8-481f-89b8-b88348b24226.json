@@ -1,0 +1,11 @@
+{
+  "id": "e0b66ac4-10e8-481f-89b8-b88348b24226",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Franxis",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

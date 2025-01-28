@@ -1,0 +1,11 @@
+{
+  "id": "e55b47ff-5efd-475c-b503-0bc2098efb71",
+  "object": "beer",
+  "name": "Roscoe IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

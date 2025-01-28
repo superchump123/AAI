@@ -1,0 +1,11 @@
+{
+  "id": "49e3d792-27d4-40f0-9f3a-3ad27ea3f7a1",
+  "object": "beer",
+  "name": "The Big Nasty",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 160,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

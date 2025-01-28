@@ -1,0 +1,11 @@
+{
+  "id": "200e0813-8dea-46c0-80a8-fbe54244187a",
+  "object": "beer",
+  "name": "Golden Ale",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

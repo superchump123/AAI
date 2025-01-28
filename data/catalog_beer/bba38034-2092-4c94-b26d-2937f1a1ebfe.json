@@ -1,0 +1,11 @@
+{
+  "id": "bba38034-2092-4c94-b26d-2937f1a1ebfe",
+  "object": "beer",
+  "name": "Sangreal",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

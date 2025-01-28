@@ -1,0 +1,11 @@
+{
+  "id": "b6e4ed0f-fc98-4ec7-8f3c-c6ffc4857ac0",
+  "object": "beer",
+  "name": "Wobbly Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

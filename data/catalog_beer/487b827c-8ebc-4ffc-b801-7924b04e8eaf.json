@@ -1,0 +1,11 @@
+{
+  "id": "487b827c-8ebc-4ffc-b801-7924b04e8eaf",
+  "object": "beer",
+  "name": "New England IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

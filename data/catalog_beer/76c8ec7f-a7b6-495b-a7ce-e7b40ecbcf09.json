@@ -1,0 +1,11 @@
+{
+  "id": "76c8ec7f-a7b6-495b-a7ce-e7b40ecbcf09",
+  "object": "beer",
+  "name": "Crazy Lucia",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

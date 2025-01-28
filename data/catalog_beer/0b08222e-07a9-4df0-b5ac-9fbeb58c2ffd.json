@@ -1,0 +1,11 @@
+{
+  "id": "0b08222e-07a9-4df0-b5ac-9fbeb58c2ffd",
+  "object": "beer",
+  "name": "Hazel's Taproot Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

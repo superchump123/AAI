@@ -1,0 +1,11 @@
+{
+  "id": "4414f2f6-435e-4700-9af7-3d325111da10",
+  "object": "beer",
+  "name": "Atomic Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

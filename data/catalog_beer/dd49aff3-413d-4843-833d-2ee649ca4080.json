@@ -1,0 +1,11 @@
+{
+  "id": "dd49aff3-413d-4843-833d-2ee649ca4080",
+  "object": "beer",
+  "name": "Something Simple",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

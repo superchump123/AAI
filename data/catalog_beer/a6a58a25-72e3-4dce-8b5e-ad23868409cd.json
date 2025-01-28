@@ -1,0 +1,11 @@
+{
+  "id": "a6a58a25-72e3-4dce-8b5e-ad23868409cd",
+  "object": "beer",
+  "name": "Nutty Operator",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

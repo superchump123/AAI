@@ -1,0 +1,11 @@
+{
+  "id": "ed8d0483-ece6-4dcf-b738-91ca50aa4d00",
+  "object": "beer",
+  "name": "Whiskey Sour",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

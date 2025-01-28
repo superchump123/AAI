@@ -1,0 +1,11 @@
+{
+  "id": "ff0216b7-f893-44b1-bc3c-f0a5a733dc3a",
+  "object": "beer",
+  "name": "Blondine",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0d25593e-3991-4278-9d01-bb1b4aaa8da0",
+  "object": "beer",
+  "name": "Cold Trail Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

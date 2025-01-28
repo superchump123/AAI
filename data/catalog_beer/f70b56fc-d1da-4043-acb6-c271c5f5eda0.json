@@ -1,0 +1,11 @@
+{
+  "id": "f70b56fc-d1da-4043-acb6-c271c5f5eda0",
+  "object": "beer",
+  "name": "Cucumber K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

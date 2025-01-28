@@ -1,0 +1,11 @@
+{
+  "id": "63afa60c-71ca-426e-8540-5583f7bb1d00",
+  "object": "beer",
+  "name": "Ginger Cider",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

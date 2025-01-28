@@ -1,0 +1,11 @@
+{
+  "id": "6b08d3cd-238c-44f6-b14e-940c1e4bc64a",
+  "object": "beer",
+  "name": "S1NIST0R Black Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d867e0f8-e496-4f50-ba5e-92f5b3c0e40a",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cbe845ae-83d9-42fd-a411-47ebdeee3f28",
+  "object": "beer",
+  "name": "Vanilla Cream Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

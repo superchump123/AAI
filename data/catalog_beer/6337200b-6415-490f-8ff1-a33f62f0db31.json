@@ -1,0 +1,11 @@
+{
+  "id": "6337200b-6415-490f-8ff1-a33f62f0db31",
+  "object": "beer",
+  "name": "Postcard Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

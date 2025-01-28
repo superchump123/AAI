@@ -1,0 +1,11 @@
+{
+  "id": "fd768625-7447-4d27-a413-80b6ed012bae",
+  "object": "beer",
+  "name": "LCB Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8437af6c-b27c-4d02-ac7b-4a7ba051eefa",
+  "object": "beer",
+  "name": "James",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

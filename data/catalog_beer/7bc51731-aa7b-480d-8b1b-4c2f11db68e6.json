@@ -1,0 +1,11 @@
+{
+  "id": "7bc51731-aa7b-480d-8b1b-4c2f11db68e6",
+  "object": "beer",
+  "name": "Harpoon IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

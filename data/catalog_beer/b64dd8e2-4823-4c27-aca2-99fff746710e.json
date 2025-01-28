@@ -1,0 +1,11 @@
+{
+  "id": "b64dd8e2-4823-4c27-aca2-99fff746710e",
+  "object": "beer",
+  "name": "Wort Hog Dort",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

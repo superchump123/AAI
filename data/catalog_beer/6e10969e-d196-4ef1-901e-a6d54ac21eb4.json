@@ -1,0 +1,11 @@
+{
+  "id": "6e10969e-d196-4ef1-901e-a6d54ac21eb4",
+  "object": "beer",
+  "name": "Drunken Cow",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

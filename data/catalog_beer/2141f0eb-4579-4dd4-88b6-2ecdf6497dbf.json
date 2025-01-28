@@ -1,0 +1,11 @@
+{
+  "id": "2141f0eb-4579-4dd4-88b6-2ecdf6497dbf",
+  "object": "beer",
+  "name": "Big Pippin",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 13.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

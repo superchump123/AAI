@@ -1,0 +1,11 @@
+{
+  "id": "95a3967b-135b-4ca4-961d-527e99c4042e",
+  "object": "beer",
+  "name": "Lost Trout",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

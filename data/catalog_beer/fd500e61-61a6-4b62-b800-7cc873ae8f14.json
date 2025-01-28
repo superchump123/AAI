@@ -1,0 +1,11 @@
+{
+  "id": "fd500e61-61a6-4b62-b800-7cc873ae8f14",
+  "object": "beer",
+  "name": "Contradiction ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

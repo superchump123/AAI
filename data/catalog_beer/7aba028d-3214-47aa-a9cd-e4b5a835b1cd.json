@@ -1,0 +1,11 @@
+{
+  "id": "7aba028d-3214-47aa-a9cd-e4b5a835b1cd",
+  "object": "beer",
+  "name": "Bitter Unicorn Tears",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

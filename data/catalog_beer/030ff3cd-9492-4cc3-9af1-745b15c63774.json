@@ -1,0 +1,11 @@
+{
+  "id": "030ff3cd-9492-4cc3-9af1-745b15c63774",
+  "object": "beer",
+  "name": "Barrel Aged Insufficient Kitchen",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

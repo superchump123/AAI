@@ -1,0 +1,11 @@
+{
+  "id": "bc256fa9-8082-4674-928f-9a28ad13014f",
+  "object": "beer",
+  "name": "How Now Brown Cow",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

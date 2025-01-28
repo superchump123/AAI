@@ -1,0 +1,11 @@
+{
+  "id": "eeb4e4da-d02f-48e4-b875-3134e7e62156",
+  "object": "beer",
+  "name": "RedLegg Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

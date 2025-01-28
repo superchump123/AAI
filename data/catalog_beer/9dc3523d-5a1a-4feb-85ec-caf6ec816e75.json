@@ -1,0 +1,11 @@
+{
+  "id": "9dc3523d-5a1a-4feb-85ec-caf6ec816e75",
+  "object": "beer",
+  "name": "Samuel Adams New World",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2cd337cb-f780-4d1e-aa77-645a97f32244",
+  "object": "beer",
+  "name": "Little Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

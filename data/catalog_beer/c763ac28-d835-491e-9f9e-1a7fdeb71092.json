@@ -1,0 +1,11 @@
+{
+  "id": "c763ac28-d835-491e-9f9e-1a7fdeb71092",
+  "object": "beer",
+  "name": "Winter's Bite",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dec9f63d-91f5-48c1-a93a-a7d9ea5475a1",
+  "object": "beer",
+  "name": "Ravena",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

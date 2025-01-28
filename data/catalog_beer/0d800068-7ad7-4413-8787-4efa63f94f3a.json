@@ -1,0 +1,11 @@
+{
+  "id": "0d800068-7ad7-4413-8787-4efa63f94f3a",
+  "object": "beer",
+  "name": "Pilsner",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

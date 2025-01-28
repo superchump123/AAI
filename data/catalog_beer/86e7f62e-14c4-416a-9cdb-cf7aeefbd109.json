@@ -1,0 +1,11 @@
+{
+  "id": "86e7f62e-14c4-416a-9cdb-cf7aeefbd109",
+  "object": "beer",
+  "name": "Athenian",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

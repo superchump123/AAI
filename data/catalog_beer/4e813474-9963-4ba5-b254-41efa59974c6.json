@@ -1,0 +1,11 @@
+{
+  "id": "4e813474-9963-4ba5-b254-41efa59974c6",
+  "object": "beer",
+  "name": "1887",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6147f46d-bd12-4956-aa58-297bf2d4a7fa",
+  "object": "beer",
+  "name": "Good Day IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

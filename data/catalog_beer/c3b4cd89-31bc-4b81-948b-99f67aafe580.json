@@ -1,0 +1,11 @@
+{
+  "id": "c3b4cd89-31bc-4b81-948b-99f67aafe580",
+  "object": "beer",
+  "name": "La Bolduc",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

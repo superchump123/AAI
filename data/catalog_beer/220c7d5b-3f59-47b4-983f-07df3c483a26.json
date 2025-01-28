@@ -1,0 +1,11 @@
+{
+  "id": "220c7d5b-3f59-47b4-983f-07df3c483a26",
+  "object": "beer",
+  "name": "Inland IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

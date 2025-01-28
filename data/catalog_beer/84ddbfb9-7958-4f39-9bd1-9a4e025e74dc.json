@@ -1,0 +1,11 @@
+{
+  "id": "84ddbfb9-7958-4f39-9bd1-9a4e025e74dc",
+  "object": "beer",
+  "name": "Needmore Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

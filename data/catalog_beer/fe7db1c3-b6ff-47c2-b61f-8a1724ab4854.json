@@ -1,0 +1,11 @@
+{
+  "id": "fe7db1c3-b6ff-47c2-b61f-8a1724ab4854",
+  "object": "beer",
+  "name": "The Corruption",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

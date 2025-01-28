@@ -1,0 +1,11 @@
+{
+  "id": "b0ed7cec-55b8-44fc-92d3-cd8f83e60333",
+  "object": "beer",
+  "name": "Lusus Naturae",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2fa53012-38cc-4e1c-b4d1-b6a265789db0",
+  "object": "beer",
+  "name": "Wrath",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

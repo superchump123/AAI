@@ -1,0 +1,11 @@
+{
+  "id": "0d4da1ed-4682-478c-85ea-efd2b8289c66",
+  "object": "beer",
+  "name": "De-Lovely Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b251b0d8-e16b-40a3-a520-38d14aeccef2",
+  "object": "beer",
+  "name": "The Magician",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

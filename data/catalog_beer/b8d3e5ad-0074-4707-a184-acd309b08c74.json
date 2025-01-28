@@ -1,0 +1,11 @@
+{
+  "id": "b8d3e5ad-0074-4707-a184-acd309b08c74",
+  "object": "beer",
+  "name": "Winter Warmer",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

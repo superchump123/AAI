@@ -1,0 +1,11 @@
+{
+  "id": "6b9485e8-6e1c-40fd-8151-9b2d8ac82ccc",
+  "object": "beer",
+  "name": "Jule Ale 2014",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

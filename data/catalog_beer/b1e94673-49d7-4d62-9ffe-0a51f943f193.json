@@ -1,0 +1,11 @@
+{
+  "id": "b1e94673-49d7-4d62-9ffe-0a51f943f193",
+  "object": "beer",
+  "name": "Oak-Aged Imperial Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

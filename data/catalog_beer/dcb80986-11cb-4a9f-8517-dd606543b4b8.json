@@ -1,0 +1,11 @@
+{
+  "id": "dcb80986-11cb-4a9f-8517-dd606543b4b8",
+  "object": "beer",
+  "name": "Pepperell Pilsener",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

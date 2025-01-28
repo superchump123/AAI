@@ -1,0 +1,11 @@
+{
+  "id": "782a867f-aba4-47bb-8e52-1f50c2ac7303",
+  "object": "beer",
+  "name": "Fluxus",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

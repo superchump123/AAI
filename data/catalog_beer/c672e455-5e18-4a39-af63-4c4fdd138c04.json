@@ -1,0 +1,11 @@
+{
+  "id": "c672e455-5e18-4a39-af63-4c4fdd138c04",
+  "object": "beer",
+  "name": "Helles Bock",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

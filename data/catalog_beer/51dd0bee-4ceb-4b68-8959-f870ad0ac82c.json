@@ -1,0 +1,11 @@
+{
+  "id": "51dd0bee-4ceb-4b68-8959-f870ad0ac82c",
+  "object": "beer",
+  "name": "Light Me Up",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

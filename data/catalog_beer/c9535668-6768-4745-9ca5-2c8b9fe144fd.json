@@ -1,0 +1,11 @@
+{
+  "id": "c9535668-6768-4745-9ca5-2c8b9fe144fd",
+  "object": "beer",
+  "name": "Spring Brew",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

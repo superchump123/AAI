@@ -1,0 +1,11 @@
+{
+  "id": "5ca4970b-b904-456e-8c20-b1cd1192dd1f",
+  "object": "beer",
+  "name": "Brindle Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

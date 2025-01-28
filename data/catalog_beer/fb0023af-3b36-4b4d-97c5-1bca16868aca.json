@@ -1,0 +1,11 @@
+{
+  "id": "fb0023af-3b36-4b4d-97c5-1bca16868aca",
+  "object": "beer",
+  "name": "Rock Of Ages Lager",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

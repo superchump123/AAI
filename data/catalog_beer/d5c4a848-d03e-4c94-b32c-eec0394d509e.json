@@ -1,0 +1,11 @@
+{
+  "id": "d5c4a848-d03e-4c94-b32c-eec0394d509e",
+  "object": "beer",
+  "name": "Moneypenny",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

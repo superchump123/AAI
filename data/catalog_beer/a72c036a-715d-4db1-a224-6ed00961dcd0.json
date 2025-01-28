@@ -1,0 +1,11 @@
+{
+  "id": "a72c036a-715d-4db1-a224-6ed00961dcd0",
+  "object": "beer",
+  "name": "Abbaye de Floreffe Prima Melior",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

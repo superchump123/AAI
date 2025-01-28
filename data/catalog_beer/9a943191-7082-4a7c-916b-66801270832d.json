@@ -1,0 +1,11 @@
+{
+  "id": "9a943191-7082-4a7c-916b-66801270832d",
+  "object": "beer",
+  "name": "Orange Blossom Pilsner",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

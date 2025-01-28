@@ -1,0 +1,11 @@
+{
+  "id": "f1fcd3f8-6d61-4802-9877-c57deb9b482a",
+  "object": "beer",
+  "name": "Alexander (2016)",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ecfd738-4ad0-4bca-9b30-e97c4198e7b6",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

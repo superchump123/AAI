@@ -1,0 +1,11 @@
+{
+  "id": "b40ff8c9-5d35-4372-8fba-ff931c0e03b0",
+  "object": "beer",
+  "name": "Cage Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "46d277dc-2a2c-4847-bd5b-da1cd13cf033",
+  "object": "beer",
+  "name": "Grain d\u2019Orge Dalhemoise",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

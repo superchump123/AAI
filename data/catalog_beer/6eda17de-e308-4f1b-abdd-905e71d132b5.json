@@ -1,0 +1,11 @@
+{
+  "id": "6eda17de-e308-4f1b-abdd-905e71d132b5",
+  "object": "beer",
+  "name": "Day of Love",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

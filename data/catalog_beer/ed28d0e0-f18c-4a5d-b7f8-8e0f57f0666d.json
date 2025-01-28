@@ -1,0 +1,11 @@
+{
+  "id": "ed28d0e0-f18c-4a5d-b7f8-8e0f57f0666d",
+  "object": "beer",
+  "name": "Plutonium Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "da8c2640-bad1-431e-9c7d-3040dad960fc",
+  "object": "beer",
+  "name": "First Cut Mango IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

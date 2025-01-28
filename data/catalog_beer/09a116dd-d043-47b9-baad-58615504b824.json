@@ -1,0 +1,11 @@
+{
+  "id": "09a116dd-d043-47b9-baad-58615504b824",
+  "object": "beer",
+  "name": "Hop Lips IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

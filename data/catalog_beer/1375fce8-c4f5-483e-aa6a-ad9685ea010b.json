@@ -1,0 +1,11 @@
+{
+  "id": "1375fce8-c4f5-483e-aa6a-ad9685ea010b",
+  "object": "beer",
+  "name": "Black Ball",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

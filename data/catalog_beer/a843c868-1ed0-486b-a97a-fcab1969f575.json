@@ -1,0 +1,11 @@
+{
+  "id": "a843c868-1ed0-486b-a97a-fcab1969f575",
+  "object": "beer",
+  "name": "Funkin Punkin",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

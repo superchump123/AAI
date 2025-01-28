@@ -1,0 +1,11 @@
+{
+  "id": "a5b07f3f-dacb-4de3-8d91-185568a5130f",
+  "object": "beer",
+  "name": "Labatt Ice",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

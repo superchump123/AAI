@@ -1,0 +1,11 @@
+{
+  "id": "15b981b3-d9c0-42f6-b6fe-24352e76e186",
+  "object": "beer",
+  "name": "Outlaw Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

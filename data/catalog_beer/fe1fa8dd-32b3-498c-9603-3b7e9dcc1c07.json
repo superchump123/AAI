@@ -1,0 +1,11 @@
+{
+  "id": "fe1fa8dd-32b3-498c-9603-3b7e9dcc1c07",
+  "object": "beer",
+  "name": "Philosopher",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

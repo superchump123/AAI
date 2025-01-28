@@ -1,0 +1,11 @@
+{
+  "id": "dcf6bfd9-e1ea-4846-98b7-7ac2866ab127",
+  "object": "beer",
+  "name": "Palomino Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

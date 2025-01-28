@@ -1,0 +1,11 @@
+{
+  "id": "9b21c6c4-3396-4eb3-9cd2-928635809cc8",
+  "object": "beer",
+  "name": "Soyuz Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

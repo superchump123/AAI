@@ -1,0 +1,11 @@
+{
+  "id": "7fc89e78-2dbd-457e-b7dd-70f70fbac868",
+  "object": "beer",
+  "name": "Gooseberry Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

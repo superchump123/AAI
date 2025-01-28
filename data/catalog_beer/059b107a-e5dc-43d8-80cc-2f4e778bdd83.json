@@ -1,0 +1,11 @@
+{
+  "id": "059b107a-e5dc-43d8-80cc-2f4e778bdd83",
+  "object": "beer",
+  "name": "Daniel's Double",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 97,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

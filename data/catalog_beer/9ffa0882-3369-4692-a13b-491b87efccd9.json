@@ -1,0 +1,11 @@
+{
+  "id": "9ffa0882-3369-4692-a13b-491b87efccd9",
+  "object": "beer",
+  "name": "Hyde Park Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d30777d4-2352-4759-89fd-445c766bee89",
+  "object": "beer",
+  "name": "Batch 1500",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

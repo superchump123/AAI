@@ -1,0 +1,11 @@
+{
+  "id": "25e88237-8268-463f-9874-da6c21c3b008",
+  "object": "beer",
+  "name": "Scooby Snacks",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

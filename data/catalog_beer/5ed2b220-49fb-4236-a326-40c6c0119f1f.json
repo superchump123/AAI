@@ -1,0 +1,11 @@
+{
+  "id": "5ed2b220-49fb-4236-a326-40c6c0119f1f",
+  "object": "beer",
+  "name": "Country Roots",
+  "style": "Field Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "798f828a-3aa5-484b-a0e7-23f132d2dd68",
+  "object": "beer",
+  "name": "Michigan Harvest",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

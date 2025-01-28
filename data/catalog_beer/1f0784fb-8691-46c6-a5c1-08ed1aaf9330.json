@@ -1,0 +1,11 @@
+{
+  "id": "1f0784fb-8691-46c6-a5c1-08ed1aaf9330",
+  "object": "beer",
+  "name": "False Summit",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

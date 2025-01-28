@@ -1,0 +1,11 @@
+{
+  "id": "91c85e52-a635-43ea-9dec-45d7d570d8e2",
+  "object": "beer",
+  "name": "Carver",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

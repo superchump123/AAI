@@ -1,0 +1,11 @@
+{
+  "id": "e8561f3d-67b5-491e-af57-d9d574dfd500",
+  "object": "beer",
+  "name": "Six Four Impala",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

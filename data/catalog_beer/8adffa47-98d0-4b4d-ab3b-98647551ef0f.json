@@ -1,0 +1,11 @@
+{
+  "id": "8adffa47-98d0-4b4d-ab3b-98647551ef0f",
+  "object": "beer",
+  "name": "Argo ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

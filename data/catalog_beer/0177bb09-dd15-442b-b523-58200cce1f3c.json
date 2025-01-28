@@ -1,0 +1,11 @@
+{
+  "id": "0177bb09-dd15-442b-b523-58200cce1f3c",
+  "object": "beer",
+  "name": "Special Holiday Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

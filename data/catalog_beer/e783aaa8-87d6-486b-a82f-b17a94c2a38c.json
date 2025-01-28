@@ -1,0 +1,11 @@
+{
+  "id": "e783aaa8-87d6-486b-a82f-b17a94c2a38c",
+  "object": "beer",
+  "name": "Jagged Shard",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

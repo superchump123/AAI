@@ -1,0 +1,11 @@
+{
+  "id": "f0f08d93-ceea-469d-84cf-9660bedb5756",
+  "object": "beer",
+  "name": "Amour Fou",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

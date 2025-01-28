@@ -1,0 +1,11 @@
+{
+  "id": "6f325a50-9f0f-4ecc-bfb2-7d3b830115f5",
+  "object": "beer",
+  "name": "Bitter Chris",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

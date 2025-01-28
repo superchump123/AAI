@@ -1,0 +1,11 @@
+{
+  "id": "a0a73f66-3b04-4411-a481-87c6facc3557",
+  "object": "beer",
+  "name": "Rye Pale Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

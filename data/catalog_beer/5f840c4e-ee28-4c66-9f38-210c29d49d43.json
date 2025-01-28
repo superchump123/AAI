@@ -1,0 +1,11 @@
+{
+  "id": "5f840c4e-ee28-4c66-9f38-210c29d49d43",
+  "object": "beer",
+  "name": "Barrel-Aged 17",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

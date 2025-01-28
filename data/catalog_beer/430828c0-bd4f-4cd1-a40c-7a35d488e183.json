@@ -1,0 +1,11 @@
+{
+  "id": "430828c0-bd4f-4cd1-a40c-7a35d488e183",
+  "object": "beer",
+  "name": "Grapefruit MoonJuice IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

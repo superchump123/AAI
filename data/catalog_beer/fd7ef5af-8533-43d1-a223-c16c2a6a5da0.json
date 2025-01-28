@@ -1,0 +1,11 @@
+{
+  "id": "fd7ef5af-8533-43d1-a223-c16c2a6a5da0",
+  "object": "beer",
+  "name": "Ultrabrune",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

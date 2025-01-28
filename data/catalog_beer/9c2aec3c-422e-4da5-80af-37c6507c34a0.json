@@ -1,0 +1,11 @@
+{
+  "id": "9c2aec3c-422e-4da5-80af-37c6507c34a0",
+  "object": "beer",
+  "name": "Trubbel de Yards",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

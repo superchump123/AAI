@@ -1,0 +1,11 @@
+{
+  "id": "2061f292-b7c8-42bb-8183-174c3768c712",
+  "object": "beer",
+  "name": "Trifecta Belgian Style Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

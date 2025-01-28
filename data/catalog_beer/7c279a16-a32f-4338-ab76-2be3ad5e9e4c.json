@@ -1,0 +1,11 @@
+{
+  "id": "7c279a16-a32f-4338-ab76-2be3ad5e9e4c",
+  "object": "beer",
+  "name": "Cherry Bomb Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

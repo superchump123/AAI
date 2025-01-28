@@ -1,0 +1,11 @@
+{
+  "id": "5482d144-fd46-422b-b8de-3652fbbf21df",
+  "object": "beer",
+  "name": "San Clemente Session Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

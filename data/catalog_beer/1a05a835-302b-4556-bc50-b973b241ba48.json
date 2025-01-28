@@ -1,0 +1,11 @@
+{
+  "id": "1a05a835-302b-4556-bc50-b973b241ba48",
+  "object": "beer",
+  "name": "Cherried Away",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

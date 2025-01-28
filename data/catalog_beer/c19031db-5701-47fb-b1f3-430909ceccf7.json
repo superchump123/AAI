@@ -1,0 +1,11 @@
+{
+  "id": "c19031db-5701-47fb-b1f3-430909ceccf7",
+  "object": "beer",
+  "name": "Steam Steed IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

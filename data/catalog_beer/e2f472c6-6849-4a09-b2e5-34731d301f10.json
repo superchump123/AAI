@@ -1,0 +1,11 @@
+{
+  "id": "e2f472c6-6849-4a09-b2e5-34731d301f10",
+  "object": "beer",
+  "name": "Imperial Stout Trooper",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

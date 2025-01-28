@@ -1,0 +1,11 @@
+{
+  "id": "b489fff6-21da-40dc-8ed1-0112164e96cc",
+  "object": "beer",
+  "name": "Por Que No?",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

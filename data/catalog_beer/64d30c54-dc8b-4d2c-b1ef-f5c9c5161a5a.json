@@ -1,0 +1,11 @@
+{
+  "id": "64d30c54-dc8b-4d2c-b1ef-f5c9c5161a5a",
+  "object": "beer",
+  "name": "MARK Hay",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

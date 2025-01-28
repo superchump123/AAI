@@ -1,0 +1,11 @@
+{
+  "id": "d35d5afe-c081-4ba7-b401-25d10330b106",
+  "object": "beer",
+  "name": "Island Time",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

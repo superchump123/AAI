@@ -1,0 +1,11 @@
+{
+  "id": "2e3c171c-b89b-461b-ba24-7bd3e25fb08c",
+  "object": "beer",
+  "name": "Unforgivable Darkness",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

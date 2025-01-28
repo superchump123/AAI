@@ -1,0 +1,11 @@
+{
+  "id": "72ea9f31-13dd-4c07-9e2c-6f455bbb16ef",
+  "object": "beer",
+  "name": "Holiday Bonus Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c94363e3-3570-49a9-826e-926d8b3bc8ba",
+  "object": "beer",
+  "name": "Hop Vice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

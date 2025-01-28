@@ -1,0 +1,11 @@
+{
+  "id": "7d2a621a-4c60-406e-aca6-b77d5736e596",
+  "object": "beer",
+  "name": "Colorado K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

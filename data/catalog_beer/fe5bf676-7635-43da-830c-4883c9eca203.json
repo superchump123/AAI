@@ -1,0 +1,11 @@
+{
+  "id": "fe5bf676-7635-43da-830c-4883c9eca203",
+  "object": "beer",
+  "name": "Lil Green Man",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

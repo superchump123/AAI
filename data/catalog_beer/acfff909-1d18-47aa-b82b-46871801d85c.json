@@ -1,0 +1,11 @@
+{
+  "id": "acfff909-1d18-47aa-b82b-46871801d85c",
+  "object": "beer",
+  "name": "Southern Gentleman",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

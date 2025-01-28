@@ -1,0 +1,11 @@
+{
+  "id": "324e18f8-cbc4-449d-86ad-3133989573b7",
+  "object": "beer",
+  "name": "Baja Sunburn",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

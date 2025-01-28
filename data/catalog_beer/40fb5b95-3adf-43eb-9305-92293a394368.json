@@ -1,0 +1,11 @@
+{
+  "id": "40fb5b95-3adf-43eb-9305-92293a394368",
+  "object": "beer",
+  "name": "Recon",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

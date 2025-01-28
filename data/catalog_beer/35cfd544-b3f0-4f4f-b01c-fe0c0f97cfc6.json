@@ -1,0 +1,11 @@
+{
+  "id": "35cfd544-b3f0-4f4f-b01c-fe0c0f97cfc6",
+  "object": "beer",
+  "name": "Shot Away IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

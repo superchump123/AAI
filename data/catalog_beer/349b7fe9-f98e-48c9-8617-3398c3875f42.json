@@ -1,0 +1,11 @@
+{
+  "id": "349b7fe9-f98e-48c9-8617-3398c3875f42",
+  "object": "beer",
+  "name": "Thresher",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

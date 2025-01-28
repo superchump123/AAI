@@ -1,0 +1,11 @@
+{
+  "id": "4d7379be-31cf-4c04-9f86-73bfa3c79297",
+  "object": "beer",
+  "name": "Golden Censer",
+  "style": "Dark American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

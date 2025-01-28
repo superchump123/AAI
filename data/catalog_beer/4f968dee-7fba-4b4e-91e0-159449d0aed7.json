@@ -1,0 +1,11 @@
+{
+  "id": "4f968dee-7fba-4b4e-91e0-159449d0aed7",
+  "object": "beer",
+  "name": "Organic IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b75a03e9-a288-47cb-bc35-9cc91a87595a",
+  "object": "beer",
+  "name": "Quedlinburger Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

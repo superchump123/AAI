@@ -1,0 +1,11 @@
+{
+  "id": "7fb443d4-e70b-41f3-9d60-f7b8145a3215",
+  "object": "beer",
+  "name": "Session Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

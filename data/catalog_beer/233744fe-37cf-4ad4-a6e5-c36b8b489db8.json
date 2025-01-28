@@ -1,0 +1,11 @@
+{
+  "id": "233744fe-37cf-4ad4-a6e5-c36b8b489db8",
+  "object": "beer",
+  "name": "Red Thunder",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

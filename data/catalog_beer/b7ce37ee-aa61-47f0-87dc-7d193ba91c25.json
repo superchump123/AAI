@@ -1,0 +1,11 @@
+{
+  "id": "b7ce37ee-aa61-47f0-87dc-7d193ba91c25",
+  "object": "beer",
+  "name": "Velvet Revolution",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

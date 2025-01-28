@@ -1,0 +1,11 @@
+{
+  "id": "2d2338a3-4ca9-4adb-8254-3e4fb7177cd7",
+  "object": "beer",
+  "name": "Wolpertinger",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

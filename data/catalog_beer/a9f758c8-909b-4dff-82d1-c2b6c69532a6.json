@@ -1,0 +1,11 @@
+{
+  "id": "a9f758c8-909b-4dff-82d1-c2b6c69532a6",
+  "object": "beer",
+  "name": "Darth Farmer",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

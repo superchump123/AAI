@@ -1,0 +1,11 @@
+{
+  "id": "cab99dc0-e33c-4286-970a-a2bf91c46e72",
+  "object": "beer",
+  "name": "Black Diamond Express",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

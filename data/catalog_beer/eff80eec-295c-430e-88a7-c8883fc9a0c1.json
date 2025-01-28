@@ -1,0 +1,11 @@
+{
+  "id": "eff80eec-295c-430e-88a7-c8883fc9a0c1",
+  "object": "beer",
+  "name": "Choco Mountain",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

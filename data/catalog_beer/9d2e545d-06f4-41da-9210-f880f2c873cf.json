@@ -1,0 +1,11 @@
+{
+  "id": "9d2e545d-06f4-41da-9210-f880f2c873cf",
+  "object": "beer",
+  "name": "Mango Crush",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

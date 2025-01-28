@@ -1,0 +1,11 @@
+{
+  "id": "d4265864-9b79-4e0c-8d8d-7e33fdba08b6",
+  "object": "beer",
+  "name": "Figgy Pudding",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

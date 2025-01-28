@@ -1,0 +1,11 @@
+{
+  "id": "fe65b8db-5148-4eda-8985-300af4f92cd6",
+  "object": "beer",
+  "name": "Illegally Blonde",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

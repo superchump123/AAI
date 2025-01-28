@@ -1,0 +1,11 @@
+{
+  "id": "b1b6a98b-861d-453b-a8bc-91fd53cf9e3c",
+  "object": "beer",
+  "name": "Kacey's Kristmas Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b630898-e45a-4860-addb-cbde89fdc5c1",
+  "object": "beer",
+  "name": "Moat Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

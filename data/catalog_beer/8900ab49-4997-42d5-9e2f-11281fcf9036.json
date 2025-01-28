@@ -1,0 +1,11 @@
+{
+  "id": "8900ab49-4997-42d5-9e2f-11281fcf9036",
+  "object": "beer",
+  "name": "Angry Rabbit Mountain",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

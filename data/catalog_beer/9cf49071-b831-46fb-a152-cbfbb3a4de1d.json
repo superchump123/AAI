@@ -1,0 +1,11 @@
+{
+  "id": "9cf49071-b831-46fb-a152-cbfbb3a4de1d",
+  "object": "beer",
+  "name": "L'Ensemble",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

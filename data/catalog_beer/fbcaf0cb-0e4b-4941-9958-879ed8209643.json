@@ -1,0 +1,11 @@
+{
+  "id": "fbcaf0cb-0e4b-4941-9958-879ed8209643",
+  "object": "beer",
+  "name": "Son of a Peach",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

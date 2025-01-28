@@ -1,0 +1,11 @@
+{
+  "id": "aff07e41-0441-4fe9-8e52-585b165d29aa",
+  "object": "beer",
+  "name": "Rye.B.I.",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

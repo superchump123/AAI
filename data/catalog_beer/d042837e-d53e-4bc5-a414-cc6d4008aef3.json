@@ -1,0 +1,11 @@
+{
+  "id": "d042837e-d53e-4bc5-a414-cc6d4008aef3",
+  "object": "beer",
+  "name": "Bretta Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

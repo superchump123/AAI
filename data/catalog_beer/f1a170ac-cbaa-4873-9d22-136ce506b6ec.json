@@ -1,0 +1,11 @@
+{
+  "id": "f1a170ac-cbaa-4873-9d22-136ce506b6ec",
+  "object": "beer",
+  "name": "Selkie",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

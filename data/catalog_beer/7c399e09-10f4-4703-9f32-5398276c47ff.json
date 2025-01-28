@@ -1,0 +1,11 @@
+{
+  "id": "7c399e09-10f4-4703-9f32-5398276c47ff",
+  "object": "beer",
+  "name": "Tree Hugger",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

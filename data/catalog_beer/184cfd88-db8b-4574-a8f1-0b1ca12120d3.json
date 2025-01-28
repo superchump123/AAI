@@ -1,0 +1,11 @@
+{
+  "id": "184cfd88-db8b-4574-a8f1-0b1ca12120d3",
+  "object": "beer",
+  "name": "Winter Blend",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

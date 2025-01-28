@@ -1,0 +1,11 @@
+{
+  "id": "0f5e9915-65ca-4c92-b800-99b838f1e90e",
+  "object": "beer",
+  "name": "Black Racer IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

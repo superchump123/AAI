@@ -1,0 +1,11 @@
+{
+  "id": "3e497030-1e46-4790-8b42-2e6a4b678d40",
+  "object": "beer",
+  "name": "Mangrove Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

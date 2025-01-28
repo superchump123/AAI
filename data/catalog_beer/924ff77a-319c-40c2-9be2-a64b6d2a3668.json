@@ -1,0 +1,11 @@
+{
+  "id": "924ff77a-319c-40c2-9be2-a64b6d2a3668",
+  "object": "beer",
+  "name": "Four-O",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

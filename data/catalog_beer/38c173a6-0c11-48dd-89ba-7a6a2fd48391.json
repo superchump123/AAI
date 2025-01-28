@@ -1,0 +1,11 @@
+{
+  "id": "38c173a6-0c11-48dd-89ba-7a6a2fd48391",
+  "object": "beer",
+  "name": "Limoiloise D'Amerique",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

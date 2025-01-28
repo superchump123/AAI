@@ -1,0 +1,11 @@
+{
+  "id": "78ebc32d-a0f4-49f5-9c69-7001f6bae582",
+  "object": "beer",
+  "name": "Mr. F",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

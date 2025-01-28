@@ -1,0 +1,11 @@
+{
+  "id": "4cb3e9ac-92fa-4938-a870-6da3d7b467dd",
+  "object": "beer",
+  "name": "Robyn",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

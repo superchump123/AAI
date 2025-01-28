@@ -1,0 +1,11 @@
+{
+  "id": "d53f80ad-6b3f-49ee-bfed-95f4a498348d",
+  "object": "beer",
+  "name": "Outono",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

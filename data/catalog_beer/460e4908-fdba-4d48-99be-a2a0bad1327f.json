@@ -1,0 +1,11 @@
+{
+  "id": "460e4908-fdba-4d48-99be-a2a0bad1327f",
+  "object": "beer",
+  "name": "Trailblazer Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

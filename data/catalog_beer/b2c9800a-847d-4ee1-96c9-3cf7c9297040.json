@@ -1,0 +1,11 @@
+{
+  "id": "b2c9800a-847d-4ee1-96c9-3cf7c9297040",
+  "object": "beer",
+  "name": "Le Wastringue",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

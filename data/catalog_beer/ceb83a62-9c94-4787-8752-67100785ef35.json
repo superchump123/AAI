@@ -1,0 +1,11 @@
+{
+  "id": "ceb83a62-9c94-4787-8752-67100785ef35",
+  "object": "beer",
+  "name": "The Gamesman",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

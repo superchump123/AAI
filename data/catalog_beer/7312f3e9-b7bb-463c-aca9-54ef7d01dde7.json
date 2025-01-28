@@ -1,0 +1,11 @@
+{
+  "id": "7312f3e9-b7bb-463c-aca9-54ef7d01dde7",
+  "object": "beer",
+  "name": "Curieux",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

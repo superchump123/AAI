@@ -1,0 +1,11 @@
+{
+  "id": "d8a627ba-b18b-46b3-b2c3-819991f7d635",
+  "object": "beer",
+  "name": "Seaglass",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

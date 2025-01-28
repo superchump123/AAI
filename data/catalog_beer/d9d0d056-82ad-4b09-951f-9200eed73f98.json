@@ -1,0 +1,11 @@
+{
+  "id": "d9d0d056-82ad-4b09-951f-9200eed73f98",
+  "object": "beer",
+  "name": "Broken Promise Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

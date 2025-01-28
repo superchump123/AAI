@@ -1,0 +1,11 @@
+{
+  "id": "e7888ed1-21db-46f2-9c06-71cb9e79e6fb",
+  "object": "beer",
+  "name": "Shortfall IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

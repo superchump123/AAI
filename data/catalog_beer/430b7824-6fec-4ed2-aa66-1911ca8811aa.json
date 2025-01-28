@@ -1,0 +1,11 @@
+{
+  "id": "430b7824-6fec-4ed2-aa66-1911ca8811aa",
+  "object": "beer",
+  "name": "Brunetta",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

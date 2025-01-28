@@ -1,0 +1,11 @@
+{
+  "id": "1d768ad9-17a8-48b9-9791-26546911876b",
+  "object": "beer",
+  "name": "Seven Hundred Thirty",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c060b826-1dfa-4ba4-a0a6-ba7ff6ffd074",
+  "object": "beer",
+  "name": "Mango Even Keel",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

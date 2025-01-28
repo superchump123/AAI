@@ -1,0 +1,11 @@
+{
+  "id": "db671b41-681e-408d-ad70-9a4d4647d2fd",
+  "object": "beer",
+  "name": "Bourbon Barrel Carrot Cake",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

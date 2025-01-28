@@ -1,0 +1,11 @@
+{
+  "id": "febe399e-a794-4e9e-ada6-88ac8e553dd0",
+  "object": "beer",
+  "name": "Shake Your Tree",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

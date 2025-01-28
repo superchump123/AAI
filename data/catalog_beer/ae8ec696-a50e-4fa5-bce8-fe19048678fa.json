@@ -1,0 +1,11 @@
+{
+  "id": "ae8ec696-a50e-4fa5-bce8-fe19048678fa",
+  "object": "beer",
+  "name": "1812 Project",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

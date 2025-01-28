@@ -1,0 +1,11 @@
+{
+  "id": "32dc6810-504c-475d-8f83-7cb8541eb160",
+  "object": "beer",
+  "name": "Barrel-aged Raspberry Temptress",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "905d209e-61c8-48f6-a9e9-e64bf1f673d3",
+  "object": "beer",
+  "name": "Meerjungfrau",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

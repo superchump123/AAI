@@ -1,0 +1,11 @@
+{
+  "id": "4114c676-2b04-4c99-b2ce-7b8c5f2a8261",
+  "object": "beer",
+  "name": "Cracker",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

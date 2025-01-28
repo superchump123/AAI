@@ -1,0 +1,11 @@
+{
+  "id": "f8234222-276d-4cda-9c74-47fe133eacd5",
+  "object": "beer",
+  "name": "Sam's Wake 'N Bake",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

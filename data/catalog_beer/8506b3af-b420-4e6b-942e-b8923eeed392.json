@@ -1,0 +1,11 @@
+{
+  "id": "8506b3af-b420-4e6b-942e-b8923eeed392",
+  "object": "beer",
+  "name": "Pub Draught",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

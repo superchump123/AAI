@@ -1,0 +1,11 @@
+{
+  "id": "ddde1965-c055-40cb-98e6-4636f96c8c13",
+  "object": "beer",
+  "name": "Dinner Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

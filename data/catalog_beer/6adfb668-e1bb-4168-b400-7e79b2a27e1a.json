@@ -1,0 +1,11 @@
+{
+  "id": "6adfb668-e1bb-4168-b400-7e79b2a27e1a",
+  "object": "beer",
+  "name": "Paletero",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

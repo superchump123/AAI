@@ -1,0 +1,11 @@
+{
+  "id": "f9148fb6-97ff-457c-b53e-ec7210c0b132",
+  "object": "beer",
+  "name": "South Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

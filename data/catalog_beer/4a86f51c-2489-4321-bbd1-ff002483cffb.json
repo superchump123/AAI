@@ -1,0 +1,11 @@
+{
+  "id": "4a86f51c-2489-4321-bbd1-ff002483cffb",
+  "object": "beer",
+  "name": "Strong Scotch Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

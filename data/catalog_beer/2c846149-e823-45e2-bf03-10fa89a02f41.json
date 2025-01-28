@@ -1,0 +1,11 @@
+{
+  "id": "2c846149-e823-45e2-bf03-10fa89a02f41",
+  "object": "beer",
+  "name": "Brevity Wit Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c8892b71-0b9f-48d9-9dd3-f56c3c2a69f4",
+  "object": "beer",
+  "name": "Jabba Da J",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

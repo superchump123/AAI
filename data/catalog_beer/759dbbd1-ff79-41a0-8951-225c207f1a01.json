@@ -1,0 +1,11 @@
+{
+  "id": "759dbbd1-ff79-41a0-8951-225c207f1a01",
+  "object": "beer",
+  "name": "Golden Cucumber",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

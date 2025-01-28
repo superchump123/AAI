@@ -1,0 +1,11 @@
+{
+  "id": "2767a555-e629-49bc-9e02-0060436ce681",
+  "object": "beer",
+  "name": "Rowdy Rye",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

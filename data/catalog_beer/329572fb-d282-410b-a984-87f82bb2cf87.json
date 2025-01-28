@@ -1,0 +1,11 @@
+{
+  "id": "329572fb-d282-410b-a984-87f82bb2cf87",
+  "object": "beer",
+  "name": "Breakfast Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "69b2de15-bdca-4f24-9eb6-5ad0883beb8e",
+  "object": "beer",
+  "name": "Fowler's Bluff IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

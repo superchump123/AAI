@@ -1,0 +1,11 @@
+{
+  "id": "9e0f4dfb-5772-4546-8805-999bbf67312e",
+  "object": "beer",
+  "name": "Counter Strike",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

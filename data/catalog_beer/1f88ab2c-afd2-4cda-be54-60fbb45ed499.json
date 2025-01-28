@@ -1,0 +1,11 @@
+{
+  "id": "1f88ab2c-afd2-4cda-be54-60fbb45ed499",
+  "object": "beer",
+  "name": "Inquisition Pale Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

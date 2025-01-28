@@ -1,0 +1,11 @@
+{
+  "id": "784d46e1-d4d2-4a0b-9d60-642820101476",
+  "object": "beer",
+  "name": "Suffikator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

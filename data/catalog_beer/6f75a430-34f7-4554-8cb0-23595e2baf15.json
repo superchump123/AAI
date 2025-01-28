@@ -1,0 +1,11 @@
+{
+  "id": "6f75a430-34f7-4554-8cb0-23595e2baf15",
+  "object": "beer",
+  "name": "Slippery Slope",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

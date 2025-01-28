@@ -1,0 +1,11 @@
+{
+  "id": "9eb2489b-d108-4cae-acbc-139b9734874f",
+  "object": "beer",
+  "name": "Hampden On Rye",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

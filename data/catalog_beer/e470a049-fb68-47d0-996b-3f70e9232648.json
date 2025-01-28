@@ -1,0 +1,11 @@
+{
+  "id": "e470a049-fb68-47d0-996b-3f70e9232648",
+  "object": "beer",
+  "name": "LeeRoy The Red",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

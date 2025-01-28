@@ -1,0 +1,11 @@
+{
+  "id": "cfb1886c-4afe-4372-9904-bc059a9fc12d",
+  "object": "beer",
+  "name": "Cascade Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

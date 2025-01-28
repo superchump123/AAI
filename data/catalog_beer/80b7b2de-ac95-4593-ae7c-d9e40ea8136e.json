@@ -1,0 +1,11 @@
+{
+  "id": "80b7b2de-ac95-4593-ae7c-d9e40ea8136e",
+  "object": "beer",
+  "name": "Rum Barrel Aged Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1ea6955c-5705-4d57-994e-3eb2e1e4d0ea",
+  "object": "beer",
+  "name": "Cascade Premium Light",
+  "style": "Australasian, Latin American or Tropical-Style Light Lager",
+  "description": null,
+  "abv": 2.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

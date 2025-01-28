@@ -1,0 +1,11 @@
+{
+  "id": "46f9ff87-f1f8-42ec-94e6-16db0fc51f7f",
+  "object": "beer",
+  "name": "Red Oktober",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

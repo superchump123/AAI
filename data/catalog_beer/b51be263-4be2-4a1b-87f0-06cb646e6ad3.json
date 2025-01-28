@@ -1,0 +1,11 @@
+{
+  "id": "b51be263-4be2-4a1b-87f0-06cb646e6ad3",
+  "object": "beer",
+  "name": "Yard Sale",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5c1eaebe-0c7a-413a-927f-a590bbc4ed1d",
+  "object": "beer",
+  "name": "Legal Blonde Gold Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

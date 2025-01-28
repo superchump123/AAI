@@ -1,0 +1,11 @@
+{
+  "id": "c87d83dc-8313-4ab0-a8b9-6b280a6da464",
+  "object": "beer",
+  "name": "The Black Fog",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

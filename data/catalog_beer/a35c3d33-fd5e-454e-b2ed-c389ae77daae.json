@@ -1,0 +1,11 @@
+{
+  "id": "a35c3d33-fd5e-454e-b2ed-c389ae77daae",
+  "object": "beer",
+  "name": "D'uvaBeer",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

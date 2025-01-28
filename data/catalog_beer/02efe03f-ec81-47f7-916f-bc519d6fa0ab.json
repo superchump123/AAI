@@ -1,0 +1,11 @@
+{
+  "id": "02efe03f-ec81-47f7-916f-bc519d6fa0ab",
+  "object": "beer",
+  "name": "Otis",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

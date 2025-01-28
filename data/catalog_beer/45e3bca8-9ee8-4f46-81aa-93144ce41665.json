@@ -1,0 +1,11 @@
+{
+  "id": "45e3bca8-9ee8-4f46-81aa-93144ce41665",
+  "object": "beer",
+  "name": "Masshole",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

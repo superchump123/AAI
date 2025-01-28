@@ -1,0 +1,11 @@
+{
+  "id": "08d40720-dbd0-4de8-ba0a-2621ada81cd5",
+  "object": "beer",
+  "name": "Steenbrugge Dubbel Bruin",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

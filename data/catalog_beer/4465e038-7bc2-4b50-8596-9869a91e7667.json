@@ -1,0 +1,11 @@
+{
+  "id": "4465e038-7bc2-4b50-8596-9869a91e7667",
+  "object": "beer",
+  "name": "Rain In Blood",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

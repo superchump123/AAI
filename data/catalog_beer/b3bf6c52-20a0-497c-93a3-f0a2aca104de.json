@@ -1,0 +1,11 @@
+{
+  "id": "b3bf6c52-20a0-497c-93a3-f0a2aca104de",
+  "object": "beer",
+  "name": "ARABICADABRA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

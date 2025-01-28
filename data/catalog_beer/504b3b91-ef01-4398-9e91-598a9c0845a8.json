@@ -1,0 +1,11 @@
+{
+  "id": "504b3b91-ef01-4398-9e91-598a9c0845a8",
+  "object": "beer",
+  "name": "Crimson Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

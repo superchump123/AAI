@@ -1,0 +1,11 @@
+{
+  "id": "6c8b51a8-80df-46e3-a986-5588e230942f",
+  "object": "beer",
+  "name": "Barrel Aged Benevolent Friend",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

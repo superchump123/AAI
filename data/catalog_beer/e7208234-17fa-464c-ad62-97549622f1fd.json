@@ -1,0 +1,11 @@
+{
+  "id": "e7208234-17fa-464c-ad62-97549622f1fd",
+  "object": "beer",
+  "name": "Class V",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

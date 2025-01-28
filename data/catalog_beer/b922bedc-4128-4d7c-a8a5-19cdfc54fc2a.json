@@ -1,0 +1,11 @@
+{
+  "id": "b922bedc-4128-4d7c-a8a5-19cdfc54fc2a",
+  "object": "beer",
+  "name": "Ferhoodle Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

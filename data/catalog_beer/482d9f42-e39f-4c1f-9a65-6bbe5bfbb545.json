@@ -1,0 +1,11 @@
+{
+  "id": "482d9f42-e39f-4c1f-9a65-6bbe5bfbb545",
+  "object": "beer",
+  "name": "Fuggly",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d146c934-d739-473b-9103-01b2f5ef7b07",
+  "object": "beer",
+  "name": "Tallgrass IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

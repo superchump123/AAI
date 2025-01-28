@@ -1,0 +1,11 @@
+{
+  "id": "482b1e18-4e6f-4b4d-b57c-bb4b7441dbf9",
+  "object": "beer",
+  "name": "Fish Fry Golden Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

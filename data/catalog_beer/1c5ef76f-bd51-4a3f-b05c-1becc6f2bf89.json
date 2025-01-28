@@ -1,0 +1,11 @@
+{
+  "id": "1c5ef76f-bd51-4a3f-b05c-1becc6f2bf89",
+  "object": "beer",
+  "name": "Diversey Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

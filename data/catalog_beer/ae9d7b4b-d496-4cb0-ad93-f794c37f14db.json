@@ -1,0 +1,11 @@
+{
+  "id": "ae9d7b4b-d496-4cb0-ad93-f794c37f14db",
+  "object": "beer",
+  "name": "Dorian Stout with Spiced Chai",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

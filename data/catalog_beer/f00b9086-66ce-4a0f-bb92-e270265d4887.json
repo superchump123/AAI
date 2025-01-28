@@ -1,0 +1,11 @@
+{
+  "id": "f00b9086-66ce-4a0f-bb92-e270265d4887",
+  "object": "beer",
+  "name": "Hopulous",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

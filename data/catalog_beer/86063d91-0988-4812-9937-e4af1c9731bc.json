@@ -1,0 +1,11 @@
+{
+  "id": "86063d91-0988-4812-9937-e4af1c9731bc",
+  "object": "beer",
+  "name": "Fifty-Five Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

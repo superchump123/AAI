@@ -1,0 +1,11 @@
+{
+  "id": "007a8de6-19ee-443f-82dd-ff3143d8a4bd",
+  "object": "beer",
+  "name": "Easy Apple",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

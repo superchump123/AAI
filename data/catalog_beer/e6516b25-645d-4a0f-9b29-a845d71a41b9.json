@@ -1,0 +1,11 @@
+{
+  "id": "e6516b25-645d-4a0f-9b29-a845d71a41b9",
+  "object": "beer",
+  "name": "Space Jam DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

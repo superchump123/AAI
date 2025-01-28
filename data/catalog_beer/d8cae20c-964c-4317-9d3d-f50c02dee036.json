@@ -1,0 +1,11 @@
+{
+  "id": "d8cae20c-964c-4317-9d3d-f50c02dee036",
+  "object": "beer",
+  "name": "Hypocritte Witte",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

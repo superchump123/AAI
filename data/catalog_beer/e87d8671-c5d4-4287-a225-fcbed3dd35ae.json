@@ -1,0 +1,11 @@
+{
+  "id": "e87d8671-c5d4-4287-a225-fcbed3dd35ae",
+  "object": "beer",
+  "name": "Double Rainbow Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

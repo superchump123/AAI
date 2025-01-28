@@ -1,0 +1,11 @@
+{
+  "id": "88c25c2f-16d8-49f5-b928-c117ff599243",
+  "object": "beer",
+  "name": "Belzebuth",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

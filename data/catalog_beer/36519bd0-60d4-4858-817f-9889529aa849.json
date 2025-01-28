@@ -1,0 +1,11 @@
+{
+  "id": "36519bd0-60d4-4858-817f-9889529aa849",
+  "object": "beer",
+  "name": "Mama's Little Yella Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

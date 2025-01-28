@@ -1,0 +1,11 @@
+{
+  "id": "2325e484-e2ac-4b73-9539-6092b00729ad",
+  "object": "beer",
+  "name": "Old Mission IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

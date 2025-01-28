@@ -1,0 +1,11 @@
+{
+  "id": "41335e47-d24f-4072-af21-d87120a83a41",
+  "object": "beer",
+  "name": "Apricot Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c19f546d-d599-408d-8952-4b03eb0c49f0",
+  "object": "beer",
+  "name": "Celestial Gold",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

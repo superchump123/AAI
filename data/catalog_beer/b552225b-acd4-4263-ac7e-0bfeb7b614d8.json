@@ -1,0 +1,11 @@
+{
+  "id": "b552225b-acd4-4263-ac7e-0bfeb7b614d8",
+  "object": "beer",
+  "name": "Hard Rain",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

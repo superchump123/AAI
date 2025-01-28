@@ -1,0 +1,11 @@
+{
+  "id": "ac5f3203-6ff8-4f97-a093-860bc1d97113",
+  "object": "beer",
+  "name": "Pecan Sandie",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

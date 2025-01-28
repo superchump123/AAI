@@ -1,0 +1,11 @@
+{
+  "id": "ab74021a-c085-4cf7-806c-20363ec08c13",
+  "object": "beer",
+  "name": "Cherry Picker",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

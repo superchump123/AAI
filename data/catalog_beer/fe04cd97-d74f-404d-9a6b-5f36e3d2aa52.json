@@ -1,0 +1,11 @@
+{
+  "id": "fe04cd97-d74f-404d-9a6b-5f36e3d2aa52",
+  "object": "beer",
+  "name": "Homie",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 94,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

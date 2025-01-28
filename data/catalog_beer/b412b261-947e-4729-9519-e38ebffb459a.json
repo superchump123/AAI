@@ -1,0 +1,11 @@
+{
+  "id": "b412b261-947e-4729-9519-e38ebffb459a",
+  "object": "beer",
+  "name": "Prickly Pear Braggot",
+  "style": "Braggot",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

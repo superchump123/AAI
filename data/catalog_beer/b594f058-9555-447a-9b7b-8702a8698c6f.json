@@ -1,0 +1,11 @@
+{
+  "id": "b594f058-9555-447a-9b7b-8702a8698c6f",
+  "object": "beer",
+  "name": "Pumpkin Chub",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

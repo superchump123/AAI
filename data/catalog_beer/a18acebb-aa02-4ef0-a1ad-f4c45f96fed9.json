@@ -1,0 +1,11 @@
+{
+  "id": "a18acebb-aa02-4ef0-a1ad-f4c45f96fed9",
+  "object": "beer",
+  "name": "Hopsquatch",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

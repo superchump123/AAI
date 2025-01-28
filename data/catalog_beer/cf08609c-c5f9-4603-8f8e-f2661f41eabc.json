@@ -1,0 +1,11 @@
+{
+  "id": "cf08609c-c5f9-4603-8f8e-f2661f41eabc",
+  "object": "beer",
+  "name": "SEAWHEAT",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

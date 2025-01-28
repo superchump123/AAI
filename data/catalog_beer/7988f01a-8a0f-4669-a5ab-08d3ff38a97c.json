@@ -1,0 +1,11 @@
+{
+  "id": "7988f01a-8a0f-4669-a5ab-08d3ff38a97c",
+  "object": "beer",
+  "name": "Kalamazoo Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

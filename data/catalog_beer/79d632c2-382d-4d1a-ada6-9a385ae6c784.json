@@ -1,0 +1,11 @@
+{
+  "id": "79d632c2-382d-4d1a-ada6-9a385ae6c784",
+  "object": "beer",
+  "name": "Offen Weisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

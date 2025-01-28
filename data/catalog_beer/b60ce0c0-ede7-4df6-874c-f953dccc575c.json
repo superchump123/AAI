@@ -1,0 +1,11 @@
+{
+  "id": "b60ce0c0-ede7-4df6-874c-f953dccc575c",
+  "object": "beer",
+  "name": "Victoria Pale Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

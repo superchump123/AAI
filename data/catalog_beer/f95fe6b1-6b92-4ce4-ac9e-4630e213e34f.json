@@ -1,0 +1,11 @@
+{
+  "id": "f95fe6b1-6b92-4ce4-ac9e-4630e213e34f",
+  "object": "beer",
+  "name": "Perle White IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

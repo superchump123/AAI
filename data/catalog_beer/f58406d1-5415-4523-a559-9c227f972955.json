@@ -1,0 +1,11 @@
+{
+  "id": "f58406d1-5415-4523-a559-9c227f972955",
+  "object": "beer",
+  "name": "Old Siberian Winter Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

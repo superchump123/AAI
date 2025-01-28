@@ -1,0 +1,11 @@
+{
+  "id": "dbe149ae-6c8f-4465-aa54-f874c68a7600",
+  "object": "beer",
+  "name": "Headbanger",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

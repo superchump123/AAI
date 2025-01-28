@@ -1,0 +1,11 @@
+{
+  "id": "18ab5785-5b52-4832-8d3e-ff5ae141d70d",
+  "object": "beer",
+  "name": "Apalach IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2b62d271-14f6-40c3-bc9c-a5d7bbad47a2",
+  "object": "beer",
+  "name": "Altbadisch-Dunkel",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

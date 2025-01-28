@@ -1,0 +1,11 @@
+{
+  "id": "4e74a229-4587-486d-be9d-d74e9de8e851",
+  "object": "beer",
+  "name": "Gessner Radler",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

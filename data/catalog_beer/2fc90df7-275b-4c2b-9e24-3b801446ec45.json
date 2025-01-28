@@ -1,0 +1,11 @@
+{
+  "id": "2fc90df7-275b-4c2b-9e24-3b801446ec45",
+  "object": "beer",
+  "name": "Lands End Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

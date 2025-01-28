@@ -1,0 +1,11 @@
+{
+  "id": "370bb703-58c2-4e4a-9b0d-fc7ce4e339f6",
+  "object": "beer",
+  "name": "Summer Beer",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

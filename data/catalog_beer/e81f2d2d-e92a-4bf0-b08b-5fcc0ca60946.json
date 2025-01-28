@@ -1,0 +1,11 @@
+{
+  "id": "e81f2d2d-e92a-4bf0-b08b-5fcc0ca60946",
+  "object": "beer",
+  "name": "Bigger Dreamer",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

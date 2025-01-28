@@ -1,0 +1,11 @@
+{
+  "id": "60939a35-9132-491e-8f5f-c72362e59a2a",
+  "object": "beer",
+  "name": "Bokbier",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

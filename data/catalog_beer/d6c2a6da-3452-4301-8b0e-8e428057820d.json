@@ -1,0 +1,11 @@
+{
+  "id": "d6c2a6da-3452-4301-8b0e-8e428057820d",
+  "object": "beer",
+  "name": "Echo ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

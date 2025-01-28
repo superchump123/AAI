@@ -1,0 +1,11 @@
+{
+  "id": "b69e9087-a084-404f-a92e-9824ca275ec9",
+  "object": "beer",
+  "name": "Shipwright Imperial British IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

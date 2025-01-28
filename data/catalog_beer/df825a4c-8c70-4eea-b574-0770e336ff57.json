@@ -1,0 +1,11 @@
+{
+  "id": "df825a4c-8c70-4eea-b574-0770e336ff57",
+  "object": "beer",
+  "name": "Medardus Aroma-Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

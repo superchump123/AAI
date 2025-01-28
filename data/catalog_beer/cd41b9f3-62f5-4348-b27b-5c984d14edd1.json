@@ -1,0 +1,11 @@
+{
+  "id": "cd41b9f3-62f5-4348-b27b-5c984d14edd1",
+  "object": "beer",
+  "name": "Old School American Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

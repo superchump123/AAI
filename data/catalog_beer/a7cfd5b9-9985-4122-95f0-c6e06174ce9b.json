@@ -1,0 +1,11 @@
+{
+  "id": "a7cfd5b9-9985-4122-95f0-c6e06174ce9b",
+  "object": "beer",
+  "name": "Headcracker",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

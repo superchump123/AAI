@@ -1,0 +1,11 @@
+{
+  "id": "0a67db9c-662c-41cf-a3e5-a884118a9046",
+  "object": "beer",
+  "name": "Tsunami IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "70136be7-e54e-4c3c-826c-5edc45b92cea",
+  "object": "beer",
+  "name": "Joe the Farrier",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

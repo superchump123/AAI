@@ -1,0 +1,11 @@
+{
+  "id": "a5e0e87d-ab70-401f-9ba6-c680bb54c44e",
+  "object": "beer",
+  "name": "Hop Henge",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

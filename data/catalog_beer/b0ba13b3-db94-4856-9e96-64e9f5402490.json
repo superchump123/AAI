@@ -1,0 +1,11 @@
+{
+  "id": "b0ba13b3-db94-4856-9e96-64e9f5402490",
+  "object": "beer",
+  "name": "Cream Dream 007",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

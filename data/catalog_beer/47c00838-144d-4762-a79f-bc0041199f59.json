@@ -1,0 +1,11 @@
+{
+  "id": "47c00838-144d-4762-a79f-bc0041199f59",
+  "object": "beer",
+  "name": "Leon",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

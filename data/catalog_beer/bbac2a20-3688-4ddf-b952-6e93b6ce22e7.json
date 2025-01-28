@@ -1,0 +1,11 @@
+{
+  "id": "bbac2a20-3688-4ddf-b952-6e93b6ce22e7",
+  "object": "beer",
+  "name": "Watermelon Wheat",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

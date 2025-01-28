@@ -1,0 +1,11 @@
+{
+  "id": "1f41e481-4387-4811-99ca-a66ca39062e7",
+  "object": "beer",
+  "name": "The Amazing Disappearing Davey",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

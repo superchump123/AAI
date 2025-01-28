@@ -1,0 +1,11 @@
+{
+  "id": "329a9998-c33b-44d0-98e5-e2d5c93b2a27",
+  "object": "beer",
+  "name": "Quahog Grog",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

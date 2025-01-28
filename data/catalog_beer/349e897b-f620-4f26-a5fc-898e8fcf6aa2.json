@@ -1,0 +1,11 @@
+{
+  "id": "349e897b-f620-4f26-a5fc-898e8fcf6aa2",
+  "object": "beer",
+  "name": "Heretic Hefeweizen Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

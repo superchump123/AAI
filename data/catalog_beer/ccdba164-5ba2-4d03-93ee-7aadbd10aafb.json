@@ -1,0 +1,11 @@
+{
+  "id": "ccdba164-5ba2-4d03-93ee-7aadbd10aafb",
+  "object": "beer",
+  "name": "Sunday Morning",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "83c3c1be-5d07-4916-ac8d-3e3bf908ee41",
+  "object": "beer",
+  "name": "Sour Puss",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

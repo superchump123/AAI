@@ -1,0 +1,11 @@
+{
+  "id": "5901ec0d-0ba2-4f81-a842-8bc76a8881b5",
+  "object": "beer",
+  "name": "Whiskey Barrel Aged Imperial Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a0e5bfc2-f1a2-4a14-8a28-f0ccbc5a4ccc",
+  "object": "beer",
+  "name": "Smoking Mirror Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

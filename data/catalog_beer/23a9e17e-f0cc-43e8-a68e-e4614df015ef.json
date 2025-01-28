@@ -1,0 +1,11 @@
+{
+  "id": "23a9e17e-f0cc-43e8-a68e-e4614df015ef",
+  "object": "beer",
+  "name": "Stargazer",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

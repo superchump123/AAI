@@ -1,0 +1,11 @@
+{
+  "id": "3edbc983-2fc6-4bf4-b632-6a749c76e960",
+  "object": "beer",
+  "name": "Beach Escape",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

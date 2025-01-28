@@ -1,0 +1,11 @@
+{
+  "id": "50ae96c7-8f63-4dbf-9b33-e81b7d362ec7",
+  "object": "beer",
+  "name": "Double Take Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

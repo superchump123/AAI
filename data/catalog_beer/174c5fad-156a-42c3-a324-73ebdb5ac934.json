@@ -1,0 +1,11 @@
+{
+  "id": "174c5fad-156a-42c3-a324-73ebdb5ac934",
+  "object": "beer",
+  "name": "Krystal Weizen",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

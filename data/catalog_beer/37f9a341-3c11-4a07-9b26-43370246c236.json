@@ -1,0 +1,11 @@
+{
+  "id": "37f9a341-3c11-4a07-9b26-43370246c236",
+  "object": "beer",
+  "name": "Rye Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

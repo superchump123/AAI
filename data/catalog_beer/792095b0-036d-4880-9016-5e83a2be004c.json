@@ -1,0 +1,11 @@
+{
+  "id": "792095b0-036d-4880-9016-5e83a2be004c",
+  "object": "beer",
+  "name": "Rescue Ship",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

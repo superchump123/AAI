@@ -1,0 +1,11 @@
+{
+  "id": "b713dee0-424e-4ab5-a9bc-80d2a9c1477f",
+  "object": "beer",
+  "name": "Teraflop Bourbon Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

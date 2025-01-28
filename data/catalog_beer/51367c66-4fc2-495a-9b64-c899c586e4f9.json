@@ -1,0 +1,11 @@
+{
+  "id": "51367c66-4fc2-495a-9b64-c899c586e4f9",
+  "object": "beer",
+  "name": "Mini Growler",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

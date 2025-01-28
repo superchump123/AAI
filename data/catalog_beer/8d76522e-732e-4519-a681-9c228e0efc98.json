@@ -1,0 +1,11 @@
+{
+  "id": "8d76522e-732e-4519-a681-9c228e0efc98",
+  "object": "beer",
+  "name": "Lakefire",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

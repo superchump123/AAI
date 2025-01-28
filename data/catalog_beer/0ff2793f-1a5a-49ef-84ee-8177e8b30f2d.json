@@ -1,0 +1,11 @@
+{
+  "id": "0ff2793f-1a5a-49ef-84ee-8177e8b30f2d",
+  "object": "beer",
+  "name": "Spike's Maple",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

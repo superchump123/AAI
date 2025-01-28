@@ -1,0 +1,11 @@
+{
+  "id": "2426b8a5-c08a-4c47-9a4a-49f61759d6da",
+  "object": "beer",
+  "name": "Call the Banners",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

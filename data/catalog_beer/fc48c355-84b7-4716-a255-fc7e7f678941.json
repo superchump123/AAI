@@ -1,0 +1,11 @@
+{
+  "id": "fc48c355-84b7-4716-a255-fc7e7f678941",
+  "object": "beer",
+  "name": "Farmhouse Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

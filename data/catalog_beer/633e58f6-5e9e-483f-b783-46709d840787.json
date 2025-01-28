@@ -1,0 +1,11 @@
+{
+  "id": "633e58f6-5e9e-483f-b783-46709d840787",
+  "object": "beer",
+  "name": "Dat Pale American Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

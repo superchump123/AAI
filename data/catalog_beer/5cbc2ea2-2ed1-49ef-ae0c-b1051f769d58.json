@@ -1,0 +1,11 @@
+{
+  "id": "5cbc2ea2-2ed1-49ef-ae0c-b1051f769d58",
+  "object": "beer",
+  "name": "Le Bas Et Lumiere",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

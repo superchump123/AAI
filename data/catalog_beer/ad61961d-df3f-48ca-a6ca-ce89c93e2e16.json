@@ -1,0 +1,11 @@
+{
+  "id": "ad61961d-df3f-48ca-a6ca-ce89c93e2e16",
+  "object": "beer",
+  "name": "Old Devil",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

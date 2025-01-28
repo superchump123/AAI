@@ -1,0 +1,11 @@
+{
+  "id": "6cc9d8f0-3d21-42c6-bda0-3830a7fbf999",
+  "object": "beer",
+  "name": "Gluten-Free IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

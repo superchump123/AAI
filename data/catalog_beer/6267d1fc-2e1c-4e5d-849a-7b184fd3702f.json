@@ -1,0 +1,11 @@
+{
+  "id": "6267d1fc-2e1c-4e5d-849a-7b184fd3702f",
+  "object": "beer",
+  "name": "Smashed Pumpking Porter",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

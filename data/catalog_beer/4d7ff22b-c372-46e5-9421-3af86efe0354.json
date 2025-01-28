@@ -1,0 +1,11 @@
+{
+  "id": "4d7ff22b-c372-46e5-9421-3af86efe0354",
+  "object": "beer",
+  "name": "Hopaway",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "60740a5d-5cda-4a87-ae7b-4290b8722338",
+  "object": "beer",
+  "name": "UMBEL ALE",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

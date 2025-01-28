@@ -1,0 +1,11 @@
+{
+  "id": "a220dab2-f8ab-4eb5-81a1-79b75660d5c7",
+  "object": "beer",
+  "name": "Blackout",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

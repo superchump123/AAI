@@ -1,0 +1,11 @@
+{
+  "id": "d37ee916-1b62-44e9-8930-791f2148bc22",
+  "object": "beer",
+  "name": "Harvest Red Rye Ale",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

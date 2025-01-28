@@ -1,0 +1,11 @@
+{
+  "id": "aed204b7-c38a-4509-991a-21914eceea15",
+  "object": "beer",
+  "name": "No. 21 Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

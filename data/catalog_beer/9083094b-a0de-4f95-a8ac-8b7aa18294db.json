@@ -1,0 +1,11 @@
+{
+  "id": "9083094b-a0de-4f95-a8ac-8b7aa18294db",
+  "object": "beer",
+  "name": "Wildcat Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

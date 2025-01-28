@@ -1,0 +1,11 @@
+{
+  "id": "1a5dd754-10ce-4611-89fd-cd292b6a31f3",
+  "object": "beer",
+  "name": "Horndog Honey Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

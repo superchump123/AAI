@@ -1,0 +1,11 @@
+{
+  "id": "85d5981c-82e0-4140-9b15-df1dac18922b",
+  "object": "beer",
+  "name": "PL Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

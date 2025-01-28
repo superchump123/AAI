@@ -1,0 +1,11 @@
+{
+  "id": "fc79df33-3daa-484c-9bb9-8a199558e9b0",
+  "object": "beer",
+  "name": "ICONIC",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

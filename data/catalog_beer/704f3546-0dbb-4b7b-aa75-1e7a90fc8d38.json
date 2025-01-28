@@ -1,0 +1,11 @@
+{
+  "id": "704f3546-0dbb-4b7b-aa75-1e7a90fc8d38",
+  "object": "beer",
+  "name": "Classic NW Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

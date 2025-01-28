@@ -1,0 +1,11 @@
+{
+  "id": "087846b1-d72d-4c35-bd79-e04f1b8eea88",
+  "object": "beer",
+  "name": "Brett Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

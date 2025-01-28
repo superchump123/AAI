@@ -1,0 +1,11 @@
+{
+  "id": "b61d9074-adea-4cff-9663-2cc31e75ae37",
+  "object": "beer",
+  "name": "Mas Tequila",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

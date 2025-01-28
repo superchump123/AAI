@@ -1,0 +1,11 @@
+{
+  "id": "e5272043-bb9e-4179-9950-d7338a767be1",
+  "object": "beer",
+  "name": "The Big Arloski",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

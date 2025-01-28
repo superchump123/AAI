@@ -1,0 +1,11 @@
+{
+  "id": "41692ffd-ac57-46f8-9fed-96a8a9b8e3b9",
+  "object": "beer",
+  "name": "Arctic Rhino Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "56f6e8f5-de37-4e50-aa67-0dc0164c30cb",
+  "object": "beer",
+  "name": "Cherry Cordial",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

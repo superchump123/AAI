@@ -1,0 +1,11 @@
+{
+  "id": "cc8cd219-a461-43b8-b749-5fff64e11b62",
+  "object": "beer",
+  "name": "Nettles & Ross",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

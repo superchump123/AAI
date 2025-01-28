@@ -1,0 +1,11 @@
+{
+  "id": "6e491e19-05ed-4a56-be5c-d48667235ca2",
+  "object": "beer",
+  "name": "Saw Works Rocky Hop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

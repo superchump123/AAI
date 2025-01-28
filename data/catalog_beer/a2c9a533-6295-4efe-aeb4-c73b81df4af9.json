@@ -1,0 +1,11 @@
+{
+  "id": "a2c9a533-6295-4efe-aeb4-c73b81df4af9",
+  "object": "beer",
+  "name": "Solstice d'Hiver",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

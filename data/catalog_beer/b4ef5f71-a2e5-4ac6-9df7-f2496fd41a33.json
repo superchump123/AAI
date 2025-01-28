@@ -1,0 +1,11 @@
+{
+  "id": "b4ef5f71-a2e5-4ac6-9df7-f2496fd41a33",
+  "object": "beer",
+  "name": "Bohemian Edition Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

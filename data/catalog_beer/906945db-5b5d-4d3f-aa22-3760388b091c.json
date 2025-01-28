@@ -1,0 +1,11 @@
+{
+  "id": "906945db-5b5d-4d3f-aa22-3760388b091c",
+  "object": "beer",
+  "name": "Quechee Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

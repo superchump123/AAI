@@ -1,0 +1,11 @@
+{
+  "id": "5a61e38c-acd8-4b25-a99a-82ab9b90e8da",
+  "object": "beer",
+  "name": "Coyote Morning IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

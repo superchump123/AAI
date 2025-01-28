@@ -1,0 +1,11 @@
+{
+  "id": "883eebe6-1f51-4c34-b9f5-d378093c823d",
+  "object": "beer",
+  "name": "Centerpoint Black",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

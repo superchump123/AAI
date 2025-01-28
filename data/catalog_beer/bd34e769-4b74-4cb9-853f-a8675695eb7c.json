@@ -1,0 +1,11 @@
+{
+  "id": "bd34e769-4b74-4cb9-853f-a8675695eb7c",
+  "object": "beer",
+  "name": "Rockin\u2019 Chakra IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 111,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

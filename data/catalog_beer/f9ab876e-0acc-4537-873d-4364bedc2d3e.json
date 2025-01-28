@@ -1,0 +1,11 @@
+{
+  "id": "f9ab876e-0acc-4537-873d-4364bedc2d3e",
+  "object": "beer",
+  "name": "Roadie",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

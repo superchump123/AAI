@@ -1,0 +1,11 @@
+{
+  "id": "75ec2bf1-e539-4033-b2ac-ada21cc5334c",
+  "object": "beer",
+  "name": "Blue Sunday",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

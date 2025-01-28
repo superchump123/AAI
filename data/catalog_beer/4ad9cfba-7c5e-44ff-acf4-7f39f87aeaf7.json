@@ -1,0 +1,11 @@
+{
+  "id": "4ad9cfba-7c5e-44ff-acf4-7f39f87aeaf7",
+  "object": "beer",
+  "name": "Hert Vijlener Bosbier Donker",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

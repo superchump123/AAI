@@ -1,0 +1,11 @@
+{
+  "id": "b27b088f-0087-4be0-b90d-0b28c21633fc",
+  "object": "beer",
+  "name": "Raspberry Beeret",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e106afed-3038-40a6-a45d-b12c62451681",
+  "object": "beer",
+  "name": "Cranberry Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

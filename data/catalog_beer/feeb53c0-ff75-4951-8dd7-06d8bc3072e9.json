@@ -1,0 +1,11 @@
+{
+  "id": "feeb53c0-ff75-4951-8dd7-06d8bc3072e9",
+  "object": "beer",
+  "name": "Kriek Fond Tradition",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

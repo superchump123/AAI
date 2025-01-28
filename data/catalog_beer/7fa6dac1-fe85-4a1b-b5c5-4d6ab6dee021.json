@@ -1,0 +1,11 @@
+{
+  "id": "7fa6dac1-fe85-4a1b-b5c5-4d6ab6dee021",
+  "object": "beer",
+  "name": "Feature Creature",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

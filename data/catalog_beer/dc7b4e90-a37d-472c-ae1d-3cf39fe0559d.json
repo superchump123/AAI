@@ -1,0 +1,11 @@
+{
+  "id": "dc7b4e90-a37d-472c-ae1d-3cf39fe0559d",
+  "object": "beer",
+  "name": "Black Shox Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

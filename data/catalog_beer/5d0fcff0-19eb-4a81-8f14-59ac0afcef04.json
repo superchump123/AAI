@@ -1,0 +1,11 @@
+{
+  "id": "5d0fcff0-19eb-4a81-8f14-59ac0afcef04",
+  "object": "beer",
+  "name": "Blueberry Creme Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

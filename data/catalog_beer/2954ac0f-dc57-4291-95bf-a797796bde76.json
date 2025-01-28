@@ -1,0 +1,11 @@
+{
+  "id": "2954ac0f-dc57-4291-95bf-a797796bde76",
+  "object": "beer",
+  "name": "Chili Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

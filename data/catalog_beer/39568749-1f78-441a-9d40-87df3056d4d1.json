@@ -1,0 +1,11 @@
+{
+  "id": "39568749-1f78-441a-9d40-87df3056d4d1",
+  "object": "beer",
+  "name": "Benedict",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 103,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

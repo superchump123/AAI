@@ -1,0 +1,11 @@
+{
+  "id": "dd1eaa03-006f-4a91-b727-6ece94c395a0",
+  "object": "beer",
+  "name": "Train Hopper Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

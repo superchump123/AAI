@@ -1,0 +1,11 @@
+{
+  "id": "2e98f2e0-0dc8-49c3-aba4-ae3267cf320a",
+  "object": "beer",
+  "name": "Pre-Prohibition",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

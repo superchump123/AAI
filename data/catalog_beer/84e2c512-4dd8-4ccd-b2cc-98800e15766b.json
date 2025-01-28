@@ -1,0 +1,11 @@
+{
+  "id": "84e2c512-4dd8-4ccd-b2cc-98800e15766b",
+  "object": "beer",
+  "name": "Linden Street Biere de Tartine",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

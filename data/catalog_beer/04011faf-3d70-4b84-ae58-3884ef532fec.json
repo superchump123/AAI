@@ -1,0 +1,11 @@
+{
+  "id": "04011faf-3d70-4b84-ae58-3884ef532fec",
+  "object": "beer",
+  "name": "The Harlot",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

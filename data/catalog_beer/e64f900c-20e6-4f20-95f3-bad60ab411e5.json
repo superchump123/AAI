@@ -1,0 +1,11 @@
+{
+  "id": "e64f900c-20e6-4f20-95f3-bad60ab411e5",
+  "object": "beer",
+  "name": "Moat Czech Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

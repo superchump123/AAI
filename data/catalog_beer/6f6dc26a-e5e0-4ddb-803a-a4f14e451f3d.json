@@ -1,0 +1,11 @@
+{
+  "id": "6f6dc26a-e5e0-4ddb-803a-a4f14e451f3d",
+  "object": "beer",
+  "name": "Blackberry Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

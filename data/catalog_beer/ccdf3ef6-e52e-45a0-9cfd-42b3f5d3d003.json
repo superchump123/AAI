@@ -1,0 +1,11 @@
+{
+  "id": "ccdf3ef6-e52e-45a0-9cfd-42b3f5d3d003",
+  "object": "beer",
+  "name": "Juniper Pale Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

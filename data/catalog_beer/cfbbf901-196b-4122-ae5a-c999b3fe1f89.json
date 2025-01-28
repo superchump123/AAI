@@ -1,0 +1,11 @@
+{
+  "id": "cfbbf901-196b-4122-ae5a-c999b3fe1f89",
+  "object": "beer",
+  "name": "Illumine",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

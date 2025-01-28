@@ -1,0 +1,11 @@
+{
+  "id": "12191a21-49c4-4c1a-93db-829ad773d93f",
+  "object": "beer",
+  "name": "Strawbanero Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8adb4405-84bf-4279-80d7-9f7f96ac0b47",
+  "object": "beer",
+  "name": "Bitter and Twisted",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

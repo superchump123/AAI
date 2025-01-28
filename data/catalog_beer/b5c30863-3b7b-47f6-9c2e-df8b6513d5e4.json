@@ -1,0 +1,11 @@
+{
+  "id": "b5c30863-3b7b-47f6-9c2e-df8b6513d5e4",
+  "object": "beer",
+  "name": "Happy Tail Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5c97b08c-c239-48c8-ac0d-5040363987f3",
+  "object": "beer",
+  "name": "Aufgeber",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

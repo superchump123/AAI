@@ -1,0 +1,11 @@
+{
+  "id": "b5faab7d-624b-4567-9843-2b8d6cd3bb36",
+  "object": "beer",
+  "name": "Sundowner\u2122",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

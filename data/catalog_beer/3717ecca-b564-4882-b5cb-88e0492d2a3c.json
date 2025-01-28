@@ -1,0 +1,11 @@
+{
+  "id": "3717ecca-b564-4882-b5cb-88e0492d2a3c",
+  "object": "beer",
+  "name": "South Hill Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

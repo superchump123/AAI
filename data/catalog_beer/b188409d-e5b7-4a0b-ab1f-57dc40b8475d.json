@@ -1,0 +1,11 @@
+{
+  "id": "b188409d-e5b7-4a0b-ab1f-57dc40b8475d",
+  "object": "beer",
+  "name": "Pohoda Pliz",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

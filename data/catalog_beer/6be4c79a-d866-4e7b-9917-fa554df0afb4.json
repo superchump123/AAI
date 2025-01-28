@@ -1,0 +1,11 @@
+{
+  "id": "6be4c79a-d866-4e7b-9917-fa554df0afb4",
+  "object": "beer",
+  "name": "Galaxy Down Under",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

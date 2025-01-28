@@ -1,0 +1,11 @@
+{
+  "id": "b68c5a92-f855-4b14-acc7-70cf9fbf44a7",
+  "object": "beer",
+  "name": "Spiced Orange",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

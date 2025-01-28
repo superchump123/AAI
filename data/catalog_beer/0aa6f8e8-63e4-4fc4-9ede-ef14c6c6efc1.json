@@ -1,0 +1,11 @@
+{
+  "id": "0aa6f8e8-63e4-4fc4-9ede-ef14c6c6efc1",
+  "object": "beer",
+  "name": "PD",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

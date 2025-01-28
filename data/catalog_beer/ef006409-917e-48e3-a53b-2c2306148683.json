@@ -1,0 +1,11 @@
+{
+  "id": "ef006409-917e-48e3-a53b-2c2306148683",
+  "object": "beer",
+  "name": "'Lil Griz",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0bf55412-956c-423d-aebe-eedbbf00c8e7",
+  "object": "beer",
+  "name": "Marlower Spezial",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

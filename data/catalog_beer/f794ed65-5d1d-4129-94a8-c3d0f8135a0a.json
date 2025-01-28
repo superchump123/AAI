@@ -1,0 +1,11 @@
+{
+  "id": "f794ed65-5d1d-4129-94a8-c3d0f8135a0a",
+  "object": "beer",
+  "name": "Sixteen",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

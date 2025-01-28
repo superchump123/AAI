@@ -1,0 +1,11 @@
+{
+  "id": "18101279-5fd8-4c7d-90c7-f634c935d8e0",
+  "object": "beer",
+  "name": "Snowdrop",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

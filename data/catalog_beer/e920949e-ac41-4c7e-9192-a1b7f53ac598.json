@@ -1,0 +1,11 @@
+{
+  "id": "e920949e-ac41-4c7e-9192-a1b7f53ac598",
+  "object": "beer",
+  "name": "Hey! Honey! Hefeweizen!",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

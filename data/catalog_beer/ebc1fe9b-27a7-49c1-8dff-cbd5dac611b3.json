@@ -1,0 +1,11 @@
+{
+  "id": "ebc1fe9b-27a7-49c1-8dff-cbd5dac611b3",
+  "object": "beer",
+  "name": "Huber Premium",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

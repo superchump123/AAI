@@ -1,0 +1,11 @@
+{
+  "id": "6a5195da-fb02-491a-81be-1c3911b5530b",
+  "object": "beer",
+  "name": "Fresh Hopped Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

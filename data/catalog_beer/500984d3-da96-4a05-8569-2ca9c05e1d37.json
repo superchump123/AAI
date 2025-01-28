@@ -1,0 +1,11 @@
+{
+  "id": "500984d3-da96-4a05-8569-2ca9c05e1d37",
+  "object": "beer",
+  "name": "Reasoning Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

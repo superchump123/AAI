@@ -1,0 +1,11 @@
+{
+  "id": "0c3b320e-b5b4-472d-aeec-21adaf37221e",
+  "object": "beer",
+  "name": "Blackbeard Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

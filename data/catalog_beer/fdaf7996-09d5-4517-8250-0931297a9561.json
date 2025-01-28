@@ -1,0 +1,11 @@
+{
+  "id": "fdaf7996-09d5-4517-8250-0931297a9561",
+  "object": "beer",
+  "name": "Pe-Kan",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

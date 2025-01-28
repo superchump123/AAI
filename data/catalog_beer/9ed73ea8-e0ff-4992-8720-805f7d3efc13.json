@@ -1,0 +1,11 @@
+{
+  "id": "9ed73ea8-e0ff-4992-8720-805f7d3efc13",
+  "object": "beer",
+  "name": "South End Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

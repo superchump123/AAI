@@ -1,0 +1,11 @@
+{
+  "id": "2a4a9a74-d64f-4dc1-adb1-969f72c0551c",
+  "object": "beer",
+  "name": "Trailside Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

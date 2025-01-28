@@ -1,0 +1,11 @@
+{
+  "id": "dd0c6c46-121d-44b3-8c2b-2c7b5b0e4aa1",
+  "object": "beer",
+  "name": "Salvador Cybies",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

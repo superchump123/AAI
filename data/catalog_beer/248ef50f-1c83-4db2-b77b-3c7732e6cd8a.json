@@ -1,0 +1,11 @@
+{
+  "id": "248ef50f-1c83-4db2-b77b-3c7732e6cd8a",
+  "object": "beer",
+  "name": "The Ghost of the 43rd",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

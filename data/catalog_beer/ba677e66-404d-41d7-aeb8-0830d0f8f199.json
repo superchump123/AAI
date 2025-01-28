@@ -1,0 +1,11 @@
+{
+  "id": "ba677e66-404d-41d7-aeb8-0830d0f8f199",
+  "object": "beer",
+  "name": "Fawn",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

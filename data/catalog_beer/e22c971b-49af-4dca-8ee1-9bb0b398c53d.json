@@ -1,0 +1,11 @@
+{
+  "id": "e22c971b-49af-4dca-8ee1-9bb0b398c53d",
+  "object": "beer",
+  "name": "Red Hoppocalypse",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

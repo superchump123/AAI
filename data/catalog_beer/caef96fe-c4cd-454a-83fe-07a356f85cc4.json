@@ -1,0 +1,11 @@
+{
+  "id": "caef96fe-c4cd-454a-83fe-07a356f85cc4",
+  "object": "beer",
+  "name": "IBA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e2e2b53d-6585-47d3-9c17-8cc210e83a1a",
+  "object": "beer",
+  "name": "Batch 600",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

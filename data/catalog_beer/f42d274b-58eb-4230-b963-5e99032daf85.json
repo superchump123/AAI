@@ -1,0 +1,11 @@
+{
+  "id": "f42d274b-58eb-4230-b963-5e99032daf85",
+  "object": "beer",
+  "name": "Raging Bitch Belgian IPA",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

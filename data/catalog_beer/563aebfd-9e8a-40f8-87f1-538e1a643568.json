@@ -1,0 +1,11 @@
+{
+  "id": "563aebfd-9e8a-40f8-87f1-538e1a643568",
+  "object": "beer",
+  "name": "Downpour",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

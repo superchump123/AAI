@@ -1,0 +1,11 @@
+{
+  "id": "56721c96-50ad-4c39-8901-3619c15f993b",
+  "object": "beer",
+  "name": "Sour Pale Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

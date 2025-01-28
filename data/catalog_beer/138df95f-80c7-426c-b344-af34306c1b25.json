@@ -1,0 +1,11 @@
+{
+  "id": "138df95f-80c7-426c-b344-af34306c1b25",
+  "object": "beer",
+  "name": "Belgian Spice Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

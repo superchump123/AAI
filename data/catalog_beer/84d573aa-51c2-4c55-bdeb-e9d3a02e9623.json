@@ -1,0 +1,11 @@
+{
+  "id": "84d573aa-51c2-4c55-bdeb-e9d3a02e9623",
+  "object": "beer",
+  "name": "Black Lullaby",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "59618c4a-d764-40fb-bfa9-02174b494abc",
+  "object": "beer",
+  "name": "Bricktop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

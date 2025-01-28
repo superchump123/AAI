@@ -1,0 +1,11 @@
+{
+  "id": "284d4fd5-79bb-4b9f-af62-a6128d151cbf",
+  "object": "beer",
+  "name": "Chamomile Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

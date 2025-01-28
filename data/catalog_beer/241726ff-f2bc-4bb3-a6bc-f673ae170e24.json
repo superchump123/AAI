@@ -1,0 +1,11 @@
+{
+  "id": "241726ff-f2bc-4bb3-a6bc-f673ae170e24",
+  "object": "beer",
+  "name": "Green Emerger",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

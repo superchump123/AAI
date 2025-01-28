@@ -1,0 +1,11 @@
+{
+  "id": "4f783c27-91ca-425b-b850-5e0097c7f4f2",
+  "object": "beer",
+  "name": "Brion",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

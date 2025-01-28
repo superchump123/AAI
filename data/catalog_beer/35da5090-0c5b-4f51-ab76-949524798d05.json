@@ -1,0 +1,11 @@
+{
+  "id": "35da5090-0c5b-4f51-ab76-949524798d05",
+  "object": "beer",
+  "name": "Buoy Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

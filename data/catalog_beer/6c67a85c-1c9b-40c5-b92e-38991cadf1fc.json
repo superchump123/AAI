@@ -1,0 +1,11 @@
+{
+  "id": "6c67a85c-1c9b-40c5-b92e-38991cadf1fc",
+  "object": "beer",
+  "name": "Crack-of-Noon",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

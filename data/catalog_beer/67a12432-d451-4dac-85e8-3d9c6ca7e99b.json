@@ -1,0 +1,11 @@
+{
+  "id": "67a12432-d451-4dac-85e8-3d9c6ca7e99b",
+  "object": "beer",
+  "name": "800' Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

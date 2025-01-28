@@ -1,0 +1,11 @@
+{
+  "id": "9e01f45b-293d-45c7-a144-a7ef47eb9fe1",
+  "object": "beer",
+  "name": "Williams Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

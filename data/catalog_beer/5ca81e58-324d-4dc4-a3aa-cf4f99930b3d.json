@@ -1,0 +1,11 @@
+{
+  "id": "5ca81e58-324d-4dc4-a3aa-cf4f99930b3d",
+  "object": "beer",
+  "name": "Titletown Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

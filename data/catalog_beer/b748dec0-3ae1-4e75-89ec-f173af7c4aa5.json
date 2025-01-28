@@ -1,0 +1,11 @@
+{
+  "id": "b748dec0-3ae1-4e75-89ec-f173af7c4aa5",
+  "object": "beer",
+  "name": "Night Goat",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

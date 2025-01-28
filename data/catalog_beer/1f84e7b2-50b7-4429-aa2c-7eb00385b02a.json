@@ -1,0 +1,11 @@
+{
+  "id": "1f84e7b2-50b7-4429-aa2c-7eb00385b02a",
+  "object": "beer",
+  "name": "Weidmann German Beer",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

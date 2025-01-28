@@ -1,0 +1,11 @@
+{
+  "id": "0c468ead-73a9-4271-8fca-c3fc85f34c44",
+  "object": "beer",
+  "name": "Miami Madness",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

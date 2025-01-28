@@ -1,0 +1,11 @@
+{
+  "id": "9718925f-ac34-4a33-9e76-7433b76dce99",
+  "object": "beer",
+  "name": "Black Hawk Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

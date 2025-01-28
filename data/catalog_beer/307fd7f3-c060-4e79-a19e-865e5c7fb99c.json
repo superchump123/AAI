@@ -1,0 +1,11 @@
+{
+  "id": "307fd7f3-c060-4e79-a19e-865e5c7fb99c",
+  "object": "beer",
+  "name": "Howling Moon",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c3b59205-db9d-4594-92d7-61b23e8acde5",
+  "object": "beer",
+  "name": "Vormann Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

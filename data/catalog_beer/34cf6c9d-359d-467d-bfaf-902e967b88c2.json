@@ -1,0 +1,11 @@
+{
+  "id": "34cf6c9d-359d-467d-bfaf-902e967b88c2",
+  "object": "beer",
+  "name": "Eislin Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

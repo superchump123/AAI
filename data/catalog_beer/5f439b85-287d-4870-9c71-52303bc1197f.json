@@ -1,0 +1,11 @@
+{
+  "id": "5f439b85-287d-4870-9c71-52303bc1197f",
+  "object": "beer",
+  "name": "Winter's Nip",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

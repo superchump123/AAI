@@ -1,0 +1,11 @@
+{
+  "id": "a49f888b-f593-436e-ae81-dbc57940bf77",
+  "object": "beer",
+  "name": "Berliner Weisse",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

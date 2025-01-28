@@ -1,0 +1,11 @@
+{
+  "id": "0badad7c-4cee-4442-8b6f-1fcfb5307b3a",
+  "object": "beer",
+  "name": "Spiced Island Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9579d87c-58c9-4a52-a116-a142d181b6c9",
+  "object": "beer",
+  "name": "Dark Thymes",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

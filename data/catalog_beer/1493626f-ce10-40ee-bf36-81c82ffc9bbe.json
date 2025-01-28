@@ -1,0 +1,11 @@
+{
+  "id": "1493626f-ce10-40ee-bf36-81c82ffc9bbe",
+  "object": "beer",
+  "name": "Dunkelweizenbock",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

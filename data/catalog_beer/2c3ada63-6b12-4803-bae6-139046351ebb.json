@@ -1,0 +1,11 @@
+{
+  "id": "2c3ada63-6b12-4803-bae6-139046351ebb",
+  "object": "beer",
+  "name": "Malheur Dark Brut",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

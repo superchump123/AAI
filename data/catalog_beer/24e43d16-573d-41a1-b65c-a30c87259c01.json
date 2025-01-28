@@ -1,0 +1,11 @@
+{
+  "id": "24e43d16-573d-41a1-b65c-a30c87259c01",
+  "object": "beer",
+  "name": "The Lady",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

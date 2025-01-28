@@ -1,0 +1,11 @@
+{
+  "id": "2e33e721-94b1-4965-939d-8c567f3bb2bf",
+  "object": "beer",
+  "name": "Plowshare",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

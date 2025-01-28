@@ -1,0 +1,11 @@
+{
+  "id": "4af9374d-46da-4afa-b1e2-c94c3dfa52ff",
+  "object": "beer",
+  "name": "Prospector Pale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

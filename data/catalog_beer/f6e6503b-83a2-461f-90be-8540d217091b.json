@@ -1,0 +1,11 @@
+{
+  "id": "f6e6503b-83a2-461f-90be-8540d217091b",
+  "object": "beer",
+  "name": "Barbe Black",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

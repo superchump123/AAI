@@ -1,0 +1,11 @@
+{
+  "id": "5d10e75f-e55a-4fdb-aab6-71f5d90a8d73",
+  "object": "beer",
+  "name": "Something Blue",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d5d6ebeb-0ca9-4f67-9428-7df09cc435b9",
+  "object": "beer",
+  "name": "Pingin Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

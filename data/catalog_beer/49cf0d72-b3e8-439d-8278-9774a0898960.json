@@ -1,0 +1,11 @@
+{
+  "id": "49cf0d72-b3e8-439d-8278-9774a0898960",
+  "object": "beer",
+  "name": "Hoppy Obligations",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

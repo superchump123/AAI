@@ -1,0 +1,11 @@
+{
+  "id": "37543322-d8dc-40cd-929c-81af8f09a1ef",
+  "object": "beer",
+  "name": "Coconut Quadrupel Ale",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

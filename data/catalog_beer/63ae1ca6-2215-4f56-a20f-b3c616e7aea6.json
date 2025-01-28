@@ -1,0 +1,11 @@
+{
+  "id": "63ae1ca6-2215-4f56-a20f-b3c616e7aea6",
+  "object": "beer",
+  "name": "Frosted Hop Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

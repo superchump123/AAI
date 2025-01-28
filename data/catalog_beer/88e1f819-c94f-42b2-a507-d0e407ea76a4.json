@@ -1,0 +1,11 @@
+{
+  "id": "88e1f819-c94f-42b2-a507-d0e407ea76a4",
+  "object": "beer",
+  "name": "Fields Ablaze",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b9eb4a4d-9a8d-436b-b495-06dc2c63c449",
+  "object": "beer",
+  "name": "Alfred's Wantaig Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

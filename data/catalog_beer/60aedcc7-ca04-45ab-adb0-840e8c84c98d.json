@@ -1,0 +1,11 @@
+{
+  "id": "60aedcc7-ca04-45ab-adb0-840e8c84c98d",
+  "object": "beer",
+  "name": "Bourbon Barrel Oud Bruin (2015)",
+  "style": "Brown Ale",
+  "description": "This Brown Ale went into a bourbon barrel in 2015. Soured with Lactobacillus acidophilus, this beer has significant tart cherry notes with a beautiful chocolate malt \u201cbackbone\u201d and nice malty sweetness.",
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": true,
+  "last_modified": 1511568323
+}

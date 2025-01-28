@@ -1,0 +1,11 @@
+{
+  "id": "909d746b-7b6a-4a53-a2f4-1e9fb52362bb",
+  "object": "beer",
+  "name": "Second Watch ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "095b5d14-8de0-4239-83b2-33e10e9c1a26",
+  "object": "beer",
+  "name": "La Rulles Estivale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

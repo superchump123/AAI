@@ -1,0 +1,11 @@
+{
+  "id": "4bae1b25-be61-419f-9775-b90f8ac01778",
+  "object": "beer",
+  "name": "Merkuh",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

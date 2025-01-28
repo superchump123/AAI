@@ -1,0 +1,11 @@
+{
+  "id": "52b662cf-985e-4499-ad2f-bce948c0615a",
+  "object": "beer",
+  "name": "Blue Nose Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

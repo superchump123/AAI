@@ -1,0 +1,11 @@
+{
+  "id": "f4f42e25-8e8b-4f6c-9cf4-5c9d7c0aa1aa",
+  "object": "beer",
+  "name": "King Harbor Cerveza Hermosa",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

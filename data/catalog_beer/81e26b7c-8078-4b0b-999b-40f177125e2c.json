@@ -1,0 +1,11 @@
+{
+  "id": "81e26b7c-8078-4b0b-999b-40f177125e2c",
+  "object": "beer",
+  "name": "S.I.P.A",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "652d489e-02a7-4aea-b1fc-2d37a3a0a9e1",
+  "object": "beer",
+  "name": "Jaded",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

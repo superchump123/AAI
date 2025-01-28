@@ -1,0 +1,11 @@
+{
+  "id": "a31704ed-9690-411a-a2c8-2901a380afad",
+  "object": "beer",
+  "name": "Norns",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e6e23dde-73a0-4efd-8755-f0b56b7e9b6e",
+  "object": "beer",
+  "name": "Comeragh Challenger Bitter",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

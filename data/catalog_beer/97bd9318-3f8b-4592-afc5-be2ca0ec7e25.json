@@ -1,0 +1,11 @@
+{
+  "id": "97bd9318-3f8b-4592-afc5-be2ca0ec7e25",
+  "object": "beer",
+  "name": "Nitro Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

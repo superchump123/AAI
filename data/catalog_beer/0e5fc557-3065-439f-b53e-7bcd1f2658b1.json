@@ -1,0 +1,11 @@
+{
+  "id": "0e5fc557-3065-439f-b53e-7bcd1f2658b1",
+  "object": "beer",
+  "name": "Southern Flyer Light Lager",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 3.6,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

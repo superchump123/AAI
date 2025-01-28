@@ -1,0 +1,11 @@
+{
+  "id": "2dd606c2-59d5-42f2-b860-f5f6f24b637d",
+  "object": "beer",
+  "name": "Hobnail",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

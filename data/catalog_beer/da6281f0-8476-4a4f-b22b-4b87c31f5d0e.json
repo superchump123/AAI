@@ -1,0 +1,11 @@
+{
+  "id": "da6281f0-8476-4a4f-b22b-4b87c31f5d0e",
+  "object": "beer",
+  "name": "Wye Valley Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

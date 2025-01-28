@@ -1,0 +1,11 @@
+{
+  "id": "57d56b9c-de16-410f-945f-5f25b6539ba9",
+  "object": "beer",
+  "name": "Reitter Pilsener",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

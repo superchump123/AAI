@@ -1,0 +1,11 @@
+{
+  "id": "476c8119-c896-48d2-9b8b-2b33340ce6d5",
+  "object": "beer",
+  "name": "Paradise Pucker",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

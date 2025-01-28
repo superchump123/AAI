@@ -1,0 +1,11 @@
+{
+  "id": "de94ec04-e451-45bc-9774-28dfa778f920",
+  "object": "beer",
+  "name": "Audition - Rye Bock",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

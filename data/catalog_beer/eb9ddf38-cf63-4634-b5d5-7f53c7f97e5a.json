@@ -1,0 +1,11 @@
+{
+  "id": "eb9ddf38-cf63-4634-b5d5-7f53c7f97e5a",
+  "object": "beer",
+  "name": "Pale RIder",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

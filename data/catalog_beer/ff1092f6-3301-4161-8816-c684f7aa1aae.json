@@ -1,0 +1,11 @@
+{
+  "id": "ff1092f6-3301-4161-8816-c684f7aa1aae",
+  "object": "beer",
+  "name": "Belgian Brown",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

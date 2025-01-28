@@ -1,0 +1,11 @@
+{
+  "id": "1978dc8f-0613-4487-843b-f57ad55e5abf",
+  "object": "beer",
+  "name": "Wilford",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

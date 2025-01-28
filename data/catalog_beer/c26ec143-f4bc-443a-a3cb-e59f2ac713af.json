@@ -1,0 +1,11 @@
+{
+  "id": "c26ec143-f4bc-443a-a3cb-e59f2ac713af",
+  "object": "beer",
+  "name": "SSB IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

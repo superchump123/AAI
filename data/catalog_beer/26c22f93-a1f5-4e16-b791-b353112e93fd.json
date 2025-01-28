@@ -1,0 +1,11 @@
+{
+  "id": "26c22f93-a1f5-4e16-b791-b353112e93fd",
+  "object": "beer",
+  "name": "Top Hat",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

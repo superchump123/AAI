@@ -1,0 +1,11 @@
+{
+  "id": "86c05859-cddc-4a9e-83e5-5c59f7b3bdc2",
+  "object": "beer",
+  "name": "Bomber Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

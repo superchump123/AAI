@@ -1,0 +1,11 @@
+{
+  "id": "a212005f-7330-480f-b6d6-87250307cc1a",
+  "object": "beer",
+  "name": "Candlepin",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

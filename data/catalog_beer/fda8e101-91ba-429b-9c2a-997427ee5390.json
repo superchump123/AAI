@@ -1,0 +1,11 @@
+{
+  "id": "fda8e101-91ba-429b-9c2a-997427ee5390",
+  "object": "beer",
+  "name": "Lil\u2019 Willy American Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

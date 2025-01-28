@@ -1,0 +1,11 @@
+{
+  "id": "0f411b00-ab68-4bda-986b-dabd7cf926b1",
+  "object": "beer",
+  "name": "Shoe Toss",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 103,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

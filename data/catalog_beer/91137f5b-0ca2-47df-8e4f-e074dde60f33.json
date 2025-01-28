@@ -1,0 +1,11 @@
+{
+  "id": "91137f5b-0ca2-47df-8e4f-e074dde60f33",
+  "object": "beer",
+  "name": "Mentol",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

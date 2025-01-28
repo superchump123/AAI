@@ -1,0 +1,11 @@
+{
+  "id": "4716466f-98ac-4df9-a058-d6b993376647",
+  "object": "beer",
+  "name": "Ger-Main Guy",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

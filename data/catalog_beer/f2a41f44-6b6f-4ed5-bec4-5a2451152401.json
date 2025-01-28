@@ -1,0 +1,11 @@
+{
+  "id": "f2a41f44-6b6f-4ed5-bec4-5a2451152401",
+  "object": "beer",
+  "name": "Putt Hill Smoked Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

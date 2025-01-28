@@ -1,0 +1,11 @@
+{
+  "id": "5b10909f-4895-40e7-b373-07bfd79723ec",
+  "object": "beer",
+  "name": "Fat Monk",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00e04c07-3a4e-4e05-9e49-bc03fa48060b",
+  "object": "beer",
+  "name": "Easy Street Shuffle",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

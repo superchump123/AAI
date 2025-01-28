@@ -1,0 +1,11 @@
+{
+  "id": "c5f6972e-8b94-4cf2-9a84-11914f98229f",
+  "object": "beer",
+  "name": "Monkey Tail",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

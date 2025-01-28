@@ -1,0 +1,11 @@
+{
+  "id": "bf6e43d4-fe64-4287-8378-fa24500ba8ca",
+  "object": "beer",
+  "name": "Alpha Modern",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

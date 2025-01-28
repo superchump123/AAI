@@ -1,0 +1,11 @@
+{
+  "id": "1c0d1ad3-302f-4af3-b83d-96cc4a60dd88",
+  "object": "beer",
+  "name": "MOFOS Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

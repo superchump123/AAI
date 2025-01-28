@@ -1,0 +1,11 @@
+{
+  "id": "b39b94d8-5deb-4541-943b-937661ef834b",
+  "object": "beer",
+  "name": "Time Hop Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a9eea819-eb45-419f-a466-a952eb302a80",
+  "object": "beer",
+  "name": "Strawman",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "185df5c3-ad06-4514-9edc-59598f162250",
+  "object": "beer",
+  "name": "Love & Malt",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

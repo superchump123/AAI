@@ -1,0 +1,11 @@
+{
+  "id": "8b1aa7e1-90b9-43e8-9c81-6df88bf0b4cb",
+  "object": "beer",
+  "name": "Surtr",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

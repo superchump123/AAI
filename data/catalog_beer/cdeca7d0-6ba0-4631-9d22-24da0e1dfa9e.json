@@ -1,0 +1,11 @@
+{
+  "id": "cdeca7d0-6ba0-4631-9d22-24da0e1dfa9e",
+  "object": "beer",
+  "name": "Maybe Ramona Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

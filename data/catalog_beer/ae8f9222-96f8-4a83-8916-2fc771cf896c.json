@@ -1,0 +1,11 @@
+{
+  "id": "ae8f9222-96f8-4a83-8916-2fc771cf896c",
+  "object": "beer",
+  "name": "Braxton Labs Belgian Blonde W/ Chamomile",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

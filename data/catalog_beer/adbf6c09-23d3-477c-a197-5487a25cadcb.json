@@ -1,0 +1,11 @@
+{
+  "id": "adbf6c09-23d3-477c-a197-5487a25cadcb",
+  "object": "beer",
+  "name": "Witness",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

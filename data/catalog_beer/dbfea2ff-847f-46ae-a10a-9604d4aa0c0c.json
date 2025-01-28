@@ -1,0 +1,11 @@
+{
+  "id": "dbfea2ff-847f-46ae-a10a-9604d4aa0c0c",
+  "object": "beer",
+  "name": "Common Red",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

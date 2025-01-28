@@ -1,0 +1,11 @@
+{
+  "id": "8199c4ca-beca-44a4-af58-6ea987e1bfbd",
+  "object": "beer",
+  "name": "Witheer",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

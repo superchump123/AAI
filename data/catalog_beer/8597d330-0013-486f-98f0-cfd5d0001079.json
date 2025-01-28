@@ -1,0 +1,11 @@
+{
+  "id": "8597d330-0013-486f-98f0-cfd5d0001079",
+  "object": "beer",
+  "name": "Shandy",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

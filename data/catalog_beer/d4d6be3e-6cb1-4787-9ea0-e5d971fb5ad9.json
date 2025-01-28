@@ -1,0 +1,11 @@
+{
+  "id": "d4d6be3e-6cb1-4787-9ea0-e5d971fb5ad9",
+  "object": "beer",
+  "name": "Winterlude",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

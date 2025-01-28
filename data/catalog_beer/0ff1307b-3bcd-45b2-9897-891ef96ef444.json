@@ -1,0 +1,11 @@
+{
+  "id": "0ff1307b-3bcd-45b2-9897-891ef96ef444",
+  "object": "beer",
+  "name": "Skunkworks",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 105,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

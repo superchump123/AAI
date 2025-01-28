@@ -1,0 +1,11 @@
+{
+  "id": "b4ca0f06-5327-41f8-b256-1808d382ffc4",
+  "object": "beer",
+  "name": "Cardinal Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

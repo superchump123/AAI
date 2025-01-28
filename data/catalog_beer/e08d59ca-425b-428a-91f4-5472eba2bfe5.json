@@ -1,0 +1,11 @@
+{
+  "id": "e08d59ca-425b-428a-91f4-5472eba2bfe5",
+  "object": "beer",
+  "name": "Barrel Aged Long Slumber",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

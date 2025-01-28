@@ -1,0 +1,11 @@
+{
+  "id": "569baf74-bafc-48e4-a166-19c85c8a9ca5",
+  "object": "beer",
+  "name": "Mahon Falls Rye Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

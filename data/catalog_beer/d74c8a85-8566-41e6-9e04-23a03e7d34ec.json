@@ -1,0 +1,11 @@
+{
+  "id": "d74c8a85-8566-41e6-9e04-23a03e7d34ec",
+  "object": "beer",
+  "name": "Coffee Pecan Pie Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

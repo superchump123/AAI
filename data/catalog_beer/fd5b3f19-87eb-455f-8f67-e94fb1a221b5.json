@@ -1,0 +1,11 @@
+{
+  "id": "fd5b3f19-87eb-455f-8f67-e94fb1a221b5",
+  "object": "beer",
+  "name": "Southern Ambrosia",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

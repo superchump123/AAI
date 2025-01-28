@@ -1,0 +1,11 @@
+{
+  "id": "335309de-53e4-4a41-99ec-d464ce0f7ff1",
+  "object": "beer",
+  "name": "Orange Haze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

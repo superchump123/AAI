@@ -1,0 +1,11 @@
+{
+  "id": "e0bed770-231b-4cb7-909a-f806b31664db",
+  "object": "beer",
+  "name": "Lazy Bird Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

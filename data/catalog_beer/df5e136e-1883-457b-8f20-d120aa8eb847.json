@@ -1,0 +1,11 @@
+{
+  "id": "df5e136e-1883-457b-8f20-d120aa8eb847",
+  "object": "beer",
+  "name": "Espresso Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

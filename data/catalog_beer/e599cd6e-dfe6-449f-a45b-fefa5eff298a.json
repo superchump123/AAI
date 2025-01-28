@@ -1,0 +1,11 @@
+{
+  "id": "e599cd6e-dfe6-449f-a45b-fefa5eff298a",
+  "object": "beer",
+  "name": "Take It Easy",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

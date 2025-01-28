@@ -1,0 +1,11 @@
+{
+  "id": "b938352b-926a-4a5e-a353-1a663ce64488",
+  "object": "beer",
+  "name": "High Rollers Wheat Beer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7f2287d3-b7de-4467-a8a4-513d2c4eacd2",
+  "object": "beer",
+  "name": "Newport Storm Hurricane Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

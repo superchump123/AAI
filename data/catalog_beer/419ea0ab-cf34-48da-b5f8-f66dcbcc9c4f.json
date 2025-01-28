@@ -1,0 +1,11 @@
+{
+  "id": "419ea0ab-cf34-48da-b5f8-f66dcbcc9c4f",
+  "object": "beer",
+  "name": "Copperwheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

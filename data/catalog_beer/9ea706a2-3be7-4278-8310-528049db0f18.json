@@ -1,0 +1,11 @@
+{
+  "id": "9ea706a2-3be7-4278-8310-528049db0f18",
+  "object": "beer",
+  "name": "Perseverance Ale",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d17edecb-88b3-4859-893c-9d62ea65d225",
+  "object": "beer",
+  "name": "Marvin's Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

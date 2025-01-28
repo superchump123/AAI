@@ -1,0 +1,11 @@
+{
+  "id": "d267deae-cbe7-4f67-93db-e59fa5ef4a2d",
+  "object": "beer",
+  "name": "Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

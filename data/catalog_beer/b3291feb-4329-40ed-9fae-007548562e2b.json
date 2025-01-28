@@ -1,0 +1,11 @@
+{
+  "id": "b3291feb-4329-40ed-9fae-007548562e2b",
+  "object": "beer",
+  "name": "Straff",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

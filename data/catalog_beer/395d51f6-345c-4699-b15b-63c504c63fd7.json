@@ -1,0 +1,11 @@
+{
+  "id": "395d51f6-345c-4699-b15b-63c504c63fd7",
+  "object": "beer",
+  "name": "Simplicity Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

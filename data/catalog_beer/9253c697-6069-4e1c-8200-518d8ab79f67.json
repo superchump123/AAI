@@ -1,0 +1,11 @@
+{
+  "id": "9253c697-6069-4e1c-8200-518d8ab79f67",
+  "object": "beer",
+  "name": "Sonnet",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

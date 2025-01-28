@@ -1,0 +1,11 @@
+{
+  "id": "5c1f78ad-66e9-4653-b6cf-5e27c52ca8b7",
+  "object": "beer",
+  "name": "Grand Cru",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "46dfaf87-1cbf-4b13-9286-f145f625f20d",
+  "object": "beer",
+  "name": "RVAle",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

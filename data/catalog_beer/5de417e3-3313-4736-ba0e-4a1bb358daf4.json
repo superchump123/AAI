@@ -1,0 +1,11 @@
+{
+  "id": "5de417e3-3313-4736-ba0e-4a1bb358daf4",
+  "object": "beer",
+  "name": "Mad Molly Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

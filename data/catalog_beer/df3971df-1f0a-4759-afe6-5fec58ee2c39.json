@@ -1,0 +1,11 @@
+{
+  "id": "df3971df-1f0a-4759-afe6-5fec58ee2c39",
+  "object": "beer",
+  "name": "Marron Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

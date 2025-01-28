@@ -1,0 +1,11 @@
+{
+  "id": "efa5956a-e1c2-4bfb-8948-f46ce1fd8494",
+  "object": "beer",
+  "name": "Tropical Armadillo 3.0",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

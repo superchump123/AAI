@@ -1,0 +1,11 @@
+{
+  "id": "e15f8e84-54fb-4ec7-b1d8-58bc5e760d8a",
+  "object": "beer",
+  "name": "Barrel Aged Unearthed",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

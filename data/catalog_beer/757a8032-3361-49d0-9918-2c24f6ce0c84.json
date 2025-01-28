@@ -1,0 +1,11 @@
+{
+  "id": "757a8032-3361-49d0-9918-2c24f6ce0c84",
+  "object": "beer",
+  "name": "First Thing Tomorrow",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

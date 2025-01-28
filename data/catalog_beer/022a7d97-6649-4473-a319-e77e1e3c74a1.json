@@ -1,0 +1,11 @@
+{
+  "id": "022a7d97-6649-4473-a319-e77e1e3c74a1",
+  "object": "beer",
+  "name": "Wits Organic",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4bb76cf-b273-4712-9d4e-425e13a9699d",
+  "object": "beer",
+  "name": "Atlas",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

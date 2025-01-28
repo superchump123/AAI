@@ -1,0 +1,11 @@
+{
+  "id": "4beae3a0-3dea-4fce-b17a-fb7d055aa7a7",
+  "object": "beer",
+  "name": "On Wednesdays We Wear Pink",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

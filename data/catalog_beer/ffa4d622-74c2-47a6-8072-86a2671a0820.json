@@ -1,0 +1,11 @@
+{
+  "id": "ffa4d622-74c2-47a6-8072-86a2671a0820",
+  "object": "beer",
+  "name": "Belgian Golden Strong",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

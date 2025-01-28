@@ -1,0 +1,11 @@
+{
+  "id": "7fbd4575-c58c-4e8b-bba9-29992adda976",
+  "object": "beer",
+  "name": "Snickerdoodle Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

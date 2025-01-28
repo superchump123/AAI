@@ -1,0 +1,11 @@
+{
+  "id": "89b65361-90dd-49c1-aa11-fea50ab9767f",
+  "object": "beer",
+  "name": "Pacifico Clara",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7dc2e186-7e89-4773-832c-d2b10ea25861",
+  "object": "beer",
+  "name": "Bourbon Barrel Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

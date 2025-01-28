@@ -1,0 +1,11 @@
+{
+  "id": "313a7c52-7bfd-4a69-bfa0-02f6fa5db6bc",
+  "object": "beer",
+  "name": "Brevet",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "47fa8356-1c15-4018-b9a2-2d22a1999598",
+  "object": "beer",
+  "name": "The Kush IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

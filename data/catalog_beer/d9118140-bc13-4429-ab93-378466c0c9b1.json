@@ -1,0 +1,11 @@
+{
+  "id": "d9118140-bc13-4429-ab93-378466c0c9b1",
+  "object": "beer",
+  "name": "Blackout",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

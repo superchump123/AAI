@@ -1,0 +1,11 @@
+{
+  "id": "0f988cb1-d0d5-48b1-adee-0a42fbea229b",
+  "object": "beer",
+  "name": "Treasure Grove",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

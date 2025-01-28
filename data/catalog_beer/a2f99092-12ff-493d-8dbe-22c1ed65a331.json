@@ -1,0 +1,11 @@
+{
+  "id": "a2f99092-12ff-493d-8dbe-22c1ed65a331",
+  "object": "beer",
+  "name": "Coconut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d00b2f81-2001-402d-b0e3-84eb2cd08786",
+  "object": "beer",
+  "name": "Revolution Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

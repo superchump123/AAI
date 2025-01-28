@@ -1,0 +1,11 @@
+{
+  "id": "c01a544c-89c1-4ce3-9a25-49e3fb010001",
+  "object": "beer",
+  "name": "No Surf",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

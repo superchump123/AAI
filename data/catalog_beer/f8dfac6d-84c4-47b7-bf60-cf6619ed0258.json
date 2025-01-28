@@ -1,0 +1,11 @@
+{
+  "id": "f8dfac6d-84c4-47b7-bf60-cf6619ed0258",
+  "object": "beer",
+  "name": "Insel Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

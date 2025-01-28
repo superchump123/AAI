@@ -1,0 +1,11 @@
+{
+  "id": "6e08161e-522b-4a25-a802-f2b293d0e16d",
+  "object": "beer",
+  "name": "BrewDog Blitz",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "91bb137d-96f3-4fb0-a1d2-740897efb250",
+  "object": "beer",
+  "name": "Ale Cider",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

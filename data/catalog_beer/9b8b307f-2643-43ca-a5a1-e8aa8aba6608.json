@@ -1,0 +1,11 @@
+{
+  "id": "9b8b307f-2643-43ca-a5a1-e8aa8aba6608",
+  "object": "beer",
+  "name": "Go Time Xtra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

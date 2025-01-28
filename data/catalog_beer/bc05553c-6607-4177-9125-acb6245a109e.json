@@ -1,0 +1,11 @@
+{
+  "id": "bc05553c-6607-4177-9125-acb6245a109e",
+  "object": "beer",
+  "name": "Doublicious IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

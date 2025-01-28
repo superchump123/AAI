@@ -1,0 +1,11 @@
+{
+  "id": "add00e8b-d2fb-4e0d-93de-b9232887cf24",
+  "object": "beer",
+  "name": "Park",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

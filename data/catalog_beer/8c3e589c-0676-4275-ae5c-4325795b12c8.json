@@ -1,0 +1,11 @@
+{
+  "id": "8c3e589c-0676-4275-ae5c-4325795b12c8",
+  "object": "beer",
+  "name": "Mad Abbot Christmas Ale",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

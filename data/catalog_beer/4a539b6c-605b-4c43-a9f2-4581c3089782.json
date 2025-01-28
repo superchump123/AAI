@@ -1,0 +1,11 @@
+{
+  "id": "4a539b6c-605b-4c43-a9f2-4581c3089782",
+  "object": "beer",
+  "name": "BrewDog vs Cloudwater New England IPA v2",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

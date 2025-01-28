@@ -1,0 +1,11 @@
+{
+  "id": "f7d8e7bd-6d72-4e51-ba4c-f8f6ce0f397a",
+  "object": "beer",
+  "name": "Reliance Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

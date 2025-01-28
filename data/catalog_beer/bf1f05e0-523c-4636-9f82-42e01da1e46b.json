@@ -1,0 +1,11 @@
+{
+  "id": "bf1f05e0-523c-4636-9f82-42e01da1e46b",
+  "object": "beer",
+  "name": "Groundskeeper",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2c02eb21-bc0c-4347-856a-05a43d78aadf",
+  "object": "beer",
+  "name": "BLT Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

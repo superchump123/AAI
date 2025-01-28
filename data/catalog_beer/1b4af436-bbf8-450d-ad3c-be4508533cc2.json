@@ -1,0 +1,11 @@
+{
+  "id": "1b4af436-bbf8-450d-ad3c-be4508533cc2",
+  "object": "beer",
+  "name": "NUT BROWN ALE",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

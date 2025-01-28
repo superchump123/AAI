@@ -1,0 +1,11 @@
+{
+  "id": "776dd0ac-e733-49b5-87e3-974c6aaae6c2",
+  "object": "beer",
+  "name": "Kentucky Vanilla Barrel Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "25e66270-5556-48ab-86e6-1d5ddf485353",
+  "object": "beer",
+  "name": "Buzz",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db74475d-4871-4d5f-b124-cac1b21d4dd4",
+  "object": "beer",
+  "name": "Honey Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

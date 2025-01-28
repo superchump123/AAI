@@ -1,0 +1,11 @@
+{
+  "id": "60dcc1d3-2e3b-4964-a202-a6ed80c348d1",
+  "object": "beer",
+  "name": "Eksp\u00f6rt K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

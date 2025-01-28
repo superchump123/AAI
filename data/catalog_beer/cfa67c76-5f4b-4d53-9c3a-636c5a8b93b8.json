@@ -1,0 +1,11 @@
+{
+  "id": "cfa67c76-5f4b-4d53-9c3a-636c5a8b93b8",
+  "object": "beer",
+  "name": "Nitro Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

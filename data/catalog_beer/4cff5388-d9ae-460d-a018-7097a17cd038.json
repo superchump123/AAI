@@ -1,0 +1,11 @@
+{
+  "id": "4cff5388-d9ae-460d-a018-7097a17cd038",
+  "object": "beer",
+  "name": "Harvest Lager",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

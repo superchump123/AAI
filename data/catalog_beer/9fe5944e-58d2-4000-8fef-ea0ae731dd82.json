@@ -1,0 +1,11 @@
+{
+  "id": "9fe5944e-58d2-4000-8fef-ea0ae731dd82",
+  "object": "beer",
+  "name": "Mighty Maximus",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 3.6,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

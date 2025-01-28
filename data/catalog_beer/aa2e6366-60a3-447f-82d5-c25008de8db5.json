@@ -1,0 +1,11 @@
+{
+  "id": "aa2e6366-60a3-447f-82d5-c25008de8db5",
+  "object": "beer",
+  "name": "Samuel Adams Golden Yuzu",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

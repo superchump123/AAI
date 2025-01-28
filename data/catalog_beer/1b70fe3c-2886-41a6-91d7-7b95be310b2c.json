@@ -1,0 +1,11 @@
+{
+  "id": "1b70fe3c-2886-41a6-91d7-7b95be310b2c",
+  "object": "beer",
+  "name": "Cascadian Dark Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

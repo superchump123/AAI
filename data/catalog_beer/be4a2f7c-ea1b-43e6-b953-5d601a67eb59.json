@@ -1,0 +1,11 @@
+{
+  "id": "be4a2f7c-ea1b-43e6-b953-5d601a67eb59",
+  "object": "beer",
+  "name": "Fields Forever",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "afa0bd16-124b-4e82-8dd5-87b0713454ad",
+  "object": "beer",
+  "name": "Norton Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

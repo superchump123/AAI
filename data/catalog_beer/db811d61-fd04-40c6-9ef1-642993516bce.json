@@ -1,0 +1,11 @@
+{
+  "id": "db811d61-fd04-40c6-9ef1-642993516bce",
+  "object": "beer",
+  "name": "Deluna",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

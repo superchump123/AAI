@@ -1,0 +1,11 @@
+{
+  "id": "c578de5d-b31f-4d39-8f19-ab8f881039d1",
+  "object": "beer",
+  "name": "Beach House Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

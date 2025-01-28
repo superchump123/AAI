@@ -1,0 +1,11 @@
+{
+  "id": "2b6f13e7-a5ee-4837-baa7-2feec76d3fef",
+  "object": "beer",
+  "name": "Hawg Wash",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

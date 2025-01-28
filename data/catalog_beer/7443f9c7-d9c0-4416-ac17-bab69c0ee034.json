@@ -1,0 +1,11 @@
+{
+  "id": "7443f9c7-d9c0-4416-ac17-bab69c0ee034",
+  "object": "beer",
+  "name": "Boucanier Chrismas Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

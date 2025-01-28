@@ -1,0 +1,11 @@
+{
+  "id": "5d2e6b07-f94d-4e02-b764-7005430ed28e",
+  "object": "beer",
+  "name": "A Blessing And A Curse",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

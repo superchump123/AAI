@@ -1,0 +1,11 @@
+{
+  "id": "4e438603-f623-42f5-a216-364b7d334ddf",
+  "object": "beer",
+  "name": "Figueroa Mtn Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

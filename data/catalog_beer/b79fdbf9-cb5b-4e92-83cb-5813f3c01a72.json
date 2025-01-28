@@ -1,0 +1,11 @@
+{
+  "id": "b79fdbf9-cb5b-4e92-83cb-5813f3c01a72",
+  "object": "beer",
+  "name": "That's What She Said - Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9dd1629e-089f-4e5f-b0d3-0386822b5ca6",
+  "object": "beer",
+  "name": "Why Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

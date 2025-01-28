@@ -1,0 +1,11 @@
+{
+  "id": "8bcd919b-1378-433d-a528-1a90fc28cee1",
+  "object": "beer",
+  "name": "Saison Cinq",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

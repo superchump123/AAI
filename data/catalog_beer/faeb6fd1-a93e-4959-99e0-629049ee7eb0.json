@@ -1,0 +1,11 @@
+{
+  "id": "faeb6fd1-a93e-4959-99e0-629049ee7eb0",
+  "object": "beer",
+  "name": "Organic Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74e5bb3d-6c6c-42af-92fc-b0b82a820dbc",
+  "object": "beer",
+  "name": "Nutbrown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

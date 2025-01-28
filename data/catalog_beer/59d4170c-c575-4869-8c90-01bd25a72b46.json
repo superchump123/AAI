@@ -1,0 +1,11 @@
+{
+  "id": "59d4170c-c575-4869-8c90-01bd25a72b46",
+  "object": "beer",
+  "name": "Rocktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

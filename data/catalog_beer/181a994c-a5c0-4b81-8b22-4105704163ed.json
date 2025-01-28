@@ -1,0 +1,11 @@
+{
+  "id": "181a994c-a5c0-4b81-8b22-4105704163ed",
+  "object": "beer",
+  "name": "Allegheny IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

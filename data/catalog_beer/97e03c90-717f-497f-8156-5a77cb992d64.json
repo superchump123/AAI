@@ -1,0 +1,11 @@
+{
+  "id": "97e03c90-717f-497f-8156-5a77cb992d64",
+  "object": "beer",
+  "name": "Blue Mountain Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

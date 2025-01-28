@@ -1,0 +1,11 @@
+{
+  "id": "5bf09bb3-e986-4f11-84d0-61237a083265",
+  "object": "beer",
+  "name": "La Rubia",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e6868dda-0d45-4f40-aaf4-504947c1f1be",
+  "object": "beer",
+  "name": "Session English Pale Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

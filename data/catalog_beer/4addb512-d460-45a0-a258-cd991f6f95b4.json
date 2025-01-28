@@ -1,0 +1,11 @@
+{
+  "id": "4addb512-d460-45a0-a258-cd991f6f95b4",
+  "object": "beer",
+  "name": "The Last Straw Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67980c87-3aff-4504-95f0-bbba9434edeb",
+  "object": "beer",
+  "name": "Splediferous",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

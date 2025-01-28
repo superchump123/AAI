@@ -1,0 +1,11 @@
+{
+  "id": "ec760fa4-777d-481f-b3a9-1330aad758e3",
+  "object": "beer",
+  "name": "Safety 3rd",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.4,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

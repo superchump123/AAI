@@ -1,0 +1,11 @@
+{
+  "id": "c5e60198-8526-4abb-8d9f-538a1ca8c931",
+  "object": "beer",
+  "name": "Gallus 612 - Old Style Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

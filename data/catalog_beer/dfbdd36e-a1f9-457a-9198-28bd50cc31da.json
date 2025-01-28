@@ -1,0 +1,11 @@
+{
+  "id": "dfbdd36e-a1f9-457a-9198-28bd50cc31da",
+  "object": "beer",
+  "name": "Singha Lager",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

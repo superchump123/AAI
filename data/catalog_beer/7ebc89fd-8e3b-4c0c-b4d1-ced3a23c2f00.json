@@ -1,0 +1,11 @@
+{
+  "id": "7ebc89fd-8e3b-4c0c-b4d1-ced3a23c2f00",
+  "object": "beer",
+  "name": "Sundowner",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ddf4094-921a-4f45-b8c3-f4a12b5ac09e",
+  "object": "beer",
+  "name": "Ya Gotva",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d03dc22d-8859-4758-9693-2ec0787ba81c",
+  "object": "beer",
+  "name": "Riverside Rye IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

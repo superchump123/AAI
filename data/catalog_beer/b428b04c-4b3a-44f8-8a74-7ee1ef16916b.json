@@ -1,0 +1,11 @@
+{
+  "id": "b428b04c-4b3a-44f8-8a74-7ee1ef16916b",
+  "object": "beer",
+  "name": "RBQ Smokehouse Brew",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

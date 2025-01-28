@@ -1,0 +1,11 @@
+{
+  "id": "e5c52de6-e96c-4351-a255-323f4d26bf0c",
+  "object": "beer",
+  "name": "Black Eye PA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

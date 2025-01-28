@@ -1,0 +1,11 @@
+{
+  "id": "836881fb-076f-4d1a-ae92-235b6226f15c",
+  "object": "beer",
+  "name": "Scottish Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

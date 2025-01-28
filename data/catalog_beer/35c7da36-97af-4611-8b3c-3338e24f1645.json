@@ -1,0 +1,11 @@
+{
+  "id": "35c7da36-97af-4611-8b3c-3338e24f1645",
+  "object": "beer",
+  "name": "Guava King",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

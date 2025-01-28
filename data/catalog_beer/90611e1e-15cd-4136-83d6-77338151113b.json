@@ -1,0 +1,11 @@
+{
+  "id": "90611e1e-15cd-4136-83d6-77338151113b",
+  "object": "beer",
+  "name": "Devil's Reach",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6ecb0e7c-23c7-466e-958f-2d70b6cf856b",
+  "object": "beer",
+  "name": "Berliner Weisse With Strawberries",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ec5aa673-87e1-430b-9913-56456dea0b74",
+  "object": "beer",
+  "name": "Veteran Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

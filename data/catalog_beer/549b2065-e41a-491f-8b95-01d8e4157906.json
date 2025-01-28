@@ -1,0 +1,11 @@
+{
+  "id": "549b2065-e41a-491f-8b95-01d8e4157906",
+  "object": "beer",
+  "name": "Haymaker",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

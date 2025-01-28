@@ -1,0 +1,11 @@
+{
+  "id": "7be8c473-039b-4391-aa29-f1f71a50e1f7",
+  "object": "beer",
+  "name": "Hop Trapp",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d6632c40-e3f5-420d-aa3a-dd6be4e9ae29",
+  "object": "beer",
+  "name": "Der Norden",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

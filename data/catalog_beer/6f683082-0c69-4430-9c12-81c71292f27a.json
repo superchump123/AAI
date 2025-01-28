@@ -1,0 +1,11 @@
+{
+  "id": "6f683082-0c69-4430-9c12-81c71292f27a",
+  "object": "beer",
+  "name": "Chinquapin Chestnut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

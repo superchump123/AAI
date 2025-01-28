@@ -1,0 +1,11 @@
+{
+  "id": "4983fdd5-d4be-408f-a97d-424f5ec7d778",
+  "object": "beer",
+  "name": "Wyoming Pale Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e12c7e88-c93e-4e38-be36-630a6799bcf2",
+  "object": "beer",
+  "name": "Russian Doll - Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

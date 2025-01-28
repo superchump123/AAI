@@ -1,0 +1,11 @@
+{
+  "id": "391afa4b-455a-422f-be01-436250fcd425",
+  "object": "beer",
+  "name": "Gold Standard",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

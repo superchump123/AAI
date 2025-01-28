@@ -1,0 +1,11 @@
+{
+  "id": "971f8e3c-3bfc-47cb-9ca8-aceb34575eb1",
+  "object": "beer",
+  "name": "All Jacked Up",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

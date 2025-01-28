@@ -1,0 +1,11 @@
+{
+  "id": "6db0a6bd-28f5-4ec2-b3bf-ef06d391a026",
+  "object": "beer",
+  "name": "Christmas Cracker Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

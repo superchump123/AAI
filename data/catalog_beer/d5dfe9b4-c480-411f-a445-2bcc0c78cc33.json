@@ -1,0 +1,11 @@
+{
+  "id": "d5dfe9b4-c480-411f-a445-2bcc0c78cc33",
+  "object": "beer",
+  "name": "Waterline Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

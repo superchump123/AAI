@@ -1,0 +1,11 @@
+{
+  "id": "405923ae-7c0a-4abe-af13-80eacbc15a8d",
+  "object": "beer",
+  "name": "BarrelHouse Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

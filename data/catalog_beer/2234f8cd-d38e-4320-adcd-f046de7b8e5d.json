@@ -1,0 +1,11 @@
+{
+  "id": "2234f8cd-d38e-4320-adcd-f046de7b8e5d",
+  "object": "beer",
+  "name": "Maple Scotch-Style Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

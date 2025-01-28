@@ -1,0 +1,11 @@
+{
+  "id": "9eaeb6e9-cf27-42f4-9b37-d1e096c4651c",
+  "object": "beer",
+  "name": "Krombacher Weizen",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

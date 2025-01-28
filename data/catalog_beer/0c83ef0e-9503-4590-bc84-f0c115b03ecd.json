@@ -1,0 +1,11 @@
+{
+  "id": "0c83ef0e-9503-4590-bc84-f0c115b03ecd",
+  "object": "beer",
+  "name": "Homestyle",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

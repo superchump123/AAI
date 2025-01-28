@@ -1,0 +1,11 @@
+{
+  "id": "27c8ff3a-cb66-4c5f-8b98-c44991a33499",
+  "object": "beer",
+  "name": "Idaho Premium Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

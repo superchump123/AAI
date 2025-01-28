@@ -1,0 +1,11 @@
+{
+  "id": "02897736-dd23-4023-965a-12de1aab5a29",
+  "object": "beer",
+  "name": "Budweiser Chelada",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

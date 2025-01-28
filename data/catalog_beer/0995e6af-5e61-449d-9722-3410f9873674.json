@@ -1,0 +1,11 @@
+{
+  "id": "0995e6af-5e61-449d-9722-3410f9873674",
+  "object": "beer",
+  "name": "Birra Ginevra",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

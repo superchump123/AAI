@@ -1,0 +1,11 @@
+{
+  "id": "63c6e445-c7e8-466b-a714-a956d36410ad",
+  "object": "beer",
+  "name": "Tiny-Shape",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

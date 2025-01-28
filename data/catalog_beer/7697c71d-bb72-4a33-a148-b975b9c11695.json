@@ -1,0 +1,11 @@
+{
+  "id": "7697c71d-bb72-4a33-a148-b975b9c11695",
+  "object": "beer",
+  "name": "Peche 'n Brett",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

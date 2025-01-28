@@ -1,0 +1,11 @@
+{
+  "id": "b80fcd2d-514e-4c00-a53c-67a431f518b2",
+  "object": "beer",
+  "name": "Summer In the City",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

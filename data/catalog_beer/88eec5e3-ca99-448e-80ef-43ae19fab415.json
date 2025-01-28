@@ -1,0 +1,11 @@
+{
+  "id": "88eec5e3-ca99-448e-80ef-43ae19fab415",
+  "object": "beer",
+  "name": "McPoyle",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

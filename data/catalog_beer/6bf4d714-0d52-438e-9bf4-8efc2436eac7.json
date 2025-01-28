@@ -1,0 +1,11 @@
+{
+  "id": "6bf4d714-0d52-438e-9bf4-8efc2436eac7",
+  "object": "beer",
+  "name": "McCool's Hazelnut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

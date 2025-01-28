@@ -1,0 +1,11 @@
+{
+  "id": "037ee54f-bbc8-4bda-b51f-e97c0bd41c27",
+  "object": "beer",
+  "name": "The Remedy",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

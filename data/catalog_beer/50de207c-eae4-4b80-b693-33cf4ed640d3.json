@@ -1,0 +1,11 @@
+{
+  "id": "50de207c-eae4-4b80-b693-33cf4ed640d3",
+  "object": "beer",
+  "name": "Amber Ale Columbus",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

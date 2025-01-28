@@ -1,0 +1,11 @@
+{
+  "id": "29cea6ab-6f3e-43a2-ba09-9f25f14373a9",
+  "object": "beer",
+  "name": "Hop Juice",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

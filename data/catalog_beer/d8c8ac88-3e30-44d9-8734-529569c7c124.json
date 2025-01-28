@@ -1,0 +1,11 @@
+{
+  "id": "d8c8ac88-3e30-44d9-8734-529569c7c124",
+  "object": "beer",
+  "name": "Batch #1 English IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

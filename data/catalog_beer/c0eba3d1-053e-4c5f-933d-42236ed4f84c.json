@@ -1,0 +1,11 @@
+{
+  "id": "c0eba3d1-053e-4c5f-933d-42236ed4f84c",
+  "object": "beer",
+  "name": "Edel-Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b51df32-d131-4c6f-8a8f-59367cfcc8f5",
+  "object": "beer",
+  "name": "Buckle Bunny",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

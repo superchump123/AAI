@@ -1,0 +1,11 @@
+{
+  "id": "8b92cbc3-5beb-44e7-a1e0-410a4095996e",
+  "object": "beer",
+  "name": "Pool Party",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

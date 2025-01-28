@@ -1,0 +1,11 @@
+{
+  "id": "2c434ac0-b6ce-445e-8bd9-350ac346490e",
+  "object": "beer",
+  "name": "Alchemist's Ale",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

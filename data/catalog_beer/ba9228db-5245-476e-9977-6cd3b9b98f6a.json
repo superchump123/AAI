@@ -1,0 +1,11 @@
+{
+  "id": "ba9228db-5245-476e-9977-6cd3b9b98f6a",
+  "object": "beer",
+  "name": "Renegade Blonde",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "63c77a8f-7299-4bd3-9c9c-e45e63a8a108",
+  "object": "beer",
+  "name": "The Saints Whisky Beer",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

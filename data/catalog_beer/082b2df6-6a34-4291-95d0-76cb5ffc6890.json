@@ -1,0 +1,11 @@
+{
+  "id": "082b2df6-6a34-4291-95d0-76cb5ffc6890",
+  "object": "beer",
+  "name": "Bloody Roots",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

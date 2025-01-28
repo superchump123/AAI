@@ -1,0 +1,11 @@
+{
+  "id": "fba41f06-1ba5-452b-9467-31b7b1b18fdd",
+  "object": "beer",
+  "name": "Rusty Nail",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

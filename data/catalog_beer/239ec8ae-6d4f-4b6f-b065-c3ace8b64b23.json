@@ -1,0 +1,11 @@
+{
+  "id": "239ec8ae-6d4f-4b6f-b065-c3ace8b64b23",
+  "object": "beer",
+  "name": "Little Soldier",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

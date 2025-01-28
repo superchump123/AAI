@@ -1,0 +1,11 @@
+{
+  "id": "6119fb46-5818-4cee-a5fa-26fcca8e4472",
+  "object": "beer",
+  "name": "Barbapapa",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

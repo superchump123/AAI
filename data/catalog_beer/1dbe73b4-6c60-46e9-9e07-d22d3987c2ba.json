@@ -1,0 +1,11 @@
+{
+  "id": "1dbe73b4-6c60-46e9-9e07-d22d3987c2ba",
+  "object": "beer",
+  "name": "Buxtehuder Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

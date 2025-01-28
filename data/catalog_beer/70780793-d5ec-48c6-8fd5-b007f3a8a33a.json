@@ -1,0 +1,11 @@
+{
+  "id": "70780793-d5ec-48c6-8fd5-b007f3a8a33a",
+  "object": "beer",
+  "name": "The Suspect",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

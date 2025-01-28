@@ -1,0 +1,11 @@
+{
+  "id": "63d1e914-773e-4619-bd08-fa39910a9fa8",
+  "object": "beer",
+  "name": "Mango Mosaic Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

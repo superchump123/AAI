@@ -1,0 +1,11 @@
+{
+  "id": "5ab3ae1c-c404-4840-8b4f-2df38f941567",
+  "object": "beer",
+  "name": "St. Gleason Imperial Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

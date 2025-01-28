@@ -1,0 +1,11 @@
+{
+  "id": "bf650fa9-22f7-45fc-afd9-c451a2f190c8",
+  "object": "beer",
+  "name": "Tenacious",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

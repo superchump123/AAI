@@ -1,0 +1,11 @@
+{
+  "id": "1f852326-7e54-49cc-84b6-5031ccbe704e",
+  "object": "beer",
+  "name": "Wild King",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "90565be2-e8f0-4917-af90-d4bb337c3fe0",
+  "object": "beer",
+  "name": "Rye IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

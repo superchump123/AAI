@@ -1,0 +1,11 @@
+{
+  "id": "fac00786-7b92-4e72-8978-63f471408f06",
+  "object": "beer",
+  "name": "The Dorado",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "399d8ca3-fb21-4dde-b675-bebe95eeb04c",
+  "object": "beer",
+  "name": "Session Fest",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

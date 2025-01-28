@@ -1,0 +1,11 @@
+{
+  "id": "cbd40458-aadc-4710-9c52-77a98e324ff3",
+  "object": "beer",
+  "name": "Mohren Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

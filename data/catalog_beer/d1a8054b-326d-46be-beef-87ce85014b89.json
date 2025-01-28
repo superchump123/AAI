@@ -1,0 +1,11 @@
+{
+  "id": "d1a8054b-326d-46be-beef-87ce85014b89",
+  "object": "beer",
+  "name": "Pontoon Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

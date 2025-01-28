@@ -1,0 +1,11 @@
+{
+  "id": "958daf74-dfc5-4f0b-a517-2bd97f83c655",
+  "object": "beer",
+  "name": "Otto Pilate",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

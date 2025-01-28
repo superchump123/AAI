@@ -1,0 +1,11 @@
+{
+  "id": "9e51c7e3-f6b8-4602-9ffe-3ff5c8ac5a0d",
+  "object": "beer",
+  "name": "Aww Jeah",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

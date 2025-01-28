@@ -1,0 +1,11 @@
+{
+  "id": "c05d4da5-f1aa-4f9a-9af5-2284a3dd83ab",
+  "object": "beer",
+  "name": "Bathtub Blonde Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c64cec64-2712-47f6-a699-deb4e7c524a2",
+  "object": "beer",
+  "name": "Belgian Pale Ale - Farm House Ales",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "21fee7c5-a606-4a8f-b548-18be0b83596f",
+  "object": "beer",
+  "name": "Pub Ale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

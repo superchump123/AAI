@@ -1,0 +1,11 @@
+{
+  "id": "0bc2616b-9406-4a9e-b4d3-6e898cc621eb",
+  "object": "beer",
+  "name": "Cold Blooded",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06bde709-69f9-4908-8c93-4a5ac57f5d1f",
+  "object": "beer",
+  "name": "Dog Days",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "325024e8-07a8-48a7-b1c1-897b28524f84",
+  "object": "beer",
+  "name": "Crafty Jack",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aed25ba3-504d-4a0a-a7c2-021cf2b8cddd",
+  "object": "beer",
+  "name": "Priscilla",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ed6d5554-101f-4961-922b-068f48889995",
+  "object": "beer",
+  "name": "Steelhead Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

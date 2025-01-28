@@ -1,0 +1,11 @@
+{
+  "id": "4ad206e8-2d8c-4299-ab1c-207ff9e2aaf5",
+  "object": "beer",
+  "name": "Dropper IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 108,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

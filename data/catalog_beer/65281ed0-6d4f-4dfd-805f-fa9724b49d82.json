@@ -1,0 +1,11 @@
+{
+  "id": "65281ed0-6d4f-4dfd-805f-fa9724b49d82",
+  "object": "beer",
+  "name": "Santiago",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

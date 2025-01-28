@@ -1,0 +1,11 @@
+{
+  "id": "c136dfd4-152d-49ae-8eca-c32b99b6cf21",
+  "object": "beer",
+  "name": "Fusion 18",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

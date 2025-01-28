@@ -1,0 +1,11 @@
+{
+  "id": "612923fc-a0e7-49ba-bef1-41fbaa58d156",
+  "object": "beer",
+  "name": "Blond Dog",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0669bae9-612a-4521-8007-67b0575043c8",
+  "object": "beer",
+  "name": "5 String ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

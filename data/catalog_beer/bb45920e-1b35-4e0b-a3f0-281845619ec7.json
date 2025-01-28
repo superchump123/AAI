@@ -1,0 +1,11 @@
+{
+  "id": "bb45920e-1b35-4e0b-a3f0-281845619ec7",
+  "object": "beer",
+  "name": "Tessellation",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

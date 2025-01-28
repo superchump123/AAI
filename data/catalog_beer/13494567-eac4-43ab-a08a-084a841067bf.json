@@ -1,0 +1,11 @@
+{
+  "id": "13494567-eac4-43ab-a08a-084a841067bf",
+  "object": "beer",
+  "name": "Rick",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

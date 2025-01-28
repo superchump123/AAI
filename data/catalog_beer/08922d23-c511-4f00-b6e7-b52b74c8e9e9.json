@@ -1,0 +1,11 @@
+{
+  "id": "08922d23-c511-4f00-b6e7-b52b74c8e9e9",
+  "object": "beer",
+  "name": "Petit Rouge",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

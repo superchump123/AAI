@@ -1,0 +1,11 @@
+{
+  "id": "3e0952f1-c243-466b-b5fc-bea802310e72",
+  "object": "beer",
+  "name": "Stepchild",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

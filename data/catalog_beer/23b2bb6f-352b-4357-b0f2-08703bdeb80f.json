@@ -1,0 +1,11 @@
+{
+  "id": "23b2bb6f-352b-4357-b0f2-08703bdeb80f",
+  "object": "beer",
+  "name": "Green Mammoth",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

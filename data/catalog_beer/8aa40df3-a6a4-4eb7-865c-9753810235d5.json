@@ -1,0 +1,11 @@
+{
+  "id": "8aa40df3-a6a4-4eb7-865c-9753810235d5",
+  "object": "beer",
+  "name": "Poke the Bear",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "29fed741-6cb1-45d7-b3ef-7209356437be",
+  "object": "beer",
+  "name": "Dark Sabbath",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

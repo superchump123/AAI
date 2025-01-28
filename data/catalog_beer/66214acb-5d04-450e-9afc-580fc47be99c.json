@@ -1,0 +1,11 @@
+{
+  "id": "66214acb-5d04-450e-9afc-580fc47be99c",
+  "object": "beer",
+  "name": "TV Wolf",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

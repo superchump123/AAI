@@ -1,0 +1,11 @@
+{
+  "id": "5164ee52-2fa4-43e1-8515-20240901c9bb",
+  "object": "beer",
+  "name": "Guv'nor",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

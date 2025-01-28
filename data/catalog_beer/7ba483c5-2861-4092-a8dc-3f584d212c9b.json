@@ -1,0 +1,11 @@
+{
+  "id": "7ba483c5-2861-4092-a8dc-3f584d212c9b",
+  "object": "beer",
+  "name": "England's Glory",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

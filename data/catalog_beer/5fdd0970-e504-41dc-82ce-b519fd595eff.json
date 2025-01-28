@@ -1,0 +1,11 @@
+{
+  "id": "5fdd0970-e504-41dc-82ce-b519fd595eff",
+  "object": "beer",
+  "name": "Ice",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

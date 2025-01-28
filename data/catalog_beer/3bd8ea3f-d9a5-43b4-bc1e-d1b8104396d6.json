@@ -1,0 +1,11 @@
+{
+  "id": "3bd8ea3f-d9a5-43b4-bc1e-d1b8104396d6",
+  "object": "beer",
+  "name": "Incubus Maple Belgian Triple",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

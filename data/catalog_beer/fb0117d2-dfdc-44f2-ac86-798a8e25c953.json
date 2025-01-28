@@ -1,0 +1,11 @@
+{
+  "id": "fb0117d2-dfdc-44f2-ac86-798a8e25c953",
+  "object": "beer",
+  "name": "The Cat's Meow",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

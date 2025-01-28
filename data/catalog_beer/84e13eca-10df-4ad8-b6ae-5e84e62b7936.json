@@ -1,0 +1,11 @@
+{
+  "id": "84e13eca-10df-4ad8-b6ae-5e84e62b7936",
+  "object": "beer",
+  "name": "Stranger",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

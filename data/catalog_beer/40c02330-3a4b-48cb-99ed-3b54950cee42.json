@@ -1,0 +1,11 @@
+{
+  "id": "40c02330-3a4b-48cb-99ed-3b54950cee42",
+  "object": "beer",
+  "name": "Raddler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

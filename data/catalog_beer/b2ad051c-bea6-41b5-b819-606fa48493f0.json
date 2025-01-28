@@ -1,0 +1,11 @@
+{
+  "id": "b2ad051c-bea6-41b5-b819-606fa48493f0",
+  "object": "beer",
+  "name": "Bug Juice Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

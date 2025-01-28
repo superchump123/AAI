@@ -1,0 +1,11 @@
+{
+  "id": "97eedbda-5884-4d87-a2bc-340da4e9c3c7",
+  "object": "beer",
+  "name": "Riley's Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

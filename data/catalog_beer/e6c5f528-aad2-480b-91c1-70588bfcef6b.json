@@ -1,0 +1,11 @@
+{
+  "id": "e6c5f528-aad2-480b-91c1-70588bfcef6b",
+  "object": "beer",
+  "name": "Saison Hop Series",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

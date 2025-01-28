@@ -1,0 +1,11 @@
+{
+  "id": "59a731a2-b6e8-4074-ae18-5199624f94e3",
+  "object": "beer",
+  "name": "Red House Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

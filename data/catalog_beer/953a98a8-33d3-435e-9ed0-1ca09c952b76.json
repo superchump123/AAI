@@ -1,0 +1,11 @@
+{
+  "id": "953a98a8-33d3-435e-9ed0-1ca09c952b76",
+  "object": "beer",
+  "name": "Pinstripe Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

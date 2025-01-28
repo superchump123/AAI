@@ -1,0 +1,11 @@
+{
+  "id": "e14cd2e8-8043-463d-8016-992e5f749ecc",
+  "object": "beer",
+  "name": "Piedra Del Fuego",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

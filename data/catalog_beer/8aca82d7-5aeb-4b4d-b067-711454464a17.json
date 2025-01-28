@@ -1,0 +1,11 @@
+{
+  "id": "8aca82d7-5aeb-4b4d-b067-711454464a17",
+  "object": "beer",
+  "name": "Mmm... D'Oh Nuts.",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

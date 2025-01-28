@@ -1,0 +1,11 @@
+{
+  "id": "be52e5bb-4c4c-4a76-9436-ac62f5a3d231",
+  "object": "beer",
+  "name": "Cinnamango",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

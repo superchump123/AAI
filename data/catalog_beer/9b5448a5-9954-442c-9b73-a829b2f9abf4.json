@@ -1,0 +1,11 @@
+{
+  "id": "9b5448a5-9954-442c-9b73-a829b2f9abf4",
+  "object": "beer",
+  "name": "Revel Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

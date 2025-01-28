@@ -1,0 +1,11 @@
+{
+  "id": "5dd13bbf-d048-4cb7-bbe5-d58e188f5272",
+  "object": "beer",
+  "name": "Little Death Ride",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 13,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

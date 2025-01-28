@@ -1,0 +1,11 @@
+{
+  "id": "b1936897-7ee3-41ed-830c-e735e35d0712",
+  "object": "beer",
+  "name": "Bucket & Spade",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

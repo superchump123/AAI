@@ -1,0 +1,11 @@
+{
+  "id": "35b28286-5803-45d4-afa0-711c31d4b4cf",
+  "object": "beer",
+  "name": "Doppelbock",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

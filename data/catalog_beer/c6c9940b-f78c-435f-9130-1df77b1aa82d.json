@@ -1,0 +1,11 @@
+{
+  "id": "c6c9940b-f78c-435f-9130-1df77b1aa82d",
+  "object": "beer",
+  "name": "Quilmes Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

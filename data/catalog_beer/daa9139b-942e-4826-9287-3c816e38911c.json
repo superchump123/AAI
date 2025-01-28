@@ -1,0 +1,11 @@
+{
+  "id": "daa9139b-942e-4826-9287-3c816e38911c",
+  "object": "beer",
+  "name": "Ol' Woody Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

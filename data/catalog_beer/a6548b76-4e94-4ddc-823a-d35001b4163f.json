@@ -1,0 +1,11 @@
+{
+  "id": "a6548b76-4e94-4ddc-823a-d35001b4163f",
+  "object": "beer",
+  "name": "Weizen Eisbock",
+  "style": "German-Style Eisbock",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

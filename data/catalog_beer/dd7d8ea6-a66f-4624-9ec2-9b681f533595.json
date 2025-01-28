@@ -1,0 +1,11 @@
+{
+  "id": "dd7d8ea6-a66f-4624-9ec2-9b681f533595",
+  "object": "beer",
+  "name": "Hardcore IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

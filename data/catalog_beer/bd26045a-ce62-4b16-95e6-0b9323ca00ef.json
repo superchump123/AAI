@@ -1,0 +1,11 @@
+{
+  "id": "bd26045a-ce62-4b16-95e6-0b9323ca00ef",
+  "object": "beer",
+  "name": "Tea Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

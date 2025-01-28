@@ -1,0 +1,11 @@
+{
+  "id": "0c135188-fea4-49bc-a0d5-2b189cab2939",
+  "object": "beer",
+  "name": "The City",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

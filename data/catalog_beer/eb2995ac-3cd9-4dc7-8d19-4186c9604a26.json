@@ -1,0 +1,11 @@
+{
+  "id": "eb2995ac-3cd9-4dc7-8d19-4186c9604a26",
+  "object": "beer",
+  "name": "Relaxer",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

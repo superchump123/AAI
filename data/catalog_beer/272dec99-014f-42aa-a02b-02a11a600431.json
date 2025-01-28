@@ -1,0 +1,11 @@
+{
+  "id": "272dec99-014f-42aa-a02b-02a11a600431",
+  "object": "beer",
+  "name": "Alpaga",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

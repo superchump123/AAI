@@ -1,0 +1,11 @@
+{
+  "id": "548ba595-8b11-48e8-923f-dfeb9982832e",
+  "object": "beer",
+  "name": "I Do Brew",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

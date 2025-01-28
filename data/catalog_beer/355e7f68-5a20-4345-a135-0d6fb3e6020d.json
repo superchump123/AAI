@@ -1,0 +1,11 @@
+{
+  "id": "355e7f68-5a20-4345-a135-0d6fb3e6020d",
+  "object": "beer",
+  "name": "ManGose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

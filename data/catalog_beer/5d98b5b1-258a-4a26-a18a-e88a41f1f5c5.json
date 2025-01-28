@@ -1,0 +1,11 @@
+{
+  "id": "5d98b5b1-258a-4a26-a18a-e88a41f1f5c5",
+  "object": "beer",
+  "name": "Winter Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

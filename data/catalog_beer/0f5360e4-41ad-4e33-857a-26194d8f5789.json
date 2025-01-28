@@ -1,0 +1,11 @@
+{
+  "id": "0f5360e4-41ad-4e33-857a-26194d8f5789",
+  "object": "beer",
+  "name": "Head Stash",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

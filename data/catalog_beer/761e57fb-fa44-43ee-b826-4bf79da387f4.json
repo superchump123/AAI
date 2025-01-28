@@ -1,0 +1,11 @@
+{
+  "id": "761e57fb-fa44-43ee-b826-4bf79da387f4",
+  "object": "beer",
+  "name": "Sumac Cum Laude",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

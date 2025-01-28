@@ -1,0 +1,11 @@
+{
+  "id": "0cc24868-c13b-4016-9852-a12cbddb3aae",
+  "object": "beer",
+  "name": "Gangster Duck",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

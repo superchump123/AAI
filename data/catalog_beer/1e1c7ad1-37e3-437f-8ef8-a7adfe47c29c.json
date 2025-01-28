@@ -1,0 +1,11 @@
+{
+  "id": "1e1c7ad1-37e3-437f-8ef8-a7adfe47c29c",
+  "object": "beer",
+  "name": "The Fat Pig Bacon Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

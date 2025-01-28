@@ -1,0 +1,11 @@
+{
+  "id": "7e1a873c-47df-4db9-a09b-05d4cc57e178",
+  "object": "beer",
+  "name": "Serious Scrump",
+  "style": "English Cider",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

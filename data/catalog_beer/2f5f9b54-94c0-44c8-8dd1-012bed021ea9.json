@@ -1,0 +1,11 @@
+{
+  "id": "2f5f9b54-94c0-44c8-8dd1-012bed021ea9",
+  "object": "beer",
+  "name": "Fresh Hop",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5dfd9bc1-f92c-428e-8dec-ddb33d0fdc15",
+  "object": "beer",
+  "name": "Naked Fish",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

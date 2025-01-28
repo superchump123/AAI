@@ -1,0 +1,11 @@
+{
+  "id": "a82404ed-c6d9-4446-afbe-baa10ed6ff1f",
+  "object": "beer",
+  "name": "Gold Brick Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

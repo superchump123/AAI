@@ -1,0 +1,11 @@
+{
+  "id": "3b512d32-f95f-4a6c-b11b-e7101d95577a",
+  "object": "beer",
+  "name": "Brew Monkey",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

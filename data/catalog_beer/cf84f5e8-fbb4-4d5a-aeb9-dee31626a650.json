@@ -1,0 +1,11 @@
+{
+  "id": "cf84f5e8-fbb4-4d5a-aeb9-dee31626a650",
+  "object": "beer",
+  "name": "Chubbles",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

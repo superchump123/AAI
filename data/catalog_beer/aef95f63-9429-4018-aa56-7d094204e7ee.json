@@ -1,0 +1,11 @@
+{
+  "id": "aef95f63-9429-4018-aa56-7d094204e7ee",
+  "object": "beer",
+  "name": "Agnus Dei",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

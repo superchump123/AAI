@@ -1,0 +1,11 @@
+{
+  "id": "72c5a155-b235-4c56-999e-52fbc0b3308e",
+  "object": "beer",
+  "name": "Second Rodeo Joe",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

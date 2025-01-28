@@ -1,0 +1,11 @@
+{
+  "id": "f5be547e-8011-475d-9b1c-0af0ff57a24f",
+  "object": "beer",
+  "name": "Death Blossom",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

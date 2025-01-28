@@ -1,0 +1,11 @@
+{
+  "id": "9272105d-f8a8-4ae1-a4a4-1e7abd2c6cf1",
+  "object": "beer",
+  "name": "Four",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "85a88c0a-586b-468f-9a62-8591a7e639e8",
+  "object": "beer",
+  "name": "Goldilox",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

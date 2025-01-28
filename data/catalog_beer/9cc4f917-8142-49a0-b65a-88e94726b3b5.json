@@ -1,0 +1,11 @@
+{
+  "id": "9cc4f917-8142-49a0-b65a-88e94726b3b5",
+  "object": "beer",
+  "name": "Bear Creek Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

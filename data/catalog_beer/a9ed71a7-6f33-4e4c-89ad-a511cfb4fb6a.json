@@ -1,0 +1,11 @@
+{
+  "id": "a9ed71a7-6f33-4e4c-89ad-a511cfb4fb6a",
+  "object": "beer",
+  "name": "Vaquero Dark Mexican Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6344f46-3252-497d-8356-2dd8225090f8",
+  "object": "beer",
+  "name": "Sunset Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

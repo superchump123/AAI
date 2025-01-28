@@ -1,0 +1,11 @@
+{
+  "id": "b2e8e53c-1fae-4283-b887-13b33c35131f",
+  "object": "beer",
+  "name": "The Cold Ground",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

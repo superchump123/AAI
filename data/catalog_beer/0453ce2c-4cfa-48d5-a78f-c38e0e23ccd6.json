@@ -1,0 +1,11 @@
+{
+  "id": "0453ce2c-4cfa-48d5-a78f-c38e0e23ccd6",
+  "object": "beer",
+  "name": "Cluss Kellerpils",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

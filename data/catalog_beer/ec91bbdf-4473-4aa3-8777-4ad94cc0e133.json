@@ -1,0 +1,11 @@
+{
+  "id": "ec91bbdf-4473-4aa3-8777-4ad94cc0e133",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Imperial Tanilla",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

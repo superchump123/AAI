@@ -1,0 +1,11 @@
+{
+  "id": "6ade7799-46d4-49b6-a033-40226b239a10",
+  "object": "beer",
+  "name": "Lunch Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

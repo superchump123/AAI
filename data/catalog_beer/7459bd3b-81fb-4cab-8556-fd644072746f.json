@@ -1,0 +1,11 @@
+{
+  "id": "7459bd3b-81fb-4cab-8556-fd644072746f",
+  "object": "beer",
+  "name": "Beard Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

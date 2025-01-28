@@ -1,0 +1,11 @@
+{
+  "id": "e3d6cbfb-1884-401c-a9c1-ba94d3f8ef10",
+  "object": "beer",
+  "name": "DWIght",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

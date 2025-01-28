@@ -1,0 +1,11 @@
+{
+  "id": "13622eb4-1d5b-4551-90c3-35d2fb1dd4cb",
+  "object": "beer",
+  "name": "Eye of Newt",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f94abc2-ec4e-4be9-90c0-8294c365277c",
+  "object": "beer",
+  "name": "Nero",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

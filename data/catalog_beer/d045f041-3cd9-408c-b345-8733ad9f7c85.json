@@ -1,0 +1,11 @@
+{
+  "id": "d045f041-3cd9-408c-b345-8733ad9f7c85",
+  "object": "beer",
+  "name": "Trotter Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

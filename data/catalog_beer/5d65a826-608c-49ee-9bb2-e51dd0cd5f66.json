@@ -1,0 +1,11 @@
+{
+  "id": "5d65a826-608c-49ee-9bb2-e51dd0cd5f66",
+  "object": "beer",
+  "name": "Summerfield Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

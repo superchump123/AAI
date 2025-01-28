@@ -1,0 +1,11 @@
+{
+  "id": "d1639e97-37b5-4cd1-871e-94851810b400",
+  "object": "beer",
+  "name": "Perennial",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

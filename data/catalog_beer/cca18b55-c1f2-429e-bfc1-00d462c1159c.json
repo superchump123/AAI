@@ -1,0 +1,11 @@
+{
+  "id": "cca18b55-c1f2-429e-bfc1-00d462c1159c",
+  "object": "beer",
+  "name": "Easy Livin Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

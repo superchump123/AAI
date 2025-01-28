@@ -1,0 +1,11 @@
+{
+  "id": "02519b9b-a3ad-4a8e-bfb2-ae6f35c01eaf",
+  "object": "beer",
+  "name": "Reaction",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

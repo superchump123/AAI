@@ -1,0 +1,11 @@
+{
+  "id": "e7fdf365-dad7-4c55-89cd-16b6ded2019e",
+  "object": "beer",
+  "name": "Money Bomb",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

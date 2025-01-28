@@ -1,0 +1,11 @@
+{
+  "id": "84cd679f-d0a4-443c-866f-d623be892280",
+  "object": "beer",
+  "name": "Oblate",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd13829c-86cc-4e54-809f-53dfc313db43",
+  "object": "beer",
+  "name": "Buckboard Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

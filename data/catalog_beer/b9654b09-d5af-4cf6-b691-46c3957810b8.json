@@ -1,0 +1,11 @@
+{
+  "id": "b9654b09-d5af-4cf6-b691-46c3957810b8",
+  "object": "beer",
+  "name": "Urhell",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

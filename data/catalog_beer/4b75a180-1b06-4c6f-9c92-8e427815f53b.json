@@ -1,0 +1,11 @@
+{
+  "id": "4b75a180-1b06-4c6f-9c92-8e427815f53b",
+  "object": "beer",
+  "name": "Broken Bitters",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

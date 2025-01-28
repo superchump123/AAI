@@ -1,0 +1,11 @@
+{
+  "id": "19a882f8-43cb-4a69-9618-c9aef0e09b9b",
+  "object": "beer",
+  "name": "Hutte Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

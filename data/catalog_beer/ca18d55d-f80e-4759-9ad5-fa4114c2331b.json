@@ -1,0 +1,11 @@
+{
+  "id": "ca18d55d-f80e-4759-9ad5-fa4114c2331b",
+  "object": "beer",
+  "name": "William Wallace Wrestle Fest",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

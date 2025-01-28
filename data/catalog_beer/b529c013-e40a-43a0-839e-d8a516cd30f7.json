@@ -1,0 +1,11 @@
+{
+  "id": "b529c013-e40a-43a0-839e-d8a516cd30f7",
+  "object": "beer",
+  "name": "Hoppenheimer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

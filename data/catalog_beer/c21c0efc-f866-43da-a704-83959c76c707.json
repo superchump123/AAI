@@ -1,0 +1,11 @@
+{
+  "id": "c21c0efc-f866-43da-a704-83959c76c707",
+  "object": "beer",
+  "name": "Wit Bier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

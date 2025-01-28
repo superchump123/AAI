@@ -1,0 +1,11 @@
+{
+  "id": "d57546f6-a24e-4245-8019-ab8a495bb40e",
+  "object": "beer",
+  "name": "Airdale Bombshell",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1f3b5354-e643-4791-b198-13bb7a86ff86",
+  "object": "beer",
+  "name": "Chocolate Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

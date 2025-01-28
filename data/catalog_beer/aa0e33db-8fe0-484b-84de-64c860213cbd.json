@@ -1,0 +1,11 @@
+{
+  "id": "aa0e33db-8fe0-484b-84de-64c860213cbd",
+  "object": "beer",
+  "name": "Couch Surfer",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

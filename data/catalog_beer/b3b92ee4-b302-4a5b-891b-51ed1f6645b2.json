@@ -1,0 +1,11 @@
+{
+  "id": "b3b92ee4-b302-4a5b-891b-51ed1f6645b2",
+  "object": "beer",
+  "name": "Road Jam",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

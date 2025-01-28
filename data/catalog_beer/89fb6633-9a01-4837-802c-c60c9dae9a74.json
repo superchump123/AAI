@@ -1,0 +1,11 @@
+{
+  "id": "89fb6633-9a01-4837-802c-c60c9dae9a74",
+  "object": "beer",
+  "name": "Flying Monkey Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

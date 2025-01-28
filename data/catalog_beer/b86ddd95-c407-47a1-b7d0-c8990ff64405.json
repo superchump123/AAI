@@ -1,0 +1,11 @@
+{
+  "id": "b86ddd95-c407-47a1-b7d0-c8990ff64405",
+  "object": "beer",
+  "name": "Firewater",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

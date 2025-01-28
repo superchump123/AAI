@@ -1,0 +1,11 @@
+{
+  "id": "2e476eb6-b66c-4c64-8096-3f0d7af122d1",
+  "object": "beer",
+  "name": "Sally Brown",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

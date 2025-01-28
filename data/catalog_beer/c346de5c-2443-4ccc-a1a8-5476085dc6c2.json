@@ -1,0 +1,11 @@
+{
+  "id": "c346de5c-2443-4ccc-a1a8-5476085dc6c2",
+  "object": "beer",
+  "name": "Haybomb",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

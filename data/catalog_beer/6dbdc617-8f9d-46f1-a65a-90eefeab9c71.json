@@ -1,0 +1,11 @@
+{
+  "id": "6dbdc617-8f9d-46f1-a65a-90eefeab9c71",
+  "object": "beer",
+  "name": "Brewer's Reserve Bourbon Barrel Belgian Quadruple Ale",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

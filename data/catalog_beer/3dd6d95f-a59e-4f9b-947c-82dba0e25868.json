@@ -1,0 +1,11 @@
+{
+  "id": "3dd6d95f-a59e-4f9b-947c-82dba0e25868",
+  "object": "beer",
+  "name": "Hope & King Scotch Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

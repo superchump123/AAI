@@ -1,0 +1,11 @@
+{
+  "id": "9f4842db-bde1-43a7-aa7b-f64477e7ea8b",
+  "object": "beer",
+  "name": "Krekling",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

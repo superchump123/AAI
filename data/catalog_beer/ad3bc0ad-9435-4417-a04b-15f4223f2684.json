@@ -1,0 +1,11 @@
+{
+  "id": "ad3bc0ad-9435-4417-a04b-15f4223f2684",
+  "object": "beer",
+  "name": "Hibernation Bliss",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

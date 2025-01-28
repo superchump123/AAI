@@ -1,0 +1,11 @@
+{
+  "id": "d8d4c183-b7c6-4097-ac42-ea2c754cdde2",
+  "object": "beer",
+  "name": "Ginger MoFo",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

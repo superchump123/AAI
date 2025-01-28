@@ -1,0 +1,11 @@
+{
+  "id": "5465d22e-f5e5-43d8-a2ae-4868a2ef4df1",
+  "object": "beer",
+  "name": "Achel Bruin Bier Extra",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

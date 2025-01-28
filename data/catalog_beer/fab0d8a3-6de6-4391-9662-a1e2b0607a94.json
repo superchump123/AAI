@@ -1,0 +1,11 @@
+{
+  "id": "fab0d8a3-6de6-4391-9662-a1e2b0607a94",
+  "object": "beer",
+  "name": "Storm",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

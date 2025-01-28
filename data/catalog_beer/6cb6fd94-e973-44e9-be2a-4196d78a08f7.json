@@ -1,0 +1,11 @@
+{
+  "id": "6cb6fd94-e973-44e9-be2a-4196d78a08f7",
+  "object": "beer",
+  "name": "Doctor Cougar",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

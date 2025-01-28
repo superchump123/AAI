@@ -1,0 +1,11 @@
+{
+  "id": "1571f897-eab4-4814-a29d-4e19bdc5e489",
+  "object": "beer",
+  "name": "Worcester's Bravest Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

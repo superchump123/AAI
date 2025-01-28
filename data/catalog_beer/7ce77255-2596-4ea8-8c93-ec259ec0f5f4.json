@@ -1,0 +1,11 @@
+{
+  "id": "7ce77255-2596-4ea8-8c93-ec259ec0f5f4",
+  "object": "beer",
+  "name": "Ha-Czech",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

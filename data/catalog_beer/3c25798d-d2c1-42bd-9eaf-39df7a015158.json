@@ -1,0 +1,11 @@
+{
+  "id": "3c25798d-d2c1-42bd-9eaf-39df7a015158",
+  "object": "beer",
+  "name": "Belgian Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

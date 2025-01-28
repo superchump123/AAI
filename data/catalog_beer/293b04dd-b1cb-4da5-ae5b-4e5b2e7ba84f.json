@@ -1,0 +1,11 @@
+{
+  "id": "293b04dd-b1cb-4da5-ae5b-4e5b2e7ba84f",
+  "object": "beer",
+  "name": "Westphalia ALT",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

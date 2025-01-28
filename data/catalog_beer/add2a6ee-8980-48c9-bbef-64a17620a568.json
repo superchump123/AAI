@@ -1,0 +1,11 @@
+{
+  "id": "add2a6ee-8980-48c9-bbef-64a17620a568",
+  "object": "beer",
+  "name": "Coal Creek Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

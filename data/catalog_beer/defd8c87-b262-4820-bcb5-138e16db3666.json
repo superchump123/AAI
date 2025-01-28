@@ -1,0 +1,11 @@
+{
+  "id": "defd8c87-b262-4820-bcb5-138e16db3666",
+  "object": "beer",
+  "name": "Unibroue Edition 2004",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

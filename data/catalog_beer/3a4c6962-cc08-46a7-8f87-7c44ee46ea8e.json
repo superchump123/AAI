@@ -1,0 +1,11 @@
+{
+  "id": "3a4c6962-cc08-46a7-8f87-7c44ee46ea8e",
+  "object": "beer",
+  "name": "Abbey of the South Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

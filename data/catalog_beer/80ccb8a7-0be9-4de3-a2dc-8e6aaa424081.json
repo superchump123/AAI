@@ -1,0 +1,11 @@
+{
+  "id": "80ccb8a7-0be9-4de3-a2dc-8e6aaa424081",
+  "object": "beer",
+  "name": "Schmucker Meister-Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

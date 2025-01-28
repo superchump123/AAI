@@ -1,0 +1,11 @@
+{
+  "id": "102fcf3f-d0d6-4b0a-b7ab-6f258b5e250d",
+  "object": "beer",
+  "name": "Utebier",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

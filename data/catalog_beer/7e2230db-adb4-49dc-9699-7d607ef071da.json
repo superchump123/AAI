@@ -1,0 +1,11 @@
+{
+  "id": "7e2230db-adb4-49dc-9699-7d607ef071da",
+  "object": "beer",
+  "name": "NORCAL BEER GEEKS IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

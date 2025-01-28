@@ -1,0 +1,11 @@
+{
+  "id": "f0c4cda1-db23-44b0-ba83-ba2ef47ba33b",
+  "object": "beer",
+  "name": "Kaktus Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

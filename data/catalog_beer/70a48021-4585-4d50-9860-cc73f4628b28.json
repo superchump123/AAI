@@ -1,0 +1,11 @@
+{
+  "id": "70a48021-4585-4d50-9860-cc73f4628b28",
+  "object": "beer",
+  "name": "Smashcade",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

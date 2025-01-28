@@ -1,0 +1,11 @@
+{
+  "id": "ca3b9ab1-0ab0-496d-8866-eccd23097da1",
+  "object": "beer",
+  "name": "Antilles",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

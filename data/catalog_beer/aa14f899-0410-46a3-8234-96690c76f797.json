@@ -1,0 +1,11 @@
+{
+  "id": "aa14f899-0410-46a3-8234-96690c76f797",
+  "object": "beer",
+  "name": "Euchre Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

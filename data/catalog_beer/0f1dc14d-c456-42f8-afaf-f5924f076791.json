@@ -1,0 +1,11 @@
+{
+  "id": "0f1dc14d-c456-42f8-afaf-f5924f076791",
+  "object": "beer",
+  "name": "Alterior Motive",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e61d0aef-34d6-41ea-bf03-1097a5dd6307",
+  "object": "beer",
+  "name": "Shipwrecker Circus",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

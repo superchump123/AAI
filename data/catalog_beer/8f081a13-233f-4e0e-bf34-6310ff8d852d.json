@@ -1,0 +1,11 @@
+{
+  "id": "8f081a13-233f-4e0e-bf34-6310ff8d852d",
+  "object": "beer",
+  "name": "Shadow Caster",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

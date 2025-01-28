@@ -1,0 +1,11 @@
+{
+  "id": "cb73dd8c-8747-47b2-8e8c-0e784602a8df",
+  "object": "beer",
+  "name": "Waterline Wee Heavy",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1ebfe1db-c099-48ce-9c90-e58cee1aeaa5",
+  "object": "beer",
+  "name": "Hoxton Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

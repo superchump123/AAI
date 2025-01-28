@@ -1,0 +1,11 @@
+{
+  "id": "ddfae801-cba0-4ea0-bf9d-b251c450e6e1",
+  "object": "beer",
+  "name": "Piehole Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f3a304ca-b7db-412c-8b8a-94e220898b9b",
+  "object": "beer",
+  "name": "Dog D",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 16.1,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

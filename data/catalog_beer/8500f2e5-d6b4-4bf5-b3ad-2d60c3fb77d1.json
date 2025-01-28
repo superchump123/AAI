@@ -1,0 +1,11 @@
+{
+  "id": "8500f2e5-d6b4-4bf5-b3ad-2d60c3fb77d1",
+  "object": "beer",
+  "name": "Gose In The Shell",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

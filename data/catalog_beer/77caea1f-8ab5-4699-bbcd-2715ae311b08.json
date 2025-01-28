@@ -1,0 +1,11 @@
+{
+  "id": "77caea1f-8ab5-4699-bbcd-2715ae311b08",
+  "object": "beer",
+  "name": "Strawberry Milkshake",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

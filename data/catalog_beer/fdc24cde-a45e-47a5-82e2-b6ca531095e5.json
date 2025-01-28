@@ -1,0 +1,11 @@
+{
+  "id": "fdc24cde-a45e-47a5-82e2-b6ca531095e5",
+  "object": "beer",
+  "name": "Are Wheat There Yet?",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

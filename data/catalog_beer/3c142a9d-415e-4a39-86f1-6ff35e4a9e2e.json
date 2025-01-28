@@ -1,0 +1,11 @@
+{
+  "id": "3c142a9d-415e-4a39-86f1-6ff35e4a9e2e",
+  "object": "beer",
+  "name": "Shambolic",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

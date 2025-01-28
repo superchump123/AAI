@@ -1,0 +1,11 @@
+{
+  "id": "31e6ab6c-29af-4ef9-9d20-ff35565dc492",
+  "object": "beer",
+  "name": "Wild Night",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

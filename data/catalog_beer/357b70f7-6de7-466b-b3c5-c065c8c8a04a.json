@@ -1,0 +1,11 @@
+{
+  "id": "357b70f7-6de7-466b-b3c5-c065c8c8a04a",
+  "object": "beer",
+  "name": "Mango Berlinerweiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

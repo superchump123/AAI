@@ -1,0 +1,11 @@
+{
+  "id": "16e1af06-46ed-4789-bc4c-815ce1404360",
+  "object": "beer",
+  "name": "Two",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

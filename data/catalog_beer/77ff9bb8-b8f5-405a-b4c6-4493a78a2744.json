@@ -1,0 +1,11 @@
+{
+  "id": "77ff9bb8-b8f5-405a-b4c6-4493a78a2744",
+  "object": "beer",
+  "name": "Portage Bay Pilsener",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

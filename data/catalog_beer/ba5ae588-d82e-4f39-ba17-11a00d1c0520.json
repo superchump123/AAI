@@ -1,0 +1,11 @@
+{
+  "id": "ba5ae588-d82e-4f39-ba17-11a00d1c0520",
+  "object": "beer",
+  "name": "Beam Me Up Stouty",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

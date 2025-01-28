@@ -1,0 +1,11 @@
+{
+  "id": "922bd58d-47ac-4fbf-93d2-0fb6c606f2c7",
+  "object": "beer",
+  "name": "Liquid Confidential",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 12.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

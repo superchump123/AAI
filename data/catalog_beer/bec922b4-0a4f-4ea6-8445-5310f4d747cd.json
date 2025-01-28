@@ -1,0 +1,11 @@
+{
+  "id": "bec922b4-0a4f-4ea6-8445-5310f4d747cd",
+  "object": "beer",
+  "name": "Un Natural Thirst",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

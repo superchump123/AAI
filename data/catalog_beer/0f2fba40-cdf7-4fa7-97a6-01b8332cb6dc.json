@@ -1,0 +1,11 @@
+{
+  "id": "0f2fba40-cdf7-4fa7-97a6-01b8332cb6dc",
+  "object": "beer",
+  "name": "ThaIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8f5cad1f-7a67-449f-ab0d-ec2ca324536c",
+  "object": "beer",
+  "name": "Chetco Logger",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

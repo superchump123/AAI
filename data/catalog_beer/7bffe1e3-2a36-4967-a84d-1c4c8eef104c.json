@@ -1,0 +1,11 @@
+{
+  "id": "7bffe1e3-2a36-4967-a84d-1c4c8eef104c",
+  "object": "beer",
+  "name": "Kingfisher Premium Lager Beer",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "361ba632-7469-4e6e-8dc0-7ba84408be85",
+  "object": "beer",
+  "name": "Perseus Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

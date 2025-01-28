@@ -1,0 +1,11 @@
+{
+  "id": "343384de-a718-421b-b364-e67a9363f185",
+  "object": "beer",
+  "name": "Lavender Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

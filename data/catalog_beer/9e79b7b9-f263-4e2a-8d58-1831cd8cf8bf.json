@@ -1,0 +1,11 @@
+{
+  "id": "9e79b7b9-f263-4e2a-8d58-1831cd8cf8bf",
+  "object": "beer",
+  "name": "Belma Goes Belgian",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

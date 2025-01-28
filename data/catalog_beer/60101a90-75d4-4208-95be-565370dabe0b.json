@@ -1,0 +1,11 @@
+{
+  "id": "60101a90-75d4-4208-95be-565370dabe0b",
+  "object": "beer",
+  "name": "Thai Style White IPA",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

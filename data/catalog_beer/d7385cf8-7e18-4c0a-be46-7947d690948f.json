@@ -1,0 +1,11 @@
+{
+  "id": "d7385cf8-7e18-4c0a-be46-7947d690948f",
+  "object": "beer",
+  "name": "Grey Beard",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

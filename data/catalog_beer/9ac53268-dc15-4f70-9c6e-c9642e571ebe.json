@@ -1,0 +1,11 @@
+{
+  "id": "9ac53268-dc15-4f70-9c6e-c9642e571ebe",
+  "object": "beer",
+  "name": "Hop Test 527",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

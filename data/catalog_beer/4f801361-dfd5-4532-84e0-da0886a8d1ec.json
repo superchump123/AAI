@@ -1,0 +1,11 @@
+{
+  "id": "4f801361-dfd5-4532-84e0-da0886a8d1ec",
+  "object": "beer",
+  "name": "Free Beer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

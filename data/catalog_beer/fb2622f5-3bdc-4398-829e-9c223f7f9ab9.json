@@ -1,0 +1,11 @@
+{
+  "id": "fb2622f5-3bdc-4398-829e-9c223f7f9ab9",
+  "object": "beer",
+  "name": "Cantillon Mamouche",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

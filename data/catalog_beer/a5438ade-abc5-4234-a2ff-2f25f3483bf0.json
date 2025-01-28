@@ -1,0 +1,11 @@
+{
+  "id": "a5438ade-abc5-4234-a2ff-2f25f3483bf0",
+  "object": "beer",
+  "name": "Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

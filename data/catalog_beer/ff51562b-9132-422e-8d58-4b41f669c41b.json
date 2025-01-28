@@ -1,0 +1,11 @@
+{
+  "id": "ff51562b-9132-422e-8d58-4b41f669c41b",
+  "object": "beer",
+  "name": "Knight's Vienna Lager",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

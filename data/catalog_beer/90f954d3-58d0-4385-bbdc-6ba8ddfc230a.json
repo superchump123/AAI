@@ -1,0 +1,11 @@
+{
+  "id": "90f954d3-58d0-4385-bbdc-6ba8ddfc230a",
+  "object": "beer",
+  "name": "Hodad",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

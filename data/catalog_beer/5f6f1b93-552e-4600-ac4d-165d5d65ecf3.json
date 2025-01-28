@@ -1,0 +1,11 @@
+{
+  "id": "5f6f1b93-552e-4600-ac4d-165d5d65ecf3",
+  "object": "beer",
+  "name": "Dead Souls Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ced15eb5-4371-4e26-8d0f-0c5f5e02f261",
+  "object": "beer",
+  "name": "Crosscut Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

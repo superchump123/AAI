@@ -1,0 +1,11 @@
+{
+  "id": "e82a6a0f-dd68-471e-99a3-432f44b83d07",
+  "object": "beer",
+  "name": "Bittings Best Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

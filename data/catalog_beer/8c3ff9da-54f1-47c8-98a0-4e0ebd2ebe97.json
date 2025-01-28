@@ -1,0 +1,11 @@
+{
+  "id": "8c3ff9da-54f1-47c8-98a0-4e0ebd2ebe97",
+  "object": "beer",
+  "name": "Breda Royal Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cb8e03c1-1d4f-4018-b7c9-b6734d4941ea",
+  "object": "beer",
+  "name": "Czech Your Privilege",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

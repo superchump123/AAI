@@ -1,0 +1,11 @@
+{
+  "id": "71f8df31-c38b-42ce-8de9-aab67a839372",
+  "object": "beer",
+  "name": "Bolina Blond Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

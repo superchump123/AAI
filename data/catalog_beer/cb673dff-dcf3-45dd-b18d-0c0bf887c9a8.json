@@ -1,0 +1,11 @@
+{
+  "id": "cb673dff-dcf3-45dd-b18d-0c0bf887c9a8",
+  "object": "beer",
+  "name": "Heathenweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

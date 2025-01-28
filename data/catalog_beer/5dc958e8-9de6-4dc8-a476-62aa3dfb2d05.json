@@ -1,0 +1,11 @@
+{
+  "id": "5dc958e8-9de6-4dc8-a476-62aa3dfb2d05",
+  "object": "beer",
+  "name": "Red Rover",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "040b5ce4-53d2-43fa-8ad8-ab756da4b4b6",
+  "object": "beer",
+  "name": "A Nu Start",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

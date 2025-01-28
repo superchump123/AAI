@@ -1,0 +1,11 @@
+{
+  "id": "5103f165-d5c9-464c-ad2f-0c33b7e3b864",
+  "object": "beer",
+  "name": "Brauhaus Vienna",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

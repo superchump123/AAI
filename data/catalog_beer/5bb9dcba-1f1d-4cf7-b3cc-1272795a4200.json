@@ -1,0 +1,11 @@
+{
+  "id": "5bb9dcba-1f1d-4cf7-b3cc-1272795a4200",
+  "object": "beer",
+  "name": "Cyser",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

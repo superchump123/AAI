@@ -1,0 +1,11 @@
+{
+  "id": "06b12084-6687-441e-abc9-3fe98a24f774",
+  "object": "beer",
+  "name": "Anniversary Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

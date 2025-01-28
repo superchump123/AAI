@@ -1,0 +1,11 @@
+{
+  "id": "ca7a0dfb-f594-4bfa-8e86-2cf3a753a314",
+  "object": "beer",
+  "name": "Chili Pepper Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

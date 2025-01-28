@@ -1,0 +1,11 @@
+{
+  "id": "d364fd6f-b2df-4be4-96d8-e78715625f60",
+  "object": "beer",
+  "name": "Wee Willy",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

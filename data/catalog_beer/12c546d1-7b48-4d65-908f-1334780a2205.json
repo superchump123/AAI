@@ -1,0 +1,11 @@
+{
+  "id": "12c546d1-7b48-4d65-908f-1334780a2205",
+  "object": "beer",
+  "name": "Emotional Rescue",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

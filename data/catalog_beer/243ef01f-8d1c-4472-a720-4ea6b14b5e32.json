@@ -1,0 +1,11 @@
+{
+  "id": "243ef01f-8d1c-4472-a720-4ea6b14b5e32",
+  "object": "beer",
+  "name": "Sabbatical Session Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d1732c1-93b5-4094-801f-6c1ae01efcd4",
+  "object": "beer",
+  "name": "Jucundus",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

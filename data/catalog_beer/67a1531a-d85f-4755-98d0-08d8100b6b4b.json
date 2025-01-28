@@ -1,0 +1,11 @@
+{
+  "id": "67a1531a-d85f-4755-98d0-08d8100b6b4b",
+  "object": "beer",
+  "name": "The Waker",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

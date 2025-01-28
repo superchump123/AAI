@@ -1,0 +1,11 @@
+{
+  "id": "6586004c-87a9-4c8f-b3be-603939a96346",
+  "object": "beer",
+  "name": "Spartan DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

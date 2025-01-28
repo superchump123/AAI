@@ -1,0 +1,11 @@
+{
+  "id": "0bc5a0c7-c380-44e8-a392-4542d79a00e5",
+  "object": "beer",
+  "name": "Afternoon Tea",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

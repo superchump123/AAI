@@ -1,0 +1,11 @@
+{
+  "id": "c6cd6a54-33b9-4a04-aa7d-26d729eecd2d",
+  "object": "beer",
+  "name": "Mamie",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

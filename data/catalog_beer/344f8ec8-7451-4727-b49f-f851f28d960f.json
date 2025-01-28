@@ -1,0 +1,11 @@
+{
+  "id": "344f8ec8-7451-4727-b49f-f851f28d960f",
+  "object": "beer",
+  "name": "Coganut Porter",
+  "style": "Field Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

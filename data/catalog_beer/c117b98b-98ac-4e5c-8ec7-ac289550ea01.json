@@ -1,0 +1,11 @@
+{
+  "id": "c117b98b-98ac-4e5c-8ec7-ac289550ea01",
+  "object": "beer",
+  "name": "Apfelwein Pur",
+  "style": "Apple Wine",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ae12756a-21c4-4a01-85dd-ef1d75fbcfcc",
+  "object": "beer",
+  "name": "Big Pappa",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

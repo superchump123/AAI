@@ -1,0 +1,11 @@
+{
+  "id": "6dbdd0dd-ae96-4100-982f-c8fb94ac4336",
+  "object": "beer",
+  "name": "Badass",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

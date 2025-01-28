@@ -1,0 +1,11 @@
+{
+  "id": "0e091a8f-553f-484d-b3de-ec25c6dc5261",
+  "object": "beer",
+  "name": "Insidious",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

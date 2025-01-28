@@ -1,0 +1,11 @@
+{
+  "id": "577b2d78-772c-486a-bc5c-cc0c6c2c8420",
+  "object": "beer",
+  "name": "Swinging Harry",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

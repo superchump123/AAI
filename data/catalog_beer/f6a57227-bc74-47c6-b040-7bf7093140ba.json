@@ -1,0 +1,11 @@
+{
+  "id": "f6a57227-bc74-47c6-b040-7bf7093140ba",
+  "object": "beer",
+  "name": "Gossip",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

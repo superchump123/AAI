@@ -1,0 +1,11 @@
+{
+  "id": "c7c0ae3c-dec5-471e-8d32-d68f4b6c9dde",
+  "object": "beer",
+  "name": "District 10 Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

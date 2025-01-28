@@ -1,0 +1,11 @@
+{
+  "id": "11742175-68f1-4b07-b4a2-fff3d7d3e139",
+  "object": "beer",
+  "name": "Gingerbread",
+  "style": "Brown Ale",
+  "description": "Our spiced brown ale just in time for the holidays! A unique brew from the mind of Brewer Jon, this sweet, spicy, earthy delicious beer is here to help you enjoy the family and hearth.",
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": true,
+  "last_modified": 1511569316
+}

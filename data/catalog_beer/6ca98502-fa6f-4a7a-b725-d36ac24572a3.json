@@ -1,0 +1,11 @@
+{
+  "id": "6ca98502-fa6f-4a7a-b725-d36ac24572a3",
+  "object": "beer",
+  "name": "Lashes",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

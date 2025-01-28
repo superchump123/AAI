@@ -1,0 +1,11 @@
+{
+  "id": "cc8bf38e-d0ae-42d2-839e-fdb37ad844c8",
+  "object": "beer",
+  "name": "Barrique Black Ale",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

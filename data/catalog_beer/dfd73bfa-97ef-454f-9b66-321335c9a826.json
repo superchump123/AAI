@@ -1,0 +1,11 @@
+{
+  "id": "dfd73bfa-97ef-454f-9b66-321335c9a826",
+  "object": "beer",
+  "name": "Coastal Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

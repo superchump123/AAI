@@ -1,0 +1,11 @@
+{
+  "id": "b5b19f65-925b-45b8-9f36-2504a548473a",
+  "object": "beer",
+  "name": "Derailleur",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

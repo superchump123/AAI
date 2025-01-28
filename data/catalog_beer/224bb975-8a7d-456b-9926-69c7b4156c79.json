@@ -1,0 +1,11 @@
+{
+  "id": "224bb975-8a7d-456b-9926-69c7b4156c79",
+  "object": "beer",
+  "name": "Kuehl Kuyt",
+  "style": "Dutch-Style Kuit, Kuyt or Koyt",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

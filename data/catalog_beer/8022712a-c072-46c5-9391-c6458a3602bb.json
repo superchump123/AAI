@@ -1,0 +1,11 @@
+{
+  "id": "8022712a-c072-46c5-9391-c6458a3602bb",
+  "object": "beer",
+  "name": "Twin Slugger",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

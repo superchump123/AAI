@@ -1,0 +1,11 @@
+{
+  "id": "99d5d618-9d38-49ff-a3b5-6354ce9c3dbe",
+  "object": "beer",
+  "name": "Bad Kitty",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

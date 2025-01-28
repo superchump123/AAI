@@ -1,0 +1,11 @@
+{
+  "id": "d211b4de-1dc2-42db-b325-b54ebdfc263b",
+  "object": "beer",
+  "name": "Hard Rock Rye",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

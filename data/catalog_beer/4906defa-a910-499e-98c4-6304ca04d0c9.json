@@ -1,0 +1,11 @@
+{
+  "id": "4906defa-a910-499e-98c4-6304ca04d0c9",
+  "object": "beer",
+  "name": "Barn Yeti Winter Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

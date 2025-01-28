@@ -1,0 +1,11 @@
+{
+  "id": "e01c37dd-741b-4e1e-987e-92a51384bb4f",
+  "object": "beer",
+  "name": "Monterey",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

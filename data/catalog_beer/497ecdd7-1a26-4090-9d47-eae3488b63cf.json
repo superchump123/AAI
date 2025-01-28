@@ -1,0 +1,11 @@
+{
+  "id": "497ecdd7-1a26-4090-9d47-eae3488b63cf",
+  "object": "beer",
+  "name": "White Electric Coffee Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

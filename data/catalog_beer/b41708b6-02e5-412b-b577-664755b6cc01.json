@@ -1,0 +1,11 @@
+{
+  "id": "b41708b6-02e5-412b-b577-664755b6cc01",
+  "object": "beer",
+  "name": "Steel Bridge",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

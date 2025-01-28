@@ -1,0 +1,11 @@
+{
+  "id": "f6f91198-fa3c-4f71-a162-8d3f530f5f2d",
+  "object": "beer",
+  "name": "Chemistry",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

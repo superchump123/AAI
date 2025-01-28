@@ -1,0 +1,11 @@
+{
+  "id": "1330b3e7-a99f-49ba-8c60-8671f1ec261c",
+  "object": "beer",
+  "name": "Up River",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

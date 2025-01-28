@@ -1,0 +1,11 @@
+{
+  "id": "374ff657-7e6e-47a9-805e-fb8f2851d2f3",
+  "object": "beer",
+  "name": "Brown Bess",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

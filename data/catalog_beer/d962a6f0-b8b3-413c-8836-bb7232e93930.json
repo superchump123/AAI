@@ -1,0 +1,11 @@
+{
+  "id": "d962a6f0-b8b3-413c-8836-bb7232e93930",
+  "object": "beer",
+  "name": "WET-HOPPED PALE ALE",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

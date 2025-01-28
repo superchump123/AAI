@@ -1,0 +1,11 @@
+{
+  "id": "5cb76c41-24f6-4850-ac3e-19f099ab7a7a",
+  "object": "beer",
+  "name": "Three Bears",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 13,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

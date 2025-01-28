@@ -1,0 +1,11 @@
+{
+  "id": "571e5aab-192b-40e8-b825-a8432db5e36d",
+  "object": "beer",
+  "name": "Technique DPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

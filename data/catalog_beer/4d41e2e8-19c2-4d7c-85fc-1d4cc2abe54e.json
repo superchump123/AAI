@@ -1,0 +1,11 @@
+{
+  "id": "4d41e2e8-19c2-4d7c-85fc-1d4cc2abe54e",
+  "object": "beer",
+  "name": "(Jean Claude) Van Damme Good",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de359f37-1b02-4744-95d2-e283629d761f",
+  "object": "beer",
+  "name": "Space Toad IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

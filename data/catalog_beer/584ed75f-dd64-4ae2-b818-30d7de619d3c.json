@@ -1,0 +1,11 @@
+{
+  "id": "584ed75f-dd64-4ae2-b818-30d7de619d3c",
+  "object": "beer",
+  "name": "Nighty Night Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5d1c5b69-6f16-426f-8bb9-b4bdb75792db",
+  "object": "beer",
+  "name": "Pro-Am Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

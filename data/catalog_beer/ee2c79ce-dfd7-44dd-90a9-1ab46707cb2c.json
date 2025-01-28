@@ -1,0 +1,11 @@
+{
+  "id": "ee2c79ce-dfd7-44dd-90a9-1ab46707cb2c",
+  "object": "beer",
+  "name": "Ginger Kiss",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

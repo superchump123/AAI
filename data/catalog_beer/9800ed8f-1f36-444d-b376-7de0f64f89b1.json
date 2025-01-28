@@ -1,0 +1,11 @@
+{
+  "id": "9800ed8f-1f36-444d-b376-7de0f64f89b1",
+  "object": "beer",
+  "name": "Rauch Marzen",
+  "style": "Bamberg-Style Bock Rauchbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

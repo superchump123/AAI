@@ -1,0 +1,11 @@
+{
+  "id": "3d24e83e-a11a-4679-a384-6272d1352add",
+  "object": "beer",
+  "name": "Salt & Pepper Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

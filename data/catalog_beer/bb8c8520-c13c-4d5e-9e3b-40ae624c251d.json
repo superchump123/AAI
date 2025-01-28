@@ -1,0 +1,11 @@
+{
+  "id": "bb8c8520-c13c-4d5e-9e3b-40ae624c251d",
+  "object": "beer",
+  "name": "Spanish Trampoline",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

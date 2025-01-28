@@ -1,0 +1,11 @@
+{
+  "id": "a1fd84d9-e0c2-4adc-9f76-a52324e58d87",
+  "object": "beer",
+  "name": "Sixth Floor",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

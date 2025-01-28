@@ -1,0 +1,11 @@
+{
+  "id": "43692d83-33f4-4dad-adb2-96217557570d",
+  "object": "beer",
+  "name": "Anchor Strong Beer",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

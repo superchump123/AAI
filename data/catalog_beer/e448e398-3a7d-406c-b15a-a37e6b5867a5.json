@@ -1,0 +1,11 @@
+{
+  "id": "e448e398-3a7d-406c-b15a-a37e6b5867a5",
+  "object": "beer",
+  "name": "1834 Corktown Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

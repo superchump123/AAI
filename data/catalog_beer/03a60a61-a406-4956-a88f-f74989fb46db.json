@@ -1,0 +1,11 @@
+{
+  "id": "03a60a61-a406-4956-a88f-f74989fb46db",
+  "object": "beer",
+  "name": "Farm Hand",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

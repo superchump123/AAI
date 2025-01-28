@@ -1,0 +1,11 @@
+{
+  "id": "e299e7c3-a0fc-4a00-8eba-99c14776e94d",
+  "object": "beer",
+  "name": "HOSS",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

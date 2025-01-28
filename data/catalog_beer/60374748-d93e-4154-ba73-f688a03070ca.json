@@ -1,0 +1,11 @@
+{
+  "id": "60374748-d93e-4154-ba73-f688a03070ca",
+  "object": "beer",
+  "name": "Stone Dry",
+  "style": "English Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

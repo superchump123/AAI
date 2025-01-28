@@ -1,0 +1,11 @@
+{
+  "id": "cc188c45-56ca-4b8e-abec-45fc6ac3f544",
+  "object": "beer",
+  "name": "Highland Games Scottish Ale",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

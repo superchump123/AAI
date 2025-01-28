@@ -1,0 +1,11 @@
+{
+  "id": "48db3e62-69d9-426e-bc79-3698ea23baed",
+  "object": "beer",
+  "name": "Mr. Chesterfield's Warmer",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

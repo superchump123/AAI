@@ -1,0 +1,11 @@
+{
+  "id": "3f8f11e3-9df6-4f19-90b9-2d3b27efd6ab",
+  "object": "beer",
+  "name": "Sassy Lassie",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

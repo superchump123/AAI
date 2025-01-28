@@ -1,0 +1,11 @@
+{
+  "id": "c07a13bc-f715-4ee5-a028-19107723fe00",
+  "object": "beer",
+  "name": "Hop Phanatic",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

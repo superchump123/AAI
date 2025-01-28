@@ -1,0 +1,11 @@
+{
+  "id": "0ec475ec-78c6-4500-95e8-318b285e3411",
+  "object": "beer",
+  "name": "Rye Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

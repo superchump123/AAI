@@ -1,0 +1,11 @@
+{
+  "id": "24e3f5f0-52b5-4ed2-a46c-138ba50f250e",
+  "object": "beer",
+  "name": "Bodega American Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 79,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

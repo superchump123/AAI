@@ -1,0 +1,11 @@
+{
+  "id": "62097f31-7d69-4608-a1b6-0dc03e955300",
+  "object": "beer",
+  "name": "Cerveza Roja",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

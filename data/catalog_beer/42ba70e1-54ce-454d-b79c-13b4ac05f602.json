@@ -1,0 +1,11 @@
+{
+  "id": "42ba70e1-54ce-454d-b79c-13b4ac05f602",
+  "object": "beer",
+  "name": "Apex",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

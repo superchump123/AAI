@@ -1,0 +1,11 @@
+{
+  "id": "2b3f7ca7-733a-4dc6-98f9-d4c2956354a5",
+  "object": "beer",
+  "name": "Watermelon Dorado",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d0a9f6a6-0981-4d65-91b0-767e0bdbbbe5",
+  "object": "beer",
+  "name": "Hop Commander",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

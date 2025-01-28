@@ -1,0 +1,11 @@
+{
+  "id": "8af53637-d749-4857-8605-5bb4c03bc29c",
+  "object": "beer",
+  "name": "Local D.O.P.A.",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

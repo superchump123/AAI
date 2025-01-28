@@ -1,0 +1,11 @@
+{
+  "id": "587286e6-414d-4736-bcde-be06de9ec125",
+  "object": "beer",
+  "name": "Jolly Russian",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

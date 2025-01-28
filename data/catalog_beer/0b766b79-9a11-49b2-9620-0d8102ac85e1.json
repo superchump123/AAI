@@ -1,0 +1,11 @@
+{
+  "id": "0b766b79-9a11-49b2-9620-0d8102ac85e1",
+  "object": "beer",
+  "name": "Driven Snow",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

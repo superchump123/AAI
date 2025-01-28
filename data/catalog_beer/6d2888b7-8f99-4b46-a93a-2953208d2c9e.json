@@ -1,0 +1,11 @@
+{
+  "id": "6d2888b7-8f99-4b46-a93a-2953208d2c9e",
+  "object": "beer",
+  "name": "Freezer Burn",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

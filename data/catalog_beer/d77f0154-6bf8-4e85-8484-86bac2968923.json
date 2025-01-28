@@ -1,0 +1,11 @@
+{
+  "id": "d77f0154-6bf8-4e85-8484-86bac2968923",
+  "object": "beer",
+  "name": "Sour Porter",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7ecd4382-d90b-467a-b059-5eaea4da3e42",
+  "object": "beer",
+  "name": "Tropical Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

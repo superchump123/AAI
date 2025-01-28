@@ -1,0 +1,11 @@
+{
+  "id": "58bdd18a-b558-4390-bd15-4b45d46489bd",
+  "object": "beer",
+  "name": "Warrior",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

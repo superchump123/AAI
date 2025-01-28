@@ -1,0 +1,11 @@
+{
+  "id": "94b37401-bf2c-4021-9a05-f976cbee81ab",
+  "object": "beer",
+  "name": "Flying Tigersault",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

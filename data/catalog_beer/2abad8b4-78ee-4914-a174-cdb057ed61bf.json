@@ -1,0 +1,11 @@
+{
+  "id": "2abad8b4-78ee-4914-a174-cdb057ed61bf",
+  "object": "beer",
+  "name": "Tricycle Grapefruit Radler",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

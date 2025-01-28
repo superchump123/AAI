@@ -1,0 +1,11 @@
+{
+  "id": "83654e29-5ebe-469f-97b4-b608e64d0df5",
+  "object": "beer",
+  "name": "Supa Hero",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

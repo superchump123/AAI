@@ -1,0 +1,11 @@
+{
+  "id": "2434eb47-caf8-45fb-8264-ac3f0119c6cf",
+  "object": "beer",
+  "name": "Planktonic",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

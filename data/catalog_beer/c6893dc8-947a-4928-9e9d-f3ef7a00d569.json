@@ -1,0 +1,11 @@
+{
+  "id": "c6893dc8-947a-4928-9e9d-f3ef7a00d569",
+  "object": "beer",
+  "name": "Gravedigger Billy",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

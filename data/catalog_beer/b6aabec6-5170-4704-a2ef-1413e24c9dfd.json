@@ -1,0 +1,11 @@
+{
+  "id": "b6aabec6-5170-4704-a2ef-1413e24c9dfd",
+  "object": "beer",
+  "name": "Amarillo Mild",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

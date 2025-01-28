@@ -1,0 +1,11 @@
+{
+  "id": "6fe548af-4791-47eb-abfe-40f03815f13a",
+  "object": "beer",
+  "name": "Malka IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a0c9318-4c3a-4dfc-8acf-617b039a91b6",
+  "object": "beer",
+  "name": "Cream Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

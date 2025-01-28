@@ -1,0 +1,11 @@
+{
+  "id": "ae77ceac-f9af-43c2-8791-fcaac455b671",
+  "object": "beer",
+  "name": "Sangre Naranja",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

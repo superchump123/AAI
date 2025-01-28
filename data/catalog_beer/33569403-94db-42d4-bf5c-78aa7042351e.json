@@ -1,0 +1,11 @@
+{
+  "id": "33569403-94db-42d4-bf5c-78aa7042351e",
+  "object": "beer",
+  "name": "Paleooza",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

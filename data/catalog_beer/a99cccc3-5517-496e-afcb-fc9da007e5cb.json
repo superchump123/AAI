@@ -1,0 +1,11 @@
+{
+  "id": "a99cccc3-5517-496e-afcb-fc9da007e5cb",
+  "object": "beer",
+  "name": "Moonlight Drive",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

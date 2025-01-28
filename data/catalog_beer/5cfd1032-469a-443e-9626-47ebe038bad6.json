@@ -1,0 +1,11 @@
+{
+  "id": "5cfd1032-469a-443e-9626-47ebe038bad6",
+  "object": "beer",
+  "name": "Discovery Amber Ale",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

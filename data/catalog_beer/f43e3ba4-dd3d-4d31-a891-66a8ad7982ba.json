@@ -1,0 +1,11 @@
+{
+  "id": "f43e3ba4-dd3d-4d31-a891-66a8ad7982ba",
+  "object": "beer",
+  "name": "Carolina Winter Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ca4da131-7425-4919-a5a9-fd5fb3f17ab5",
+  "object": "beer",
+  "name": "Foraging Raccoon",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

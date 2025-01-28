@@ -1,0 +1,11 @@
+{
+  "id": "8c437cce-fe05-4309-9cd9-d1621d72dedd",
+  "object": "beer",
+  "name": "Funner",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

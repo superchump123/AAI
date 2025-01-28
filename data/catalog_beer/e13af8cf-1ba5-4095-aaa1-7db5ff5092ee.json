@@ -1,0 +1,11 @@
+{
+  "id": "e13af8cf-1ba5-4095-aaa1-7db5ff5092ee",
+  "object": "beer",
+  "name": "Spring Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

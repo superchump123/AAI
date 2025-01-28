@@ -1,0 +1,11 @@
+{
+  "id": "321448f3-021a-4b52-9fdb-e35de206cf2c",
+  "object": "beer",
+  "name": "EXXXtra Pale Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

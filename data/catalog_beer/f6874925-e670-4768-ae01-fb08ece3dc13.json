@@ -1,0 +1,11 @@
+{
+  "id": "f6874925-e670-4768-ae01-fb08ece3dc13",
+  "object": "beer",
+  "name": "Black 13",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

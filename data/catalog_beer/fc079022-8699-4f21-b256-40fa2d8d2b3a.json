@@ -1,0 +1,11 @@
+{
+  "id": "fc079022-8699-4f21-b256-40fa2d8d2b3a",
+  "object": "beer",
+  "name": "Mr. Weisse Guy",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "10e0c6e0-80e3-4e88-ab0c-0d979634d035",
+  "object": "beer",
+  "name": "The Order",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

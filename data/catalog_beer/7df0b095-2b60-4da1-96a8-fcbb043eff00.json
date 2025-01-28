@@ -1,0 +1,11 @@
+{
+  "id": "7df0b095-2b60-4da1-96a8-fcbb043eff00",
+  "object": "beer",
+  "name": "Knickerbocker Lager",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

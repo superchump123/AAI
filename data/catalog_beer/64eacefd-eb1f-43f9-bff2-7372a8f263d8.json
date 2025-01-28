@@ -1,0 +1,11 @@
+{
+  "id": "64eacefd-eb1f-43f9-bff2-7372a8f263d8",
+  "object": "beer",
+  "name": "Rockville Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2d8e7628-de2e-468c-aaf0-738f7ba5ace0",
+  "object": "beer",
+  "name": "Brown Cow",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

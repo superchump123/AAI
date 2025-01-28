@@ -1,0 +1,11 @@
+{
+  "id": "b7dfc952-a382-4ca4-b0ce-77f5b88d7397",
+  "object": "beer",
+  "name": "Porterluma",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

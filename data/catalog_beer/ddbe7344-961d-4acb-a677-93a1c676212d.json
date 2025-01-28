@@ -1,0 +1,11 @@
+{
+  "id": "ddbe7344-961d-4acb-a677-93a1c676212d",
+  "object": "beer",
+  "name": "Dark Ale",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

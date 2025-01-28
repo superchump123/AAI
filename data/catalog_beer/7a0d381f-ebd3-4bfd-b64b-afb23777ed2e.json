@@ -1,0 +1,11 @@
+{
+  "id": "7a0d381f-ebd3-4bfd-b64b-afb23777ed2e",
+  "object": "beer",
+  "name": "Hops Explosion IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

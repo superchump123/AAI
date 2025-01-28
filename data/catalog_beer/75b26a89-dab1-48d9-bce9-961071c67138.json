@@ -1,0 +1,11 @@
+{
+  "id": "75b26a89-dab1-48d9-bce9-961071c67138",
+  "object": "beer",
+  "name": "Pomona Queen",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

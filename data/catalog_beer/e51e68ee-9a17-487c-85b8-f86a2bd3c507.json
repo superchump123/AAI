@@ -1,0 +1,11 @@
+{
+  "id": "e51e68ee-9a17-487c-85b8-f86a2bd3c507",
+  "object": "beer",
+  "name": "Pumpkin IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

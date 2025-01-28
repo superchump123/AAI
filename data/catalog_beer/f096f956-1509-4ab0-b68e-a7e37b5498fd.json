@@ -1,0 +1,11 @@
+{
+  "id": "f096f956-1509-4ab0-b68e-a7e37b5498fd",
+  "object": "beer",
+  "name": "Stalking Horse",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

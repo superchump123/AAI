@@ -1,0 +1,11 @@
+{
+  "id": "e666d30a-9536-4347-93b0-2d876579d799",
+  "object": "beer",
+  "name": "Nooice",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

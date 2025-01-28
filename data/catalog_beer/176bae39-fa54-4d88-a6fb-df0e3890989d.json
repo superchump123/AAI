@@ -1,0 +1,11 @@
+{
+  "id": "176bae39-fa54-4d88-a6fb-df0e3890989d",
+  "object": "beer",
+  "name": "Peppercorn Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d5d0052b-1c67-412d-82ef-9ca54489c4f4",
+  "object": "beer",
+  "name": "Oopsproch Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

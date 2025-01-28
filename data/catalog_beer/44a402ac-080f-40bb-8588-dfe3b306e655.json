@@ -1,0 +1,11 @@
+{
+  "id": "44a402ac-080f-40bb-8588-dfe3b306e655",
+  "object": "beer",
+  "name": "1st Amendment Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

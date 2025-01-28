@@ -1,0 +1,11 @@
+{
+  "id": "edc0ae1f-8853-4fcc-8b1d-bda1680ed7ec",
+  "object": "beer",
+  "name": "Pink Peppercorn Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

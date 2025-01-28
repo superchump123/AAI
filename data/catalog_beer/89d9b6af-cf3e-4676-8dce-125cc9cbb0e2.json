@@ -1,0 +1,11 @@
+{
+  "id": "89d9b6af-cf3e-4676-8dce-125cc9cbb0e2",
+  "object": "beer",
+  "name": "Bunny Green Toe",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2c1cc887-09fd-46dd-ab50-a9c1d287f281",
+  "object": "beer",
+  "name": "Whiled Away IPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

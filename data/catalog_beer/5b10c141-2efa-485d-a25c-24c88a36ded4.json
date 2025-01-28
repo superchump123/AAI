@@ -1,0 +1,11 @@
+{
+  "id": "5b10c141-2efa-485d-a25c-24c88a36ded4",
+  "object": "beer",
+  "name": "Plum Gose",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fde8fcb0-9e52-44d2-b99b-2f2224cdf158",
+  "object": "beer",
+  "name": "Ruby Red IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4cb9cc09-5db7-457c-a5a0-dab5c1b7ba61",
+  "object": "beer",
+  "name": "Big Rapid Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

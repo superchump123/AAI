@@ -1,0 +1,11 @@
+{
+  "id": "85ed9d72-f03c-44e8-b89b-f7156977e9d5",
+  "object": "beer",
+  "name": "Lakeside Cerveza Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

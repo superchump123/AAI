@@ -1,0 +1,11 @@
+{
+  "id": "68a5e193-b2a2-4afc-9882-d9125bd483e2",
+  "object": "beer",
+  "name": "2Timer",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

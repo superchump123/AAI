@@ -1,0 +1,11 @@
+{
+  "id": "f2377bce-b3d8-40e8-a2b7-58579573174a",
+  "object": "beer",
+  "name": "Perry's Revenge, Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

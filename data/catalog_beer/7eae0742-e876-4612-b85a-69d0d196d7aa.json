@@ -1,0 +1,11 @@
+{
+  "id": "7eae0742-e876-4612-b85a-69d0d196d7aa",
+  "object": "beer",
+  "name": "Doolittle Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

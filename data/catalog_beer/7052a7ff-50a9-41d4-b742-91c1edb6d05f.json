@@ -1,0 +1,11 @@
+{
+  "id": "7052a7ff-50a9-41d4-b742-91c1edb6d05f",
+  "object": "beer",
+  "name": "Baltic Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

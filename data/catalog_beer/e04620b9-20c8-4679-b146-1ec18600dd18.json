@@ -1,0 +1,11 @@
+{
+  "id": "e04620b9-20c8-4679-b146-1ec18600dd18",
+  "object": "beer",
+  "name": "Derailed",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

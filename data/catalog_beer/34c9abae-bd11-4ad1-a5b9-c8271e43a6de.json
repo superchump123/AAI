@@ -1,0 +1,11 @@
+{
+  "id": "34c9abae-bd11-4ad1-a5b9-c8271e43a6de",
+  "object": "beer",
+  "name": "Conchtoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

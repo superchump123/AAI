@@ -1,0 +1,11 @@
+{
+  "id": "f58b5721-27aa-4eb7-90c7-74280c780643",
+  "object": "beer",
+  "name": "Wild Pontiff",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

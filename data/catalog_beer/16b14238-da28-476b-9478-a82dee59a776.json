@@ -1,0 +1,11 @@
+{
+  "id": "16b14238-da28-476b-9478-a82dee59a776",
+  "object": "beer",
+  "name": "Bearleener",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

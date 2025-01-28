@@ -1,0 +1,11 @@
+{
+  "id": "7f69acb4-7a01-466c-839c-3ae5acbaf1f4",
+  "object": "beer",
+  "name": "Whoopie Pie Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2873a48e-1672-4f51-a5bb-9cddd42ab8a3",
+  "object": "beer",
+  "name": "Alex's Mild",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

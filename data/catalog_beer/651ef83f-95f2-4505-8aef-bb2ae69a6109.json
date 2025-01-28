@@ -1,0 +1,11 @@
+{
+  "id": "651ef83f-95f2-4505-8aef-bb2ae69a6109",
+  "object": "beer",
+  "name": "Aztec",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "98254ea7-fbcf-49cc-bee8-c39c09ab6ac7",
+  "object": "beer",
+  "name": "Orange Bliss",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

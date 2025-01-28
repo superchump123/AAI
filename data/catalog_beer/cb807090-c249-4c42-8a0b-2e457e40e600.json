@@ -1,0 +1,11 @@
+{
+  "id": "cb807090-c249-4c42-8a0b-2e457e40e600",
+  "object": "beer",
+  "name": "Local Mocha",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

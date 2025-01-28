@@ -1,0 +1,11 @@
+{
+  "id": "31394ce4-ecde-469b-bfb3-a11eedf08fab",
+  "object": "beer",
+  "name": "Bee Tea",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa178c2f-955b-4321-a599-a961c4d977c4",
+  "object": "beer",
+  "name": "Long Form Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

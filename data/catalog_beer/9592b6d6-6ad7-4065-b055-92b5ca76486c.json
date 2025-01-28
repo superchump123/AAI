@@ -1,0 +1,11 @@
+{
+  "id": "9592b6d6-6ad7-4065-b055-92b5ca76486c",
+  "object": "beer",
+  "name": "12th Street Rye-It",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 77,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

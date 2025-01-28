@@ -1,0 +1,11 @@
+{
+  "id": "8e7c9636-11dd-4989-bd9e-2ac077c1c82a",
+  "object": "beer",
+  "name": "Scissortail",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

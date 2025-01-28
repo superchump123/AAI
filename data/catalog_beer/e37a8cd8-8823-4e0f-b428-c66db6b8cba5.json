@@ -1,0 +1,11 @@
+{
+  "id": "e37a8cd8-8823-4e0f-b428-c66db6b8cba5",
+  "object": "beer",
+  "name": "Four Sheets",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

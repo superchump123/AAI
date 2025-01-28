@@ -1,0 +1,11 @@
+{
+  "id": "ed5f0ae2-443f-4503-b9f4-9dcc8e9a9320",
+  "object": "beer",
+  "name": "PKL FKR (Pickle Berliner)",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

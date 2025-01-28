@@ -1,0 +1,11 @@
+{
+  "id": "d08b333d-0f14-40b8-bb24-1ca31c492cf9",
+  "object": "beer",
+  "name": "Cayuga Cruiser",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

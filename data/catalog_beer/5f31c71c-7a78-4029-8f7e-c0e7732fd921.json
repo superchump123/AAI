@@ -1,0 +1,11 @@
+{
+  "id": "5f31c71c-7a78-4029-8f7e-c0e7732fd921",
+  "object": "beer",
+  "name": "Blonde Moment",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "03c9e23d-e44f-491d-932d-dd422d30d8b2",
+  "object": "beer",
+  "name": "Beck's Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

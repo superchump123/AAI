@@ -1,0 +1,11 @@
+{
+  "id": "61efdd2a-1ee3-4fb4-91cd-088f4ea34690",
+  "object": "beer",
+  "name": "Black & Blue Grass",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

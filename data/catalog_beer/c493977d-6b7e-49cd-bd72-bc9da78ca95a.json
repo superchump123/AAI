@@ -1,0 +1,11 @@
+{
+  "id": "c493977d-6b7e-49cd-bd72-bc9da78ca95a",
+  "object": "beer",
+  "name": "Barrel-Aged Old Rasputin XIV",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

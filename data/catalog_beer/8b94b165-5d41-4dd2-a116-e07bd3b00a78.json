@@ -1,0 +1,11 @@
+{
+  "id": "8b94b165-5d41-4dd2-a116-e07bd3b00a78",
+  "object": "beer",
+  "name": "R. Prime",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "14a5cf6c-c1fb-49ae-9b92-51c875e59330",
+  "object": "beer",
+  "name": "Secret Valley",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8dab637b-4132-498f-b15e-578ceba5fd38",
+  "object": "beer",
+  "name": "Redwing",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

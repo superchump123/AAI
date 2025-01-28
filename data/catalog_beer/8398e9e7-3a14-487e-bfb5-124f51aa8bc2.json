@@ -1,0 +1,11 @@
+{
+  "id": "8398e9e7-3a14-487e-bfb5-124f51aa8bc2",
+  "object": "beer",
+  "name": "Chocwork Orange",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

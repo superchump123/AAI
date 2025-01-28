@@ -1,0 +1,11 @@
+{
+  "id": "06887e71-7f63-40e0-b522-fadb57e3113f",
+  "object": "beer",
+  "name": "Cannonball",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06bc55b0-551e-4feb-9300-f75157fd0f88",
+  "object": "beer",
+  "name": "Johnny's One Ton",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

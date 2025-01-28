@@ -1,0 +1,11 @@
+{
+  "id": "7f3df3c9-adfd-4193-89bb-bd110444363b",
+  "object": "beer",
+  "name": "New Wave Amber",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

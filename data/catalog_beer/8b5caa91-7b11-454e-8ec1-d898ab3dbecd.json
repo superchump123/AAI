@@ -1,0 +1,11 @@
+{
+  "id": "8b5caa91-7b11-454e-8ec1-d898ab3dbecd",
+  "object": "beer",
+  "name": "Ermal's",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

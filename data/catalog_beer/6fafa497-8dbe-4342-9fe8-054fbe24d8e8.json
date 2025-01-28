@@ -1,0 +1,11 @@
+{
+  "id": "6fafa497-8dbe-4342-9fe8-054fbe24d8e8",
+  "object": "beer",
+  "name": "Over The Top",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

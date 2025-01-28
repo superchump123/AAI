@@ -1,0 +1,11 @@
+{
+  "id": "a5b02b29-0d9d-41b3-b639-8a33693ced25",
+  "object": "beer",
+  "name": "Kristall Weisse",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

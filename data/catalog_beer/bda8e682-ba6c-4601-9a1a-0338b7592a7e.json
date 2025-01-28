@@ -1,0 +1,11 @@
+{
+  "id": "bda8e682-ba6c-4601-9a1a-0338b7592a7e",
+  "object": "beer",
+  "name": "Timmermans lambicus Blanche",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1453c6ea-0a55-4511-b9e4-52f3512dfe2b",
+  "object": "beer",
+  "name": "Revolver Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

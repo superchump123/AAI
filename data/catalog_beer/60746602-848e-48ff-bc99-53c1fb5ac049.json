@@ -1,0 +1,11 @@
+{
+  "id": "60746602-848e-48ff-bc99-53c1fb5ac049",
+  "object": "beer",
+  "name": "Dark Hollow",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

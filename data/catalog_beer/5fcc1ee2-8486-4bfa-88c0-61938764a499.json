@@ -1,0 +1,11 @@
+{
+  "id": "5fcc1ee2-8486-4bfa-88c0-61938764a499",
+  "object": "beer",
+  "name": "Citra Bridges",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

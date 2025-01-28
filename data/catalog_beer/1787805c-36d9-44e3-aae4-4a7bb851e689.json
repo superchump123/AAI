@@ -1,0 +1,11 @@
+{
+  "id": "1787805c-36d9-44e3-aae4-4a7bb851e689",
+  "object": "beer",
+  "name": "Tahoma Kriek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

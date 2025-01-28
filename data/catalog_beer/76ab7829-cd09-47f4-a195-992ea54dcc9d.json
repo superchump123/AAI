@@ -1,0 +1,11 @@
+{
+  "id": "76ab7829-cd09-47f4-a195-992ea54dcc9d",
+  "object": "beer",
+  "name": "Redor Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

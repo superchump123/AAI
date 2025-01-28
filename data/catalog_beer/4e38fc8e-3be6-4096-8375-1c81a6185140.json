@@ -1,0 +1,11 @@
+{
+  "id": "4e38fc8e-3be6-4096-8375-1c81a6185140",
+  "object": "beer",
+  "name": "Dry-Hopped Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

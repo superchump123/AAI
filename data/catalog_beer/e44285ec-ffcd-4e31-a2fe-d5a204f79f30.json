@@ -1,0 +1,11 @@
+{
+  "id": "e44285ec-ffcd-4e31-a2fe-d5a204f79f30",
+  "object": "beer",
+  "name": "Ragin' Bull",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

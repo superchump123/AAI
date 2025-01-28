@@ -1,0 +1,11 @@
+{
+  "id": "a0e89b23-c08e-4956-bb66-c386c6fed223",
+  "object": "beer",
+  "name": "High Fidelity",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

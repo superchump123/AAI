@@ -1,0 +1,11 @@
+{
+  "id": "27ecdd2c-c930-4372-b3fb-81bf6e89aa0a",
+  "object": "beer",
+  "name": "Mexican Cupcake",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

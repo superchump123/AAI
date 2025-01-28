@@ -1,0 +1,11 @@
+{
+  "id": "1b8f6c4a-4764-482d-b700-a93075ef6115",
+  "object": "beer",
+  "name": "Back Road Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

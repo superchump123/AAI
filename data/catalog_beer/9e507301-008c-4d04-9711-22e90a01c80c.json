@@ -1,0 +1,11 @@
+{
+  "id": "9e507301-008c-4d04-9711-22e90a01c80c",
+  "object": "beer",
+  "name": "LAKESIDE BLONDE",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

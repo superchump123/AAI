@@ -1,0 +1,11 @@
+{
+  "id": "03448fdd-aff8-450e-b324-d28eaf61d02d",
+  "object": "beer",
+  "name": "Watermelon Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

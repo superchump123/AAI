@@ -1,0 +1,11 @@
+{
+  "id": "9148e1e8-ad64-42d0-a0a1-7b9b00f01242",
+  "object": "beer",
+  "name": "Norderneyer Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

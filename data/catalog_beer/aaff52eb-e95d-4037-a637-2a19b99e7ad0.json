@@ -1,0 +1,11 @@
+{
+  "id": "aaff52eb-e95d-4037-a637-2a19b99e7ad0",
+  "object": "beer",
+  "name": "Cobaltic Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

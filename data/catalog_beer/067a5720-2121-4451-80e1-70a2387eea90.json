@@ -1,0 +1,11 @@
+{
+  "id": "067a5720-2121-4451-80e1-70a2387eea90",
+  "object": "beer",
+  "name": "Amarillo Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

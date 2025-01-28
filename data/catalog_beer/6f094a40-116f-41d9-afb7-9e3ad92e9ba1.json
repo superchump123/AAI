@@ -1,0 +1,11 @@
+{
+  "id": "6f094a40-116f-41d9-afb7-9e3ad92e9ba1",
+  "object": "beer",
+  "name": "KPA",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

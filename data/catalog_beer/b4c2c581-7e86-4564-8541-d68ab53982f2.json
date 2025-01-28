@@ -1,0 +1,11 @@
+{
+  "id": "b4c2c581-7e86-4564-8541-d68ab53982f2",
+  "object": "beer",
+  "name": "Torpor Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

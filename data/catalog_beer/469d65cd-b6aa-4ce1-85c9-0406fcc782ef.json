@@ -1,0 +1,11 @@
+{
+  "id": "469d65cd-b6aa-4ce1-85c9-0406fcc782ef",
+  "object": "beer",
+  "name": "Okocim Premium Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

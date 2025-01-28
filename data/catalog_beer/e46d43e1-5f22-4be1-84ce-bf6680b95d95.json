@@ -1,0 +1,11 @@
+{
+  "id": "e46d43e1-5f22-4be1-84ce-bf6680b95d95",
+  "object": "beer",
+  "name": "Bowerbird",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

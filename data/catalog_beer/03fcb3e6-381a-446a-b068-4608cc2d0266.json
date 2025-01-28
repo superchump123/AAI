@@ -1,0 +1,11 @@
+{
+  "id": "03fcb3e6-381a-446a-b068-4608cc2d0266",
+  "object": "beer",
+  "name": "Brick Row Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

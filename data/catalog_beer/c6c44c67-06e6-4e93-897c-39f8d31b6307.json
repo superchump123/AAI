@@ -1,0 +1,11 @@
+{
+  "id": "c6c44c67-06e6-4e93-897c-39f8d31b6307",
+  "object": "beer",
+  "name": "Fraser Vally IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

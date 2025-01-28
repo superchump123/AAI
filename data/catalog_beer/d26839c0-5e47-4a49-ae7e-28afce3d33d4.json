@@ -1,0 +1,11 @@
+{
+  "id": "d26839c0-5e47-4a49-ae7e-28afce3d33d4",
+  "object": "beer",
+  "name": "A Precarious Proposal Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

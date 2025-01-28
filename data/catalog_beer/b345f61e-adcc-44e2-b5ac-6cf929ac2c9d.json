@@ -1,0 +1,11 @@
+{
+  "id": "b345f61e-adcc-44e2-b5ac-6cf929ac2c9d",
+  "object": "beer",
+  "name": "Mercy",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

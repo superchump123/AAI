@@ -1,0 +1,11 @@
+{
+  "id": "b0d122e0-948a-4193-8463-7ef024e8710d",
+  "object": "beer",
+  "name": "Hamilton's 6th Anniversary",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

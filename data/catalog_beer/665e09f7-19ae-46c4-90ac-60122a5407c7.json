@@ -1,0 +1,11 @@
+{
+  "id": "665e09f7-19ae-46c4-90ac-60122a5407c7",
+  "object": "beer",
+  "name": "Good Call",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

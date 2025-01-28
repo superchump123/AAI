@@ -1,0 +1,11 @@
+{
+  "id": "07337d2c-7b8b-403d-8484-11304af9c6ec",
+  "object": "beer",
+  "name": "Pale Ale - Cask with Mango, Amarillo, and Citra",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

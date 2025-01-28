@@ -1,0 +1,11 @@
+{
+  "id": "16c1ab19-70e1-4084-8597-af15228e2a25",
+  "object": "beer",
+  "name": "Pound Town",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

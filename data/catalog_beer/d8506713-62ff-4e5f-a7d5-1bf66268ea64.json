@@ -1,0 +1,11 @@
+{
+  "id": "d8506713-62ff-4e5f-a7d5-1bf66268ea64",
+  "object": "beer",
+  "name": "Rude Jester",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

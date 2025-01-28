@@ -1,0 +1,11 @@
+{
+  "id": "b14b5ef0-9512-4a86-a30c-8ffa7a9d8376",
+  "object": "beer",
+  "name": "Black Walnut Belgian Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "be6c8a81-1fff-4258-af53-524f5e669264",
+  "object": "beer",
+  "name": "Nemesis",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

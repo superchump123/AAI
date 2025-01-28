@@ -1,0 +1,11 @@
+{
+  "id": "a2c4c7fc-5476-49ec-9ff8-d8b690aacfb6",
+  "object": "beer",
+  "name": "Scottish Ale 80/-",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

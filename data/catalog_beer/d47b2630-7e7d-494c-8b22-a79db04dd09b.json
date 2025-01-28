@@ -1,0 +1,11 @@
+{
+  "id": "d47b2630-7e7d-494c-8b22-a79db04dd09b",
+  "object": "beer",
+  "name": "Six Mile Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

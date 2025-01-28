@@ -1,0 +1,11 @@
+{
+  "id": "1176f6c0-2365-4599-ae72-f7d13783a3b6",
+  "object": "beer",
+  "name": "Table Beer",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

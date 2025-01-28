@@ -1,0 +1,11 @@
+{
+  "id": "c9be6384-0d26-4e6e-ad82-3e144c65ad08",
+  "object": "beer",
+  "name": "Wild Berries",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "47f338a2-ecf1-4ce0-bdaa-0d0eb13d5669",
+  "object": "beer",
+  "name": "Squanto",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

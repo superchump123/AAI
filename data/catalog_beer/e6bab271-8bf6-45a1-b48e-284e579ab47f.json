@@ -1,0 +1,11 @@
+{
+  "id": "e6bab271-8bf6-45a1-b48e-284e579ab47f",
+  "object": "beer",
+  "name": "Night Marcher",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

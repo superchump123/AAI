@@ -1,0 +1,11 @@
+{
+  "id": "a973d306-5923-4b95-b147-fb2e9b39d13c",
+  "object": "beer",
+  "name": "Imagine",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 15,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

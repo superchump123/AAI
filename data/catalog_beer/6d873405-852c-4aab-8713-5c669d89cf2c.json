@@ -1,0 +1,11 @@
+{
+  "id": "6d873405-852c-4aab-8713-5c669d89cf2c",
+  "object": "beer",
+  "name": "Demolition",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

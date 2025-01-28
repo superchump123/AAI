@@ -1,0 +1,11 @@
+{
+  "id": "41bf772e-df57-4f13-8092-850116aece9c",
+  "object": "beer",
+  "name": "Ace of Simcoe",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

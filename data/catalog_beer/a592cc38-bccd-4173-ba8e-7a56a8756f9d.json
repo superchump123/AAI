@@ -1,0 +1,11 @@
+{
+  "id": "a592cc38-bccd-4173-ba8e-7a56a8756f9d",
+  "object": "beer",
+  "name": "Spontane Wilde",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

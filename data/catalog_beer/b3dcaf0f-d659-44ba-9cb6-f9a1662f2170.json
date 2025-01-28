@@ -1,0 +1,11 @@
+{
+  "id": "b3dcaf0f-d659-44ba-9cb6-f9a1662f2170",
+  "object": "beer",
+  "name": "Beard of Paradise",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

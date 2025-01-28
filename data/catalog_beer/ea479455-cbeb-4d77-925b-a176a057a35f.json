@@ -1,0 +1,11 @@
+{
+  "id": "ea479455-cbeb-4d77-925b-a176a057a35f",
+  "object": "beer",
+  "name": "Ten Paces Huckleberry Wild Ale",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

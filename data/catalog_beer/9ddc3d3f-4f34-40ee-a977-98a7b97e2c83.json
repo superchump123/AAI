@@ -1,0 +1,11 @@
+{
+  "id": "9ddc3d3f-4f34-40ee-a977-98a7b97e2c83",
+  "object": "beer",
+  "name": "Woodchuck Hopped Apple",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

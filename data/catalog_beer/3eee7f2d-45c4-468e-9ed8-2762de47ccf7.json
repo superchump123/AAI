@@ -1,0 +1,11 @@
+{
+  "id": "3eee7f2d-45c4-468e-9ed8-2762de47ccf7",
+  "object": "beer",
+  "name": "Wild Thing",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

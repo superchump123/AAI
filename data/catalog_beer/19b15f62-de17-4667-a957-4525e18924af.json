@@ -1,0 +1,11 @@
+{
+  "id": "19b15f62-de17-4667-a957-4525e18924af",
+  "object": "beer",
+  "name": "El Modena Mild",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74e316e0-5d3c-4c9d-aa76-0fe8d3dd80ac",
+  "object": "beer",
+  "name": "Apollyon",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6e1d612f-1c7e-491c-91c9-b6b95ec26853",
+  "object": "beer",
+  "name": "Bayview Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

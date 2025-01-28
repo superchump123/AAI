@@ -1,0 +1,11 @@
+{
+  "id": "d6a01598-76e5-4b5c-a5b7-f2c2a644bf8a",
+  "object": "beer",
+  "name": "Crimson Halo",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

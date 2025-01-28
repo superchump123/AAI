@@ -1,0 +1,11 @@
+{
+  "id": "135d1d98-463c-4388-ac69-f842ef84f9ca",
+  "object": "beer",
+  "name": "Blindside",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

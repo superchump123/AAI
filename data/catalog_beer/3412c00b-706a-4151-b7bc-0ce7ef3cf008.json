@@ -1,0 +1,11 @@
+{
+  "id": "3412c00b-706a-4151-b7bc-0ce7ef3cf008",
+  "object": "beer",
+  "name": "Standard Issue IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

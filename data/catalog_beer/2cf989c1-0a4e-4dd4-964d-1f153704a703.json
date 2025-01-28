@@ -1,0 +1,11 @@
+{
+  "id": "2cf989c1-0a4e-4dd4-964d-1f153704a703",
+  "object": "beer",
+  "name": "Hopbrosia",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "964cf7ad-5a98-4b8d-bed3-4cc26eb2f3cb",
+  "object": "beer",
+  "name": "Gylden IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b8bd791-af3b-434f-b797-89ef8aac08a9",
+  "object": "beer",
+  "name": "Kirin Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

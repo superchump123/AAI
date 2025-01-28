@@ -1,0 +1,11 @@
+{
+  "id": "2044b63a-a1ff-4c14-8156-7627f0987fe3",
+  "object": "beer",
+  "name": "Cabot's Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

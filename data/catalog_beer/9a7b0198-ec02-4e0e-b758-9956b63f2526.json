@@ -1,0 +1,11 @@
+{
+  "id": "9a7b0198-ec02-4e0e-b758-9956b63f2526",
+  "object": "beer",
+  "name": "Mud Turtle",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

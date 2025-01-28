@@ -1,0 +1,11 @@
+{
+  "id": "8b48ef61-b877-46ab-b3dd-01abc74c60f7",
+  "object": "beer",
+  "name": "Franconia",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

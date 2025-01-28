@@ -1,0 +1,11 @@
+{
+  "id": "f316ea1e-2db8-45a9-a08d-afa2ae1aa597",
+  "object": "beer",
+  "name": "Huber Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

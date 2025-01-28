@@ -1,0 +1,11 @@
+{
+  "id": "a8bbe499-b340-4748-82cd-af408c58e54b",
+  "object": "beer",
+  "name": "Bluff",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

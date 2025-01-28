@@ -1,0 +1,11 @@
+{
+  "id": "9b0e19f3-0405-462d-baef-4eedd6bd08e5",
+  "object": "beer",
+  "name": "Stillwater",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

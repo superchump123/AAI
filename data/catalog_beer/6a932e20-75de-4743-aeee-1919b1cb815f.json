@@ -1,0 +1,11 @@
+{
+  "id": "6a932e20-75de-4743-aeee-1919b1cb815f",
+  "object": "beer",
+  "name": "Little Sister",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

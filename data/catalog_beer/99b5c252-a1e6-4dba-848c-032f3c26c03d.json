@@ -1,0 +1,11 @@
+{
+  "id": "99b5c252-a1e6-4dba-848c-032f3c26c03d",
+  "object": "beer",
+  "name": "A Hotter Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

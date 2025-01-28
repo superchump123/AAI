@@ -1,0 +1,11 @@
+{
+  "id": "1dc22cbd-3303-49b9-9eee-4c71c9f5bb7b",
+  "object": "beer",
+  "name": "Bestefar",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

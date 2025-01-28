@@ -1,0 +1,11 @@
+{
+  "id": "0f498861-3c66-4675-9af8-5c345d21af2b",
+  "object": "beer",
+  "name": "Quelque Chose",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

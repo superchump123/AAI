@@ -1,0 +1,11 @@
+{
+  "id": "dbe8e4f0-e77f-4c23-b28c-e913e5f65cc9",
+  "object": "beer",
+  "name": "Prairie Ghost",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

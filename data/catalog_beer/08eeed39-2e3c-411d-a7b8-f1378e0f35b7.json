@@ -1,0 +1,11 @@
+{
+  "id": "08eeed39-2e3c-411d-a7b8-f1378e0f35b7",
+  "object": "beer",
+  "name": "A Fistful of Unidragons",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 14,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

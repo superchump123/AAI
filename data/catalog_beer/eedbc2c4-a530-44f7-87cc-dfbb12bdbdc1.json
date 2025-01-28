@@ -1,0 +1,11 @@
+{
+  "id": "eedbc2c4-a530-44f7-87cc-dfbb12bdbdc1",
+  "object": "beer",
+  "name": "Suhds",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

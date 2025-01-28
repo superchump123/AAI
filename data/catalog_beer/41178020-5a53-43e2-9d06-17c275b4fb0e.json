@@ -1,0 +1,11 @@
+{
+  "id": "41178020-5a53-43e2-9d06-17c275b4fb0e",
+  "object": "beer",
+  "name": "Cremerick",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

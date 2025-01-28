@@ -1,0 +1,11 @@
+{
+  "id": "8c01fc03-d10d-469e-9d0e-395776a1961b",
+  "object": "beer",
+  "name": "Honeysuckle Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

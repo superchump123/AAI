@@ -1,0 +1,11 @@
+{
+  "id": "f3e3c5e5-24cb-426e-926f-70aeb7be1290",
+  "object": "beer",
+  "name": "Joe E. Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

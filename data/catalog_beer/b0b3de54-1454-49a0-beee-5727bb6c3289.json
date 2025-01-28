@@ -1,0 +1,11 @@
+{
+  "id": "b0b3de54-1454-49a0-beee-5727bb6c3289",
+  "object": "beer",
+  "name": "Far Out Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

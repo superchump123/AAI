@@ -1,0 +1,11 @@
+{
+  "id": "c110e93e-215d-4af8-8476-b95f7f2d85ff",
+  "object": "beer",
+  "name": "Road Trip",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

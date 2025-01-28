@@ -1,0 +1,11 @@
+{
+  "id": "b4e69285-532a-4964-a125-021fdfeb911a",
+  "object": "beer",
+  "name": "Peat's Dragon",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

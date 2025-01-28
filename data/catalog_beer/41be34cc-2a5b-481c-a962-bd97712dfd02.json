@@ -1,0 +1,11 @@
+{
+  "id": "41be34cc-2a5b-481c-a962-bd97712dfd02",
+  "object": "beer",
+  "name": "Elle",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1126aa23-5fa0-4f9f-9cd3-5b693d532f75",
+  "object": "beer",
+  "name": "Barrel Harbor Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

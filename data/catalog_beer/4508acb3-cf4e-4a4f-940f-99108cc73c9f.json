@@ -1,0 +1,11 @@
+{
+  "id": "4508acb3-cf4e-4a4f-940f-99108cc73c9f",
+  "object": "beer",
+  "name": "Handlebar Abbey",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

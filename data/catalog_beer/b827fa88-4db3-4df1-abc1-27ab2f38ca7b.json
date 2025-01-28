@@ -1,0 +1,11 @@
+{
+  "id": "b827fa88-4db3-4df1-abc1-27ab2f38ca7b",
+  "object": "beer",
+  "name": "Holy Pucker",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

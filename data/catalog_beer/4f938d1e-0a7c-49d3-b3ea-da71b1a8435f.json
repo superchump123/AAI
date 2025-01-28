@@ -1,0 +1,11 @@
+{
+  "id": "4f938d1e-0a7c-49d3-b3ea-da71b1a8435f",
+  "object": "beer",
+  "name": "Pitched Blue",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

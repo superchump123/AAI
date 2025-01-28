@@ -1,0 +1,11 @@
+{
+  "id": "11fd4185-2f69-40a9-a9c4-df84de813771",
+  "object": "beer",
+  "name": "Southern Tier IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

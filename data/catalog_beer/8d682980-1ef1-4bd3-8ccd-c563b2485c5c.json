@@ -1,0 +1,11 @@
+{
+  "id": "8d682980-1ef1-4bd3-8ccd-c563b2485c5c",
+  "object": "beer",
+  "name": "Snake Oil",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

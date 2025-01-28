@@ -1,0 +1,11 @@
+{
+  "id": "ff5a0afd-40bd-4ac5-9879-f947d154f568",
+  "object": "beer",
+  "name": "Grays Harbor Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

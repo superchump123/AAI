@@ -1,0 +1,11 @@
+{
+  "id": "8cdb4316-9e36-4c77-9690-b08951a61801",
+  "object": "beer",
+  "name": "100 Daze IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

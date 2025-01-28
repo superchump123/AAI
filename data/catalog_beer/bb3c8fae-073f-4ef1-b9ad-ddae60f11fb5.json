@@ -1,0 +1,11 @@
+{
+  "id": "bb3c8fae-073f-4ef1-b9ad-ddae60f11fb5",
+  "object": "beer",
+  "name": "Theophan The Recluse",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

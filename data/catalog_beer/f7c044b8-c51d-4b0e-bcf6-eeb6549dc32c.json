@@ -1,0 +1,11 @@
+{
+  "id": "f7c044b8-c51d-4b0e-bcf6-eeb6549dc32c",
+  "object": "beer",
+  "name": "Anchor Steam",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

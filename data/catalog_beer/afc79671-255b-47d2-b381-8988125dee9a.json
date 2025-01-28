@@ -1,0 +1,11 @@
+{
+  "id": "afc79671-255b-47d2-b381-8988125dee9a",
+  "object": "beer",
+  "name": "To The Bitter End",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

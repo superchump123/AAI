@@ -1,0 +1,11 @@
+{
+  "id": "b967b1bb-3ff5-470d-9980-5885e8f31fdc",
+  "object": "beer",
+  "name": "Maple Badger",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

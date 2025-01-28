@@ -1,0 +1,11 @@
+{
+  "id": "fe4ec260-ae66-4799-8f35-91acbb651d8b",
+  "object": "beer",
+  "name": "Faster Northwest Ale",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

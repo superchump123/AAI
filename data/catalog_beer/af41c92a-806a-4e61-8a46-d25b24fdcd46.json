@@ -1,0 +1,11 @@
+{
+  "id": "af41c92a-806a-4e61-8a46-d25b24fdcd46",
+  "object": "beer",
+  "name": "Brut Apple Cider",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1c5228fa-666e-46e1-93fe-4494e76a162c",
+  "object": "beer",
+  "name": "Holiday Spice",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

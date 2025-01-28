@@ -1,0 +1,11 @@
+{
+  "id": "9bebc367-d2bd-43de-8a47-7805d23cc412",
+  "object": "beer",
+  "name": "New Zealand Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

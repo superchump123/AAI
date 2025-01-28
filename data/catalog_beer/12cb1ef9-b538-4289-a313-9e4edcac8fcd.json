@@ -1,0 +1,11 @@
+{
+  "id": "12cb1ef9-b538-4289-a313-9e4edcac8fcd",
+  "object": "beer",
+  "name": "Starting Gate Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

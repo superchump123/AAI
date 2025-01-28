@@ -1,0 +1,11 @@
+{
+  "id": "5174c633-13ff-4173-a53d-adf50d5e61ea",
+  "object": "beer",
+  "name": "Classic City Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

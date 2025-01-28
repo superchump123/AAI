@@ -1,0 +1,11 @@
+{
+  "id": "57b7e43d-d217-400d-b2c6-90616deabbc3",
+  "object": "beer",
+  "name": "Mule Beer",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

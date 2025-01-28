@@ -1,0 +1,11 @@
+{
+  "id": "5f036d09-c70c-4af4-b9d7-70d1e1a21cb1",
+  "object": "beer",
+  "name": "Black Tide",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

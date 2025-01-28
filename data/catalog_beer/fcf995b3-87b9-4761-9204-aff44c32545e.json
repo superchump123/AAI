@@ -1,0 +1,11 @@
+{
+  "id": "fcf995b3-87b9-4761-9204-aff44c32545e",
+  "object": "beer",
+  "name": "Marylan",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

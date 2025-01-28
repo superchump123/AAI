@@ -1,0 +1,11 @@
+{
+  "id": "43a0cb58-73fa-47d0-8688-976d134162e3",
+  "object": "beer",
+  "name": "Dithmarscher Urtyp",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

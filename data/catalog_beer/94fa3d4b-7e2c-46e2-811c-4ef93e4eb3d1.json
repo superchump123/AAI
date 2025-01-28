@@ -1,0 +1,11 @@
+{
+  "id": "94fa3d4b-7e2c-46e2-811c-4ef93e4eb3d1",
+  "object": "beer",
+  "name": "Double Shovel IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "93fe97c4-b35f-4c0b-a719-d6f8595e1128",
+  "object": "beer",
+  "name": "Transition State Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

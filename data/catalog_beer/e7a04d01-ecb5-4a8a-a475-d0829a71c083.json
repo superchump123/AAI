@@ -1,0 +1,11 @@
+{
+  "id": "e7a04d01-ecb5-4a8a-a475-d0829a71c083",
+  "object": "beer",
+  "name": "The Gose Getter",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

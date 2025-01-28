@@ -1,0 +1,11 @@
+{
+  "id": "5c209cd4-e8b5-4e4a-91ae-4f2d1191ffb5",
+  "object": "beer",
+  "name": "Stargrazer",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3407f49a-ffec-4696-8803-1cbbbd194c43",
+  "object": "beer",
+  "name": "Amoskeag Harvest Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

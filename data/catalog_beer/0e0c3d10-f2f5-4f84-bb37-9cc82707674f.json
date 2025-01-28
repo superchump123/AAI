@@ -1,0 +1,11 @@
+{
+  "id": "0e0c3d10-f2f5-4f84-bb37-9cc82707674f",
+  "object": "beer",
+  "name": "Eden Quadrupel",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

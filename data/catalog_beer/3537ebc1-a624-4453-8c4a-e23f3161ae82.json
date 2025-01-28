@@ -1,0 +1,11 @@
+{
+  "id": "3537ebc1-a624-4453-8c4a-e23f3161ae82",
+  "object": "beer",
+  "name": "25dodici",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

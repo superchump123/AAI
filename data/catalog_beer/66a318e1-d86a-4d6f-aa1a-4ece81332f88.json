@@ -1,0 +1,11 @@
+{
+  "id": "66a318e1-d86a-4d6f-aa1a-4ece81332f88",
+  "object": "beer",
+  "name": "Adnams Spindrift",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

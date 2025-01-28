@@ -1,0 +1,11 @@
+{
+  "id": "b17c3746-7628-4a84-b003-57a27b423917",
+  "object": "beer",
+  "name": "Brother Clement",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

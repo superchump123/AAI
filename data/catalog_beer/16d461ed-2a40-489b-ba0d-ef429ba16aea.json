@@ -1,0 +1,11 @@
+{
+  "id": "16d461ed-2a40-489b-ba0d-ef429ba16aea",
+  "object": "beer",
+  "name": "Sumatra Coffee Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

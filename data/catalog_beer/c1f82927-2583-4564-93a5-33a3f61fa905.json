@@ -1,0 +1,11 @@
+{
+  "id": "c1f82927-2583-4564-93a5-33a3f61fa905",
+  "object": "beer",
+  "name": "Benedictum (Mysterium Verum)",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

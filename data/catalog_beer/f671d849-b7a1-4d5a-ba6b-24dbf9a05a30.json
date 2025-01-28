@@ -1,0 +1,11 @@
+{
+  "id": "f671d849-b7a1-4d5a-ba6b-24dbf9a05a30",
+  "object": "beer",
+  "name": "Americana Golden",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

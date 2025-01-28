@@ -1,0 +1,11 @@
+{
+  "id": "e012333a-b6ac-4869-8913-ef7fb9ad2788",
+  "object": "beer",
+  "name": "Pinstripe Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

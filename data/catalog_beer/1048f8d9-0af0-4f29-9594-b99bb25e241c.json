@@ -1,0 +1,11 @@
+{
+  "id": "1048f8d9-0af0-4f29-9594-b99bb25e241c",
+  "object": "beer",
+  "name": "Not My Job",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

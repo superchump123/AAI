@@ -1,0 +1,11 @@
+{
+  "id": "97da02b6-fe8b-4c07-94ef-4ee6a84ff8f0",
+  "object": "beer",
+  "name": "Rost",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

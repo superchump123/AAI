@@ -1,0 +1,11 @@
+{
+  "id": "5c44b7da-8bb5-4826-8276-5deff3f136c0",
+  "object": "beer",
+  "name": "Half Cycle IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 104,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

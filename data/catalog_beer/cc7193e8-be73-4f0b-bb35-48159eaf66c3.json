@@ -1,0 +1,11 @@
+{
+  "id": "cc7193e8-be73-4f0b-bb35-48159eaf66c3",
+  "object": "beer",
+  "name": "Ale 208",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

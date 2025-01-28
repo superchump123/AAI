@@ -1,0 +1,11 @@
+{
+  "id": "c606b4af-0e2c-424c-ab66-0f2f79fbf801",
+  "object": "beer",
+  "name": "Cape Cod Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

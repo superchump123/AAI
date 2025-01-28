@@ -1,0 +1,11 @@
+{
+  "id": "61405309-fa9a-4a89-a68f-e3d3be8b7649",
+  "object": "beer",
+  "name": "Gourdon Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

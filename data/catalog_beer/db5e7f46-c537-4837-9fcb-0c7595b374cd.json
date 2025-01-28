@@ -1,0 +1,11 @@
+{
+  "id": "db5e7f46-c537-4837-9fcb-0c7595b374cd",
+  "object": "beer",
+  "name": "Barrel Aged Qualified",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

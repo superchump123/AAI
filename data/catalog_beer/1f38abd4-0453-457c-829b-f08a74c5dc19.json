@@ -1,0 +1,11 @@
+{
+  "id": "1f38abd4-0453-457c-829b-f08a74c5dc19",
+  "object": "beer",
+  "name": "Stumblin' Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

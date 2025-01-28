@@ -1,0 +1,11 @@
+{
+  "id": "c058b095-e508-40bf-9d98-7846b970fe16",
+  "object": "beer",
+  "name": "MONSTROUS CABAL",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

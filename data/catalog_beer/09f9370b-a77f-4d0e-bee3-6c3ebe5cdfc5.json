@@ -1,0 +1,11 @@
+{
+  "id": "09f9370b-a77f-4d0e-bee3-6c3ebe5cdfc5",
+  "object": "beer",
+  "name": "Hoparazzi India Pale Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "575e039a-4aa7-4d62-aefb-b420127de404",
+  "object": "beer",
+  "name": "GFA",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

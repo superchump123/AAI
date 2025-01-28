@@ -1,0 +1,11 @@
+{
+  "id": "a832da74-3ef0-41c9-869a-1622dd1bbc4d",
+  "object": "beer",
+  "name": "Jewbelation 20",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 16.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

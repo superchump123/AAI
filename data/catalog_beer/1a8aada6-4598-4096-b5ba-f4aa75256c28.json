@@ -1,0 +1,11 @@
+{
+  "id": "1a8aada6-4598-4096-b5ba-f4aa75256c28",
+  "object": "beer",
+  "name": "Violent Trubulence",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

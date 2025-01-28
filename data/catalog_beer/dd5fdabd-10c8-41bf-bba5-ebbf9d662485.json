@@ -1,0 +1,11 @@
+{
+  "id": "dd5fdabd-10c8-41bf-bba5-ebbf9d662485",
+  "object": "beer",
+  "name": "Woinemer Sommerbier",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

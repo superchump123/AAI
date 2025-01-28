@@ -1,0 +1,11 @@
+{
+  "id": "ed6eedd0-d3d1-49d3-8f82-137a817e129e",
+  "object": "beer",
+  "name": "Prelude Special Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

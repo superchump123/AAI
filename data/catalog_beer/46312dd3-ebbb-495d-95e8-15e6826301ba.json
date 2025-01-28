@@ -1,0 +1,11 @@
+{
+  "id": "46312dd3-ebbb-495d-95e8-15e6826301ba",
+  "object": "beer",
+  "name": "Goldmember",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

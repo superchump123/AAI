@@ -1,0 +1,11 @@
+{
+  "id": "560e8985-6efd-4282-aa98-d07a0438dade",
+  "object": "beer",
+  "name": "Papelblonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6cce284-1687-42b1-ac6a-9fed6eea08b8",
+  "object": "beer",
+  "name": "Bozo Beer",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 17.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

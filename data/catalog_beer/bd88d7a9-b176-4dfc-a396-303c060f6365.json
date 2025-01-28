@@ -1,0 +1,11 @@
+{
+  "id": "bd88d7a9-b176-4dfc-a396-303c060f6365",
+  "object": "beer",
+  "name": "Tioga-seq",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "869f2bdb-6756-4c91-9cd6-b2a574ca47a7",
+  "object": "beer",
+  "name": "EKU Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

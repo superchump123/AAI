@@ -1,0 +1,11 @@
+{
+  "id": "2cbbd80c-bf5c-4d31-b72c-5bf859ba7d3b",
+  "object": "beer",
+  "name": "Elevation",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

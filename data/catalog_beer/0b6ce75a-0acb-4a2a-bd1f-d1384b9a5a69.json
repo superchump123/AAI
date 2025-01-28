@@ -1,0 +1,11 @@
+{
+  "id": "0b6ce75a-0acb-4a2a-bd1f-d1384b9a5a69",
+  "object": "beer",
+  "name": "Brennan's Bucknut Brew",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

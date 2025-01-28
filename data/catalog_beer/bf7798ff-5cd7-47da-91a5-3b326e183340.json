@@ -1,0 +1,11 @@
+{
+  "id": "bf7798ff-5cd7-47da-91a5-3b326e183340",
+  "object": "beer",
+  "name": "Giulia",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d71bba20-e737-4188-9399-698343ffc7c5",
+  "object": "beer",
+  "name": "400 Pound Monkey",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4ae32dcd-5eaf-4150-a05f-dead9496e84b",
+  "object": "beer",
+  "name": "Blue Coat 1916",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

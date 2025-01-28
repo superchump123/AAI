@@ -1,0 +1,11 @@
+{
+  "id": "5768a911-6fd9-4e2b-b8b7-94726a26db50",
+  "object": "beer",
+  "name": "Artisan\u2019s Weizen",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

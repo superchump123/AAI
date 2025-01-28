@@ -1,0 +1,11 @@
+{
+  "id": "e0840caf-7bb1-4394-bd00-f6652107e8e8",
+  "object": "beer",
+  "name": "New Sun",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

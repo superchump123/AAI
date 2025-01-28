@@ -1,0 +1,11 @@
+{
+  "id": "d26acab7-bf8d-4722-8e16-2d4578de5c51",
+  "object": "beer",
+  "name": "Pennhurst Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

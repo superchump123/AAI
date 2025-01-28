@@ -1,0 +1,11 @@
+{
+  "id": "d3a22249-fee5-4259-beb6-6792c48c55ef",
+  "object": "beer",
+  "name": "The Phoenix",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

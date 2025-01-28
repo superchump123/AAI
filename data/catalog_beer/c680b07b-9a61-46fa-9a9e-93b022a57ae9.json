@@ -1,0 +1,11 @@
+{
+  "id": "c680b07b-9a61-46fa-9a9e-93b022a57ae9",
+  "object": "beer",
+  "name": "Alpha IPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

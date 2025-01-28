@@ -1,0 +1,11 @@
+{
+  "id": "fe5cffac-860c-4d98-9db9-7df56d292a6a",
+  "object": "beer",
+  "name": "\u00c9ph\u00e9m\u00e8re Cassis",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

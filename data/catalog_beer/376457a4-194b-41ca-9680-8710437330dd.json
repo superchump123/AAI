@@ -1,0 +1,11 @@
+{
+  "id": "376457a4-194b-41ca-9680-8710437330dd",
+  "object": "beer",
+  "name": "Blueberry Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

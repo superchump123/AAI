@@ -1,0 +1,11 @@
+{
+  "id": "60caf075-aa33-4da7-9261-fb7569a9120a",
+  "object": "beer",
+  "name": "1784 Anniversary Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

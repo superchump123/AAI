@@ -1,0 +1,11 @@
+{
+  "id": "d1f71fdb-8557-4baa-983d-c8a433e0aaf9",
+  "object": "beer",
+  "name": "Coloma Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

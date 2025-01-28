@@ -1,0 +1,11 @@
+{
+  "id": "69b8beec-49d0-4cd2-a0d1-70265f1f91e3",
+  "object": "beer",
+  "name": "Golden Doesjel",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fc4bd2e7-d103-4850-99c2-71726d3127f2",
+  "object": "beer",
+  "name": "Bierstadt Dunkel Lager",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

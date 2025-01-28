@@ -1,0 +1,11 @@
+{
+  "id": "d5eb0f59-fd9b-4e3c-a566-2c5f38d9562e",
+  "object": "beer",
+  "name": "Imperial Rye IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

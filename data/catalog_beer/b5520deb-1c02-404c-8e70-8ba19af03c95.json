@@ -1,0 +1,11 @@
+{
+  "id": "b5520deb-1c02-404c-8e70-8ba19af03c95",
+  "object": "beer",
+  "name": "Log Cabin",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "458e45bc-c232-437d-b95c-2a2c27c1381a",
+  "object": "beer",
+  "name": "Fat Tug IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

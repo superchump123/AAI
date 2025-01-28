@@ -1,0 +1,11 @@
+{
+  "id": "b2c88247-fbc7-49c4-a4fb-17946e7ef350",
+  "object": "beer",
+  "name": "Roxanne",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

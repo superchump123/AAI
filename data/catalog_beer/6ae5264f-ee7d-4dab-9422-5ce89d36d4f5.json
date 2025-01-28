@@ -1,0 +1,11 @@
+{
+  "id": "6ae5264f-ee7d-4dab-9422-5ce89d36d4f5",
+  "object": "beer",
+  "name": "Munich Dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9eae46e1-aa3c-4b96-8abf-91b825768a72",
+  "object": "beer",
+  "name": "Freigraf Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

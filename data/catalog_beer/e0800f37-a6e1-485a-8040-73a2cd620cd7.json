@@ -1,0 +1,11 @@
+{
+  "id": "e0800f37-a6e1-485a-8040-73a2cd620cd7",
+  "object": "beer",
+  "name": "D's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

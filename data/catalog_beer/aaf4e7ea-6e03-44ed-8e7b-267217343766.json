@@ -1,0 +1,11 @@
+{
+  "id": "aaf4e7ea-6e03-44ed-8e7b-267217343766",
+  "object": "beer",
+  "name": "HopDevil Nitro",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

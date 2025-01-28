@@ -1,0 +1,11 @@
+{
+  "id": "0071d0b5-52c5-4de6-83bd-485b3adc847c",
+  "object": "beer",
+  "name": "White Cap",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

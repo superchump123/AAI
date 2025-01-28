@@ -1,0 +1,11 @@
+{
+  "id": "5fdf23f8-ee27-4807-a1bf-01a7358d933a",
+  "object": "beer",
+  "name": "Deep Cover",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

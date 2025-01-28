@@ -1,0 +1,11 @@
+{
+  "id": "1166c093-1dfe-4cbb-9cdc-22069dae5249",
+  "object": "beer",
+  "name": "Baranof Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

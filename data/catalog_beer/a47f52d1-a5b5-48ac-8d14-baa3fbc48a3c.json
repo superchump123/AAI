@@ -1,0 +1,11 @@
+{
+  "id": "a47f52d1-a5b5-48ac-8d14-baa3fbc48a3c",
+  "object": "beer",
+  "name": "Milk of Amnesia Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

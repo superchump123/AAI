@@ -1,0 +1,11 @@
+{
+  "id": "6d2d8fc4-d131-43f6-9d29-260274dc3be0",
+  "object": "beer",
+  "name": "Rica",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

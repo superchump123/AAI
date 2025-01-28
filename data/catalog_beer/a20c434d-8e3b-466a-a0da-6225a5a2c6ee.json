@@ -1,0 +1,11 @@
+{
+  "id": "a20c434d-8e3b-466a-a0da-6225a5a2c6ee",
+  "object": "beer",
+  "name": "Table Beer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

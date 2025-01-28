@@ -1,0 +1,11 @@
+{
+  "id": "26034c45-4b8d-4a4e-b01e-6736d160f06f",
+  "object": "beer",
+  "name": "Winchester Wheat",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

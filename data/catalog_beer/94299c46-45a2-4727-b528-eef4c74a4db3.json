@@ -1,0 +1,11 @@
+{
+  "id": "94299c46-45a2-4727-b528-eef4c74a4db3",
+  "object": "beer",
+  "name": "Mariachi",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

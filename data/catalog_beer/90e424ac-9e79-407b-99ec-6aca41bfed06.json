@@ -1,0 +1,11 @@
+{
+  "id": "90e424ac-9e79-407b-99ec-6aca41bfed06",
+  "object": "beer",
+  "name": "Northern German Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

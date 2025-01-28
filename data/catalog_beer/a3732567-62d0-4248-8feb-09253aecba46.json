@@ -1,0 +1,11 @@
+{
+  "id": "a3732567-62d0-4248-8feb-09253aecba46",
+  "object": "beer",
+  "name": "Dark Star Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

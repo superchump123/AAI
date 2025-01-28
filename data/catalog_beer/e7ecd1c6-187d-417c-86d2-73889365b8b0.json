@@ -1,0 +1,11 @@
+{
+  "id": "e7ecd1c6-187d-417c-86d2-73889365b8b0",
+  "object": "beer",
+  "name": "Dockside Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

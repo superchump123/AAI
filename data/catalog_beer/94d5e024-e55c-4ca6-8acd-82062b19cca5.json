@@ -1,0 +1,11 @@
+{
+  "id": "94d5e024-e55c-4ca6-8acd-82062b19cca5",
+  "object": "beer",
+  "name": "Le Contrebassiste Ale",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

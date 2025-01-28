@@ -1,0 +1,11 @@
+{
+  "id": "f9d12a43-d1f5-4b79-9bc4-8d857354a0c4",
+  "object": "beer",
+  "name": "Vieille Artisanal Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

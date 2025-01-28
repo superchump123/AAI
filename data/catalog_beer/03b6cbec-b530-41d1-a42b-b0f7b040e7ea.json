@@ -1,0 +1,11 @@
+{
+  "id": "03b6cbec-b530-41d1-a42b-b0f7b040e7ea",
+  "object": "beer",
+  "name": "Castle Rock Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a437d0ec-35e2-442a-8b15-86e45a6c07d1",
+  "object": "beer",
+  "name": "Gardener",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

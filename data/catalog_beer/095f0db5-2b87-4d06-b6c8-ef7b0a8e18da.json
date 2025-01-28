@@ -1,0 +1,11 @@
+{
+  "id": "095f0db5-2b87-4d06-b6c8-ef7b0a8e18da",
+  "object": "beer",
+  "name": "Lotje",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cd534867-b4cb-475d-9c89-9266ad4d279a",
+  "object": "beer",
+  "name": "Azaccatecana Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

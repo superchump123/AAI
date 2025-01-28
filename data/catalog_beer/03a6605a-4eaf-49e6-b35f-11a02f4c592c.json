@@ -1,0 +1,11 @@
+{
+  "id": "03a6605a-4eaf-49e6-b35f-11a02f4c592c",
+  "object": "beer",
+  "name": "Oompa Loompa",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

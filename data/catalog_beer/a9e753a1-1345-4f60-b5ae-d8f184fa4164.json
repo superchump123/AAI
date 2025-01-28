@@ -1,0 +1,11 @@
+{
+  "id": "a9e753a1-1345-4f60-b5ae-d8f184fa4164",
+  "object": "beer",
+  "name": "Rat Trap Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

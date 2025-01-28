@@ -1,0 +1,11 @@
+{
+  "id": "0734c346-5dda-4344-a638-b0ef17a92486",
+  "object": "beer",
+  "name": "93X The Brotherhood",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "03b55b25-bfcc-4cac-a3b1-14cb02fa5a1a",
+  "object": "beer",
+  "name": "Michelob Marzen",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

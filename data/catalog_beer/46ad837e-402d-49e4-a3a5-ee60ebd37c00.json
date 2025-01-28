@@ -1,0 +1,11 @@
+{
+  "id": "46ad837e-402d-49e4-a3a5-ee60ebd37c00",
+  "object": "beer",
+  "name": "Chad",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

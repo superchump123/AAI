@@ -1,0 +1,11 @@
+{
+  "id": "daca3c58-871d-41ad-a7c3-d21d1e4908ea",
+  "object": "beer",
+  "name": "The District",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c555c14-404a-40c5-a413-b4baa5a470a4",
+  "object": "beer",
+  "name": "Queen Maeve",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

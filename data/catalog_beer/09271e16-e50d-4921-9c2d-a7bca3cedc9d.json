@@ -1,0 +1,11 @@
+{
+  "id": "09271e16-e50d-4921-9c2d-a7bca3cedc9d",
+  "object": "beer",
+  "name": "Red Spruce Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

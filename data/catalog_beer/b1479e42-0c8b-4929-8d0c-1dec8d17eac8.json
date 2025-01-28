@@ -1,0 +1,11 @@
+{
+  "id": "b1479e42-0c8b-4929-8d0c-1dec8d17eac8",
+  "object": "beer",
+  "name": "Metal Face",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

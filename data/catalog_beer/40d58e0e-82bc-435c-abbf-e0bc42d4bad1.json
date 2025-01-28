@@ -1,0 +1,11 @@
+{
+  "id": "40d58e0e-82bc-435c-abbf-e0bc42d4bad1",
+  "object": "beer",
+  "name": "Commando",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

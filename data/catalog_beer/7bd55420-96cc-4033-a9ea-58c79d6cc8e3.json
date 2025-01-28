@@ -1,0 +1,11 @@
+{
+  "id": "7bd55420-96cc-4033-a9ea-58c79d6cc8e3",
+  "object": "beer",
+  "name": "Triptonic",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

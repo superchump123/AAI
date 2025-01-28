@@ -1,0 +1,11 @@
+{
+  "id": "d82ae0a6-2b0c-4473-8d5e-cad3b2dd6674",
+  "object": "beer",
+  "name": "10 Point Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

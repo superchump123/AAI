@@ -1,0 +1,11 @@
+{
+  "id": "98695a6c-3253-43c6-990d-8b72cbc23d4f",
+  "object": "beer",
+  "name": "Monk's Cafe",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

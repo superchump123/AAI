@@ -1,0 +1,11 @@
+{
+  "id": "cfcbeed3-2bc6-4e69-880e-f7e47a629ffa",
+  "object": "beer",
+  "name": "Sunset Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

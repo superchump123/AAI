@@ -1,0 +1,11 @@
+{
+  "id": "c83bd0b3-fa8a-418b-9a13-5ef2885ff56e",
+  "object": "beer",
+  "name": "Saison De Dottignies",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

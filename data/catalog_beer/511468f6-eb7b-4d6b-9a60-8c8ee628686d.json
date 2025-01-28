@@ -1,0 +1,11 @@
+{
+  "id": "511468f6-eb7b-4d6b-9a60-8c8ee628686d",
+  "object": "beer",
+  "name": "Crony",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

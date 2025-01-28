@@ -1,0 +1,11 @@
+{
+  "id": "0ec44570-d4ff-40af-bc54-9a55e5d8c4c6",
+  "object": "beer",
+  "name": "Bitter Oats",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f25dd7bd-0234-4d12-a860-0bcea9be9ca3",
+  "object": "beer",
+  "name": "Presque Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

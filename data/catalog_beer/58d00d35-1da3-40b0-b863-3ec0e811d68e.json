@@ -1,0 +1,11 @@
+{
+  "id": "58d00d35-1da3-40b0-b863-3ec0e811d68e",
+  "object": "beer",
+  "name": "Terminal",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

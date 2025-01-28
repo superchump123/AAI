@@ -1,0 +1,11 @@
+{
+  "id": "a8463a3c-e928-4b77-8920-8a94f41607da",
+  "object": "beer",
+  "name": "Moby Hop",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

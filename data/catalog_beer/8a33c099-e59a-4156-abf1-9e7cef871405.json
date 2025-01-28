@@ -1,0 +1,11 @@
+{
+  "id": "8a33c099-e59a-4156-abf1-9e7cef871405",
+  "object": "beer",
+  "name": "Clear Cut Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de2c7e29-2f5e-49fc-a893-8a58191f0fff",
+  "object": "beer",
+  "name": "Crasher in the Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

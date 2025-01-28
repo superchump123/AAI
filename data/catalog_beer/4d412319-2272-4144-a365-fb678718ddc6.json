@@ -1,0 +1,11 @@
+{
+  "id": "4d412319-2272-4144-a365-fb678718ddc6",
+  "object": "beer",
+  "name": "Represa Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

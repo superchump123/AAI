@@ -1,0 +1,11 @@
+{
+  "id": "2bbfe3e1-b167-4014-b998-be33bb2fbc0f",
+  "object": "beer",
+  "name": "Covhefe Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

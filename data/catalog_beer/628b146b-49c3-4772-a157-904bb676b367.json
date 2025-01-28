@@ -1,0 +1,11 @@
+{
+  "id": "628b146b-49c3-4772-a157-904bb676b367",
+  "object": "beer",
+  "name": "Member Design 1",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "50c598df-dc7a-421c-8671-bc13438e487b",
+  "object": "beer",
+  "name": "Beer Geek Desert",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

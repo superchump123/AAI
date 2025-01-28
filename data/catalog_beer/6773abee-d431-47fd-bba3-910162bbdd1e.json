@@ -1,0 +1,11 @@
+{
+  "id": "6773abee-d431-47fd-bba3-910162bbdd1e",
+  "object": "beer",
+  "name": "Birra Moretti Zero",
+  "style": "Non-Alcoholic (Beer) Malt Beverages",
+  "description": null,
+  "abv": 0.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

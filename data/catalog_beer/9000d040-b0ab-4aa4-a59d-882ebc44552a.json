@@ -1,0 +1,11 @@
+{
+  "id": "9000d040-b0ab-4aa4-a59d-882ebc44552a",
+  "object": "beer",
+  "name": "Batch #3: Brussels Stout blended with Coffee Oatmeal Stout (County Line Ales)",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

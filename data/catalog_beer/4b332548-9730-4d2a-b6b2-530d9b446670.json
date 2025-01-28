@@ -1,0 +1,11 @@
+{
+  "id": "4b332548-9730-4d2a-b6b2-530d9b446670",
+  "object": "beer",
+  "name": "Pimock",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

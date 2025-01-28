@@ -1,0 +1,11 @@
+{
+  "id": "ca9d146d-31be-42d8-a276-14e55dbb8637",
+  "object": "beer",
+  "name": "The Iron Tankard",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

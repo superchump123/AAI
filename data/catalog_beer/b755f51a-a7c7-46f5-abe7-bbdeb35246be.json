@@ -1,0 +1,11 @@
+{
+  "id": "b755f51a-a7c7-46f5-abe7-bbdeb35246be",
+  "object": "beer",
+  "name": "Latigo",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

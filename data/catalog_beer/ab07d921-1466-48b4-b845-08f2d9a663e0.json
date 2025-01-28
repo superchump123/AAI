@@ -1,0 +1,11 @@
+{
+  "id": "ab07d921-1466-48b4-b845-08f2d9a663e0",
+  "object": "beer",
+  "name": "Chocolatized",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

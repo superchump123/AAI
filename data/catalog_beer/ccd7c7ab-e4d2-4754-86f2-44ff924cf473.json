@@ -1,0 +1,11 @@
+{
+  "id": "ccd7c7ab-e4d2-4754-86f2-44ff924cf473",
+  "object": "beer",
+  "name": "Idiot IPA - Hatch Chiles",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

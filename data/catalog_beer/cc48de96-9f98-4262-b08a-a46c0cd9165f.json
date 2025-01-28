@@ -1,0 +1,11 @@
+{
+  "id": "cc48de96-9f98-4262-b08a-a46c0cd9165f",
+  "object": "beer",
+  "name": "Something Brave and The Fearless",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

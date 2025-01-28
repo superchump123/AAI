@@ -1,0 +1,11 @@
+{
+  "id": "602462ee-3b94-4286-85ed-2cff231c4c58",
+  "object": "beer",
+  "name": "Xibalba",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

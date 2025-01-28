@@ -1,0 +1,11 @@
+{
+  "id": "aff1cac0-1c20-4a7c-8e36-5f90bef04564",
+  "object": "beer",
+  "name": "Master Heist",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

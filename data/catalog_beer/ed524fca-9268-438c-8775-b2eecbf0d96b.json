@@ -1,0 +1,11 @@
+{
+  "id": "ed524fca-9268-438c-8775-b2eecbf0d96b",
+  "object": "beer",
+  "name": "Christmas Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

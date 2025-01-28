@@ -1,0 +1,11 @@
+{
+  "id": "3301ff55-d288-44aa-bf13-e706889f79db",
+  "object": "beer",
+  "name": "Pillar Point Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

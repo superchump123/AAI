@@ -1,0 +1,11 @@
+{
+  "id": "6c18428a-8eb0-4e63-9717-b1a51e356f17",
+  "object": "beer",
+  "name": "Background Noise",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

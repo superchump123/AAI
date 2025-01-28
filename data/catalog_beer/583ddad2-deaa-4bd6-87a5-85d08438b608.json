@@ -1,0 +1,11 @@
+{
+  "id": "583ddad2-deaa-4bd6-87a5-85d08438b608",
+  "object": "beer",
+  "name": "Stan Up",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

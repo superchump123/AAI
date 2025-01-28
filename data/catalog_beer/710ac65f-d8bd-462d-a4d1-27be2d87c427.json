@@ -1,0 +1,11 @@
+{
+  "id": "710ac65f-d8bd-462d-a4d1-27be2d87c427",
+  "object": "beer",
+  "name": "Carlsberg Beer",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

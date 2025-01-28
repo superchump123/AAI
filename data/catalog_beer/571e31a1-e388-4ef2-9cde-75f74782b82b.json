@@ -1,0 +1,11 @@
+{
+  "id": "571e31a1-e388-4ef2-9cde-75f74782b82b",
+  "object": "beer",
+  "name": "Valley Brewing Apricot Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

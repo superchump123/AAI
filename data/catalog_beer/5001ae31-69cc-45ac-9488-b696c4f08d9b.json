@@ -1,0 +1,11 @@
+{
+  "id": "5001ae31-69cc-45ac-9488-b696c4f08d9b",
+  "object": "beer",
+  "name": "Uncle Louis' Cocktail",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

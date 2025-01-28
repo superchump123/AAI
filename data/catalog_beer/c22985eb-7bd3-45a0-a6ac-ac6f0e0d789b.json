@@ -1,0 +1,11 @@
+{
+  "id": "c22985eb-7bd3-45a0-a6ac-ac6f0e0d789b",
+  "object": "beer",
+  "name": "Black Jack",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

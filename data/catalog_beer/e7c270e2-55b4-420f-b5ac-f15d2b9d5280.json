@@ -1,0 +1,11 @@
+{
+  "id": "e7c270e2-55b4-420f-b5ac-f15d2b9d5280",
+  "object": "beer",
+  "name": "Migration Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

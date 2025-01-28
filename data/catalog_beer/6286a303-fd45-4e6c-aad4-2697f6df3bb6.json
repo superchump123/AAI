@@ -1,0 +1,11 @@
+{
+  "id": "6286a303-fd45-4e6c-aad4-2697f6df3bb6",
+  "object": "beer",
+  "name": "Angelic Revenge",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

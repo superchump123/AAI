@@ -1,0 +1,11 @@
+{
+  "id": "12ec901c-07ce-4fbe-8685-7741a32569ab",
+  "object": "beer",
+  "name": "Pure Evil",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "591109e4-ec4e-43e0-aacf-879fee637fdb",
+  "object": "beer",
+  "name": "The Unihopper Pale Ale with Calypso",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

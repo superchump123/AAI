@@ -1,0 +1,11 @@
+{
+  "id": "44e0ad05-114f-4e97-856f-791a672e53ab",
+  "object": "beer",
+  "name": "Smokestack Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

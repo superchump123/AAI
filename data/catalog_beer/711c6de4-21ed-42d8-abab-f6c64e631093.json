@@ -1,0 +1,11 @@
+{
+  "id": "711c6de4-21ed-42d8-abab-f6c64e631093",
+  "object": "beer",
+  "name": "First Anniversary Ale",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

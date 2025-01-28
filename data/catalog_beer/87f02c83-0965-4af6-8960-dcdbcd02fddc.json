@@ -1,0 +1,11 @@
+{
+  "id": "87f02c83-0965-4af6-8960-dcdbcd02fddc",
+  "object": "beer",
+  "name": "Fisherman's Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

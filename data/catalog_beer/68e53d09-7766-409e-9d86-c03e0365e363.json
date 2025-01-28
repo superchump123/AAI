@@ -1,0 +1,11 @@
+{
+  "id": "68e53d09-7766-409e-9d86-c03e0365e363",
+  "object": "beer",
+  "name": "OMER",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

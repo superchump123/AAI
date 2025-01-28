@@ -1,0 +1,11 @@
+{
+  "id": "b239ea84-388c-48ed-91a8-35f8a3d6e2ee",
+  "object": "beer",
+  "name": "Ginger Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

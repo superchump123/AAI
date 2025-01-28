@@ -1,0 +1,11 @@
+{
+  "id": "b063b46a-0b5a-4eeb-86c9-5b9588c12261",
+  "object": "beer",
+  "name": "Vermont Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e6d932b-484d-4c83-95b9-32de9e676852",
+  "object": "beer",
+  "name": "Black River Gumbo Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

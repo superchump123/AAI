@@ -1,0 +1,11 @@
+{
+  "id": "ee7d3723-f08b-4053-b5e7-515dde1a2595",
+  "object": "beer",
+  "name": "Lone Bison IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e0bde65c-7739-4e45-a416-2f431736c66e",
+  "object": "beer",
+  "name": "Aud Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

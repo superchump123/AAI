@@ -1,0 +1,11 @@
+{
+  "id": "d3b8dfec-f35e-4713-98e6-18dfc3cdb587",
+  "object": "beer",
+  "name": "LIterary Nonsense",
+  "style": "Cyser (Apple Melomel)",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

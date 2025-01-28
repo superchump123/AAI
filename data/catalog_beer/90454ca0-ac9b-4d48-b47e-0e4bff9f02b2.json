@@ -1,0 +1,11 @@
+{
+  "id": "90454ca0-ac9b-4d48-b47e-0e4bff9f02b2",
+  "object": "beer",
+  "name": "Original",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

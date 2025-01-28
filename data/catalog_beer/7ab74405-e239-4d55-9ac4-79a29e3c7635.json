@@ -1,0 +1,11 @@
+{
+  "id": "7ab74405-e239-4d55-9ac4-79a29e3c7635",
+  "object": "beer",
+  "name": "One Nut",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

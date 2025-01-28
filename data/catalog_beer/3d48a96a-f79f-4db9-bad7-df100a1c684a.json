@@ -1,0 +1,11 @@
+{
+  "id": "3d48a96a-f79f-4db9-bad7-df100a1c684a",
+  "object": "beer",
+  "name": "Santa Fe Cider works",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

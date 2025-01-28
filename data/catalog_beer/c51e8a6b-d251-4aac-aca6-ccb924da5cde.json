@@ -1,0 +1,11 @@
+{
+  "id": "c51e8a6b-d251-4aac-aca6-ccb924da5cde",
+  "object": "beer",
+  "name": "Sergeant Reckless",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

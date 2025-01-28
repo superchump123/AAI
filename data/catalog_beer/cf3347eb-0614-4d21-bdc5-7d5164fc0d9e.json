@@ -1,0 +1,11 @@
+{
+  "id": "cf3347eb-0614-4d21-bdc5-7d5164fc0d9e",
+  "object": "beer",
+  "name": "Biere Blanche",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

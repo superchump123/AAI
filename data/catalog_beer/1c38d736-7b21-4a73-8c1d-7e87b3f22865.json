@@ -1,0 +1,11 @@
+{
+  "id": "1c38d736-7b21-4a73-8c1d-7e87b3f22865",
+  "object": "beer",
+  "name": "Nelson",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "464fad2f-1d1a-4c45-a5cb-03de1217965f",
+  "object": "beer",
+  "name": "KnightStick Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

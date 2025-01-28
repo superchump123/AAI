@@ -1,0 +1,11 @@
+{
+  "id": "c1615618-3c43-4f75-b583-6901c1341046",
+  "object": "beer",
+  "name": "Midnight Rush",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

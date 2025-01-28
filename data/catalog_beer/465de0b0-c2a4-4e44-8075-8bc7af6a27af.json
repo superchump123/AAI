@@ -1,0 +1,11 @@
+{
+  "id": "465de0b0-c2a4-4e44-8075-8bc7af6a27af",
+  "object": "beer",
+  "name": "Kingston Black Limited",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ebbbb5cc-b476-4a84-95d9-2cae2dbb7eff",
+  "object": "beer",
+  "name": "Woinemer Tillator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6523d660-b92d-4c29-9256-81d0e500f389",
+  "object": "beer",
+  "name": "Paniolo Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

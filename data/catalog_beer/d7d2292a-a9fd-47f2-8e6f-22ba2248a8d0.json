@@ -1,0 +1,11 @@
+{
+  "id": "d7d2292a-a9fd-47f2-8e6f-22ba2248a8d0",
+  "object": "beer",
+  "name": "Barrel Aged Vanderbush",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

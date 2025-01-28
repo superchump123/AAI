@@ -1,0 +1,11 @@
+{
+  "id": "8cbce1d1-6522-4120-bd4a-9895df3eb91d",
+  "object": "beer",
+  "name": "Fist City",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

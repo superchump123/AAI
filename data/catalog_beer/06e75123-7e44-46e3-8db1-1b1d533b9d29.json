@@ -1,0 +1,11 @@
+{
+  "id": "06e75123-7e44-46e3-8db1-1b1d533b9d29",
+  "object": "beer",
+  "name": "Bud Light Platinum",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

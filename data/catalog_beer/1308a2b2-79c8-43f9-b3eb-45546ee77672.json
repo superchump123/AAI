@@ -1,0 +1,11 @@
+{
+  "id": "1308a2b2-79c8-43f9-b3eb-45546ee77672",
+  "object": "beer",
+  "name": "Silent Neighbor",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

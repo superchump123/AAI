@@ -1,0 +1,11 @@
+{
+  "id": "e7508742-0e94-49c4-ae48-809a912d3339",
+  "object": "beer",
+  "name": "Bandwagon",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

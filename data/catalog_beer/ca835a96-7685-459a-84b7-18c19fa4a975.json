@@ -1,0 +1,11 @@
+{
+  "id": "ca835a96-7685-459a-84b7-18c19fa4a975",
+  "object": "beer",
+  "name": "Franconia Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

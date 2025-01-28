@@ -1,0 +1,11 @@
+{
+  "id": "6fcc6d53-d3e5-480f-8a78-e63e4f66165b",
+  "object": "beer",
+  "name": "Dubbelbock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

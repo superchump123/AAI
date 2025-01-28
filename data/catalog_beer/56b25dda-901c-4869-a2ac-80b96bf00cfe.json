@@ -1,0 +1,11 @@
+{
+  "id": "56b25dda-901c-4869-a2ac-80b96bf00cfe",
+  "object": "beer",
+  "name": "La Roja",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

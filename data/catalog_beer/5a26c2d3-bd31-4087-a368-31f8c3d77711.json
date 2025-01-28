@@ -1,0 +1,11 @@
+{
+  "id": "5a26c2d3-bd31-4087-a368-31f8c3d77711",
+  "object": "beer",
+  "name": "Loch Leech Monster",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

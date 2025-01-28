@@ -1,0 +1,11 @@
+{
+  "id": "2ca9d620-6b0d-4509-964d-2eb0f1b47a83",
+  "object": "beer",
+  "name": "North Star Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

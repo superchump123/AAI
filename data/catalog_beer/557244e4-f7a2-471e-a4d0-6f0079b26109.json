@@ -1,0 +1,11 @@
+{
+  "id": "557244e4-f7a2-471e-a4d0-6f0079b26109",
+  "object": "beer",
+  "name": "Agate Lake Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

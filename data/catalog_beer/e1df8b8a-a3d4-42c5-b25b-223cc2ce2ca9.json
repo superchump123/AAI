@@ -1,0 +1,11 @@
+{
+  "id": "e1df8b8a-a3d4-42c5-b25b-223cc2ce2ca9",
+  "object": "beer",
+  "name": "Penn Pilsner",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

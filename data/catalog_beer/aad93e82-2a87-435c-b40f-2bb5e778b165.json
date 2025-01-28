@@ -1,0 +1,11 @@
+{
+  "id": "aad93e82-2a87-435c-b40f-2bb5e778b165",
+  "object": "beer",
+  "name": "Moose Drool",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

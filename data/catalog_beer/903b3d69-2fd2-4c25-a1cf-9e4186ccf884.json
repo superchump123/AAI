@@ -1,0 +1,11 @@
+{
+  "id": "903b3d69-2fd2-4c25-a1cf-9e4186ccf884",
+  "object": "beer",
+  "name": "Pacific Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

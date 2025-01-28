@@ -1,0 +1,11 @@
+{
+  "id": "c37354ae-038d-4aea-8c49-93b1d037a0d3",
+  "object": "beer",
+  "name": "Endeavour",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

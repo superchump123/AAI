@@ -1,0 +1,11 @@
+{
+  "id": "87a312ae-9428-4243-a7e3-c3e6b4503c79",
+  "object": "beer",
+  "name": "Stone's Throw",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

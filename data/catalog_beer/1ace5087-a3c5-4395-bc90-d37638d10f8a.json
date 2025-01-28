@@ -1,0 +1,11 @@
+{
+  "id": "1ace5087-a3c5-4395-bc90-d37638d10f8a",
+  "object": "beer",
+  "name": "Green Gate IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

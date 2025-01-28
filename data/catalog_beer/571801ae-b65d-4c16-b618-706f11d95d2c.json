@@ -1,0 +1,11 @@
+{
+  "id": "571801ae-b65d-4c16-b618-706f11d95d2c",
+  "object": "beer",
+  "name": "Turkey Blue",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

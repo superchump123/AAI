@@ -1,0 +1,11 @@
+{
+  "id": "7ecabe08-e0aa-4a57-b3a8-c48f75fe0871",
+  "object": "beer",
+  "name": "Washington Gold Hard Cider",
+  "style": "New England Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

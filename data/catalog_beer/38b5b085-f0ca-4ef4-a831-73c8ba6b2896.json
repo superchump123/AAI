@@ -1,0 +1,11 @@
+{
+  "id": "38b5b085-f0ca-4ef4-a831-73c8ba6b2896",
+  "object": "beer",
+  "name": "Cosmic Dust",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

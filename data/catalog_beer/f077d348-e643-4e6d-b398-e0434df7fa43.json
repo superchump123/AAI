@@ -1,0 +1,11 @@
+{
+  "id": "f077d348-e643-4e6d-b398-e0434df7fa43",
+  "object": "beer",
+  "name": "Briefcase Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

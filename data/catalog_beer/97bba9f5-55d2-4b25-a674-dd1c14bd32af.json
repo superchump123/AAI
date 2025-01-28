@@ -1,0 +1,11 @@
+{
+  "id": "97bba9f5-55d2-4b25-a674-dd1c14bd32af",
+  "object": "beer",
+  "name": "Slow Your Roll",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00c1696e-6c30-4b42-baae-5862adb2396a",
+  "object": "beer",
+  "name": "LevantOberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "26f09686-0fb9-48a3-83bd-7d69dfb0487b",
+  "object": "beer",
+  "name": "Weissenheimer Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

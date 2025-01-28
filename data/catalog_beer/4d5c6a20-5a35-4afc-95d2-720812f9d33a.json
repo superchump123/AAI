@@ -1,0 +1,11 @@
+{
+  "id": "4d5c6a20-5a35-4afc-95d2-720812f9d33a",
+  "object": "beer",
+  "name": "Lockwood's Retreat: India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

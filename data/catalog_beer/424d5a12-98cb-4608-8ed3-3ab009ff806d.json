@@ -1,0 +1,11 @@
+{
+  "id": "424d5a12-98cb-4608-8ed3-3ab009ff806d",
+  "object": "beer",
+  "name": "Oasis Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

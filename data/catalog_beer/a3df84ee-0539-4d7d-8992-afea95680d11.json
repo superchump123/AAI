@@ -1,0 +1,11 @@
+{
+  "id": "a3df84ee-0539-4d7d-8992-afea95680d11",
+  "object": "beer",
+  "name": "Frostbite Black IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

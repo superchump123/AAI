@@ -1,0 +1,11 @@
+{
+  "id": "8f2ef62c-01fa-4ace-89e6-3758153c761d",
+  "object": "beer",
+  "name": "Righteous",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

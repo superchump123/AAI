@@ -1,0 +1,11 @@
+{
+  "id": "9db2f58d-b7ce-4fd0-a1c0-59222d27e05c",
+  "object": "beer",
+  "name": "L\u00e1 Bealtaine",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dc409b60-149b-4a99-9e22-8c0fa396f7d0",
+  "object": "beer",
+  "name": "Brown Ryed Girl",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

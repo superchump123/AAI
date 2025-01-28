@@ -1,0 +1,11 @@
+{
+  "id": "35f9492b-c978-4898-9809-62d7618aaca2",
+  "object": "beer",
+  "name": "Long Haul",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

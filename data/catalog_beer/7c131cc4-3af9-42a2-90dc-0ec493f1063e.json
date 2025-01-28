@@ -1,0 +1,11 @@
+{
+  "id": "7c131cc4-3af9-42a2-90dc-0ec493f1063e",
+  "object": "beer",
+  "name": "Bodega Head IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92c5e86c-2c64-499a-9c10-1a24697bbf6f",
+  "object": "beer",
+  "name": "Two Rivers Light",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

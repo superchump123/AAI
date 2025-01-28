@@ -1,0 +1,11 @@
+{
+  "id": "ee7368e4-fc2b-47fb-8a82-876024b306fd",
+  "object": "beer",
+  "name": "Pig & Whiskey Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

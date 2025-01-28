@@ -1,0 +1,11 @@
+{
+  "id": "ea7d3406-e2a2-4cf8-88ba-be9edc787286",
+  "object": "beer",
+  "name": "Ninfa",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

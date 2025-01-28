@@ -1,0 +1,11 @@
+{
+  "id": "d1b594ac-87d0-4284-9460-55a6e05a17b7",
+  "object": "beer",
+  "name": "West O CocO",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

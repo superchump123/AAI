@@ -1,0 +1,11 @@
+{
+  "id": "9da31373-b2c9-4073-99e4-398a798e9834",
+  "object": "beer",
+  "name": "Red Run Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

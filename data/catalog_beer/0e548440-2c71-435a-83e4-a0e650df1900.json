@@ -1,0 +1,11 @@
+{
+  "id": "0e548440-2c71-435a-83e4-a0e650df1900",
+  "object": "beer",
+  "name": "Moritz Fiege Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

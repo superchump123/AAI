@@ -1,0 +1,11 @@
+{
+  "id": "0b4747b8-1b26-4194-ac65-6574e2976a4c",
+  "object": "beer",
+  "name": "Epiphany",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

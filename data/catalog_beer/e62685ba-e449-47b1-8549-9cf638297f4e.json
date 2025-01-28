@@ -1,0 +1,11 @@
+{
+  "id": "e62685ba-e449-47b1-8549-9cf638297f4e",
+  "object": "beer",
+  "name": "Green Can",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

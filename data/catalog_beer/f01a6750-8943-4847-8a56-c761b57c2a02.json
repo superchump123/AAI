@@ -1,0 +1,11 @@
+{
+  "id": "f01a6750-8943-4847-8a56-c761b57c2a02",
+  "object": "beer",
+  "name": "Beez Neez",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

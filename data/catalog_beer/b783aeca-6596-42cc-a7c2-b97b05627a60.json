@@ -1,0 +1,11 @@
+{
+  "id": "b783aeca-6596-42cc-a7c2-b97b05627a60",
+  "object": "beer",
+  "name": "Sol Seeker",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

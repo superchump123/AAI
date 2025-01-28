@@ -1,0 +1,11 @@
+{
+  "id": "96029946-f6b9-4737-ae2d-29708b7ebe2b",
+  "object": "beer",
+  "name": "Hop Centric",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ddc72e0-d142-46ed-abec-5b2fbf237f4f",
+  "object": "beer",
+  "name": "XXX Black Double IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

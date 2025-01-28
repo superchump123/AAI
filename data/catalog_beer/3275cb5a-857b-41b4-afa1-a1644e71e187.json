@@ -1,0 +1,11 @@
+{
+  "id": "3275cb5a-857b-41b4-afa1-a1644e71e187",
+  "object": "beer",
+  "name": "Swimmer's Itch Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

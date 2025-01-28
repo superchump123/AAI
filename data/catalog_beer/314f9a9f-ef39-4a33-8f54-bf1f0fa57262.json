@@ -1,0 +1,11 @@
+{
+  "id": "314f9a9f-ef39-4a33-8f54-bf1f0fa57262",
+  "object": "beer",
+  "name": "Saccharification",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

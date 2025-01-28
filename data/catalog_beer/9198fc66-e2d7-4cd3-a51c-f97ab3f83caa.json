@@ -1,0 +1,11 @@
+{
+  "id": "9198fc66-e2d7-4cd3-a51c-f97ab3f83caa",
+  "object": "beer",
+  "name": "R&R Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

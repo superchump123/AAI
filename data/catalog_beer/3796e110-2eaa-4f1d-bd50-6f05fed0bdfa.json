@@ -1,0 +1,11 @@
+{
+  "id": "3796e110-2eaa-4f1d-bd50-6f05fed0bdfa",
+  "object": "beer",
+  "name": "Heather Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

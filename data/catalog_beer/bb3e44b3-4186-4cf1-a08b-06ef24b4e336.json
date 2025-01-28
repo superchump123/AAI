@@ -1,0 +1,11 @@
+{
+  "id": "bb3e44b3-4186-4cf1-a08b-06ef24b4e336",
+  "object": "beer",
+  "name": "Three Claw",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36a0bb96-99ea-4bbe-b9ff-573022ae6f90",
+  "object": "beer",
+  "name": "Dubbel Shot",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

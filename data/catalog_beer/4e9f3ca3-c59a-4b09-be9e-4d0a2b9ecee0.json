@@ -1,0 +1,11 @@
+{
+  "id": "4e9f3ca3-c59a-4b09-be9e-4d0a2b9ecee0",
+  "object": "beer",
+  "name": "Coconut Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

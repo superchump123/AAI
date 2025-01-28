@@ -1,0 +1,11 @@
+{
+  "id": "b54d692f-9888-46f8-b560-10340e335c17",
+  "object": "beer",
+  "name": "Gerstebier",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

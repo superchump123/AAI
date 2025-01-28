@@ -1,0 +1,11 @@
+{
+  "id": "d9508fac-f374-402c-933b-8c492d84e321",
+  "object": "beer",
+  "name": "FatBob XVII",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

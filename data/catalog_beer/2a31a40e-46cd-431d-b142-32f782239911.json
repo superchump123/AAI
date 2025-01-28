@@ -1,0 +1,11 @@
+{
+  "id": "2a31a40e-46cd-431d-b142-32f782239911",
+  "object": "beer",
+  "name": "Noxious Beast",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.3,
+  "ibu": 143,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

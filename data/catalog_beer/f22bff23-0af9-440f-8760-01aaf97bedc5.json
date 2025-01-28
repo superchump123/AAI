@@ -1,0 +1,11 @@
+{
+  "id": "f22bff23-0af9-440f-8760-01aaf97bedc5",
+  "object": "beer",
+  "name": "Wrigleyville White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

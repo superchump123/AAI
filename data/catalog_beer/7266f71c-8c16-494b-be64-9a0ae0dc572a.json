@@ -1,0 +1,11 @@
+{
+  "id": "7266f71c-8c16-494b-be64-9a0ae0dc572a",
+  "object": "beer",
+  "name": "Elba",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

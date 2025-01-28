@@ -1,0 +1,11 @@
+{
+  "id": "36c34f67-c4b1-4f33-9390-d8a011d15ef5",
+  "object": "beer",
+  "name": "Mine!",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

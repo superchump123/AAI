@@ -1,0 +1,11 @@
+{
+  "id": "0bb29def-0b06-4066-b75a-d12c55e251a2",
+  "object": "beer",
+  "name": "Muerte al Cereal",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 7.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

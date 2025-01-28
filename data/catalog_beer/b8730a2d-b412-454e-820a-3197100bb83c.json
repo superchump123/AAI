@@ -1,0 +1,11 @@
+{
+  "id": "b8730a2d-b412-454e-820a-3197100bb83c",
+  "object": "beer",
+  "name": "A Beer Named Sue",
+  "style": "Wood- and Barrel-Aged Dark Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

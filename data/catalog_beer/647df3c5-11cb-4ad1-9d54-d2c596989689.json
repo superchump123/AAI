@@ -1,0 +1,11 @@
+{
+  "id": "647df3c5-11cb-4ad1-9d54-d2c596989689",
+  "object": "beer",
+  "name": "Northern Brewer IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

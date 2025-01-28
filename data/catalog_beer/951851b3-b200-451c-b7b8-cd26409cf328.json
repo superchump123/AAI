@@ -1,0 +1,11 @@
+{
+  "id": "951851b3-b200-451c-b7b8-cd26409cf328",
+  "object": "beer",
+  "name": "HOP SQUANCH",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

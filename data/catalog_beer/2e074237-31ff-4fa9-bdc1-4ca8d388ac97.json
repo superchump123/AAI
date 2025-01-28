@@ -1,0 +1,11 @@
+{
+  "id": "2e074237-31ff-4fa9-bdc1-4ca8d388ac97",
+  "object": "beer",
+  "name": "Cady's Corner Session IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

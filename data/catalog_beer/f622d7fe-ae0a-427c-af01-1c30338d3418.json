@@ -1,0 +1,11 @@
+{
+  "id": "f622d7fe-ae0a-427c-af01-1c30338d3418",
+  "object": "beer",
+  "name": "Henry's Farm",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

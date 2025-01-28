@@ -1,0 +1,11 @@
+{
+  "id": "7a29b048-7638-4aa6-a349-aee713ffa86e",
+  "object": "beer",
+  "name": "Follow The Gull",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

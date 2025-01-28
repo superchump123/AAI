@@ -1,0 +1,11 @@
+{
+  "id": "dfef63d2-863e-4cf5-89fa-e7d0bae66734",
+  "object": "beer",
+  "name": "Festbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

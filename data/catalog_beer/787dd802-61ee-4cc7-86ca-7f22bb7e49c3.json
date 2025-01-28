@@ -1,0 +1,11 @@
+{
+  "id": "787dd802-61ee-4cc7-86ca-7f22bb7e49c3",
+  "object": "beer",
+  "name": "Samuel Adams Got to Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40ce5073-dbe5-400b-821e-3b9c2b5e88eb",
+  "object": "beer",
+  "name": "Lulo Galactico Telefantastico",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

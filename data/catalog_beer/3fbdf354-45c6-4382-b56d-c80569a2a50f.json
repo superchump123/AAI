@@ -1,0 +1,11 @@
+{
+  "id": "3fbdf354-45c6-4382-b56d-c80569a2a50f",
+  "object": "beer",
+  "name": "Final Departure",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

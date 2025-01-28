@@ -1,0 +1,11 @@
+{
+  "id": "fe5034e8-3d9e-4027-9943-eea6a213785a",
+  "object": "beer",
+  "name": "Pandora",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

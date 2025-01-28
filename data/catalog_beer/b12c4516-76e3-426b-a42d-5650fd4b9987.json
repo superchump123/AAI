@@ -1,0 +1,11 @@
+{
+  "id": "b12c4516-76e3-426b-a42d-5650fd4b9987",
+  "object": "beer",
+  "name": "Black Prince Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

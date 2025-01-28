@@ -1,0 +1,11 @@
+{
+  "id": "044b2a1f-1440-4509-94e6-78b1bd73bc90",
+  "object": "beer",
+  "name": "Green St. Brewligans",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

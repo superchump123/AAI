@@ -1,0 +1,11 @@
+{
+  "id": "6f07ad35-e518-4fcf-9133-ea3f4388837b",
+  "object": "beer",
+  "name": "Victory Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

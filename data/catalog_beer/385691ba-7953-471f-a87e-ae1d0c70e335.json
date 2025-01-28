@@ -1,0 +1,11 @@
+{
+  "id": "385691ba-7953-471f-a87e-ae1d0c70e335",
+  "object": "beer",
+  "name": "Spooky",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

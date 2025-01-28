@@ -1,0 +1,11 @@
+{
+  "id": "1737ca19-5da9-4e0a-b435-e28da004b79d",
+  "object": "beer",
+  "name": "Samuel Adams Imperial White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "53f0767d-ccd0-4500-831e-02c520c5c36e",
+  "object": "beer",
+  "name": "The Extra Pale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

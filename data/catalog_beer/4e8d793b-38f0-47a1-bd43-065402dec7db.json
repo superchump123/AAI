@@ -1,0 +1,11 @@
+{
+  "id": "4e8d793b-38f0-47a1-bd43-065402dec7db",
+  "object": "beer",
+  "name": "Tower 10 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

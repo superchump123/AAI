@@ -1,0 +1,11 @@
+{
+  "id": "18b7fd97-c2c5-48d5-81f1-5a035c513bdd",
+  "object": "beer",
+  "name": "Pomme De Femme",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

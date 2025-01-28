@@ -1,0 +1,11 @@
+{
+  "id": "d36d27b6-e7a4-4e1c-840c-d95a6715957e",
+  "object": "beer",
+  "name": "Ruski Porridge",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

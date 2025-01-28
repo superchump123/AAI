@@ -1,0 +1,11 @@
+{
+  "id": "39d13cac-e47a-4d60-89d0-ba236c50ebfd",
+  "object": "beer",
+  "name": "American Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

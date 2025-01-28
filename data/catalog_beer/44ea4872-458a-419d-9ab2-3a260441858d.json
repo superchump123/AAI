@@ -1,0 +1,11 @@
+{
+  "id": "44ea4872-458a-419d-9ab2-3a260441858d",
+  "object": "beer",
+  "name": "Bud Ice",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

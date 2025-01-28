@@ -1,0 +1,11 @@
+{
+  "id": "c221b827-480c-4996-a475-c38fac126dda",
+  "object": "beer",
+  "name": "Kraftwerk Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

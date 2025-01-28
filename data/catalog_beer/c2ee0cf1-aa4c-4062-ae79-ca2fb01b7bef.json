@@ -1,0 +1,11 @@
+{
+  "id": "c2ee0cf1-aa4c-4062-ae79-ca2fb01b7bef",
+  "object": "beer",
+  "name": "Griffin Golden Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

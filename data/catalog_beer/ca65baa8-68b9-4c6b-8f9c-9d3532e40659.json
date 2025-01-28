@@ -1,0 +1,11 @@
+{
+  "id": "ca65baa8-68b9-4c6b-8f9c-9d3532e40659",
+  "object": "beer",
+  "name": "Cranberry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

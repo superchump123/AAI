@@ -1,0 +1,11 @@
+{
+  "id": "cae5f20e-80cc-4c98-b323-a2f986f9591f",
+  "object": "beer",
+  "name": "Dan'l Webster Imperial Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

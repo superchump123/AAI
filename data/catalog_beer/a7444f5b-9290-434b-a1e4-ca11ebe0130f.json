@@ -1,0 +1,11 @@
+{
+  "id": "a7444f5b-9290-434b-a1e4-ca11ebe0130f",
+  "object": "beer",
+  "name": "509 Style",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

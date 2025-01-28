@@ -1,0 +1,11 @@
+{
+  "id": "4385636e-b809-4b5a-9540-d3f1e0841a6e",
+  "object": "beer",
+  "name": "Lil Wisconsin",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

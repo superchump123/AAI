@@ -1,0 +1,11 @@
+{
+  "id": "d87079e8-3fc6-46aa-9fb9-659ce1e00e98",
+  "object": "beer",
+  "name": "Cognac Barrel Aged Bernese",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

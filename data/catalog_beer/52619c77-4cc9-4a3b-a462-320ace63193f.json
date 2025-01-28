@@ -1,0 +1,11 @@
+{
+  "id": "52619c77-4cc9-4a3b-a462-320ace63193f",
+  "object": "beer",
+  "name": "Sideways",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

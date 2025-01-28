@@ -1,0 +1,11 @@
+{
+  "id": "e4c6b772-e07d-4077-b347-0f03c4cb3b28",
+  "object": "beer",
+  "name": "Red Necktar",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

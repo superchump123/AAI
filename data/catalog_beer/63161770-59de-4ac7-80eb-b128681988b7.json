@@ -1,0 +1,11 @@
+{
+  "id": "63161770-59de-4ac7-80eb-b128681988b7",
+  "object": "beer",
+  "name": "Fleur De Saisom",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

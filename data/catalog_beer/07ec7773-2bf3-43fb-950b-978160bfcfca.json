@@ -1,0 +1,11 @@
+{
+  "id": "07ec7773-2bf3-43fb-950b-978160bfcfca",
+  "object": "beer",
+  "name": "Devil in Plaid",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

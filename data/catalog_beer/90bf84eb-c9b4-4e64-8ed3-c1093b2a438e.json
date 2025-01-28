@@ -1,0 +1,11 @@
+{
+  "id": "90bf84eb-c9b4-4e64-8ed3-c1093b2a438e",
+  "object": "beer",
+  "name": "Any Which Way",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

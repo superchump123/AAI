@@ -1,0 +1,11 @@
+{
+  "id": "0ef9a1b3-703c-4adc-b128-7d343bf49b42",
+  "object": "beer",
+  "name": "Pat's Blew Bow",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ce1db98b-63ef-47c2-8a26-943dafd18e9e",
+  "object": "beer",
+  "name": "Leonard Slye Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

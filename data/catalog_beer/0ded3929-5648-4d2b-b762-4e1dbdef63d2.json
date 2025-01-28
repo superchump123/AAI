@@ -1,0 +1,11 @@
+{
+  "id": "0ded3929-5648-4d2b-b762-4e1dbdef63d2",
+  "object": "beer",
+  "name": "Big Bridge IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1528d09c-ecb9-4400-9d54-b6378b1d8d7b",
+  "object": "beer",
+  "name": "Vanilla Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

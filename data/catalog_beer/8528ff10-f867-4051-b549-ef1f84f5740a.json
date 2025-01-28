@@ -1,0 +1,11 @@
+{
+  "id": "8528ff10-f867-4051-b549-ef1f84f5740a",
+  "object": "beer",
+  "name": "Brocken Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

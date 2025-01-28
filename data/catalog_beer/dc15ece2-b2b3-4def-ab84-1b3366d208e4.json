@@ -1,0 +1,11 @@
+{
+  "id": "dc15ece2-b2b3-4def-ab84-1b3366d208e4",
+  "object": "beer",
+  "name": "Wakulla",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

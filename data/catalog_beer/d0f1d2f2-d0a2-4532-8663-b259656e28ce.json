@@ -1,0 +1,11 @@
+{
+  "id": "d0f1d2f2-d0a2-4532-8663-b259656e28ce",
+  "object": "beer",
+  "name": "Charleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

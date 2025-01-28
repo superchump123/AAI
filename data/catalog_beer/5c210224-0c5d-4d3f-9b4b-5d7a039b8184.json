@@ -1,0 +1,11 @@
+{
+  "id": "5c210224-0c5d-4d3f-9b4b-5d7a039b8184",
+  "object": "beer",
+  "name": "The Randonneur",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

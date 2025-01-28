@@ -1,0 +1,11 @@
+{
+  "id": "7d524979-edb8-40ba-9f91-57707a51e8ce",
+  "object": "beer",
+  "name": "Saboteur",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

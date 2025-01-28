@@ -1,0 +1,11 @@
+{
+  "id": "fcb1d8d6-0be2-4e1b-8e92-e840826f78bf",
+  "object": "beer",
+  "name": "Grapefruit Walleye",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 94,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "272b734a-7dec-48ce-a296-88eec9333ce9",
+  "object": "beer",
+  "name": "14'er Java Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

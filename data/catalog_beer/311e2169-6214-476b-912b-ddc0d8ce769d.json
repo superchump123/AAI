@@ -1,0 +1,11 @@
+{
+  "id": "311e2169-6214-476b-912b-ddc0d8ce769d",
+  "object": "beer",
+  "name": "Riot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

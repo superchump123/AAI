@@ -1,0 +1,11 @@
+{
+  "id": "22591091-fda1-4c26-9bd6-e5e331084a98",
+  "object": "beer",
+  "name": "Final Frontier",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

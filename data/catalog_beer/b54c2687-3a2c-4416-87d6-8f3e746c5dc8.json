@@ -1,0 +1,11 @@
+{
+  "id": "b54c2687-3a2c-4416-87d6-8f3e746c5dc8",
+  "object": "beer",
+  "name": "Angry Dragon Pre-prohibition lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

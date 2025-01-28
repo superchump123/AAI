@@ -1,0 +1,11 @@
+{
+  "id": "9bcf117b-06b5-4b09-949d-99446c75b621",
+  "object": "beer",
+  "name": "Kerstmutske",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

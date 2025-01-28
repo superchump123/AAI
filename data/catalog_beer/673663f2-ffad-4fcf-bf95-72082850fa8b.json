@@ -1,0 +1,11 @@
+{
+  "id": "673663f2-ffad-4fcf-bf95-72082850fa8b",
+  "object": "beer",
+  "name": "Hop Tun",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

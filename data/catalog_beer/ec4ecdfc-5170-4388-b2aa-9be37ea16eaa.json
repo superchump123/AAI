@@ -1,0 +1,11 @@
+{
+  "id": "ec4ecdfc-5170-4388-b2aa-9be37ea16eaa",
+  "object": "beer",
+  "name": "Grain d\u2019Orge Canaille",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

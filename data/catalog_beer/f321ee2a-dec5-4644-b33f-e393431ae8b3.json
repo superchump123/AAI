@@ -1,0 +1,11 @@
+{
+  "id": "f321ee2a-dec5-4644-b33f-e393431ae8b3",
+  "object": "beer",
+  "name": "Saxon Action",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

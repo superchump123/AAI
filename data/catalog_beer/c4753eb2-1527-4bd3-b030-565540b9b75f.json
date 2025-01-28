@@ -1,0 +1,11 @@
+{
+  "id": "c4753eb2-1527-4bd3-b030-565540b9b75f",
+  "object": "beer",
+  "name": "Rose of Shannon",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

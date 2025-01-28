@@ -1,0 +1,11 @@
+{
+  "id": "b65c9b39-0595-4d59-9f84-5c6faf54ce9b",
+  "object": "beer",
+  "name": "Praha",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

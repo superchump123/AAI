@@ -1,0 +1,11 @@
+{
+  "id": "506ee30f-32b2-4873-bd28-092ecf36f7f0",
+  "object": "beer",
+  "name": "Blonde Draft",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "daf24b67-062a-4651-9aa9-6ce602cba126",
+  "object": "beer",
+  "name": "Sour Trip",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "955fd1c3-143f-4b2f-94ea-8c7dfc0a9aac",
+  "object": "beer",
+  "name": "Big Mac",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

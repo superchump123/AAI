@@ -1,0 +1,11 @@
+{
+  "id": "f1ad0c31-bf48-4df3-a777-f9884e1ae3b5",
+  "object": "beer",
+  "name": "Rye Demise",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

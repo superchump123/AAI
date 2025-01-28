@@ -1,0 +1,11 @@
+{
+  "id": "dbf37590-60be-4fcd-9ee6-0c26e02371b1",
+  "object": "beer",
+  "name": "Pretty in Pink",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

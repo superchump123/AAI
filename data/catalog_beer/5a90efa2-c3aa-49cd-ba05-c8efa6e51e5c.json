@@ -1,0 +1,11 @@
+{
+  "id": "5a90efa2-c3aa-49cd-ba05-c8efa6e51e5c",
+  "object": "beer",
+  "name": "Passion Fruit IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

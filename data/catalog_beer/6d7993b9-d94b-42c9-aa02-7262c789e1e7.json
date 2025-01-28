@@ -1,0 +1,11 @@
+{
+  "id": "6d7993b9-d94b-42c9-aa02-7262c789e1e7",
+  "object": "beer",
+  "name": "Q-Stew Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

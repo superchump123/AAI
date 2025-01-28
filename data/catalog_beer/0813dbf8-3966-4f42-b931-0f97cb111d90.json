@@ -1,0 +1,11 @@
+{
+  "id": "0813dbf8-3966-4f42-b931-0f97cb111d90",
+  "object": "beer",
+  "name": "Greenbelt Farmhouse Wheat",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

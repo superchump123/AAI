@@ -1,0 +1,11 @@
+{
+  "id": "16b2aefa-4157-457a-a7c3-15a64e77d5a0",
+  "object": "beer",
+  "name": "Dobbel Palm",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

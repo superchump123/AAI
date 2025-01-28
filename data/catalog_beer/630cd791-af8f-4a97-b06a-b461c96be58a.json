@@ -1,0 +1,11 @@
+{
+  "id": "630cd791-af8f-4a97-b06a-b461c96be58a",
+  "object": "beer",
+  "name": "Bombshell Dunkelweizen",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

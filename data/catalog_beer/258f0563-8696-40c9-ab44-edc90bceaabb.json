@@ -1,0 +1,11 @@
+{
+  "id": "258f0563-8696-40c9-ab44-edc90bceaabb",
+  "object": "beer",
+  "name": "Von Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

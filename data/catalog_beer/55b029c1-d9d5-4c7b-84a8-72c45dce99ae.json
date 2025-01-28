@@ -1,0 +1,11 @@
+{
+  "id": "55b029c1-d9d5-4c7b-84a8-72c45dce99ae",
+  "object": "beer",
+  "name": "One Love IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

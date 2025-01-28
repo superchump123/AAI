@@ -1,0 +1,11 @@
+{
+  "id": "2e1f1f5e-4717-4dba-8bc9-453c9b66de68",
+  "object": "beer",
+  "name": "Experimental DIPA #005",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

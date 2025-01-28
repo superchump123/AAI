@@ -1,0 +1,11 @@
+{
+  "id": "d789301e-5aa6-4797-918d-96061478157b",
+  "object": "beer",
+  "name": "Eureka!",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "be591621-0f66-4ba1-9de9-5809ef309789",
+  "object": "beer",
+  "name": "GLUEK PILSENER PALE LAGER",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

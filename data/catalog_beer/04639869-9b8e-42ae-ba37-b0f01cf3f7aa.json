@@ -1,0 +1,11 @@
+{
+  "id": "04639869-9b8e-42ae-ba37-b0f01cf3f7aa",
+  "object": "beer",
+  "name": "Black's Nocturne",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "70f02031-5729-4984-b1cc-8ac24d625aac",
+  "object": "beer",
+  "name": "Peoples Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

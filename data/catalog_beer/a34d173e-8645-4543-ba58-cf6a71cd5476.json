@@ -1,0 +1,11 @@
+{
+  "id": "a34d173e-8645-4543-ba58-cf6a71cd5476",
+  "object": "beer",
+  "name": "ACE Pumpkin Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

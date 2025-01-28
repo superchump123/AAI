@@ -1,0 +1,11 @@
+{
+  "id": "a799f463-0fd3-494a-aade-d43cd896a736",
+  "object": "beer",
+  "name": "Ku'Damm",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

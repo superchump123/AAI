@@ -1,0 +1,11 @@
+{
+  "id": "cef47b6c-5c05-4538-a8f3-f40664ca0176",
+  "object": "beer",
+  "name": "Harlequin",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

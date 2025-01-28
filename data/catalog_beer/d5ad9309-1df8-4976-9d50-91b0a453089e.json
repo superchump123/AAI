@@ -1,0 +1,11 @@
+{
+  "id": "d5ad9309-1df8-4976-9d50-91b0a453089e",
+  "object": "beer",
+  "name": "Spruced",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "577de063-6d79-42a0-8488-70070a0681d2",
+  "object": "beer",
+  "name": "Saranac Mountain Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

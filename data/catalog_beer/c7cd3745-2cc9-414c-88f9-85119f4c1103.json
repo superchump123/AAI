@@ -1,0 +1,11 @@
+{
+  "id": "c7cd3745-2cc9-414c-88f9-85119f4c1103",
+  "object": "beer",
+  "name": "Lindener Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "add53d3f-8a74-476a-981e-42b9549f3d3f",
+  "object": "beer",
+  "name": "Moat Belgian Triple",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

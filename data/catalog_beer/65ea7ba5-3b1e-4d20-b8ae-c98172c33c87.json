@@ -1,0 +1,11 @@
+{
+  "id": "65ea7ba5-3b1e-4d20-b8ae-c98172c33c87",
+  "object": "beer",
+  "name": "Bardstown Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

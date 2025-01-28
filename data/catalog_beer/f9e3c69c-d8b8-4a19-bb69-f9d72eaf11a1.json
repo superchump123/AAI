@@ -1,0 +1,11 @@
+{
+  "id": "f9e3c69c-d8b8-4a19-bb69-f9d72eaf11a1",
+  "object": "beer",
+  "name": "Fernet Aged Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

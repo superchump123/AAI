@@ -1,0 +1,11 @@
+{
+  "id": "e80718d2-2de4-44cc-9ae3-8997ca8d636b",
+  "object": "beer",
+  "name": "Golden Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

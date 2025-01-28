@@ -1,0 +1,11 @@
+{
+  "id": "1ace1348-e3b1-40a7-8634-12ccb5134b40",
+  "object": "beer",
+  "name": "Red Rattler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

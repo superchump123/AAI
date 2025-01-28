@@ -1,0 +1,11 @@
+{
+  "id": "46c6dfc0-b202-46f2-88fd-353233f9a0cd",
+  "object": "beer",
+  "name": "Wanderlust IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

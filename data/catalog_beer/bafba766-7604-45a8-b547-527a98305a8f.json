@@ -1,0 +1,11 @@
+{
+  "id": "bafba766-7604-45a8-b547-527a98305a8f",
+  "object": "beer",
+  "name": "Salvation",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

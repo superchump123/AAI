@@ -1,0 +1,11 @@
+{
+  "id": "b31dd83f-fc0f-4b14-9ed5-f112834d872d",
+  "object": "beer",
+  "name": "Ale Camino Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

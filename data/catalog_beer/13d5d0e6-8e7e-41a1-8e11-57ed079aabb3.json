@@ -1,0 +1,11 @@
+{
+  "id": "13d5d0e6-8e7e-41a1-8e11-57ed079aabb3",
+  "object": "beer",
+  "name": "Indiana Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

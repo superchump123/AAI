@@ -1,0 +1,11 @@
+{
+  "id": "df35d04f-4c64-4aaf-82b9-ade690d5ce9a",
+  "object": "beer",
+  "name": "Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

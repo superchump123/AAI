@@ -1,0 +1,11 @@
+{
+  "id": "11fb1ac7-6eb3-4895-b80b-f5c6c70034a4",
+  "object": "beer",
+  "name": "Kom-Brew-Cha",
+  "style": "Blood Orange Cranberry (Tonic)",
+  "description": "Probiotic and tart. This funk sparkling beverage is citrus meets barrel.",
+  "abv": 0.1,
+  "ibu": null,
+  "cb_verified": true,
+  "last_modified": 1588448205
+}

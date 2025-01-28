@@ -1,0 +1,11 @@
+{
+  "id": "0c487638-04c9-4da4-85b8-d6e4592ef729",
+  "object": "beer",
+  "name": "Original 16 Copper",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

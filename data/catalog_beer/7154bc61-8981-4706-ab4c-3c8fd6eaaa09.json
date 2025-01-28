@@ -1,0 +1,11 @@
+{
+  "id": "7154bc61-8981-4706-ab4c-3c8fd6eaaa09",
+  "object": "beer",
+  "name": "Sara Buckwheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

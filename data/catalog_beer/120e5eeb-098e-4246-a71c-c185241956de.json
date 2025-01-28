@@ -1,0 +1,11 @@
+{
+  "id": "120e5eeb-098e-4246-a71c-c185241956de",
+  "object": "beer",
+  "name": "Inversion IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

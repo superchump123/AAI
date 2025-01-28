@@ -1,0 +1,11 @@
+{
+  "id": "e790800b-b3a0-45a2-b5e6-27354b817e68",
+  "object": "beer",
+  "name": "Capitol Session IPA",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

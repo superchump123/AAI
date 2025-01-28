@@ -1,0 +1,11 @@
+{
+  "id": "0c3dc596-c1ab-460a-9735-95d6d0e06d76",
+  "object": "beer",
+  "name": "Work",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

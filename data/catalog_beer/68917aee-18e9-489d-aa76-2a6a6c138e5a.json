@@ -1,0 +1,11 @@
+{
+  "id": "68917aee-18e9-489d-aa76-2a6a6c138e5a",
+  "object": "beer",
+  "name": "de Coup",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

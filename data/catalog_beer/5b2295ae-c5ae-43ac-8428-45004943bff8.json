@@ -1,0 +1,11 @@
+{
+  "id": "5b2295ae-c5ae-43ac-8428-45004943bff8",
+  "object": "beer",
+  "name": "Cosmonaut",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

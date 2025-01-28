@@ -1,0 +1,11 @@
+{
+  "id": "5931fe44-2578-43ca-aa61-a1bbbc310639",
+  "object": "beer",
+  "name": "Hoppy Birthday",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

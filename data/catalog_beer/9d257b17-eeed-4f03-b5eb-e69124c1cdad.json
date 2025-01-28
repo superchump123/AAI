@@ -1,0 +1,11 @@
+{
+  "id": "9d257b17-eeed-4f03-b5eb-e69124c1cdad",
+  "object": "beer",
+  "name": "Rubicon",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2158f2a9-1f1d-4c44-815e-f61f452a14d5",
+  "object": "beer",
+  "name": "Kapuziner Weissbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

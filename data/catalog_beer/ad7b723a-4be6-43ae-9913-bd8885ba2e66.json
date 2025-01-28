@@ -1,0 +1,11 @@
+{
+  "id": "ad7b723a-4be6-43ae-9913-bd8885ba2e66",
+  "object": "beer",
+  "name": "Koala",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

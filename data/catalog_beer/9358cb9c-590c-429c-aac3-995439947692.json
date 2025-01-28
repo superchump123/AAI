@@ -1,0 +1,11 @@
+{
+  "id": "9358cb9c-590c-429c-aac3-995439947692",
+  "object": "beer",
+  "name": "Celestial CDL",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "39307d9c-d69c-46c6-adec-edba151cb933",
+  "object": "beer",
+  "name": "Inner Tube",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

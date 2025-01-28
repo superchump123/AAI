@@ -1,0 +1,11 @@
+{
+  "id": "38c43b6f-51ad-4a5f-a789-3ac1ff7c9be5",
+  "object": "beer",
+  "name": "Another IPA With A Cat Name Vol. 2",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

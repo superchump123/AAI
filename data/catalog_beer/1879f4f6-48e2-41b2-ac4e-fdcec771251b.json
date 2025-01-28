@@ -1,0 +1,11 @@
+{
+  "id": "1879f4f6-48e2-41b2-ac4e-fdcec771251b",
+  "object": "beer",
+  "name": "Maple Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

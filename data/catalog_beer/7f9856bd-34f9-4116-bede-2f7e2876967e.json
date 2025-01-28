@@ -1,0 +1,11 @@
+{
+  "id": "7f9856bd-34f9-4116-bede-2f7e2876967e",
+  "object": "beer",
+  "name": "Mean Gene",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

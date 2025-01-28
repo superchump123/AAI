@@ -1,0 +1,11 @@
+{
+  "id": "0021e819-7bde-476f-a28e-30d92cd1d93a",
+  "object": "beer",
+  "name": "Tivoli Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8e8800d1-6ac6-4c56-b650-b6ef1943148a",
+  "object": "beer",
+  "name": "Fading Beauty",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c97c79ca-bde1-4313-928b-d0d74c6b9191",
+  "object": "beer",
+  "name": "Bye Bye Miss American Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

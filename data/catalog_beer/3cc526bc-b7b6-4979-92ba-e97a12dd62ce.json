@@ -1,0 +1,11 @@
+{
+  "id": "3cc526bc-b7b6-4979-92ba-e97a12dd62ce",
+  "object": "beer",
+  "name": "Phantom Blanca Belgian Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

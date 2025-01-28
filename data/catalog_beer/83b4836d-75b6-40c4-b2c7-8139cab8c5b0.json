@@ -1,0 +1,11 @@
+{
+  "id": "83b4836d-75b6-40c4-b2c7-8139cab8c5b0",
+  "object": "beer",
+  "name": "Ray John",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

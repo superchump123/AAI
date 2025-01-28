@@ -1,0 +1,11 @@
+{
+  "id": "2d42c08c-a1f8-4fbc-9782-514ea51ebb1e",
+  "object": "beer",
+  "name": "Drake Smokes 10k",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

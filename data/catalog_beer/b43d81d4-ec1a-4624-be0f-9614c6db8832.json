@@ -1,0 +1,11 @@
+{
+  "id": "b43d81d4-ec1a-4624-be0f-9614c6db8832",
+  "object": "beer",
+  "name": "Old Mission Lighthouse Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "34d1f035-474f-4d32-bb6b-1b0eac1f7faa",
+  "object": "beer",
+  "name": "Saranac Summer Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

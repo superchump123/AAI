@@ -1,0 +1,11 @@
+{
+  "id": "37ed7d5d-1d3b-497f-9e7f-21251772f3db",
+  "object": "beer",
+  "name": "Hopvine IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

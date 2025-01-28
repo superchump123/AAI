@@ -1,0 +1,11 @@
+{
+  "id": "7cb23d61-5cbc-42ad-9cf5-971f702211ab",
+  "object": "beer",
+  "name": "Head First",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

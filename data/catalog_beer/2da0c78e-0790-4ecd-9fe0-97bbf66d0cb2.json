@@ -1,0 +1,11 @@
+{
+  "id": "2da0c78e-0790-4ecd-9fe0-97bbf66d0cb2",
+  "object": "beer",
+  "name": "Oh Hey! Tropical IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a920c07d-4760-45ef-bcd5-f89a7597171d",
+  "object": "beer",
+  "name": "Machine Dream",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

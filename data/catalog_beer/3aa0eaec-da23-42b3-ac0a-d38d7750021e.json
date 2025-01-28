@@ -1,0 +1,11 @@
+{
+  "id": "3aa0eaec-da23-42b3-ac0a-d38d7750021e",
+  "object": "beer",
+  "name": "Willie Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c45c9ed8-4744-4d0d-a92a-46e145f6494a",
+  "object": "beer",
+  "name": "Hvede Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

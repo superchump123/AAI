@@ -1,0 +1,11 @@
+{
+  "id": "42464315-8af0-4704-aefb-5aa05975236c",
+  "object": "beer",
+  "name": "TKO Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

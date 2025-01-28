@@ -1,0 +1,11 @@
+{
+  "id": "cf3e6526-d965-41a7-8ece-31ca9e798519",
+  "object": "beer",
+  "name": "Kennett Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

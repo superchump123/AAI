@@ -1,0 +1,11 @@
+{
+  "id": "0956c969-f269-45ae-b069-2f6a19a73159",
+  "object": "beer",
+  "name": "Farmhouse Wheat Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

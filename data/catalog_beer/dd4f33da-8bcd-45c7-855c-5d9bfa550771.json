@@ -1,0 +1,11 @@
+{
+  "id": "dd4f33da-8bcd-45c7-855c-5d9bfa550771",
+  "object": "beer",
+  "name": "Ulriken",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

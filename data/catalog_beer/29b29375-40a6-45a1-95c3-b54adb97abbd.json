@@ -1,0 +1,11 @@
+{
+  "id": "29b29375-40a6-45a1-95c3-b54adb97abbd",
+  "object": "beer",
+  "name": "Son of a Batch (with Hickory Wood)",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

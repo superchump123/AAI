@@ -1,0 +1,11 @@
+{
+  "id": "c2be2b88-d9c6-4da8-9ee9-50201be3ba45",
+  "object": "beer",
+  "name": "Defender IPA",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

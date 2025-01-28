@@ -1,0 +1,11 @@
+{
+  "id": "16c04544-0757-4c63-a65a-5b5b41662937",
+  "object": "beer",
+  "name": "Krystalwisse",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

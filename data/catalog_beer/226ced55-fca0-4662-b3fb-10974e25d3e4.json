@@ -1,0 +1,11 @@
+{
+  "id": "226ced55-fca0-4662-b3fb-10974e25d3e4",
+  "object": "beer",
+  "name": "Michigander Harvest IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

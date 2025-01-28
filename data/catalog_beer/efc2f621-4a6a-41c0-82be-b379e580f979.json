@@ -1,0 +1,11 @@
+{
+  "id": "efc2f621-4a6a-41c0-82be-b379e580f979",
+  "object": "beer",
+  "name": "Farm Table: Mild Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

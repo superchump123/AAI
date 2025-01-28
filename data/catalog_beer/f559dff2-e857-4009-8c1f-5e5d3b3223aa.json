@@ -1,0 +1,11 @@
+{
+  "id": "f559dff2-e857-4009-8c1f-5e5d3b3223aa",
+  "object": "beer",
+  "name": "Big Fun Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

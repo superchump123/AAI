@@ -1,0 +1,11 @@
+{
+  "id": "1ddd1db8-e606-49e2-b11e-a708b7d74257",
+  "object": "beer",
+  "name": "HMS Bounty Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

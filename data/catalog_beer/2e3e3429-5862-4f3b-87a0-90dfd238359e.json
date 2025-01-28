@@ -1,0 +1,11 @@
+{
+  "id": "2e3e3429-5862-4f3b-87a0-90dfd238359e",
+  "object": "beer",
+  "name": "Surley Goat IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

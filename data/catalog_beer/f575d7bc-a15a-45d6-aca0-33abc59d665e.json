@@ -1,0 +1,11 @@
+{
+  "id": "f575d7bc-a15a-45d6-aca0-33abc59d665e",
+  "object": "beer",
+  "name": "Rocket Science Mad Hatter",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7e7dab37-ec25-43e1-9a2a-661753e4d01f",
+  "object": "beer",
+  "name": "Down in Kokomo",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

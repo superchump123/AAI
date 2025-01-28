@@ -1,0 +1,11 @@
+{
+  "id": "3364658b-5a94-45c8-835d-a18f2f6c3d02",
+  "object": "beer",
+  "name": "Country Mellow",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

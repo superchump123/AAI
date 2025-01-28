@@ -1,0 +1,11 @@
+{
+  "id": "37171ba0-ef1b-4a6f-9b06-7f19f52abb52",
+  "object": "beer",
+  "name": "Fresh Hop Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6e619dc0-5c8b-4c3c-88af-65f0926b08d6",
+  "object": "beer",
+  "name": "Brownson",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

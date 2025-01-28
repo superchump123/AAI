@@ -1,0 +1,11 @@
+{
+  "id": "8cf08687-f523-4e26-a336-0b9c8af0ecef",
+  "object": "beer",
+  "name": "Maximus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

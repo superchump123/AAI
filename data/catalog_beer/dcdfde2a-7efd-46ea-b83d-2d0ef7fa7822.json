@@ -1,0 +1,11 @@
+{
+  "id": "dcdfde2a-7efd-46ea-b83d-2d0ef7fa7822",
+  "object": "beer",
+  "name": "Experimental Pepper IPA",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

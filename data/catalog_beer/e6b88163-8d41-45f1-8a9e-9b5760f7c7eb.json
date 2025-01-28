@@ -1,0 +1,11 @@
+{
+  "id": "e6b88163-8d41-45f1-8a9e-9b5760f7c7eb",
+  "object": "beer",
+  "name": "Bates Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

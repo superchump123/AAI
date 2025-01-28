@@ -1,0 +1,11 @@
+{
+  "id": "e3c55d90-30d2-478c-a5b6-1fbef16d1cc7",
+  "object": "beer",
+  "name": "Lawn Mower Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

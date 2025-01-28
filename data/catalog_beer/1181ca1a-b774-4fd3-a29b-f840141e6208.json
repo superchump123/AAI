@@ -1,0 +1,11 @@
+{
+  "id": "1181ca1a-b774-4fd3-a29b-f840141e6208",
+  "object": "beer",
+  "name": "Mo'Citra",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

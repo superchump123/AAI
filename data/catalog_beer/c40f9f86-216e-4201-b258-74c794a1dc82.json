@@ -1,0 +1,11 @@
+{
+  "id": "c40f9f86-216e-4201-b258-74c794a1dc82",
+  "object": "beer",
+  "name": "Krampus Nacht",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

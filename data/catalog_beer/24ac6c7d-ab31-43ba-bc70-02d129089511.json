@@ -1,0 +1,11 @@
+{
+  "id": "24ac6c7d-ab31-43ba-bc70-02d129089511",
+  "object": "beer",
+  "name": "Amor Amargo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

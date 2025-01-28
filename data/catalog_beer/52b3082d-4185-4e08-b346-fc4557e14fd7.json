@@ -1,0 +1,11 @@
+{
+  "id": "52b3082d-4185-4e08-b346-fc4557e14fd7",
+  "object": "beer",
+  "name": "Hye-Biscus",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

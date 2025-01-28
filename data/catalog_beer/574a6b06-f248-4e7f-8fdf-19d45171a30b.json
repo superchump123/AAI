@@ -1,0 +1,11 @@
+{
+  "id": "574a6b06-f248-4e7f-8fdf-19d45171a30b",
+  "object": "beer",
+  "name": "New Dublin Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

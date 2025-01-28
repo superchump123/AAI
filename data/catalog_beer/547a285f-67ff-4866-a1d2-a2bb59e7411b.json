@@ -1,0 +1,11 @@
+{
+  "id": "547a285f-67ff-4866-a1d2-a2bb59e7411b",
+  "object": "beer",
+  "name": "American Beauty",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

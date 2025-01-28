@@ -1,0 +1,11 @@
+{
+  "id": "b96875c0-6038-4e96-bcf2-ddf47c5943b0",
+  "object": "beer",
+  "name": "Sea Witch",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

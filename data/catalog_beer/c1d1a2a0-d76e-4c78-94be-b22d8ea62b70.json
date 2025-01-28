@@ -1,0 +1,11 @@
+{
+  "id": "c1d1a2a0-d76e-4c78-94be-b22d8ea62b70",
+  "object": "beer",
+  "name": "Villager",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

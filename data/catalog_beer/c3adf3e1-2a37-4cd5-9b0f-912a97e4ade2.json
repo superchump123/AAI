@@ -1,0 +1,11 @@
+{
+  "id": "c3adf3e1-2a37-4cd5-9b0f-912a97e4ade2",
+  "object": "beer",
+  "name": "Short Arm",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

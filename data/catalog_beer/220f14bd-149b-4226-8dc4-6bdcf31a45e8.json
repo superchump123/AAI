@@ -1,0 +1,11 @@
+{
+  "id": "220f14bd-149b-4226-8dc4-6bdcf31a45e8",
+  "object": "beer",
+  "name": "Cape May Take Five",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

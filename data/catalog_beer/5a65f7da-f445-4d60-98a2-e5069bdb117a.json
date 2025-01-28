@@ -1,0 +1,11 @@
+{
+  "id": "5a65f7da-f445-4d60-98a2-e5069bdb117a",
+  "object": "beer",
+  "name": "Honey of a Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

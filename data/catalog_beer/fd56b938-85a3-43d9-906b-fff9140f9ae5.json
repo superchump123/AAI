@@ -1,0 +1,11 @@
+{
+  "id": "fd56b938-85a3-43d9-906b-fff9140f9ae5",
+  "object": "beer",
+  "name": "Sloppy Seconds",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

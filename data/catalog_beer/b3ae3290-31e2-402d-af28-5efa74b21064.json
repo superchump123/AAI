@@ -1,0 +1,11 @@
+{
+  "id": "b3ae3290-31e2-402d-af28-5efa74b21064",
+  "object": "beer",
+  "name": "Peanut Butter Jelly Time",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

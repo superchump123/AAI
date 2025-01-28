@@ -1,0 +1,11 @@
+{
+  "id": "1be22a5c-4ee2-4a33-a302-e39365482473",
+  "object": "beer",
+  "name": "Glacier Ale",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

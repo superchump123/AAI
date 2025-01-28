@@ -1,0 +1,11 @@
+{
+  "id": "fbf1eb40-be60-49af-a273-20af21d4dcb0",
+  "object": "beer",
+  "name": "Lehner Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

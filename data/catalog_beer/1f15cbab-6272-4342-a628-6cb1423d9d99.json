@@ -1,0 +1,11 @@
+{
+  "id": "1f15cbab-6272-4342-a628-6cb1423d9d99",
+  "object": "beer",
+  "name": "Prospector IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9df22dc6-217c-4676-93f4-8aafc16fc666",
+  "object": "beer",
+  "name": "Night of the Living Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

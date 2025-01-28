@@ -1,0 +1,11 @@
+{
+  "id": "c792ed33-adbf-4a61-840e-49ec4a81e2bc",
+  "object": "beer",
+  "name": "Orange Peel Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1c25dde2-53c7-40a4-887e-55498036d7e0",
+  "object": "beer",
+  "name": "Marlower Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d1f99841-2214-4ae7-9309-c6033c3f2981",
+  "object": "beer",
+  "name": "Sour Grapes",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7000e81e-5a08-42aa-afcb-c4ad5770072f",
+  "object": "beer",
+  "name": "The Brass Tap Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

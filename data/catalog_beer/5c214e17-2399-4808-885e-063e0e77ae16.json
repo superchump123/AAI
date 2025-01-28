@@ -1,0 +1,11 @@
+{
+  "id": "5c214e17-2399-4808-885e-063e0e77ae16",
+  "object": "beer",
+  "name": "Original Press",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

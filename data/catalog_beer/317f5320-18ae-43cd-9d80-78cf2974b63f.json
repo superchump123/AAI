@@ -1,0 +1,11 @@
+{
+  "id": "317f5320-18ae-43cd-9d80-78cf2974b63f",
+  "object": "beer",
+  "name": "Union Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

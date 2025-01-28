@@ -1,0 +1,11 @@
+{
+  "id": "6d6c75c0-9cae-4ae5-b3d8-2098c8d50fde",
+  "object": "beer",
+  "name": "Dorfbier",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

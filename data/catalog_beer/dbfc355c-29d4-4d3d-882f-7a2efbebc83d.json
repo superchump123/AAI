@@ -1,0 +1,11 @@
+{
+  "id": "dbfc355c-29d4-4d3d-882f-7a2efbebc83d",
+  "object": "beer",
+  "name": "Hoppy Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

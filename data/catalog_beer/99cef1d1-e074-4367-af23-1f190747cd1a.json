@@ -1,0 +1,11 @@
+{
+  "id": "99cef1d1-e074-4367-af23-1f190747cd1a",
+  "object": "beer",
+  "name": "Springtime Ale",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

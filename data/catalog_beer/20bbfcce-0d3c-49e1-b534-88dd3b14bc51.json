@@ -1,0 +1,11 @@
+{
+  "id": "20bbfcce-0d3c-49e1-b534-88dd3b14bc51",
+  "object": "beer",
+  "name": "Grassroots IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b26566d0-b882-4ab2-bca6-70dae66ec692",
+  "object": "beer",
+  "name": "The Conqueror",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

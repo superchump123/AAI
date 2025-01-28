@@ -1,0 +1,11 @@
+{
+  "id": "5170977d-2b23-4bc6-89fd-6d573bdf4eb0",
+  "object": "beer",
+  "name": "Kellerbier Kolsch Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

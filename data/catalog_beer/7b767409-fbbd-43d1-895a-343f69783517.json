@@ -1,0 +1,11 @@
+{
+  "id": "7b767409-fbbd-43d1-895a-343f69783517",
+  "object": "beer",
+  "name": "2 Cilindri",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

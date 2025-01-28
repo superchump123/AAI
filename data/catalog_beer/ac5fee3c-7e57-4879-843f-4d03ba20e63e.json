@@ -1,0 +1,11 @@
+{
+  "id": "ac5fee3c-7e57-4879-843f-4d03ba20e63e",
+  "object": "beer",
+  "name": "East Coast PALE ALE",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

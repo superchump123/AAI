@@ -1,0 +1,11 @@
+{
+  "id": "900d2246-f157-43b1-b564-bafca4748774",
+  "object": "beer",
+  "name": "Transporter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

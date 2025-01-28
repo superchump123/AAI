@@ -1,0 +1,11 @@
+{
+  "id": "50fdb770-1f2b-446f-a0d5-db91fa254cba",
+  "object": "beer",
+  "name": "Such A Teaz",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

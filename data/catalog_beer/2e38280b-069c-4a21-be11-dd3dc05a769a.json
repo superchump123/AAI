@@ -1,0 +1,11 @@
+{
+  "id": "2e38280b-069c-4a21-be11-dd3dc05a769a",
+  "object": "beer",
+  "name": "Ready, Set, Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

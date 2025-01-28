@@ -1,0 +1,11 @@
+{
+  "id": "ec5f23a7-c4ab-443a-a3cd-59210d916ebb",
+  "object": "beer",
+  "name": "Red Hop Rising IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9db8df5c-cca1-49cd-8e36-7dda2ba3a7ae",
+  "object": "beer",
+  "name": "Strawberry Moon",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

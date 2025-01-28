@@ -1,0 +1,11 @@
+{
+  "id": "0f185fbe-96f2-4009-9730-3971c401d258",
+  "object": "beer",
+  "name": "Big S Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

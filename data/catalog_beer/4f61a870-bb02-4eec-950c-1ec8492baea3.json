@@ -1,0 +1,11 @@
+{
+  "id": "4f61a870-bb02-4eec-950c-1ec8492baea3",
+  "object": "beer",
+  "name": "Wittekerke",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

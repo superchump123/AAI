@@ -1,0 +1,11 @@
+{
+  "id": "5dca9240-188b-4e98-823e-d8611507d008",
+  "object": "beer",
+  "name": "De Witte",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

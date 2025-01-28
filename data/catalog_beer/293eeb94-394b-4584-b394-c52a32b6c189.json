@@ -1,0 +1,11 @@
+{
+  "id": "293eeb94-394b-4584-b394-c52a32b6c189",
+  "object": "beer",
+  "name": "Dinkelacker Alkoholfrei",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

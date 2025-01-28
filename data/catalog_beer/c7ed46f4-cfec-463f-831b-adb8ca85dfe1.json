@@ -1,0 +1,11 @@
+{
+  "id": "c7ed46f4-cfec-463f-831b-adb8ca85dfe1",
+  "object": "beer",
+  "name": "Owler",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9765c97f-bca3-42cf-9aa7-cb1320329189",
+  "object": "beer",
+  "name": "Thunder God",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a0a16155-a305-4a26-86f8-044c700aeb7d",
+  "object": "beer",
+  "name": "Springdale Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

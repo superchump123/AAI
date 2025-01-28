@@ -1,0 +1,11 @@
+{
+  "id": "fa076bac-36eb-4e6b-808f-99b4e3b80af4",
+  "object": "beer",
+  "name": "VIPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

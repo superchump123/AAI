@@ -1,0 +1,11 @@
+{
+  "id": "25ddefa6-a2e1-4938-940b-7deecf7cdab2",
+  "object": "beer",
+  "name": "West Meets East",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

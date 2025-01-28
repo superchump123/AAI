@@ -1,0 +1,11 @@
+{
+  "id": "4f68dbc3-9a84-46b8-bd12-15ecd6d75c54",
+  "object": "beer",
+  "name": "Old Route 11 Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

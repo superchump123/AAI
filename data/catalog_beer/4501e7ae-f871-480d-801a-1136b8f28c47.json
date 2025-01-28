@@ -1,0 +1,11 @@
+{
+  "id": "4501e7ae-f871-480d-801a-1136b8f28c47",
+  "object": "beer",
+  "name": "Superb IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

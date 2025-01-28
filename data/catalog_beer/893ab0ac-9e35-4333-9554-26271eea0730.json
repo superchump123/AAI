@@ -1,0 +1,11 @@
+{
+  "id": "893ab0ac-9e35-4333-9554-26271eea0730",
+  "object": "beer",
+  "name": "Starr Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

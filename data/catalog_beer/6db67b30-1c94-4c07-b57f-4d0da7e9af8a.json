@@ -1,0 +1,11 @@
+{
+  "id": "6db67b30-1c94-4c07-b57f-4d0da7e9af8a",
+  "object": "beer",
+  "name": "Sack Time",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f196d428-4013-4066-b9b5-87f13bf8880a",
+  "object": "beer",
+  "name": "Wheat",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

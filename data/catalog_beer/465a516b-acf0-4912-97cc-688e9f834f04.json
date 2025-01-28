@@ -1,0 +1,11 @@
+{
+  "id": "465a516b-acf0-4912-97cc-688e9f834f04",
+  "object": "beer",
+  "name": "Witte Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

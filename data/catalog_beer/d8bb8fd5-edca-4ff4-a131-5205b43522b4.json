@@ -1,0 +1,11 @@
+{
+  "id": "d8bb8fd5-edca-4ff4-a131-5205b43522b4",
+  "object": "beer",
+  "name": "Brandywine Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

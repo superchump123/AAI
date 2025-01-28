@@ -1,0 +1,11 @@
+{
+  "id": "b6af381c-17d0-4119-a6ad-a3cc64d1e4d1",
+  "object": "beer",
+  "name": "Eleanor's Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

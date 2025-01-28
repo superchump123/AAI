@@ -1,0 +1,11 @@
+{
+  "id": "fbabbe05-0fcc-4700-9247-17b8f88e9a02",
+  "object": "beer",
+  "name": "Nordskye Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

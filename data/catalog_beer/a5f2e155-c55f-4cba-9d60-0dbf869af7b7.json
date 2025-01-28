@@ -1,0 +1,11 @@
+{
+  "id": "a5f2e155-c55f-4cba-9d60-0dbf869af7b7",
+  "object": "beer",
+  "name": "Buddha Nuvo",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

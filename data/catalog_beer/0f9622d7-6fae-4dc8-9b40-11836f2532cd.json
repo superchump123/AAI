@@ -1,0 +1,11 @@
+{
+  "id": "0f9622d7-6fae-4dc8-9b40-11836f2532cd",
+  "object": "beer",
+  "name": "Monster Mash",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

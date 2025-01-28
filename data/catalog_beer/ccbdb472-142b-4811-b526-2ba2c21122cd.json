@@ -1,0 +1,11 @@
+{
+  "id": "ccbdb472-142b-4811-b526-2ba2c21122cd",
+  "object": "beer",
+  "name": "Sidekick",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

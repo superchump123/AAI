@@ -1,0 +1,11 @@
+{
+  "id": "a651cf7b-e731-4a87-a4f0-ba0c72fa92f1",
+  "object": "beer",
+  "name": "Very Berry Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b400f52f-8dba-4952-b570-c50779858b3b",
+  "object": "beer",
+  "name": "Kumquat Chameleon",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2437cdf3-38a1-41b4-847f-9655bbc7bd20",
+  "object": "beer",
+  "name": "Satisfaction",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

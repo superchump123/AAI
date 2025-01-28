@@ -1,0 +1,11 @@
+{
+  "id": "e9be8a39-2589-4772-b898-56e33b8bdb09",
+  "object": "beer",
+  "name": "Summer Fusion",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

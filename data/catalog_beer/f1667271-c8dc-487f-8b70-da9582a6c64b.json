@@ -1,0 +1,11 @@
+{
+  "id": "f1667271-c8dc-487f-8b70-da9582a6c64b",
+  "object": "beer",
+  "name": "Barbarian Honey Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

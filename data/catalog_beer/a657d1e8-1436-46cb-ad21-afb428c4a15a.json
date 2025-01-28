@@ -1,0 +1,11 @@
+{
+  "id": "a657d1e8-1436-46cb-ad21-afb428c4a15a",
+  "object": "beer",
+  "name": "The Blonde Next Door",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

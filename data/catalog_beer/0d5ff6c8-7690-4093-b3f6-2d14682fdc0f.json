@@ -1,0 +1,11 @@
+{
+  "id": "0d5ff6c8-7690-4093-b3f6-2d14682fdc0f",
+  "object": "beer",
+  "name": "Black Toro",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "12849975-bd5e-4fc1-9dc2-d3d7c2d8d787",
+  "object": "beer",
+  "name": "Calm Before The Storm",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

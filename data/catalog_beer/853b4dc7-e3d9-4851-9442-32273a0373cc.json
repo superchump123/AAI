@@ -1,0 +1,11 @@
+{
+  "id": "853b4dc7-e3d9-4851-9442-32273a0373cc",
+  "object": "beer",
+  "name": "Wolf Wolfsblut",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

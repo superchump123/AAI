@@ -1,0 +1,11 @@
+{
+  "id": "eedf031b-7e66-460a-a9ca-c446b0babb76",
+  "object": "beer",
+  "name": "Java Lava",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

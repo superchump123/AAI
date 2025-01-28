@@ -1,0 +1,11 @@
+{
+  "id": "e43d114e-5b81-4067-b04f-8387d18898f2",
+  "object": "beer",
+  "name": "Margarita Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

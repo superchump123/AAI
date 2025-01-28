@@ -1,0 +1,11 @@
+{
+  "id": "89ef8306-d472-483e-9498-e5ab00b7cf07",
+  "object": "beer",
+  "name": "Hopped Honey",
+  "style": "Semi-Sweet Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0571a942-371b-45c8-b3c2-a221a5a36ffd",
+  "object": "beer",
+  "name": "Fremont Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

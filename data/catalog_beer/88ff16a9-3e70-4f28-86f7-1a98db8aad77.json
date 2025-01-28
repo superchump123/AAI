@@ -1,0 +1,11 @@
+{
+  "id": "88ff16a9-3e70-4f28-86f7-1a98db8aad77",
+  "object": "beer",
+  "name": "White Dog IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

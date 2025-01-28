@@ -1,0 +1,11 @@
+{
+  "id": "46fde1e7-d9df-46b8-bfad-b5bce7e30d2c",
+  "object": "beer",
+  "name": "Hotbox Coffee Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

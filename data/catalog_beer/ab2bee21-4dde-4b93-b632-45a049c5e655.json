@@ -1,0 +1,11 @@
+{
+  "id": "ab2bee21-4dde-4b93-b632-45a049c5e655",
+  "object": "beer",
+  "name": "Gueuze",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

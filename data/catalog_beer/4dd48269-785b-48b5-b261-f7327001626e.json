@@ -1,0 +1,11 @@
+{
+  "id": "4dd48269-785b-48b5-b261-f7327001626e",
+  "object": "beer",
+  "name": "Dudeman",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

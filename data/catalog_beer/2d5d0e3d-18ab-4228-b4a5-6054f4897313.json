@@ -1,0 +1,11 @@
+{
+  "id": "2d5d0e3d-18ab-4228-b4a5-6054f4897313",
+  "object": "beer",
+  "name": "Trailrunner Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

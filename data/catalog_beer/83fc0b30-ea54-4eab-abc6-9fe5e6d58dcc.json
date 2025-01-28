@@ -1,0 +1,11 @@
+{
+  "id": "83fc0b30-ea54-4eab-abc6-9fe5e6d58dcc",
+  "object": "beer",
+  "name": "Royal Wedding Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

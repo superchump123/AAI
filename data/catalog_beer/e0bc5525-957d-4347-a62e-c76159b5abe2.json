@@ -1,0 +1,11 @@
+{
+  "id": "e0bc5525-957d-4347-a62e-c76159b5abe2",
+  "object": "beer",
+  "name": "Dark Matter",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

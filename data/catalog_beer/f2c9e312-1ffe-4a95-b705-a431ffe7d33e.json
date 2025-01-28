@@ -1,0 +1,11 @@
+{
+  "id": "f2c9e312-1ffe-4a95-b705-a431ffe7d33e",
+  "object": "beer",
+  "name": "Batch No. 1 Levud's",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

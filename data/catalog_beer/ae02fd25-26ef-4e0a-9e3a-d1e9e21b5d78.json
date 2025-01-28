@@ -1,0 +1,11 @@
+{
+  "id": "ae02fd25-26ef-4e0a-9e3a-d1e9e21b5d78",
+  "object": "beer",
+  "name": "Count Bockula",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

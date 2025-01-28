@@ -1,0 +1,11 @@
+{
+  "id": "85519562-721d-42b9-b36b-beb62dd235cb",
+  "object": "beer",
+  "name": "The Trouble with Tripels",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

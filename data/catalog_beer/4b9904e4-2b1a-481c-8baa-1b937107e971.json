@@ -1,0 +1,11 @@
+{
+  "id": "4b9904e4-2b1a-481c-8baa-1b937107e971",
+  "object": "beer",
+  "name": "Man on the Moo",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

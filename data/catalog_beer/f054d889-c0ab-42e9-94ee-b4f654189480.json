@@ -1,0 +1,11 @@
+{
+  "id": "f054d889-c0ab-42e9-94ee-b4f654189480",
+  "object": "beer",
+  "name": "Overboard IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

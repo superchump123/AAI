@@ -1,0 +1,11 @@
+{
+  "id": "9dbfea2d-7fc7-442f-b2a9-5716eaaa258a",
+  "object": "beer",
+  "name": "Misty Mountain",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

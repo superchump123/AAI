@@ -1,0 +1,11 @@
+{
+  "id": "50da7f8e-f6f1-4a0b-8461-66aaeee613c1",
+  "object": "beer",
+  "name": "American Hardcore",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6031203-1bad-4039-a424-278a07cc46cc",
+  "object": "beer",
+  "name": "Battle Axe",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

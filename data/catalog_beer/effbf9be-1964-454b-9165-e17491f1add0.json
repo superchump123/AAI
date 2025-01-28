@@ -1,0 +1,11 @@
+{
+  "id": "effbf9be-1964-454b-9165-e17491f1add0",
+  "object": "beer",
+  "name": "Crab#1 Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

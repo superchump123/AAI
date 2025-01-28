@@ -1,0 +1,11 @@
+{
+  "id": "8f3a2501-0793-4b7a-aca6-c9cd9610ca73",
+  "object": "beer",
+  "name": "Ryedaho Hoppy Red Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

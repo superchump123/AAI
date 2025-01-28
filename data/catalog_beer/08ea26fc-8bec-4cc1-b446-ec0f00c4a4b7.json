@@ -1,0 +1,11 @@
+{
+  "id": "08ea26fc-8bec-4cc1-b446-ec0f00c4a4b7",
+  "object": "beer",
+  "name": "Forbidden Island",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

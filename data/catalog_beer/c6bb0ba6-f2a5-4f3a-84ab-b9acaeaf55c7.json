@@ -1,0 +1,11 @@
+{
+  "id": "c6bb0ba6-f2a5-4f3a-84ab-b9acaeaf55c7",
+  "object": "beer",
+  "name": "The Northern",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

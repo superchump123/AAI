@@ -1,0 +1,11 @@
+{
+  "id": "3ef2dd5e-31a6-4e4d-a1f7-0bd6a867753f",
+  "object": "beer",
+  "name": "Winter Slayer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

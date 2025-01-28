@@ -1,0 +1,11 @@
+{
+  "id": "2ee9be99-ec7c-44c0-9d6b-6299890a296f",
+  "object": "beer",
+  "name": "Test Lager 1",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

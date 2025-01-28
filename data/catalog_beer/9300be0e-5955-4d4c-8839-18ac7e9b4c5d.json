@@ -1,0 +1,11 @@
+{
+  "id": "9300be0e-5955-4d4c-8839-18ac7e9b4c5d",
+  "object": "beer",
+  "name": "Saigon Sunset",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

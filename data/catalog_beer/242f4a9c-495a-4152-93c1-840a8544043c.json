@@ -1,0 +1,11 @@
+{
+  "id": "242f4a9c-495a-4152-93c1-840a8544043c",
+  "object": "beer",
+  "name": "Global Mutt Baltic Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

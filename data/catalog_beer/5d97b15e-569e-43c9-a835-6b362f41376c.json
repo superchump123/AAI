@@ -1,0 +1,11 @@
+{
+  "id": "5d97b15e-569e-43c9-a835-6b362f41376c",
+  "object": "beer",
+  "name": "Hop-Head",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

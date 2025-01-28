@@ -1,0 +1,11 @@
+{
+  "id": "fd1bd350-f004-4114-bb49-ad1e3f950d71",
+  "object": "beer",
+  "name": "Pepper In The Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

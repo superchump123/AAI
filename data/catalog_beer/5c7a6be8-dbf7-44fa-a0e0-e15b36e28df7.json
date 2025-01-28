@@ -1,0 +1,11 @@
+{
+  "id": "5c7a6be8-dbf7-44fa-a0e0-e15b36e28df7",
+  "object": "beer",
+  "name": "Maudite",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

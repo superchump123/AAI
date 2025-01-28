@@ -1,0 +1,11 @@
+{
+  "id": "0bfd06c5-48a3-40bf-a6ea-9ae3f3246d5b",
+  "object": "beer",
+  "name": "Basilisk",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

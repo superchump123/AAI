@@ -1,0 +1,11 @@
+{
+  "id": "57a5e719-8ef8-4b3c-9345-43b0ad479cd7",
+  "object": "beer",
+  "name": "Labatt Bleue Dry",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

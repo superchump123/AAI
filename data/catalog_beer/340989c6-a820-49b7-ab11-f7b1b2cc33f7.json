@@ -1,0 +1,11 @@
+{
+  "id": "340989c6-a820-49b7-ab11-f7b1b2cc33f7",
+  "object": "beer",
+  "name": "Splendid Moose",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

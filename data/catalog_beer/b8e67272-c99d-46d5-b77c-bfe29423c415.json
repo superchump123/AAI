@@ -1,0 +1,11 @@
+{
+  "id": "b8e67272-c99d-46d5-b77c-bfe29423c415",
+  "object": "beer",
+  "name": "Spring Flood Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

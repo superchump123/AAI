@@ -1,0 +1,11 @@
+{
+  "id": "c7215a81-032c-43f3-9dd3-21e0d4059a09",
+  "object": "beer",
+  "name": "Jyaga Draft",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

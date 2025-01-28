@@ -1,0 +1,11 @@
+{
+  "id": "f71fceb9-af30-47bf-a277-1d000235f27b",
+  "object": "beer",
+  "name": "El Dorado Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

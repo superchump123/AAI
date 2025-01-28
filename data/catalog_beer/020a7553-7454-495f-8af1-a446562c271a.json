@@ -1,0 +1,11 @@
+{
+  "id": "020a7553-7454-495f-8af1-a446562c271a",
+  "object": "beer",
+  "name": "Belgian Red Rye",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

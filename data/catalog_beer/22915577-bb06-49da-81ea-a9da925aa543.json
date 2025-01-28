@@ -1,0 +1,11 @@
+{
+  "id": "22915577-bb06-49da-81ea-a9da925aa543",
+  "object": "beer",
+  "name": "Blue River",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

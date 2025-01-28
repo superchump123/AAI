@@ -1,0 +1,11 @@
+{
+  "id": "f65c3533-f2d4-4c2a-990f-c34160064fc7",
+  "object": "beer",
+  "name": "Juice Bigalow",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

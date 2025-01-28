@@ -1,0 +1,11 @@
+{
+  "id": "b89dd44d-420d-4b8a-83c9-6130205f8f19",
+  "object": "beer",
+  "name": "Avalanche Winter Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

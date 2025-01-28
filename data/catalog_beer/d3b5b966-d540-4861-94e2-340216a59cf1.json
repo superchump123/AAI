@@ -1,0 +1,11 @@
+{
+  "id": "d3b5b966-d540-4861-94e2-340216a59cf1",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Raj IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

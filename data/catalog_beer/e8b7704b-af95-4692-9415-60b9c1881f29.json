@@ -1,0 +1,11 @@
+{
+  "id": "e8b7704b-af95-4692-9415-60b9c1881f29",
+  "object": "beer",
+  "name": "Chillindamos",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

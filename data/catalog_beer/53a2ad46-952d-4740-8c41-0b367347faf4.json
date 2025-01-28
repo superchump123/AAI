@@ -1,0 +1,11 @@
+{
+  "id": "53a2ad46-952d-4740-8c41-0b367347faf4",
+  "object": "beer",
+  "name": "Galactica",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

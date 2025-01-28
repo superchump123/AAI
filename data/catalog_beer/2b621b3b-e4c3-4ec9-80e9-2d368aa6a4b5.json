@@ -1,0 +1,11 @@
+{
+  "id": "2b621b3b-e4c3-4ec9-80e9-2d368aa6a4b5",
+  "object": "beer",
+  "name": "DUKE * CITY *PILS",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

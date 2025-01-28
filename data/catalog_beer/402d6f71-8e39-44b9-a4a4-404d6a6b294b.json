@@ -1,0 +1,11 @@
+{
+  "id": "402d6f71-8e39-44b9-a4a4-404d6a6b294b",
+  "object": "beer",
+  "name": "Abominable Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

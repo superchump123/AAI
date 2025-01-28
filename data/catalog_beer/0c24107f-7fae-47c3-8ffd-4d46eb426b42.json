@@ -1,0 +1,11 @@
+{
+  "id": "0c24107f-7fae-47c3-8ffd-4d46eb426b42",
+  "object": "beer",
+  "name": "Chaman",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

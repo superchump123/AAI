@@ -1,0 +1,11 @@
+{
+  "id": "476e0874-b848-4195-a6c9-9b9c72a71750",
+  "object": "beer",
+  "name": "Red Herring Autumn Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "73ee274d-b8db-4ee9-9490-e47ffccf520d",
+  "object": "beer",
+  "name": "Black Magic Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

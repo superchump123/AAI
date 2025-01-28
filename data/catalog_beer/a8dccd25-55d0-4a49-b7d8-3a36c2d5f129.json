@@ -1,0 +1,11 @@
+{
+  "id": "a8dccd25-55d0-4a49-b7d8-3a36c2d5f129",
+  "object": "beer",
+  "name": "Barktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "075595ec-13fc-45a3-aca4-035db3f97790",
+  "object": "beer",
+  "name": "Woolly",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

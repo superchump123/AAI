@@ -1,0 +1,11 @@
+{
+  "id": "9b1d601b-9547-41ba-85d0-cd6c452adcf8",
+  "object": "beer",
+  "name": "Celtic Fury",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

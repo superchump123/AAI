@@ -1,0 +1,11 @@
+{
+  "id": "dc4c7bfe-b57d-4091-adf8-fbf77ae5c450",
+  "object": "beer",
+  "name": "Hobgoblin",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

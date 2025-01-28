@@ -1,0 +1,11 @@
+{
+  "id": "6f6e17d4-7216-4045-8c60-d6196e06abf3",
+  "object": "beer",
+  "name": "Dorian Stout with Coffee and Coconut",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

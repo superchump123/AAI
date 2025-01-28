@@ -1,0 +1,11 @@
+{
+  "id": "73f428e8-cfcf-405f-a023-8eff2218015c",
+  "object": "beer",
+  "name": "Jeff's Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

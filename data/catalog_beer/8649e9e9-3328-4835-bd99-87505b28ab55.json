@@ -1,0 +1,11 @@
+{
+  "id": "8649e9e9-3328-4835-bd99-87505b28ab55",
+  "object": "beer",
+  "name": "Extra Special Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "35639fc8-03db-47f0-9bf5-466a854d53d6",
+  "object": "beer",
+  "name": "St. Botolph's Town",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db79e930-081f-4129-96c2-ff2739fc0534",
+  "object": "beer",
+  "name": "3 Monts Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

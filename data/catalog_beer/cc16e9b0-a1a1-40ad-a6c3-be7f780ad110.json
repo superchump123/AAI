@@ -1,0 +1,11 @@
+{
+  "id": "cc16e9b0-a1a1-40ad-a6c3-be7f780ad110",
+  "object": "beer",
+  "name": "Polkadot Rainbow",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

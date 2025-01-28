@@ -1,0 +1,11 @@
+{
+  "id": "f22f66ae-03aa-48ec-8d2e-e3e3fa33d9d6",
+  "object": "beer",
+  "name": "Strawberry Shortcake",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

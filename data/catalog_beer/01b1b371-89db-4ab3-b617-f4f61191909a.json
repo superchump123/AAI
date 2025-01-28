@@ -1,0 +1,11 @@
+{
+  "id": "01b1b371-89db-4ab3-b617-f4f61191909a",
+  "object": "beer",
+  "name": "20 Ton Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8a26bce7-a0c3-4bc5-a8d7-2c44589b1620",
+  "object": "beer",
+  "name": "Gluek IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

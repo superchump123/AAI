@@ -1,0 +1,11 @@
+{
+  "id": "44d36bb7-fb5c-4573-84d9-a96eac37953c",
+  "object": "beer",
+  "name": "el GUAPO",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

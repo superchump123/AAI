@@ -1,0 +1,11 @@
+{
+  "id": "90f51a29-c068-474b-ab4f-3c7f5cdb7ce1",
+  "object": "beer",
+  "name": "MacTarnahan's Sling Shot Extra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

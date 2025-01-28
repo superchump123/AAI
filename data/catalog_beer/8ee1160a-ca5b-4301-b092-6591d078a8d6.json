@@ -1,0 +1,11 @@
+{
+  "id": "8ee1160a-ca5b-4301-b092-6591d078a8d6",
+  "object": "beer",
+  "name": "Hoppy Hoosier",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

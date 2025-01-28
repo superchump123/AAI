@@ -1,0 +1,11 @@
+{
+  "id": "4a0a68c2-533f-4144-a122-b440a07118fc",
+  "object": "beer",
+  "name": "Rye Heat",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

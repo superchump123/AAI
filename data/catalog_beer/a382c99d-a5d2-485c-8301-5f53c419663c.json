@@ -1,0 +1,11 @@
+{
+  "id": "a382c99d-a5d2-485c-8301-5f53c419663c",
+  "object": "beer",
+  "name": "White Lion Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "56ee7eaf-e021-4d55-be97-3b043a0fe2b1",
+  "object": "beer",
+  "name": "Bikini Bottom",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fc88cedd-db5e-4f5b-87c6-d422842931ea",
+  "object": "beer",
+  "name": "Hooey",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

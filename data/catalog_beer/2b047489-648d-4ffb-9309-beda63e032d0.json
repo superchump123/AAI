@@ -1,0 +1,11 @@
+{
+  "id": "2b047489-648d-4ffb-9309-beda63e032d0",
+  "object": "beer",
+  "name": "Midnight Special",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

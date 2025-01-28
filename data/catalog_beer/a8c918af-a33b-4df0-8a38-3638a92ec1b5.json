@@ -1,0 +1,11 @@
+{
+  "id": "a8c918af-a33b-4df0-8a38-3638a92ec1b5",
+  "object": "beer",
+  "name": "Tricerahops Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

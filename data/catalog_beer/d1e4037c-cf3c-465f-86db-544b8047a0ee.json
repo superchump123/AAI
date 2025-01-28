@@ -1,0 +1,11 @@
+{
+  "id": "d1e4037c-cf3c-465f-86db-544b8047a0ee",
+  "object": "beer",
+  "name": "Crescent Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

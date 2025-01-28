@@ -1,0 +1,11 @@
+{
+  "id": "a84b99db-7827-4a22-a0fe-627cb6f3bc09",
+  "object": "beer",
+  "name": "Smoke",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

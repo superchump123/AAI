@@ -1,0 +1,11 @@
+{
+  "id": "03a17bfd-4e5d-40d5-a2c1-451f6ab76ca4",
+  "object": "beer",
+  "name": "Boilermaker",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

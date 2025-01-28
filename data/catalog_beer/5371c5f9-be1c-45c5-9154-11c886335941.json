@@ -1,0 +1,11 @@
+{
+  "id": "5371c5f9-be1c-45c5-9154-11c886335941",
+  "object": "beer",
+  "name": "Court Jester Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

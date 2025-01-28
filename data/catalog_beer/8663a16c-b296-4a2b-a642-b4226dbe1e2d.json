@@ -1,0 +1,11 @@
+{
+  "id": "8663a16c-b296-4a2b-a642-b4226dbe1e2d",
+  "object": "beer",
+  "name": "Scarface",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

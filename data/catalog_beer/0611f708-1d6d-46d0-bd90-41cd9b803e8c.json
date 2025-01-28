@@ -1,0 +1,11 @@
+{
+  "id": "0611f708-1d6d-46d0-bd90-41cd9b803e8c",
+  "object": "beer",
+  "name": "Baby Blammo!",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

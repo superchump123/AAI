@@ -1,0 +1,11 @@
+{
+  "id": "670e23c9-8f78-4248-92ef-9872c1cb743e",
+  "object": "beer",
+  "name": "Citra Citra",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

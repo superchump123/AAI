@@ -1,0 +1,11 @@
+{
+  "id": "9e6fbc98-a7cd-42c5-b288-2dc853ef716c",
+  "object": "beer",
+  "name": "Chapeau Plum Lambic",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

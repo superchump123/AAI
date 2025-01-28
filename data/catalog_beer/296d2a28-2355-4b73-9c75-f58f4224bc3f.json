@@ -1,0 +1,11 @@
+{
+  "id": "296d2a28-2355-4b73-9c75-f58f4224bc3f",
+  "object": "beer",
+  "name": "Blackcherry Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

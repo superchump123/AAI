@@ -1,0 +1,11 @@
+{
+  "id": "2c69117f-eed8-4406-b42b-5f9ebc3b6187",
+  "object": "beer",
+  "name": "Summer Cycle IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 104,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

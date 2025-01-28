@@ -1,0 +1,11 @@
+{
+  "id": "738efb72-0de6-4965-a2c1-fb9f503ac913",
+  "object": "beer",
+  "name": "Russ'n-Halbe",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

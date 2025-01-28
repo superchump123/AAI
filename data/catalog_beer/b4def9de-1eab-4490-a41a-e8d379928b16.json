@@ -1,0 +1,11 @@
+{
+  "id": "b4def9de-1eab-4490-a41a-e8d379928b16",
+  "object": "beer",
+  "name": "Astro Giant",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f6989071-33f6-4af4-984b-78525e83fa66",
+  "object": "beer",
+  "name": "James Beer",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "97c33cd7-4a7d-4ef8-9edd-74e25a4c5bdf",
+  "object": "beer",
+  "name": "Blue Collar Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

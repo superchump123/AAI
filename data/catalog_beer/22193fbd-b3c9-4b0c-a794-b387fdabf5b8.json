@@ -1,0 +1,11 @@
+{
+  "id": "22193fbd-b3c9-4b0c-a794-b387fdabf5b8",
+  "object": "beer",
+  "name": "Esther's Lil Secret \u2013 Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

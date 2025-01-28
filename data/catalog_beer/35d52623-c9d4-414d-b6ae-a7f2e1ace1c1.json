@@ -1,0 +1,11 @@
+{
+  "id": "35d52623-c9d4-414d-b6ae-a7f2e1ace1c1",
+  "object": "beer",
+  "name": "Biere Blanca",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

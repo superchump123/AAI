@@ -1,0 +1,11 @@
+{
+  "id": "c00916a0-94b0-4b1b-8801-8a8fe7913fe2",
+  "object": "beer",
+  "name": "Malarkey",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "680e0807-56d4-459c-a321-cf292a0a06f7",
+  "object": "beer",
+  "name": "Peyote Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

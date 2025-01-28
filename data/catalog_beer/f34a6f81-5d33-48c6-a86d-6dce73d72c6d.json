@@ -1,0 +1,11 @@
+{
+  "id": "f34a6f81-5d33-48c6-a86d-6dce73d72c6d",
+  "object": "beer",
+  "name": "Deadly Rhythm Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

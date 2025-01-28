@@ -1,0 +1,11 @@
+{
+  "id": "a73cacfb-0ba4-42b1-bd82-d2a8d6f0175a",
+  "object": "beer",
+  "name": "American Pale Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

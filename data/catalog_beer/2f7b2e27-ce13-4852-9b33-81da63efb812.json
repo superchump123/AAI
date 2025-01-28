@@ -1,0 +1,11 @@
+{
+  "id": "2f7b2e27-ce13-4852-9b33-81da63efb812",
+  "object": "beer",
+  "name": "Double Sweet Action",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

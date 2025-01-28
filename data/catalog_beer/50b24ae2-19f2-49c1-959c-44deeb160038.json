@@ -1,0 +1,11 @@
+{
+  "id": "50b24ae2-19f2-49c1-959c-44deeb160038",
+  "object": "beer",
+  "name": "Kocherreiter Pils dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

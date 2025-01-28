@@ -1,0 +1,11 @@
+{
+  "id": "5df13db1-031e-408b-bd75-4c797bc0bef4",
+  "object": "beer",
+  "name": "Dusseldorfer Doppelbock",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

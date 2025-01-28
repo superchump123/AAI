@@ -1,0 +1,11 @@
+{
+  "id": "2f10b447-57e2-49de-99ce-7eb7e925c640",
+  "object": "beer",
+  "name": "Anzu Bru",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

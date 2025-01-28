@@ -1,0 +1,11 @@
+{
+  "id": "30e6f9b7-0602-4ff7-ab4f-e228a36a4569",
+  "object": "beer",
+  "name": "Ol' Reliable",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

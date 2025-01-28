@@ -1,0 +1,11 @@
+{
+  "id": "392b0811-7bdc-47d7-9976-deef54d9eb63",
+  "object": "beer",
+  "name": "Thunder Canyon IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

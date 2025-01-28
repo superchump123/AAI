@@ -1,0 +1,11 @@
+{
+  "id": "e6508064-701f-4592-8a69-7e388f121015",
+  "object": "beer",
+  "name": "The Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

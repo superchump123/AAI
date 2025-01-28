@@ -1,0 +1,11 @@
+{
+  "id": "44baea35-036f-4ffa-b21a-3095073341be",
+  "object": "beer",
+  "name": "Overbite IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

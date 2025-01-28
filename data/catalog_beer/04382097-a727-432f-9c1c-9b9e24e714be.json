@@ -1,0 +1,11 @@
+{
+  "id": "04382097-a727-432f-9c1c-9b9e24e714be",
+  "object": "beer",
+  "name": "Ornery Amber Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

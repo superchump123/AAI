@@ -1,0 +1,11 @@
+{
+  "id": "009bebe1-9b8c-48cb-809f-609391b74f7b",
+  "object": "beer",
+  "name": "Smoke Screen Smoked Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

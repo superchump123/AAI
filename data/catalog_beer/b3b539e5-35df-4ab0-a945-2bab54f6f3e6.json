@@ -1,0 +1,11 @@
+{
+  "id": "b3b539e5-35df-4ab0-a945-2bab54f6f3e6",
+  "object": "beer",
+  "name": "Crazy Ivan",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cbd50eb9-d2d7-4f82-93c4-a6028da9ce59",
+  "object": "beer",
+  "name": "L'Brett d'Blueberry",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

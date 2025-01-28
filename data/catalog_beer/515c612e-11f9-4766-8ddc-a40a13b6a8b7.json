@@ -1,0 +1,11 @@
+{
+  "id": "515c612e-11f9-4766-8ddc-a40a13b6a8b7",
+  "object": "beer",
+  "name": "Hopshire",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64f3cb89-e920-4bbd-b4ed-261bb9bb453a",
+  "object": "beer",
+  "name": "Ka-Bar Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

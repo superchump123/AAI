@@ -1,0 +1,11 @@
+{
+  "id": "fb64a7fc-1ce0-484a-88a3-7e98cc05694c",
+  "object": "beer",
+  "name": "Iron Horse with Mango",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

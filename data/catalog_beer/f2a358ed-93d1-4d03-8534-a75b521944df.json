@@ -1,0 +1,11 @@
+{
+  "id": "f2a358ed-93d1-4d03-8534-a75b521944df",
+  "object": "beer",
+  "name": "Black Label",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

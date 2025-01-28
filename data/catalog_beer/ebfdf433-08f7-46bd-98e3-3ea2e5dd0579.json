@@ -1,0 +1,11 @@
+{
+  "id": "ebfdf433-08f7-46bd-98e3-3ea2e5dd0579",
+  "object": "beer",
+  "name": "Crantastico",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

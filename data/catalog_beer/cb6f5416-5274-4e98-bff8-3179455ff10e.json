@@ -1,0 +1,11 @@
+{
+  "id": "cb6f5416-5274-4e98-bff8-3179455ff10e",
+  "object": "beer",
+  "name": "George Hunter Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

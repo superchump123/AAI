@@ -1,0 +1,11 @@
+{
+  "id": "b9a577a2-c0ae-40b0-bd0b-b874d9f35a63",
+  "object": "beer",
+  "name": "Small Hands",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

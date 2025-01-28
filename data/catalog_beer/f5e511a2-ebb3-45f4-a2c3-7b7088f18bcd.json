@@ -1,0 +1,11 @@
+{
+  "id": "f5e511a2-ebb3-45f4-a2c3-7b7088f18bcd",
+  "object": "beer",
+  "name": "O'Regan's Revenge",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

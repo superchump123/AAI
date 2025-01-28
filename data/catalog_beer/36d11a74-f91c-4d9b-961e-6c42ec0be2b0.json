@@ -1,0 +1,11 @@
+{
+  "id": "36d11a74-f91c-4d9b-961e-6c42ec0be2b0",
+  "object": "beer",
+  "name": "Weedy\u2019s",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 175,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

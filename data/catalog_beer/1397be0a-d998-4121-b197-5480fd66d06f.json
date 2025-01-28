@@ -1,0 +1,11 @@
+{
+  "id": "1397be0a-d998-4121-b197-5480fd66d06f",
+  "object": "beer",
+  "name": "Blue House Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

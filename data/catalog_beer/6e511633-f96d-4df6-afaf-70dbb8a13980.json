@@ -1,0 +1,11 @@
+{
+  "id": "6e511633-f96d-4df6-afaf-70dbb8a13980",
+  "object": "beer",
+  "name": "Bamberg Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

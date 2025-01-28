@@ -1,0 +1,11 @@
+{
+  "id": "3e9dea97-73e5-4f82-b577-01576de38c62",
+  "object": "beer",
+  "name": "Coalescence",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

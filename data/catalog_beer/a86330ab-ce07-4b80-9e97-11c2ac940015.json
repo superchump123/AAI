@@ -1,0 +1,11 @@
+{
+  "id": "a86330ab-ce07-4b80-9e97-11c2ac940015",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

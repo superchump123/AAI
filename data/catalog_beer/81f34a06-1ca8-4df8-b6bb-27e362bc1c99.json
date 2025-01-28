@@ -1,0 +1,11 @@
+{
+  "id": "81f34a06-1ca8-4df8-b6bb-27e362bc1c99",
+  "object": "beer",
+  "name": "Newburyport Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

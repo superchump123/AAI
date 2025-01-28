@@ -1,0 +1,11 @@
+{
+  "id": "012b6915-23b7-40dc-b821-d73897831f5e",
+  "object": "beer",
+  "name": "Flyin Ryan IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

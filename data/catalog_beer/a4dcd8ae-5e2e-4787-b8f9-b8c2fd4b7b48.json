@@ -1,0 +1,11 @@
+{
+  "id": "a4dcd8ae-5e2e-4787-b8f9-b8c2fd4b7b48",
+  "object": "beer",
+  "name": "Winterbraun",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

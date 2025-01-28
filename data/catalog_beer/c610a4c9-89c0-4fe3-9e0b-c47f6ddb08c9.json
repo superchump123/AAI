@@ -1,0 +1,11 @@
+{
+  "id": "c610a4c9-89c0-4fe3-9e0b-c47f6ddb08c9",
+  "object": "beer",
+  "name": "Blockhead",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

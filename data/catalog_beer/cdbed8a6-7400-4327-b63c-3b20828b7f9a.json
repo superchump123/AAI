@@ -1,0 +1,11 @@
+{
+  "id": "cdbed8a6-7400-4327-b63c-3b20828b7f9a",
+  "object": "beer",
+  "name": "Bayshore Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

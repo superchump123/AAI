@@ -1,0 +1,11 @@
+{
+  "id": "b5ed951a-7f29-4f88-9064-473f2b2ceeb0",
+  "object": "beer",
+  "name": "Choosy Mother",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

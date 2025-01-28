@@ -1,0 +1,11 @@
+{
+  "id": "556cbd2b-ec40-447f-becf-e0544d4dc92e",
+  "object": "beer",
+  "name": "Deep Impact",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

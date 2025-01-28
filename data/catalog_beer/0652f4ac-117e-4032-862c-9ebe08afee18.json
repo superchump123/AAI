@@ -1,0 +1,11 @@
+{
+  "id": "0652f4ac-117e-4032-862c-9ebe08afee18",
+  "object": "beer",
+  "name": "Saxon Sons Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "62e77b5d-ecce-4134-b32f-ffe33b019bb0",
+  "object": "beer",
+  "name": "Tale of the Shony Scottish Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

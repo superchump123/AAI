@@ -1,0 +1,11 @@
+{
+  "id": "e4fea1c0-0558-446e-b2cd-2fc6c802cf01",
+  "object": "beer",
+  "name": "Peniger Spezial",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

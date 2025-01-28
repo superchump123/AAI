@@ -1,0 +1,11 @@
+{
+  "id": "59e0142e-ef25-4af6-9700-e62a674e9c47",
+  "object": "beer",
+  "name": "Lychee",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

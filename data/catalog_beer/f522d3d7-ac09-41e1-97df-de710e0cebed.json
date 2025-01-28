@@ -1,0 +1,11 @@
+{
+  "id": "f522d3d7-ac09-41e1-97df-de710e0cebed",
+  "object": "beer",
+  "name": "Welcome, Ivan",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

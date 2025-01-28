@@ -1,0 +1,11 @@
+{
+  "id": "b003fe1a-0b4a-4141-ad04-5b9e9bdb58af",
+  "object": "beer",
+  "name": "Alpine Peak Black American Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

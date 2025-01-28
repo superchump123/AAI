@@ -1,0 +1,11 @@
+{
+  "id": "2c15de6a-d79a-4d16-9825-6cb06762e84c",
+  "object": "beer",
+  "name": "Blazin' Pineapple",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

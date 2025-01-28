@@ -1,0 +1,11 @@
+{
+  "id": "1d0560ef-1f97-4a74-b169-ac7116735343",
+  "object": "beer",
+  "name": "Georgia Grande",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

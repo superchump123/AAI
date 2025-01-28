@@ -1,0 +1,11 @@
+{
+  "id": "b5aa2e02-6c2a-4bbc-a794-c77fd334ca08",
+  "object": "beer",
+  "name": "Vanilla Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

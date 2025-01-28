@@ -1,0 +1,11 @@
+{
+  "id": "5fe95b13-46ec-492d-ac73-2def18f31314",
+  "object": "beer",
+  "name": "Pandora Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

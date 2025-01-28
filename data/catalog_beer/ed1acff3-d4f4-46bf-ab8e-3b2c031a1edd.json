@@ -1,0 +1,11 @@
+{
+  "id": "ed1acff3-d4f4-46bf-ab8e-3b2c031a1edd",
+  "object": "beer",
+  "name": "Raspberry Crooked Tree",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00bc60b3-3fec-4852-b62a-ea7a1493ff2f",
+  "object": "beer",
+  "name": "1976",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

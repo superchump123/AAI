@@ -1,0 +1,11 @@
+{
+  "id": "d7cf9128-b32e-4c52-9b68-34ae4ab6c731",
+  "object": "beer",
+  "name": "Valley Brewing London Tavern Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

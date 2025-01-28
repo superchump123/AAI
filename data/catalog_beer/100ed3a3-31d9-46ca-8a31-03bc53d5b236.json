@@ -1,0 +1,11 @@
+{
+  "id": "100ed3a3-31d9-46ca-8a31-03bc53d5b236",
+  "object": "beer",
+  "name": "Barrel-Aged Bigfoot (Whiskey Barrels)",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

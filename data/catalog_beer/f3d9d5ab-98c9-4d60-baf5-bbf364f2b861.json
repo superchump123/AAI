@@ -1,0 +1,11 @@
+{
+  "id": "f3d9d5ab-98c9-4d60-baf5-bbf364f2b861",
+  "object": "beer",
+  "name": "Bouket",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

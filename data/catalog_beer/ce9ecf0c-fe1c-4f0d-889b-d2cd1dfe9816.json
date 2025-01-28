@@ -1,0 +1,11 @@
+{
+  "id": "ce9ecf0c-fe1c-4f0d-889b-d2cd1dfe9816",
+  "object": "beer",
+  "name": "Hana Hou Hefe",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

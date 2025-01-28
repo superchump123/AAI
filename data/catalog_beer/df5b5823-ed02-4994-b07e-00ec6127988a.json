@@ -1,0 +1,11 @@
+{
+  "id": "df5b5823-ed02-4994-b07e-00ec6127988a",
+  "object": "beer",
+  "name": "SMaSH Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

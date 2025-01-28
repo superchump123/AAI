@@ -1,0 +1,11 @@
+{
+  "id": "d7daa50c-2702-4be6-9df7-b4b626a7b2e2",
+  "object": "beer",
+  "name": "Big Spoon",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

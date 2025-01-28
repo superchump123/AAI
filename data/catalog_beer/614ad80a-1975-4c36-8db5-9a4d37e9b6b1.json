@@ -1,0 +1,11 @@
+{
+  "id": "614ad80a-1975-4c36-8db5-9a4d37e9b6b1",
+  "object": "beer",
+  "name": "Cent",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f4c8733e-efc1-4862-b853-6ce17737e0bb",
+  "object": "beer",
+  "name": "Sunturnbrew",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

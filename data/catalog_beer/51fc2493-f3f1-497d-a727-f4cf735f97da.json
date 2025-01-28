@@ -1,0 +1,11 @@
+{
+  "id": "51fc2493-f3f1-497d-a727-f4cf735f97da",
+  "object": "beer",
+  "name": "prinSIPia",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "143f1266-58f8-4dd9-b352-7a133de80a1c",
+  "object": "beer",
+  "name": "Rotator IPA: Falconer's IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

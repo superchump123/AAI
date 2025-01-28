@@ -1,0 +1,11 @@
+{
+  "id": "3d7e42d4-675f-4aa2-bb17-64969dd422d4",
+  "object": "beer",
+  "name": "Shock And Awe",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

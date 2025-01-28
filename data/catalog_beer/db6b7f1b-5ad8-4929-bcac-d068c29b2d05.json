@@ -1,0 +1,11 @@
+{
+  "id": "db6b7f1b-5ad8-4929-bcac-d068c29b2d05",
+  "object": "beer",
+  "name": "Brewers' Cut No. 14",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

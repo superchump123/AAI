@@ -1,0 +1,11 @@
+{
+  "id": "bd9d294d-fd1b-4a6e-ac69-3a994773038f",
+  "object": "beer",
+  "name": "Deralement",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

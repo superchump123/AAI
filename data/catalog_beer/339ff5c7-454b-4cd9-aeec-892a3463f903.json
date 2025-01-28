@@ -1,0 +1,11 @@
+{
+  "id": "339ff5c7-454b-4cd9-aeec-892a3463f903",
+  "object": "beer",
+  "name": "Eldergold",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

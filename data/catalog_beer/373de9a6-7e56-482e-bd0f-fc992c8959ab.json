@@ -1,0 +1,11 @@
+{
+  "id": "373de9a6-7e56-482e-bd0f-fc992c8959ab",
+  "object": "beer",
+  "name": "Duse",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

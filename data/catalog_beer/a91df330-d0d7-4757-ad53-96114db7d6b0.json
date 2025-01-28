@@ -1,0 +1,11 @@
+{
+  "id": "a91df330-d0d7-4757-ad53-96114db7d6b0",
+  "object": "beer",
+  "name": "William Black Eyed Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

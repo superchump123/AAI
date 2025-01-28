@@ -1,0 +1,11 @@
+{
+  "id": "f0c42e43-2947-4503-91b1-26a4f6fc4ea5",
+  "object": "beer",
+  "name": "Black Eye IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

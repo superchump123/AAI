@@ -1,0 +1,11 @@
+{
+  "id": "55def4ff-54a0-478e-91a3-95c22b1f80c7",
+  "object": "beer",
+  "name": "Pale Dog",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

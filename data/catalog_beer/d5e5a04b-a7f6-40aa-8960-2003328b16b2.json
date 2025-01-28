@@ -1,0 +1,11 @@
+{
+  "id": "d5e5a04b-a7f6-40aa-8960-2003328b16b2",
+  "object": "beer",
+  "name": "Sweater Weather",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67b92ade-bed8-4714-8433-63a153493791",
+  "object": "beer",
+  "name": "Oma's Apricot Jam",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

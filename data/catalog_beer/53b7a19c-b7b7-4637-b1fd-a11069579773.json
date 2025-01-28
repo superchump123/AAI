@@ -1,0 +1,11 @@
+{
+  "id": "53b7a19c-b7b7-4637-b1fd-a11069579773",
+  "object": "beer",
+  "name": "Gable",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bfee4c08-0c79-4625-9a9e-d7816f582126",
+  "object": "beer",
+  "name": "Deep Cover",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

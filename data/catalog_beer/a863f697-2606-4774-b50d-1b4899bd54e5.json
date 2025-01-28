@@ -1,0 +1,11 @@
+{
+  "id": "a863f697-2606-4774-b50d-1b4899bd54e5",
+  "object": "beer",
+  "name": "Hefepils",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

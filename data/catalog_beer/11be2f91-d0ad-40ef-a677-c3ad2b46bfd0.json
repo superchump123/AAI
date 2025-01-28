@@ -1,0 +1,11 @@
+{
+  "id": "11be2f91-d0ad-40ef-a677-c3ad2b46bfd0",
+  "object": "beer",
+  "name": "Pseudo",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ec2a3d00-17c0-468c-82a3-44955c0f31be",
+  "object": "beer",
+  "name": "Sawatch",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

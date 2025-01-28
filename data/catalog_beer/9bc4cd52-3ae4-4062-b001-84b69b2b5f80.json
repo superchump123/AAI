@@ -1,0 +1,11 @@
+{
+  "id": "9bc4cd52-3ae4-4062-b001-84b69b2b5f80",
+  "object": "beer",
+  "name": "Avenida",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

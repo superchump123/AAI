@@ -1,0 +1,11 @@
+{
+  "id": "ca68b25d-307a-4b6a-b35a-9788c813270e",
+  "object": "beer",
+  "name": "Walter Gets Buzzed",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

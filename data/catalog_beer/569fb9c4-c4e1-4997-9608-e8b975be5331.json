@@ -1,0 +1,11 @@
+{
+  "id": "569fb9c4-c4e1-4997-9608-e8b975be5331",
+  "object": "beer",
+  "name": "Light Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

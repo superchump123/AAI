@@ -1,0 +1,11 @@
+{
+  "id": "be491a09-59b5-4721-aa8d-11471cbc181b",
+  "object": "beer",
+  "name": "7 Spanish Angels",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c2c3f828-2c27-4f91-83bb-531566e44a95",
+  "object": "beer",
+  "name": "RastafaRye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

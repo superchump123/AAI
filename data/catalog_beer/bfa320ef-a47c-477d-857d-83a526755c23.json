@@ -1,0 +1,11 @@
+{
+  "id": "bfa320ef-a47c-477d-857d-83a526755c23",
+  "object": "beer",
+  "name": "Rabid Hop",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

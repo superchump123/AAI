@@ -1,0 +1,11 @@
+{
+  "id": "2d72152d-9a33-4292-bb69-1532129f99eb",
+  "object": "beer",
+  "name": "Night Watchman",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

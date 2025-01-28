@@ -1,0 +1,11 @@
+{
+  "id": "f7b16159-68d4-4c7f-b1aa-3c918618b9ce",
+  "object": "beer",
+  "name": "La Divine",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

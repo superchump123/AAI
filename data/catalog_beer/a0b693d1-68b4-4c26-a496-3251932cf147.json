@@ -1,0 +1,11 @@
+{
+  "id": "a0b693d1-68b4-4c26-a496-3251932cf147",
+  "object": "beer",
+  "name": "Broo Doo",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "30fb7c58-232d-47b2-a64b-07b9f7dc198d",
+  "object": "beer",
+  "name": "Scootcher Scottish Amber Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

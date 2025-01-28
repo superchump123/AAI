@@ -1,0 +1,11 @@
+{
+  "id": "6e795505-bd92-47c6-bd2e-9f390c5333c0",
+  "object": "beer",
+  "name": "Gold Rush",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

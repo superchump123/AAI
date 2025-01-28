@@ -1,0 +1,11 @@
+{
+  "id": "7e58e273-0f87-48c4-9374-070fe7ede9c1",
+  "object": "beer",
+  "name": "Huggy Bear",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

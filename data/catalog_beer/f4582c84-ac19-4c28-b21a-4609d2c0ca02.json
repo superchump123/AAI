@@ -1,0 +1,11 @@
+{
+  "id": "f4582c84-ac19-4c28-b21a-4609d2c0ca02",
+  "object": "beer",
+  "name": "Winter-Traum",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

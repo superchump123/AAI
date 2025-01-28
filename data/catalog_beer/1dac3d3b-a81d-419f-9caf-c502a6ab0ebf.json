@@ -1,0 +1,11 @@
+{
+  "id": "1dac3d3b-a81d-419f-9caf-c502a6ab0ebf",
+  "object": "beer",
+  "name": "Mass HysteRIa",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "01147af1-79ce-4ae4-a2b8-16a424afecb4",
+  "object": "beer",
+  "name": "Purple Gang",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

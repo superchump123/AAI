@@ -1,0 +1,11 @@
+{
+  "id": "c4516140-cc3f-4d42-9858-50c9ae888c5e",
+  "object": "beer",
+  "name": "Kentucky Hug",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fb7d2ad7-524e-4973-b52e-c9f429afed15",
+  "object": "beer",
+  "name": "Red Eye Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

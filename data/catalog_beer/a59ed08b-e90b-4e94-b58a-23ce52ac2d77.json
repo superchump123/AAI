@@ -1,0 +1,11 @@
+{
+  "id": "a59ed08b-e90b-4e94-b58a-23ce52ac2d77",
+  "object": "beer",
+  "name": "Base Jumper",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9e361349-63ad-4c57-ad57-c5be64e5e8e3",
+  "object": "beer",
+  "name": "Little Galaxy",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

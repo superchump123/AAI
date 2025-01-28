@@ -1,0 +1,11 @@
+{
+  "id": "65fe2a43-d643-41b6-b31b-97a148d7cf55",
+  "object": "beer",
+  "name": "Responders Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

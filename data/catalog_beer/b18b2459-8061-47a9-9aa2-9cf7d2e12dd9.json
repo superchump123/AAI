@@ -1,0 +1,11 @@
+{
+  "id": "b18b2459-8061-47a9-9aa2-9cf7d2e12dd9",
+  "object": "beer",
+  "name": "2X Unfiltered",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

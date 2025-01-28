@@ -1,0 +1,11 @@
+{
+  "id": "bf040308-56ec-438d-acd1-e6aa0e55afec",
+  "object": "beer",
+  "name": "DIPA V7",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

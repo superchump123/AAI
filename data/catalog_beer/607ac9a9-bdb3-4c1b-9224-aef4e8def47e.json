@@ -1,0 +1,11 @@
+{
+  "id": "607ac9a9-bdb3-4c1b-9224-aef4e8def47e",
+  "object": "beer",
+  "name": "Experiment 1557 (Pale Ale)",
+  "style": "American Pale Ale",
+  "description": "Experiment 1557 (Pale Ale) \u2013 Traditional American Pale Ale, clean and crisp. Brewed with Citra, Cascade, Columbus, Galena and Magnum hops, providing bright citrus notes and great flavor!\t             4.7% ABV l 35 IBU\u2019s",
+  "abv": 4.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1512503787
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c7dd216a-682c-4fe7-add8-7966396ad209",
+  "object": "beer",
+  "name": "One Eyed Jack",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

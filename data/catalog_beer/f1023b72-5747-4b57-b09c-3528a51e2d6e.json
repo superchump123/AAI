@@ -1,0 +1,11 @@
+{
+  "id": "f1023b72-5747-4b57-b09c-3528a51e2d6e",
+  "object": "beer",
+  "name": "Knock Knock Ned's IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

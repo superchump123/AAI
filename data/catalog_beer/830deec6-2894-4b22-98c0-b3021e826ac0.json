@@ -1,0 +1,11 @@
+{
+  "id": "830deec6-2894-4b22-98c0-b3021e826ac0",
+  "object": "beer",
+  "name": "Revolution IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

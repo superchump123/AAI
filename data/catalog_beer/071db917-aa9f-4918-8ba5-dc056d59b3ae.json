@@ -1,0 +1,11 @@
+{
+  "id": "071db917-aa9f-4918-8ba5-dc056d59b3ae",
+  "object": "beer",
+  "name": "Hopstorm",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0dc2e6d7-6b26-45d7-8089-b1aab4e70dbd",
+  "object": "beer",
+  "name": "River Ryed Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

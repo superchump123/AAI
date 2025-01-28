@@ -1,0 +1,11 @@
+{
+  "id": "dbbe5b1c-db7d-44db-a5f5-e39672ec1150",
+  "object": "beer",
+  "name": "Blonde Bombshell",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

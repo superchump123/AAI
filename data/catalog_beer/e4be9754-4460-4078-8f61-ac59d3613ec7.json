@@ -1,0 +1,11 @@
+{
+  "id": "e4be9754-4460-4078-8f61-ac59d3613ec7",
+  "object": "beer",
+  "name": "Grand Ridge Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

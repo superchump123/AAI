@@ -1,0 +1,11 @@
+{
+  "id": "ede55d40-ced3-4cc8-a537-8ac63154e030",
+  "object": "beer",
+  "name": "Rye of the Tiger",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

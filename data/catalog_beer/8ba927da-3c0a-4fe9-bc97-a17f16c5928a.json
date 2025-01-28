@@ -1,0 +1,11 @@
+{
+  "id": "8ba927da-3c0a-4fe9-bc97-a17f16c5928a",
+  "object": "beer",
+  "name": "Mine & Yours",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

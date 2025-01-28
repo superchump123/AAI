@@ -1,0 +1,11 @@
+{
+  "id": "01a5cafe-c087-4e28-993d-95499408ebcb",
+  "object": "beer",
+  "name": "Falcon's Trail IPA",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

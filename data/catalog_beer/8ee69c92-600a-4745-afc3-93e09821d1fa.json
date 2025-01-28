@@ -1,0 +1,11 @@
+{
+  "id": "8ee69c92-600a-4745-afc3-93e09821d1fa",
+  "object": "beer",
+  "name": "Tread Lightly Ale",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

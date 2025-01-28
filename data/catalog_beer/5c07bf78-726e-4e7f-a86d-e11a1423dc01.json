@@ -1,0 +1,11 @@
+{
+  "id": "5c07bf78-726e-4e7f-a86d-e11a1423dc01",
+  "object": "beer",
+  "name": "Rally Town Maple Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

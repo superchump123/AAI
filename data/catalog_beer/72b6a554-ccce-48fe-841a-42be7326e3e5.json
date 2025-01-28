@@ -1,0 +1,11 @@
+{
+  "id": "72b6a554-ccce-48fe-841a-42be7326e3e5",
+  "object": "beer",
+  "name": "Spring Fever",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

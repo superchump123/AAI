@@ -1,0 +1,11 @@
+{
+  "id": "7f323d55-fc09-49f8-a7fc-213dd2ebb67b",
+  "object": "beer",
+  "name": "Full Suspension Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

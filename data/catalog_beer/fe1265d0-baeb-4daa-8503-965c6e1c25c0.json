@@ -1,0 +1,11 @@
+{
+  "id": "fe1265d0-baeb-4daa-8503-965c6e1c25c0",
+  "object": "beer",
+  "name": "Big Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

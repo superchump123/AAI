@@ -1,0 +1,11 @@
+{
+  "id": "ab7ba4f4-a8f7-45d8-ab94-31397c117393",
+  "object": "beer",
+  "name": "Breakaway",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

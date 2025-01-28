@@ -1,0 +1,11 @@
+{
+  "id": "c2b8da80-f56d-4810-84b5-e0783f2a558d",
+  "object": "beer",
+  "name": "Midnight Sun Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

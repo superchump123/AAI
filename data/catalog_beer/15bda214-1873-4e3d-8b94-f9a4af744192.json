@@ -1,0 +1,11 @@
+{
+  "id": "15bda214-1873-4e3d-8b94-f9a4af744192",
+  "object": "beer",
+  "name": "Olde La Montavious",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

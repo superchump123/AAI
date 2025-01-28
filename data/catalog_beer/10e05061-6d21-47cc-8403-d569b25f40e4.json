@@ -1,0 +1,11 @@
+{
+  "id": "10e05061-6d21-47cc-8403-d569b25f40e4",
+  "object": "beer",
+  "name": "Hippie Magic",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

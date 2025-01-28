@@ -1,0 +1,11 @@
+{
+  "id": "64c08cf6-39e3-4ce9-8b39-9741d4de4ff7",
+  "object": "beer",
+  "name": "Babbling Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

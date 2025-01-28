@@ -1,0 +1,11 @@
+{
+  "id": "c10be8e3-1b41-499a-b4aa-d2b2be8bed72",
+  "object": "beer",
+  "name": "Dark Starr Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a88b383e-a217-4cf1-8f21-d9853ae6bf19",
+  "object": "beer",
+  "name": "Port Townsend Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

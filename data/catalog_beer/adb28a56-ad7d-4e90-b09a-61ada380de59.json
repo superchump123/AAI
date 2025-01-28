@@ -1,0 +1,11 @@
+{
+  "id": "adb28a56-ad7d-4e90-b09a-61ada380de59",
+  "object": "beer",
+  "name": "Chang Beer (Export)",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

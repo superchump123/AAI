@@ -1,0 +1,11 @@
+{
+  "id": "77f16f33-5a91-4d58-b84b-b5ea676ce91b",
+  "object": "beer",
+  "name": "Beekeeper Honey Wheat",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9d3dde7b-029b-42ee-9ecf-a783db9c1b1b",
+  "object": "beer",
+  "name": "Wynwood Fox",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

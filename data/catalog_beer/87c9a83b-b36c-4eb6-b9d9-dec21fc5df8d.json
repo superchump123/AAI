@@ -1,0 +1,11 @@
+{
+  "id": "87c9a83b-b36c-4eb6-b9d9-dec21fc5df8d",
+  "object": "beer",
+  "name": "Divine Oculust",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

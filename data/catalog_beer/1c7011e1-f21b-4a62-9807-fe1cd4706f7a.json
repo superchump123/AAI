@@ -1,0 +1,11 @@
+{
+  "id": "1c7011e1-f21b-4a62-9807-fe1cd4706f7a",
+  "object": "beer",
+  "name": "Coffee Hidden Pipe Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

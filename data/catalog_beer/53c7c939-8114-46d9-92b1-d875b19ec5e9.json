@@ -1,0 +1,11 @@
+{
+  "id": "53c7c939-8114-46d9-92b1-d875b19ec5e9",
+  "object": "beer",
+  "name": "Leo Weisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

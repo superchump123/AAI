@@ -1,0 +1,11 @@
+{
+  "id": "30d0d0b1-4bc5-4445-8b47-97b8ab797c73",
+  "object": "beer",
+  "name": "Big Cis",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

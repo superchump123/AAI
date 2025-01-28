@@ -1,0 +1,11 @@
+{
+  "id": "7f14c577-5a5f-46c3-913f-c9149900da57",
+  "object": "beer",
+  "name": "In The Zone",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

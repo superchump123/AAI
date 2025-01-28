@@ -1,0 +1,11 @@
+{
+  "id": "c28d65a3-8768-46d7-8e4d-d4639cadf051",
+  "object": "beer",
+  "name": "Fresh",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

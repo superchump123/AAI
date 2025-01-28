@@ -1,0 +1,11 @@
+{
+  "id": "9fbf8144-2177-4e07-9ace-8815ff51f937",
+  "object": "beer",
+  "name": "Squirt",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.6,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7fb356b0-f9af-49a2-88a5-c6761032127e",
+  "object": "beer",
+  "name": "Miner's Gold",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

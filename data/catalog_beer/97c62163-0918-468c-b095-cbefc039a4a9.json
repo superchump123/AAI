@@ -1,0 +1,11 @@
+{
+  "id": "97c62163-0918-468c-b095-cbefc039a4a9",
+  "object": "beer",
+  "name": "Easy Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

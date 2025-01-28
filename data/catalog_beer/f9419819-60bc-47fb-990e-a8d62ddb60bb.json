@@ -1,0 +1,11 @@
+{
+  "id": "f9419819-60bc-47fb-990e-a8d62ddb60bb",
+  "object": "beer",
+  "name": "No Oranges Allowed",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

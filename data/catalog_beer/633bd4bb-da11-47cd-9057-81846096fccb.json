@@ -1,0 +1,11 @@
+{
+  "id": "633bd4bb-da11-47cd-9057-81846096fccb",
+  "object": "beer",
+  "name": "Tower Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

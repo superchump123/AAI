@@ -1,0 +1,11 @@
+{
+  "id": "4183df32-d8df-4e7c-a4e2-e4e209aafca1",
+  "object": "beer",
+  "name": "Liquid Chords",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

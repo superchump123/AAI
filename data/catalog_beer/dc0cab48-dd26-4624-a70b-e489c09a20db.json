@@ -1,0 +1,11 @@
+{
+  "id": "dc0cab48-dd26-4624-a70b-e489c09a20db",
+  "object": "beer",
+  "name": "Smuttlabs: Schmutzig",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

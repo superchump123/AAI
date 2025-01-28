@@ -1,0 +1,11 @@
+{
+  "id": "23302b69-8385-4a56-b312-d8056d420623",
+  "object": "beer",
+  "name": "Herforder Landbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

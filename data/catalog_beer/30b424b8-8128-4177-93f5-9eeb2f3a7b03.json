@@ -1,0 +1,11 @@
+{
+  "id": "30b424b8-8128-4177-93f5-9eeb2f3a7b03",
+  "object": "beer",
+  "name": "Rackhouse Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

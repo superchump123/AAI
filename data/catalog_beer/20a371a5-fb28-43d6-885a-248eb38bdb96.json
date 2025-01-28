@@ -1,0 +1,11 @@
+{
+  "id": "20a371a5-fb28-43d6-885a-248eb38bdb96",
+  "object": "beer",
+  "name": "Obolon Premium",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

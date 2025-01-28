@@ -1,0 +1,11 @@
+{
+  "id": "c5b88d0a-ec50-4814-855a-f2d0a842a87e",
+  "object": "beer",
+  "name": "80 Shilling",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

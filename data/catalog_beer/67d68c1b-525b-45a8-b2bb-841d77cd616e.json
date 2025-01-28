@@ -1,0 +1,11 @@
+{
+  "id": "67d68c1b-525b-45a8-b2bb-841d77cd616e",
+  "object": "beer",
+  "name": "Wizard's Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

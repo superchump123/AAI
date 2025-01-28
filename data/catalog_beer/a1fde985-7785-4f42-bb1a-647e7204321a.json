@@ -1,0 +1,11 @@
+{
+  "id": "a1fde985-7785-4f42-bb1a-647e7204321a",
+  "object": "beer",
+  "name": "New Direction IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "38e6678d-f7c6-4517-b1a1-8b886d33a883",
+  "object": "beer",
+  "name": "Dadgum IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

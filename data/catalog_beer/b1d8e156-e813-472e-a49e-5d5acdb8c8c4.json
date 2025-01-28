@@ -1,0 +1,11 @@
+{
+  "id": "b1d8e156-e813-472e-a49e-5d5acdb8c8c4",
+  "object": "beer",
+  "name": "Battlefield Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

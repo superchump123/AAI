@@ -1,0 +1,11 @@
+{
+  "id": "b0ae6ab8-1f56-4990-a82d-e46b704caa44",
+  "object": "beer",
+  "name": "Piranha Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dd3c8b4d-515a-4141-8534-ed357d9c5cc3",
+  "object": "beer",
+  "name": "Choice ESB",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

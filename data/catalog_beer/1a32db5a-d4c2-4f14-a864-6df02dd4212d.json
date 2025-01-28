@@ -1,0 +1,11 @@
+{
+  "id": "1a32db5a-d4c2-4f14-a864-6df02dd4212d",
+  "object": "beer",
+  "name": "The Luminous Monk",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

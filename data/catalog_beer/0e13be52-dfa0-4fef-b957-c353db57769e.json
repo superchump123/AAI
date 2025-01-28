@@ -1,0 +1,11 @@
+{
+  "id": "0e13be52-dfa0-4fef-b957-c353db57769e",
+  "object": "beer",
+  "name": "Naajar",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

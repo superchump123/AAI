@@ -1,0 +1,11 @@
+{
+  "id": "7c0598c3-78dc-45ff-9fbe-0c0b3e47bebe",
+  "object": "beer",
+  "name": "Bitto Honey IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a95eb976-9cb1-4345-a2e8-1ae4fa29959b",
+  "object": "beer",
+  "name": "London Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

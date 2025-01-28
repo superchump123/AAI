@@ -1,0 +1,11 @@
+{
+  "id": "381410fd-426a-4fdb-8bad-576d159ec61e",
+  "object": "beer",
+  "name": "Anniversary Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

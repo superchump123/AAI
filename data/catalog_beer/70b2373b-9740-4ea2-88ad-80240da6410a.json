@@ -1,0 +1,11 @@
+{
+  "id": "70b2373b-9740-4ea2-88ad-80240da6410a",
+  "object": "beer",
+  "name": "Birra Moretti Grand Cru",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

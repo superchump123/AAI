@@ -1,0 +1,11 @@
+{
+  "id": "7408522d-80ea-4890-91df-a806e6fe7f77",
+  "object": "beer",
+  "name": "Pirata",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

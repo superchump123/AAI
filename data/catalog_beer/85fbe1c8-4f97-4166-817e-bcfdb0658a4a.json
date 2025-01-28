@@ -1,0 +1,11 @@
+{
+  "id": "85fbe1c8-4f97-4166-817e-bcfdb0658a4a",
+  "object": "beer",
+  "name": "Point Blank Red (PBR)",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

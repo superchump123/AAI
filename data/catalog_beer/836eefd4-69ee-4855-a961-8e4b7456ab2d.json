@@ -1,0 +1,11 @@
+{
+  "id": "836eefd4-69ee-4855-a961-8e4b7456ab2d",
+  "object": "beer",
+  "name": "St. Pat's Irish Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

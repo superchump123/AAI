@@ -1,0 +1,11 @@
+{
+  "id": "e1a12040-ae0a-43bf-b08c-b018d1b7b8c0",
+  "object": "beer",
+  "name": "Wismarer Herbstfestbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

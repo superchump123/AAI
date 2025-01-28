@@ -1,0 +1,11 @@
+{
+  "id": "0ab49f2f-0937-47b4-b343-5350335083bf",
+  "object": "beer",
+  "name": "Chestnut Hill",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

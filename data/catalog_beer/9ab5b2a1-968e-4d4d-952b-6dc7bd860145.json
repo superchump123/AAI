@@ -1,0 +1,11 @@
+{
+  "id": "9ab5b2a1-968e-4d4d-952b-6dc7bd860145",
+  "object": "beer",
+  "name": "Davy Jones",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

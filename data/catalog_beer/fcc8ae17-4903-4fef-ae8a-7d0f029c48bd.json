@@ -1,0 +1,11 @@
+{
+  "id": "fcc8ae17-4903-4fef-ae8a-7d0f029c48bd",
+  "object": "beer",
+  "name": "Prov Bruin Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

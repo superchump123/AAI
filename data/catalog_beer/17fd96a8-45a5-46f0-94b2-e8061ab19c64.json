@@ -1,0 +1,11 @@
+{
+  "id": "17fd96a8-45a5-46f0-94b2-e8061ab19c64",
+  "object": "beer",
+  "name": "Stowford Press",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

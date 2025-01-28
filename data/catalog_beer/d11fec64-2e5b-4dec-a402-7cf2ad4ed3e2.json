@@ -1,0 +1,11 @@
+{
+  "id": "d11fec64-2e5b-4dec-a402-7cf2ad4ed3e2",
+  "object": "beer",
+  "name": "JackLeg Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

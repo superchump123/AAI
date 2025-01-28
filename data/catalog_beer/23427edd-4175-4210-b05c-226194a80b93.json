@@ -1,0 +1,11 @@
+{
+  "id": "23427edd-4175-4210-b05c-226194a80b93",
+  "object": "beer",
+  "name": "Summer Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

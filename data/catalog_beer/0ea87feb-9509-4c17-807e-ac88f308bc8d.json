@@ -1,0 +1,11 @@
+{
+  "id": "0ea87feb-9509-4c17-807e-ac88f308bc8d",
+  "object": "beer",
+  "name": "Royal We IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

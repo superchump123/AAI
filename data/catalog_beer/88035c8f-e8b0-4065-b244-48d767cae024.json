@@ -1,0 +1,11 @@
+{
+  "id": "88035c8f-e8b0-4065-b244-48d767cae024",
+  "object": "beer",
+  "name": "Holy Beer",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

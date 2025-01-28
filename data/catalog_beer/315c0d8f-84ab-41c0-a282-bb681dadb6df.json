@@ -1,0 +1,11 @@
+{
+  "id": "315c0d8f-84ab-41c0-a282-bb681dadb6df",
+  "object": "beer",
+  "name": "Old Leghumper",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

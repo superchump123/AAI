@@ -1,0 +1,11 @@
+{
+  "id": "bb11f4b5-763c-44ac-b66c-9bcb5d0b777d",
+  "object": "beer",
+  "name": "Intense Red",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e556fc90-ab4a-4359-864c-145e96b66582",
+  "object": "beer",
+  "name": "Foxy Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

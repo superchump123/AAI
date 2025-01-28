@@ -1,0 +1,11 @@
+{
+  "id": "03811b87-eb9b-47a5-bcd6-4046251ffb95",
+  "object": "beer",
+  "name": "Redneck Wedding",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 13.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

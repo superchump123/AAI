@@ -1,0 +1,11 @@
+{
+  "id": "754b0652-c341-4242-81df-ca3977d0b961",
+  "object": "beer",
+  "name": "Oktoberfest Lager",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

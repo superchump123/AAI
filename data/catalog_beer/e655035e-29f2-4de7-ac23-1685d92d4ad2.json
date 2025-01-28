@@ -1,0 +1,11 @@
+{
+  "id": "e655035e-29f2-4de7-ac23-1685d92d4ad2",
+  "object": "beer",
+  "name": "Chai High",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "426591f6-d66e-469a-90e2-4d65255dc89a",
+  "object": "beer",
+  "name": "McCracken's Amber Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

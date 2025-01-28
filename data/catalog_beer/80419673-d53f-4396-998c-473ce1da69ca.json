@@ -1,0 +1,11 @@
+{
+  "id": "80419673-d53f-4396-998c-473ce1da69ca",
+  "object": "beer",
+  "name": "Oxford Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

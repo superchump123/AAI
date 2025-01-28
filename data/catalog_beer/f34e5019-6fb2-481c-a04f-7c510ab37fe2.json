@@ -1,0 +1,11 @@
+{
+  "id": "f34e5019-6fb2-481c-a04f-7c510ab37fe2",
+  "object": "beer",
+  "name": "One Planet",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

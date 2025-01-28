@@ -1,0 +1,11 @@
+{
+  "id": "6593094d-ab4e-4402-beb4-1d1cd19925d3",
+  "object": "beer",
+  "name": "Cocoa Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

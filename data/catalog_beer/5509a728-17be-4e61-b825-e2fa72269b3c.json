@@ -1,0 +1,11 @@
+{
+  "id": "5509a728-17be-4e61-b825-e2fa72269b3c",
+  "object": "beer",
+  "name": "Smooth Operator",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

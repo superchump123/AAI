@@ -1,0 +1,11 @@
+{
+  "id": "3ccd7f94-5254-4f37-8f43-6f85806c7e98",
+  "object": "beer",
+  "name": "Mongrel Red IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

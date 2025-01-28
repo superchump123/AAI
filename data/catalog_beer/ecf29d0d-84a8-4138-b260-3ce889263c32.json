@@ -1,0 +1,11 @@
+{
+  "id": "ecf29d0d-84a8-4138-b260-3ce889263c32",
+  "object": "beer",
+  "name": "Local Species",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

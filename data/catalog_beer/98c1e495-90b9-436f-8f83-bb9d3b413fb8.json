@@ -1,0 +1,11 @@
+{
+  "id": "98c1e495-90b9-436f-8f83-bb9d3b413fb8",
+  "object": "beer",
+  "name": "Polished Hippie",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

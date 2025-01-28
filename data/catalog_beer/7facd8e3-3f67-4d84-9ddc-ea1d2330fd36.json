@@ -1,0 +1,11 @@
+{
+  "id": "7facd8e3-3f67-4d84-9ddc-ea1d2330fd36",
+  "object": "beer",
+  "name": "Strawberry Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

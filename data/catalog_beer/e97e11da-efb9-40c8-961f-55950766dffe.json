@@ -1,0 +1,11 @@
+{
+  "id": "e97e11da-efb9-40c8-961f-55950766dffe",
+  "object": "beer",
+  "name": "Bubbling Cauldron",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

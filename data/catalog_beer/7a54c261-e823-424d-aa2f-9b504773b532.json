@@ -1,0 +1,11 @@
+{
+  "id": "7a54c261-e823-424d-aa2f-9b504773b532",
+  "object": "beer",
+  "name": "Club Colombia Dorada",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

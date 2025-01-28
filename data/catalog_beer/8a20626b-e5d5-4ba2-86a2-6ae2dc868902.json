@@ -1,0 +1,11 @@
+{
+  "id": "8a20626b-e5d5-4ba2-86a2-6ae2dc868902",
+  "object": "beer",
+  "name": "Farmhouse Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b454dc9c-eee1-43a2-9399-6506a5df44b8",
+  "object": "beer",
+  "name": "Miller64",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

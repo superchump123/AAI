@@ -1,0 +1,11 @@
+{
+  "id": "ebbeeb74-cb92-42a3-9ed5-15211c67885e",
+  "object": "beer",
+  "name": "Cascade Blackberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

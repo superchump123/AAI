@@ -1,0 +1,11 @@
+{
+  "id": "36ea638e-b418-4386-9149-3fbd3b83072a",
+  "object": "beer",
+  "name": "EMBRR",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bbb11f69-e36c-447a-bd36-2d5e05ebcb84",
+  "object": "beer",
+  "name": "Hoppy Red Head",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

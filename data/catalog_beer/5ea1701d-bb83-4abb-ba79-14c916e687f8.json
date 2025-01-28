@@ -1,0 +1,11 @@
+{
+  "id": "5ea1701d-bb83-4abb-ba79-14c916e687f8",
+  "object": "beer",
+  "name": "Michelob Honey Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

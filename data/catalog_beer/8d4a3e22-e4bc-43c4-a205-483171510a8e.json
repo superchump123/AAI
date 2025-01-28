@@ -1,0 +1,11 @@
+{
+  "id": "8d4a3e22-e4bc-43c4-a205-483171510a8e",
+  "object": "beer",
+  "name": "Naughty Wood",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

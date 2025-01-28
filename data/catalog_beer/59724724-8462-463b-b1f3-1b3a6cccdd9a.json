@@ -1,0 +1,11 @@
+{
+  "id": "59724724-8462-463b-b1f3-1b3a6cccdd9a",
+  "object": "beer",
+  "name": "Blue Toadenberry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

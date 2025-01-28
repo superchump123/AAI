@@ -1,0 +1,11 @@
+{
+  "id": "fc48e1d0-a11f-437f-90ee-673c99d25b40",
+  "object": "beer",
+  "name": "Suave Chicken",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

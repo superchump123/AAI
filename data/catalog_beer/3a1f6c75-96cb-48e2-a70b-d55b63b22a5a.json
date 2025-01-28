@@ -1,0 +1,11 @@
+{
+  "id": "3a1f6c75-96cb-48e2-a70b-d55b63b22a5a",
+  "object": "beer",
+  "name": "Orangetoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

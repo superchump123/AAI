@@ -1,0 +1,11 @@
+{
+  "id": "095f0973-a3b9-47db-9b22-c8c8a9a5968f",
+  "object": "beer",
+  "name": "More Cowbell",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 118,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

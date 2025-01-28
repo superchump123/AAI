@@ -1,0 +1,11 @@
+{
+  "id": "9d5db07c-90c8-40d5-91df-986663edff7d",
+  "object": "beer",
+  "name": "Ariadne's Belgian Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

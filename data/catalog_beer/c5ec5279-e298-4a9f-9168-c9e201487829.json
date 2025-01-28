@@ -1,0 +1,11 @@
+{
+  "id": "c5ec5279-e298-4a9f-9168-c9e201487829",
+  "object": "beer",
+  "name": "Mostly Cloudy",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

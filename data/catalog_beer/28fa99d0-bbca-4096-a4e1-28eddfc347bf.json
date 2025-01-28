@@ -1,0 +1,11 @@
+{
+  "id": "28fa99d0-bbca-4096-a4e1-28eddfc347bf",
+  "object": "beer",
+  "name": "Reverie",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

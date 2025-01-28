@@ -1,0 +1,11 @@
+{
+  "id": "e5028d49-e7bb-444d-a7f6-65ab9ff9d344",
+  "object": "beer",
+  "name": "Nutcracker Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

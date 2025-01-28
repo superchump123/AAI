@@ -1,0 +1,11 @@
+{
+  "id": "822ba612-78fa-4bc9-9c72-95b2401f7dc9",
+  "object": "beer",
+  "name": "Pancho Villa Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

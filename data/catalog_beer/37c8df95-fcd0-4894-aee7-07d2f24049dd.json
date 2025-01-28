@@ -1,0 +1,11 @@
+{
+  "id": "37c8df95-fcd0-4894-aee7-07d2f24049dd",
+  "object": "beer",
+  "name": "Vanilla Creme Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

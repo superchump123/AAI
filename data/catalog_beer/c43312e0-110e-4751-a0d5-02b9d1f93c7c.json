@@ -1,0 +1,11 @@
+{
+  "id": "c43312e0-110e-4751-a0d5-02b9d1f93c7c",
+  "object": "beer",
+  "name": "Reserve Signature Ale with Tomme Arthur",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

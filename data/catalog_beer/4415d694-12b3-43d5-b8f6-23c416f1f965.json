@@ -1,0 +1,11 @@
+{
+  "id": "4415d694-12b3-43d5-b8f6-23c416f1f965",
+  "object": "beer",
+  "name": "A Big Ail",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

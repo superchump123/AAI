@@ -1,0 +1,11 @@
+{
+  "id": "c24d7599-f1f2-45f6-a725-733a1809e4d8",
+  "object": "beer",
+  "name": "Riveter IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

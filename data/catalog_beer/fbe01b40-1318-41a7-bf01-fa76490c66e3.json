@@ -1,0 +1,11 @@
+{
+  "id": "fbe01b40-1318-41a7-bf01-fa76490c66e3",
+  "object": "beer",
+  "name": "Big Cat Brew",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

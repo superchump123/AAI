@@ -1,0 +1,11 @@
+{
+  "id": "74b7460f-d683-4675-9d80-9a49a920e85f",
+  "object": "beer",
+  "name": "Dark Meddle",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

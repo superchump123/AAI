@@ -1,0 +1,11 @@
+{
+  "id": "1b492e52-22c1-4b59-8cd9-a2f06c5dcd2f",
+  "object": "beer",
+  "name": "Blitzen",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "791ac241-7b06-43f1-9a2e-e6c8be190c04",
+  "object": "beer",
+  "name": "Laurelweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

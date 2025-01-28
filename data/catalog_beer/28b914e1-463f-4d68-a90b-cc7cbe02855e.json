@@ -1,0 +1,11 @@
+{
+  "id": "28b914e1-463f-4d68-a90b-cc7cbe02855e",
+  "object": "beer",
+  "name": "HBS Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

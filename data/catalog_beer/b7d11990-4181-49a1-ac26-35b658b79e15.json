@@ -1,0 +1,11 @@
+{
+  "id": "b7d11990-4181-49a1-ac26-35b658b79e15",
+  "object": "beer",
+  "name": "Ambrosia Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f2db89e5-ddda-45ac-b4f0-8afd6eb922d9",
+  "object": "beer",
+  "name": "MoonRay",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

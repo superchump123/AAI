@@ -1,0 +1,11 @@
+{
+  "id": "13cb7ea7-8376-4a8a-963e-e838f056fb5c",
+  "object": "beer",
+  "name": "Mid-City Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

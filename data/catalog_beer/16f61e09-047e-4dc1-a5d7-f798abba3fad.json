@@ -1,0 +1,11 @@
+{
+  "id": "16f61e09-047e-4dc1-a5d7-f798abba3fad",
+  "object": "beer",
+  "name": "Story Horse Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

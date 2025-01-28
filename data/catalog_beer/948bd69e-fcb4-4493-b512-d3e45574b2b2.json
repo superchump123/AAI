@@ -1,0 +1,11 @@
+{
+  "id": "948bd69e-fcb4-4493-b512-d3e45574b2b2",
+  "object": "beer",
+  "name": "Oktave",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

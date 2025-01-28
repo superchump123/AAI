@@ -1,0 +1,11 @@
+{
+  "id": "dc57ce9f-37d3-413e-9463-cdadcdab5032",
+  "object": "beer",
+  "name": "Foam Top",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

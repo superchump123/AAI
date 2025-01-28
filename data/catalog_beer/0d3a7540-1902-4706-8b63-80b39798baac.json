@@ -1,0 +1,11 @@
+{
+  "id": "0d3a7540-1902-4706-8b63-80b39798baac",
+  "object": "beer",
+  "name": "Label Up",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

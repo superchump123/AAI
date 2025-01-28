@@ -1,0 +1,11 @@
+{
+  "id": "2ca12dbe-8e55-4b20-b200-dc758422372c",
+  "object": "beer",
+  "name": "Original Dry",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

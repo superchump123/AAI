@@ -1,0 +1,11 @@
+{
+  "id": "ad989d7a-3aee-4a9d-83b1-8e398b95f540",
+  "object": "beer",
+  "name": "Kamelot",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

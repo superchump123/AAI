@@ -1,0 +1,11 @@
+{
+  "id": "fe6eeca2-028e-4589-adcb-653c3413088e",
+  "object": "beer",
+  "name": "Halifax Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

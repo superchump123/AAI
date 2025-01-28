@@ -1,0 +1,11 @@
+{
+  "id": "25264c5a-caa4-402e-ac02-00407715da83",
+  "object": "beer",
+  "name": "Double Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

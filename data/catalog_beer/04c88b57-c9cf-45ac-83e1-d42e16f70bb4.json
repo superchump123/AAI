@@ -1,0 +1,11 @@
+{
+  "id": "04c88b57-c9cf-45ac-83e1-d42e16f70bb4",
+  "object": "beer",
+  "name": "Survivor's Tale Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

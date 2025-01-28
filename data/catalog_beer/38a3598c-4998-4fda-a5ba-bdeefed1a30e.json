@@ -1,0 +1,11 @@
+{
+  "id": "38a3598c-4998-4fda-a5ba-bdeefed1a30e",
+  "object": "beer",
+  "name": "Imperial IPA with Blueberries",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

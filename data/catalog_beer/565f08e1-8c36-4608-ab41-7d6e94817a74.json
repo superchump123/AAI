@@ -1,0 +1,11 @@
+{
+  "id": "565f08e1-8c36-4608-ab41-7d6e94817a74",
+  "object": "beer",
+  "name": "Nordic Pines",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

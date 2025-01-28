@@ -1,0 +1,11 @@
+{
+  "id": "41da174f-e963-412b-a9b3-9e1a8bcb193d",
+  "object": "beer",
+  "name": "\"Wintah\" Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

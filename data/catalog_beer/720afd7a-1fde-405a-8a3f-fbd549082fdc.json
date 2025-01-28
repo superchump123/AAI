@@ -1,0 +1,11 @@
+{
+  "id": "720afd7a-1fde-405a-8a3f-fbd549082fdc",
+  "object": "beer",
+  "name": "Wildstyle",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

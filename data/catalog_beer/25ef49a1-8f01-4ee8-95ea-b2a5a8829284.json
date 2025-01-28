@@ -1,0 +1,11 @@
+{
+  "id": "25ef49a1-8f01-4ee8-95ea-b2a5a8829284",
+  "object": "beer",
+  "name": "Michelob Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

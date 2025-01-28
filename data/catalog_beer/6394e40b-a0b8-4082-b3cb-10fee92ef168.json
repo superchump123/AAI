@@ -1,0 +1,11 @@
+{
+  "id": "6394e40b-a0b8-4082-b3cb-10fee92ef168",
+  "object": "beer",
+  "name": "Ryebeeria - Secret Stash Series",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

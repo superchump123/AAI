@@ -1,0 +1,11 @@
+{
+  "id": "3c4e4a6c-cb40-42b6-a717-1ab6e9714f98",
+  "object": "beer",
+  "name": "Brand New Normal",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

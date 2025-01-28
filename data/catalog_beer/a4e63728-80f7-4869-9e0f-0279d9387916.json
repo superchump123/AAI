@@ -1,0 +1,11 @@
+{
+  "id": "a4e63728-80f7-4869-9e0f-0279d9387916",
+  "object": "beer",
+  "name": "Alpine Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

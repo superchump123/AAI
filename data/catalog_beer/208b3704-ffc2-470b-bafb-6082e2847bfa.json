@@ -1,0 +1,11 @@
+{
+  "id": "208b3704-ffc2-470b-bafb-6082e2847bfa",
+  "object": "beer",
+  "name": "Head High",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

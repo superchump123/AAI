@@ -1,0 +1,11 @@
+{
+  "id": "e4d6291e-863a-46e0-b8cd-c7550173986c",
+  "object": "beer",
+  "name": "Delicious IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

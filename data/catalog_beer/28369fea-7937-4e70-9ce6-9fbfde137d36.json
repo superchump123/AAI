@@ -1,0 +1,11 @@
+{
+  "id": "28369fea-7937-4e70-9ce6-9fbfde137d36",
+  "object": "beer",
+  "name": "Deep Ellum IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

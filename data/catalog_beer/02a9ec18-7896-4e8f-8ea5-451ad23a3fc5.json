@@ -1,0 +1,11 @@
+{
+  "id": "02a9ec18-7896-4e8f-8ea5-451ad23a3fc5",
+  "object": "beer",
+  "name": "Dirk Dubbelr",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a3597b16-9248-4f54-bb54-a4cd48c2b334",
+  "object": "beer",
+  "name": "Levadura",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "83a7b6b1-9b48-4a4e-9d99-730d3810b9f5",
+  "object": "beer",
+  "name": "Lunker",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

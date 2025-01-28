@@ -1,0 +1,11 @@
+{
+  "id": "012fb7f1-6a6f-4d47-9edf-2130bfaf89df",
+  "object": "beer",
+  "name": "Unda Cova Brudda",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 89,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

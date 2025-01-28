@@ -1,0 +1,11 @@
+{
+  "id": "61bb2590-ece9-464a-aa8c-ded0e632690a",
+  "object": "beer",
+  "name": "Citramendous DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

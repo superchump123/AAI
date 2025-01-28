@@ -1,0 +1,11 @@
+{
+  "id": "8ab5873d-a742-49dc-a63c-f508e35340c1",
+  "object": "beer",
+  "name": "Element 115 Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "21ac2567-c71c-4797-b0fa-0e641619d0e9",
+  "object": "beer",
+  "name": "English Rose",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

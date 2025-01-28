@@ -1,0 +1,11 @@
+{
+  "id": "b9af020d-398b-4f1e-8179-a6bcc0abb0df",
+  "object": "beer",
+  "name": "Pulp Free",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

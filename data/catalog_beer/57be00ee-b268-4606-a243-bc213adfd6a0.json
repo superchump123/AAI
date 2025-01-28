@@ -1,0 +1,11 @@
+{
+  "id": "57be00ee-b268-4606-a243-bc213adfd6a0",
+  "object": "beer",
+  "name": "Little Red Top",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c312730d-c0a5-4cf2-b7c2-17198a391735",
+  "object": "beer",
+  "name": "Rory's Last Stand",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5f94705f-171b-483c-8869-df55a4d23529",
+  "object": "beer",
+  "name": "Double Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

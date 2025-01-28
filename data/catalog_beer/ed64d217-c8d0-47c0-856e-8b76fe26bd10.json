@@ -1,0 +1,11 @@
+{
+  "id": "ed64d217-c8d0-47c0-856e-8b76fe26bd10",
+  "object": "beer",
+  "name": "Hop Bursted IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

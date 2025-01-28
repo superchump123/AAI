@@ -1,0 +1,11 @@
+{
+  "id": "85aedcb5-ca5c-49ba-b39a-01bfe2060670",
+  "object": "beer",
+  "name": "Gone A-Rye",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6db76bf6-82a2-49a8-875c-5d4f01dd170d",
+  "object": "beer",
+  "name": "Sunshine State of Mind",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

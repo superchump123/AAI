@@ -1,0 +1,11 @@
+{
+  "id": "1bb45e0f-5dcb-4a5b-ac89-f362dd264338",
+  "object": "beer",
+  "name": "Pearl Necklace",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4803d0ef-9072-45c9-b684-d02862c77c94",
+  "object": "beer",
+  "name": "Batch 1",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

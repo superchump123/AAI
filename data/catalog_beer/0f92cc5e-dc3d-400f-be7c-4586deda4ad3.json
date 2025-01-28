@@ -1,0 +1,11 @@
+{
+  "id": "0f92cc5e-dc3d-400f-be7c-4586deda4ad3",
+  "object": "beer",
+  "name": "Andromeda",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

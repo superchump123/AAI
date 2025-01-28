@@ -1,0 +1,11 @@
+{
+  "id": "ee2f62be-a372-427d-9621-65d508a6c6a9",
+  "object": "beer",
+  "name": "LA 31 Passionne",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

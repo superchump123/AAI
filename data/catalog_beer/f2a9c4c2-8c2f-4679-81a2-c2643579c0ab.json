@@ -1,0 +1,11 @@
+{
+  "id": "f2a9c4c2-8c2f-4679-81a2-c2643579c0ab",
+  "object": "beer",
+  "name": "Old Beluga Amber Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ecd5e93f-68ed-4e51-b00c-eec8885fbdd5",
+  "object": "beer",
+  "name": "FLINK",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

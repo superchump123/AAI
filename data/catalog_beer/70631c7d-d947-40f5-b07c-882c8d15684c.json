@@ -1,0 +1,11 @@
+{
+  "id": "70631c7d-d947-40f5-b07c-882c8d15684c",
+  "object": "beer",
+  "name": "Sternquell Sommerbier",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

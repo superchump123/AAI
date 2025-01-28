@@ -1,0 +1,11 @@
+{
+  "id": "65863dfb-1183-4838-b803-dcc55da8cf54",
+  "object": "beer",
+  "name": "Winter Bock",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

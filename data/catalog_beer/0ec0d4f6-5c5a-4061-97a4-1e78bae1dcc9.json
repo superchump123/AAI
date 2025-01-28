@@ -1,0 +1,11 @@
+{
+  "id": "0ec0d4f6-5c5a-4061-97a4-1e78bae1dcc9",
+  "object": "beer",
+  "name": "Hazy Train IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

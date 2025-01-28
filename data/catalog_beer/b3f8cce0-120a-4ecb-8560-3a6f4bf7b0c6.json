@@ -1,0 +1,11 @@
+{
+  "id": "b3f8cce0-120a-4ecb-8560-3a6f4bf7b0c6",
+  "object": "beer",
+  "name": "Prairie Madness",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

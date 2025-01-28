@@ -1,0 +1,11 @@
+{
+  "id": "8e2c7a21-5b1d-4bc4-9fd9-5942db19e9bb",
+  "object": "beer",
+  "name": "Luponic Distortion",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8c85d807-1bef-46e0-825e-bcc0d784c819",
+  "object": "beer",
+  "name": "Blaze",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "74283f48-8af3-4020-87d5-698b1c5900ae",
+  "object": "beer",
+  "name": "Solstice Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

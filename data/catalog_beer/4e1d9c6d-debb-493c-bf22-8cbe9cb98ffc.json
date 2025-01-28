@@ -1,0 +1,11 @@
+{
+  "id": "4e1d9c6d-debb-493c-bf22-8cbe9cb98ffc",
+  "object": "beer",
+  "name": "Ustecka Rychtarka Weizenbier",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

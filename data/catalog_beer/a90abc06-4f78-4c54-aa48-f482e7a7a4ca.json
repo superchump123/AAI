@@ -1,0 +1,11 @@
+{
+  "id": "a90abc06-4f78-4c54-aa48-f482e7a7a4ca",
+  "object": "beer",
+  "name": "Muttnik",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

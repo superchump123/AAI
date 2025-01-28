@@ -1,0 +1,11 @@
+{
+  "id": "459da609-79d1-40c5-a5f8-0f9c48dc7b42",
+  "object": "beer",
+  "name": "Double Cutt IIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ba8d1da-90fe-429d-8a00-0b1aa48c3800",
+  "object": "beer",
+  "name": "Luce",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

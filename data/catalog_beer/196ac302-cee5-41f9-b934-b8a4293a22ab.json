@@ -1,0 +1,11 @@
+{
+  "id": "196ac302-cee5-41f9-b934-b8a4293a22ab",
+  "object": "beer",
+  "name": "Grand Cru Bourbon Barrel Aged",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

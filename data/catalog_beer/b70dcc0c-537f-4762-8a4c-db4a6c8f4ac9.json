@@ -1,0 +1,11 @@
+{
+  "id": "b70dcc0c-537f-4762-8a4c-db4a6c8f4ac9",
+  "object": "beer",
+  "name": "Green Bench IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

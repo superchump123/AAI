@@ -1,0 +1,11 @@
+{
+  "id": "f7231a27-4077-4712-8f88-91f84a64469a",
+  "object": "beer",
+  "name": "Prognosticator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

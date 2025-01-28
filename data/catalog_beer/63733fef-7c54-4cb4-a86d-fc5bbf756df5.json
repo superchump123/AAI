@@ -1,0 +1,11 @@
+{
+  "id": "63733fef-7c54-4cb4-a86d-fc5bbf756df5",
+  "object": "beer",
+  "name": "Malice",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

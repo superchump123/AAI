@@ -1,0 +1,11 @@
+{
+  "id": "6979aa41-dd6a-46dc-aa63-fea24e8a4dfc",
+  "object": "beer",
+  "name": "F4",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

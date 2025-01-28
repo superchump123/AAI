@@ -1,0 +1,11 @@
+{
+  "id": "c78068f5-eed0-4f42-856b-9ccd57a86006",
+  "object": "beer",
+  "name": "Plank Town Extra Pale Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

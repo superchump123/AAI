@@ -1,0 +1,11 @@
+{
+  "id": "f77dab0f-3baf-4cd3-8475-dccef967d874",
+  "object": "beer",
+  "name": "Gaiabolical Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

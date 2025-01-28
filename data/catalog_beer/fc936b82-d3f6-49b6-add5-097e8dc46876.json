@@ -1,0 +1,11 @@
+{
+  "id": "fc936b82-d3f6-49b6-add5-097e8dc46876",
+  "object": "beer",
+  "name": "Triumvirate",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

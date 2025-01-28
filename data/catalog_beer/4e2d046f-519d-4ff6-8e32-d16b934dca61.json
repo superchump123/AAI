@@ -1,0 +1,11 @@
+{
+  "id": "4e2d046f-519d-4ff6-8e32-d16b934dca61",
+  "object": "beer",
+  "name": "Spring Twist",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

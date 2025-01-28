@@ -1,0 +1,11 @@
+{
+  "id": "cf139564-755f-4f59-b3f7-bb3d879ac7f6",
+  "object": "beer",
+  "name": "aBEERdeen Scotchish",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

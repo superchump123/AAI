@@ -1,0 +1,11 @@
+{
+  "id": "c1b8a73e-cf96-4e84-8d25-76c4b9123c50",
+  "object": "beer",
+  "name": "City Wide Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

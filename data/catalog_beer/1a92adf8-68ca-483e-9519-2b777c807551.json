@@ -1,0 +1,11 @@
+{
+  "id": "1a92adf8-68ca-483e-9519-2b777c807551",
+  "object": "beer",
+  "name": "Tootsie Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

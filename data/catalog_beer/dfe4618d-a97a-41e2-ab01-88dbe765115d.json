@@ -1,0 +1,11 @@
+{
+  "id": "dfe4618d-a97a-41e2-ab01-88dbe765115d",
+  "object": "beer",
+  "name": "McSwagger's Own",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

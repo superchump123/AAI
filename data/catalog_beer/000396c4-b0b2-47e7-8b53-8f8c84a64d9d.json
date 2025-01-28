@@ -1,0 +1,11 @@
+{
+  "id": "000396c4-b0b2-47e7-8b53-8f8c84a64d9d",
+  "object": "beer",
+  "name": "Big Red Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

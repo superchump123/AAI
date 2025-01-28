@@ -1,0 +1,11 @@
+{
+  "id": "9ad51126-409d-49a3-8bd2-893403b3b6b2",
+  "object": "beer",
+  "name": "Big In Japan",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b69c060-d690-496d-9eec-1c90ee87f924",
+  "object": "beer",
+  "name": "Going Streaking IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

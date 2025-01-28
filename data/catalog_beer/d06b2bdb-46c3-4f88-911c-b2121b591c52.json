@@ -1,0 +1,11 @@
+{
+  "id": "d06b2bdb-46c3-4f88-911c-b2121b591c52",
+  "object": "beer",
+  "name": "Iserlohner Extra Gold",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

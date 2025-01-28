@@ -1,0 +1,11 @@
+{
+  "id": "ac42a882-eec3-4a8e-8457-b37c51c88104",
+  "object": "beer",
+  "name": "Deux Rouges",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

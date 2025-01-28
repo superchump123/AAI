@@ -1,0 +1,11 @@
+{
+  "id": "5ed0e708-7d7a-42af-834a-7e9eda91c62a",
+  "object": "beer",
+  "name": "Peak City Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

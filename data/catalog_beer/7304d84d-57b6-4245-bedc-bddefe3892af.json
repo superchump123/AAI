@@ -1,0 +1,11 @@
+{
+  "id": "7304d84d-57b6-4245-bedc-bddefe3892af",
+  "object": "beer",
+  "name": "Juice Bomb",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "33373c04-08dc-4de4-a939-37b8bbdaa052",
+  "object": "beer",
+  "name": "Brune",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

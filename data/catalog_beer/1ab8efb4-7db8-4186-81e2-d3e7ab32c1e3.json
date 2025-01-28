@@ -1,0 +1,11 @@
+{
+  "id": "1ab8efb4-7db8-4186-81e2-d3e7ab32c1e3",
+  "object": "beer",
+  "name": "Metry's Winter Lager",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

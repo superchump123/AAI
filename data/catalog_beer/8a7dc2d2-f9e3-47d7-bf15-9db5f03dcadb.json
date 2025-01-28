@@ -1,0 +1,11 @@
+{
+  "id": "8a7dc2d2-f9e3-47d7-bf15-9db5f03dcadb",
+  "object": "beer",
+  "name": "iNFiNiTE WiSDOM TRiPEL",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

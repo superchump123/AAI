@@ -1,0 +1,11 @@
+{
+  "id": "12c6e5ca-7b99-47f9-b29e-c05fb8afc3af",
+  "object": "beer",
+  "name": "GINGER",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

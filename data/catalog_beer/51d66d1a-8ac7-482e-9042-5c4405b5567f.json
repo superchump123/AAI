@@ -1,0 +1,11 @@
+{
+  "id": "51d66d1a-8ac7-482e-9042-5c4405b5567f",
+  "object": "beer",
+  "name": "Eagle Harbor IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

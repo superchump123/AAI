@@ -1,0 +1,11 @@
+{
+  "id": "107da984-4ff4-4bfd-8cdd-b75f0186589b",
+  "object": "beer",
+  "name": "Pumpkinfest",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

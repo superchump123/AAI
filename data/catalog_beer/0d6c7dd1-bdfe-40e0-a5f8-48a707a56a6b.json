@@ -1,0 +1,11 @@
+{
+  "id": "0d6c7dd1-bdfe-40e0-a5f8-48a707a56a6b",
+  "object": "beer",
+  "name": "Cyclone Series Neo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

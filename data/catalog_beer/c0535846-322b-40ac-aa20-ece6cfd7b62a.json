@@ -1,0 +1,11 @@
+{
+  "id": "c0535846-322b-40ac-aa20-ece6cfd7b62a",
+  "object": "beer",
+  "name": "Pronghorn Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

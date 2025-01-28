@@ -1,0 +1,11 @@
+{
+  "id": "0bb19a7c-abda-4c05-b97a-c1413af6537a",
+  "object": "beer",
+  "name": "Fusion 22",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

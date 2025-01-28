@@ -1,0 +1,11 @@
+{
+  "id": "2ca66788-10db-471e-878f-d783ea2c621b",
+  "object": "beer",
+  "name": "Double Red IPA",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

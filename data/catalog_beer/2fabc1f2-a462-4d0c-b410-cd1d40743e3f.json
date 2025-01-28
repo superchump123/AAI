@@ -1,0 +1,11 @@
+{
+  "id": "2fabc1f2-a462-4d0c-b410-cd1d40743e3f",
+  "object": "beer",
+  "name": "Begbie Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

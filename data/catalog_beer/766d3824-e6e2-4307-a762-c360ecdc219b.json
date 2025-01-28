@@ -1,0 +1,11 @@
+{
+  "id": "766d3824-e6e2-4307-a762-c360ecdc219b",
+  "object": "beer",
+  "name": "paint it brown",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.4,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

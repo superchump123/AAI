@@ -1,0 +1,11 @@
+{
+  "id": "ac9c29f3-2d97-40e5-952b-c5feea0502d2",
+  "object": "beer",
+  "name": "Dark Horse",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

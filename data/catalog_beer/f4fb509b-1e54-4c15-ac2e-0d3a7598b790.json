@@ -1,0 +1,11 @@
+{
+  "id": "f4fb509b-1e54-4c15-ac2e-0d3a7598b790",
+  "object": "beer",
+  "name": "Cool as Cuke",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

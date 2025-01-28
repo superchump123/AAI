@@ -1,0 +1,11 @@
+{
+  "id": "0bc77054-ade9-4403-9b4e-1386c3b3d19a",
+  "object": "beer",
+  "name": "Mother Trucker",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

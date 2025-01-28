@@ -1,0 +1,11 @@
+{
+  "id": "9ec126ec-d41c-42ae-b729-f5757a57c1b4",
+  "object": "beer",
+  "name": "Levity Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

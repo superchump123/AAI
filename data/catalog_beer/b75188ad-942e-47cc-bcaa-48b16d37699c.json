@@ -1,0 +1,11 @@
+{
+  "id": "b75188ad-942e-47cc-bcaa-48b16d37699c",
+  "object": "beer",
+  "name": "Walter Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

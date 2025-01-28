@@ -1,0 +1,11 @@
+{
+  "id": "b6d605c4-d91f-4fe8-9cac-7d0611c3b54a",
+  "object": "beer",
+  "name": "New World",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

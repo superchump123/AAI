@@ -1,0 +1,11 @@
+{
+  "id": "41d1f4fb-0dbc-458a-81a1-e0ee9b351a4d",
+  "object": "beer",
+  "name": "Catharsis Barrel Aged Imperial Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

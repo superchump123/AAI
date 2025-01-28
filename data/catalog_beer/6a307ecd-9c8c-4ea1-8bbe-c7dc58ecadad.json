@@ -1,0 +1,11 @@
+{
+  "id": "6a307ecd-9c8c-4ea1-8bbe-c7dc58ecadad",
+  "object": "beer",
+  "name": "Hacker-Pschorr Edelhell",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

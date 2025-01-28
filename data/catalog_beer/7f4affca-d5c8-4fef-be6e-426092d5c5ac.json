@@ -1,0 +1,11 @@
+{
+  "id": "7f4affca-d5c8-4fef-be6e-426092d5c5ac",
+  "object": "beer",
+  "name": "The Crabby Granny",
+  "style": "Cyser (Apple Melomel)",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

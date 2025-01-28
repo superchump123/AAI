@@ -1,0 +1,11 @@
+{
+  "id": "75e058b8-ea02-4795-a4b2-37ce6d5a5112",
+  "object": "beer",
+  "name": "Waterline IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

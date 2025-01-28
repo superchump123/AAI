@@ -1,0 +1,11 @@
+{
+  "id": "298099a6-05ea-4b05-bfc0-edc3f46b417c",
+  "object": "beer",
+  "name": "Spinster",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

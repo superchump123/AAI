@@ -1,0 +1,11 @@
+{
+  "id": "147d23df-af99-489c-9987-de0590680710",
+  "object": "beer",
+  "name": "Mista Sparkle",
+  "style": "Ginjo Beer or Sake-Yeast Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

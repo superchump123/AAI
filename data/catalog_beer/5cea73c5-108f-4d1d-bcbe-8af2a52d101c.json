@@ -1,0 +1,11 @@
+{
+  "id": "5cea73c5-108f-4d1d-bcbe-8af2a52d101c",
+  "object": "beer",
+  "name": "Strawberry Blonde",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

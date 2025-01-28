@@ -1,0 +1,11 @@
+{
+  "id": "0feeb302-e7e5-40df-993f-bfa305f33b0d",
+  "object": "beer",
+  "name": "Noir Navel",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

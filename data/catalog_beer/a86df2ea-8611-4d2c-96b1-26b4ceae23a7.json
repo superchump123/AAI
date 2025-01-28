@@ -1,0 +1,11 @@
+{
+  "id": "a86df2ea-8611-4d2c-96b1-26b4ceae23a7",
+  "object": "beer",
+  "name": "Twisted Tale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

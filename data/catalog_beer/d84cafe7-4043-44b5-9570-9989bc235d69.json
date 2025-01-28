@@ -1,0 +1,11 @@
+{
+  "id": "d84cafe7-4043-44b5-9570-9989bc235d69",
+  "object": "beer",
+  "name": "Downtown Sugar Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

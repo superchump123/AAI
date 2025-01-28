@@ -1,0 +1,11 @@
+{
+  "id": "415a3d54-143d-4bf5-bce4-4ad7298b42a1",
+  "object": "beer",
+  "name": "Strange Quark",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

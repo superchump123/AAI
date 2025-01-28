@@ -1,0 +1,11 @@
+{
+  "id": "2871bfec-a0f2-4d5a-aae0-7dafc62ecf4f",
+  "object": "beer",
+  "name": "Global Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

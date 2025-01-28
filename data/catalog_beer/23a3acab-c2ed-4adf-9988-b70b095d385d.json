@@ -1,0 +1,11 @@
+{
+  "id": "23a3acab-c2ed-4adf-9988-b70b095d385d",
+  "object": "beer",
+  "name": "BeerBrugna",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

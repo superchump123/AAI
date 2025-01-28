@@ -1,0 +1,11 @@
+{
+  "id": "bac7b6c4-fd01-4252-874e-0840bef487ff",
+  "object": "beer",
+  "name": "Camarillo Brillo Sour",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

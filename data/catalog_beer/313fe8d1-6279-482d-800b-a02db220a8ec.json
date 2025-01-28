@@ -1,0 +1,11 @@
+{
+  "id": "313fe8d1-6279-482d-800b-a02db220a8ec",
+  "object": "beer",
+  "name": "Samuel Adams Tetravis",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

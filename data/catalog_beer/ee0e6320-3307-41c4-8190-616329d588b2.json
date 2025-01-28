@@ -1,0 +1,11 @@
+{
+  "id": "ee0e6320-3307-41c4-8190-616329d588b2",
+  "object": "beer",
+  "name": "Canis Mexicanus Double Espresso",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

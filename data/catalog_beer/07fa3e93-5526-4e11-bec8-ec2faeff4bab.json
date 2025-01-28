@@ -1,0 +1,11 @@
+{
+  "id": "07fa3e93-5526-4e11-bec8-ec2faeff4bab",
+  "object": "beer",
+  "name": "Loonatick Fresh Hop",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b1b281cf-c0dc-459b-a60b-5718a29da328",
+  "object": "beer",
+  "name": "Chariot",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

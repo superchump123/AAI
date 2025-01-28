@@ -1,0 +1,11 @@
+{
+  "id": "37578df8-189a-4c2f-86e4-5694a0bb12a1",
+  "object": "beer",
+  "name": "Ale Dorado IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

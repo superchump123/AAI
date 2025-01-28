@@ -1,0 +1,11 @@
+{
+  "id": "e4d95e93-a08d-4ff5-8821-a04131e4e4ad",
+  "object": "beer",
+  "name": "HOPSMACK!",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

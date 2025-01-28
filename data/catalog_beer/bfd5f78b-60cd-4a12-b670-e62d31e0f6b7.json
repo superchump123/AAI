@@ -1,0 +1,11 @@
+{
+  "id": "bfd5f78b-60cd-4a12-b670-e62d31e0f6b7",
+  "object": "beer",
+  "name": "Hop Zeppelin Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

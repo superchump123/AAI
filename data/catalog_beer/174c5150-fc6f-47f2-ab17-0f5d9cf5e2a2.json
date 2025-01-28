@@ -1,0 +1,11 @@
+{
+  "id": "174c5150-fc6f-47f2-ab17-0f5d9cf5e2a2",
+  "object": "beer",
+  "name": "Hop Ascension",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

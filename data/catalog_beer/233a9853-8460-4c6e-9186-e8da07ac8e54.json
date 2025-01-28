@@ -1,0 +1,11 @@
+{
+  "id": "233a9853-8460-4c6e-9186-e8da07ac8e54",
+  "object": "beer",
+  "name": "Dahlonega Gold",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

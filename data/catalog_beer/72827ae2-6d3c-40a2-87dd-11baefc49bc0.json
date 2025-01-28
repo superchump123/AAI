@@ -1,0 +1,11 @@
+{
+  "id": "72827ae2-6d3c-40a2-87dd-11baefc49bc0",
+  "object": "beer",
+  "name": "St. Simcoe",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

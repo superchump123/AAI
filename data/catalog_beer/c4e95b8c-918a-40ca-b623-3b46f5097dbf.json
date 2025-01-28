@@ -1,0 +1,11 @@
+{
+  "id": "c4e95b8c-918a-40ca-b623-3b46f5097dbf",
+  "object": "beer",
+  "name": "Lambda",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

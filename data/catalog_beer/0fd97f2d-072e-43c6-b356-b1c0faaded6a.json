@@ -1,0 +1,11 @@
+{
+  "id": "0fd97f2d-072e-43c6-b356-b1c0faaded6a",
+  "object": "beer",
+  "name": "Ole Hootie",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "33de0b47-a8bd-4fbf-8f6b-4ec2b469fb6c",
+  "object": "beer",
+  "name": "Einbecker Ur-Bock Dunkel",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

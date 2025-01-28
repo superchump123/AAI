@@ -1,0 +1,11 @@
+{
+  "id": "11d531ef-e06c-4446-b02c-6466effcab28",
+  "object": "beer",
+  "name": "Texas Bourbon Barrel Imperial Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

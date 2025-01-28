@@ -1,0 +1,11 @@
+{
+  "id": "0fd9630d-0ae0-4d23-b7db-30a6bfd5c825",
+  "object": "beer",
+  "name": "Undertow",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

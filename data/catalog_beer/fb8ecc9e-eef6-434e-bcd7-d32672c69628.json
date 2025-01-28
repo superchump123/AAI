@@ -1,0 +1,11 @@
+{
+  "id": "fb8ecc9e-eef6-434e-bcd7-d32672c69628",
+  "object": "beer",
+  "name": "Orange Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "47be69bf-927c-40b6-bb70-1fa23bfc1bb3",
+  "object": "beer",
+  "name": "Sacrificial Ram",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 105,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

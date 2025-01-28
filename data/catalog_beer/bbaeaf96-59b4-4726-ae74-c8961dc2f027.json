@@ -1,0 +1,11 @@
+{
+  "id": "bbaeaf96-59b4-4726-ae74-c8961dc2f027",
+  "object": "beer",
+  "name": "Tart Vise",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

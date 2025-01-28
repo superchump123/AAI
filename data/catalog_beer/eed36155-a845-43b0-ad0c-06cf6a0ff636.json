@@ -1,0 +1,11 @@
+{
+  "id": "eed36155-a845-43b0-ad0c-06cf6a0ff636",
+  "object": "beer",
+  "name": "Old Tom Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

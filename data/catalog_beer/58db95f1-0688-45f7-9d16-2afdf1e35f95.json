@@ -1,0 +1,11 @@
+{
+  "id": "58db95f1-0688-45f7-9d16-2afdf1e35f95",
+  "object": "beer",
+  "name": "Menace Hopper",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

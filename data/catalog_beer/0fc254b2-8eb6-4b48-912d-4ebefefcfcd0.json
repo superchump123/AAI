@@ -1,0 +1,11 @@
+{
+  "id": "0fc254b2-8eb6-4b48-912d-4ebefefcfcd0",
+  "object": "beer",
+  "name": "Back Burner",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "af7051b7-e19f-4e06-a42c-e03315a8ba4f",
+  "object": "beer",
+  "name": "Ocho De Mayo",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

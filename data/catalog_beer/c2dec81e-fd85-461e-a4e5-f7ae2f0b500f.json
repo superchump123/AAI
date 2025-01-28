@@ -1,0 +1,11 @@
+{
+  "id": "c2dec81e-fd85-461e-a4e5-f7ae2f0b500f",
+  "object": "beer",
+  "name": "Gold Crown Premium",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

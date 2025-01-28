@@ -1,0 +1,11 @@
+{
+  "id": "626b3a4b-797d-4efe-a41c-27cdf0c30f40",
+  "object": "beer",
+  "name": "Cottonwood Low Down",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

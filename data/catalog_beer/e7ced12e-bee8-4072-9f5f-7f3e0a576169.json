@@ -1,0 +1,11 @@
+{
+  "id": "e7ced12e-bee8-4072-9f5f-7f3e0a576169",
+  "object": "beer",
+  "name": "Fusion",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

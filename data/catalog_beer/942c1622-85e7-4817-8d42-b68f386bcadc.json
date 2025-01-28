@@ -1,0 +1,11 @@
+{
+  "id": "942c1622-85e7-4817-8d42-b68f386bcadc",
+  "object": "beer",
+  "name": "Responsibly",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 13,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

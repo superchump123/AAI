@@ -1,0 +1,11 @@
+{
+  "id": "cf390a89-f09a-4691-903c-9445f1168fd0",
+  "object": "beer",
+  "name": "Far Post",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

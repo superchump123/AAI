@@ -1,0 +1,11 @@
+{
+  "id": "2fdc90e2-cb43-4efa-8371-78a91a5f609c",
+  "object": "beer",
+  "name": "Smuttlabs: FTW",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

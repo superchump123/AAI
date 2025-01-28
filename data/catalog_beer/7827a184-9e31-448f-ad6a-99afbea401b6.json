@@ -1,0 +1,11 @@
+{
+  "id": "7827a184-9e31-448f-ad6a-99afbea401b6",
+  "object": "beer",
+  "name": "International Pale Ale (version 2.0)",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

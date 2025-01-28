@@ -1,0 +1,11 @@
+{
+  "id": "d7553d8f-01ce-4ecb-8486-6c0d27775d31",
+  "object": "beer",
+  "name": "Bigger Smokey P",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

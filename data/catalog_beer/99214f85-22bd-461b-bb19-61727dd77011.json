@@ -1,0 +1,11 @@
+{
+  "id": "99214f85-22bd-461b-bb19-61727dd77011",
+  "object": "beer",
+  "name": "Bronx Belgian Style Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

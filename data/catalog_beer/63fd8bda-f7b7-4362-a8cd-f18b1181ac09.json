@@ -1,0 +1,11 @@
+{
+  "id": "63fd8bda-f7b7-4362-a8cd-f18b1181ac09",
+  "object": "beer",
+  "name": "Becky Blueberry Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "60b5b492-bc15-4f4e-8226-16e1b970b9fc",
+  "object": "beer",
+  "name": "Oyster Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bc59bc3b-55f6-4a3e-817d-423b6f941779",
+  "object": "beer",
+  "name": "Pioneer IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

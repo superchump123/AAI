@@ -1,0 +1,11 @@
+{
+  "id": "10d1bcf3-98f1-4700-976e-96126d25e505",
+  "object": "beer",
+  "name": "Carneros IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

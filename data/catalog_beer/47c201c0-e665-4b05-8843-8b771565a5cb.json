@@ -1,0 +1,11 @@
+{
+  "id": "47c201c0-e665-4b05-8843-8b771565a5cb",
+  "object": "beer",
+  "name": "Back In the Day IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

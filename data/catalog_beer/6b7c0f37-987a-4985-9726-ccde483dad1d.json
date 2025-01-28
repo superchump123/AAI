@@ -1,0 +1,11 @@
+{
+  "id": "6b7c0f37-987a-4985-9726-ccde483dad1d",
+  "object": "beer",
+  "name": "Buster Nut Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

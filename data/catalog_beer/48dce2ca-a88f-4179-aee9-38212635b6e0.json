@@ -1,0 +1,11 @@
+{
+  "id": "48dce2ca-a88f-4179-aee9-38212635b6e0",
+  "object": "beer",
+  "name": "Orange Crush Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d587f464-4b19-4569-8d4d-02e17902587f",
+  "object": "beer",
+  "name": "Pirate Bomb",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 14,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

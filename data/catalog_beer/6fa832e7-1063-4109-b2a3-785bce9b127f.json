@@ -1,0 +1,11 @@
+{
+  "id": "6fa832e7-1063-4109-b2a3-785bce9b127f",
+  "object": "beer",
+  "name": "War",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

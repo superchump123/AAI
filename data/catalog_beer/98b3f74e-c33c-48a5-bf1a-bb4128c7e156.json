@@ -1,0 +1,11 @@
+{
+  "id": "98b3f74e-c33c-48a5-bf1a-bb4128c7e156",
+  "object": "beer",
+  "name": "Restorative Beverage For Invalids and Convalescents",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

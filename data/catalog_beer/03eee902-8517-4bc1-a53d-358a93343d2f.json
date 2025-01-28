@@ -1,0 +1,11 @@
+{
+  "id": "03eee902-8517-4bc1-a53d-358a93343d2f",
+  "object": "beer",
+  "name": "Blazin' Hotbox",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

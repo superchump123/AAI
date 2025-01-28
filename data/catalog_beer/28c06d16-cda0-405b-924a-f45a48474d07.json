@@ -1,0 +1,11 @@
+{
+  "id": "28c06d16-cda0-405b-924a-f45a48474d07",
+  "object": "beer",
+  "name": "Ryevalry",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

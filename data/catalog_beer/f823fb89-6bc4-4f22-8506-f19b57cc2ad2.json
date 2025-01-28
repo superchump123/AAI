@@ -1,0 +1,11 @@
+{
+  "id": "f823fb89-6bc4-4f22-8506-f19b57cc2ad2",
+  "object": "beer",
+  "name": "Mosaic Hopped Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

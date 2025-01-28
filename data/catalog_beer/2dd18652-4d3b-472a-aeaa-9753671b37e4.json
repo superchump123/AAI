@@ -1,0 +1,11 @@
+{
+  "id": "2dd18652-4d3b-472a-aeaa-9753671b37e4",
+  "object": "beer",
+  "name": "Drunk Tank",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

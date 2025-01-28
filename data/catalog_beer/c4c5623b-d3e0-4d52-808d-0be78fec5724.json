@@ -1,0 +1,11 @@
+{
+  "id": "c4c5623b-d3e0-4d52-808d-0be78fec5724",
+  "object": "beer",
+  "name": "Prison Break",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

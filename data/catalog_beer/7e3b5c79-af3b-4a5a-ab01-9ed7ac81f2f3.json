@@ -1,0 +1,11 @@
+{
+  "id": "7e3b5c79-af3b-4a5a-ab01-9ed7ac81f2f3",
+  "object": "beer",
+  "name": "Royal Donk",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

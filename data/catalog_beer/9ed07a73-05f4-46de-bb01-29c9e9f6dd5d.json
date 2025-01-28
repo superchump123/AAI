@@ -1,0 +1,11 @@
+{
+  "id": "9ed07a73-05f4-46de-bb01-29c9e9f6dd5d",
+  "object": "beer",
+  "name": "Bitchin' Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

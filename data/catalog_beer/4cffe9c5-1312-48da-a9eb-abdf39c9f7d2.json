@@ -1,0 +1,11 @@
+{
+  "id": "4cffe9c5-1312-48da-a9eb-abdf39c9f7d2",
+  "object": "beer",
+  "name": "It's Alright!",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

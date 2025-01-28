@@ -1,0 +1,11 @@
+{
+  "id": "7adcf1a9-97f2-4678-ab02-331cabe9d12c",
+  "object": "beer",
+  "name": "Kentucky Rye Barrel IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

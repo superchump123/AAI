@@ -1,0 +1,11 @@
+{
+  "id": "0a8aac5a-495d-48fd-a65e-a021619c7a79",
+  "object": "beer",
+  "name": "Schaben's",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

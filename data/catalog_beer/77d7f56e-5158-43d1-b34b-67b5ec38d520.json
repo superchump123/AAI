@@ -1,0 +1,11 @@
+{
+  "id": "77d7f56e-5158-43d1-b34b-67b5ec38d520",
+  "object": "beer",
+  "name": "Hibiscus Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

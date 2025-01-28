@@ -1,0 +1,11 @@
+{
+  "id": "4d8c7d71-00be-4626-9243-f7d9f23bd58c",
+  "object": "beer",
+  "name": "Padrino",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

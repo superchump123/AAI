@@ -1,0 +1,11 @@
+{
+  "id": "eada04b3-5704-4df1-8320-36d3f66661ad",
+  "object": "beer",
+  "name": "In Bruges Belgian Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c5a7a3e8-1f24-4ce7-9701-546c8abb0af1",
+  "object": "beer",
+  "name": "White Pine Weiss",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

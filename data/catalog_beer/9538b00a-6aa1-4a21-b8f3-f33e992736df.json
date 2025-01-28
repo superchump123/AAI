@@ -1,0 +1,11 @@
+{
+  "id": "9538b00a-6aa1-4a21-b8f3-f33e992736df",
+  "object": "beer",
+  "name": "Mother Cluster",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

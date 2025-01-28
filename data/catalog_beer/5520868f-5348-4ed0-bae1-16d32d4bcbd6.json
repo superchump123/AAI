@@ -1,0 +1,11 @@
+{
+  "id": "5520868f-5348-4ed0-bae1-16d32d4bcbd6",
+  "object": "beer",
+  "name": "Bastola",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

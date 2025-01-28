@@ -1,0 +1,11 @@
+{
+  "id": "9291fda1-f425-4b31-9079-ea6770ed2b49",
+  "object": "beer",
+  "name": "Burr Grinder Coffee Ale",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

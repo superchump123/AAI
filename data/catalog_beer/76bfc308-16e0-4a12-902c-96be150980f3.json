@@ -1,0 +1,11 @@
+{
+  "id": "76bfc308-16e0-4a12-902c-96be150980f3",
+  "object": "beer",
+  "name": "Anadromous",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

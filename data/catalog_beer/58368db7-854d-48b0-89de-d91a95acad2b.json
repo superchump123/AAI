@@ -1,0 +1,11 @@
+{
+  "id": "58368db7-854d-48b0-89de-d91a95acad2b",
+  "object": "beer",
+  "name": "Old Milwaukee Ice",
+  "style": "American-Style Ice Lager",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

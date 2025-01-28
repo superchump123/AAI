@@ -1,0 +1,11 @@
+{
+  "id": "a7904b8f-7525-4351-892e-5f7967dc0a8c",
+  "object": "beer",
+  "name": "FU IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

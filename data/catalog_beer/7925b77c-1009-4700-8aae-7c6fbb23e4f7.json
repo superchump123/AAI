@@ -1,0 +1,11 @@
+{
+  "id": "7925b77c-1009-4700-8aae-7c6fbb23e4f7",
+  "object": "beer",
+  "name": "Cursed Kettle",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

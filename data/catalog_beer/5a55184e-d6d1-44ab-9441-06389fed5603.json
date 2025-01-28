@@ -1,0 +1,11 @@
+{
+  "id": "5a55184e-d6d1-44ab-9441-06389fed5603",
+  "object": "beer",
+  "name": "Mt. Baldy",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bede2792-e168-4bd1-ac3a-f828495a6562",
+  "object": "beer",
+  "name": "Helles Golden Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

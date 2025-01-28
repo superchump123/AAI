@@ -1,0 +1,11 @@
+{
+  "id": "66d3d8ce-8130-45d3-b55d-0e5e1ee5ee10",
+  "object": "beer",
+  "name": "BLACK ARIA BALTIC PORTER",
+  "style": "PORTER",
+  "description": "This classic beer style originates from the area surrounding the Baltic Sea and blends elements of English Porter with Russian Imperial Stout, but is fermented with lager yeast instead of ale yeast. Rich malt flavors of dark raisin and caramel meld with a righteous roastiness that has a pleasant lingering aftertaste.",
+  "abv": 7.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1666111786
+}

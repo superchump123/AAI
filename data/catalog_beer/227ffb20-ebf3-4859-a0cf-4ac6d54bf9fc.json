@@ -1,0 +1,11 @@
+{
+  "id": "227ffb20-ebf3-4859-a0cf-4ac6d54bf9fc",
+  "object": "beer",
+  "name": "The Matador Version 2.0 El Toro Bravo",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

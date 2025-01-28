@@ -1,0 +1,11 @@
+{
+  "id": "f2cf785a-ad00-40c7-b4b3-456c206ef66c",
+  "object": "beer",
+  "name": "American Dark Wheat",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

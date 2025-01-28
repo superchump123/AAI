@@ -1,0 +1,11 @@
+{
+  "id": "0f594e11-0bd7-41b7-b64a-c8eb2606ef4a",
+  "object": "beer",
+  "name": "Tessera",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

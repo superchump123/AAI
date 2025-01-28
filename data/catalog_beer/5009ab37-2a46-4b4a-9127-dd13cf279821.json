@@ -1,0 +1,11 @@
+{
+  "id": "5009ab37-2a46-4b4a-9127-dd13cf279821",
+  "object": "beer",
+  "name": "Braveheart Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

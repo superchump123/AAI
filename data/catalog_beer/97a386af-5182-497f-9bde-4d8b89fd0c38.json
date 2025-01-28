@@ -1,0 +1,11 @@
+{
+  "id": "97a386af-5182-497f-9bde-4d8b89fd0c38",
+  "object": "beer",
+  "name": "Witty in Pink",
+  "style": "Belgian Wit with Raspberries",
+  "description": "Witty in Pink is our raspberry enhanced Belgian-style Wit. It is tangy and refreshing. And yes it is Pink! This beer is brewed once a year for charity, 50% of our profits go to breast cancer awareness, research, and treatment.",
+  "abv": 5.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1511761269
+}

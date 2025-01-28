@@ -1,0 +1,11 @@
+{
+  "id": "5b89b4cf-59fa-462d-b4d8-9f0bd3ed9404",
+  "object": "beer",
+  "name": "Kriek",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

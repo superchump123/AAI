@@ -1,0 +1,11 @@
+{
+  "id": "debb6975-98e7-424c-9a03-5724126fb6b3",
+  "object": "beer",
+  "name": "Curly Horse IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

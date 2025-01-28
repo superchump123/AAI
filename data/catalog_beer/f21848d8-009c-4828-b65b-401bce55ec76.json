@@ -1,0 +1,11 @@
+{
+  "id": "f21848d8-009c-4828-b65b-401bce55ec76",
+  "object": "beer",
+  "name": "Orange Groove",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

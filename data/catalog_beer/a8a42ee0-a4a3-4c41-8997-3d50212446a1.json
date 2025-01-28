@@ -1,0 +1,11 @@
+{
+  "id": "a8a42ee0-a4a3-4c41-8997-3d50212446a1",
+  "object": "beer",
+  "name": "Brown Sugar Brown Cow",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "97da194e-1f4b-4129-a2d2-e7472d6d1342",
+  "object": "beer",
+  "name": "Hoppin' Honey Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

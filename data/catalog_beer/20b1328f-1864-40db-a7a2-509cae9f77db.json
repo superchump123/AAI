@@ -1,0 +1,11 @@
+{
+  "id": "20b1328f-1864-40db-a7a2-509cae9f77db",
+  "object": "beer",
+  "name": "Lenford Leonard",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

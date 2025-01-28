@@ -1,0 +1,11 @@
+{
+  "id": "dd82062f-29a1-46e2-b7dc-c981977a3777",
+  "object": "beer",
+  "name": "Basil Ryeman",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

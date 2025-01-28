@@ -1,0 +1,11 @@
+{
+  "id": "a5948fdc-51e3-46ca-9be9-f0f184507d7a",
+  "object": "beer",
+  "name": "Daliesque",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

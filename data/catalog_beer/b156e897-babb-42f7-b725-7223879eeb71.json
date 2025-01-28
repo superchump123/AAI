@@ -1,0 +1,11 @@
+{
+  "id": "b156e897-babb-42f7-b725-7223879eeb71",
+  "object": "beer",
+  "name": "Mela",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

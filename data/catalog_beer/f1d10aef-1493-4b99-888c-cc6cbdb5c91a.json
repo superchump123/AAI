@@ -1,0 +1,11 @@
+{
+  "id": "f1d10aef-1493-4b99-888c-cc6cbdb5c91a",
+  "object": "beer",
+  "name": "I Want Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

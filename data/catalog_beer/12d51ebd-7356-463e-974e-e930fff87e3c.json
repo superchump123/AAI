@@ -1,0 +1,11 @@
+{
+  "id": "12d51ebd-7356-463e-974e-e930fff87e3c",
+  "object": "beer",
+  "name": "Cinnamon Horchata Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

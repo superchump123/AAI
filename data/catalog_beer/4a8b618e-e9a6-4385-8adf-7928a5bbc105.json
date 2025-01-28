@@ -1,0 +1,11 @@
+{
+  "id": "4a8b618e-e9a6-4385-8adf-7928a5bbc105",
+  "object": "beer",
+  "name": "Sundae",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

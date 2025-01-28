@@ -1,0 +1,11 @@
+{
+  "id": "1ae99940-f640-4f0f-99c6-95d9637ad4cb",
+  "object": "beer",
+  "name": "Winter Wheatwine",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

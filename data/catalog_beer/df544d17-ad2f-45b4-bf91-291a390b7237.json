@@ -1,0 +1,11 @@
+{
+  "id": "df544d17-ad2f-45b4-bf91-291a390b7237",
+  "object": "beer",
+  "name": "Sugarshack Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

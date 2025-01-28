@@ -1,0 +1,11 @@
+{
+  "id": "7ccdfb9e-9f8e-4409-97c3-5f8f2ccac415",
+  "object": "beer",
+  "name": "Raid Beer",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

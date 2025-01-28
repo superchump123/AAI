@@ -1,0 +1,11 @@
+{
+  "id": "ee7515ae-2685-4adf-8464-76c82bcfe9e1",
+  "object": "beer",
+  "name": "Scorned Woman",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

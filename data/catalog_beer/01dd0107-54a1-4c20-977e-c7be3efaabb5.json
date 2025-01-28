@@ -1,0 +1,11 @@
+{
+  "id": "01dd0107-54a1-4c20-977e-c7be3efaabb5",
+  "object": "beer",
+  "name": "Taste of Honey",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

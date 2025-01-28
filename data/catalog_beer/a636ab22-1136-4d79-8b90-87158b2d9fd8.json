@@ -1,0 +1,11 @@
+{
+  "id": "a636ab22-1136-4d79-8b90-87158b2d9fd8",
+  "object": "beer",
+  "name": "Smoke Signal",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "382aa657-9af0-4132-8646-c434289ddb4e",
+  "object": "beer",
+  "name": "3rd Anniversary Belgian Strong",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c4c0cb70-77a2-4db4-ba85-a819cf988af7",
+  "object": "beer",
+  "name": "Divide & Conquer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

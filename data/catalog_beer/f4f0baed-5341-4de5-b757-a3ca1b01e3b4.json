@@ -1,0 +1,11 @@
+{
+  "id": "f4f0baed-5341-4de5-b757-a3ca1b01e3b4",
+  "object": "beer",
+  "name": "Superfluid",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

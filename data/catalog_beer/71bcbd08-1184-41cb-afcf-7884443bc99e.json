@@ -1,0 +1,11 @@
+{
+  "id": "71bcbd08-1184-41cb-afcf-7884443bc99e",
+  "object": "beer",
+  "name": "Louisville Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

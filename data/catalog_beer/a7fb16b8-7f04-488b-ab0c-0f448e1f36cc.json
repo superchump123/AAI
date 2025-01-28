@@ -1,0 +1,11 @@
+{
+  "id": "a7fb16b8-7f04-488b-ab0c-0f448e1f36cc",
+  "object": "beer",
+  "name": "Stoudt's Double India Pale Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

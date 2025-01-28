@@ -1,0 +1,11 @@
+{
+  "id": "b83caa36-40f9-4085-8994-4e569603eb24",
+  "object": "beer",
+  "name": "Quad Reserve",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

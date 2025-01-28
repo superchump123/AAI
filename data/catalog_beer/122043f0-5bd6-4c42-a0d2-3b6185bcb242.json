@@ -1,0 +1,11 @@
+{
+  "id": "122043f0-5bd6-4c42-a0d2-3b6185bcb242",
+  "object": "beer",
+  "name": "Savory Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

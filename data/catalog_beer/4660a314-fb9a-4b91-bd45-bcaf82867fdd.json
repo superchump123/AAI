@@ -1,0 +1,11 @@
+{
+  "id": "4660a314-fb9a-4b91-bd45-bcaf82867fdd",
+  "object": "beer",
+  "name": "Fogust Wheat Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

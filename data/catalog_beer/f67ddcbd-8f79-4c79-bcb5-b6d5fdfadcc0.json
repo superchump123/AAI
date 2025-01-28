@@ -1,0 +1,11 @@
+{
+  "id": "f67ddcbd-8f79-4c79-bcb5-b6d5fdfadcc0",
+  "object": "beer",
+  "name": "amberguity",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

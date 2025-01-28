@@ -1,0 +1,11 @@
+{
+  "id": "e99b617c-d713-4d1b-ac74-e55cf137919c",
+  "object": "beer",
+  "name": "Pale Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

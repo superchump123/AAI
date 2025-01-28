@@ -1,0 +1,11 @@
+{
+  "id": "23309c02-5156-41dc-bc1f-7a07ddb53f54",
+  "object": "beer",
+  "name": "CAMO",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

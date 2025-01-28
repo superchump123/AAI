@@ -1,0 +1,11 @@
+{
+  "id": "0181a4ae-57ff-44ef-9c00-6193f5a42133",
+  "object": "beer",
+  "name": "Pink Elephant",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

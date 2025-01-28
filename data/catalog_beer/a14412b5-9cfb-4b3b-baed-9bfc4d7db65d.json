@@ -1,0 +1,11 @@
+{
+  "id": "a14412b5-9cfb-4b3b-baed-9bfc4d7db65d",
+  "object": "beer",
+  "name": "Silverback",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

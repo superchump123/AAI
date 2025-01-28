@@ -1,0 +1,11 @@
+{
+  "id": "9d5b0ec5-6def-444c-b668-ac1691d9ff61",
+  "object": "beer",
+  "name": "Light Rail Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

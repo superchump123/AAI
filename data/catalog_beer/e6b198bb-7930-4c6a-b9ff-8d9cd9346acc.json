@@ -1,0 +1,11 @@
+{
+  "id": "e6b198bb-7930-4c6a-b9ff-8d9cd9346acc",
+  "object": "beer",
+  "name": "Mt. Zion IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

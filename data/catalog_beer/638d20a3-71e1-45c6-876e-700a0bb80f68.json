@@ -1,0 +1,11 @@
+{
+  "id": "638d20a3-71e1-45c6-876e-700a0bb80f68",
+  "object": "beer",
+  "name": "Abacaxi",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

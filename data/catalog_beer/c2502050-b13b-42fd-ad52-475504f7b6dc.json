@@ -1,0 +1,11 @@
+{
+  "id": "c2502050-b13b-42fd-ad52-475504f7b6dc",
+  "object": "beer",
+  "name": "Foxcatcher",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

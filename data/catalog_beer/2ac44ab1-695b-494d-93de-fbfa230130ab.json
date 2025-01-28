@@ -1,0 +1,11 @@
+{
+  "id": "2ac44ab1-695b-494d-93de-fbfa230130ab",
+  "object": "beer",
+  "name": "Deth's Tar",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

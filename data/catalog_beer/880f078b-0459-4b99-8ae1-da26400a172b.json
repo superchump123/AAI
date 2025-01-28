@@ -1,0 +1,11 @@
+{
+  "id": "880f078b-0459-4b99-8ae1-da26400a172b",
+  "object": "beer",
+  "name": "Stumbling Monk",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

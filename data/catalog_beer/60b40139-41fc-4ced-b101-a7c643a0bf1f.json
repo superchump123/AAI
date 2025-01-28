@@ -1,0 +1,11 @@
+{
+  "id": "60b40139-41fc-4ced-b101-a7c643a0bf1f",
+  "object": "beer",
+  "name": "Cave Creek Chili Beer",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

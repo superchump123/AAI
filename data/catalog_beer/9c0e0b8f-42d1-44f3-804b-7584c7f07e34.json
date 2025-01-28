@@ -1,0 +1,11 @@
+{
+  "id": "9c0e0b8f-42d1-44f3-804b-7584c7f07e34",
+  "object": "beer",
+  "name": "Crossover",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

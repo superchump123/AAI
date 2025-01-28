@@ -1,0 +1,11 @@
+{
+  "id": "39bedb8f-f0c0-4633-9a72-f189974ac003",
+  "object": "beer",
+  "name": "Elderberry",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

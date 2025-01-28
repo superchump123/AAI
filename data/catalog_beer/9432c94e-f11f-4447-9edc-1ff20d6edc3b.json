@@ -1,0 +1,11 @@
+{
+  "id": "9432c94e-f11f-4447-9edc-1ff20d6edc3b",
+  "object": "beer",
+  "name": "Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

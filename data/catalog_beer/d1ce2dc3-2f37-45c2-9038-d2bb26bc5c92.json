@@ -1,0 +1,11 @@
+{
+  "id": "d1ce2dc3-2f37-45c2-9038-d2bb26bc5c92",
+  "object": "beer",
+  "name": "Inspiring Monk",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

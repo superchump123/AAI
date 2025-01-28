@@ -1,0 +1,11 @@
+{
+  "id": "ea99ec59-3abc-417a-829e-ef5df6e09940",
+  "object": "beer",
+  "name": "Hornigold",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

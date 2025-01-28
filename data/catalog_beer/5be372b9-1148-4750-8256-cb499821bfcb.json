@@ -1,0 +1,11 @@
+{
+  "id": "5be372b9-1148-4750-8256-cb499821bfcb",
+  "object": "beer",
+  "name": "Willy",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

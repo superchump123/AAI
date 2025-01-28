@@ -1,0 +1,11 @@
+{
+  "id": "9451d4f1-c524-4705-986d-50694220cb6b",
+  "object": "beer",
+  "name": "Cherimoya Project",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

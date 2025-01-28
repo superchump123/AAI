@@ -1,0 +1,11 @@
+{
+  "id": "b33544e6-1009-4b74-ae39-2354f788f143",
+  "object": "beer",
+  "name": "Sleigh Ryed",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

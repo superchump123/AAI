@@ -1,0 +1,11 @@
+{
+  "id": "d1527f72-e8ee-4ef6-bf80-10e3bfe6dd38",
+  "object": "beer",
+  "name": "Jeffrey Hudson Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "327608f6-1d03-47d0-9c7f-4d0f2b7e21cb",
+  "object": "beer",
+  "name": "Hochdorfer Pils-Krone",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

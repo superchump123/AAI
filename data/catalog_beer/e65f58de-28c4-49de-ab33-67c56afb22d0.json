@@ -1,0 +1,11 @@
+{
+  "id": "e65f58de-28c4-49de-ab33-67c56afb22d0",
+  "object": "beer",
+  "name": "Saranac Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

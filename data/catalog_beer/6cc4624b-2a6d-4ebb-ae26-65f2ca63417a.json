@@ -1,0 +1,11 @@
+{
+  "id": "6cc4624b-2a6d-4ebb-ae26-65f2ca63417a",
+  "object": "beer",
+  "name": "Bud Light Straw-Ber-Rita",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

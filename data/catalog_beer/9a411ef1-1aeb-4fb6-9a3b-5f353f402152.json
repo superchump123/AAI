@@ -1,0 +1,11 @@
+{
+  "id": "9a411ef1-1aeb-4fb6-9a3b-5f353f402152",
+  "object": "beer",
+  "name": "The Great Pumpkin Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

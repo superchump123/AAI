@@ -1,0 +1,11 @@
+{
+  "id": "b47d018b-7ac9-4cc7-a73d-8599d8f29751",
+  "object": "beer",
+  "name": "Sasquatch Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

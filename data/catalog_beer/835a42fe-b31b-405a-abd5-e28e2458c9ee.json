@@ -1,0 +1,11 @@
+{
+  "id": "835a42fe-b31b-405a-abd5-e28e2458c9ee",
+  "object": "beer",
+  "name": "Dread Pirate Roberts",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "153136fc-691e-4e02-a29e-82236d3be5da",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

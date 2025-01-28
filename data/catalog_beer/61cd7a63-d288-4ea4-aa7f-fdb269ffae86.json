@@ -1,0 +1,11 @@
+{
+  "id": "61cd7a63-d288-4ea4-aa7f-fdb269ffae86",
+  "object": "beer",
+  "name": "Weizenheimer Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "be4ae61c-fc3c-4ebf-8cb2-878a25dbdfca",
+  "object": "beer",
+  "name": "Four Pillars",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

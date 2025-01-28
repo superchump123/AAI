@@ -1,0 +1,11 @@
+{
+  "id": "1eaaed17-5f48-466f-9701-550918b79917",
+  "object": "beer",
+  "name": "Route 4",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

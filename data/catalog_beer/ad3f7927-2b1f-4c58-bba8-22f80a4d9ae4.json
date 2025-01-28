@@ -1,0 +1,11 @@
+{
+  "id": "ad3f7927-2b1f-4c58-bba8-22f80a4d9ae4",
+  "object": "beer",
+  "name": "Triple Haze",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

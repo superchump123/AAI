@@ -1,0 +1,11 @@
+{
+  "id": "30068ee7-a089-433c-92a6-9eaa5e403d2b",
+  "object": "beer",
+  "name": "Hellhound On My Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

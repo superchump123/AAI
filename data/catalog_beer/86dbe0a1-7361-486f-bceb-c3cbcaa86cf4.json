@@ -1,0 +1,11 @@
+{
+  "id": "86dbe0a1-7361-486f-bceb-c3cbcaa86cf4",
+  "object": "beer",
+  "name": "Decadent Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

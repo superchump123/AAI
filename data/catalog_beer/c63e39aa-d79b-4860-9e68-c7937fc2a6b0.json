@@ -1,0 +1,11 @@
+{
+  "id": "c63e39aa-d79b-4860-9e68-c7937fc2a6b0",
+  "object": "beer",
+  "name": "Hop Shovel",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

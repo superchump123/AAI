@@ -1,0 +1,11 @@
+{
+  "id": "a066b3aa-d633-4056-84b1-8940c7ad7150",
+  "object": "beer",
+  "name": "Ginger Hipster",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

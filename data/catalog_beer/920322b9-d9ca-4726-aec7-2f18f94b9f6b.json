@@ -1,0 +1,11 @@
+{
+  "id": "920322b9-d9ca-4726-aec7-2f18f94b9f6b",
+  "object": "beer",
+  "name": "Swarthy Beaver",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

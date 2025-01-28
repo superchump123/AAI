@@ -1,0 +1,11 @@
+{
+  "id": "2101471b-e4bb-40fb-bc41-ae94250051fb",
+  "object": "beer",
+  "name": "Life Of Brian",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

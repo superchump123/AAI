@@ -1,0 +1,11 @@
+{
+  "id": "50cbaec0-a332-49e4-9418-982287ba36c9",
+  "object": "beer",
+  "name": "Smoked Stout",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

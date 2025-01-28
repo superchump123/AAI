@@ -1,0 +1,11 @@
+{
+  "id": "43949333-22bc-47f0-83b9-1d065e4a3dc2",
+  "object": "beer",
+  "name": "Lost Colony Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

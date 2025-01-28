@@ -1,0 +1,11 @@
+{
+  "id": "72e290df-b29e-40e4-b8af-a18b00f73f08",
+  "object": "beer",
+  "name": "Tripel Krullekop",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

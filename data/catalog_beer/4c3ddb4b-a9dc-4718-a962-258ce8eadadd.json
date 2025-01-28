@@ -1,0 +1,11 @@
+{
+  "id": "4c3ddb4b-a9dc-4718-a962-258ce8eadadd",
+  "object": "beer",
+  "name": "Blonde Bear's Berry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

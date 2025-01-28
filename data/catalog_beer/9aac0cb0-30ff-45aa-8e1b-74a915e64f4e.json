@@ -1,0 +1,11 @@
+{
+  "id": "9aac0cb0-30ff-45aa-8e1b-74a915e64f4e",
+  "object": "beer",
+  "name": "Spring Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

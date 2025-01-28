@@ -1,0 +1,11 @@
+{
+  "id": "2a989edc-4644-4c6b-a54d-397d784a3ef5",
+  "object": "beer",
+  "name": "Black Tusk Ale",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

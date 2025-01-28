@@ -1,0 +1,11 @@
+{
+  "id": "c4d49541-97c4-480d-8c42-cd7417d8631e",
+  "object": "beer",
+  "name": "Inferno",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

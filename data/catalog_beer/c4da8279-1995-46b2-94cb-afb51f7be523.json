@@ -1,0 +1,11 @@
+{
+  "id": "c4da8279-1995-46b2-94cb-afb51f7be523",
+  "object": "beer",
+  "name": "Bad Moon Horizon",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

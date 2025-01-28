@@ -1,0 +1,11 @@
+{
+  "id": "a2cdbbf1-7c17-4403-a929-6612a7202322",
+  "object": "beer",
+  "name": "Panama Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

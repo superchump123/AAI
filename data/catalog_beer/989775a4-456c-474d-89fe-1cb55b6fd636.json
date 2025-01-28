@@ -1,0 +1,11 @@
+{
+  "id": "989775a4-456c-474d-89fe-1cb55b6fd636",
+  "object": "beer",
+  "name": "Demon Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

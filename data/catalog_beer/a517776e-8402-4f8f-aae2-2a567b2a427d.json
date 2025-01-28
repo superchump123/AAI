@@ -1,0 +1,11 @@
+{
+  "id": "a517776e-8402-4f8f-aae2-2a567b2a427d",
+  "object": "beer",
+  "name": "Copper Mezzina Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

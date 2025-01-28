@@ -1,0 +1,11 @@
+{
+  "id": "88de24dd-24a8-44d3-a54b-f7b3ceca3e62",
+  "object": "beer",
+  "name": "Wheat King Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "510f8f06-6516-433a-9dcb-b82908629458",
+  "object": "beer",
+  "name": "Noble Piper",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

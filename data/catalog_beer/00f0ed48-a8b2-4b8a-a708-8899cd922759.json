@@ -1,0 +1,11 @@
+{
+  "id": "00f0ed48-a8b2-4b8a-a708-8899cd922759",
+  "object": "beer",
+  "name": "El Perro Diablo con Frambuesas",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d3bda25e-5c79-46e3-9940-12025d21b65e",
+  "object": "beer",
+  "name": "Insanely Bad Elf",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

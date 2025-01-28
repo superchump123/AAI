@@ -1,0 +1,11 @@
+{
+  "id": "a96b3c50-024c-4214-80cf-bb329cddaca7",
+  "object": "beer",
+  "name": "Forager",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

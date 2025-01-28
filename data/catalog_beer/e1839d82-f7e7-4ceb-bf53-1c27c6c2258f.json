@@ -1,0 +1,11 @@
+{
+  "id": "e1839d82-f7e7-4ceb-bf53-1c27c6c2258f",
+  "object": "beer",
+  "name": "Ember",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

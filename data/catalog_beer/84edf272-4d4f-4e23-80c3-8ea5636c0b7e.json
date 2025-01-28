@@ -1,0 +1,11 @@
+{
+  "id": "84edf272-4d4f-4e23-80c3-8ea5636c0b7e",
+  "object": "beer",
+  "name": "Sir Kenneth",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2bfee33b-fce1-4a25-9a58-00a9f5a4e183",
+  "object": "beer",
+  "name": "Crooked Coast Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8414d5f2-6774-481a-a82e-a6bdece571f2",
+  "object": "beer",
+  "name": "Oaktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

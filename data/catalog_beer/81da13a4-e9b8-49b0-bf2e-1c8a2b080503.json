@@ -1,0 +1,11 @@
+{
+  "id": "81da13a4-e9b8-49b0-bf2e-1c8a2b080503",
+  "object": "beer",
+  "name": "Gnarl",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

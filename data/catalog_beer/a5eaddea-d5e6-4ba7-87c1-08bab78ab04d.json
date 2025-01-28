@@ -1,0 +1,11 @@
+{
+  "id": "a5eaddea-d5e6-4ba7-87c1-08bab78ab04d",
+  "object": "beer",
+  "name": "Boon Companion Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

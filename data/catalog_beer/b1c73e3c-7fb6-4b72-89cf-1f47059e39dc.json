@@ -1,0 +1,11 @@
+{
+  "id": "b1c73e3c-7fb6-4b72-89cf-1f47059e39dc",
+  "object": "beer",
+  "name": "Loyal Duke Scotch Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

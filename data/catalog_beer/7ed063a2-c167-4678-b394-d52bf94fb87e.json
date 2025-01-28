@@ -1,0 +1,11 @@
+{
+  "id": "7ed063a2-c167-4678-b394-d52bf94fb87e",
+  "object": "beer",
+  "name": "Chained Dog",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

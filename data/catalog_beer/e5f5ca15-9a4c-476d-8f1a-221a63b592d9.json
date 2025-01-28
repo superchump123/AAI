@@ -1,0 +1,11 @@
+{
+  "id": "e5f5ca15-9a4c-476d-8f1a-221a63b592d9",
+  "object": "beer",
+  "name": "Colossus",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 17.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

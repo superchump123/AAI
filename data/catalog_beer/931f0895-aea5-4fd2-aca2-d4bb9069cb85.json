@@ -1,0 +1,11 @@
+{
+  "id": "931f0895-aea5-4fd2-aca2-d4bb9069cb85",
+  "object": "beer",
+  "name": "Gunnamatta",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

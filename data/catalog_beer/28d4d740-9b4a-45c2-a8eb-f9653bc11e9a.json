@@ -1,0 +1,11 @@
+{
+  "id": "28d4d740-9b4a-45c2-a8eb-f9653bc11e9a",
+  "object": "beer",
+  "name": "Cherry Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

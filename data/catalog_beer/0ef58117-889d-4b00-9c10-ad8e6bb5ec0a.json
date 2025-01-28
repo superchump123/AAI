@@ -1,0 +1,11 @@
+{
+  "id": "0ef58117-889d-4b00-9c10-ad8e6bb5ec0a",
+  "object": "beer",
+  "name": "Bohemia",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

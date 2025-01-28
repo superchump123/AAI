@@ -1,0 +1,11 @@
+{
+  "id": "a5214ef3-7b56-4d12-a0fa-3ee6066b8734",
+  "object": "beer",
+  "name": "Nuclear Winter",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

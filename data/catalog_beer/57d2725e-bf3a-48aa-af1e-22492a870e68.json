@@ -1,0 +1,11 @@
+{
+  "id": "57d2725e-bf3a-48aa-af1e-22492a870e68",
+  "object": "beer",
+  "name": "Apple Harvest Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

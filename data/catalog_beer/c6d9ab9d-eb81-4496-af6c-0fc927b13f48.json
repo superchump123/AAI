@@ -1,0 +1,11 @@
+{
+  "id": "c6d9ab9d-eb81-4496-af6c-0fc927b13f48",
+  "object": "beer",
+  "name": "Cold Cock",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b4b8217-8df6-4f9c-a2b8-23b02685e774",
+  "object": "beer",
+  "name": "La Parcela",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

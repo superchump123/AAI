@@ -1,0 +1,11 @@
+{
+  "id": "b7f95d3c-bd68-462c-b105-0dd0e51e2279",
+  "object": "beer",
+  "name": "Signature",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

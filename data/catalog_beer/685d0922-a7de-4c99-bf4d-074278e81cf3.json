@@ -1,0 +1,11 @@
+{
+  "id": "685d0922-a7de-4c99-bf4d-074278e81cf3",
+  "object": "beer",
+  "name": "Burdick IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

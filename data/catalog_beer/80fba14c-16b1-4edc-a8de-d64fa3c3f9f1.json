@@ -1,0 +1,11 @@
+{
+  "id": "80fba14c-16b1-4edc-a8de-d64fa3c3f9f1",
+  "object": "beer",
+  "name": "KeTo Reale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

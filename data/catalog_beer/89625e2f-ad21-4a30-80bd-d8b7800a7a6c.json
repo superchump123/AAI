@@ -1,0 +1,11 @@
+{
+  "id": "89625e2f-ad21-4a30-80bd-d8b7800a7a6c",
+  "object": "beer",
+  "name": "Ol'Yelper Red Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

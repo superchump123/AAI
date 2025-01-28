@@ -1,0 +1,11 @@
+{
+  "id": "5fb9f80f-85f7-48aa-87d1-092dd92d96e0",
+  "object": "beer",
+  "name": "Purple Punch",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

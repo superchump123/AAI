@@ -1,0 +1,11 @@
+{
+  "id": "a1a8f61c-994a-4da2-a779-eb7408726304",
+  "object": "beer",
+  "name": "Twilight Summer Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

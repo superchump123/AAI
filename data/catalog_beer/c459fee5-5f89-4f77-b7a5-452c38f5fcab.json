@@ -1,0 +1,11 @@
+{
+  "id": "c459fee5-5f89-4f77-b7a5-452c38f5fcab",
+  "object": "beer",
+  "name": "Witty Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

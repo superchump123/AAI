@@ -1,0 +1,11 @@
+{
+  "id": "5fd93e54-8b02-4ae7-b5b4-518cd2721ab0",
+  "object": "beer",
+  "name": "The Optimist",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "039ec639-220a-4e28-b48e-c3c9800191ca",
+  "object": "beer",
+  "name": "Venom",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

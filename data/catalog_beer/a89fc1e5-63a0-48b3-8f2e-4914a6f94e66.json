@@ -1,0 +1,11 @@
+{
+  "id": "a89fc1e5-63a0-48b3-8f2e-4914a6f94e66",
+  "object": "beer",
+  "name": "Whirlwind Wit",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

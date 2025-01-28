@@ -1,0 +1,11 @@
+{
+  "id": "c8ea964e-a256-4fd2-b7e3-16f7cd398f20",
+  "object": "beer",
+  "name": "Jacob the Canary",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

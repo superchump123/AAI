@@ -1,0 +1,11 @@
+{
+  "id": "bff2abd3-9857-491b-81a1-4db65c2e3555",
+  "object": "beer",
+  "name": "Green Chile Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

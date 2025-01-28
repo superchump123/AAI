@@ -1,0 +1,11 @@
+{
+  "id": "38b97c2f-15a3-43ac-881d-8e386b1fd640",
+  "object": "beer",
+  "name": "Creamy Wet Spot",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

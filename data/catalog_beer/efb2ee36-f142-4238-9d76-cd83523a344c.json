@@ -1,0 +1,11 @@
+{
+  "id": "efb2ee36-f142-4238-9d76-cd83523a344c",
+  "object": "beer",
+  "name": "Blindfold",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

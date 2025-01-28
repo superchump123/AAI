@@ -1,0 +1,11 @@
+{
+  "id": "9e2bbe62-5a50-4d5a-a79e-29155cb0d156",
+  "object": "beer",
+  "name": "Adnams Belgian Style Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

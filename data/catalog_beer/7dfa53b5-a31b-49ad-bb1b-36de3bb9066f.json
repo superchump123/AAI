@@ -1,0 +1,11 @@
+{
+  "id": "7dfa53b5-a31b-49ad-bb1b-36de3bb9066f",
+  "object": "beer",
+  "name": "La Rogue Flamande",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

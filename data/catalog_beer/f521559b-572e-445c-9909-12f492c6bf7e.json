@@ -1,0 +1,11 @@
+{
+  "id": "f521559b-572e-445c-9909-12f492c6bf7e",
+  "object": "beer",
+  "name": "Canopus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

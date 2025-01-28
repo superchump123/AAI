@@ -1,0 +1,11 @@
+{
+  "id": "fc9f72f8-a278-4cf1-99c3-0d09b18f2db7",
+  "object": "beer",
+  "name": "Single Speed Simcoe",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

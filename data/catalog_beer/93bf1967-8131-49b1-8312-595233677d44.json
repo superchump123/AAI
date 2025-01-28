@@ -1,0 +1,11 @@
+{
+  "id": "93bf1967-8131-49b1-8312-595233677d44",
+  "object": "beer",
+  "name": "Chipotle IPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

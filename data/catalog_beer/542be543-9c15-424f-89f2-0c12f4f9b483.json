@@ -1,0 +1,11 @@
+{
+  "id": "542be543-9c15-424f-89f2-0c12f4f9b483",
+  "object": "beer",
+  "name": "Matacabras Blonde",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

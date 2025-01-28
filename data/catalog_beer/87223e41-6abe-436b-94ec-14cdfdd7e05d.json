@@ -1,0 +1,11 @@
+{
+  "id": "87223e41-6abe-436b-94ec-14cdfdd7e05d",
+  "object": "beer",
+  "name": "Maratonic",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "941f2d7f-596e-423a-b671-13931cd307da",
+  "object": "beer",
+  "name": "Alestake and Evergreen",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

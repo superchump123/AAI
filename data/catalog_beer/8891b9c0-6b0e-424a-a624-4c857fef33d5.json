@@ -1,0 +1,11 @@
+{
+  "id": "8891b9c0-6b0e-424a-a624-4c857fef33d5",
+  "object": "beer",
+  "name": "Luminary",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

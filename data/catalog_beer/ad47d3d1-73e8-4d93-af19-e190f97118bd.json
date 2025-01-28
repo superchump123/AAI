@@ -1,0 +1,11 @@
+{
+  "id": "ad47d3d1-73e8-4d93-af19-e190f97118bd",
+  "object": "beer",
+  "name": "Strawberry Fields",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

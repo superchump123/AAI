@@ -1,0 +1,11 @@
+{
+  "id": "299c3998-0ba8-4a71-8138-47add0c7cb8f",
+  "object": "beer",
+  "name": "Professor Maximus",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

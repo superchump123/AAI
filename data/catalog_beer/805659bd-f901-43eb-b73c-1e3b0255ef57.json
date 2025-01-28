@@ -1,0 +1,11 @@
+{
+  "id": "805659bd-f901-43eb-b73c-1e3b0255ef57",
+  "object": "beer",
+  "name": "Helios",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

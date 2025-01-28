@@ -1,0 +1,11 @@
+{
+  "id": "fbecd94c-4791-4fe9-bae5-6dfec89223e8",
+  "object": "beer",
+  "name": "Lesh Is More Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

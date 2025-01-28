@@ -1,0 +1,11 @@
+{
+  "id": "83ff37ea-c9e5-4c69-8051-60eae801b80a",
+  "object": "beer",
+  "name": "Christmas Bonus",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

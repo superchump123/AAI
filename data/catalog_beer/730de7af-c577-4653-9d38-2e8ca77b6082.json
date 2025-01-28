@@ -1,0 +1,11 @@
+{
+  "id": "730de7af-c577-4653-9d38-2e8ca77b6082",
+  "object": "beer",
+  "name": "Imperial Gold Malt Liquor",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

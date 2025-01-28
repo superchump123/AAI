@@ -1,0 +1,11 @@
+{
+  "id": "68f193dc-cd95-4b18-a096-7a8fdd425e0a",
+  "object": "beer",
+  "name": "Rye P.A.",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

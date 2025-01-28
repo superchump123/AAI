@@ -1,0 +1,11 @@
+{
+  "id": "d720d34a-003b-42d1-af30-3480a9b5a86c",
+  "object": "beer",
+  "name": "Life In Technicolor",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

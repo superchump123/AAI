@@ -1,0 +1,11 @@
+{
+  "id": "ef4f8b7a-47c0-4b63-8d95-b4ef6ec93fe7",
+  "object": "beer",
+  "name": "Multigrain Mutt",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4d7a3111-f918-4124-97c3-7283c1360cc0",
+  "object": "beer",
+  "name": "Get Together",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f841a83b-14df-4e32-8aca-9e315afaa25a",
+  "object": "beer",
+  "name": "Sommer Sauer Weizen",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e568023e-3ad6-421a-baeb-1415a4c96d73",
+  "object": "beer",
+  "name": "Hoptical Illusion",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

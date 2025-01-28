@@ -1,0 +1,11 @@
+{
+  "id": "03e8308a-f37b-495e-8cd9-7adc28ab3ede",
+  "object": "beer",
+  "name": "Lion",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

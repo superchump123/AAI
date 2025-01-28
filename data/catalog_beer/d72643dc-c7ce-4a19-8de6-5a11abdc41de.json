@@ -1,0 +1,11 @@
+{
+  "id": "d72643dc-c7ce-4a19-8de6-5a11abdc41de",
+  "object": "beer",
+  "name": "Etrusca",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3fdeb328-213a-4b14-bf06-09428ad7929a",
+  "object": "beer",
+  "name": "Burnt Rock",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "251a7ce0-2de6-46ff-a4f9-28ebef13f150",
+  "object": "beer",
+  "name": "Hoppy Cat",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

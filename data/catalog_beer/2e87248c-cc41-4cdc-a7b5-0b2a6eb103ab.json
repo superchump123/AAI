@@ -1,0 +1,11 @@
+{
+  "id": "2e87248c-cc41-4cdc-a7b5-0b2a6eb103ab",
+  "object": "beer",
+  "name": "Long Table",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

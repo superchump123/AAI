@@ -1,0 +1,11 @@
+{
+  "id": "c7709bd1-d216-49c6-9d08-baa2ef148a14",
+  "object": "beer",
+  "name": "Tamarindo",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

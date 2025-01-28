@@ -1,0 +1,11 @@
+{
+  "id": "a9ecb459-e7df-4d8e-b3bd-d1b01d3add27",
+  "object": "beer",
+  "name": "Union Restored Belgian White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

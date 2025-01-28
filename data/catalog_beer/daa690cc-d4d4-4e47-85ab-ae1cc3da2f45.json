@@ -1,0 +1,11 @@
+{
+  "id": "daa690cc-d4d4-4e47-85ab-ae1cc3da2f45",
+  "object": "beer",
+  "name": "Sunner Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

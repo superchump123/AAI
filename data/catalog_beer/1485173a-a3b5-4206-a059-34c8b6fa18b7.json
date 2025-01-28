@@ -1,0 +1,11 @@
+{
+  "id": "1485173a-a3b5-4206-a059-34c8b6fa18b7",
+  "object": "beer",
+  "name": "Lux",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

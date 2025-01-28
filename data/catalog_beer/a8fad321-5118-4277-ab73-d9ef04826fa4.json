@@ -1,0 +1,11 @@
+{
+  "id": "a8fad321-5118-4277-ab73-d9ef04826fa4",
+  "object": "beer",
+  "name": "Royalty",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 11,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

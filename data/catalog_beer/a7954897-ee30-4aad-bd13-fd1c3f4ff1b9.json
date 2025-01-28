@@ -1,0 +1,11 @@
+{
+  "id": "a7954897-ee30-4aad-bd13-fd1c3f4ff1b9",
+  "object": "beer",
+  "name": "Reef Donkey APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

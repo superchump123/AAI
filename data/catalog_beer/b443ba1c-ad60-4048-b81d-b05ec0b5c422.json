@@ -1,0 +1,11 @@
+{
+  "id": "b443ba1c-ad60-4048-b81d-b05ec0b5c422",
+  "object": "beer",
+  "name": "Frequent Flier",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

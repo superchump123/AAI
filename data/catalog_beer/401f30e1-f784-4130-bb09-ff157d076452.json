@@ -1,0 +1,11 @@
+{
+  "id": "401f30e1-f784-4130-bb09-ff157d076452",
+  "object": "beer",
+  "name": "Fairfax Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

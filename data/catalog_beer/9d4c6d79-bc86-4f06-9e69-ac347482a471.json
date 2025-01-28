@@ -1,0 +1,11 @@
+{
+  "id": "9d4c6d79-bc86-4f06-9e69-ac347482a471",
+  "object": "beer",
+  "name": "Galena Golden",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

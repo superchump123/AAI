@@ -1,0 +1,11 @@
+{
+  "id": "fa032ed6-d8ea-42de-b09b-50a5e58e9e7b",
+  "object": "beer",
+  "name": "Baron's Extra Strong Brew",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 11.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

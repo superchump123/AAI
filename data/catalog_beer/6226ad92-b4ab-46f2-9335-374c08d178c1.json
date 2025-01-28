@@ -1,0 +1,11 @@
+{
+  "id": "6226ad92-b4ab-46f2-9335-374c08d178c1",
+  "object": "beer",
+  "name": "Colchuck Raspberry Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d27d82d6-5e73-4228-8b54-7fdec9eab1e7",
+  "object": "beer",
+  "name": "ALOHA! BERLIN",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

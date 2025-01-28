@@ -1,0 +1,11 @@
+{
+  "id": "28819b75-12a3-467d-80d5-61ff7ea7b454",
+  "object": "beer",
+  "name": "Cakewalk",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d78b7252-da21-4ff8-9af1-2c98d3910737",
+  "object": "beer",
+  "name": "Gotlandstricka",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

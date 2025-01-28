@@ -1,0 +1,11 @@
+{
+  "id": "6a68cf7b-9f50-4bec-9db7-ff3211ef2b4c",
+  "object": "beer",
+  "name": "Sunburst Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

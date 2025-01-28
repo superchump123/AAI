@@ -1,0 +1,11 @@
+{
+  "id": "bbef814c-0e31-4605-b86b-bc1495767f08",
+  "object": "beer",
+  "name": "Cool Breeze",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

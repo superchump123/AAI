@@ -1,0 +1,11 @@
+{
+  "id": "6e493524-61d1-4991-ab24-a28827a8d24a",
+  "object": "beer",
+  "name": "Welde Weizen Dark",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

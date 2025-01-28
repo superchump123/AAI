@@ -1,0 +1,11 @@
+{
+  "id": "f96ed801-3c53-4a74-99ab-9b4f0265f79f",
+  "object": "beer",
+  "name": "Extreme IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 94,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

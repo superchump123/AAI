@@ -1,0 +1,11 @@
+{
+  "id": "b418730f-e1db-4fd3-bba0-646b28695b9f",
+  "object": "beer",
+  "name": "Morning Deadline",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c72ff26-314f-4308-a017-2f0cbf699633",
+  "object": "beer",
+  "name": "Hemp Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

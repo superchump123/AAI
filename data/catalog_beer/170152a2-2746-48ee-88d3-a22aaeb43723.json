@@ -1,0 +1,11 @@
+{
+  "id": "170152a2-2746-48ee-88d3-a22aaeb43723",
+  "object": "beer",
+  "name": "Suncoast Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

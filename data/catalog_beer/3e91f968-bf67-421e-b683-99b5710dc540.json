@@ -1,0 +1,11 @@
+{
+  "id": "3e91f968-bf67-421e-b683-99b5710dc540",
+  "object": "beer",
+  "name": "Shattered Glass Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

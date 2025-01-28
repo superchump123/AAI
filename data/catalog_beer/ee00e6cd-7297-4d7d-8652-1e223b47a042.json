@@ -1,0 +1,11 @@
+{
+  "id": "ee00e6cd-7297-4d7d-8652-1e223b47a042",
+  "object": "beer",
+  "name": "Side Trip",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

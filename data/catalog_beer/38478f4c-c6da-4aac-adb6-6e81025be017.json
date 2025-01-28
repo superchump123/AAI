@@ -1,0 +1,11 @@
+{
+  "id": "38478f4c-c6da-4aac-adb6-6e81025be017",
+  "object": "beer",
+  "name": "Love Buzz",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

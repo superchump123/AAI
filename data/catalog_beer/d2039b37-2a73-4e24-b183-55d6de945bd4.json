@@ -1,0 +1,11 @@
+{
+  "id": "d2039b37-2a73-4e24-b183-55d6de945bd4",
+  "object": "beer",
+  "name": "Songbird Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

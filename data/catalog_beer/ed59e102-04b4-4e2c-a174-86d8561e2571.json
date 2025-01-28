@@ -1,0 +1,11 @@
+{
+  "id": "ed59e102-04b4-4e2c-a174-86d8561e2571",
+  "object": "beer",
+  "name": "Rainbows & Unicorns",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

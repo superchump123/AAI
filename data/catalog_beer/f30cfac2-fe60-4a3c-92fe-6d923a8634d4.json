@@ -1,0 +1,11 @@
+{
+  "id": "f30cfac2-fe60-4a3c-92fe-6d923a8634d4",
+  "object": "beer",
+  "name": "Barrel Aged Barley Legal",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 11.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

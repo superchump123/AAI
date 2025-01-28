@@ -1,0 +1,11 @@
+{
+  "id": "b5db7c41-6778-46c6-b9ab-1d6205029c85",
+  "object": "beer",
+  "name": "Loco Libre",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

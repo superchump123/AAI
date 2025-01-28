@@ -1,0 +1,11 @@
+{
+  "id": "b16d8575-dcaa-41bf-b372-d098f45cf302",
+  "object": "beer",
+  "name": "Candi Crushable",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

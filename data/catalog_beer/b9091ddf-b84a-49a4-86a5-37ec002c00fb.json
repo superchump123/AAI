@@ -1,0 +1,11 @@
+{
+  "id": "b9091ddf-b84a-49a4-86a5-37ec002c00fb",
+  "object": "beer",
+  "name": "Eichbaum Leichter Typ",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 2.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

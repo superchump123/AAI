@@ -1,0 +1,11 @@
+{
+  "id": "038a6793-1f9d-4308-aeba-8ab189d8c591",
+  "object": "beer",
+  "name": "Liquid Sunshine",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

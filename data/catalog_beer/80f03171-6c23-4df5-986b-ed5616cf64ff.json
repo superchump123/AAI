@@ -1,0 +1,11 @@
+{
+  "id": "80f03171-6c23-4df5-986b-ed5616cf64ff",
+  "object": "beer",
+  "name": "Artificial Intelligence",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

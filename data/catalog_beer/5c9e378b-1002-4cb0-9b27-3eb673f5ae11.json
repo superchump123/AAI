@@ -1,0 +1,11 @@
+{
+  "id": "5c9e378b-1002-4cb0-9b27-3eb673f5ae11",
+  "object": "beer",
+  "name": "Green Machine",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

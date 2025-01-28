@@ -1,0 +1,11 @@
+{
+  "id": "0af3f046-9023-405a-afc0-2897a1752e45",
+  "object": "beer",
+  "name": "Black Dolphin",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

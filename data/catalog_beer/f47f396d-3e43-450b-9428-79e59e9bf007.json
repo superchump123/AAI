@@ -1,0 +1,11 @@
+{
+  "id": "f47f396d-3e43-450b-9428-79e59e9bf007",
+  "object": "beer",
+  "name": "Cabaletta",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

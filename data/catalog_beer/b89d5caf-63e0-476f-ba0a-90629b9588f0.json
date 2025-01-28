@@ -1,0 +1,11 @@
+{
+  "id": "b89d5caf-63e0-476f-ba0a-90629b9588f0",
+  "object": "beer",
+  "name": "Ryan and the Gosling",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

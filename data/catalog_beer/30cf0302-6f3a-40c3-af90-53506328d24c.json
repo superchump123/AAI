@@ -1,0 +1,11 @@
+{
+  "id": "30cf0302-6f3a-40c3-af90-53506328d24c",
+  "object": "beer",
+  "name": "RIO * BRAVO * AMBER",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

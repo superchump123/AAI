@@ -1,0 +1,11 @@
+{
+  "id": "a422e240-c277-4477-9d92-4d50f0a65a91",
+  "object": "beer",
+  "name": "Starway Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

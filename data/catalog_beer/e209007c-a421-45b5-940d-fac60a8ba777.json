@@ -1,0 +1,11 @@
+{
+  "id": "e209007c-a421-45b5-940d-fac60a8ba777",
+  "object": "beer",
+  "name": "St. Paul Double",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

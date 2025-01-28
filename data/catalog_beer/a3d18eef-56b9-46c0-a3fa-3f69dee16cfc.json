@@ -1,0 +1,11 @@
+{
+  "id": "a3d18eef-56b9-46c0-a3fa-3f69dee16cfc",
+  "object": "beer",
+  "name": "Hoegaarden",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

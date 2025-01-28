@@ -1,0 +1,11 @@
+{
+  "id": "5a367a57-012e-49b4-9cd5-596eb5a1f789",
+  "object": "beer",
+  "name": "Grace Kelly",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

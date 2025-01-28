@@ -1,0 +1,11 @@
+{
+  "id": "36c41ba5-5f93-4d14-86bd-3d112dbab37a",
+  "object": "beer",
+  "name": "Tryst Raj India Pale Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

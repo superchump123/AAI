@@ -1,0 +1,11 @@
+{
+  "id": "6ef50506-d5c6-4cbf-9ec2-56ecdde5a067",
+  "object": "beer",
+  "name": "Braggot",
+  "style": "Braggot",
+  "description": null,
+  "abv": 12.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

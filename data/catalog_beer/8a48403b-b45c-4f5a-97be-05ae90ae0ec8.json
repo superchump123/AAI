@@ -1,0 +1,11 @@
+{
+  "id": "8a48403b-b45c-4f5a-97be-05ae90ae0ec8",
+  "object": "beer",
+  "name": "Blackout Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

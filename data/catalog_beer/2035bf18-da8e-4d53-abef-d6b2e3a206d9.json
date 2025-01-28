@@ -1,0 +1,11 @@
+{
+  "id": "2035bf18-da8e-4d53-abef-d6b2e3a206d9",
+  "object": "beer",
+  "name": "Ninja Star Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

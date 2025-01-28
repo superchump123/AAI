@@ -1,0 +1,11 @@
+{
+  "id": "6cd3f0ac-21f0-4317-a1c0-4d719a3c8866",
+  "object": "beer",
+  "name": "Cherry K\u00f6lsch",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

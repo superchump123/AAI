@@ -1,0 +1,11 @@
+{
+  "id": "e56ed0b8-72d5-476f-851a-920b866a9093",
+  "object": "beer",
+  "name": "Leviathan Quad",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fdc84da1-7059-4b15-b40a-28942a6bba18",
+  "object": "beer",
+  "name": "Hopper House",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

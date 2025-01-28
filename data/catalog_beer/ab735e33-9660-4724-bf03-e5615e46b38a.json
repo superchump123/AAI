@@ -1,0 +1,11 @@
+{
+  "id": "ab735e33-9660-4724-bf03-e5615e46b38a",
+  "object": "beer",
+  "name": "Cereal Killer",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

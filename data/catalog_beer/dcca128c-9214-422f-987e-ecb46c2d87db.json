@@ -1,0 +1,11 @@
+{
+  "id": "dcca128c-9214-422f-987e-ecb46c2d87db",
+  "object": "beer",
+  "name": "Empty Rowboat IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

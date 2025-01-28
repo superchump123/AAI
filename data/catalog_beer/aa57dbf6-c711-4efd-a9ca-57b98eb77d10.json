@@ -1,0 +1,11 @@
+{
+  "id": "aa57dbf6-c711-4efd-a9ca-57b98eb77d10",
+  "object": "beer",
+  "name": "Maneblusser",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

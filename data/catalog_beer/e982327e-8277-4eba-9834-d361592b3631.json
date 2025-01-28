@@ -1,0 +1,11 @@
+{
+  "id": "e982327e-8277-4eba-9834-d361592b3631",
+  "object": "beer",
+  "name": "Bourbon Barrel Grand Cru",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

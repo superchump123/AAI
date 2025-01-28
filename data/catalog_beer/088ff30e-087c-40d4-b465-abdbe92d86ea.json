@@ -1,0 +1,11 @@
+{
+  "id": "088ff30e-087c-40d4-b465-abdbe92d86ea",
+  "object": "beer",
+  "name": "Ryenot Chocolate & Coffee",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b9778028-5032-4b6e-a5b2-8cd7fab47364",
+  "object": "beer",
+  "name": "Creede Blondie",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

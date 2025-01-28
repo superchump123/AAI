@@ -1,0 +1,11 @@
+{
+  "id": "3a76d1d2-d1ab-43ee-9fae-f70f6e224652",
+  "object": "beer",
+  "name": "Amarillo By Morning",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

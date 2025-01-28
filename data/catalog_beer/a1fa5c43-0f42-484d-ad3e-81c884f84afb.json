@@ -1,0 +1,11 @@
+{
+  "id": "a1fa5c43-0f42-484d-ad3e-81c884f84afb",
+  "object": "beer",
+  "name": "Hell",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

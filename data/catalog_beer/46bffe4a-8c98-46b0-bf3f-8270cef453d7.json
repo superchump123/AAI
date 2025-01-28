@@ -1,0 +1,11 @@
+{
+  "id": "46bffe4a-8c98-46b0-bf3f-8270cef453d7",
+  "object": "beer",
+  "name": "French Revelation",
+  "style": "French Cider",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

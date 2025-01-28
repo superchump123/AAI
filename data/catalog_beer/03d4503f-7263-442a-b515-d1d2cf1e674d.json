@@ -1,0 +1,11 @@
+{
+  "id": "03d4503f-7263-442a-b515-d1d2cf1e674d",
+  "object": "beer",
+  "name": "I'm Not Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b41a68b3-b81e-4f52-ba88-fc19435d585a",
+  "object": "beer",
+  "name": "Early's Hoppy Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

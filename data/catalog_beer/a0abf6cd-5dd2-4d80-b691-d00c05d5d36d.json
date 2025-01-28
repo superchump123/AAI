@@ -1,0 +1,11 @@
+{
+  "id": "a0abf6cd-5dd2-4d80-b691-d00c05d5d36d",
+  "object": "beer",
+  "name": "Earth Daisy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 89,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

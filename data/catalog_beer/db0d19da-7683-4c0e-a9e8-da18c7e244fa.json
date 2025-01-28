@@ -1,0 +1,11 @@
+{
+  "id": "db0d19da-7683-4c0e-a9e8-da18c7e244fa",
+  "object": "beer",
+  "name": "De Dolle Boskeun",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

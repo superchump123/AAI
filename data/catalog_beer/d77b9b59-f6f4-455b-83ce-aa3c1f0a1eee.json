@@ -1,0 +1,11 @@
+{
+  "id": "d77b9b59-f6f4-455b-83ce-aa3c1f0a1eee",
+  "object": "beer",
+  "name": "Threeway",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

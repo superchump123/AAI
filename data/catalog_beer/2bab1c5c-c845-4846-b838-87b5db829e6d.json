@@ -1,0 +1,11 @@
+{
+  "id": "2bab1c5c-c845-4846-b838-87b5db829e6d",
+  "object": "beer",
+  "name": "Drift Line",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ed46d39d-3e3e-4cce-aa2d-c7bcc140884b",
+  "object": "beer",
+  "name": "Barrel Aged Yellow Belly",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

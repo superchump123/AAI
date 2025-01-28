@@ -1,0 +1,11 @@
+{
+  "id": "cb223aa5-b9eb-47cf-b139-3e0a91e63ffd",
+  "object": "beer",
+  "name": "Stinger Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

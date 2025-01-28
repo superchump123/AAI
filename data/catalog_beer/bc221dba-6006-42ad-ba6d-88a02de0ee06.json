@@ -1,0 +1,11 @@
+{
+  "id": "bc221dba-6006-42ad-ba6d-88a02de0ee06",
+  "object": "beer",
+  "name": "1802 Armadia 21 decennium",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "375d618e-88a1-4f2d-9df0-636cd0ee0a1f",
+  "object": "beer",
+  "name": "Vermillion",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

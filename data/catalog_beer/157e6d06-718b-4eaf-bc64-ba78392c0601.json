@@ -1,0 +1,11 @@
+{
+  "id": "157e6d06-718b-4eaf-bc64-ba78392c0601",
+  "object": "beer",
+  "name": "Madonna",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c344d431-e1dd-42cf-a043-1d08922669de",
+  "object": "beer",
+  "name": "SB 150 Wild Ale",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

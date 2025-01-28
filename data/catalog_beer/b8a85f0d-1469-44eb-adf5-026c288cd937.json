@@ -1,0 +1,11 @@
+{
+  "id": "b8a85f0d-1469-44eb-adf5-026c288cd937",
+  "object": "beer",
+  "name": "Sibling Rivalry",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

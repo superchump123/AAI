@@ -1,0 +1,11 @@
+{
+  "id": "293b7f37-9fb2-4dcf-b57a-857230c88e9d",
+  "object": "beer",
+  "name": "Daredevil's Got Game",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

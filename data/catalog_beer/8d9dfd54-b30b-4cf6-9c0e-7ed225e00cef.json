@@ -1,0 +1,11 @@
+{
+  "id": "8d9dfd54-b30b-4cf6-9c0e-7ed225e00cef",
+  "object": "beer",
+  "name": "Black Walnut Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d8e43bd-dbc8-434c-914a-cdbfefd43213",
+  "object": "beer",
+  "name": "Gramps",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

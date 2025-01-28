@@ -1,0 +1,11 @@
+{
+  "id": "634d42ce-5065-4a5a-b0ec-6d4d563dd1ea",
+  "object": "beer",
+  "name": "Mosaic Mo' Betta",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

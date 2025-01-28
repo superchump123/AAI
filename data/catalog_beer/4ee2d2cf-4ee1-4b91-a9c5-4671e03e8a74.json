@@ -1,0 +1,11 @@
+{
+  "id": "4ee2d2cf-4ee1-4b91-a9c5-4671e03e8a74",
+  "object": "beer",
+  "name": "Pomegranate Pale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

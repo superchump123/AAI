@@ -1,0 +1,11 @@
+{
+  "id": "25066719-a273-44b5-9141-dab311839835",
+  "object": "beer",
+  "name": "The Boogaloo",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

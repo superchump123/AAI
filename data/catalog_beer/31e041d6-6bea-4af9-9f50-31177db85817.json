@@ -1,0 +1,11 @@
+{
+  "id": "31e041d6-6bea-4af9-9f50-31177db85817",
+  "object": "beer",
+  "name": "Kukmin IPA (\uad6d\ubbfcIPA)",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

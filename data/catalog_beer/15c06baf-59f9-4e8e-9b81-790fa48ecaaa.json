@@ -1,0 +1,11 @@
+{
+  "id": "15c06baf-59f9-4e8e-9b81-790fa48ecaaa",
+  "object": "beer",
+  "name": "Wunderkind",
+  "style": "New England Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

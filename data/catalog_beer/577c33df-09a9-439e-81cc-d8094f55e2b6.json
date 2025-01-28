@@ -1,0 +1,11 @@
+{
+  "id": "577c33df-09a9-439e-81cc-d8094f55e2b6",
+  "object": "beer",
+  "name": "British Pale Ale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "314ce3a6-4662-4b2b-b7c0-00204f682dee",
+  "object": "beer",
+  "name": "Big Wheel",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "289f640e-27e2-4482-832b-cfaf23d80d98",
+  "object": "beer",
+  "name": "Pore Toi",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

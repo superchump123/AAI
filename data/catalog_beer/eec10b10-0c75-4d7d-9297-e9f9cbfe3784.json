@@ -1,0 +1,11 @@
+{
+  "id": "eec10b10-0c75-4d7d-9297-e9f9cbfe3784",
+  "object": "beer",
+  "name": "Tumbling Waters American Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

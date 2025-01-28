@@ -1,0 +1,11 @@
+{
+  "id": "33dda72b-39de-4b39-bb20-60b9e3fbe67b",
+  "object": "beer",
+  "name": "Level Eater",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c06a4dfb-183f-4d6e-8b73-ebd5b486efc5",
+  "object": "beer",
+  "name": "No Regrets",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

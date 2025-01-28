@@ -1,0 +1,11 @@
+{
+  "id": "4dae13ac-ab35-4fb2-a9a8-acd2cc8c96b2",
+  "object": "beer",
+  "name": "Duchessic",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bb862e5e-4d86-4d0b-9350-d8ecc4456ee0",
+  "object": "beer",
+  "name": "Armory XPA Nitro",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e55b326d-9a2f-423c-a63c-2c2a96d06c6b",
+  "object": "beer",
+  "name": "Prior Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

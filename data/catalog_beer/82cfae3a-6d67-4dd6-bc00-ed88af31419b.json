@@ -1,0 +1,11 @@
+{
+  "id": "82cfae3a-6d67-4dd6-bc00-ed88af31419b",
+  "object": "beer",
+  "name": "Radiance",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

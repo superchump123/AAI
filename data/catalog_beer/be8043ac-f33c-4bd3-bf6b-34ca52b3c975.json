@@ -1,0 +1,11 @@
+{
+  "id": "be8043ac-f33c-4bd3-bf6b-34ca52b3c975",
+  "object": "beer",
+  "name": "Hookiebobb IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

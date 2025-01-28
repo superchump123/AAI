@@ -1,0 +1,11 @@
+{
+  "id": "89c3be18-27c5-4b5c-ad6e-d81f260d0857",
+  "object": "beer",
+  "name": "Nova Scotia Style Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7c90c6cd-27ee-4d3e-82cb-8eee83e9c70b",
+  "object": "beer",
+  "name": "Cousin Eddie",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7ed15333-75c7-4476-9619-867d6dbd13ce",
+  "object": "beer",
+  "name": "Origins",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

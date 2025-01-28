@@ -1,0 +1,11 @@
+{
+  "id": "065142d8-323f-4724-82d3-97161d64b6f6",
+  "object": "beer",
+  "name": "Ice Nine",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

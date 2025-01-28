@@ -1,0 +1,11 @@
+{
+  "id": "ae772005-7d78-4013-812a-f2d41d1324a2",
+  "object": "beer",
+  "name": "Wild Farmwell Wheat Unfiltered",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

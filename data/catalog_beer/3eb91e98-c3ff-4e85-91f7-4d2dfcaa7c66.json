@@ -1,0 +1,11 @@
+{
+  "id": "3eb91e98-c3ff-4e85-91f7-4d2dfcaa7c66",
+  "object": "beer",
+  "name": "Sundown Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

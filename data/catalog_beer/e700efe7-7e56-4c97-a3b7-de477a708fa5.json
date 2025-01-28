@@ -1,0 +1,11 @@
+{
+  "id": "e700efe7-7e56-4c97-a3b7-de477a708fa5",
+  "object": "beer",
+  "name": "Elkhorn Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

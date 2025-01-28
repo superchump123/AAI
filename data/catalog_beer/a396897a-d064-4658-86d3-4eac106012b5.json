@@ -1,0 +1,11 @@
+{
+  "id": "a396897a-d064-4658-86d3-4eac106012b5",
+  "object": "beer",
+  "name": "Feeling Good",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

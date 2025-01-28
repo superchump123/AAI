@@ -1,0 +1,11 @@
+{
+  "id": "9d9fda25-7bdf-44dc-b12f-b561c0bda943",
+  "object": "beer",
+  "name": "Pickle Party",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

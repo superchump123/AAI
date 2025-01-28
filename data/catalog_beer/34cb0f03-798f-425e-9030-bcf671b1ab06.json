@@ -1,0 +1,11 @@
+{
+  "id": "34cb0f03-798f-425e-9030-bcf671b1ab06",
+  "object": "beer",
+  "name": "Stone Cellar Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

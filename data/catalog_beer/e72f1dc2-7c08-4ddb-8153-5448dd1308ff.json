@@ -1,0 +1,11 @@
+{
+  "id": "e72f1dc2-7c08-4ddb-8153-5448dd1308ff",
+  "object": "beer",
+  "name": "Fohn",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

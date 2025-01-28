@@ -1,0 +1,11 @@
+{
+  "id": "e41fdc88-b5e2-42c1-ba0a-2b4d2ec50e21",
+  "object": "beer",
+  "name": "Chocolate Melt Down Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

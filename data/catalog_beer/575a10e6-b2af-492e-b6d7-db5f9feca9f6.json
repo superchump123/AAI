@@ -1,0 +1,11 @@
+{
+  "id": "575a10e6-b2af-492e-b6d7-db5f9feca9f6",
+  "object": "beer",
+  "name": "Granite Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

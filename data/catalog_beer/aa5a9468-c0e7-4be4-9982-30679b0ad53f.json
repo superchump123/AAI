@@ -1,0 +1,11 @@
+{
+  "id": "aa5a9468-c0e7-4be4-9982-30679b0ad53f",
+  "object": "beer",
+  "name": "Spud Boys IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

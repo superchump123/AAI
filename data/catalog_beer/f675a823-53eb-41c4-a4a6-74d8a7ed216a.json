@@ -1,0 +1,11 @@
+{
+  "id": "f675a823-53eb-41c4-a4a6-74d8a7ed216a",
+  "object": "beer",
+  "name": "Snake Handler",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 103,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

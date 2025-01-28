@@ -1,0 +1,11 @@
+{
+  "id": "ca807da5-731a-47dc-921e-deb2eca0392e",
+  "object": "beer",
+  "name": "Pretzel City Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

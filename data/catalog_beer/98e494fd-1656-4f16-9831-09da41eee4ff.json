@@ -1,0 +1,11 @@
+{
+  "id": "98e494fd-1656-4f16-9831-09da41eee4ff",
+  "object": "beer",
+  "name": "Pub Belgian",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 19,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

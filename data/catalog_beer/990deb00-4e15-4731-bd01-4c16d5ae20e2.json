@@ -1,0 +1,11 @@
+{
+  "id": "990deb00-4e15-4731-bd01-4c16d5ae20e2",
+  "object": "beer",
+  "name": "Tweaked Scot",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

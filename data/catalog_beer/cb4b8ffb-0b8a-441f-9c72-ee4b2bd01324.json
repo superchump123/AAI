@@ -1,0 +1,11 @@
+{
+  "id": "cb4b8ffb-0b8a-441f-9c72-ee4b2bd01324",
+  "object": "beer",
+  "name": "Anthem Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

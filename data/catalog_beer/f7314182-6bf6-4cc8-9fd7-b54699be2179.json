@@ -1,0 +1,11 @@
+{
+  "id": "f7314182-6bf6-4cc8-9fd7-b54699be2179",
+  "object": "beer",
+  "name": "Igneous IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

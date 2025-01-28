@@ -1,0 +1,11 @@
+{
+  "id": "f009fbbc-a192-4ac8-b94c-d6f6c3535ff5",
+  "object": "beer",
+  "name": "Craf American",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

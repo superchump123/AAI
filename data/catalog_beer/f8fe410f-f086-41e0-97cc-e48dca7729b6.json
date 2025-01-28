@@ -1,0 +1,11 @@
+{
+  "id": "f8fe410f-f086-41e0-97cc-e48dca7729b6",
+  "object": "beer",
+  "name": "Potsdamer Rex Pils",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

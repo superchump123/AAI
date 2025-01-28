@@ -1,0 +1,11 @@
+{
+  "id": "8a05be02-b9f9-4a10-b2d7-dfa5ab6719b1",
+  "object": "beer",
+  "name": "V-Saison",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

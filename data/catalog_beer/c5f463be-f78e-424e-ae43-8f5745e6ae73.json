@@ -1,0 +1,11 @@
+{
+  "id": "c5f463be-f78e-424e-ae43-8f5745e6ae73",
+  "object": "beer",
+  "name": "Pink Blazer Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

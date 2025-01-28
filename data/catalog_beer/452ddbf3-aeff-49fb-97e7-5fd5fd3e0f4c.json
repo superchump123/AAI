@@ -1,0 +1,11 @@
+{
+  "id": "452ddbf3-aeff-49fb-97e7-5fd5fd3e0f4c",
+  "object": "beer",
+  "name": "Slushbox Pale IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

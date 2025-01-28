@@ -1,0 +1,11 @@
+{
+  "id": "bc8da4e0-4b5a-44f4-9081-6071405c78a1",
+  "object": "beer",
+  "name": "Fistful of Hops - Orange",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

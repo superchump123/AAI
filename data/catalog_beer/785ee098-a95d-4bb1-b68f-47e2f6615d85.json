@@ -1,0 +1,11 @@
+{
+  "id": "785ee098-a95d-4bb1-b68f-47e2f6615d85",
+  "object": "beer",
+  "name": "Blackfin",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

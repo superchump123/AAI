@@ -1,0 +1,11 @@
+{
+  "id": "931f04d5-6ee7-4d71-8bc6-10345781edd0",
+  "object": "beer",
+  "name": "1865 Amber",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

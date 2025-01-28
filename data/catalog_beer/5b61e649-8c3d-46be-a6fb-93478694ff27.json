@@ -1,0 +1,11 @@
+{
+  "id": "5b61e649-8c3d-46be-a6fb-93478694ff27",
+  "object": "beer",
+  "name": "English Toffee Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

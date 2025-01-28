@@ -1,0 +1,11 @@
+{
+  "id": "5ec85560-d870-437f-8725-6efbbfff7a7b",
+  "object": "beer",
+  "name": "P.Y.T (Pretty Young Thing)",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

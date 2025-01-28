@@ -1,0 +1,11 @@
+{
+  "id": "dba88f7b-7045-4fa7-a695-d7700bf56db0",
+  "object": "beer",
+  "name": "Double Barrel Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

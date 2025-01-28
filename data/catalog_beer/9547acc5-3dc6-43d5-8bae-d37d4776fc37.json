@@ -1,0 +1,11 @@
+{
+  "id": "9547acc5-3dc6-43d5-8bae-d37d4776fc37",
+  "object": "beer",
+  "name": "Red Dead Revelvet",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

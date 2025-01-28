@@ -1,0 +1,11 @@
+{
+  "id": "1095521f-c802-499b-9d64-1e1481c070b9",
+  "object": "beer",
+  "name": "Deadicated Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

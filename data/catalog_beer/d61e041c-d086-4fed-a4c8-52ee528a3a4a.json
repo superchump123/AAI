@@ -1,0 +1,11 @@
+{
+  "id": "d61e041c-d086-4fed-a4c8-52ee528a3a4a",
+  "object": "beer",
+  "name": "Holsten Cooler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

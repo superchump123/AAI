@@ -1,0 +1,11 @@
+{
+  "id": "40be80d4-9828-42fa-b02d-df2cbea2a2ec",
+  "object": "beer",
+  "name": "Winnie the Brew",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

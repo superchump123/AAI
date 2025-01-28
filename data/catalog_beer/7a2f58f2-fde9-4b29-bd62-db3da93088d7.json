@@ -1,0 +1,11 @@
+{
+  "id": "7a2f58f2-fde9-4b29-bd62-db3da93088d7",
+  "object": "beer",
+  "name": "Valkyrie",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

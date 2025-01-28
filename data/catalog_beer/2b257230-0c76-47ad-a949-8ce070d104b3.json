@@ -1,0 +1,11 @@
+{
+  "id": "2b257230-0c76-47ad-a949-8ce070d104b3",
+  "object": "beer",
+  "name": "Tsunami Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

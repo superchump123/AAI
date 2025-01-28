@@ -1,0 +1,11 @@
+{
+  "id": "919a6cf0-61f6-40b3-a76a-c95127edbf0c",
+  "object": "beer",
+  "name": "1st Anniversary",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

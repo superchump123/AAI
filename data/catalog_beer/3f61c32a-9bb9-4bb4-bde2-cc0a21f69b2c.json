@@ -1,0 +1,11 @@
+{
+  "id": "3f61c32a-9bb9-4bb4-bde2-cc0a21f69b2c",
+  "object": "beer",
+  "name": "Dead Ryes Ryes-N-Bock",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

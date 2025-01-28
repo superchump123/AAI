@@ -1,0 +1,11 @@
+{
+  "id": "847d10a8-ecfa-43c7-9d74-e24badb72340",
+  "object": "beer",
+  "name": "1916 Irish Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

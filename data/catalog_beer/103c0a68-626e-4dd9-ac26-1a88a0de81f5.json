@@ -1,0 +1,11 @@
+{
+  "id": "103c0a68-626e-4dd9-ac26-1a88a0de81f5",
+  "object": "beer",
+  "name": "Forman Gluten Free Irish Red",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

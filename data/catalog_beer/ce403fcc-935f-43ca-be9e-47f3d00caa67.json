@@ -1,0 +1,11 @@
+{
+  "id": "ce403fcc-935f-43ca-be9e-47f3d00caa67",
+  "object": "beer",
+  "name": "Shanty Town",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

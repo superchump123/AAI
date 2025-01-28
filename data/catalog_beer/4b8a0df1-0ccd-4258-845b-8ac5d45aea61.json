@@ -1,0 +1,11 @@
+{
+  "id": "4b8a0df1-0ccd-4258-845b-8ac5d45aea61",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

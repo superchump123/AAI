@@ -1,0 +1,11 @@
+{
+  "id": "2dc6d5b3-18ac-4107-bd39-fadfe994e4d7",
+  "object": "beer",
+  "name": "Beer Friends Hoppy Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

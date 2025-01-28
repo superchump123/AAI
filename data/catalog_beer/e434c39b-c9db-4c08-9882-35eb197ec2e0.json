@@ -1,0 +1,11 @@
+{
+  "id": "e434c39b-c9db-4c08-9882-35eb197ec2e0",
+  "object": "beer",
+  "name": "1862 Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

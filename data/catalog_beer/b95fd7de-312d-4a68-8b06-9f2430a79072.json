@@ -1,0 +1,11 @@
+{
+  "id": "b95fd7de-312d-4a68-8b06-9f2430a79072",
+  "object": "beer",
+  "name": "Harvest Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "037b22f5-2664-43f5-80f6-9bc898d885c4",
+  "object": "beer",
+  "name": "Belgian Brown Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

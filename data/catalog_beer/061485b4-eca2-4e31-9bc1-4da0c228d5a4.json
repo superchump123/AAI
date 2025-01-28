@@ -1,0 +1,11 @@
+{
+  "id": "061485b4-eca2-4e31-9bc1-4da0c228d5a4",
+  "object": "beer",
+  "name": "Amy Hophouse",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

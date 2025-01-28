@@ -1,0 +1,11 @@
+{
+  "id": "e473893a-43a9-4f19-aae0-59b712d903c9",
+  "object": "beer",
+  "name": "8 Mile Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

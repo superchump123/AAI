@@ -1,0 +1,11 @@
+{
+  "id": "2ef73b26-975a-4a15-850a-be35dcc68e4a",
+  "object": "beer",
+  "name": "Ginga Ninja",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

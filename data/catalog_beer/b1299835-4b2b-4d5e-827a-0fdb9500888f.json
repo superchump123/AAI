@@ -1,0 +1,11 @@
+{
+  "id": "b1299835-4b2b-4d5e-827a-0fdb9500888f",
+  "object": "beer",
+  "name": "Dr. Zeus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

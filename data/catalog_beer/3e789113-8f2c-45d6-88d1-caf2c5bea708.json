@@ -1,0 +1,11 @@
+{
+  "id": "3e789113-8f2c-45d6-88d1-caf2c5bea708",
+  "object": "beer",
+  "name": "Hop Star",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

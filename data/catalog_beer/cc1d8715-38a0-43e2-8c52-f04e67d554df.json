@@ -1,0 +1,11 @@
+{
+  "id": "cc1d8715-38a0-43e2-8c52-f04e67d554df",
+  "object": "beer",
+  "name": "Brother Nelson Razbeardo",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

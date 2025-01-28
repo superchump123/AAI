@@ -1,0 +1,11 @@
+{
+  "id": "8f882be8-3a41-46d2-a50d-86fd046872b7",
+  "object": "beer",
+  "name": "Red & White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 10,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

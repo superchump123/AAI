@@ -1,0 +1,11 @@
+{
+  "id": "3b31838d-d213-4a16-8c05-182d19643170",
+  "object": "beer",
+  "name": "Flagstaff Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "29cab7f8-7308-44f1-a957-09afbc3701d6",
+  "object": "beer",
+  "name": "Hoppy By Nature",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

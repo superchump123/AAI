@@ -1,0 +1,11 @@
+{
+  "id": "3e7e0c61-1735-4743-b2d4-d9d646df8dc4",
+  "object": "beer",
+  "name": "Monk's Revenge",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

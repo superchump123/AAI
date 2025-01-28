@@ -1,0 +1,11 @@
+{
+  "id": "dfd3fbac-939f-403f-b7f6-d7bb79b480ff",
+  "object": "beer",
+  "name": "Gose Against The Grain",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

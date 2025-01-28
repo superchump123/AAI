@@ -1,0 +1,11 @@
+{
+  "id": "bc87322a-bdb4-4439-96f1-2c1155c1bfba",
+  "object": "beer",
+  "name": "Train Spotting",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

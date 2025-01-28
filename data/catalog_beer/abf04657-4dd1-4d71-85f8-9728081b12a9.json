@@ -1,0 +1,11 @@
+{
+  "id": "abf04657-4dd1-4d71-85f8-9728081b12a9",
+  "object": "beer",
+  "name": "Witchshark",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

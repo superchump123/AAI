@@ -1,0 +1,11 @@
+{
+  "id": "baffbdba-a7d0-44fd-9cba-f244a7985c44",
+  "object": "beer",
+  "name": "Jet City",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d91ad863-ccf4-4271-bb88-123308e7b8d6",
+  "object": "beer",
+  "name": "Cran-Spruce Juice Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

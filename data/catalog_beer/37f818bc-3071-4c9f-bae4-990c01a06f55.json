@@ -1,0 +1,11 @@
+{
+  "id": "37f818bc-3071-4c9f-bae4-990c01a06f55",
+  "object": "beer",
+  "name": "Cabana Boy Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

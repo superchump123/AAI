@@ -1,0 +1,11 @@
+{
+  "id": "5e87173d-daf5-4080-8e9b-c800d3da0afc",
+  "object": "beer",
+  "name": "Intimidation India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2c01cf74-19bc-4183-943e-53b903a94f39",
+  "object": "beer",
+  "name": "Agua De Sapo",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

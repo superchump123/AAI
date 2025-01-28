@@ -1,0 +1,11 @@
+{
+  "id": "b685cee4-f6ed-4efa-b3fa-94ca7d720621",
+  "object": "beer",
+  "name": "Mermaids Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

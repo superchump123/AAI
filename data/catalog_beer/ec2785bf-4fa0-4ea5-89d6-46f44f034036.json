@@ -1,0 +1,11 @@
+{
+  "id": "ec2785bf-4fa0-4ea5-89d6-46f44f034036",
+  "object": "beer",
+  "name": "Great Scot!",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

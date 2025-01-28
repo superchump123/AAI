@@ -1,0 +1,11 @@
+{
+  "id": "456d662f-b339-42f3-be12-a1d4c92f1d4a",
+  "object": "beer",
+  "name": "Pope of Dope",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

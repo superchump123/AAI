@@ -1,0 +1,11 @@
+{
+  "id": "bf77ddd3-5890-480a-a118-7358b24b0a40",
+  "object": "beer",
+  "name": "Jumping Cow",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

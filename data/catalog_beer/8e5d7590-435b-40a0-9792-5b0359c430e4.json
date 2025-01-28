@@ -1,0 +1,11 @@
+{
+  "id": "8e5d7590-435b-40a0-9792-5b0359c430e4",
+  "object": "beer",
+  "name": "Forsaken",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

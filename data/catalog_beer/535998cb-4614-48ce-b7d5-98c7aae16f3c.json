@@ -1,0 +1,11 @@
+{
+  "id": "535998cb-4614-48ce-b7d5-98c7aae16f3c",
+  "object": "beer",
+  "name": "Marzen Oktoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

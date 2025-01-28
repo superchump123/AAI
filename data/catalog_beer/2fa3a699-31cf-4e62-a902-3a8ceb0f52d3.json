@@ -1,0 +1,11 @@
+{
+  "id": "2fa3a699-31cf-4e62-a902-3a8ceb0f52d3",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

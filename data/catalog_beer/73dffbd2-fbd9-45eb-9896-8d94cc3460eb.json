@@ -1,0 +1,11 @@
+{
+  "id": "73dffbd2-fbd9-45eb-9896-8d94cc3460eb",
+  "object": "beer",
+  "name": "Enigmatic",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

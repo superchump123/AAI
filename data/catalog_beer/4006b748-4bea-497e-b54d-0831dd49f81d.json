@@ -1,0 +1,11 @@
+{
+  "id": "4006b748-4bea-497e-b54d-0831dd49f81d",
+  "object": "beer",
+  "name": "Albquell Weizenbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

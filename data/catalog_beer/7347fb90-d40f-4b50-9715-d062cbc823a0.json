@@ -1,0 +1,11 @@
+{
+  "id": "7347fb90-d40f-4b50-9715-d062cbc823a0",
+  "object": "beer",
+  "name": "Backjump IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "793e079b-9f55-48b6-9b5f-2cd785c1e0b1",
+  "object": "beer",
+  "name": "Backmasking",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cda99b04-0f27-4c2c-a269-ab89e4d846e0",
+  "object": "beer",
+  "name": "Strawberry Fields",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

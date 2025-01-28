@@ -1,0 +1,11 @@
+{
+  "id": "e3b274ea-3a7c-4402-89b9-39f99518184c",
+  "object": "beer",
+  "name": "The Kragle",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

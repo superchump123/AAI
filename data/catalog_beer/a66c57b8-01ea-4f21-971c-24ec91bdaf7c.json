@@ -1,0 +1,11 @@
+{
+  "id": "a66c57b8-01ea-4f21-971c-24ec91bdaf7c",
+  "object": "beer",
+  "name": "Farmer John's",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "56877890-7e67-4d22-af84-c0b567461900",
+  "object": "beer",
+  "name": "Irish Shamrock Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

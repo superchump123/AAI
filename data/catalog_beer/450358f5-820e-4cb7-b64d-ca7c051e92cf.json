@@ -1,0 +1,11 @@
+{
+  "id": "450358f5-820e-4cb7-b64d-ca7c051e92cf",
+  "object": "beer",
+  "name": "Later Dude",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

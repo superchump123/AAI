@@ -1,0 +1,11 @@
+{
+  "id": "354da28c-7b7d-4a67-9de2-ecd23a712cfd",
+  "object": "beer",
+  "name": "Amber You Harlet!",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

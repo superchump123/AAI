@@ -1,0 +1,11 @@
+{
+  "id": "5070bab3-d425-462f-8d47-12cbfb20cdfd",
+  "object": "beer",
+  "name": "Rezano",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

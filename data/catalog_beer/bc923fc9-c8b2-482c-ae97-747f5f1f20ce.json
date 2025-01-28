@@ -1,0 +1,11 @@
+{
+  "id": "bc923fc9-c8b2-482c-ae97-747f5f1f20ce",
+  "object": "beer",
+  "name": "75th Anniversary Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

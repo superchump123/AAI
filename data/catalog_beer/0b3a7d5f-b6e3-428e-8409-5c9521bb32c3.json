@@ -1,0 +1,11 @@
+{
+  "id": "0b3a7d5f-b6e3-428e-8409-5c9521bb32c3",
+  "object": "beer",
+  "name": "Ten Years Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

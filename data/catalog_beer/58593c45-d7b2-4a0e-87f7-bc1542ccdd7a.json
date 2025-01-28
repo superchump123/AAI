@@ -1,0 +1,11 @@
+{
+  "id": "58593c45-d7b2-4a0e-87f7-bc1542ccdd7a",
+  "object": "beer",
+  "name": "Night Shift",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

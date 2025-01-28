@@ -1,0 +1,11 @@
+{
+  "id": "b7c0868d-a1e9-4046-9ca8-211eb5502c92",
+  "object": "beer",
+  "name": "Jack Tha DRIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

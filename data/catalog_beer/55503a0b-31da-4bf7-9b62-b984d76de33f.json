@@ -1,0 +1,11 @@
+{
+  "id": "55503a0b-31da-4bf7-9b62-b984d76de33f",
+  "object": "beer",
+  "name": "Lumberjack",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

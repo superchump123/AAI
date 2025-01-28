@@ -1,0 +1,11 @@
+{
+  "id": "58dc9438-ae30-4c4c-9e6a-495a674ac024",
+  "object": "beer",
+  "name": "Chocolate Coconut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "12f035c5-3afa-41f1-9c33-ae599fb87e70",
+  "object": "beer",
+  "name": "Back Country Burning",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 14.4,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

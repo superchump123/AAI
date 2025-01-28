@@ -1,0 +1,11 @@
+{
+  "id": "58d0e79b-8b7d-44e2-85f7-297bcce662e7",
+  "object": "beer",
+  "name": "Show Pony Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ea3ae44-ec6c-4c3c-ac63-1ff24d87aa46",
+  "object": "beer",
+  "name": "Pipeline Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

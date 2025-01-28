@@ -1,0 +1,11 @@
+{
+  "id": "2b5d080b-097e-43e2-88f8-6688611104b0",
+  "object": "beer",
+  "name": "Headbanger",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

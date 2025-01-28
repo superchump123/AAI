@@ -1,0 +1,11 @@
+{
+  "id": "ce6f9cae-94d4-4e82-ab1b-11e66f7e3bda",
+  "object": "beer",
+  "name": "Hop Time Gal",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

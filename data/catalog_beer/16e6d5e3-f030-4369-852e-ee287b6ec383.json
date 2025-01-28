@@ -1,0 +1,11 @@
+{
+  "id": "16e6d5e3-f030-4369-852e-ee287b6ec383",
+  "object": "beer",
+  "name": "Rosemary",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

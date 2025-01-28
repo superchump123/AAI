@@ -1,0 +1,11 @@
+{
+  "id": "6159773b-cfa5-4f62-818e-13b2e6d40a7d",
+  "object": "beer",
+  "name": "Ute Bill Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

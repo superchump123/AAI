@@ -1,0 +1,11 @@
+{
+  "id": "8d1f38fc-ad8d-4c21-b992-905263af3ad5",
+  "object": "beer",
+  "name": "Calcasieu Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

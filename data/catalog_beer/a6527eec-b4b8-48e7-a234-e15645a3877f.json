@@ -1,0 +1,11 @@
+{
+  "id": "a6527eec-b4b8-48e7-a234-e15645a3877f",
+  "object": "beer",
+  "name": "California Dream",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

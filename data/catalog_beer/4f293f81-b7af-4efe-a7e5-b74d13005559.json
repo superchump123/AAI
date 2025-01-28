@@ -1,0 +1,11 @@
+{
+  "id": "4f293f81-b7af-4efe-a7e5-b74d13005559",
+  "object": "beer",
+  "name": "Coffee Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

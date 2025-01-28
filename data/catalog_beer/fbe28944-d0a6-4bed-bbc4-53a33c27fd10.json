@@ -1,0 +1,11 @@
+{
+  "id": "fbe28944-d0a6-4bed-bbc4-53a33c27fd10",
+  "object": "beer",
+  "name": "Grosswald Zwickel",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

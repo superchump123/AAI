@@ -1,0 +1,11 @@
+{
+  "id": "2063cd0d-a58f-4ad1-acc1-5fbcf1778829",
+  "object": "beer",
+  "name": "Horse Tale Ale",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

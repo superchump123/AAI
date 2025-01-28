@@ -1,0 +1,11 @@
+{
+  "id": "ec5e8210-9ff7-4c0f-81ee-4fd2f6821f56",
+  "object": "beer",
+  "name": "Red Shed Red IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

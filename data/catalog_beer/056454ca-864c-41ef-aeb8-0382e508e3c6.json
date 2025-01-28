@@ -1,0 +1,11 @@
+{
+  "id": "056454ca-864c-41ef-aeb8-0382e508e3c6",
+  "object": "beer",
+  "name": "Smoke Jumper",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

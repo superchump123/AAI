@@ -1,0 +1,11 @@
+{
+  "id": "84dbf8d1-c9a6-4f7b-a936-5d5d847e447e",
+  "object": "beer",
+  "name": "Dark Ale",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

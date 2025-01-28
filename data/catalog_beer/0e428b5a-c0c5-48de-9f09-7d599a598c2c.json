@@ -1,0 +1,11 @@
+{
+  "id": "0e428b5a-c0c5-48de-9f09-7d599a598c2c",
+  "object": "beer",
+  "name": "Panda Bear CVB Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

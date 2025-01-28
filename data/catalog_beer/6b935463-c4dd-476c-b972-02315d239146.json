@@ -1,0 +1,11 @@
+{
+  "id": "6b935463-c4dd-476c-b972-02315d239146",
+  "object": "beer",
+  "name": "Powerhouse Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

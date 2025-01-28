@@ -1,0 +1,11 @@
+{
+  "id": "2769ed4d-dee1-4331-962a-bfadc3fcf85e",
+  "object": "beer",
+  "name": "The Dissident",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 11.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

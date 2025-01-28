@@ -1,0 +1,11 @@
+{
+  "id": "4b40a00d-9df9-4dff-a455-4bdc40b20290",
+  "object": "beer",
+  "name": "El Gourdo Pumpkin Porter",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "44466c57-cde6-4ebb-86e2-7910e3d23617",
+  "object": "beer",
+  "name": "Dixie Kristal",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

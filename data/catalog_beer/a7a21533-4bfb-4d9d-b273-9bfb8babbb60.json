@@ -1,0 +1,11 @@
+{
+  "id": "a7a21533-4bfb-4d9d-b273-9bfb8babbb60",
+  "object": "beer",
+  "name": "Black Wattle",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

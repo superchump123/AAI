@@ -1,0 +1,11 @@
+{
+  "id": "1228c800-e2b0-448e-aa5e-f0b576cd3083",
+  "object": "beer",
+  "name": "Ghost Fleet",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

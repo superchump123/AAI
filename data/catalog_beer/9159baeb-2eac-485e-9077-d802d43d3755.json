@@ -1,0 +1,11 @@
+{
+  "id": "9159baeb-2eac-485e-9077-d802d43d3755",
+  "object": "beer",
+  "name": "Hopnotic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

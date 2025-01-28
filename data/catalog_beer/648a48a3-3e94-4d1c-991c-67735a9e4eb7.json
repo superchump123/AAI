@@ -1,0 +1,11 @@
+{
+  "id": "648a48a3-3e94-4d1c-991c-67735a9e4eb7",
+  "object": "beer",
+  "name": "Poop Deck Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

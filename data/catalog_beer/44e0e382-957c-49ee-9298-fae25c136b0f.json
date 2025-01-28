@@ -1,0 +1,11 @@
+{
+  "id": "44e0e382-957c-49ee-9298-fae25c136b0f",
+  "object": "beer",
+  "name": "Lumen",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

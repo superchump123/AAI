@@ -1,0 +1,11 @@
+{
+  "id": "10bbc6f9-9f41-4ed6-893e-c1882ada4f72",
+  "object": "beer",
+  "name": "Ragnar Belgian Double",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d0dc2196-f7ad-4e01-a949-20f13c8f4e94",
+  "object": "beer",
+  "name": "Lenzkircher Roggodile",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 1.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

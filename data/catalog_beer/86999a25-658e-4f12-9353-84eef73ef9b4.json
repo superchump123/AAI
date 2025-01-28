@@ -1,0 +1,11 @@
+{
+  "id": "86999a25-658e-4f12-9353-84eef73ef9b4",
+  "object": "beer",
+  "name": "Grind Line Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

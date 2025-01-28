@@ -1,0 +1,11 @@
+{
+  "id": "da41e917-f321-4305-9de6-445f3375b4b6",
+  "object": "beer",
+  "name": "Lost Elf",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

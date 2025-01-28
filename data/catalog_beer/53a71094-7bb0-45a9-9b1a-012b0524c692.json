@@ -1,0 +1,11 @@
+{
+  "id": "53a71094-7bb0-45a9-9b1a-012b0524c692",
+  "object": "beer",
+  "name": "Evil Crawfish",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

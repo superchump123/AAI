@@ -1,0 +1,11 @@
+{
+  "id": "ca01db32-6710-44a8-9945-8770e010c4ee",
+  "object": "beer",
+  "name": "The Dandy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

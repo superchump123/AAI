@@ -1,0 +1,11 @@
+{
+  "id": "9d68d6f0-cec6-4ba3-ab91-a12ea0f8393a",
+  "object": "beer",
+  "name": "Ruthlessly Delicious",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

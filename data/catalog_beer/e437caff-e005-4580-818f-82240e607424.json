@@ -1,0 +1,11 @@
+{
+  "id": "e437caff-e005-4580-818f-82240e607424",
+  "object": "beer",
+  "name": "Castillo Coconut Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

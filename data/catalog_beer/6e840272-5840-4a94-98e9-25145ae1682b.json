@@ -1,0 +1,11 @@
+{
+  "id": "6e840272-5840-4a94-98e9-25145ae1682b",
+  "object": "beer",
+  "name": "Washington's Reserve",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

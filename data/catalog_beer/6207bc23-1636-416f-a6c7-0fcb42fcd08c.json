@@ -1,0 +1,11 @@
+{
+  "id": "6207bc23-1636-416f-a6c7-0fcb42fcd08c",
+  "object": "beer",
+  "name": "Wild Oats Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9e675b0f-a5fd-4b6c-ad14-7564104c166e",
+  "object": "beer",
+  "name": "Streaker",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

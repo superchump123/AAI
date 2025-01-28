@@ -1,0 +1,11 @@
+{
+  "id": "a43d696a-985f-49eb-97b9-4a8a351ea15c",
+  "object": "beer",
+  "name": "Belgoo Luppo",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

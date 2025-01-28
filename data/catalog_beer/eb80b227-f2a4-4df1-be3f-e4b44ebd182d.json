@@ -1,0 +1,11 @@
+{
+  "id": "eb80b227-f2a4-4df1-be3f-e4b44ebd182d",
+  "object": "beer",
+  "name": "Branch Bridge",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

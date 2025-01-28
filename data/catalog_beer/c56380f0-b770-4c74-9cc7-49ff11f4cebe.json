@@ -1,0 +1,11 @@
+{
+  "id": "c56380f0-b770-4c74-9cc7-49ff11f4cebe",
+  "object": "beer",
+  "name": "Rocktoberfest",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

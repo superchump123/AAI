@@ -1,0 +1,11 @@
+{
+  "id": "7699e56e-8c7b-4ad0-b7c1-538b31de1029",
+  "object": "beer",
+  "name": "Session Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c577aa2d-82ee-4f25-bcaa-8fff1cd59173",
+  "object": "beer",
+  "name": "Mr. Green",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

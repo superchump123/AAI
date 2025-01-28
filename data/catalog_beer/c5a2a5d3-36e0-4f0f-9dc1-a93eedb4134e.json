@@ -1,0 +1,11 @@
+{
+  "id": "c5a2a5d3-36e0-4f0f-9dc1-a93eedb4134e",
+  "object": "beer",
+  "name": "PU 240",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

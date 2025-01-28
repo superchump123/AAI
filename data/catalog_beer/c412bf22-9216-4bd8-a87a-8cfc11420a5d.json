@@ -1,0 +1,11 @@
+{
+  "id": "c412bf22-9216-4bd8-a87a-8cfc11420a5d",
+  "object": "beer",
+  "name": "Red Hydrant Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

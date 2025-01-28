@@ -1,0 +1,11 @@
+{
+  "id": "114f7d02-6787-47e2-9ef8-5464c8257d80",
+  "object": "beer",
+  "name": "Dubbel Vision",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

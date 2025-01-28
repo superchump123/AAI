@@ -1,0 +1,11 @@
+{
+  "id": "b378edb2-7d5c-43bd-b4b5-ef82036201d5",
+  "object": "beer",
+  "name": "Odense Classic",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

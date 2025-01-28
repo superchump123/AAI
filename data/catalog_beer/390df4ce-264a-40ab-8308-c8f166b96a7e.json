@@ -1,0 +1,11 @@
+{
+  "id": "390df4ce-264a-40ab-8308-c8f166b96a7e",
+  "object": "beer",
+  "name": "Summer Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

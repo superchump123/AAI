@@ -1,0 +1,11 @@
+{
+  "id": "4e35479e-dec4-4da2-8046-6c5d465eb08c",
+  "object": "beer",
+  "name": "Blood Orange Wheat",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

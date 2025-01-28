@@ -1,0 +1,11 @@
+{
+  "id": "a85337e3-4604-4614-bb1f-edeef2b804f2",
+  "object": "beer",
+  "name": "Bishop's Barrel No. 1",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

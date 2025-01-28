@@ -1,0 +1,11 @@
+{
+  "id": "efa830ef-13a1-4890-b71e-3cf2569223fe",
+  "object": "beer",
+  "name": "MinneGose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

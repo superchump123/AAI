@@ -1,0 +1,11 @@
+{
+  "id": "db391689-91e6-43ae-a7b4-134fb945442d",
+  "object": "beer",
+  "name": "Mr. Extendo",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

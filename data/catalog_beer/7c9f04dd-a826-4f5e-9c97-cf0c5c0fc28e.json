@@ -1,0 +1,11 @@
+{
+  "id": "7c9f04dd-a826-4f5e-9c97-cf0c5c0fc28e",
+  "object": "beer",
+  "name": "Foundation",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

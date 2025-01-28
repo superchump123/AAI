@@ -1,0 +1,11 @@
+{
+  "id": "056e7c21-0605-4357-8036-f3989420e36a",
+  "object": "beer",
+  "name": "Timmy's Edelstoff",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

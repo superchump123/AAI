@@ -1,0 +1,11 @@
+{
+  "id": "dc40971f-d375-4374-b703-d39b405de929",
+  "object": "beer",
+  "name": "Hippodrome",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

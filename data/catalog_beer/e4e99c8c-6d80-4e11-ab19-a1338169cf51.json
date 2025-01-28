@@ -1,0 +1,11 @@
+{
+  "id": "e4e99c8c-6d80-4e11-ab19-a1338169cf51",
+  "object": "beer",
+  "name": "Gravy Maevey's Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

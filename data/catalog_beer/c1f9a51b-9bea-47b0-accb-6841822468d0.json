@@ -1,0 +1,11 @@
+{
+  "id": "c1f9a51b-9bea-47b0-accb-6841822468d0",
+  "object": "beer",
+  "name": "Genius Anyway",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

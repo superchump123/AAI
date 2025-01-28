@@ -1,0 +1,11 @@
+{
+  "id": "e427d606-176b-496b-8564-82c25938f94d",
+  "object": "beer",
+  "name": "Wolf Pup Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

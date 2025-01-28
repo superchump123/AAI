@@ -1,0 +1,11 @@
+{
+  "id": "3e4cc595-3710-4be1-9cdb-2a9662d245ed",
+  "object": "beer",
+  "name": "Fiddler's Dream IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

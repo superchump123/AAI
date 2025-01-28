@@ -1,0 +1,11 @@
+{
+  "id": "64dd3d29-9184-4aa3-a366-bc2f244c2d8b",
+  "object": "beer",
+  "name": "Candy Kaiser",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6e65233-fcff-482c-b73c-ac912cdfb0f9",
+  "object": "beer",
+  "name": "Skyline Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

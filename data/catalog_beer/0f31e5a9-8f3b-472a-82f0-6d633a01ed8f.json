@@ -1,0 +1,11 @@
+{
+  "id": "0f31e5a9-8f3b-472a-82f0-6d633a01ed8f",
+  "object": "beer",
+  "name": "Blowin' Smoke",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

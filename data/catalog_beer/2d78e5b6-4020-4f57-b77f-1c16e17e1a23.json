@@ -1,0 +1,11 @@
+{
+  "id": "2d78e5b6-4020-4f57-b77f-1c16e17e1a23",
+  "object": "beer",
+  "name": "Ramstein Winter Wheat",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

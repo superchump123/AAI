@@ -1,0 +1,11 @@
+{
+  "id": "4a24584a-ed01-4fe8-907f-5b1b2b61120e",
+  "object": "beer",
+  "name": "L'Abbaye de St. Bon-Chien",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

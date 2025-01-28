@@ -1,0 +1,11 @@
+{
+  "id": "f540e332-93f8-4afb-bd71-97ffaf3c9aaa",
+  "object": "beer",
+  "name": "Granola Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f0dfe7f8-9eed-4b40-beb0-0a31278c3e03",
+  "object": "beer",
+  "name": "Coming Home Holiday Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

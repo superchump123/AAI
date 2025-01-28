@@ -1,0 +1,11 @@
+{
+  "id": "28d9c00e-61a2-4870-ab69-65eb5caa3d71",
+  "object": "beer",
+  "name": "Marzen",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

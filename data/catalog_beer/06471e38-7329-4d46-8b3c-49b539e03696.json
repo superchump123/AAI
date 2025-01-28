@@ -1,0 +1,11 @@
+{
+  "id": "06471e38-7329-4d46-8b3c-49b539e03696",
+  "object": "beer",
+  "name": "Paterfamilias",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

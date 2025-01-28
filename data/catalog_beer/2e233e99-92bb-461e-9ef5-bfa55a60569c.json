@@ -1,0 +1,11 @@
+{
+  "id": "2e233e99-92bb-461e-9ef5-bfa55a60569c",
+  "object": "beer",
+  "name": "Big Shot",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

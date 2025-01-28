@@ -1,0 +1,11 @@
+{
+  "id": "250ff074-9d42-4410-8afe-8e376e1aba70",
+  "object": "beer",
+  "name": "Jurassic Joule",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

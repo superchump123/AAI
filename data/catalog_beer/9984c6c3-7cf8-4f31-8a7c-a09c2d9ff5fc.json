@@ -1,0 +1,11 @@
+{
+  "id": "9984c6c3-7cf8-4f31-8a7c-a09c2d9ff5fc",
+  "object": "beer",
+  "name": "Pipeworks Centennial",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

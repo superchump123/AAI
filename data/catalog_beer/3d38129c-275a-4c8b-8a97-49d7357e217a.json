@@ -1,0 +1,11 @@
+{
+  "id": "3d38129c-275a-4c8b-8a97-49d7357e217a",
+  "object": "beer",
+  "name": "Ignition",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

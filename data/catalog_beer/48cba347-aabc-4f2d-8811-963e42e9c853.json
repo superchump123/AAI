@@ -1,0 +1,11 @@
+{
+  "id": "48cba347-aabc-4f2d-8811-963e42e9c853",
+  "object": "beer",
+  "name": "Rhode Island Blueberry Beer",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

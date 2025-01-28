@@ -1,0 +1,11 @@
+{
+  "id": "4691cdac-04e3-4a42-86d7-632a260bcd64",
+  "object": "beer",
+  "name": "Tart Lychee",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bb1f6938-cbb5-4290-8dad-ad17afc26849",
+  "object": "beer",
+  "name": "Lost Highway",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

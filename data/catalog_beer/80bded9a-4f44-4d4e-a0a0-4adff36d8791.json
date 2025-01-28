@@ -1,0 +1,11 @@
+{
+  "id": "80bded9a-4f44-4d4e-a0a0-4adff36d8791",
+  "object": "beer",
+  "name": "Rotator IPA: O'Ryely IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "002a59d8-c455-41d9-b3e1-b602cbc55404",
+  "object": "beer",
+  "name": "Reinheitsgefekjaself",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

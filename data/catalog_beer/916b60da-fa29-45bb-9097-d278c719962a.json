@@ -1,0 +1,11 @@
+{
+  "id": "916b60da-fa29-45bb-9097-d278c719962a",
+  "object": "beer",
+  "name": "Twin Tail IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

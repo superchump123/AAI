@@ -1,0 +1,11 @@
+{
+  "id": "7f113e1d-c4a4-449c-9fc6-43d08c150fb1",
+  "object": "beer",
+  "name": "Farm Fuzz",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

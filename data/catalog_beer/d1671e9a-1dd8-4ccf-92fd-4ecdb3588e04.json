@@ -1,0 +1,11 @@
+{
+  "id": "d1671e9a-1dd8-4ccf-92fd-4ecdb3588e04",
+  "object": "beer",
+  "name": "Broken Mast Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

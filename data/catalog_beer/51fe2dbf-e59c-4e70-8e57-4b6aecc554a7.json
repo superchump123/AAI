@@ -1,0 +1,11 @@
+{
+  "id": "51fe2dbf-e59c-4e70-8e57-4b6aecc554a7",
+  "object": "beer",
+  "name": "Sunnyvale Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "76434ddd-31c4-4090-bca2-33d045a27b27",
+  "object": "beer",
+  "name": "Rue Dauphine",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

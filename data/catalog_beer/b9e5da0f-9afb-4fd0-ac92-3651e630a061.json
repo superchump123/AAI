@@ -1,0 +1,11 @@
+{
+  "id": "b9e5da0f-9afb-4fd0-ac92-3651e630a061",
+  "object": "beer",
+  "name": "Loe's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

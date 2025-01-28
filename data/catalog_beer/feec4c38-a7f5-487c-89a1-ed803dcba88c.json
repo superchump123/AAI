@@ -1,0 +1,11 @@
+{
+  "id": "feec4c38-a7f5-487c-89a1-ed803dcba88c",
+  "object": "beer",
+  "name": "Buckler",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

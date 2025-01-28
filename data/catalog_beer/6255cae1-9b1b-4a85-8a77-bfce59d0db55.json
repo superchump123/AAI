@@ -1,0 +1,11 @@
+{
+  "id": "6255cae1-9b1b-4a85-8a77-bfce59d0db55",
+  "object": "beer",
+  "name": "Old Heathen",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

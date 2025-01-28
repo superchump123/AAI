@@ -1,0 +1,11 @@
+{
+  "id": "5149e07a-349d-4d60-aa28-4b66dce28123",
+  "object": "beer",
+  "name": "Rye Baby",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

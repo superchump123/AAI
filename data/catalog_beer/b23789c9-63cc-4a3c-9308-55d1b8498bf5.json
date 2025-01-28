@@ -1,0 +1,11 @@
+{
+  "id": "b23789c9-63cc-4a3c-9308-55d1b8498bf5",
+  "object": "beer",
+  "name": "Participation Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

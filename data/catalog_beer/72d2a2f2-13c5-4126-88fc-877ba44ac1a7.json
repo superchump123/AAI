@@ -1,0 +1,11 @@
+{
+  "id": "72d2a2f2-13c5-4126-88fc-877ba44ac1a7",
+  "object": "beer",
+  "name": "Roadside Peanut Butter Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

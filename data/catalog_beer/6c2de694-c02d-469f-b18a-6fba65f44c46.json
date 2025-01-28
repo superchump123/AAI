@@ -1,0 +1,11 @@
+{
+  "id": "6c2de694-c02d-469f-b18a-6fba65f44c46",
+  "object": "beer",
+  "name": "Damien",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

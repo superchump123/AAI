@@ -1,0 +1,11 @@
+{
+  "id": "7386eda3-a639-4a4b-b789-46ec818e6c43",
+  "object": "beer",
+  "name": "Cool Brew",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

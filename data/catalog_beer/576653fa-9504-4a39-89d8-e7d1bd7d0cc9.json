@@ -1,0 +1,11 @@
+{
+  "id": "576653fa-9504-4a39-89d8-e7d1bd7d0cc9",
+  "object": "beer",
+  "name": "Warp 8.5",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 104,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

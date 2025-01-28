@@ -1,0 +1,11 @@
+{
+  "id": "6d0a7cd6-d72c-434a-aa1e-6a0579d651d4",
+  "object": "beer",
+  "name": "DHX",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

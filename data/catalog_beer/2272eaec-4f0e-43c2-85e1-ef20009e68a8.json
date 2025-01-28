@@ -1,0 +1,11 @@
+{
+  "id": "2272eaec-4f0e-43c2-85e1-ef20009e68a8",
+  "object": "beer",
+  "name": "Pittuation Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

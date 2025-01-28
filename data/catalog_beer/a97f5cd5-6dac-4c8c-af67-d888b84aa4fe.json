@@ -1,0 +1,11 @@
+{
+  "id": "a97f5cd5-6dac-4c8c-af67-d888b84aa4fe",
+  "object": "beer",
+  "name": "Brewers' Cut No. 24 Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

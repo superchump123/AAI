@@ -1,0 +1,11 @@
+{
+  "id": "900cdda2-0402-43ad-8198-48c7f7b656f1",
+  "object": "beer",
+  "name": "Breakfast Brown",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

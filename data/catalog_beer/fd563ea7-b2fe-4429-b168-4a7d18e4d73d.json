@@ -1,0 +1,11 @@
+{
+  "id": "fd563ea7-b2fe-4429-b168-4a7d18e4d73d",
+  "object": "beer",
+  "name": "Dwarf Invasion",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

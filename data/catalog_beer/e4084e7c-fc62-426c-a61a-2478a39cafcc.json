@@ -1,0 +1,11 @@
+{
+  "id": "e4084e7c-fc62-426c-a61a-2478a39cafcc",
+  "object": "beer",
+  "name": "Compass",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

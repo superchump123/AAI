@@ -1,0 +1,11 @@
+{
+  "id": "7f8d606c-dc53-4934-87ac-ce0335d9cccd",
+  "object": "beer",
+  "name": "Hopdinger",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

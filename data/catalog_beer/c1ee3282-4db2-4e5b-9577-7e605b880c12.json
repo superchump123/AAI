@@ -1,0 +1,11 @@
+{
+  "id": "c1ee3282-4db2-4e5b-9577-7e605b880c12",
+  "object": "beer",
+  "name": "Dortmunder Kronen Export",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

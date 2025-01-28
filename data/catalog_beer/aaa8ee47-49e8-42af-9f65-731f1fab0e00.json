@@ -1,0 +1,11 @@
+{
+  "id": "aaa8ee47-49e8-42af-9f65-731f1fab0e00",
+  "object": "beer",
+  "name": "Bright Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bc916597-88fd-4654-8987-bdbbe5a967da",
+  "object": "beer",
+  "name": "The Old North Road Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

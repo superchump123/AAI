@@ -1,0 +1,11 @@
+{
+  "id": "31dcac33-ed00-43b0-bca2-22031479682c",
+  "object": "beer",
+  "name": "Wolf",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

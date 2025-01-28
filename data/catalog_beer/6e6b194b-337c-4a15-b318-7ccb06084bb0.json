@@ -1,0 +1,11 @@
+{
+  "id": "6e6b194b-337c-4a15-b318-7ccb06084bb0",
+  "object": "beer",
+  "name": "Pughtown Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

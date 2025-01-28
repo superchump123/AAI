@@ -1,0 +1,11 @@
+{
+  "id": "ca9e2c22-fdc6-483f-9df3-893d1e5bb9bd",
+  "object": "beer",
+  "name": "Devastator Double Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

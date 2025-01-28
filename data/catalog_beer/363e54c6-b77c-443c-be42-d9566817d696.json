@@ -1,0 +1,11 @@
+{
+  "id": "363e54c6-b77c-443c-be42-d9566817d696",
+  "object": "beer",
+  "name": "Cryonic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "abc415ee-8a7f-4225-825c-4cd4bb4634bd",
+  "object": "beer",
+  "name": "Drake\u2019s Amber Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

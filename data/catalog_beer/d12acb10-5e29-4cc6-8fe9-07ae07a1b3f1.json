@@ -1,0 +1,11 @@
+{
+  "id": "d12acb10-5e29-4cc6-8fe9-07ae07a1b3f1",
+  "object": "beer",
+  "name": "Piste noire",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

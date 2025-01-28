@@ -1,0 +1,11 @@
+{
+  "id": "41db9f1c-68bc-4b52-be93-bd838b290ae0",
+  "object": "beer",
+  "name": "Pride",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

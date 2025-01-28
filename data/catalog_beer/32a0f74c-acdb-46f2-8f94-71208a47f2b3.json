@@ -1,0 +1,11 @@
+{
+  "id": "32a0f74c-acdb-46f2-8f94-71208a47f2b3",
+  "object": "beer",
+  "name": "Take Down",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

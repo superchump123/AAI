@@ -1,0 +1,11 @@
+{
+  "id": "776daa62-2adb-4c11-b7e9-e5449d27e629",
+  "object": "beer",
+  "name": "Sockeye Red IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

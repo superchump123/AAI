@@ -1,0 +1,11 @@
+{
+  "id": "358bd906-15fe-4ff3-9c0d-692b127c0123",
+  "object": "beer",
+  "name": "+1 Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

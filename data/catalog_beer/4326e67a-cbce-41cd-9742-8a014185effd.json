@@ -1,0 +1,11 @@
+{
+  "id": "4326e67a-cbce-41cd-9742-8a014185effd",
+  "object": "beer",
+  "name": "Rooney\u2019s Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

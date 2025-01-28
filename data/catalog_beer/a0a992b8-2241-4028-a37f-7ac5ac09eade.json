@@ -1,0 +1,11 @@
+{
+  "id": "a0a992b8-2241-4028-a37f-7ac5ac09eade",
+  "object": "beer",
+  "name": "Chickow!",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

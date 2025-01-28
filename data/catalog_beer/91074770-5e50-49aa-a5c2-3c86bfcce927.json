@@ -1,0 +1,11 @@
+{
+  "id": "91074770-5e50-49aa-a5c2-3c86bfcce927",
+  "object": "beer",
+  "name": "Dragon's Gold",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

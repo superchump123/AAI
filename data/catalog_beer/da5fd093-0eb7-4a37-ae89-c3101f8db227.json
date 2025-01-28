@@ -1,0 +1,11 @@
+{
+  "id": "da5fd093-0eb7-4a37-ae89-c3101f8db227",
+  "object": "beer",
+  "name": "Belgian Gold",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

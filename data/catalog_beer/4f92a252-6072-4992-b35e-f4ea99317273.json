@@ -1,0 +1,11 @@
+{
+  "id": "4f92a252-6072-4992-b35e-f4ea99317273",
+  "object": "beer",
+  "name": "The Illinois",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

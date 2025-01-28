@@ -1,0 +1,11 @@
+{
+  "id": "ca85b9ee-a636-4df4-a194-20ff299864cb",
+  "object": "beer",
+  "name": "Pactolian",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

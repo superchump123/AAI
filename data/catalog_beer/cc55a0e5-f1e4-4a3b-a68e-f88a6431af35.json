@@ -1,0 +1,11 @@
+{
+  "id": "cc55a0e5-f1e4-4a3b-a68e-f88a6431af35",
+  "object": "beer",
+  "name": "Moonstone Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

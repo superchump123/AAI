@@ -1,0 +1,11 @@
+{
+  "id": "6b35776f-c78e-4286-9d4f-b83e80949f41",
+  "object": "beer",
+  "name": "Slurm",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

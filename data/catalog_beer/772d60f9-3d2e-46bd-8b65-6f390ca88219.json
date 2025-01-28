@@ -1,0 +1,11 @@
+{
+  "id": "772d60f9-3d2e-46bd-8b65-6f390ca88219",
+  "object": "beer",
+  "name": "Statesman",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

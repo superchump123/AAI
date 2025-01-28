@@ -1,0 +1,11 @@
+{
+  "id": "8c314cf7-e03a-446e-bfee-5a7c2d64d000",
+  "object": "beer",
+  "name": "Deez Nuts",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7837f1a1-4fd6-4524-aa8f-b11da9e1f9ab",
+  "object": "beer",
+  "name": "SPARTA",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

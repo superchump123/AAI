@@ -1,0 +1,11 @@
+{
+  "id": "351e3340-4271-4550-89d7-6c1fc58c22bf",
+  "object": "beer",
+  "name": "Saison V-10",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

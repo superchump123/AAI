@@ -1,0 +1,11 @@
+{
+  "id": "deb0a164-33f4-4bb6-ae92-125a13ac637f",
+  "object": "beer",
+  "name": "Bosprotter",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

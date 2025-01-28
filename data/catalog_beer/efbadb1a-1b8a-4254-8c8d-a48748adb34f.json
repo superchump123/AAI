@@ -1,0 +1,11 @@
+{
+  "id": "efbadb1a-1b8a-4254-8c8d-a48748adb34f",
+  "object": "beer",
+  "name": "Old Flathead Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

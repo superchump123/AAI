@@ -1,0 +1,11 @@
+{
+  "id": "1391ea3d-10c4-4239-8fb4-f740b919cc22",
+  "object": "beer",
+  "name": "Ouro Preto",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

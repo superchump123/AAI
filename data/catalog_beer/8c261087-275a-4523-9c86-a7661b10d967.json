@@ -1,0 +1,11 @@
+{
+  "id": "8c261087-275a-4523-9c86-a7661b10d967",
+  "object": "beer",
+  "name": "No. Nine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

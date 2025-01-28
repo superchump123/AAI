@@ -1,0 +1,11 @@
+{
+  "id": "840aa7f5-3010-459d-a34e-1fe6f8758288",
+  "object": "beer",
+  "name": "Mosaic Unicorn",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

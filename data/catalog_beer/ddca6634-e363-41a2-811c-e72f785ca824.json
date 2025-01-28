@@ -1,0 +1,11 @@
+{
+  "id": "ddca6634-e363-41a2-811c-e72f785ca824",
+  "object": "beer",
+  "name": "My Lawyer",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

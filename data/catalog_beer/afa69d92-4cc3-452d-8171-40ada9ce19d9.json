@@ -1,0 +1,11 @@
+{
+  "id": "afa69d92-4cc3-452d-8171-40ada9ce19d9",
+  "object": "beer",
+  "name": "Go WIT It",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

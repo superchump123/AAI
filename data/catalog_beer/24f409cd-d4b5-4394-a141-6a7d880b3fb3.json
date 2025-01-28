@@ -1,0 +1,11 @@
+{
+  "id": "24f409cd-d4b5-4394-a141-6a7d880b3fb3",
+  "object": "beer",
+  "name": "Winchester ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

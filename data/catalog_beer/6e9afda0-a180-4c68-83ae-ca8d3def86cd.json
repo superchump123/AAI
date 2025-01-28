@@ -1,0 +1,11 @@
+{
+  "id": "6e9afda0-a180-4c68-83ae-ca8d3def86cd",
+  "object": "beer",
+  "name": "Ed's I.P.A.",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

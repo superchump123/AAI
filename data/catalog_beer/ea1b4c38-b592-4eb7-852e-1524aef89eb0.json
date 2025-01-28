@@ -1,0 +1,11 @@
+{
+  "id": "ea1b4c38-b592-4eb7-852e-1524aef89eb0",
+  "object": "beer",
+  "name": "Bourbon Barrel Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

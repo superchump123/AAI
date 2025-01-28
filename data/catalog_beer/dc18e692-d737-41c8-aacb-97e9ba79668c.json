@@ -1,0 +1,11 @@
+{
+  "id": "dc18e692-d737-41c8-aacb-97e9ba79668c",
+  "object": "beer",
+  "name": "Noble",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

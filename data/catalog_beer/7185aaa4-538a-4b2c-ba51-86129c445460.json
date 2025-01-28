@@ -1,0 +1,11 @@
+{
+  "id": "7185aaa4-538a-4b2c-ba51-86129c445460",
+  "object": "beer",
+  "name": "Olde Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

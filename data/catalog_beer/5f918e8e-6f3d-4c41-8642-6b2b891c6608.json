@@ -1,0 +1,11 @@
+{
+  "id": "5f918e8e-6f3d-4c41-8642-6b2b891c6608",
+  "object": "beer",
+  "name": "No. 58 Brownell Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

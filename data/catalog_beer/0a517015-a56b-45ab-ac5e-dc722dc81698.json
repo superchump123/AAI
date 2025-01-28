@@ -1,0 +1,11 @@
+{
+  "id": "0a517015-a56b-45ab-ac5e-dc722dc81698",
+  "object": "beer",
+  "name": "Commissar",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

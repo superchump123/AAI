@@ -1,0 +1,11 @@
+{
+  "id": "016d0bd6-8598-499a-9942-6a02e832b339",
+  "object": "beer",
+  "name": "Hoptimum",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

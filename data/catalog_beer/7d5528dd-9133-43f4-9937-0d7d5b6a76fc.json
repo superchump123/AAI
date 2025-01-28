@@ -1,0 +1,11 @@
+{
+  "id": "7d5528dd-9133-43f4-9937-0d7d5b6a76fc",
+  "object": "beer",
+  "name": "Waldhaus Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7ed74d47-39a3-40e9-8b5a-bc0f9fb864ab",
+  "object": "beer",
+  "name": "M\u00fcnchner Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

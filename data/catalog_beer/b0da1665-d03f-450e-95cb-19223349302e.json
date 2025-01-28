@@ -1,0 +1,11 @@
+{
+  "id": "b0da1665-d03f-450e-95cb-19223349302e",
+  "object": "beer",
+  "name": "Hard Grape Soda",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d9dfed1b-949d-4ef1-8a64-f36acc1eeea2",
+  "object": "beer",
+  "name": "Hey Diddle Diddle",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

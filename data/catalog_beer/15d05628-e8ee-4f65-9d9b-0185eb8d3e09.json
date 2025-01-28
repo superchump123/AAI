@@ -1,0 +1,11 @@
+{
+  "id": "15d05628-e8ee-4f65-9d9b-0185eb8d3e09",
+  "object": "beer",
+  "name": "Extremely Angry Beast",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e175cb6-ae2c-400b-8d90-b477ca7dbead",
+  "object": "beer",
+  "name": "JPO'H! Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

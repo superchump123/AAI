@@ -1,0 +1,11 @@
+{
+  "id": "0a588bce-3f28-487b-868d-da9f9bf189fb",
+  "object": "beer",
+  "name": "Wolf 8",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

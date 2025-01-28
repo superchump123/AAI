@@ -1,0 +1,11 @@
+{
+  "id": "f8cf2872-f6a6-42eb-be5f-d6a0e162618d",
+  "object": "beer",
+  "name": "Howling Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

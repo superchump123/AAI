@@ -1,0 +1,11 @@
+{
+  "id": "e930ed2b-bc76-40fa-a9d6-f179a5fc3950",
+  "object": "beer",
+  "name": "Alt-Eration",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

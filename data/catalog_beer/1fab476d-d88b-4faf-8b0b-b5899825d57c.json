@@ -1,0 +1,11 @@
+{
+  "id": "1fab476d-d88b-4faf-8b0b-b5899825d57c",
+  "object": "beer",
+  "name": "Rampage Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "54b5e5be-008d-4d7b-b3b9-033528e9ffd0",
+  "object": "beer",
+  "name": "Bourbon Cru",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

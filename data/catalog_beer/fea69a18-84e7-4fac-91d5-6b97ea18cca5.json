@@ -1,0 +1,11 @@
+{
+  "id": "fea69a18-84e7-4fac-91d5-6b97ea18cca5",
+  "object": "beer",
+  "name": "Golden Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

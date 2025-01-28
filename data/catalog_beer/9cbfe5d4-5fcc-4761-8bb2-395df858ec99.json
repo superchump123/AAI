@@ -1,0 +1,11 @@
+{
+  "id": "9cbfe5d4-5fcc-4761-8bb2-395df858ec99",
+  "object": "beer",
+  "name": "Game On",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d05ee87-db2f-4f8a-a58a-dfc15194a82a",
+  "object": "beer",
+  "name": "Quakerbridge Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

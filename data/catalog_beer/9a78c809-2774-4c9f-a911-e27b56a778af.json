@@ -1,0 +1,11 @@
+{
+  "id": "9a78c809-2774-4c9f-a911-e27b56a778af",
+  "object": "beer",
+  "name": "Irish Blessing",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

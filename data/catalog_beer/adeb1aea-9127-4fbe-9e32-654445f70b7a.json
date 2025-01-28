@@ -1,0 +1,11 @@
+{
+  "id": "adeb1aea-9127-4fbe-9e32-654445f70b7a",
+  "object": "beer",
+  "name": "Imperial Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

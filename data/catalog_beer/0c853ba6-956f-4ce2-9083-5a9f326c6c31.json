@@ -1,0 +1,11 @@
+{
+  "id": "0c853ba6-956f-4ce2-9083-5a9f326c6c31",
+  "object": "beer",
+  "name": "Bravery Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

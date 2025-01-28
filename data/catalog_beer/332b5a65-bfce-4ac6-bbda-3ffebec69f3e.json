@@ -1,0 +1,11 @@
+{
+  "id": "332b5a65-bfce-4ac6-bbda-3ffebec69f3e",
+  "object": "beer",
+  "name": "Del Rio Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

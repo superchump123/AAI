@@ -1,0 +1,11 @@
+{
+  "id": "f3f80365-9ef6-4144-b7a1-021982e06d77",
+  "object": "beer",
+  "name": "Big Brother Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

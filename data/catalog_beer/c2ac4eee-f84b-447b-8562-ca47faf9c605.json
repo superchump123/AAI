@@ -1,0 +1,11 @@
+{
+  "id": "c2ac4eee-f84b-447b-8562-ca47faf9c605",
+  "object": "beer",
+  "name": "Patersbier",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

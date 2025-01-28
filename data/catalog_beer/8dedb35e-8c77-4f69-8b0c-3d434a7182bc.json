@@ -1,0 +1,11 @@
+{
+  "id": "8dedb35e-8c77-4f69-8b0c-3d434a7182bc",
+  "object": "beer",
+  "name": "It Was All A Dream",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

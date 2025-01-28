@@ -1,0 +1,11 @@
+{
+  "id": "ae6e0002-3228-451f-b293-8858a4e669a3",
+  "object": "beer",
+  "name": "Hoppy Harvest Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

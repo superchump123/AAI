@@ -1,0 +1,11 @@
+{
+  "id": "61477790-eaa2-4e9f-9ba2-4cadfdb76273",
+  "object": "beer",
+  "name": "Hop On Drinkin",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

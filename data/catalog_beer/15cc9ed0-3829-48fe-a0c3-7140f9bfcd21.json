@@ -1,0 +1,11 @@
+{
+  "id": "15cc9ed0-3829-48fe-a0c3-7140f9bfcd21",
+  "object": "beer",
+  "name": "NJ350",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

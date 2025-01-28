@@ -1,0 +1,11 @@
+{
+  "id": "cd947768-9bae-45b1-a8bb-bef7967de985",
+  "object": "beer",
+  "name": "Hefeweizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "02b00b5b-6b08-4538-a0b3-bd94ab7d539d",
+  "object": "beer",
+  "name": "Double Door",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

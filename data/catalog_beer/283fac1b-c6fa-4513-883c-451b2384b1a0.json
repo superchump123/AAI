@@ -1,0 +1,11 @@
+{
+  "id": "283fac1b-c6fa-4513-883c-451b2384b1a0",
+  "object": "beer",
+  "name": "Danko",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

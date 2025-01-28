@@ -1,0 +1,11 @@
+{
+  "id": "35a57d1b-7954-4c99-94b7-f850879cc96a",
+  "object": "beer",
+  "name": "Super \"C\" French Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

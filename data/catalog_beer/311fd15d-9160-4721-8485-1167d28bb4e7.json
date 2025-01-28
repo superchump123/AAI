@@ -1,0 +1,11 @@
+{
+  "id": "311fd15d-9160-4721-8485-1167d28bb4e7",
+  "object": "beer",
+  "name": "51 Rye",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

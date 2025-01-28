@@ -1,0 +1,11 @@
+{
+  "id": "cc5efad6-ecfb-43e5-8428-217feea409f1",
+  "object": "beer",
+  "name": "Bootlegger",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

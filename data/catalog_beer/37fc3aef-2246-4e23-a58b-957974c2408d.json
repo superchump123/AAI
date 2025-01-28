@@ -1,0 +1,11 @@
+{
+  "id": "37fc3aef-2246-4e23-a58b-957974c2408d",
+  "object": "beer",
+  "name": "Aslan Lite",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

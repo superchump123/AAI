@@ -1,0 +1,11 @@
+{
+  "id": "976c9ac7-1d6a-4cc0-bc03-24307da01bfe",
+  "object": "beer",
+  "name": "American Stout Project",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

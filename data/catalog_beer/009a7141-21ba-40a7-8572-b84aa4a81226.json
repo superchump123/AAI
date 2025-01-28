@@ -1,0 +1,11 @@
+{
+  "id": "009a7141-21ba-40a7-8572-b84aa4a81226",
+  "object": "beer",
+  "name": "Sleeping Giant",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

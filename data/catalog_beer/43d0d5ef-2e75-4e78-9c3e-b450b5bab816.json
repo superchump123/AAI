@@ -1,0 +1,11 @@
+{
+  "id": "43d0d5ef-2e75-4e78-9c3e-b450b5bab816",
+  "object": "beer",
+  "name": "Full Moon Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

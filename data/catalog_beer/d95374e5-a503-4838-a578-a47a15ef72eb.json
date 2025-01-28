@@ -1,0 +1,11 @@
+{
+  "id": "d95374e5-a503-4838-a578-a47a15ef72eb",
+  "object": "beer",
+  "name": "Edge Of The Sun",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

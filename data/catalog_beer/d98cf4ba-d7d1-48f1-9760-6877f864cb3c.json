@@ -1,0 +1,11 @@
+{
+  "id": "d98cf4ba-d7d1-48f1-9760-6877f864cb3c",
+  "object": "beer",
+  "name": "Mary Jane",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

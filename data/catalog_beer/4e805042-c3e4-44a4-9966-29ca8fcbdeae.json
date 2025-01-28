@@ -1,0 +1,11 @@
+{
+  "id": "4e805042-c3e4-44a4-9966-29ca8fcbdeae",
+  "object": "beer",
+  "name": "First 13",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7e3a1904-2bc9-44b4-8da1-b53c5882f972",
+  "object": "beer",
+  "name": "Retainer Red Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

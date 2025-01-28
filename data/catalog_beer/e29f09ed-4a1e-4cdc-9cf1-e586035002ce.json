@@ -1,0 +1,11 @@
+{
+  "id": "e29f09ed-4a1e-4cdc-9cf1-e586035002ce",
+  "object": "beer",
+  "name": "Summerita",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

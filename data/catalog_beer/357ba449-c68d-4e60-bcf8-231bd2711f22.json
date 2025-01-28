@@ -1,0 +1,11 @@
+{
+  "id": "357ba449-c68d-4e60-bcf8-231bd2711f22",
+  "object": "beer",
+  "name": "Black Dan",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

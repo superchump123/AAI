@@ -1,0 +1,11 @@
+{
+  "id": "deeaa75a-0f1a-4ca0-9c6d-b4582d630da1",
+  "object": "beer",
+  "name": "Glutiny Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

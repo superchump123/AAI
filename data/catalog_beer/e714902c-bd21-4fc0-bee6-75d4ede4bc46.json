@@ -1,0 +1,11 @@
+{
+  "id": "e714902c-bd21-4fc0-bee6-75d4ede4bc46",
+  "object": "beer",
+  "name": "Spargel",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

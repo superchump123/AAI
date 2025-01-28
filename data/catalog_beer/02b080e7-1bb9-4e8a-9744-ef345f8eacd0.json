@@ -1,0 +1,11 @@
+{
+  "id": "02b080e7-1bb9-4e8a-9744-ef345f8eacd0",
+  "object": "beer",
+  "name": "Underwater Blimp",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

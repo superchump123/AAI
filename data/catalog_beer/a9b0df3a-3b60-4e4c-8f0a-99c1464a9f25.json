@@ -1,0 +1,11 @@
+{
+  "id": "a9b0df3a-3b60-4e4c-8f0a-99c1464a9f25",
+  "object": "beer",
+  "name": "Stand And Fight",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

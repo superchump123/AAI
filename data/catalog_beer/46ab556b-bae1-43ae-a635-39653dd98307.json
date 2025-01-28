@@ -1,0 +1,11 @@
+{
+  "id": "46ab556b-bae1-43ae-a635-39653dd98307",
+  "object": "beer",
+  "name": "Monkey Wrench Dark Ale",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

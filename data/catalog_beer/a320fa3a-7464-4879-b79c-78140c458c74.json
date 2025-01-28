@@ -1,0 +1,11 @@
+{
+  "id": "a320fa3a-7464-4879-b79c-78140c458c74",
+  "object": "beer",
+  "name": "The Bachelor",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

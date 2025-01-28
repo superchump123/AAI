@@ -1,0 +1,11 @@
+{
+  "id": "15b27f17-1cf2-4471-8d3d-b9a482e1f204",
+  "object": "beer",
+  "name": "American Dream",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

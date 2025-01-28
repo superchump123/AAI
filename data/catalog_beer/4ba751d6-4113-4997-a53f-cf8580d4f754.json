@@ -1,0 +1,11 @@
+{
+  "id": "4ba751d6-4113-4997-a53f-cf8580d4f754",
+  "object": "beer",
+  "name": "Ancestral",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

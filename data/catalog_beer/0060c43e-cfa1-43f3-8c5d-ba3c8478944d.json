@@ -1,0 +1,11 @@
+{
+  "id": "0060c43e-cfa1-43f3-8c5d-ba3c8478944d",
+  "object": "beer",
+  "name": "Asterix",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

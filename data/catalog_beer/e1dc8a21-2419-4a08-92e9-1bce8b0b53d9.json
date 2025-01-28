@@ -1,0 +1,11 @@
+{
+  "id": "e1dc8a21-2419-4a08-92e9-1bce8b0b53d9",
+  "object": "beer",
+  "name": "Warsteiner Premium Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

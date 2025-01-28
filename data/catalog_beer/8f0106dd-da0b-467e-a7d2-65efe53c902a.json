@@ -1,0 +1,11 @@
+{
+  "id": "8f0106dd-da0b-467e-a7d2-65efe53c902a",
+  "object": "beer",
+  "name": "Mackinac Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

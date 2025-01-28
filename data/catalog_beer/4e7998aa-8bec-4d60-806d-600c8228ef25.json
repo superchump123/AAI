@@ -1,0 +1,11 @@
+{
+  "id": "4e7998aa-8bec-4d60-806d-600c8228ef25",
+  "object": "beer",
+  "name": "Camp Wannamango",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

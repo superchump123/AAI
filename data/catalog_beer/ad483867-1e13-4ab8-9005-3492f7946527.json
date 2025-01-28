@@ -1,0 +1,11 @@
+{
+  "id": "ad483867-1e13-4ab8-9005-3492f7946527",
+  "object": "beer",
+  "name": "Strong Spring Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

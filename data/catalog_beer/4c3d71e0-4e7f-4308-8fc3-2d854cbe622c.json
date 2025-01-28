@@ -1,0 +1,11 @@
+{
+  "id": "4c3d71e0-4e7f-4308-8fc3-2d854cbe622c",
+  "object": "beer",
+  "name": "Baltic Imperial Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

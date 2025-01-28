@@ -1,0 +1,11 @@
+{
+  "id": "55bd7eb1-0a66-4c7d-bc33-edbc08226093",
+  "object": "beer",
+  "name": "Soester Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

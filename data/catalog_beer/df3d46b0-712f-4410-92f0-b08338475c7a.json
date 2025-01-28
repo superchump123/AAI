@@ -1,0 +1,11 @@
+{
+  "id": "df3d46b0-712f-4410-92f0-b08338475c7a",
+  "object": "beer",
+  "name": "Lemon Drop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e4ed52ca-7c10-46e1-b8ba-ee4f771a90db",
+  "object": "beer",
+  "name": "Alsfelder Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

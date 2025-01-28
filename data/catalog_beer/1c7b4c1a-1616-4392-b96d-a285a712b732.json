@@ -1,0 +1,11 @@
+{
+  "id": "1c7b4c1a-1616-4392-b96d-a285a712b732",
+  "object": "beer",
+  "name": "Scallywag Extra Pale Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

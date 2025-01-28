@@ -1,0 +1,11 @@
+{
+  "id": "4a77c9a4-2cb9-4278-8a8a-d5c6a805770c",
+  "object": "beer",
+  "name": "Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

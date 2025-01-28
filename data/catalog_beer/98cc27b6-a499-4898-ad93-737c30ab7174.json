@@ -1,0 +1,11 @@
+{
+  "id": "98cc27b6-a499-4898-ad93-737c30ab7174",
+  "object": "beer",
+  "name": "Time Bomb",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

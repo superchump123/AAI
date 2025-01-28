@@ -1,0 +1,11 @@
+{
+  "id": "42d9eaa6-ab08-41d9-a081-f35a60d5e11f",
+  "object": "beer",
+  "name": "ShipBuilders Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

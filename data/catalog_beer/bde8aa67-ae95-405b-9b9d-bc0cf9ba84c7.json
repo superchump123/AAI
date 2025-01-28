@@ -1,0 +1,11 @@
+{
+  "id": "bde8aa67-ae95-405b-9b9d-bc0cf9ba84c7",
+  "object": "beer",
+  "name": "90-5 Townie",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

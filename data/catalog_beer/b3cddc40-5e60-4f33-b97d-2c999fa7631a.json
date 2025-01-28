@@ -1,0 +1,11 @@
+{
+  "id": "b3cddc40-5e60-4f33-b97d-2c999fa7631a",
+  "object": "beer",
+  "name": "Double Albatross",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

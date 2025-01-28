@@ -1,0 +1,11 @@
+{
+  "id": "f02581c0-cf21-445b-a1e1-c6d33933a464",
+  "object": "beer",
+  "name": "Two O'clock Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

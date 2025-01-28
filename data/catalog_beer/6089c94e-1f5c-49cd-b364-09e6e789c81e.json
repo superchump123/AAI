@@ -1,0 +1,11 @@
+{
+  "id": "6089c94e-1f5c-49cd-b364-09e6e789c81e",
+  "object": "beer",
+  "name": "Pinchy",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

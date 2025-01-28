@@ -1,0 +1,11 @@
+{
+  "id": "bb29f78a-bc93-4b7f-9cd5-d5be58d487fe",
+  "object": "beer",
+  "name": "Harvester",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

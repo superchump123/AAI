@@ -1,0 +1,11 @@
+{
+  "id": "54d75caf-8802-4776-ba2b-50b748de61da",
+  "object": "beer",
+  "name": "Stud",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

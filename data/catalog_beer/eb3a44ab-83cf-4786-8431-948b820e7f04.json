@@ -1,0 +1,11 @@
+{
+  "id": "eb3a44ab-83cf-4786-8431-948b820e7f04",
+  "object": "beer",
+  "name": "Harry Porter & The Bourbon Soaked Vanilla Bean",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

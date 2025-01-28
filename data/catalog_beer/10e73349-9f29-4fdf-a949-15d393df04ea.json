@@ -1,0 +1,11 @@
+{
+  "id": "10e73349-9f29-4fdf-a949-15d393df04ea",
+  "object": "beer",
+  "name": "Vishnavitripale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

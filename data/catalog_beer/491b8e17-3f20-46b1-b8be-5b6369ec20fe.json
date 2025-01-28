@@ -1,0 +1,11 @@
+{
+  "id": "491b8e17-3f20-46b1-b8be-5b6369ec20fe",
+  "object": "beer",
+  "name": "Hickson Vin D'orge",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

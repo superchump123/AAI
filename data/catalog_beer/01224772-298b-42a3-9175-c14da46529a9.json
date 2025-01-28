@@ -1,0 +1,11 @@
+{
+  "id": "01224772-298b-42a3-9175-c14da46529a9",
+  "object": "beer",
+  "name": "Blue Lady",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

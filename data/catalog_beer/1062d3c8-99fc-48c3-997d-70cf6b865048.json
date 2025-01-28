@@ -1,0 +1,11 @@
+{
+  "id": "1062d3c8-99fc-48c3-997d-70cf6b865048",
+  "object": "beer",
+  "name": "Short Shifter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

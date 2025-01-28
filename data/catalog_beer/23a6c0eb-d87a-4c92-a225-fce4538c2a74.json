@@ -1,0 +1,11 @@
+{
+  "id": "23a6c0eb-d87a-4c92-a225-fce4538c2a74",
+  "object": "beer",
+  "name": "Red Bluff Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7f6e0f44-9067-409a-b0bd-a431e1eb4d22",
+  "object": "beer",
+  "name": "Uppercut Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 125,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

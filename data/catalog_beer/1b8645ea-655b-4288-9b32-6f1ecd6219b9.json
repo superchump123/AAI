@@ -1,0 +1,11 @@
+{
+  "id": "1b8645ea-655b-4288-9b32-6f1ecd6219b9",
+  "object": "beer",
+  "name": "Uncle Luci with Raspberries",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6a5e6a8b-5828-4bc9-8168-788f283348a7",
+  "object": "beer",
+  "name": "Gavin's Dark Strong",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

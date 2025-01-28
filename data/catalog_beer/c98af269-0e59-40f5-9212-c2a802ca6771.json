@@ -1,0 +1,11 @@
+{
+  "id": "c98af269-0e59-40f5-9212-c2a802ca6771",
+  "object": "beer",
+  "name": "Fraxinus Maximus",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

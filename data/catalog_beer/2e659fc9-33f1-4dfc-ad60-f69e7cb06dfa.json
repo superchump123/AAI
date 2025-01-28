@@ -1,0 +1,11 @@
+{
+  "id": "2e659fc9-33f1-4dfc-ad60-f69e7cb06dfa",
+  "object": "beer",
+  "name": "Game Of Thrones: Valar Dohaeris",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

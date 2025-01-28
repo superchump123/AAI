@@ -1,0 +1,11 @@
+{
+  "id": "77c93a39-0a6b-4f73-bf1c-7e97520cceb7",
+  "object": "beer",
+  "name": "Oude Zuipers",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

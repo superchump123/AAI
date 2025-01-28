@@ -1,0 +1,11 @@
+{
+  "id": "d10c4ecf-c607-4e04-9211-1d637879cd60",
+  "object": "beer",
+  "name": "India Summer Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

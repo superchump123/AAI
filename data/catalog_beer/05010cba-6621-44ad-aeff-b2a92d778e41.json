@@ -1,0 +1,11 @@
+{
+  "id": "05010cba-6621-44ad-aeff-b2a92d778e41",
+  "object": "beer",
+  "name": "Blueberry Tart",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

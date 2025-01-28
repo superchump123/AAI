@@ -1,0 +1,11 @@
+{
+  "id": "564d7d73-d1ea-47cb-986c-eb7e3d1e7882",
+  "object": "beer",
+  "name": "ESB (Extra Special Blizzard)",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

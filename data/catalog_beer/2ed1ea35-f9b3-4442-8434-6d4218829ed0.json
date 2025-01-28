@@ -1,0 +1,11 @@
+{
+  "id": "2ed1ea35-f9b3-4442-8434-6d4218829ed0",
+  "object": "beer",
+  "name": "Bristol's Imperial Belgian Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36ad25a3-8fc4-4311-a3b7-d17ce01a56eb",
+  "object": "beer",
+  "name": "Silent Nights",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

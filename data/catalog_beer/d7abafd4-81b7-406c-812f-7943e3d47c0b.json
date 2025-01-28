@@ -1,0 +1,11 @@
+{
+  "id": "d7abafd4-81b7-406c-812f-7943e3d47c0b",
+  "object": "beer",
+  "name": "Hellacious Guava IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

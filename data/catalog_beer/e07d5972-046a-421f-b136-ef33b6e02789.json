@@ -1,0 +1,11 @@
+{
+  "id": "e07d5972-046a-421f-b136-ef33b6e02789",
+  "object": "beer",
+  "name": "Wee Heavier",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

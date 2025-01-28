@@ -1,0 +1,11 @@
+{
+  "id": "6f677298-b25c-4a1e-bf3a-aaaec72f415e",
+  "object": "beer",
+  "name": "The Polterweiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "317207b0-07e1-4452-8ed3-326be9949933",
+  "object": "beer",
+  "name": "Ur-Weisse",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

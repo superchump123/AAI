@@ -1,0 +1,11 @@
+{
+  "id": "e01f1685-5f54-496f-92a9-6a09713c5f14",
+  "object": "beer",
+  "name": "Surfliner Helles Lager",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

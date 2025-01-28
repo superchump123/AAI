@@ -1,0 +1,11 @@
+{
+  "id": "cd976884-6f14-4f6e-af71-74143686cfb7",
+  "object": "beer",
+  "name": "Gold Digger",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d2a19bb9-4ea9-4e6f-ae02-4f3f931b8ece",
+  "object": "beer",
+  "name": "Boddingtons Pub Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

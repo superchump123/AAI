@@ -1,0 +1,11 @@
+{
+  "id": "f3148c4c-4741-4722-9f99-48e316702555",
+  "object": "beer",
+  "name": "Cape May Watermelon Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

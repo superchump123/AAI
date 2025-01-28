@@ -1,0 +1,11 @@
+{
+  "id": "6b24f073-bcd9-407d-a2ac-20e07c71a363",
+  "object": "beer",
+  "name": "Beach House Golden Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

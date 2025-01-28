@@ -1,0 +1,11 @@
+{
+  "id": "5e88b63f-2f77-4cab-96db-84e5bfb35500",
+  "object": "beer",
+  "name": "Crystal Hero",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1a49579a-d232-4c4e-b7f5-b4a6d0a1ec4d",
+  "object": "beer",
+  "name": "Dunkel Weizen",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

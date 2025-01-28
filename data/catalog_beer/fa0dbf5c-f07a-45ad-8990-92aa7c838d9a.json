@@ -1,0 +1,11 @@
+{
+  "id": "fa0dbf5c-f07a-45ad-8990-92aa7c838d9a",
+  "object": "beer",
+  "name": "Galena Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

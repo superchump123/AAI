@@ -1,0 +1,11 @@
+{
+  "id": "8e1a48a1-853c-4434-8cfd-2154f03d4199",
+  "object": "beer",
+  "name": "Batch #400 American IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

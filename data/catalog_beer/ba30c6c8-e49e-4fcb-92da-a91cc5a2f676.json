@@ -1,0 +1,11 @@
+{
+  "id": "ba30c6c8-e49e-4fcb-92da-a91cc5a2f676",
+  "object": "beer",
+  "name": "English IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

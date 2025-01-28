@@ -1,0 +1,11 @@
+{
+  "id": "d32f3774-a0a6-47de-aa7e-edce89410e56",
+  "object": "beer",
+  "name": "Warburger Landbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

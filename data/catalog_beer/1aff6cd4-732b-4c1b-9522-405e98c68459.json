@@ -1,0 +1,11 @@
+{
+  "id": "1aff6cd4-732b-4c1b-9522-405e98c68459",
+  "object": "beer",
+  "name": "Lil Wheezy",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

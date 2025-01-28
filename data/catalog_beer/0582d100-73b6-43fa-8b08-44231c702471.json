@@ -1,0 +1,11 @@
+{
+  "id": "0582d100-73b6-43fa-8b08-44231c702471",
+  "object": "beer",
+  "name": "Clarice",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

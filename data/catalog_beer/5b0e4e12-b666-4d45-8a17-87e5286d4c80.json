@@ -1,0 +1,11 @@
+{
+  "id": "5b0e4e12-b666-4d45-8a17-87e5286d4c80",
+  "object": "beer",
+  "name": "Picnic Rock Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

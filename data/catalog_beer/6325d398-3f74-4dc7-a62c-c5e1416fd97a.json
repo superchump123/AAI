@@ -1,0 +1,11 @@
+{
+  "id": "6325d398-3f74-4dc7-a62c-c5e1416fd97a",
+  "object": "beer",
+  "name": "BB Kipper",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

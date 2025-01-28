@@ -1,0 +1,11 @@
+{
+  "id": "b159c4d5-37c4-4471-b6a1-b93cc88d38d2",
+  "object": "beer",
+  "name": "Diablo Rojo",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

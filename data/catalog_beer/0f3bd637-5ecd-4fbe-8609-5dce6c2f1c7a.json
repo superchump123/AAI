@@ -1,0 +1,11 @@
+{
+  "id": "0f3bd637-5ecd-4fbe-8609-5dce6c2f1c7a",
+  "object": "beer",
+  "name": "Bavik Super Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

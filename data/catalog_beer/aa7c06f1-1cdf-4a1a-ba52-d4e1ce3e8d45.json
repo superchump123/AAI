@@ -1,0 +1,11 @@
+{
+  "id": "aa7c06f1-1cdf-4a1a-ba52-d4e1ce3e8d45",
+  "object": "beer",
+  "name": "Gutterpup Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

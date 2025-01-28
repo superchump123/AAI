@@ -1,0 +1,11 @@
+{
+  "id": "24022f5e-1311-4811-a2fc-b114576507fd",
+  "object": "beer",
+  "name": "Jasperilla Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

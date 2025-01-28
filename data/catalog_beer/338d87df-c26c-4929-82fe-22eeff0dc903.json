@@ -1,0 +1,11 @@
+{
+  "id": "338d87df-c26c-4929-82fe-22eeff0dc903",
+  "object": "beer",
+  "name": "Antler Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

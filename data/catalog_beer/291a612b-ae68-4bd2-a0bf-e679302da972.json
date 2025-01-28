@@ -1,0 +1,11 @@
+{
+  "id": "291a612b-ae68-4bd2-a0bf-e679302da972",
+  "object": "beer",
+  "name": "Sour Cherry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

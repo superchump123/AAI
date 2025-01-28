@@ -1,0 +1,11 @@
+{
+  "id": "9816a25f-8f79-45ca-a820-204ed4015332",
+  "object": "beer",
+  "name": "Sexy Betty",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

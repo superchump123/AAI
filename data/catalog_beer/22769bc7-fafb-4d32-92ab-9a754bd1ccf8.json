@@ -1,0 +1,11 @@
+{
+  "id": "22769bc7-fafb-4d32-92ab-9a754bd1ccf8",
+  "object": "beer",
+  "name": "Barn Coat",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

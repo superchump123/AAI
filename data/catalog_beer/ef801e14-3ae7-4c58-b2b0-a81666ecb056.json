@@ -1,0 +1,11 @@
+{
+  "id": "ef801e14-3ae7-4c58-b2b0-a81666ecb056",
+  "object": "beer",
+  "name": "Halo of Saturn",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

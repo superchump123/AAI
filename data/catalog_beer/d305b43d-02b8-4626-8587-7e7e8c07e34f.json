@@ -1,0 +1,11 @@
+{
+  "id": "d305b43d-02b8-4626-8587-7e7e8c07e34f",
+  "object": "beer",
+  "name": "Derailed Series: Helles Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

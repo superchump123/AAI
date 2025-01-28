@@ -1,0 +1,11 @@
+{
+  "id": "a097e1d6-b33b-4f92-ac1f-4b5c1120cb8f",
+  "object": "beer",
+  "name": "Southern Passion",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

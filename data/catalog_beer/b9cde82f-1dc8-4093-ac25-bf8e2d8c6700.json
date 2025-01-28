@@ -1,0 +1,11 @@
+{
+  "id": "b9cde82f-1dc8-4093-ac25-bf8e2d8c6700",
+  "object": "beer",
+  "name": "Pixie's Revenge",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

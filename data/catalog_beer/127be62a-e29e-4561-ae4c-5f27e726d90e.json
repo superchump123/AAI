@@ -1,0 +1,11 @@
+{
+  "id": "127be62a-e29e-4561-ae4c-5f27e726d90e",
+  "object": "beer",
+  "name": "Crazy Beard Wild Apple Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

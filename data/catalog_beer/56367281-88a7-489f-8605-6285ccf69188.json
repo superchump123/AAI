@@ -1,0 +1,11 @@
+{
+  "id": "56367281-88a7-489f-8605-6285ccf69188",
+  "object": "beer",
+  "name": "Malus",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

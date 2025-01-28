@@ -1,0 +1,11 @@
+{
+  "id": "393582b8-3fa5-4566-b984-738855ba61b4",
+  "object": "beer",
+  "name": "Belgian Peach",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d51fb04-e931-44cb-a0a4-0ea5a545bb9d",
+  "object": "beer",
+  "name": "Beer Attack",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

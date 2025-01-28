@@ -1,0 +1,11 @@
+{
+  "id": "5640adb7-21f5-4495-b8a5-914b76aad0df",
+  "object": "beer",
+  "name": "Rock Ice Limon",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d1c9876c-ce71-4159-b48e-8eb5d12249a4",
+  "object": "beer",
+  "name": "The Whale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "16189f40-6e0c-447c-a545-7ea300ca7772",
+  "object": "beer",
+  "name": "Kapai",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

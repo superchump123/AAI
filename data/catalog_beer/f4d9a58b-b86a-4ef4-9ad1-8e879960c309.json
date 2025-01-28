@@ -1,0 +1,11 @@
+{
+  "id": "f4d9a58b-b86a-4ef4-9ad1-8e879960c309",
+  "object": "beer",
+  "name": "Loose Cannon",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

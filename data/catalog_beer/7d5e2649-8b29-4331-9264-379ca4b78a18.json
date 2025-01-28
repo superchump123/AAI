@@ -1,0 +1,11 @@
+{
+  "id": "7d5e2649-8b29-4331-9264-379ca4b78a18",
+  "object": "beer",
+  "name": "Broad Street Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

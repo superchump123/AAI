@@ -1,0 +1,11 @@
+{
+  "id": "4d666864-d1af-47b9-8fbe-387202eb68d9",
+  "object": "beer",
+  "name": "Dublin Street Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

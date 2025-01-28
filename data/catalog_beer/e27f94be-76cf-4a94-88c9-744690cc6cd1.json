@@ -1,0 +1,11 @@
+{
+  "id": "e27f94be-76cf-4a94-88c9-744690cc6cd1",
+  "object": "beer",
+  "name": "Beast Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

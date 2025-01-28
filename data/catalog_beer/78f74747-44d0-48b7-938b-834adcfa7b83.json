@@ -1,0 +1,11 @@
+{
+  "id": "78f74747-44d0-48b7-938b-834adcfa7b83",
+  "object": "beer",
+  "name": "Gulden Draak Brewmaster's Edition",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c5237f31-dc42-4e94-b137-a62b18935172",
+  "object": "beer",
+  "name": "Unfiltered Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

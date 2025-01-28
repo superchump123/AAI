@@ -1,0 +1,11 @@
+{
+  "id": "2edf372a-65d5-49c5-8e35-2586de91c39d",
+  "object": "beer",
+  "name": "Silverback Warfare",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

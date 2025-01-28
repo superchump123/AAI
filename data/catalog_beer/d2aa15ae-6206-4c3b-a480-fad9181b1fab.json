@@ -1,0 +1,11 @@
+{
+  "id": "d2aa15ae-6206-4c3b-a480-fad9181b1fab",
+  "object": "beer",
+  "name": "Summer Paradise",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

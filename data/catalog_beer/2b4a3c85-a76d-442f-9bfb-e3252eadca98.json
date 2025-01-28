@@ -1,0 +1,11 @@
+{
+  "id": "2b4a3c85-a76d-442f-9bfb-e3252eadca98",
+  "object": "beer",
+  "name": "Penitence",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

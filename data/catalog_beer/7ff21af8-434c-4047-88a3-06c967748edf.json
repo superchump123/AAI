@@ -1,0 +1,11 @@
+{
+  "id": "7ff21af8-434c-4047-88a3-06c967748edf",
+  "object": "beer",
+  "name": "Third Party Candidate",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

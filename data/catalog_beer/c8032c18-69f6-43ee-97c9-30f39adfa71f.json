@@ -1,0 +1,11 @@
+{
+  "id": "c8032c18-69f6-43ee-97c9-30f39adfa71f",
+  "object": "beer",
+  "name": "Mischievous",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

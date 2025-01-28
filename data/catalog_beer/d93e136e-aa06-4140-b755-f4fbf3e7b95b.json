@@ -1,0 +1,11 @@
+{
+  "id": "d93e136e-aa06-4140-b755-f4fbf3e7b95b",
+  "object": "beer",
+  "name": "Drag Me To Helles",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

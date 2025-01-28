@@ -1,0 +1,11 @@
+{
+  "id": "05f89021-5382-4e5f-b283-ffe50b5e6d47",
+  "object": "beer",
+  "name": "Prohibition Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

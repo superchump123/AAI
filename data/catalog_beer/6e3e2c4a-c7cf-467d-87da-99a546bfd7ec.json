@@ -1,0 +1,11 @@
+{
+  "id": "6e3e2c4a-c7cf-467d-87da-99a546bfd7ec",
+  "object": "beer",
+  "name": "Crazy Horse",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

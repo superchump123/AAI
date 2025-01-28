@@ -1,0 +1,11 @@
+{
+  "id": "554457a8-4a66-4b64-82c3-44af82f7fbf9",
+  "object": "beer",
+  "name": "Barrel Aged Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

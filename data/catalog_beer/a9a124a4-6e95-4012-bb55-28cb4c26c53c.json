@@ -1,0 +1,11 @@
+{
+  "id": "a9a124a4-6e95-4012-bb55-28cb4c26c53c",
+  "object": "beer",
+  "name": "Fassenachtsbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

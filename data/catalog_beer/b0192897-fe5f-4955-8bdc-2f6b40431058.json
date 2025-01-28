@@ -1,0 +1,11 @@
+{
+  "id": "b0192897-fe5f-4955-8bdc-2f6b40431058",
+  "object": "beer",
+  "name": "Red Hopper Imperial Red Ale",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

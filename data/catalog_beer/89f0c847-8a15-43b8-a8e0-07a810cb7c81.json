@@ -1,0 +1,11 @@
+{
+  "id": "89f0c847-8a15-43b8-a8e0-07a810cb7c81",
+  "object": "beer",
+  "name": "Linden Street ESB",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

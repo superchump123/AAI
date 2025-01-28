@@ -1,0 +1,11 @@
+{
+  "id": "534e2083-695c-4d7e-96b3-e54283e06277",
+  "object": "beer",
+  "name": "Rollin Dirty",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "05789b54-b05d-4570-98fd-fda4e6eb3198",
+  "object": "beer",
+  "name": "Red Dirt Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

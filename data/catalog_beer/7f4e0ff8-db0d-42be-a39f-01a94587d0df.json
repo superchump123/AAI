@@ -1,0 +1,11 @@
+{
+  "id": "7f4e0ff8-db0d-42be-a39f-01a94587d0df",
+  "object": "beer",
+  "name": "Winter Tyne",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

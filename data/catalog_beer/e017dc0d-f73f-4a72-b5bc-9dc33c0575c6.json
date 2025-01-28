@@ -1,0 +1,11 @@
+{
+  "id": "e017dc0d-f73f-4a72-b5bc-9dc33c0575c6",
+  "object": "beer",
+  "name": "Brother Mutt's Smoked Marzen",
+  "style": "Bamberg-Style M\u00e4rzen Rauchbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

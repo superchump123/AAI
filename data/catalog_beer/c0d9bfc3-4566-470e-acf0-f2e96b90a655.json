@@ -1,0 +1,11 @@
+{
+  "id": "c0d9bfc3-4566-470e-acf0-f2e96b90a655",
+  "object": "beer",
+  "name": "Bourbon Barrel Wheat",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

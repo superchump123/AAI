@@ -1,0 +1,11 @@
+{
+  "id": "6eee99bf-a3b3-4d3b-a579-161769873ab2",
+  "object": "beer",
+  "name": "Blue IPA",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

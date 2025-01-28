@@ -1,0 +1,11 @@
+{
+  "id": "2e499bc6-3f8a-460d-8a8e-c16d74765873",
+  "object": "beer",
+  "name": "Town Biz",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

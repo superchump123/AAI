@@ -1,0 +1,11 @@
+{
+  "id": "f7df6df6-66ba-48c3-9f2e-b6f43c55d8be",
+  "object": "beer",
+  "name": "Grand Poobah",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

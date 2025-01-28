@@ -1,0 +1,11 @@
+{
+  "id": "fc5ecd67-38b3-42c2-88fe-089dc8fb8174",
+  "object": "beer",
+  "name": "Huckleberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

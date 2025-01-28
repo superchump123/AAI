@@ -1,0 +1,11 @@
+{
+  "id": "a4f1a6ca-d8a2-454b-8117-74a43cb359af",
+  "object": "beer",
+  "name": "Over Easy Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

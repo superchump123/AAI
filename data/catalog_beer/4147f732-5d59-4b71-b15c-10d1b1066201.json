@@ -1,0 +1,11 @@
+{
+  "id": "4147f732-5d59-4b71-b15c-10d1b1066201",
+  "object": "beer",
+  "name": "Trillium",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

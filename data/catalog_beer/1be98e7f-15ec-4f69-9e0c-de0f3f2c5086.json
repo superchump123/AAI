@@ -1,0 +1,11 @@
+{
+  "id": "1be98e7f-15ec-4f69-9e0c-de0f3f2c5086",
+  "object": "beer",
+  "name": "Queen Of Tarts",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

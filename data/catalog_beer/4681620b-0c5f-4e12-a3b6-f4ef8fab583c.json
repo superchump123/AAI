@@ -1,0 +1,11 @@
+{
+  "id": "4681620b-0c5f-4e12-a3b6-f4ef8fab583c",
+  "object": "beer",
+  "name": "Strong Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

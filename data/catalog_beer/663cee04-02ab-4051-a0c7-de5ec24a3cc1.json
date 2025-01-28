@@ -1,0 +1,11 @@
+{
+  "id": "663cee04-02ab-4051-a0c7-de5ec24a3cc1",
+  "object": "beer",
+  "name": "Horse Ridge",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

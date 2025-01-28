@@ -1,0 +1,11 @@
+{
+  "id": "d0c1ebdd-7f60-483a-9a63-405681d05f48",
+  "object": "beer",
+  "name": "Queue de Charrue Blond",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

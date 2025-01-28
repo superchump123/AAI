@@ -1,0 +1,11 @@
+{
+  "id": "8dc07dd0-b821-4f54-9440-38697395224e",
+  "object": "beer",
+  "name": "Snow Blind Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

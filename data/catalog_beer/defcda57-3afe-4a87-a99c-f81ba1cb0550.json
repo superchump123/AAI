@@ -1,0 +1,11 @@
+{
+  "id": "defcda57-3afe-4a87-a99c-f81ba1cb0550",
+  "object": "beer",
+  "name": "Little Dipper",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

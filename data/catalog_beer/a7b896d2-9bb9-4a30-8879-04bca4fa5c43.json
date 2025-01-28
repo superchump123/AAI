@@ -1,0 +1,11 @@
+{
+  "id": "a7b896d2-9bb9-4a30-8879-04bca4fa5c43",
+  "object": "beer",
+  "name": "Tall Poppy",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

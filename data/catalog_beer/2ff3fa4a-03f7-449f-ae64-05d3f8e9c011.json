@@ -1,0 +1,11 @@
+{
+  "id": "2ff3fa4a-03f7-449f-ae64-05d3f8e9c011",
+  "object": "beer",
+  "name": "Guenda",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b67bd5db-96db-4deb-9441-5a880ed9b6c4",
+  "object": "beer",
+  "name": "Ol' Pappy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

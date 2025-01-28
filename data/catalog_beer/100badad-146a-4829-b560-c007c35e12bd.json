@@ -1,0 +1,11 @@
+{
+  "id": "100badad-146a-4829-b560-c007c35e12bd",
+  "object": "beer",
+  "name": "Denali IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

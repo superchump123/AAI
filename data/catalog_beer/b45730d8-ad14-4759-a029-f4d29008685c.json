@@ -1,0 +1,11 @@
+{
+  "id": "b45730d8-ad14-4759-a029-f4d29008685c",
+  "object": "beer",
+  "name": "Fantasmo",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

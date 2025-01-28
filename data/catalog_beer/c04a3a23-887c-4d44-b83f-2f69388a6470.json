@@ -1,0 +1,11 @@
+{
+  "id": "c04a3a23-887c-4d44-b83f-2f69388a6470",
+  "object": "beer",
+  "name": "Simpson's Scottish Ale Nitro",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

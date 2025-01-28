@@ -1,0 +1,11 @@
+{
+  "id": "74b160f6-ac75-4c60-872d-1d488236ee42",
+  "object": "beer",
+  "name": "Aloha Plenty",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

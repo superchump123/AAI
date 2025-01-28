@@ -1,0 +1,11 @@
+{
+  "id": "c94969d9-5116-4c00-8445-e453638bb77d",
+  "object": "beer",
+  "name": "Royal Pudding",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

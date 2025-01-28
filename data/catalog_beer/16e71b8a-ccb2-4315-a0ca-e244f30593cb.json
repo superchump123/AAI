@@ -1,0 +1,11 @@
+{
+  "id": "16e71b8a-ccb2-4315-a0ca-e244f30593cb",
+  "object": "beer",
+  "name": "Blessed Kettle",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

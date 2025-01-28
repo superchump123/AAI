@@ -1,0 +1,11 @@
+{
+  "id": "412c5baf-7ba1-419b-abd1-9534a03cb33b",
+  "object": "beer",
+  "name": "Glutart",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

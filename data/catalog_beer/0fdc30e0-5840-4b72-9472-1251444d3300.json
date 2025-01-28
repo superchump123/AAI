@@ -1,0 +1,11 @@
+{
+  "id": "0fdc30e0-5840-4b72-9472-1251444d3300",
+  "object": "beer",
+  "name": "Stereotype",
+  "style": "Blonde - Dry Hopped",
+  "description": "Stereotype is a Belgian-style blonde ale made with pale malts and a traditional Belgian yeast strain. This yeast strain produces fruity esters that sometimes are described as bubblegum. It is light and refreshing. This version was dry hopped with Amarillo and add more hop character.",
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1511762150
+}

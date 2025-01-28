@@ -1,0 +1,11 @@
+{
+  "id": "92df8a6d-5dbd-4923-87cc-0a95d048e8af",
+  "object": "beer",
+  "name": "Drop Anchor IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92740bdb-b14c-41ef-808c-1dc8f6eb2aa8",
+  "object": "beer",
+  "name": "Hellbent",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

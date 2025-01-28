@@ -1,0 +1,11 @@
+{
+  "id": "1dfd8ec9-2b8a-4b59-ad92-7f6d5317c1cd",
+  "object": "beer",
+  "name": "Bloody BlonDDe",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

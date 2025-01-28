@@ -1,0 +1,11 @@
+{
+  "id": "6a0046c2-1806-4fc9-9bd5-456aede679dd",
+  "object": "beer",
+  "name": "Paulaner Roggen",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

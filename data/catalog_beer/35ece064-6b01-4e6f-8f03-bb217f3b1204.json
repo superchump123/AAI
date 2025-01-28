@@ -1,0 +1,11 @@
+{
+  "id": "35ece064-6b01-4e6f-8f03-bb217f3b1204",
+  "object": "beer",
+  "name": "Buff Sisters",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

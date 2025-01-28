@@ -1,0 +1,11 @@
+{
+  "id": "cb0adbb2-36c1-4e6f-a193-2b7bef5788d7",
+  "object": "beer",
+  "name": "Robber's Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

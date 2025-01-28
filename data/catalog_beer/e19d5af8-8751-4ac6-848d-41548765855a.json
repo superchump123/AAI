@@ -1,0 +1,11 @@
+{
+  "id": "e19d5af8-8751-4ac6-848d-41548765855a",
+  "object": "beer",
+  "name": "Maiden the Shade",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

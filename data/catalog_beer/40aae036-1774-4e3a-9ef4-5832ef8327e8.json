@@ -1,0 +1,11 @@
+{
+  "id": "40aae036-1774-4e3a-9ef4-5832ef8327e8",
+  "object": "beer",
+  "name": "Schimpf Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

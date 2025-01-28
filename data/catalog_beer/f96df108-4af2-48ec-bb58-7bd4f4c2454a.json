@@ -1,0 +1,11 @@
+{
+  "id": "f96df108-4af2-48ec-bb58-7bd4f4c2454a",
+  "object": "beer",
+  "name": "Doubledelic IIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

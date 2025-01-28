@@ -1,0 +1,11 @@
+{
+  "id": "0f774704-a380-4682-ae1e-ed7badb396a6",
+  "object": "beer",
+  "name": "Louise",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

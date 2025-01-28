@@ -1,0 +1,11 @@
+{
+  "id": "6312edff-cea7-44cb-99bc-26ef3733d028",
+  "object": "beer",
+  "name": "CANfusion - Beer Camp Across America",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

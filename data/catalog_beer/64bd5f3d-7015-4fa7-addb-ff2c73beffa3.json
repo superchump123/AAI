@@ -1,0 +1,11 @@
+{
+  "id": "64bd5f3d-7015-4fa7-addb-ff2c73beffa3",
+  "object": "beer",
+  "name": "Wittichenauer Gold",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

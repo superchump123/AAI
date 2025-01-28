@@ -1,0 +1,11 @@
+{
+  "id": "625b7314-3b33-4fa9-834d-77a0bbb98e05",
+  "object": "beer",
+  "name": "Pedlars Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a51f9882-0e13-48a5-9ad2-0a8a333959af",
+  "object": "beer",
+  "name": "Hyper Retro Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

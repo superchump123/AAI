@@ -1,0 +1,11 @@
+{
+  "id": "f82e39d4-1db9-47a5-99dc-6804018085b8",
+  "object": "beer",
+  "name": "Heart of Darkness",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

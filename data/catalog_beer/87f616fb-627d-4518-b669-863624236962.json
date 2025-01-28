@@ -1,0 +1,11 @@
+{
+  "id": "87f616fb-627d-4518-b669-863624236962",
+  "object": "beer",
+  "name": "The Salty Lady",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c49071fc-ccaa-45b5-8243-b75f216435fd",
+  "object": "beer",
+  "name": "Fiery Hell",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

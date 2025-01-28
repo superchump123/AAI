@@ -1,0 +1,11 @@
+{
+  "id": "51457efa-08ff-4a6b-a23e-4dee4f1422e4",
+  "object": "beer",
+  "name": "St. Lenny's",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

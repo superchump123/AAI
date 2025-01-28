@@ -1,0 +1,11 @@
+{
+  "id": "07a1ff76-2824-4495-a0e1-1571fb4c5c78",
+  "object": "beer",
+  "name": "Why Can't IBU?",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

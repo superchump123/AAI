@@ -1,0 +1,11 @@
+{
+  "id": "6c141c41-63af-4170-815d-9752bfbcd919",
+  "object": "beer",
+  "name": "John's Generations White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

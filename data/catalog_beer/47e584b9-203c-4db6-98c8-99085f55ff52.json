@@ -1,0 +1,11 @@
+{
+  "id": "47e584b9-203c-4db6-98c8-99085f55ff52",
+  "object": "beer",
+  "name": "Black Tonic",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

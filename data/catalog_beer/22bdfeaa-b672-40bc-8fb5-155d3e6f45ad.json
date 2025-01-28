@@ -1,0 +1,11 @@
+{
+  "id": "22bdfeaa-b672-40bc-8fb5-155d3e6f45ad",
+  "object": "beer",
+  "name": "Smokey CEO Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

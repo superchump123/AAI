@@ -1,0 +1,11 @@
+{
+  "id": "d449d0a5-6560-4ceb-a8f1-058c926c24a1",
+  "object": "beer",
+  "name": "Coop'd Up Tart",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

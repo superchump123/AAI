@@ -1,0 +1,11 @@
+{
+  "id": "8ac42b77-4020-4ac6-9bb7-d603b1a3f774",
+  "object": "beer",
+  "name": "Midnight Jack",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

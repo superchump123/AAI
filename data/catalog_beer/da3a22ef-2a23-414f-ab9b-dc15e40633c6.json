@@ -1,0 +1,11 @@
+{
+  "id": "da3a22ef-2a23-414f-ab9b-dc15e40633c6",
+  "object": "beer",
+  "name": "The Funk",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

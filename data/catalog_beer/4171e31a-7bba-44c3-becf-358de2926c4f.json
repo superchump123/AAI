@@ -1,0 +1,11 @@
+{
+  "id": "4171e31a-7bba-44c3-becf-358de2926c4f",
+  "object": "beer",
+  "name": "Grumpy Granny",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

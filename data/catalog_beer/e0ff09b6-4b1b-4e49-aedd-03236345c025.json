@@ -1,0 +1,11 @@
+{
+  "id": "e0ff09b6-4b1b-4e49-aedd-03236345c025",
+  "object": "beer",
+  "name": "Flamberge",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

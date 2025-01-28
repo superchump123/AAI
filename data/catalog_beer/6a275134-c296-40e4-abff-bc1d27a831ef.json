@@ -1,0 +1,11 @@
+{
+  "id": "6a275134-c296-40e4-abff-bc1d27a831ef",
+  "object": "beer",
+  "name": "Aloha I.P.A.",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

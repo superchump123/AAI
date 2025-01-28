@@ -1,0 +1,11 @@
+{
+  "id": "97326c3a-833d-4d55-8478-2440d34d22d4",
+  "object": "beer",
+  "name": "Windhand IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

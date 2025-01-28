@@ -1,0 +1,11 @@
+{
+  "id": "73707aa6-280a-4026-a1a1-c7ab1cf1c400",
+  "object": "beer",
+  "name": "Rough Ridge",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "326fcb63-d861-455a-9dab-8a190324fd1c",
+  "object": "beer",
+  "name": "Knutkase",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "21755a0d-d7a5-49ab-8259-18e1a04ecc42",
+  "object": "beer",
+  "name": "Smoke & Dagger",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

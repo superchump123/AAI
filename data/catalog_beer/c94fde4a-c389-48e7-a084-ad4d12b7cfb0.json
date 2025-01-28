@@ -1,0 +1,11 @@
+{
+  "id": "c94fde4a-c389-48e7-a084-ad4d12b7cfb0",
+  "object": "beer",
+  "name": "Apricot Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

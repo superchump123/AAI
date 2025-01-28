@@ -1,0 +1,11 @@
+{
+  "id": "7285b230-8c5c-4699-b51e-8715ae9200bb",
+  "object": "beer",
+  "name": "Gin Barrel Gold Legacy",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

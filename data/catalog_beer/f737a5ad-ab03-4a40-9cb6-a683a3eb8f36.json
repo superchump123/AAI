@@ -1,0 +1,11 @@
+{
+  "id": "f737a5ad-ab03-4a40-9cb6-a683a3eb8f36",
+  "object": "beer",
+  "name": "Runestone Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d6e0d56-68e1-4397-a66c-d1889f548632",
+  "object": "beer",
+  "name": "Franconia Falling Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

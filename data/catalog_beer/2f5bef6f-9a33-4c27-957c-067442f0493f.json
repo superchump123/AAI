@@ -1,0 +1,11 @@
+{
+  "id": "2f5bef6f-9a33-4c27-957c-067442f0493f",
+  "object": "beer",
+  "name": "Balashi",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

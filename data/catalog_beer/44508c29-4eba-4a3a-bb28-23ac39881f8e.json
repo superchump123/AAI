@@ -1,0 +1,11 @@
+{
+  "id": "44508c29-4eba-4a3a-bb28-23ac39881f8e",
+  "object": "beer",
+  "name": "Flavor Memory Response",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

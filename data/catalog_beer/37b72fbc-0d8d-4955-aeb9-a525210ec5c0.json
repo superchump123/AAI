@@ -1,0 +1,11 @@
+{
+  "id": "37b72fbc-0d8d-4955-aeb9-a525210ec5c0",
+  "object": "beer",
+  "name": "Rothaus Tannenz\u00e4pfle",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

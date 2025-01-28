@@ -1,0 +1,11 @@
+{
+  "id": "897e72fb-907d-4993-8a7c-5f8080a26778",
+  "object": "beer",
+  "name": "Imperial Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

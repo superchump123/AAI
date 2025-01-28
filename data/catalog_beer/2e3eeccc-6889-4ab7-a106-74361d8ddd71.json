@@ -1,0 +1,11 @@
+{
+  "id": "2e3eeccc-6889-4ab7-a106-74361d8ddd71",
+  "object": "beer",
+  "name": "Shine",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c446e6ae-d96c-47bc-b416-db3174bbf3d1",
+  "object": "beer",
+  "name": "Payette Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

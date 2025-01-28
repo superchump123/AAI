@@ -1,0 +1,11 @@
+{
+  "id": "33b4cdf9-63a4-4574-b904-798be590ceeb",
+  "object": "beer",
+  "name": "Snowflake",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

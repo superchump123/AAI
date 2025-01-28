@@ -1,0 +1,11 @@
+{
+  "id": "9d219aad-eec4-4d91-bb82-6b4851f9c10e",
+  "object": "beer",
+  "name": "Bitchin' Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

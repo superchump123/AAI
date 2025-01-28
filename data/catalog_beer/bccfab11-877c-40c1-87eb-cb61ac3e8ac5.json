@@ -1,0 +1,11 @@
+{
+  "id": "bccfab11-877c-40c1-87eb-cb61ac3e8ac5",
+  "object": "beer",
+  "name": "Tree Rock Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

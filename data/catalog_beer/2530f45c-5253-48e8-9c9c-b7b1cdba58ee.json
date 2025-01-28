@@ -1,0 +1,11 @@
+{
+  "id": "2530f45c-5253-48e8-9c9c-b7b1cdba58ee",
+  "object": "beer",
+  "name": "Nomad",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

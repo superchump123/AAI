@@ -1,0 +1,11 @@
+{
+  "id": "9f971c9c-ec70-4785-a7bb-cc0e97dff6f4",
+  "object": "beer",
+  "name": "Santa Cruz Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

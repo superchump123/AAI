@@ -1,0 +1,11 @@
+{
+  "id": "5fcf5935-d721-4efc-aaa4-48bc4c362bb5",
+  "object": "beer",
+  "name": "Small Green Everything",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

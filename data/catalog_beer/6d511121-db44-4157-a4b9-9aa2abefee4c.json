@@ -1,0 +1,11 @@
+{
+  "id": "6d511121-db44-4157-a4b9-9aa2abefee4c",
+  "object": "beer",
+  "name": "Pacific Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

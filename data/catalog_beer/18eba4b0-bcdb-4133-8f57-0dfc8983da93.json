@@ -1,0 +1,11 @@
+{
+  "id": "18eba4b0-bcdb-4133-8f57-0dfc8983da93",
+  "object": "beer",
+  "name": "G\u00edria Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

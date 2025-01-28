@@ -1,0 +1,11 @@
+{
+  "id": "2331a1b9-76b3-4aaf-a8e9-598e564b2551",
+  "object": "beer",
+  "name": "Ole Ransoms",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.1,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

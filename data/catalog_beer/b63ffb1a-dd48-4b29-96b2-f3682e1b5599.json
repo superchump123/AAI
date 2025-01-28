@@ -1,0 +1,11 @@
+{
+  "id": "b63ffb1a-dd48-4b29-96b2-f3682e1b5599",
+  "object": "beer",
+  "name": "Kaktus London Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5b54b18d-e43e-43cc-9fae-b76897f6416d",
+  "object": "beer",
+  "name": "Perlenbacher Gold",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3811b062-9c7d-4371-bd4a-6e3d6c0a0d5b",
+  "object": "beer",
+  "name": "Freckled Fields",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

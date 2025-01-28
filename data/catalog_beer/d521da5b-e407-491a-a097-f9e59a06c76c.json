@@ -1,0 +1,11 @@
+{
+  "id": "d521da5b-e407-491a-a097-f9e59a06c76c",
+  "object": "beer",
+  "name": "Hinterlander Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

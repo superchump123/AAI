@@ -1,0 +1,11 @@
+{
+  "id": "bb03ac6c-2109-453d-8e2f-ea228436e6fb",
+  "object": "beer",
+  "name": "Samuel Adams White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

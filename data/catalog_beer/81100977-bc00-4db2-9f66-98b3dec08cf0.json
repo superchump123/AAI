@@ -1,0 +1,11 @@
+{
+  "id": "81100977-bc00-4db2-9f66-98b3dec08cf0",
+  "object": "beer",
+  "name": "Papi",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "edd4b4c6-7afe-428f-aefe-a363d828a546",
+  "object": "beer",
+  "name": "Notley",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

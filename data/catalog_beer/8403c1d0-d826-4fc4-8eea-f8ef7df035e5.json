@@ -1,0 +1,11 @@
+{
+  "id": "8403c1d0-d826-4fc4-8eea-f8ef7df035e5",
+  "object": "beer",
+  "name": "Blonde Horizon",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

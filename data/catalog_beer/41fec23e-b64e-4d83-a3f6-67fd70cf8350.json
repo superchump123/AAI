@@ -1,0 +1,11 @@
+{
+  "id": "41fec23e-b64e-4d83-a3f6-67fd70cf8350",
+  "object": "beer",
+  "name": "Darwin's Forehead",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

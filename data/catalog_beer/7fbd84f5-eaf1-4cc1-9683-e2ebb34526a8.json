@@ -1,0 +1,11 @@
+{
+  "id": "7fbd84f5-eaf1-4cc1-9683-e2ebb34526a8",
+  "object": "beer",
+  "name": "Paddington Bear",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

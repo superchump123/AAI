@@ -1,0 +1,11 @@
+{
+  "id": "a623e886-18ca-4f8d-861b-5f429aa1601b",
+  "object": "beer",
+  "name": "SIX",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

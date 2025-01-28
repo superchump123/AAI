@@ -1,0 +1,11 @@
+{
+  "id": "da80f5ba-e2f5-4499-83fc-bf6318f6f7c2",
+  "object": "beer",
+  "name": "Double Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

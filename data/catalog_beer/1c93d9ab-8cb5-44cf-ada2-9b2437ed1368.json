@@ -1,0 +1,11 @@
+{
+  "id": "1c93d9ab-8cb5-44cf-ada2-9b2437ed1368",
+  "object": "beer",
+  "name": "Copperhead Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

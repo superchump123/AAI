@@ -1,0 +1,11 @@
+{
+  "id": "2f38779e-16f4-46cd-a9ba-f81010e3e352",
+  "object": "beer",
+  "name": "Deep Sea Diving",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

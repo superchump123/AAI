@@ -1,0 +1,11 @@
+{
+  "id": "584aef03-6d83-4f74-803e-6ef57b8137bf",
+  "object": "beer",
+  "name": "Joey",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

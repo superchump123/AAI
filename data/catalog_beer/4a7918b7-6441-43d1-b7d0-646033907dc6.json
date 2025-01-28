@@ -1,0 +1,11 @@
+{
+  "id": "4a7918b7-6441-43d1-b7d0-646033907dc6",
+  "object": "beer",
+  "name": "Cariboo Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

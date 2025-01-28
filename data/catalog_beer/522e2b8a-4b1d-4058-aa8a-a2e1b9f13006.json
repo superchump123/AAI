@@ -1,0 +1,11 @@
+{
+  "id": "522e2b8a-4b1d-4058-aa8a-a2e1b9f13006",
+  "object": "beer",
+  "name": "Nico American Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

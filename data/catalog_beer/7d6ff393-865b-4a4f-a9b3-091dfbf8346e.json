@@ -1,0 +1,11 @@
+{
+  "id": "7d6ff393-865b-4a4f-a9b3-091dfbf8346e",
+  "object": "beer",
+  "name": "Waka Too",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

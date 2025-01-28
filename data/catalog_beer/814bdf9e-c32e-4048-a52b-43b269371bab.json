@@ -1,0 +1,11 @@
+{
+  "id": "814bdf9e-c32e-4048-a52b-43b269371bab",
+  "object": "beer",
+  "name": "Coffee Cascara Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

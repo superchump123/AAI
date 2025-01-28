@@ -1,0 +1,11 @@
+{
+  "id": "32a6877e-8e99-4b81-bd7c-4a6f43016d16",
+  "object": "beer",
+  "name": "Double or Nothing",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

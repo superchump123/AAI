@@ -1,0 +1,11 @@
+{
+  "id": "1b8e903b-0ac2-434a-9604-2da2d5367974",
+  "object": "beer",
+  "name": "The Hollow",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

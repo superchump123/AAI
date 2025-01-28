@@ -1,0 +1,11 @@
+{
+  "id": "18938050-678c-4abf-b7d3-e235c7b18bba",
+  "object": "beer",
+  "name": "Orange Infused Blonde Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

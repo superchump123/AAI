@@ -1,0 +1,11 @@
+{
+  "id": "df751bc4-fdc7-4e19-a5e2-63d87c4cc89d",
+  "object": "beer",
+  "name": "Cape of Good Hope",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

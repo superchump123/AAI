@@ -1,0 +1,11 @@
+{
+  "id": "0c73afb8-14be-41c0-a386-add2c35e82c6",
+  "object": "beer",
+  "name": "Limbo Champ",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

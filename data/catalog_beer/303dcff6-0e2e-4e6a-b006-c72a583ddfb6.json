@@ -1,0 +1,11 @@
+{
+  "id": "303dcff6-0e2e-4e6a-b006-c72a583ddfb6",
+  "object": "beer",
+  "name": "Vieux Temps",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

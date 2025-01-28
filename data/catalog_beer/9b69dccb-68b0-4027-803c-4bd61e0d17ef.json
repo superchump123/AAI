@@ -1,0 +1,11 @@
+{
+  "id": "9b69dccb-68b0-4027-803c-4bd61e0d17ef",
+  "object": "beer",
+  "name": "Keybilly",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b09e640-6476-4dba-bf09-071e3e9e8bb9",
+  "object": "beer",
+  "name": "Winter YuleSmith",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

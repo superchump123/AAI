@@ -1,0 +1,11 @@
+{
+  "id": "9c2db1da-1a78-410c-bc1e-72a64953561f",
+  "object": "beer",
+  "name": "Szech Sess",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

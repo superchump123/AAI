@@ -1,0 +1,11 @@
+{
+  "id": "6dd0b704-d627-4cea-885b-c413fa0fb9fa",
+  "object": "beer",
+  "name": "Obolon",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

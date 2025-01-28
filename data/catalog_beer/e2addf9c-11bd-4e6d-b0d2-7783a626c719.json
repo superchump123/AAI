@@ -1,0 +1,11 @@
+{
+  "id": "e2addf9c-11bd-4e6d-b0d2-7783a626c719",
+  "object": "beer",
+  "name": "Trade Street Tripel Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

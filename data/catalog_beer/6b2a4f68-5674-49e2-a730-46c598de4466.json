@@ -1,0 +1,11 @@
+{
+  "id": "6b2a4f68-5674-49e2-a730-46c598de4466",
+  "object": "beer",
+  "name": "Braddon Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

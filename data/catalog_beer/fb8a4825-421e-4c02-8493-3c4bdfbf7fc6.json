@@ -1,0 +1,11 @@
+{
+  "id": "fb8a4825-421e-4c02-8493-3c4bdfbf7fc6",
+  "object": "beer",
+  "name": "Lord Alesworth",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

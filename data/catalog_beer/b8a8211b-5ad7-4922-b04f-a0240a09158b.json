@@ -1,0 +1,11 @@
+{
+  "id": "b8a8211b-5ad7-4922-b04f-a0240a09158b",
+  "object": "beer",
+  "name": "Modern Comforts",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

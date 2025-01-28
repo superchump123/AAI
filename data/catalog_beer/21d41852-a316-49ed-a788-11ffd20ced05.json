@@ -1,0 +1,11 @@
+{
+  "id": "21d41852-a316-49ed-a788-11ffd20ced05",
+  "object": "beer",
+  "name": "Intercoastal Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

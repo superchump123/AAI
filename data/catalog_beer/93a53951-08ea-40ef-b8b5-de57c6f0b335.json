@@ -1,0 +1,11 @@
+{
+  "id": "93a53951-08ea-40ef-b8b5-de57c6f0b335",
+  "object": "beer",
+  "name": "Verry Cherry Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

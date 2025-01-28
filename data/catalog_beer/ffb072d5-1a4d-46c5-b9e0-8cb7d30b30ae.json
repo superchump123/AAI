@@ -1,0 +1,11 @@
+{
+  "id": "ffb072d5-1a4d-46c5-b9e0-8cb7d30b30ae",
+  "object": "beer",
+  "name": "Flatback IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

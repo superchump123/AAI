@@ -1,0 +1,11 @@
+{
+  "id": "a024324f-3775-4678-96f9-b17137376c91",
+  "object": "beer",
+  "name": "Executioner's Scotch Ale",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

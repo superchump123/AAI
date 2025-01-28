@@ -1,0 +1,11 @@
+{
+  "id": "ad23fc70-0c83-482e-be3e-4f18d462efae",
+  "object": "beer",
+  "name": "bark ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

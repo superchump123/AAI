@@ -1,0 +1,11 @@
+{
+  "id": "2e38f20d-443f-42c8-8a19-0415db9540ae",
+  "object": "beer",
+  "name": "5LB Sledgehammer",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

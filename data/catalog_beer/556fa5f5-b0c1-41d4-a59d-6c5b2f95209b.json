@@ -1,0 +1,11 @@
+{
+  "id": "556fa5f5-b0c1-41d4-a59d-6c5b2f95209b",
+  "object": "beer",
+  "name": "The Fluffer",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

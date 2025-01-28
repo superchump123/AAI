@@ -1,0 +1,11 @@
+{
+  "id": "6dfe6a51-1c74-4dab-9fa7-1f7ab645e86e",
+  "object": "beer",
+  "name": "Michigantuan",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

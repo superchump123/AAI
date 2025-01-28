@@ -1,0 +1,11 @@
+{
+  "id": "5f0ea78d-ba4a-49d9-bd25-e4fb2ae67011",
+  "object": "beer",
+  "name": "Mira",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

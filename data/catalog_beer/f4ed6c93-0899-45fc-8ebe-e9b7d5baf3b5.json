@@ -1,0 +1,11 @@
+{
+  "id": "f4ed6c93-0899-45fc-8ebe-e9b7d5baf3b5",
+  "object": "beer",
+  "name": "Olde Shaftbury IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

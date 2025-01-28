@@ -1,0 +1,11 @@
+{
+  "id": "950fa722-f70d-4ddc-addd-7c859f979aab",
+  "object": "beer",
+  "name": "Knotty Lotty Latte",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

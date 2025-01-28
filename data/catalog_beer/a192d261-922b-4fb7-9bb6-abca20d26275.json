@@ -1,0 +1,11 @@
+{
+  "id": "a192d261-922b-4fb7-9bb6-abca20d26275",
+  "object": "beer",
+  "name": "Kerlig Hell",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

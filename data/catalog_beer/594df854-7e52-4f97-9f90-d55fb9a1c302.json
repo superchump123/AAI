@@ -1,0 +1,11 @@
+{
+  "id": "594df854-7e52-4f97-9f90-d55fb9a1c302",
+  "object": "beer",
+  "name": "Pacific Pioneer Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

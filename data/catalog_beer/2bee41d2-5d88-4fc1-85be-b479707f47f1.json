@@ -1,0 +1,11 @@
+{
+  "id": "2bee41d2-5d88-4fc1-85be-b479707f47f1",
+  "object": "beer",
+  "name": "Sun Bear's Summer Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

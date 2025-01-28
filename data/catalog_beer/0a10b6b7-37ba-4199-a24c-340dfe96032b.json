@@ -1,0 +1,11 @@
+{
+  "id": "0a10b6b7-37ba-4199-a24c-340dfe96032b",
+  "object": "beer",
+  "name": "Flagship IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

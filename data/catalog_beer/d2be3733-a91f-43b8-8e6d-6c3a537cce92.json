@@ -1,0 +1,11 @@
+{
+  "id": "d2be3733-a91f-43b8-8e6d-6c3a537cce92",
+  "object": "beer",
+  "name": "Muse",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

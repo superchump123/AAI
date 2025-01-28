@@ -1,0 +1,11 @@
+{
+  "id": "ca527d48-2503-4389-86a9-a98b594e9cb6",
+  "object": "beer",
+  "name": "Beer Lao",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

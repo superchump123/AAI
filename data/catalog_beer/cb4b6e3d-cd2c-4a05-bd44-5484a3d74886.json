@@ -1,0 +1,11 @@
+{
+  "id": "cb4b6e3d-cd2c-4a05-bd44-5484a3d74886",
+  "object": "beer",
+  "name": "Lancaster Hop Buggy",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

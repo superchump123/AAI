@@ -1,0 +1,11 @@
+{
+  "id": "408bff77-86bf-4ed9-95c0-0043d89f8403",
+  "object": "beer",
+  "name": "Black Rhyno",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

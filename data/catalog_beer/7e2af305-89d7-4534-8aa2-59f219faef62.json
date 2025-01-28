@@ -1,0 +1,11 @@
+{
+  "id": "7e2af305-89d7-4534-8aa2-59f219faef62",
+  "object": "beer",
+  "name": "Bluff Creek Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

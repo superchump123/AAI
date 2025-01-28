@@ -1,0 +1,11 @@
+{
+  "id": "099037c2-b0ee-4f65-a7c7-e7e4bf0966cf",
+  "object": "beer",
+  "name": "Senor Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

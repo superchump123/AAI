@@ -1,0 +1,11 @@
+{
+  "id": "1e2e79de-989f-4137-9107-6ffd69d319aa",
+  "object": "beer",
+  "name": "Happy Otter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

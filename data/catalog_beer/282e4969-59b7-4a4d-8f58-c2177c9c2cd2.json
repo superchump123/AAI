@@ -1,0 +1,11 @@
+{
+  "id": "282e4969-59b7-4a4d-8f58-c2177c9c2cd2",
+  "object": "beer",
+  "name": "Forest Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

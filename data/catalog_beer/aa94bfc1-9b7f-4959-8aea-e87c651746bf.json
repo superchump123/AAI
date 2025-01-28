@@ -1,0 +1,11 @@
+{
+  "id": "aa94bfc1-9b7f-4959-8aea-e87c651746bf",
+  "object": "beer",
+  "name": "The Trollop",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

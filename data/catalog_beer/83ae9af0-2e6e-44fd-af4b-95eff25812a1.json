@@ -1,0 +1,11 @@
+{
+  "id": "83ae9af0-2e6e-44fd-af4b-95eff25812a1",
+  "object": "beer",
+  "name": "Red Tape Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92fd6bc1-1e86-45ca-9213-52c0ba7abc71",
+  "object": "beer",
+  "name": "Peacemaker",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

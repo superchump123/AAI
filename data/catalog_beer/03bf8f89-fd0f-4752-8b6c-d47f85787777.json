@@ -1,0 +1,11 @@
+{
+  "id": "03bf8f89-fd0f-4752-8b6c-d47f85787777",
+  "object": "beer",
+  "name": "Apple Champagne",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

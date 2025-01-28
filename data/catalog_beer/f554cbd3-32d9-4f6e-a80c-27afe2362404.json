@@ -1,0 +1,11 @@
+{
+  "id": "f554cbd3-32d9-4f6e-a80c-27afe2362404",
+  "object": "beer",
+  "name": "Drioma",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7a57e75a-2683-45a9-895b-3d2c8b2ee98a",
+  "object": "beer",
+  "name": "Desperado Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d559c9db-da94-42df-9d63-c47f2deb0d79",
+  "object": "beer",
+  "name": "An Ri Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

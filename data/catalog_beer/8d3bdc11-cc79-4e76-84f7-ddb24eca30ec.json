@@ -1,0 +1,11 @@
+{
+  "id": "8d3bdc11-cc79-4e76-84f7-ddb24eca30ec",
+  "object": "beer",
+  "name": "Lemon Shandy",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "62e5627b-fc85-470d-93ca-e38c609c4469",
+  "object": "beer",
+  "name": "PFunk",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e4e59093-9c0b-4d0c-b927-4730ce940bfc",
+  "object": "beer",
+  "name": "Longwood Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

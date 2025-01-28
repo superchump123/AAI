@@ -1,0 +1,11 @@
+{
+  "id": "2234fc85-6fa7-4bdb-8669-5097c197ec26",
+  "object": "beer",
+  "name": "Cafe Ink",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

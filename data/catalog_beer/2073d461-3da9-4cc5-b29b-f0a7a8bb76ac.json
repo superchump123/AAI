@@ -1,0 +1,11 @@
+{
+  "id": "2073d461-3da9-4cc5-b29b-f0a7a8bb76ac",
+  "object": "beer",
+  "name": "Two Face",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 176,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

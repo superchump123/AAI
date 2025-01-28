@@ -1,0 +1,11 @@
+{
+  "id": "b94f3c67-301c-41f7-8f4d-a89ca79f95d4",
+  "object": "beer",
+  "name": "Hundo Annie",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

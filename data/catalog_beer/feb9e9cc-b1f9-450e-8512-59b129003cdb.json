@@ -1,0 +1,11 @@
+{
+  "id": "feb9e9cc-b1f9-450e-8512-59b129003cdb",
+  "object": "beer",
+  "name": "Lower Straits Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

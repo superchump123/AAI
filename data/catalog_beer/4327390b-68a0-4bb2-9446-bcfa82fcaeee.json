@@ -1,0 +1,11 @@
+{
+  "id": "4327390b-68a0-4bb2-9446-bcfa82fcaeee",
+  "object": "beer",
+  "name": "Lacto-Matic Milk Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

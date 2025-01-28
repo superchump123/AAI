@@ -1,0 +1,11 @@
+{
+  "id": "20072bd7-bfde-495d-9659-b1e1a7410f00",
+  "object": "beer",
+  "name": "M\u00e4rzenbier",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

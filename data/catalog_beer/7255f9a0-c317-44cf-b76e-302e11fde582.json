@@ -1,0 +1,11 @@
+{
+  "id": "7255f9a0-c317-44cf-b76e-302e11fde582",
+  "object": "beer",
+  "name": "La Plata Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

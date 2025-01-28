@@ -1,0 +1,11 @@
+{
+  "id": "9cc1ce62-eb74-4477-a9da-1819e33f7b0a",
+  "object": "beer",
+  "name": "Nawt A Cawp",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

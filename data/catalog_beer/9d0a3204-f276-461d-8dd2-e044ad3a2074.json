@@ -1,0 +1,11 @@
+{
+  "id": "9d0a3204-f276-461d-8dd2-e044ad3a2074",
+  "object": "beer",
+  "name": "Demogorgon",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

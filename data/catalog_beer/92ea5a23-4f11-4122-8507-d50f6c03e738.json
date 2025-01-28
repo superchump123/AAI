@@ -1,0 +1,11 @@
+{
+  "id": "92ea5a23-4f11-4122-8507-d50f6c03e738",
+  "object": "beer",
+  "name": "Sur Simcoe",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

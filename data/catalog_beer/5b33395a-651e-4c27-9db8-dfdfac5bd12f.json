@@ -1,0 +1,11 @@
+{
+  "id": "5b33395a-651e-4c27-9db8-dfdfac5bd12f",
+  "object": "beer",
+  "name": "Hare of the Dog",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

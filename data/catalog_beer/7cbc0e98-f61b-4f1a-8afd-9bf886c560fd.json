@@ -1,0 +1,11 @@
+{
+  "id": "7cbc0e98-f61b-4f1a-8afd-9bf886c560fd",
+  "object": "beer",
+  "name": "The Houblonic Belgian IPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

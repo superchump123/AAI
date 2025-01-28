@@ -1,0 +1,11 @@
+{
+  "id": "0371ec82-30e3-4b92-88e1-33d007419d6b",
+  "object": "beer",
+  "name": "Float Away IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

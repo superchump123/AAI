@@ -1,0 +1,11 @@
+{
+  "id": "1b039513-74a7-4445-aafd-9edecd253268",
+  "object": "beer",
+  "name": "21st Amendment Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7390ba6c-41a3-4797-b7c5-0ebd93a7cca6",
+  "object": "beer",
+  "name": "Saint Petersburg",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

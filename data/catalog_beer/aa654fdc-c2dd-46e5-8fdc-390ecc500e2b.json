@@ -1,0 +1,11 @@
+{
+  "id": "aa654fdc-c2dd-46e5-8fdc-390ecc500e2b",
+  "object": "beer",
+  "name": "Abbaye de Saint-Martin Ambr\u00e9e",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

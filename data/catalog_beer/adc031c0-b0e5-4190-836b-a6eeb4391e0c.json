@@ -1,0 +1,11 @@
+{
+  "id": "adc031c0-b0e5-4190-836b-a6eeb4391e0c",
+  "object": "beer",
+  "name": "The Crisp",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

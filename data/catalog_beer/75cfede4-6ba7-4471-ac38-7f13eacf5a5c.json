@@ -1,0 +1,11 @@
+{
+  "id": "75cfede4-6ba7-4471-ac38-7f13eacf5a5c",
+  "object": "beer",
+  "name": "Top of the Charts",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

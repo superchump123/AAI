@@ -1,0 +1,11 @@
+{
+  "id": "eedf050c-df74-4d92-90cd-7f379d205d2a",
+  "object": "beer",
+  "name": "Fuel Cafe",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

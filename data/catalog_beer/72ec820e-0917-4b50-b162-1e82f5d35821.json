@@ -1,0 +1,11 @@
+{
+  "id": "72ec820e-0917-4b50-b162-1e82f5d35821",
+  "object": "beer",
+  "name": "Man Vs Internet",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 94,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

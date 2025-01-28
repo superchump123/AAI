@@ -1,0 +1,11 @@
+{
+  "id": "5cadb884-cadc-4027-9da9-2dde49e5c100",
+  "object": "beer",
+  "name": "Ringmaster",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

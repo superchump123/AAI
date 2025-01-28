@@ -1,0 +1,11 @@
+{
+  "id": "61d737c4-717d-4476-b117-b1d58942fad3",
+  "object": "beer",
+  "name": "Lyric Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

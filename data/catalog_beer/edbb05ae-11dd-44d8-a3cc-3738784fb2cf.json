@@ -1,0 +1,11 @@
+{
+  "id": "edbb05ae-11dd-44d8-a3cc-3738784fb2cf",
+  "object": "beer",
+  "name": "Papa Louie's Test Batch #7",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

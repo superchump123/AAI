@@ -1,0 +1,11 @@
+{
+  "id": "6268ce10-a385-48dd-8513-9da48d4a2268",
+  "object": "beer",
+  "name": "Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

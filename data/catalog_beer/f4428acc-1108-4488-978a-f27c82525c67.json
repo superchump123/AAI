@@ -1,0 +1,11 @@
+{
+  "id": "f4428acc-1108-4488-978a-f27c82525c67",
+  "object": "beer",
+  "name": "Smokin' Scottish",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

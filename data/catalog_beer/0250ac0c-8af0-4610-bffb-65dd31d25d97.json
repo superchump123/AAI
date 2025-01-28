@@ -1,0 +1,11 @@
+{
+  "id": "0250ac0c-8af0-4610-bffb-65dd31d25d97",
+  "object": "beer",
+  "name": "White Belgo Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

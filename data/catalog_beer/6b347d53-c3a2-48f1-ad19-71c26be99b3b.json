@@ -1,0 +1,11 @@
+{
+  "id": "6b347d53-c3a2-48f1-ad19-71c26be99b3b",
+  "object": "beer",
+  "name": "HSB",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

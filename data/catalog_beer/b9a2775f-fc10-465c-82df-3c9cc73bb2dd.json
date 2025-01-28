@@ -1,0 +1,11 @@
+{
+  "id": "b9a2775f-fc10-465c-82df-3c9cc73bb2dd",
+  "object": "beer",
+  "name": "Semitone IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

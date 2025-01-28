@@ -1,0 +1,11 @@
+{
+  "id": "16dd31db-edce-4502-a79f-a0e63f7792ae",
+  "object": "beer",
+  "name": "Double Chocolate Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

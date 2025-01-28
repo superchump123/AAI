@@ -1,0 +1,11 @@
+{
+  "id": "d1ad9f5c-5bfd-4f36-97ef-a63d99369941",
+  "object": "beer",
+  "name": "Cosmati Mosaic",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 102,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

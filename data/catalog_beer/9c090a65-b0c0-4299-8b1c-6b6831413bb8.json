@@ -1,0 +1,11 @@
+{
+  "id": "9c090a65-b0c0-4299-8b1c-6b6831413bb8",
+  "object": "beer",
+  "name": "Harpoon Winter Warmer",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

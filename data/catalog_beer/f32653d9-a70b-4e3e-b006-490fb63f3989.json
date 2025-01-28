@@ -1,0 +1,11 @@
+{
+  "id": "f32653d9-a70b-4e3e-b006-490fb63f3989",
+  "object": "beer",
+  "name": "Night & Day",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

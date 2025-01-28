@@ -1,0 +1,11 @@
+{
+  "id": "2941254c-d84a-4cc8-9bdd-9873b1df5044",
+  "object": "beer",
+  "name": "Red Handed",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

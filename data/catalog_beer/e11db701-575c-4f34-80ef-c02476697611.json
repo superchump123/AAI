@@ -1,0 +1,11 @@
+{
+  "id": "e11db701-575c-4f34-80ef-c02476697611",
+  "object": "beer",
+  "name": "Riverwatch Oktoberfest Lager",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "79f85d9c-ca7e-4448-ac31-8405b9e73c9e",
+  "object": "beer",
+  "name": "Irish Lager",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

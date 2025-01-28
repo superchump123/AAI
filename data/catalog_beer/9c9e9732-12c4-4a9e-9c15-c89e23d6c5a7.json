@@ -1,0 +1,11 @@
+{
+  "id": "9c9e9732-12c4-4a9e-9c15-c89e23d6c5a7",
+  "object": "beer",
+  "name": "Hell for Certain",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

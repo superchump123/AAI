@@ -1,0 +1,11 @@
+{
+  "id": "363333d6-d102-4cce-9fc1-d2ab92104021",
+  "object": "beer",
+  "name": "Dark Matter",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

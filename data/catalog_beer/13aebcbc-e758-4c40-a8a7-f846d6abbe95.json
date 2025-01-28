@@ -1,0 +1,11 @@
+{
+  "id": "13aebcbc-e758-4c40-a8a7-f846d6abbe95",
+  "object": "beer",
+  "name": "Holy the Voyd",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

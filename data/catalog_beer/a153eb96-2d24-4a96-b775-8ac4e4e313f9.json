@@ -1,0 +1,11 @@
+{
+  "id": "a153eb96-2d24-4a96-b775-8ac4e4e313f9",
+  "object": "beer",
+  "name": "Tartastic",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 3,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

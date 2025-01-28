@@ -1,0 +1,11 @@
+{
+  "id": "8a1484da-0c1e-4dd6-aa3a-d86f7750e66a",
+  "object": "beer",
+  "name": "Me & The Dev-Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

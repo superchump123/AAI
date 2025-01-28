@@ -1,0 +1,11 @@
+{
+  "id": "f84f2c9f-31bb-4adc-8a54-68a7647248c1",
+  "object": "beer",
+  "name": "Local Gold Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

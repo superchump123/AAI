@@ -1,0 +1,11 @@
+{
+  "id": "8240feac-db77-4e62-be49-3af3556ca439",
+  "object": "beer",
+  "name": "Trooper IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

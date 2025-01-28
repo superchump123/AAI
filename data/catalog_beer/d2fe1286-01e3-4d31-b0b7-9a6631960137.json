@@ -1,0 +1,11 @@
+{
+  "id": "d2fe1286-01e3-4d31-b0b7-9a6631960137",
+  "object": "beer",
+  "name": "Fool's Gold Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

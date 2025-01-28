@@ -1,0 +1,11 @@
+{
+  "id": "8f8ba375-23df-4d48-b952-0de7b841567a",
+  "object": "beer",
+  "name": "The Embalmer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

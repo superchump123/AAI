@@ -1,0 +1,11 @@
+{
+  "id": "a1238489-8ded-42f3-9672-b394559a302a",
+  "object": "beer",
+  "name": "Peachy Peach",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

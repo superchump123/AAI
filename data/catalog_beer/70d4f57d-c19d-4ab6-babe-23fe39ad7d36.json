@@ -1,0 +1,11 @@
+{
+  "id": "70d4f57d-c19d-4ab6-babe-23fe39ad7d36",
+  "object": "beer",
+  "name": "Hop House",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

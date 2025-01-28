@@ -1,0 +1,11 @@
+{
+  "id": "1f352948-2ec5-4d54-9a74-d94bc511e15f",
+  "object": "beer",
+  "name": "Natural Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

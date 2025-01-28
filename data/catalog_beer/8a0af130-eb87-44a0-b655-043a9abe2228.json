@@ -1,0 +1,11 @@
+{
+  "id": "8a0af130-eb87-44a0-b655-043a9abe2228",
+  "object": "beer",
+  "name": "Traditional Cider",
+  "style": "English Cider",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

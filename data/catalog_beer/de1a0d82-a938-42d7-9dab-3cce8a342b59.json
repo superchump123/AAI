@@ -1,0 +1,11 @@
+{
+  "id": "de1a0d82-a938-42d7-9dab-3cce8a342b59",
+  "object": "beer",
+  "name": "La Perouse White Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

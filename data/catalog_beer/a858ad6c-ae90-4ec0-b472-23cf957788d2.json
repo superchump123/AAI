@@ -1,0 +1,11 @@
+{
+  "id": "a858ad6c-ae90-4ec0-b472-23cf957788d2",
+  "object": "beer",
+  "name": "Rein Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

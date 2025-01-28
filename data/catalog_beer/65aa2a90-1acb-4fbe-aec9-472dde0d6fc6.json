@@ -1,0 +1,11 @@
+{
+  "id": "65aa2a90-1acb-4fbe-aec9-472dde0d6fc6",
+  "object": "beer",
+  "name": "USS Enterprise IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

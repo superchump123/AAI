@@ -1,0 +1,11 @@
+{
+  "id": "3365db30-8fbe-4699-bc2b-d2d086a83c0e",
+  "object": "beer",
+  "name": "Unfiltered Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

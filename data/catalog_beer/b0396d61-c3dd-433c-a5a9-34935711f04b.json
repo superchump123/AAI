@@ -1,0 +1,11 @@
+{
+  "id": "b0396d61-c3dd-433c-a5a9-34935711f04b",
+  "object": "beer",
+  "name": "Roggen",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

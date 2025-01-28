@@ -1,0 +1,11 @@
+{
+  "id": "4c1e8719-681e-49cb-9f90-628010224567",
+  "object": "beer",
+  "name": "Saxo",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "12ced059-a9b6-424f-a181-4a7d0e8e895c",
+  "object": "beer",
+  "name": "Buckshot Oktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

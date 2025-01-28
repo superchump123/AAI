@@ -1,0 +1,11 @@
+{
+  "id": "bbfc36e2-b7fa-4874-897a-6145beeea1fa",
+  "object": "beer",
+  "name": "Cariboo Honey Lager",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "81b0cef6-3d57-4f3e-8730-7ff5da6f9b65",
+  "object": "beer",
+  "name": "Peachy Apribot",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

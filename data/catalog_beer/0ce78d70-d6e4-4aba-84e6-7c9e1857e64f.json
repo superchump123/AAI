@@ -1,0 +1,11 @@
+{
+  "id": "0ce78d70-d6e4-4aba-84e6-7c9e1857e64f",
+  "object": "beer",
+  "name": "Ashburner Dunkel Lager",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

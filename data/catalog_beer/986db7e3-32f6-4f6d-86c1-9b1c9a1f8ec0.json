@@ -1,0 +1,11 @@
+{
+  "id": "986db7e3-32f6-4f6d-86c1-9b1c9a1f8ec0",
+  "object": "beer",
+  "name": "Friend Request",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

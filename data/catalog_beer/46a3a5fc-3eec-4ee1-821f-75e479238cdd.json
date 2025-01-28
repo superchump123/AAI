@@ -1,0 +1,11 @@
+{
+  "id": "46a3a5fc-3eec-4ee1-821f-75e479238cdd",
+  "object": "beer",
+  "name": "Cascadian Light Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

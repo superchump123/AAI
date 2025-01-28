@@ -1,0 +1,11 @@
+{
+  "id": "d9e344b9-b147-4f13-a571-62d0c220fd7a",
+  "object": "beer",
+  "name": "King Gose Home",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 6,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

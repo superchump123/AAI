@@ -1,0 +1,11 @@
+{
+  "id": "1df59481-2393-4410-8a4d-e25282483a23",
+  "object": "beer",
+  "name": "Amager Common",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

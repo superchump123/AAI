@@ -1,0 +1,11 @@
+{
+  "id": "f135bd56-0606-45ac-90db-302d19fd5a4c",
+  "object": "beer",
+  "name": "Lil Hellion",
+  "style": "Bamberg-Style Helles Rauchbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

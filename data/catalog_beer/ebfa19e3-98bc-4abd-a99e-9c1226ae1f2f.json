@@ -1,0 +1,11 @@
+{
+  "id": "ebfa19e3-98bc-4abd-a99e-9c1226ae1f2f",
+  "object": "beer",
+  "name": "Tart Cherry Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

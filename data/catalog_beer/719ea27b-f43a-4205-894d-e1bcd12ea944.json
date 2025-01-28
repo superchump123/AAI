@@ -1,0 +1,11 @@
+{
+  "id": "719ea27b-f43a-4205-894d-e1bcd12ea944",
+  "object": "beer",
+  "name": "Schwelmer Messing",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

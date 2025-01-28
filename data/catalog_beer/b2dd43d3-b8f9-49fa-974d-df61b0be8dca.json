@@ -1,0 +1,11 @@
+{
+  "id": "b2dd43d3-b8f9-49fa-974d-df61b0be8dca",
+  "object": "beer",
+  "name": "Babylone",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

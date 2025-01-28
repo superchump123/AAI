@@ -1,0 +1,11 @@
+{
+  "id": "60eca281-793e-4757-87a5-a29abb37c3ab",
+  "object": "beer",
+  "name": "McLaughlin\u2019s RedEye",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

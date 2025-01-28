@@ -1,0 +1,11 @@
+{
+  "id": "43b909a4-4202-4feb-8471-50d3ab4c9e56",
+  "object": "beer",
+  "name": "Hat Tip",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

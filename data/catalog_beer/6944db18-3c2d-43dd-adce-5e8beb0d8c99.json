@@ -1,0 +1,11 @@
+{
+  "id": "6944db18-3c2d-43dd-adce-5e8beb0d8c99",
+  "object": "beer",
+  "name": "Wanderlust",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

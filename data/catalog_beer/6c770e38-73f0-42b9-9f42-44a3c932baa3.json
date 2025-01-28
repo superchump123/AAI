@@ -1,0 +1,11 @@
+{
+  "id": "6c770e38-73f0-42b9-9f42-44a3c932baa3",
+  "object": "beer",
+  "name": "Cruiser All Day Pale Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

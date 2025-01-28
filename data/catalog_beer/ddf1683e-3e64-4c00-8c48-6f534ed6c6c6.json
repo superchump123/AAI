@@ -1,0 +1,11 @@
+{
+  "id": "ddf1683e-3e64-4c00-8c48-6f534ed6c6c6",
+  "object": "beer",
+  "name": "Genziana",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

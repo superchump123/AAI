@@ -1,0 +1,11 @@
+{
+  "id": "37e8057b-8ce6-47cb-82cb-b87790e3465b",
+  "object": "beer",
+  "name": "Three On the Tree",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d7f24248-9030-42d6-a619-167962ef8040",
+  "object": "beer",
+  "name": "Docktor Dunklesweizen",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d7544c4d-659e-490d-9cd0-d014a559158a",
+  "object": "beer",
+  "name": "Nasty Woman",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11.3,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "63f3ae51-999a-4bbd-b3e7-cdf2fc0accce",
+  "object": "beer",
+  "name": "Summer Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

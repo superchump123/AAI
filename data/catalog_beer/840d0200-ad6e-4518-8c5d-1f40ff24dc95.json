@@ -1,0 +1,11 @@
+{
+  "id": "840d0200-ad6e-4518-8c5d-1f40ff24dc95",
+  "object": "beer",
+  "name": "Duck-Rabbit Duck-Rabbator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

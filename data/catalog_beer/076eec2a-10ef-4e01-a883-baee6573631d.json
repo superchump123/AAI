@@ -1,0 +1,11 @@
+{
+  "id": "076eec2a-10ef-4e01-a883-baee6573631d",
+  "object": "beer",
+  "name": "Black Lodge",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

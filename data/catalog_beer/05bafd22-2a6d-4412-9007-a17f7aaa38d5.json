@@ -1,0 +1,11 @@
+{
+  "id": "05bafd22-2a6d-4412-9007-a17f7aaa38d5",
+  "object": "beer",
+  "name": "Oarkiller",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

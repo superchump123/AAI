@@ -1,0 +1,11 @@
+{
+  "id": "8888b00a-ac67-4116-a390-4bd19192a7ed",
+  "object": "beer",
+  "name": "Fire House Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

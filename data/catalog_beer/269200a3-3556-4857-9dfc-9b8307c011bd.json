@@ -1,0 +1,11 @@
+{
+  "id": "269200a3-3556-4857-9dfc-9b8307c011bd",
+  "object": "beer",
+  "name": "India Pale Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

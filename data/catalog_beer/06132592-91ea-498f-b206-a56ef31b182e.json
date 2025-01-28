@@ -1,0 +1,11 @@
+{
+  "id": "06132592-91ea-498f-b206-a56ef31b182e",
+  "object": "beer",
+  "name": "Run Around Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

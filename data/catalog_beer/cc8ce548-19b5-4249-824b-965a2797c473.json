@@ -1,0 +1,11 @@
+{
+  "id": "cc8ce548-19b5-4249-824b-965a2797c473",
+  "object": "beer",
+  "name": "Joe-SMASH",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

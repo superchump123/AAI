@@ -1,0 +1,11 @@
+{
+  "id": "339c8be7-e2bf-49dd-870e-2e5aae4da35d",
+  "object": "beer",
+  "name": "Tikka Gold",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

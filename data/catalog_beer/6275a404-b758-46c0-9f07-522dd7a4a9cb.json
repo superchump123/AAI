@@ -1,0 +1,11 @@
+{
+  "id": "6275a404-b758-46c0-9f07-522dd7a4a9cb",
+  "object": "beer",
+  "name": "Juiced Grapefruit Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

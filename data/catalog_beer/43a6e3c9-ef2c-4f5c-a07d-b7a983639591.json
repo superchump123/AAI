@@ -1,0 +1,11 @@
+{
+  "id": "43a6e3c9-ef2c-4f5c-a07d-b7a983639591",
+  "object": "beer",
+  "name": "Third Wave IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

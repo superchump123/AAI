@@ -1,0 +1,11 @@
+{
+  "id": "e74d0855-e29a-4ff8-b368-fe98043b51e8",
+  "object": "beer",
+  "name": "Foul Weather Jack",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

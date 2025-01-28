@@ -1,0 +1,11 @@
+{
+  "id": "609ec1a5-daef-4db6-a621-ac0de873b735",
+  "object": "beer",
+  "name": "Oregon Alley Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

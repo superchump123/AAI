@@ -1,0 +1,11 @@
+{
+  "id": "69ce600e-a91c-44ef-b691-fcee535f8c3a",
+  "object": "beer",
+  "name": "Hooligan Nitro",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

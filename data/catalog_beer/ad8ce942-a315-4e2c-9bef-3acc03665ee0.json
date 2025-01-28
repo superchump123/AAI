@@ -1,0 +1,11 @@
+{
+  "id": "ad8ce942-a315-4e2c-9bef-3acc03665ee0",
+  "object": "beer",
+  "name": "Siracusa Nera",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

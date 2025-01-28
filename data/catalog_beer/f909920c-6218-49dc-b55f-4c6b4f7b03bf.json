@@ -1,0 +1,11 @@
+{
+  "id": "f909920c-6218-49dc-b55f-4c6b4f7b03bf",
+  "object": "beer",
+  "name": "Scannon Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

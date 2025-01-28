@@ -1,0 +1,11 @@
+{
+  "id": "14c653a4-20fc-406c-843a-2723775d844a",
+  "object": "beer",
+  "name": "Twenty-Plus",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "757fa17a-7c45-435e-91fb-a09cfc6d5a3d",
+  "object": "beer",
+  "name": "Back Country Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

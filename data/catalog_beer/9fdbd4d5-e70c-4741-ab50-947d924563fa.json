@@ -1,0 +1,11 @@
+{
+  "id": "9fdbd4d5-e70c-4741-ab50-947d924563fa",
+  "object": "beer",
+  "name": "Demeter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

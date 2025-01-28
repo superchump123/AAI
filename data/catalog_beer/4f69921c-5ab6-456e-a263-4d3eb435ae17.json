@@ -1,0 +1,11 @@
+{
+  "id": "4f69921c-5ab6-456e-a263-4d3eb435ae17",
+  "object": "beer",
+  "name": "Victoria Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

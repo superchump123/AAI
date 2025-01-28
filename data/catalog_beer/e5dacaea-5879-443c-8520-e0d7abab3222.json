@@ -1,0 +1,11 @@
+{
+  "id": "e5dacaea-5879-443c-8520-e0d7abab3222",
+  "object": "beer",
+  "name": "Mangifera",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

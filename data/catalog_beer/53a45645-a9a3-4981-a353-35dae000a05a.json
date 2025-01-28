@@ -1,0 +1,11 @@
+{
+  "id": "53a45645-a9a3-4981-a353-35dae000a05a",
+  "object": "beer",
+  "name": "Morro Castle",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

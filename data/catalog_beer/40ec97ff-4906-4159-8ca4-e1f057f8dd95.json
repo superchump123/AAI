@@ -1,0 +1,11 @@
+{
+  "id": "40ec97ff-4906-4159-8ca4-e1f057f8dd95",
+  "object": "beer",
+  "name": "Tart Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7c283232-672c-49be-a512-2b54259553f7",
+  "object": "beer",
+  "name": "Digital IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c19f7301-c9c1-46e6-bcc7-c75a5a8bbb9e",
+  "object": "beer",
+  "name": "Laika Boss",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

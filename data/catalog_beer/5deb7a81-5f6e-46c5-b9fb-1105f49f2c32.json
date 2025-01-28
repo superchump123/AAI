@@ -1,0 +1,11 @@
+{
+  "id": "5deb7a81-5f6e-46c5-b9fb-1105f49f2c32",
+  "object": "beer",
+  "name": "Kriek Boon",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

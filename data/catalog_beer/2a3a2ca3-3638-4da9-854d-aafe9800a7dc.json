@@ -1,0 +1,11 @@
+{
+  "id": "2a3a2ca3-3638-4da9-854d-aafe9800a7dc",
+  "object": "beer",
+  "name": "Fluxus '07",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

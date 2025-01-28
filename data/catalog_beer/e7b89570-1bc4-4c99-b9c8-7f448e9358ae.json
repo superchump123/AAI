@@ -1,0 +1,11 @@
+{
+  "id": "e7b89570-1bc4-4c99-b9c8-7f448e9358ae",
+  "object": "beer",
+  "name": "60 Shilling Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

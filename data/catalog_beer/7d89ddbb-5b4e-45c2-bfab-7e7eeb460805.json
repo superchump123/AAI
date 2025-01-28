@@ -1,0 +1,11 @@
+{
+  "id": "7d89ddbb-5b4e-45c2-bfab-7e7eeb460805",
+  "object": "beer",
+  "name": "Red Sky Rye",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

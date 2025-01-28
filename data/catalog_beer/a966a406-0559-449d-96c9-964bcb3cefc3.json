@@ -1,0 +1,11 @@
+{
+  "id": "a966a406-0559-449d-96c9-964bcb3cefc3",
+  "object": "beer",
+  "name": "Glorious",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

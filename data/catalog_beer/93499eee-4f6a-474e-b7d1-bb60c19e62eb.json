@@ -1,0 +1,11 @@
+{
+  "id": "93499eee-4f6a-474e-b7d1-bb60c19e62eb",
+  "object": "beer",
+  "name": "Sunny Side Up",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

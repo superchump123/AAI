@@ -1,0 +1,11 @@
+{
+  "id": "2b98139f-21cb-4234-a4ed-85e4a1b02306",
+  "object": "beer",
+  "name": "GigaBoss Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

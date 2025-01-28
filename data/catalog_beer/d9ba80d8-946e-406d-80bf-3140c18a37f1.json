@@ -1,0 +1,11 @@
+{
+  "id": "d9ba80d8-946e-406d-80bf-3140c18a37f1",
+  "object": "beer",
+  "name": "Kumquat Weiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

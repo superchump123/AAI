@@ -1,0 +1,11 @@
+{
+  "id": "80154ebf-e336-4143-80d8-9831a5bf54e3",
+  "object": "beer",
+  "name": "Duelist with Blackberries",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

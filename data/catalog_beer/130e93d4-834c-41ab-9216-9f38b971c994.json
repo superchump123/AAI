@@ -1,0 +1,11 @@
+{
+  "id": "130e93d4-834c-41ab-9216-9f38b971c994",
+  "object": "beer",
+  "name": "Cherry Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

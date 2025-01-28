@@ -1,0 +1,11 @@
+{
+  "id": "973c4083-fb37-49ac-a78e-a2def99487d3",
+  "object": "beer",
+  "name": "Chunkin Punkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "099ffb99-b27d-4eb0-9694-684540523abf",
+  "object": "beer",
+  "name": "Barley Wine \"2010\"",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

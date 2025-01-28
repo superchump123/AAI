@@ -1,0 +1,11 @@
+{
+  "id": "b7bc155f-3fc1-48b8-b3bf-6977af4b770e",
+  "object": "beer",
+  "name": "Gavroche",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

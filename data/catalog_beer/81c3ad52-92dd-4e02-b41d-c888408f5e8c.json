@@ -1,0 +1,11 @@
+{
+  "id": "81c3ad52-92dd-4e02-b41d-c888408f5e8c",
+  "object": "beer",
+  "name": "Charter Oak's Wadsworth IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

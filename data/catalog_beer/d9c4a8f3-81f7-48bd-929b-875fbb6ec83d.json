@@ -1,0 +1,11 @@
+{
+  "id": "d9c4a8f3-81f7-48bd-929b-875fbb6ec83d",
+  "object": "beer",
+  "name": "Gull Classic",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "286a40f0-5e11-4981-b978-f5624e6e618b",
+  "object": "beer",
+  "name": "Triple Nouveau Monde",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

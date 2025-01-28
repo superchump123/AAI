@@ -1,0 +1,11 @@
+{
+  "id": "02e06097-9e92-4fd3-8c66-2389ee835b3e",
+  "object": "beer",
+  "name": "Slam Piece",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

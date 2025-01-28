@@ -1,0 +1,11 @@
+{
+  "id": "37cde93f-2f5b-477e-bd0a-abfd91fe82b3",
+  "object": "beer",
+  "name": "Grace Anne Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

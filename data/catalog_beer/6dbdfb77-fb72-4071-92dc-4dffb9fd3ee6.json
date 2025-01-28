@@ -1,0 +1,11 @@
+{
+  "id": "6dbdfb77-fb72-4071-92dc-4dffb9fd3ee6",
+  "object": "beer",
+  "name": "12 oz. Curl",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

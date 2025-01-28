@@ -1,0 +1,11 @@
+{
+  "id": "13f21aab-f9a2-4b80-bc46-09f586540115",
+  "object": "beer",
+  "name": "Pepe Nero",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

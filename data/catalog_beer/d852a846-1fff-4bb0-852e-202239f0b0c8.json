@@ -1,0 +1,11 @@
+{
+  "id": "d852a846-1fff-4bb0-852e-202239f0b0c8",
+  "object": "beer",
+  "name": "Dark Racer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

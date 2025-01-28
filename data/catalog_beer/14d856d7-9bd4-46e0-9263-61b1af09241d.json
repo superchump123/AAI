@@ -1,0 +1,11 @@
+{
+  "id": "14d856d7-9bd4-46e0-9263-61b1af09241d",
+  "object": "beer",
+  "name": "Paderborner Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

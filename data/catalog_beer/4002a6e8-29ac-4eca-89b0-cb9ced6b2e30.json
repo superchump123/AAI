@@ -1,0 +1,11 @@
+{
+  "id": "4002a6e8-29ac-4eca-89b0-cb9ced6b2e30",
+  "object": "beer",
+  "name": "Ned & George Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

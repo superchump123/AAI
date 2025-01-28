@@ -1,0 +1,11 @@
+{
+  "id": "2bb3f145-a4d4-4b8b-9e5e-767de4c693cd",
+  "object": "beer",
+  "name": "Ancho Chile IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

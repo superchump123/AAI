@@ -1,0 +1,11 @@
+{
+  "id": "4aa3568b-c5da-4bc4-ad59-feb3a1e48fa2",
+  "object": "beer",
+  "name": "Premium Session Bold Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "816da4aa-b3ea-4292-824b-f026d8e05de0",
+  "object": "beer",
+  "name": "80 Schilling",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

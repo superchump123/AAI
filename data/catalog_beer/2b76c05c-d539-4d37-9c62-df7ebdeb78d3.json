@@ -1,0 +1,11 @@
+{
+  "id": "2b76c05c-d539-4d37-9c62-df7ebdeb78d3",
+  "object": "beer",
+  "name": "Hot Fuzzz",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

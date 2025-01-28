@@ -1,0 +1,11 @@
+{
+  "id": "da908344-5f92-4900-9980-7b9b10535d3a",
+  "object": "beer",
+  "name": "Sussex Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

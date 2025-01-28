@@ -1,0 +1,11 @@
+{
+  "id": "e452acdf-d588-4468-93f1-1947d37540ac",
+  "object": "beer",
+  "name": "Momentum Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

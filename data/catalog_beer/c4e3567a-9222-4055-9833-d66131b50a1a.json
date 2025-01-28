@@ -1,0 +1,11 @@
+{
+  "id": "c4e3567a-9222-4055-9833-d66131b50a1a",
+  "object": "beer",
+  "name": "Black Horse Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

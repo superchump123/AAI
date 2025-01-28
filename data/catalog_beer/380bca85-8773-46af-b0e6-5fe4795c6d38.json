@@ -1,0 +1,11 @@
+{
+  "id": "380bca85-8773-46af-b0e6-5fe4795c6d38",
+  "object": "beer",
+  "name": "LIVING HELLES",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

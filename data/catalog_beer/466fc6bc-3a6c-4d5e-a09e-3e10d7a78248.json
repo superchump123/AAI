@@ -1,0 +1,11 @@
+{
+  "id": "466fc6bc-3a6c-4d5e-a09e-3e10d7a78248",
+  "object": "beer",
+  "name": "Giengener Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

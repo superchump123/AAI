@@ -1,0 +1,11 @@
+{
+  "id": "6445651b-a869-4f17-9a8b-b66ba09cf49f",
+  "object": "beer",
+  "name": "Bone Crusher",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

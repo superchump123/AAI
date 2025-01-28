@@ -1,0 +1,11 @@
+{
+  "id": "a7a48cc9-5282-4d61-bd23-00c5186ce232",
+  "object": "beer",
+  "name": "La Blanche du Qu\u00e9bec",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

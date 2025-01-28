@@ -1,0 +1,11 @@
+{
+  "id": "1b508036-1330-48c0-8ece-3979b3a079f7",
+  "object": "beer",
+  "name": "The White Lodge",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

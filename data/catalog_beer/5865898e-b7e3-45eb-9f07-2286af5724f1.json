@@ -1,0 +1,11 @@
+{
+  "id": "5865898e-b7e3-45eb-9f07-2286af5724f1",
+  "object": "beer",
+  "name": "Saucy Pants",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1b601d5a-6403-45f6-96e0-202a4591682d",
+  "object": "beer",
+  "name": "Double Zilla",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

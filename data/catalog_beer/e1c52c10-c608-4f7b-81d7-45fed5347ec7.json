@@ -1,0 +1,11 @@
+{
+  "id": "e1c52c10-c608-4f7b-81d7-45fed5347ec7",
+  "object": "beer",
+  "name": "Cape Codder Weisse",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

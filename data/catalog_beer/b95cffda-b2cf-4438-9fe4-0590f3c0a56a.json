@@ -1,0 +1,11 @@
+{
+  "id": "b95cffda-b2cf-4438-9fe4-0590f3c0a56a",
+  "object": "beer",
+  "name": "Blue Grass Sour Blonde",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

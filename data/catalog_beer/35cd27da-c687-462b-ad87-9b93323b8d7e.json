@@ -1,0 +1,11 @@
+{
+  "id": "35cd27da-c687-462b-ad87-9b93323b8d7e",
+  "object": "beer",
+  "name": "Rod's Reel Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

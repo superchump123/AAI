@@ -1,0 +1,11 @@
+{
+  "id": "40742b88-beb9-4940-b273-0ae5418f2e14",
+  "object": "beer",
+  "name": "Pompous Pelican",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f1c257e0-b672-4206-ac5c-40971cfeb48b",
+  "object": "beer",
+  "name": "Blackbird Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

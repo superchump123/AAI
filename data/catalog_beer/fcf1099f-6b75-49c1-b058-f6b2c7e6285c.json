@@ -1,0 +1,11 @@
+{
+  "id": "fcf1099f-6b75-49c1-b058-f6b2c7e6285c",
+  "object": "beer",
+  "name": "La Colada Coffee Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

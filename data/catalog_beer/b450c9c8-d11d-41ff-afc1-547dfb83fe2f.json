@@ -1,0 +1,11 @@
+{
+  "id": "b450c9c8-d11d-41ff-afc1-547dfb83fe2f",
+  "object": "beer",
+  "name": "Pamlico Sound Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

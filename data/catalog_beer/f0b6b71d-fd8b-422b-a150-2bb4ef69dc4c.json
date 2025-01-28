@@ -1,0 +1,11 @@
+{
+  "id": "f0b6b71d-fd8b-422b-a150-2bb4ef69dc4c",
+  "object": "beer",
+  "name": "Vertigo",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

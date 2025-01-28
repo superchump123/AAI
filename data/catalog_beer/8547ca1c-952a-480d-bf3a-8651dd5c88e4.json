@@ -1,0 +1,11 @@
+{
+  "id": "8547ca1c-952a-480d-bf3a-8651dd5c88e4",
+  "object": "beer",
+  "name": "Scharer's Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

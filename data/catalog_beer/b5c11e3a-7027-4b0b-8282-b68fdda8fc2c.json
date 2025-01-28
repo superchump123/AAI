@@ -1,0 +1,11 @@
+{
+  "id": "b5c11e3a-7027-4b0b-8282-b68fdda8fc2c",
+  "object": "beer",
+  "name": "Nitro Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

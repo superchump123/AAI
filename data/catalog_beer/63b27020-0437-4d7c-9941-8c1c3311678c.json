@@ -1,0 +1,11 @@
+{
+  "id": "63b27020-0437-4d7c-9941-8c1c3311678c",
+  "object": "beer",
+  "name": "Watering Hole",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

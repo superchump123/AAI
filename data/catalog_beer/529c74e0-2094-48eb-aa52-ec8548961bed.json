@@ -1,0 +1,11 @@
+{
+  "id": "529c74e0-2094-48eb-aa52-ec8548961bed",
+  "object": "beer",
+  "name": "The Down Low Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

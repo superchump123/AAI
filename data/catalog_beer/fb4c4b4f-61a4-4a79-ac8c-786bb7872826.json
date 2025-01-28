@@ -1,0 +1,11 @@
+{
+  "id": "fb4c4b4f-61a4-4a79-ac8c-786bb7872826",
+  "object": "beer",
+  "name": "Angel Rye'PA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

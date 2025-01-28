@@ -1,0 +1,11 @@
+{
+  "id": "4d55bc8c-952d-4e1f-92ba-d47deb4a37c3",
+  "object": "beer",
+  "name": "Millennium Geuze",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

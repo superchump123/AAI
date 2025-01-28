@@ -1,0 +1,11 @@
+{
+  "id": "e935145f-c37c-4956-84c9-416db96caeb4",
+  "object": "beer",
+  "name": "Blakely Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1687b88a-2e99-4f12-9ef4-5ced1fea8504",
+  "object": "beer",
+  "name": "Plum Crazy",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

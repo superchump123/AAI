@@ -1,0 +1,11 @@
+{
+  "id": "826bfe3c-4a8f-4b2d-ac85-d9169e177c20",
+  "object": "beer",
+  "name": "Hill 88",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

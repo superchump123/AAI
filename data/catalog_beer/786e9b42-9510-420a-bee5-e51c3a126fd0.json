@@ -1,0 +1,11 @@
+{
+  "id": "786e9b42-9510-420a-bee5-e51c3a126fd0",
+  "object": "beer",
+  "name": "Moondoggie",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

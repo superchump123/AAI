@@ -1,0 +1,11 @@
+{
+  "id": "881d9c00-5540-436f-90df-676034db4952",
+  "object": "beer",
+  "name": "Suzy B",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

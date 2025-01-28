@@ -1,0 +1,11 @@
+{
+  "id": "02077467-bb8e-46db-9605-728f5fd8db25",
+  "object": "beer",
+  "name": "Napoleon Complex",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

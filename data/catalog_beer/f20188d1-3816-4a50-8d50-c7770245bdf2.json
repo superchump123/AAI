@@ -1,0 +1,11 @@
+{
+  "id": "f20188d1-3816-4a50-8d50-c7770245bdf2",
+  "object": "beer",
+  "name": "Jack's Pumpkin Spice Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

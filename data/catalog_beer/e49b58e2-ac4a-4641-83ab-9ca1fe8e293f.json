@@ -1,0 +1,11 @@
+{
+  "id": "e49b58e2-ac4a-4641-83ab-9ca1fe8e293f",
+  "object": "beer",
+  "name": "Cerveza Sin Frontera",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

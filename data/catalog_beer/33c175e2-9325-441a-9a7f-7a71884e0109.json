@@ -1,0 +1,11 @@
+{
+  "id": "33c175e2-9325-441a-9a7f-7a71884e0109",
+  "object": "beer",
+  "name": "Magic Hour",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

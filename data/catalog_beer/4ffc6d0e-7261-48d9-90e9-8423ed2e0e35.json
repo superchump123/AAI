@@ -1,0 +1,11 @@
+{
+  "id": "4ffc6d0e-7261-48d9-90e9-8423ed2e0e35",
+  "object": "beer",
+  "name": "Viertal",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

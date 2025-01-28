@@ -1,0 +1,11 @@
+{
+  "id": "ded50cf4-b373-44e2-b7a0-c2d1a68f3974",
+  "object": "beer",
+  "name": "Glacier Leavins NoDak Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

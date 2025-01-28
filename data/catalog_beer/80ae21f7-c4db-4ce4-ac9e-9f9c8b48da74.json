@@ -1,0 +1,11 @@
+{
+  "id": "80ae21f7-c4db-4ce4-ac9e-9f9c8b48da74",
+  "object": "beer",
+  "name": "Applewood Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

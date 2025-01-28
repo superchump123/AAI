@@ -1,0 +1,11 @@
+{
+  "id": "d622556d-31d5-42c8-ae3b-785418bfd62e",
+  "object": "beer",
+  "name": "Brauwiesen Braunes",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

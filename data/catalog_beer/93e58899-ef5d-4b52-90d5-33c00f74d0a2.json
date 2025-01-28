@@ -1,0 +1,11 @@
+{
+  "id": "93e58899-ef5d-4b52-90d5-33c00f74d0a2",
+  "object": "beer",
+  "name": "Gilt Edge",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cbe9b02e-a5e4-4ec4-9bcc-dc915a731913",
+  "object": "beer",
+  "name": "Business Casual",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

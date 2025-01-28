@@ -1,0 +1,11 @@
+{
+  "id": "289b4279-4198-4871-9a8a-b55e2a69d576",
+  "object": "beer",
+  "name": "Ill Cru",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

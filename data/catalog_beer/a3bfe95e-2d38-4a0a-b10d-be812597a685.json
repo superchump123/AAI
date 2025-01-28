@@ -1,0 +1,11 @@
+{
+  "id": "a3bfe95e-2d38-4a0a-b10d-be812597a685",
+  "object": "beer",
+  "name": "Charter Oak Abbey Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

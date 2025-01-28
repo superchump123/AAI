@@ -1,0 +1,11 @@
+{
+  "id": "8125824d-efd1-456b-97b6-b1f939fd11f3",
+  "object": "beer",
+  "name": "Santa Maria Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

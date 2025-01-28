@@ -1,0 +1,11 @@
+{
+  "id": "cf18b88a-5adf-400c-ab0c-84404d22e6e9",
+  "object": "beer",
+  "name": "Urban Tropic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

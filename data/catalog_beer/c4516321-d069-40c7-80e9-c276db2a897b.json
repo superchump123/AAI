@@ -1,0 +1,11 @@
+{
+  "id": "c4516321-d069-40c7-80e9-c276db2a897b",
+  "object": "beer",
+  "name": "Saison Renaud",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

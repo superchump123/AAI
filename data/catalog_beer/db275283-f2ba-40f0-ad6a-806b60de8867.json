@@ -1,0 +1,11 @@
+{
+  "id": "db275283-f2ba-40f0-ad6a-806b60de8867",
+  "object": "beer",
+  "name": "American Standard Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

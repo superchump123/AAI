@@ -1,0 +1,11 @@
+{
+  "id": "8f0cd86e-c32c-4911-82bb-23d3175ef7ff",
+  "object": "beer",
+  "name": "Pineapple Express",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

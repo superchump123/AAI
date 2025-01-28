@@ -1,0 +1,11 @@
+{
+  "id": "bcd004ac-14c1-4407-b4b0-573739c54cda",
+  "object": "beer",
+  "name": "Altenr\u00fcthener Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

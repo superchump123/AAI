@@ -1,0 +1,11 @@
+{
+  "id": "72a7cc2c-839d-4481-8b19-b54cc16db3d8",
+  "object": "beer",
+  "name": "Highway 71 Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

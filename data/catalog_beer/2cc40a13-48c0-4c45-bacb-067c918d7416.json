@@ -1,0 +1,11 @@
+{
+  "id": "2cc40a13-48c0-4c45-bacb-067c918d7416",
+  "object": "beer",
+  "name": "Toasted Coconut Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

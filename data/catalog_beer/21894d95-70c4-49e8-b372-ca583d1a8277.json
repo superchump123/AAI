@@ -1,0 +1,11 @@
+{
+  "id": "21894d95-70c4-49e8-b372-ca583d1a8277",
+  "object": "beer",
+  "name": "Belgian Independence Day Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

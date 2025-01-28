@@ -1,0 +1,11 @@
+{
+  "id": "dba2315c-1cc2-49eb-bfba-d398a8a4e1a5",
+  "object": "beer",
+  "name": "El CuCuy",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

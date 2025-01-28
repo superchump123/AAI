@@ -1,0 +1,11 @@
+{
+  "id": "a89df2c7-ed1d-40c5-8068-b81fa3954497",
+  "object": "beer",
+  "name": "Negra Modelo",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

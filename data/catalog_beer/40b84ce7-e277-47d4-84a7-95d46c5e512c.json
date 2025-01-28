@@ -1,0 +1,11 @@
+{
+  "id": "40b84ce7-e277-47d4-84a7-95d46c5e512c",
+  "object": "beer",
+  "name": "Mission Chinese",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

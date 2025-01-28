@@ -1,0 +1,11 @@
+{
+  "id": "ed3944b4-c878-4165-a98b-c28c50d3c417",
+  "object": "beer",
+  "name": "Champ Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

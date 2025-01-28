@@ -1,0 +1,11 @@
+{
+  "id": "ee0ca1dc-ef94-4abb-bb52-9bd07ab0f732",
+  "object": "beer",
+  "name": "Cerberus Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

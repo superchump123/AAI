@@ -1,0 +1,11 @@
+{
+  "id": "7e5384bf-265d-46b8-be34-a6639a5e8308",
+  "object": "beer",
+  "name": "Ostara",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

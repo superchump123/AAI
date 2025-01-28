@@ -1,0 +1,11 @@
+{
+  "id": "ddfbb936-8694-44e7-be56-d406cf2e3985",
+  "object": "beer",
+  "name": "Future Man",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

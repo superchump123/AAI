@@ -1,0 +1,11 @@
+{
+  "id": "c5f9e48c-83fc-499c-b49b-9e6c6f6cae77",
+  "object": "beer",
+  "name": "Iceman",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

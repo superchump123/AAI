@@ -1,0 +1,11 @@
+{
+  "id": "60803eb1-0d32-45ba-8295-6745a8d4a26f",
+  "object": "beer",
+  "name": "Lost River",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

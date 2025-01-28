@@ -1,0 +1,11 @@
+{
+  "id": "39ff375d-507d-45f4-a37b-4d6ced220871",
+  "object": "beer",
+  "name": "Cabalito",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

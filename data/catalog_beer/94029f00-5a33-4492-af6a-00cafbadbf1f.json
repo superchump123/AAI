@@ -1,0 +1,11 @@
+{
+  "id": "94029f00-5a33-4492-af6a-00cafbadbf1f",
+  "object": "beer",
+  "name": "Black Sunrise",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f78417c-ab11-427f-8e5e-8a249d622e62",
+  "object": "beer",
+  "name": "Einbecker Brauherren Alkoholfrei",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

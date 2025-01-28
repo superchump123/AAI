@@ -1,0 +1,11 @@
+{
+  "id": "f9c4e7a8-5641-41db-8414-76a2a11e0d86",
+  "object": "beer",
+  "name": "UghBoots",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

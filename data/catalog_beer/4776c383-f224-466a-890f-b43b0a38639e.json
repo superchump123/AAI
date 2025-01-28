@@ -1,0 +1,11 @@
+{
+  "id": "4776c383-f224-466a-890f-b43b0a38639e",
+  "object": "beer",
+  "name": "Baldface",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

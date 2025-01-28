@@ -1,0 +1,11 @@
+{
+  "id": "97574915-ddbb-4529-a173-f1035543243a",
+  "object": "beer",
+  "name": "Abominable Snowbeer",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4303e521-bc8a-4d0e-8c4b-8b4dc496b2fe",
+  "object": "beer",
+  "name": "Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

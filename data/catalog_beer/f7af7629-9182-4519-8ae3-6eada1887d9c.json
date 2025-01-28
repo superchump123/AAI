@@ -1,0 +1,11 @@
+{
+  "id": "f7af7629-9182-4519-8ae3-6eada1887d9c",
+  "object": "beer",
+  "name": "Milchkaffee",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ffe3aab1-c337-4433-80a1-b0ad40fc3d75",
+  "object": "beer",
+  "name": "Chat Pile Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

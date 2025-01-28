@@ -1,0 +1,11 @@
+{
+  "id": "1734aa18-a550-4256-9f15-c9a2fb7ed1d1",
+  "object": "beer",
+  "name": "Scrimshaw",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

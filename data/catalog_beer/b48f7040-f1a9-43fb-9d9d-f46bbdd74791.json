@@ -1,0 +1,11 @@
+{
+  "id": "b48f7040-f1a9-43fb-9d9d-f46bbdd74791",
+  "object": "beer",
+  "name": "County Line IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

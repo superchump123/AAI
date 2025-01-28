@@ -1,0 +1,11 @@
+{
+  "id": "22cdb953-d7c8-48df-ad54-319b79899661",
+  "object": "beer",
+  "name": "Kokanee Gold",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

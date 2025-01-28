@@ -1,0 +1,11 @@
+{
+  "id": "245ef2e0-5240-41a1-a518-58a4ef257936",
+  "object": "beer",
+  "name": "Krypton RyePA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

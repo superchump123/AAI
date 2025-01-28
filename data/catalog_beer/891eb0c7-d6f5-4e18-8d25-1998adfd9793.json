@@ -1,0 +1,11 @@
+{
+  "id": "891eb0c7-d6f5-4e18-8d25-1998adfd9793",
+  "object": "beer",
+  "name": "White Lightning",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

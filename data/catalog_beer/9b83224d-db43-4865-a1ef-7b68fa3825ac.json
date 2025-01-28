@@ -1,0 +1,11 @@
+{
+  "id": "9b83224d-db43-4865-a1ef-7b68fa3825ac",
+  "object": "beer",
+  "name": "The Ferryman",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

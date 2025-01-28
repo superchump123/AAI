@@ -1,0 +1,11 @@
+{
+  "id": "c32da553-72bc-498b-b036-dce70e5d69b7",
+  "object": "beer",
+  "name": "Peach Wheat Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

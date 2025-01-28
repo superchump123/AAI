@@ -1,0 +1,11 @@
+{
+  "id": "c83a3940-7b83-48b4-bded-f8d5a738e868",
+  "object": "beer",
+  "name": "Glenlenny's Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

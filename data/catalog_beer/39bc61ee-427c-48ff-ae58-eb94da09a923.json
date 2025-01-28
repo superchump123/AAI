@@ -1,0 +1,11 @@
+{
+  "id": "39bc61ee-427c-48ff-ae58-eb94da09a923",
+  "object": "beer",
+  "name": "Daniel's Son",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

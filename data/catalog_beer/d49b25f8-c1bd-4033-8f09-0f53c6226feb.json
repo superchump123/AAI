@@ -1,0 +1,11 @@
+{
+  "id": "d49b25f8-c1bd-4033-8f09-0f53c6226feb",
+  "object": "beer",
+  "name": "Traditional Dry",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

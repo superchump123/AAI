@@ -1,0 +1,11 @@
+{
+  "id": "8fe66fda-a195-499c-940b-df1a864425c4",
+  "object": "beer",
+  "name": "Maple Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

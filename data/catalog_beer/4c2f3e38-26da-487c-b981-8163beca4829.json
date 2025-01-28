@@ -1,0 +1,11 @@
+{
+  "id": "4c2f3e38-26da-487c-b981-8163beca4829",
+  "object": "beer",
+  "name": "Hanf",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

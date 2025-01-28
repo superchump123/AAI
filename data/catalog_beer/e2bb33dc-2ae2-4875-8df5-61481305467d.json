@@ -1,0 +1,11 @@
+{
+  "id": "e2bb33dc-2ae2-4875-8df5-61481305467d",
+  "object": "beer",
+  "name": "Knucklehead Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

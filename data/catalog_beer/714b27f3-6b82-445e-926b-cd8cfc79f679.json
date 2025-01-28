@@ -1,0 +1,11 @@
+{
+  "id": "714b27f3-6b82-445e-926b-cd8cfc79f679",
+  "object": "beer",
+  "name": "Serenity",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

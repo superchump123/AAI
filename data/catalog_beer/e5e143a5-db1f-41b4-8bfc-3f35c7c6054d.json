@@ -1,0 +1,11 @@
+{
+  "id": "e5e143a5-db1f-41b4-8bfc-3f35c7c6054d",
+  "object": "beer",
+  "name": "Evensong",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

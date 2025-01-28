@@ -1,0 +1,11 @@
+{
+  "id": "ea1fd0c8-431e-4788-81fd-55eca65029a9",
+  "object": "beer",
+  "name": "Mottzenbock",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

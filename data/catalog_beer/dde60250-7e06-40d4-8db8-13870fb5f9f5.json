@@ -1,0 +1,11 @@
+{
+  "id": "dde60250-7e06-40d4-8db8-13870fb5f9f5",
+  "object": "beer",
+  "name": "Quercus et Cerasus",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

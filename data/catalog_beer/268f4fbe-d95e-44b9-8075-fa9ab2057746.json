@@ -1,0 +1,11 @@
+{
+  "id": "268f4fbe-d95e-44b9-8075-fa9ab2057746",
+  "object": "beer",
+  "name": "Regional Superstar",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

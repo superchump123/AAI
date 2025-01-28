@@ -1,0 +1,11 @@
+{
+  "id": "d220368a-9ce3-49f8-b3a7-11b163f4dc77",
+  "object": "beer",
+  "name": "Rampant Lion",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

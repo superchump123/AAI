@@ -1,0 +1,11 @@
+{
+  "id": "b0e7f158-938c-466e-abe1-7feb4076a78c",
+  "object": "beer",
+  "name": "100th Meridian",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a0cd6e7b-0cdb-4cfb-890d-f9510097a220",
+  "object": "beer",
+  "name": "Dark Matter",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

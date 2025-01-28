@@ -1,0 +1,11 @@
+{
+  "id": "6c4adb5c-7158-4677-a995-1a660aed3938",
+  "object": "beer",
+  "name": "Turtlelord",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

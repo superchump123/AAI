@@ -1,0 +1,11 @@
+{
+  "id": "82085fc8-9b96-43fe-83ce-ee4a8a72142e",
+  "object": "beer",
+  "name": "Lou Pepe Gueuze",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

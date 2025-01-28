@@ -1,0 +1,11 @@
+{
+  "id": "10730c16-3199-4c4c-8a87-51a873f209eb",
+  "object": "beer",
+  "name": "Brave American",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

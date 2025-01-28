@@ -1,0 +1,11 @@
+{
+  "id": "56907fa9-2253-49e9-a992-15970cf5b339",
+  "object": "beer",
+  "name": "Dumb Funk",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de1b2414-b5d5-4363-8a1a-638bb7edb35a",
+  "object": "beer",
+  "name": "Word",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

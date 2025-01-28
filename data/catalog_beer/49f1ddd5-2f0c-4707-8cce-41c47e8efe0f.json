@@ -1,0 +1,11 @@
+{
+  "id": "49f1ddd5-2f0c-4707-8cce-41c47e8efe0f",
+  "object": "beer",
+  "name": "Troll Toll",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bfa87197-4a31-4b42-907c-3373bde636b6",
+  "object": "beer",
+  "name": "Spring Love",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

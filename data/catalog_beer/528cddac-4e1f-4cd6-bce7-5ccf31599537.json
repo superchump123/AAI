@@ -1,0 +1,11 @@
+{
+  "id": "528cddac-4e1f-4cd6-bce7-5ccf31599537",
+  "object": "beer",
+  "name": "Super Conductor",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

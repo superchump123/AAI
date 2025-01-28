@@ -1,0 +1,11 @@
+{
+  "id": "cbbc5039-8d69-4216-a936-b29eb355ba7c",
+  "object": "beer",
+  "name": "Son of Maize",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

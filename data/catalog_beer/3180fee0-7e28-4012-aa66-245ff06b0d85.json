@@ -1,0 +1,11 @@
+{
+  "id": "3180fee0-7e28-4012-aa66-245ff06b0d85",
+  "object": "beer",
+  "name": "Evil Red",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "49d1828f-1c34-4fcc-ac5b-8e563b4a90fa",
+  "object": "beer",
+  "name": "Maea Ipaea",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

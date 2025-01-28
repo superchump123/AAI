@@ -1,0 +1,11 @@
+{
+  "id": "faf1153f-d58c-420c-8acf-52d7bca5ffbd",
+  "object": "beer",
+  "name": "Camden Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

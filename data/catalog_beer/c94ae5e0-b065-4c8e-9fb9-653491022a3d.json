@@ -1,0 +1,11 @@
+{
+  "id": "c94ae5e0-b065-4c8e-9fb9-653491022a3d",
+  "object": "beer",
+  "name": "The Devil Made Me",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

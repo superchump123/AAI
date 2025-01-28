@@ -1,0 +1,11 @@
+{
+  "id": "c71c6de2-9a0b-4ca4-ae76-851b2ec91fee",
+  "object": "beer",
+  "name": "Bluemile",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd8b9025-e008-4954-83c2-1008b4682aa0",
+  "object": "beer",
+  "name": "Loch",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

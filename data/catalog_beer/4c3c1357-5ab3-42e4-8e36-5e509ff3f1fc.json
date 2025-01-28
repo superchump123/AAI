@@ -1,0 +1,11 @@
+{
+  "id": "4c3c1357-5ab3-42e4-8e36-5e509ff3f1fc",
+  "object": "beer",
+  "name": "Sorta Sweet",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

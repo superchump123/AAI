@@ -1,0 +1,11 @@
+{
+  "id": "4fff7680-5c97-4b8c-8120-251cae507dfd",
+  "object": "beer",
+  "name": "Golden Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

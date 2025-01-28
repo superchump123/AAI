@@ -1,0 +1,11 @@
+{
+  "id": "428ad263-a4a2-4dae-a777-00037a1177b4",
+  "object": "beer",
+  "name": "Hendrix",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

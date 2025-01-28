@@ -1,0 +1,11 @@
+{
+  "id": "0780dd18-ec96-4a2a-9114-1e31d13200ad",
+  "object": "beer",
+  "name": "Dahlia",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

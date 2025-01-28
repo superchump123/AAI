@@ -1,0 +1,11 @@
+{
+  "id": "882f7e22-2f8f-48e3-af12-658a31fb5c50",
+  "object": "beer",
+  "name": "Fox Wedditt",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

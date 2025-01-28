@@ -1,0 +1,11 @@
+{
+  "id": "ceaf753d-ce1d-4359-afc5-0e1e65b27af4",
+  "object": "beer",
+  "name": "Better Weather IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

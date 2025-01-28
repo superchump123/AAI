@@ -1,0 +1,11 @@
+{
+  "id": "fa29f3ac-7768-4ec5-947d-197ba0867700",
+  "object": "beer",
+  "name": "Truffle Shuffle",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

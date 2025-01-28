@@ -1,0 +1,11 @@
+{
+  "id": "590fde2b-bc1d-4435-9c08-de534539d51e",
+  "object": "beer",
+  "name": "Kiwi Curse",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

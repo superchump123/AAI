@@ -1,0 +1,11 @@
+{
+  "id": "aeb49b3f-23b1-422e-9290-cd5c1fcad041",
+  "object": "beer",
+  "name": "Oak Creek Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

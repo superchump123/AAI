@@ -1,0 +1,11 @@
+{
+  "id": "54e078af-166c-4048-9f68-dcbb15eb582b",
+  "object": "beer",
+  "name": "Green Bullet",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

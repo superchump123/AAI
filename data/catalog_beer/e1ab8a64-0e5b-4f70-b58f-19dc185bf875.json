@@ -1,0 +1,11 @@
+{
+  "id": "e1ab8a64-0e5b-4f70-b58f-19dc185bf875",
+  "object": "beer",
+  "name": "Cadeau de No\u00ebl",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

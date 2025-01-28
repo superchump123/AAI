@@ -1,0 +1,11 @@
+{
+  "id": "be6d4573-6865-4783-9d96-77e5d582025d",
+  "object": "beer",
+  "name": "Marauder",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

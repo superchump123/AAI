@@ -1,0 +1,11 @@
+{
+  "id": "003f205f-1ad7-4688-a348-47bd138f635d",
+  "object": "beer",
+  "name": "Jackson's Fish Taco Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4f58c93e-bb02-4802-a8af-30112ce57e35",
+  "object": "beer",
+  "name": "Butterfly Scratch",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

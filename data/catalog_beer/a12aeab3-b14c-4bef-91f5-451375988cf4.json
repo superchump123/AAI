@@ -1,0 +1,11 @@
+{
+  "id": "a12aeab3-b14c-4bef-91f5-451375988cf4",
+  "object": "beer",
+  "name": "Duck Duck Gooze",
+  "style": "Belgian-Style Gueuze Lambic",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "13f6c069-3c72-472d-aca8-a19d511cb952",
+  "object": "beer",
+  "name": "Eichener Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

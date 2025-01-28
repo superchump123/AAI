@@ -1,0 +1,11 @@
+{
+  "id": "f14b672a-2680-4520-b1f1-fd2777f7ad5a",
+  "object": "beer",
+  "name": "LTD Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

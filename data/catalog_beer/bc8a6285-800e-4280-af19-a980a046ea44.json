@@ -1,0 +1,11 @@
+{
+  "id": "bc8a6285-800e-4280-af19-a980a046ea44",
+  "object": "beer",
+  "name": "Sagamore Barrel-Aged Seven Beauties",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

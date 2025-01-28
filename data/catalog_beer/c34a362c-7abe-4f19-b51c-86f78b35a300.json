@@ -1,0 +1,11 @@
+{
+  "id": "c34a362c-7abe-4f19-b51c-86f78b35a300",
+  "object": "beer",
+  "name": "Belgian Stout",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

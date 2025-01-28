@@ -1,0 +1,11 @@
+{
+  "id": "29778e4e-a538-4d99-8cb6-c370b6a913bc",
+  "object": "beer",
+  "name": "Revelry",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 122,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

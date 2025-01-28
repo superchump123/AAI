@@ -1,0 +1,11 @@
+{
+  "id": "2d12061a-2914-4ce3-a523-00135c5822a7",
+  "object": "beer",
+  "name": "Brass Tail Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

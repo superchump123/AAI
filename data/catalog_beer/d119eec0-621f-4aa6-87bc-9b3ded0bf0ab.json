@@ -1,0 +1,11 @@
+{
+  "id": "d119eec0-621f-4aa6-87bc-9b3ded0bf0ab",
+  "object": "beer",
+  "name": "Pawn Shop Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "891fbd73-9f30-49b0-b4c0-8db6c102a666",
+  "object": "beer",
+  "name": "Hoegaarden Julius",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

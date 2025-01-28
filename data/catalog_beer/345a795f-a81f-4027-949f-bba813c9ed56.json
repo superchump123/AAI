@@ -1,0 +1,11 @@
+{
+  "id": "345a795f-a81f-4027-949f-bba813c9ed56",
+  "object": "beer",
+  "name": "El Guapo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67e017c6-1a3e-4484-b6db-103d2968faee",
+  "object": "beer",
+  "name": "Pave a Path Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

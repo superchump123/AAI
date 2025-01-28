@@ -1,0 +1,11 @@
+{
+  "id": "22efd425-2971-45e9-bef7-ff7986434a29",
+  "object": "beer",
+  "name": "Dry Dock Amber Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

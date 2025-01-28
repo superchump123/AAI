@@ -1,0 +1,11 @@
+{
+  "id": "c3a1c713-26f5-47a9-b2fe-92c9abecef62",
+  "object": "beer",
+  "name": "The Town Tart",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

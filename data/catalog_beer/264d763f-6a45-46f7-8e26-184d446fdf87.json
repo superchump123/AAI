@@ -1,0 +1,11 @@
+{
+  "id": "264d763f-6a45-46f7-8e26-184d446fdf87",
+  "object": "beer",
+  "name": "Pirate Stout",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "description": null,
+  "abv": 11.8,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

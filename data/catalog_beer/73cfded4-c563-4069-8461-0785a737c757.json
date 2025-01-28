@@ -1,0 +1,11 @@
+{
+  "id": "73cfded4-c563-4069-8461-0785a737c757",
+  "object": "beer",
+  "name": "The Kavorka",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

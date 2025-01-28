@@ -1,0 +1,11 @@
+{
+  "id": "8ff0d8ba-0f4e-40c8-a6aa-e92bd8961daf",
+  "object": "beer",
+  "name": "Badass Pear Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

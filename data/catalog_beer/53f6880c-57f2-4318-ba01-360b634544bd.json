@@ -1,0 +1,11 @@
+{
+  "id": "53f6880c-57f2-4318-ba01-360b634544bd",
+  "object": "beer",
+  "name": "Grisette",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

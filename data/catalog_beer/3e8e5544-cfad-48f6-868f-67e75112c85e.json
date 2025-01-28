@@ -1,0 +1,11 @@
+{
+  "id": "3e8e5544-cfad-48f6-868f-67e75112c85e",
+  "object": "beer",
+  "name": "Whiskey Barrel Aged Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

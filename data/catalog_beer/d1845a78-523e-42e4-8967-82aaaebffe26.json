@@ -1,0 +1,11 @@
+{
+  "id": "d1845a78-523e-42e4-8967-82aaaebffe26",
+  "object": "beer",
+  "name": "Know Wonder",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

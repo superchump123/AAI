@@ -1,0 +1,11 @@
+{
+  "id": "0eeb9c06-c171-43b0-8dc0-f3a0a3b7330b",
+  "object": "beer",
+  "name": "5th Season Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

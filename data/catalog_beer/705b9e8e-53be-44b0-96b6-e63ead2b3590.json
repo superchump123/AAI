@@ -1,0 +1,11 @@
+{
+  "id": "705b9e8e-53be-44b0-96b6-e63ead2b3590",
+  "object": "beer",
+  "name": "Helios",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

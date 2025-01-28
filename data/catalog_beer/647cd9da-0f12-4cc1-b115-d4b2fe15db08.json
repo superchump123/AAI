@@ -1,0 +1,11 @@
+{
+  "id": "647cd9da-0f12-4cc1-b115-d4b2fe15db08",
+  "object": "beer",
+  "name": "Plenty For All",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

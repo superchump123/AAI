@@ -1,0 +1,11 @@
+{
+  "id": "584044bd-1b2a-4715-93c6-641a17f949f7",
+  "object": "beer",
+  "name": "Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

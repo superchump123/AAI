@@ -1,0 +1,11 @@
+{
+  "id": "68038025-55bf-46b0-8198-b780ab085398",
+  "object": "beer",
+  "name": "Crooked Cabin Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

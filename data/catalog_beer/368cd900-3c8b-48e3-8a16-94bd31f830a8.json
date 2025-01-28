@@ -1,0 +1,11 @@
+{
+  "id": "368cd900-3c8b-48e3-8a16-94bd31f830a8",
+  "object": "beer",
+  "name": "Barrel Aged Smoked Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

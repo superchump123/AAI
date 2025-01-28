@@ -1,0 +1,11 @@
+{
+  "id": "da32d423-73a1-4e55-b8ef-a07eb2e9ecac",
+  "object": "beer",
+  "name": "Jack Whacker Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

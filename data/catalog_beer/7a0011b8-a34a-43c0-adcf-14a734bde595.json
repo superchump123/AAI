@@ -1,0 +1,11 @@
+{
+  "id": "7a0011b8-a34a-43c0-adcf-14a734bde595",
+  "object": "beer",
+  "name": "Hazed and Confused",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

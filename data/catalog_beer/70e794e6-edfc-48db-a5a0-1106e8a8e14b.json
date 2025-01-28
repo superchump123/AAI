@@ -1,0 +1,11 @@
+{
+  "id": "70e794e6-edfc-48db-a5a0-1106e8a8e14b",
+  "object": "beer",
+  "name": "Anytime IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

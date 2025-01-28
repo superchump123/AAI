@@ -1,0 +1,11 @@
+{
+  "id": "1a41c437-60e2-4db4-8414-f7cc132afe26",
+  "object": "beer",
+  "name": "Fortyniner",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

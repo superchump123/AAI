@@ -1,0 +1,11 @@
+{
+  "id": "003b472b-a3af-4c01-8a3a-29c2d4a273b4",
+  "object": "beer",
+  "name": "Backwoods Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

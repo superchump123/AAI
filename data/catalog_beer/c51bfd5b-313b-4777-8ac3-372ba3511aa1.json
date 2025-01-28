@@ -1,0 +1,11 @@
+{
+  "id": "c51bfd5b-313b-4777-8ac3-372ba3511aa1",
+  "object": "beer",
+  "name": "Gold Leaf Lager",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

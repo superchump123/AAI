@@ -1,0 +1,11 @@
+{
+  "id": "f316e2b6-366c-4007-8028-a9d87549daf9",
+  "object": "beer",
+  "name": "Fleur De La Mort",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

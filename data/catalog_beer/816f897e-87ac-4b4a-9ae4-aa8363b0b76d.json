@@ -1,0 +1,11 @@
+{
+  "id": "816f897e-87ac-4b4a-9ae4-aa8363b0b76d",
+  "object": "beer",
+  "name": "Vue Sur L'Amer",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

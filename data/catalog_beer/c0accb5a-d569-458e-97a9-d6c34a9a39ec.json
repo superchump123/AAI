@@ -1,0 +1,11 @@
+{
+  "id": "c0accb5a-d569-458e-97a9-d6c34a9a39ec",
+  "object": "beer",
+  "name": "Standard",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

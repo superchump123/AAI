@@ -1,0 +1,11 @@
+{
+  "id": "53e89b89-33b7-4e06-9298-46ac8d3fc972",
+  "object": "beer",
+  "name": "Chiara",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

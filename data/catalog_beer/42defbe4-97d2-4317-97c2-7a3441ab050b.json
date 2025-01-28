@@ -1,0 +1,11 @@
+{
+  "id": "42defbe4-97d2-4317-97c2-7a3441ab050b",
+  "object": "beer",
+  "name": "Coast to Coast",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

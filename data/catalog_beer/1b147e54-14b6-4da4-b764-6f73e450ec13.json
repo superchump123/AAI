@@ -1,0 +1,11 @@
+{
+  "id": "1b147e54-14b6-4da4-b764-6f73e450ec13",
+  "object": "beer",
+  "name": "Odd Notion Summer",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

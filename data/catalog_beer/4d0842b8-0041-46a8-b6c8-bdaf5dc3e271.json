@@ -1,0 +1,11 @@
+{
+  "id": "4d0842b8-0041-46a8-b6c8-bdaf5dc3e271",
+  "object": "beer",
+  "name": "The Duke of Winship",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

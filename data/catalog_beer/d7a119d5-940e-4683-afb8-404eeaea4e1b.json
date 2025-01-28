@@ -1,0 +1,11 @@
+{
+  "id": "d7a119d5-940e-4683-afb8-404eeaea4e1b",
+  "object": "beer",
+  "name": "Pandemonium Barrel-Aged Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

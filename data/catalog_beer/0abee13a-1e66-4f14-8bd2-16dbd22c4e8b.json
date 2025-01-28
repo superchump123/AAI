@@ -1,0 +1,11 @@
+{
+  "id": "0abee13a-1e66-4f14-8bd2-16dbd22c4e8b",
+  "object": "beer",
+  "name": "4 Calling Birds",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d7ea9442-5dec-43a2-b458-a0c26dc1c976",
+  "object": "beer",
+  "name": "Biscuit de Miel",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

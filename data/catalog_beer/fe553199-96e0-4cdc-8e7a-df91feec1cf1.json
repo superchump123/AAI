@@ -1,0 +1,11 @@
+{
+  "id": "fe553199-96e0-4cdc-8e7a-df91feec1cf1",
+  "object": "beer",
+  "name": "Premium White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

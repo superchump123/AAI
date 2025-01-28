@@ -1,0 +1,11 @@
+{
+  "id": "75ff9daf-7b88-47d5-ab22-2e5e4ae3a6c3",
+  "object": "beer",
+  "name": "VJ Black",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

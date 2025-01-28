@@ -1,0 +1,11 @@
+{
+  "id": "cdb2443c-68b6-4b61-8cfc-b4170ac73bca",
+  "object": "beer",
+  "name": "Coventry Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

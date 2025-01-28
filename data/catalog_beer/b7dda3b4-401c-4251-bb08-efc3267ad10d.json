@@ -1,0 +1,11 @@
+{
+  "id": "b7dda3b4-401c-4251-bb08-efc3267ad10d",
+  "object": "beer",
+  "name": "Petrus Dubbel Bruin Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

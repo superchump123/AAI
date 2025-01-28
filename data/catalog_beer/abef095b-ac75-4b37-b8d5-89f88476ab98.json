@@ -1,0 +1,11 @@
+{
+  "id": "abef095b-ac75-4b37-b8d5-89f88476ab98",
+  "object": "beer",
+  "name": "Lech Premium Beer",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

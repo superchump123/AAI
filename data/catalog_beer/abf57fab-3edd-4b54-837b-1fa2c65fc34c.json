@@ -1,0 +1,11 @@
+{
+  "id": "abf57fab-3edd-4b54-837b-1fa2c65fc34c",
+  "object": "beer",
+  "name": "Stouty Stouterson",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b076f32d-27fe-425f-aa77-4f6969e4429f",
+  "object": "beer",
+  "name": "Moa Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

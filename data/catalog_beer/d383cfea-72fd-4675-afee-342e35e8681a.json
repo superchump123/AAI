@@ -1,0 +1,11 @@
+{
+  "id": "d383cfea-72fd-4675-afee-342e35e8681a",
+  "object": "beer",
+  "name": "Trip II",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

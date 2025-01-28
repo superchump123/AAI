@@ -1,0 +1,11 @@
+{
+  "id": "55146428-c696-40ce-9103-80a441835c30",
+  "object": "beer",
+  "name": "Carnival",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

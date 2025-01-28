@@ -1,0 +1,11 @@
+{
+  "id": "233edacf-e06e-4061-80d9-f461a359efe2",
+  "object": "beer",
+  "name": "Insel Kap",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4c1113cb-130d-49b8-b25e-57dc196f4551",
+  "object": "beer",
+  "name": "Golden Russet",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

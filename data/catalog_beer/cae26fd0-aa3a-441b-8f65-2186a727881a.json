@@ -1,0 +1,11 @@
+{
+  "id": "cae26fd0-aa3a-441b-8f65-2186a727881a",
+  "object": "beer",
+  "name": "Picker's Pail Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

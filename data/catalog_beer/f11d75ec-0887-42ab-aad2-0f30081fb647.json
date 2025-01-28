@@ -1,0 +1,11 @@
+{
+  "id": "f11d75ec-0887-42ab-aad2-0f30081fb647",
+  "object": "beer",
+  "name": "Snowbird",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

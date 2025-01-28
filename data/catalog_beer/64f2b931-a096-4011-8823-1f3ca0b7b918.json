@@ -1,0 +1,11 @@
+{
+  "id": "64f2b931-a096-4011-8823-1f3ca0b7b918",
+  "object": "beer",
+  "name": "Double Old Thumper",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

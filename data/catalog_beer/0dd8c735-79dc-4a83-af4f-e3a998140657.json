@@ -1,0 +1,11 @@
+{
+  "id": "0dd8c735-79dc-4a83-af4f-e3a998140657",
+  "object": "beer",
+  "name": "Blueberry Jam",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

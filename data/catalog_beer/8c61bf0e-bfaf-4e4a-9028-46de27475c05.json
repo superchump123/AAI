@@ -1,0 +1,11 @@
+{
+  "id": "8c61bf0e-bfaf-4e4a-9028-46de27475c05",
+  "object": "beer",
+  "name": "Star of India IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "10a07cf2-9cff-4d9e-a4b4-f3d64dca7dfb",
+  "object": "beer",
+  "name": "Pt. Bonita Pilsner",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

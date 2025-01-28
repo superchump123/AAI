@@ -1,0 +1,11 @@
+{
+  "id": "285b7b63-fba8-46f6-b49a-94de8299d0af",
+  "object": "beer",
+  "name": "Candid Kaiser",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

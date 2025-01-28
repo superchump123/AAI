@@ -1,0 +1,11 @@
+{
+  "id": "97d26a73-5c54-4c51-85eb-4cc70514a775",
+  "object": "beer",
+  "name": "Foxy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

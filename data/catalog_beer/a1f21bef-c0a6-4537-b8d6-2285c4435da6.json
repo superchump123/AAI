@@ -1,0 +1,11 @@
+{
+  "id": "a1f21bef-c0a6-4537-b8d6-2285c4435da6",
+  "object": "beer",
+  "name": "Belgian Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8bfd6898-5f83-4b70-a9fe-f3170900aeea",
+  "object": "beer",
+  "name": "Summer School",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

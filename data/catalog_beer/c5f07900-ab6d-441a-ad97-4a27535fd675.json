@@ -1,0 +1,11 @@
+{
+  "id": "c5f07900-ab6d-441a-ad97-4a27535fd675",
+  "object": "beer",
+  "name": "Cape May Honey Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

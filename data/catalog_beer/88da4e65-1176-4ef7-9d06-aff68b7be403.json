@@ -1,0 +1,11 @@
+{
+  "id": "88da4e65-1176-4ef7-9d06-aff68b7be403",
+  "object": "beer",
+  "name": "Amour",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

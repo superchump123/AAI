@@ -1,0 +1,11 @@
+{
+  "id": "55b6b292-39f3-4d2f-9cee-96b791281d77",
+  "object": "beer",
+  "name": "Bomonti Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

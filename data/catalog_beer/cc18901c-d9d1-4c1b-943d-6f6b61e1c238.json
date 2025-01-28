@@ -1,0 +1,11 @@
+{
+  "id": "cc18901c-d9d1-4c1b-943d-6f6b61e1c238",
+  "object": "beer",
+  "name": "Field to Ferment CITRA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

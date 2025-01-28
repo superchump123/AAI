@@ -1,0 +1,11 @@
+{
+  "id": "e5a17c81-7438-4342-9f36-9e3fd5dc1a3c",
+  "object": "beer",
+  "name": "Raspberry Dubbel",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fbd9bc41-fcd9-4130-a7e7-599d591c060f",
+  "object": "beer",
+  "name": "Double Take Belgian White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

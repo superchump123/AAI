@@ -1,0 +1,11 @@
+{
+  "id": "1e2821f8-34d3-4c2b-83c9-33cf9628ee95",
+  "object": "beer",
+  "name": "The Joaquin - Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

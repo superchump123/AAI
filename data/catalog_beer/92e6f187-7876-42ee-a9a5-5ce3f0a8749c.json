@@ -1,0 +1,11 @@
+{
+  "id": "92e6f187-7876-42ee-a9a5-5ce3f0a8749c",
+  "object": "beer",
+  "name": "Stencel Stout Extra",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

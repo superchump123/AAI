@@ -1,0 +1,11 @@
+{
+  "id": "41009fbd-d0d6-4e7a-ae4f-63fff979db82",
+  "object": "beer",
+  "name": "50 Miles From Mexico, NY",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

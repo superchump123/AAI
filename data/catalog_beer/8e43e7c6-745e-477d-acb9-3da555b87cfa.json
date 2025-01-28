@@ -1,0 +1,11 @@
+{
+  "id": "8e43e7c6-745e-477d-acb9-3da555b87cfa",
+  "object": "beer",
+  "name": "Blue Ski Lager",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

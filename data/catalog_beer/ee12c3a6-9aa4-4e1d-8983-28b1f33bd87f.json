@@ -1,0 +1,11 @@
+{
+  "id": "ee12c3a6-9aa4-4e1d-8983-28b1f33bd87f",
+  "object": "beer",
+  "name": "Cherry Quad",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

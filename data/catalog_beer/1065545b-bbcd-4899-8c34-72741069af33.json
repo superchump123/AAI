@@ -1,0 +1,11 @@
+{
+  "id": "1065545b-bbcd-4899-8c34-72741069af33",
+  "object": "beer",
+  "name": "Smoked Vienna Lager",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

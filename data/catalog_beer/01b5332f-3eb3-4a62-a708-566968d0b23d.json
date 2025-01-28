@@ -1,0 +1,11 @@
+{
+  "id": "01b5332f-3eb3-4a62-a708-566968d0b23d",
+  "object": "beer",
+  "name": "Shut up",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

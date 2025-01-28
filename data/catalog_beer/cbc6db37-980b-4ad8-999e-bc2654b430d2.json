@@ -1,0 +1,11 @@
+{
+  "id": "cbc6db37-980b-4ad8-999e-bc2654b430d2",
+  "object": "beer",
+  "name": "Imperial French Ale aged in Rum Barrels",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

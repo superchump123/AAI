@@ -1,0 +1,11 @@
+{
+  "id": "8d2e1b85-02ab-4849-ad02-cbe39dc33b25",
+  "object": "beer",
+  "name": "Nut Brownie",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

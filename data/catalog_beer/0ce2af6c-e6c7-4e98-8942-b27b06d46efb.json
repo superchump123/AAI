@@ -1,0 +1,11 @@
+{
+  "id": "0ce2af6c-e6c7-4e98-8942-b27b06d46efb",
+  "object": "beer",
+  "name": "Koln Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

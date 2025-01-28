@@ -1,0 +1,11 @@
+{
+  "id": "fc1b4155-ae95-483e-884c-f7f3f70eac6a",
+  "object": "beer",
+  "name": "Hopkine IPL",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

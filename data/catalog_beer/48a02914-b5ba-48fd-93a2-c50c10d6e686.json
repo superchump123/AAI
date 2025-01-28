@@ -1,0 +1,11 @@
+{
+  "id": "48a02914-b5ba-48fd-93a2-c50c10d6e686",
+  "object": "beer",
+  "name": "Fluffberry",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

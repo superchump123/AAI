@@ -1,0 +1,11 @@
+{
+  "id": "31aed2f3-a97a-4c5c-9034-accca0d3eed9",
+  "object": "beer",
+  "name": "Ridiculous",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

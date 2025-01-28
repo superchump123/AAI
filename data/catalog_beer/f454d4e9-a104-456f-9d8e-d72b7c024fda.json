@@ -1,0 +1,11 @@
+{
+  "id": "f454d4e9-a104-456f-9d8e-d72b7c024fda",
+  "object": "beer",
+  "name": "Mt. U Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

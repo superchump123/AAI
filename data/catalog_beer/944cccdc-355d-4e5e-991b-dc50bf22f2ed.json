@@ -1,0 +1,11 @@
+{
+  "id": "944cccdc-355d-4e5e-991b-dc50bf22f2ed",
+  "object": "beer",
+  "name": "Kirsch Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

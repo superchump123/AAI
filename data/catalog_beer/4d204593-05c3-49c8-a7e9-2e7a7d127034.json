@@ -1,0 +1,11 @@
+{
+  "id": "4d204593-05c3-49c8-a7e9-2e7a7d127034",
+  "object": "beer",
+  "name": "Alchemy Lord",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

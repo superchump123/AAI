@@ -1,0 +1,11 @@
+{
+  "id": "2fb93741-dbaa-4d7e-95f2-d1bd433a3d60",
+  "object": "beer",
+  "name": "Mica",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

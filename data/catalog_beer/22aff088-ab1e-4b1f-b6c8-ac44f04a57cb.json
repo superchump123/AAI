@@ -1,0 +1,11 @@
+{
+  "id": "22aff088-ab1e-4b1f-b6c8-ac44f04a57cb",
+  "object": "beer",
+  "name": "Ezel wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

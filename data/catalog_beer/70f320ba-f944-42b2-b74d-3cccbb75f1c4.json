@@ -1,0 +1,11 @@
+{
+  "id": "70f320ba-f944-42b2-b74d-3cccbb75f1c4",
+  "object": "beer",
+  "name": "Samuel Adams Blueberry Hill Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

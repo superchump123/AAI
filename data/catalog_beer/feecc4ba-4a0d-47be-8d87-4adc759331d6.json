@@ -1,0 +1,11 @@
+{
+  "id": "feecc4ba-4a0d-47be-8d87-4adc759331d6",
+  "object": "beer",
+  "name": "Blackbeard's Breakfast",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6af691f6-b688-4ac4-a1e8-c129006e3452",
+  "object": "beer",
+  "name": "Stella Artois Legere",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

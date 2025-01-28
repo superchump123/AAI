@@ -1,0 +1,11 @@
+{
+  "id": "b1e1192d-9b7b-4a82-9c9e-8c32c89ef838",
+  "object": "beer",
+  "name": "The Great Outdoors",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

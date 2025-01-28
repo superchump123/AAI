@@ -1,0 +1,11 @@
+{
+  "id": "d783e516-7ef7-4eb2-8795-65c4f732fc8a",
+  "object": "beer",
+  "name": "Cult 024: Ichabod's Elixer",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

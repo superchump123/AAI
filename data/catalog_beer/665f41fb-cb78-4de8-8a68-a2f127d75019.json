@@ -1,0 +1,11 @@
+{
+  "id": "665f41fb-cb78-4de8-8a68-a2f127d75019",
+  "object": "beer",
+  "name": "Reggae Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

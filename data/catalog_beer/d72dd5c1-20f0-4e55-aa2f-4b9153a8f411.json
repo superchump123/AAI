@@ -1,0 +1,11 @@
+{
+  "id": "d72dd5c1-20f0-4e55-aa2f-4b9153a8f411",
+  "object": "beer",
+  "name": "Witty Kitty",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

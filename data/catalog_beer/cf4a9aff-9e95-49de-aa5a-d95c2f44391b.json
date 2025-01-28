@@ -1,0 +1,11 @@
+{
+  "id": "cf4a9aff-9e95-49de-aa5a-d95c2f44391b",
+  "object": "beer",
+  "name": "Great Crescent Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

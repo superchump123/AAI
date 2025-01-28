@@ -1,0 +1,11 @@
+{
+  "id": "f4e17d0f-86a8-4cf8-ba8b-b7aec06307c5",
+  "object": "beer",
+  "name": "The Ill Peripheral",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

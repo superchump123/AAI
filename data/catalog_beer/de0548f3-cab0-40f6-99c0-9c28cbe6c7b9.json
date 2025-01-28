@@ -1,0 +1,11 @@
+{
+  "id": "de0548f3-cab0-40f6-99c0-9c28cbe6c7b9",
+  "object": "beer",
+  "name": "Red Caboose Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

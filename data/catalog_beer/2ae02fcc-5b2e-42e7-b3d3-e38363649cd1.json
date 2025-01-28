@@ -1,0 +1,11 @@
+{
+  "id": "2ae02fcc-5b2e-42e7-b3d3-e38363649cd1",
+  "object": "beer",
+  "name": "Funk The Jewels",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

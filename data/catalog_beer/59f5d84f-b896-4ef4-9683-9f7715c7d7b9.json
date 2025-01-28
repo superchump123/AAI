@@ -1,0 +1,11 @@
+{
+  "id": "59f5d84f-b896-4ef4-9683-9f7715c7d7b9",
+  "object": "beer",
+  "name": "Spring",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

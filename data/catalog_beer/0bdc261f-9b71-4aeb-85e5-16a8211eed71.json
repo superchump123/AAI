@@ -1,0 +1,11 @@
+{
+  "id": "0bdc261f-9b71-4aeb-85e5-16a8211eed71",
+  "object": "beer",
+  "name": "Tsar Bomba",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

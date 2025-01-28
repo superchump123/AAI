@@ -1,0 +1,11 @@
+{
+  "id": "59a80b64-c381-49a5-aa7c-51b03dd3c819",
+  "object": "beer",
+  "name": "Gourdemyces",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

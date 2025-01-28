@@ -1,0 +1,11 @@
+{
+  "id": "8655b564-80f5-4455-95a4-33e4dade476a",
+  "object": "beer",
+  "name": "Pear Lambic",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

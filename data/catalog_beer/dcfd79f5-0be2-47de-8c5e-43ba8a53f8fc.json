@@ -1,0 +1,11 @@
+{
+  "id": "dcfd79f5-0be2-47de-8c5e-43ba8a53f8fc",
+  "object": "beer",
+  "name": "Hoppy Obligations V2",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

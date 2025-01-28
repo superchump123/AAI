@@ -1,0 +1,11 @@
+{
+  "id": "2bb8d4fa-61cc-47e9-80db-7ff7c5f8e6b6",
+  "object": "beer",
+  "name": "Cross Eyed Stranger",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

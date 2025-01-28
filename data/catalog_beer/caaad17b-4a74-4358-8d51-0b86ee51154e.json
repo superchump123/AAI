@@ -1,0 +1,11 @@
+{
+  "id": "caaad17b-4a74-4358-8d51-0b86ee51154e",
+  "object": "beer",
+  "name": "Brewhouse Rarities Hoppy American Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

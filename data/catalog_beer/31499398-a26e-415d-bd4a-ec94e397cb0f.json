@@ -1,0 +1,11 @@
+{
+  "id": "31499398-a26e-415d-bd4a-ec94e397cb0f",
+  "object": "beer",
+  "name": "Pre Prohibition Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

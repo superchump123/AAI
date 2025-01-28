@@ -1,0 +1,11 @@
+{
+  "id": "e924653d-7dd7-45e8-8589-d00be50a0794",
+  "object": "beer",
+  "name": "Charity",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d657ecf3-5305-4888-941d-c2786cb4479d",
+  "object": "beer",
+  "name": "Pintail Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a73cadcd-0a25-4d53-82e5-73c60f240d9a",
+  "object": "beer",
+  "name": "Blueberry Origins",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

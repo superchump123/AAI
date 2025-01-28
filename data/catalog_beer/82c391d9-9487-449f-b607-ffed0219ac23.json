@@ -1,0 +1,11 @@
+{
+  "id": "82c391d9-9487-449f-b607-ffed0219ac23",
+  "object": "beer",
+  "name": "Little Friend",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

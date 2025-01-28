@@ -1,0 +1,11 @@
+{
+  "id": "ed303afc-468b-4773-8973-1436f89d092a",
+  "object": "beer",
+  "name": "Loggerhead",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

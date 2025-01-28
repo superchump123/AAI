@@ -1,0 +1,11 @@
+{
+  "id": "dcf5eeca-1e6a-4c67-88e1-044e1667af05",
+  "object": "beer",
+  "name": "Captain America",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

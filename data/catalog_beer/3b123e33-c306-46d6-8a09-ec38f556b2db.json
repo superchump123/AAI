@@ -1,0 +1,11 @@
+{
+  "id": "3b123e33-c306-46d6-8a09-ec38f556b2db",
+  "object": "beer",
+  "name": "Hopadillo  IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

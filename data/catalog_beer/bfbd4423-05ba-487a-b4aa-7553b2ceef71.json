@@ -1,0 +1,11 @@
+{
+  "id": "bfbd4423-05ba-487a-b4aa-7553b2ceef71",
+  "object": "beer",
+  "name": "What You're Looking For",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

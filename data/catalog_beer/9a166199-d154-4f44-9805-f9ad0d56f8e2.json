@@ -1,0 +1,11 @@
+{
+  "id": "9a166199-d154-4f44-9805-f9ad0d56f8e2",
+  "object": "beer",
+  "name": "Cold Drip City",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

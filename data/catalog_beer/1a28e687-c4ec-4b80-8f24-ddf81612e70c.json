@@ -1,0 +1,11 @@
+{
+  "id": "1a28e687-c4ec-4b80-8f24-ddf81612e70c",
+  "object": "beer",
+  "name": "Skullcrusher IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

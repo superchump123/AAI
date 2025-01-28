@@ -1,0 +1,11 @@
+{
+  "id": "1332ed21-a0c7-4325-bf50-089c6e594672",
+  "object": "beer",
+  "name": "Threshold IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

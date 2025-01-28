@@ -1,0 +1,11 @@
+{
+  "id": "5bd37869-afd8-4129-b56f-19933696852a",
+  "object": "beer",
+  "name": "Pure & Simple IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

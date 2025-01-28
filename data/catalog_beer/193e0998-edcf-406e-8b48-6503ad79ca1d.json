@@ -1,0 +1,11 @@
+{
+  "id": "193e0998-edcf-406e-8b48-6503ad79ca1d",
+  "object": "beer",
+  "name": "Wild Raven",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

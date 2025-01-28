@@ -1,0 +1,11 @@
+{
+  "id": "c067f89d-0bd7-4d99-930c-ca3949c254df",
+  "object": "beer",
+  "name": "Night Before Chrimmus",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

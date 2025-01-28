@@ -1,0 +1,11 @@
+{
+  "id": "4a1ea66e-2db6-44c9-9bcd-f4c7e485656f",
+  "object": "beer",
+  "name": "Pink Squirt",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

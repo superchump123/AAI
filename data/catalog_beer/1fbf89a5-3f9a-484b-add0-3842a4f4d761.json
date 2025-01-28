@@ -1,0 +1,11 @@
+{
+  "id": "1fbf89a5-3f9a-484b-add0-3842a4f4d761",
+  "object": "beer",
+  "name": "Killer Boots",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

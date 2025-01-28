@@ -1,0 +1,11 @@
+{
+  "id": "1f80ff04-8b57-441a-8bed-315f6287a162",
+  "object": "beer",
+  "name": "True Love",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

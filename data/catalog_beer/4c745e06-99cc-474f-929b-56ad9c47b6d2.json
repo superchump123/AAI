@@ -1,0 +1,11 @@
+{
+  "id": "4c745e06-99cc-474f-929b-56ad9c47b6d2",
+  "object": "beer",
+  "name": "Pineapple Milkshake",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c649825d-fda0-4223-8dd0-49e61a29bf75",
+  "object": "beer",
+  "name": "Husker Red Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

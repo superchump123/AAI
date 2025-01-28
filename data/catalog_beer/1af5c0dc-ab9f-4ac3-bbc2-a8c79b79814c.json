@@ -1,0 +1,11 @@
+{
+  "id": "1af5c0dc-ab9f-4ac3-bbc2-a8c79b79814c",
+  "object": "beer",
+  "name": "Babbling Brook",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

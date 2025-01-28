@@ -1,0 +1,11 @@
+{
+  "id": "af6d8caf-1b40-4d55-82d2-ba93b0464211",
+  "object": "beer",
+  "name": "Peach Saison",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

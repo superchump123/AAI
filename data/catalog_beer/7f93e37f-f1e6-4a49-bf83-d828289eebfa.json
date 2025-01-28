@@ -1,0 +1,11 @@
+{
+  "id": "7f93e37f-f1e6-4a49-bf83-d828289eebfa",
+  "object": "beer",
+  "name": "Valiant Vets V2",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

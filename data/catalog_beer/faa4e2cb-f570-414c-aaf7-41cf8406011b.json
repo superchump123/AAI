@@ -1,0 +1,11 @@
+{
+  "id": "faa4e2cb-f570-414c-aaf7-41cf8406011b",
+  "object": "beer",
+  "name": "Cashmere Hammer",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

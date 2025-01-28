@@ -1,0 +1,11 @@
+{
+  "id": "51a109e5-04a9-46cb-8e40-894ed7ca8710",
+  "object": "beer",
+  "name": "Extra Pale Lager (EPL)",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

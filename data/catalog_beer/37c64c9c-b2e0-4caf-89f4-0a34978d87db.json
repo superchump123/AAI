@@ -1,0 +1,11 @@
+{
+  "id": "37c64c9c-b2e0-4caf-89f4-0a34978d87db",
+  "object": "beer",
+  "name": "Red Nose Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

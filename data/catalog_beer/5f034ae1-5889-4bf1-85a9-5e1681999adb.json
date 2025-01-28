@@ -1,0 +1,11 @@
+{
+  "id": "5f034ae1-5889-4bf1-85a9-5e1681999adb",
+  "object": "beer",
+  "name": "Veras 1866",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

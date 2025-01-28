@@ -1,0 +1,11 @@
+{
+  "id": "ff0d81c3-ece5-48d5-a351-5b12c86dd11a",
+  "object": "beer",
+  "name": "Humulus Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

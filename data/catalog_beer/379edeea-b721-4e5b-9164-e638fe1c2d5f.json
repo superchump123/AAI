@@ -1,0 +1,11 @@
+{
+  "id": "379edeea-b721-4e5b-9164-e638fe1c2d5f",
+  "object": "beer",
+  "name": "Red Dawn Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

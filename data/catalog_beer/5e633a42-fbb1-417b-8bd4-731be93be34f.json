@@ -1,0 +1,11 @@
+{
+  "id": "5e633a42-fbb1-417b-8bd4-731be93be34f",
+  "object": "beer",
+  "name": "Shine Runner Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

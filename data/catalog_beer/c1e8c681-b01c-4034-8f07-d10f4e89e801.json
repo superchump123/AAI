@@ -1,0 +1,11 @@
+{
+  "id": "c1e8c681-b01c-4034-8f07-d10f4e89e801",
+  "object": "beer",
+  "name": "Recovery Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 11.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

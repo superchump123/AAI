@@ -1,0 +1,11 @@
+{
+  "id": "02e22a15-d170-4df0-8165-10bd5f830ac8",
+  "object": "beer",
+  "name": "Sangre Y Miel",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

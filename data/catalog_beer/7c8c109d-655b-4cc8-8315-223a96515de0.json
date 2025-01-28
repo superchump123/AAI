@@ -1,0 +1,11 @@
+{
+  "id": "7c8c109d-655b-4cc8-8315-223a96515de0",
+  "object": "beer",
+  "name": "Little Max Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64b0f557-ad3c-48c6-af6d-c05483524504",
+  "object": "beer",
+  "name": "Lorelei Dunkel Weizen",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

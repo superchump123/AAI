@@ -1,0 +1,11 @@
+{
+  "id": "d2294b30-5630-4ef1-9299-228cd3ee4a93",
+  "object": "beer",
+  "name": "El Ocho",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

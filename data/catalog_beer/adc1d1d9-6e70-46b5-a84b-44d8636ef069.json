@@ -1,0 +1,11 @@
+{
+  "id": "adc1d1d9-6e70-46b5-a84b-44d8636ef069",
+  "object": "beer",
+  "name": "English Summer Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

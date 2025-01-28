@@ -1,0 +1,11 @@
+{
+  "id": "80cda4dd-caea-4a8f-98d1-cb7656bdb798",
+  "object": "beer",
+  "name": "Battleground Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

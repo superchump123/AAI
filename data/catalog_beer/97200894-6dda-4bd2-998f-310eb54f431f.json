@@ -1,0 +1,11 @@
+{
+  "id": "97200894-6dda-4bd2-998f-310eb54f431f",
+  "object": "beer",
+  "name": "Hoppy Medium",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

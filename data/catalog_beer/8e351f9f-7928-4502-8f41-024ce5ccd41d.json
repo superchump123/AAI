@@ -1,0 +1,11 @@
+{
+  "id": "8e351f9f-7928-4502-8f41-024ce5ccd41d",
+  "object": "beer",
+  "name": "Knuckle Head Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

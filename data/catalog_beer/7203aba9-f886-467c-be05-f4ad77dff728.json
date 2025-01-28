@@ -1,0 +1,11 @@
+{
+  "id": "7203aba9-f886-467c-be05-f4ad77dff728",
+  "object": "beer",
+  "name": "Slippery When Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

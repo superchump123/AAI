@@ -1,0 +1,11 @@
+{
+  "id": "6d3f4336-c580-44f1-a6b9-95fe4d8d3a26",
+  "object": "beer",
+  "name": "Horizon Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

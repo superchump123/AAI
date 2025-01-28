@@ -1,0 +1,11 @@
+{
+  "id": "1142fd35-80f7-47f3-bbbb-0d29eb0690a5",
+  "object": "beer",
+  "name": "28th State Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

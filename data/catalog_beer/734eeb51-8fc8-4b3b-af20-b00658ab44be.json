@@ -1,0 +1,11 @@
+{
+  "id": "734eeb51-8fc8-4b3b-af20-b00658ab44be",
+  "object": "beer",
+  "name": "Hopscape",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ee3b6aaa-bbd4-4245-a85d-19a25dbd5763",
+  "object": "beer",
+  "name": "Saginaw Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

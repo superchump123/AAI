@@ -1,0 +1,11 @@
+{
+  "id": "90d4605a-cd41-4cb4-9668-40e7b9faaad7",
+  "object": "beer",
+  "name": "Mistral",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

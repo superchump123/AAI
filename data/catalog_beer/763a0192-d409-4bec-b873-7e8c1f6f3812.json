@@ -1,0 +1,11 @@
+{
+  "id": "763a0192-d409-4bec-b873-7e8c1f6f3812",
+  "object": "beer",
+  "name": "Rye Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

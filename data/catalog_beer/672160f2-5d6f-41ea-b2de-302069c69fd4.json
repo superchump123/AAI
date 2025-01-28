@@ -1,0 +1,11 @@
+{
+  "id": "672160f2-5d6f-41ea-b2de-302069c69fd4",
+  "object": "beer",
+  "name": "Down the Hatch Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

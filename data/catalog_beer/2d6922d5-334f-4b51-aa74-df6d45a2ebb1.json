@@ -1,0 +1,11 @@
+{
+  "id": "2d6922d5-334f-4b51-aa74-df6d45a2ebb1",
+  "object": "beer",
+  "name": "KUKA - Banana Nut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

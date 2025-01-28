@@ -1,0 +1,11 @@
+{
+  "id": "fad1e7bf-ef6d-41db-9dfd-c5d123494de7",
+  "object": "beer",
+  "name": "Junkyard Dog",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

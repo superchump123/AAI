@@ -1,0 +1,11 @@
+{
+  "id": "d98ee3c0-70b9-4893-ad29-8ceddb1f6cec",
+  "object": "beer",
+  "name": "Saison Sauvin",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

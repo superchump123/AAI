@@ -1,0 +1,11 @@
+{
+  "id": "83d0726c-60b6-4fa5-9842-dc6129b4b3c6",
+  "object": "beer",
+  "name": "Sparkling Ros\u00e9 Ale",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

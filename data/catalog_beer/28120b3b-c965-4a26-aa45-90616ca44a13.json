@@ -1,0 +1,11 @@
+{
+  "id": "28120b3b-c965-4a26-aa45-90616ca44a13",
+  "object": "beer",
+  "name": "Burton India Pale Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

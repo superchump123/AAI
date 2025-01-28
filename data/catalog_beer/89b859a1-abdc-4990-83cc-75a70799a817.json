@@ -1,0 +1,11 @@
+{
+  "id": "89b859a1-abdc-4990-83cc-75a70799a817",
+  "object": "beer",
+  "name": "Anja",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

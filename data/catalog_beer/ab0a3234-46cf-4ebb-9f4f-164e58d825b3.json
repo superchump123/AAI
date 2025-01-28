@@ -1,0 +1,11 @@
+{
+  "id": "ab0a3234-46cf-4ebb-9f4f-164e58d825b3",
+  "object": "beer",
+  "name": "Hanging Lake Honey Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

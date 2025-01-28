@@ -1,0 +1,11 @@
+{
+  "id": "ef3e2172-5a96-426b-9492-828c00765ca8",
+  "object": "beer",
+  "name": "Empire (Mysterium Verum)",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

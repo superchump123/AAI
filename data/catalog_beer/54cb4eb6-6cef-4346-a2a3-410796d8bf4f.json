@@ -1,0 +1,11 @@
+{
+  "id": "54cb4eb6-6cef-4346-a2a3-410796d8bf4f",
+  "object": "beer",
+  "name": "Slap Happy",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

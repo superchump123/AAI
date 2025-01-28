@@ -1,0 +1,11 @@
+{
+  "id": "831f23e9-78b3-4ef6-9bf8-1be3af6f1d30",
+  "object": "beer",
+  "name": "Summer Solstice",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

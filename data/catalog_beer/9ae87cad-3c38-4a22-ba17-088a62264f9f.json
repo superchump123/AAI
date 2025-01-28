@@ -1,0 +1,11 @@
+{
+  "id": "9ae87cad-3c38-4a22-ba17-088a62264f9f",
+  "object": "beer",
+  "name": "Brett Cerise",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

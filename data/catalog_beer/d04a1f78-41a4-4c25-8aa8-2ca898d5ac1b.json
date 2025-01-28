@@ -1,0 +1,11 @@
+{
+  "id": "d04a1f78-41a4-4c25-8aa8-2ca898d5ac1b",
+  "object": "beer",
+  "name": "17-Up",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "934ff7f7-ef69-4b23-bd06-4d1db976af02",
+  "object": "beer",
+  "name": "Hoboken Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "48b6aab2-c009-4c10-80f9-6c065712c81f",
+  "object": "beer",
+  "name": "Oak Creek Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

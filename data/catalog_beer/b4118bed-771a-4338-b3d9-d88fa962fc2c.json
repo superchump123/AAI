@@ -1,0 +1,11 @@
+{
+  "id": "b4118bed-771a-4338-b3d9-d88fa962fc2c",
+  "object": "beer",
+  "name": "Iron Fist Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a7d492f-574f-4e50-8146-e5bde30fa718",
+  "object": "beer",
+  "name": "Negura Bunget",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fab1fc7e-c539-44de-bf3b-b460a975d7b8",
+  "object": "beer",
+  "name": "Herb\u2019s Rye American Wheat Beer",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9c286d81-ccea-4d2e-9de4-9f33e590d28c",
+  "object": "beer",
+  "name": "Mantooth",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

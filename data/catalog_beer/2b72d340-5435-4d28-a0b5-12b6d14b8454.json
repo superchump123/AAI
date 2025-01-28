@@ -1,0 +1,11 @@
+{
+  "id": "2b72d340-5435-4d28-a0b5-12b6d14b8454",
+  "object": "beer",
+  "name": "Pipenbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

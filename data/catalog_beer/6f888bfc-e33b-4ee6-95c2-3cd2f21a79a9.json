@@ -1,0 +1,11 @@
+{
+  "id": "6f888bfc-e33b-4ee6-95c2-3cd2f21a79a9",
+  "object": "beer",
+  "name": "Brush Tail",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

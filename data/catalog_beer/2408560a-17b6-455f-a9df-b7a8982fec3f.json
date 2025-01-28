@@ -1,0 +1,11 @@
+{
+  "id": "2408560a-17b6-455f-a9df-b7a8982fec3f",
+  "object": "beer",
+  "name": "Tug Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1546eb53-ca0f-4d52-9cbd-6c8ff34627e0",
+  "object": "beer",
+  "name": "Bonanza Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

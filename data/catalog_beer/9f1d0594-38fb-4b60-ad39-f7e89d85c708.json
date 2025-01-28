@@ -1,0 +1,11 @@
+{
+  "id": "9f1d0594-38fb-4b60-ad39-f7e89d85c708",
+  "object": "beer",
+  "name": "Elm Street",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

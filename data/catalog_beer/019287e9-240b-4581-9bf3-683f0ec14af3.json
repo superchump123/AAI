@@ -1,0 +1,11 @@
+{
+  "id": "019287e9-240b-4581-9bf3-683f0ec14af3",
+  "object": "beer",
+  "name": "I AM TABLE IPA!",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

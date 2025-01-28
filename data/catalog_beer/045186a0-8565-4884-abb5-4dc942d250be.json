@@ -1,0 +1,11 @@
+{
+  "id": "045186a0-8565-4884-abb5-4dc942d250be",
+  "object": "beer",
+  "name": "Risgoop",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

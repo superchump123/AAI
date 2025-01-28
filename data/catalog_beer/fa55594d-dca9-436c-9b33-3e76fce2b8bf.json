@@ -1,0 +1,11 @@
+{
+  "id": "fa55594d-dca9-436c-9b33-3e76fce2b8bf",
+  "object": "beer",
+  "name": "3 Fields Harvest Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

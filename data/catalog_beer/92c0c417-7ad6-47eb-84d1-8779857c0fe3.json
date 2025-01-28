@@ -1,0 +1,11 @@
+{
+  "id": "92c0c417-7ad6-47eb-84d1-8779857c0fe3",
+  "object": "beer",
+  "name": "Raspberry Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

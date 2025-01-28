@@ -1,0 +1,11 @@
+{
+  "id": "a457b3c0-8b50-4a15-aeb6-1ef32b87973a",
+  "object": "beer",
+  "name": "Proper Beer",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

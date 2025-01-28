@@ -1,0 +1,11 @@
+{
+  "id": "104ced68-030a-4e9b-b211-8152e3c8c6a3",
+  "object": "beer",
+  "name": "Sahti Ale",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

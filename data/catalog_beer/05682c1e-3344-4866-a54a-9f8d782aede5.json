@@ -1,0 +1,11 @@
+{
+  "id": "05682c1e-3344-4866-a54a-9f8d782aede5",
+  "object": "beer",
+  "name": "Neptune",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

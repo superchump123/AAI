@@ -1,0 +1,11 @@
+{
+  "id": "72f35c03-8c0c-4952-b9d6-e9d2f47c934e",
+  "object": "beer",
+  "name": "18 Mile Rye Pale Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

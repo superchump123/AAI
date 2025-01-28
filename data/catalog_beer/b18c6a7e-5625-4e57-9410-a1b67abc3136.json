@@ -1,0 +1,11 @@
+{
+  "id": "b18c6a7e-5625-4e57-9410-a1b67abc3136",
+  "object": "beer",
+  "name": "Road Soda Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

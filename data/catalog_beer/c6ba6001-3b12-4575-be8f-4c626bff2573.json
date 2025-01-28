@@ -1,0 +1,11 @@
+{
+  "id": "c6ba6001-3b12-4575-be8f-4c626bff2573",
+  "object": "beer",
+  "name": "The Jerk",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

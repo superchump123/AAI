@@ -1,0 +1,11 @@
+{
+  "id": "951c27f8-4fcb-4de9-9073-72ee353687f0",
+  "object": "beer",
+  "name": "Dam Hard Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

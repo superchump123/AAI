@@ -1,0 +1,11 @@
+{
+  "id": "a9397c96-6f3b-4570-95c6-ced2e8c9f8a4",
+  "object": "beer",
+  "name": "Old-Style Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

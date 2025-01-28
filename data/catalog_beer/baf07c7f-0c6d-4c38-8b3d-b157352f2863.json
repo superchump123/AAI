@@ -1,0 +1,11 @@
+{
+  "id": "baf07c7f-0c6d-4c38-8b3d-b157352f2863",
+  "object": "beer",
+  "name": "Barn Hopper",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

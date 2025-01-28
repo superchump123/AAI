@@ -1,0 +1,11 @@
+{
+  "id": "36cfb872-fde0-4a99-90a7-7e3b16cd9e48",
+  "object": "beer",
+  "name": "4 Foot Drop",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

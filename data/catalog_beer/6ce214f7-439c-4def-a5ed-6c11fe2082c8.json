@@ -1,0 +1,11 @@
+{
+  "id": "6ce214f7-439c-4def-a5ed-6c11fe2082c8",
+  "object": "beer",
+  "name": "Iron Spike - Copper",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

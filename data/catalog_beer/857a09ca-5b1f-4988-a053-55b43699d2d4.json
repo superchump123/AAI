@@ -1,0 +1,11 @@
+{
+  "id": "857a09ca-5b1f-4988-a053-55b43699d2d4",
+  "object": "beer",
+  "name": "Texas Gold",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

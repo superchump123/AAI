@@ -1,0 +1,11 @@
+{
+  "id": "944f51e4-a609-410d-b122-b0f10cf07193",
+  "object": "beer",
+  "name": "Rising Rainbow Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

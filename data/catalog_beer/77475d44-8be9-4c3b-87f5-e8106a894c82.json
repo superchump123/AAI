@@ -1,0 +1,11 @@
+{
+  "id": "77475d44-8be9-4c3b-87f5-e8106a894c82",
+  "object": "beer",
+  "name": "Imperial Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

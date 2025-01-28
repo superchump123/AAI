@@ -1,0 +1,11 @@
+{
+  "id": "64d6c77c-f5ac-4884-8d3b-4a2d525d6952",
+  "object": "beer",
+  "name": "Egoiste",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

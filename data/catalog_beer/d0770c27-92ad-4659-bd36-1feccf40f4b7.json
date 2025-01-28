@@ -1,0 +1,11 @@
+{
+  "id": "d0770c27-92ad-4659-bd36-1feccf40f4b7",
+  "object": "beer",
+  "name": "Smithville",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

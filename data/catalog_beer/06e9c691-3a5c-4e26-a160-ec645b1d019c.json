@@ -1,0 +1,11 @@
+{
+  "id": "06e9c691-3a5c-4e26-a160-ec645b1d019c",
+  "object": "beer",
+  "name": "Aveia",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

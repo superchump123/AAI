@@ -1,0 +1,11 @@
+{
+  "id": "4c029016-59dc-4fc8-872b-05cce22ce77f",
+  "object": "beer",
+  "name": "Fun Size",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

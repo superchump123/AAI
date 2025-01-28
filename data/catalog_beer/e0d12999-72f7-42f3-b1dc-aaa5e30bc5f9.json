@@ -1,0 +1,11 @@
+{
+  "id": "e0d12999-72f7-42f3-b1dc-aaa5e30bc5f9",
+  "object": "beer",
+  "name": "Nitro Pale Ale/ Jack's Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

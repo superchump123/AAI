@@ -1,0 +1,11 @@
+{
+  "id": "390cac2f-f4ec-4b7a-b45a-94134c77f501",
+  "object": "beer",
+  "name": "Jesco's White IPA",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

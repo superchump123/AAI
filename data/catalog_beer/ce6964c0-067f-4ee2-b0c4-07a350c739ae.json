@@ -1,0 +1,11 @@
+{
+  "id": "ce6964c0-067f-4ee2-b0c4-07a350c739ae",
+  "object": "beer",
+  "name": "The Smokey Treat",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2b5faa78-5103-4b5c-a1b3-b7e46a178d54",
+  "object": "beer",
+  "name": "Cerveza El Whaler",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "390df113-3001-4024-a615-699bfb69ab95",
+  "object": "beer",
+  "name": "Snake Bite",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

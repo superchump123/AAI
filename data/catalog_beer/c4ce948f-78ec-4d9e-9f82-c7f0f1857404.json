@@ -1,0 +1,11 @@
+{
+  "id": "c4ce948f-78ec-4d9e-9f82-c7f0f1857404",
+  "object": "beer",
+  "name": "Ryrish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

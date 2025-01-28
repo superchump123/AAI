@@ -1,0 +1,11 @@
+{
+  "id": "c6dabad9-bd5a-4a58-b4c0-8627f6e47743",
+  "object": "beer",
+  "name": "Midnight Sun",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

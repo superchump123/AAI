@@ -1,0 +1,11 @@
+{
+  "id": "25dc5f93-cb4f-46cc-a482-da9058b36661",
+  "object": "beer",
+  "name": "Berry Merry Holiday Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

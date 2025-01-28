@@ -1,0 +1,11 @@
+{
+  "id": "0671fc2c-8020-44b7-96d3-3bfcef863cf7",
+  "object": "beer",
+  "name": "Big Jack Horner",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

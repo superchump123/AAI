@@ -1,0 +1,11 @@
+{
+  "id": "ab5bf577-6fa7-4d23-bcb7-4e6deaac4c69",
+  "object": "beer",
+  "name": "Bailout Brew",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

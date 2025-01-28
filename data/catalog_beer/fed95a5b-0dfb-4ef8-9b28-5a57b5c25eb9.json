@@ -1,0 +1,11 @@
+{
+  "id": "fed95a5b-0dfb-4ef8-9b28-5a57b5c25eb9",
+  "object": "beer",
+  "name": "Stand Down",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

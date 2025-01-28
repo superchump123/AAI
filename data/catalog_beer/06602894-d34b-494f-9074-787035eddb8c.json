@@ -1,0 +1,11 @@
+{
+  "id": "06602894-d34b-494f-9074-787035eddb8c",
+  "object": "beer",
+  "name": "Barrel Aged Golden Sour",
+  "style": "Golden Ale",
+  "description": "A Golden Ale soured with lactobacillus acidophilus & aged in a bourbon barrel!\r\nThis beer is bright and sour on the palate with strong lemon & grapefruit notes",
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": true,
+  "last_modified": 1511569381
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e256525c-8fa0-48eb-adf2-0b32a143a759",
+  "object": "beer",
+  "name": "Broken Auger Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

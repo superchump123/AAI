@@ -1,0 +1,11 @@
+{
+  "id": "585ca2d1-7a73-4354-9f91-e825dd8ebe77",
+  "object": "beer",
+  "name": "#1 Brown Brett Braggot",
+  "style": "Braggot",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

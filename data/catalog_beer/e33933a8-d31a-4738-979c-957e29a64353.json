@@ -1,0 +1,11 @@
+{
+  "id": "e33933a8-d31a-4738-979c-957e29a64353",
+  "object": "beer",
+  "name": "Bottoms Up Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

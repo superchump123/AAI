@@ -1,0 +1,11 @@
+{
+  "id": "deb58f13-1acf-420a-a414-fefd9c77831d",
+  "object": "beer",
+  "name": "The Growler",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

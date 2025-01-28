@@ -1,0 +1,11 @@
+{
+  "id": "b74a8d43-5c1b-4a5e-83fc-6efe022fe48a",
+  "object": "beer",
+  "name": "Unapologetic IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

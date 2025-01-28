@@ -1,0 +1,11 @@
+{
+  "id": "d5f3670d-3909-4fbc-a1a7-283e3b4f0177",
+  "object": "beer",
+  "name": "Kodiak Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

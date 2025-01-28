@@ -1,0 +1,11 @@
+{
+  "id": "54f42ad4-566f-48e8-b977-e5ce4fbe9b74",
+  "object": "beer",
+  "name": "Sticky When Wet",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

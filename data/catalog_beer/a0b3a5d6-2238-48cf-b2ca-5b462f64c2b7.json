@@ -1,0 +1,11 @@
+{
+  "id": "a0b3a5d6-2238-48cf-b2ca-5b462f64c2b7",
+  "object": "beer",
+  "name": "Mission Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

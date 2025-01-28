@@ -1,0 +1,11 @@
+{
+  "id": "971a2405-f6c7-4406-a1f2-758db4231194",
+  "object": "beer",
+  "name": "Summertime Rye",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

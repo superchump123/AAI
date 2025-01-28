@@ -1,0 +1,11 @@
+{
+  "id": "da03876f-1f15-400f-a843-8a2fba262c4e",
+  "object": "beer",
+  "name": "Old Towne Bavarian Lager",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

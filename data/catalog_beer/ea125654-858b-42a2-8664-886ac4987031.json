@@ -1,0 +1,11 @@
+{
+  "id": "ea125654-858b-42a2-8664-886ac4987031",
+  "object": "beer",
+  "name": "Butch's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

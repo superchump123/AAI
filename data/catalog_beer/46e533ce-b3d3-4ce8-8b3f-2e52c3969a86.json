@@ -1,0 +1,11 @@
+{
+  "id": "46e533ce-b3d3-4ce8-8b3f-2e52c3969a86",
+  "object": "beer",
+  "name": "Cheap Trick",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

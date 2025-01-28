@@ -1,0 +1,11 @@
+{
+  "id": "a870323e-235c-4196-8b46-e17d224959a5",
+  "object": "beer",
+  "name": "Session IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ac4ebe0-54de-4127-a46b-b508dbd930c9",
+  "object": "beer",
+  "name": "Pale XX No. 2",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

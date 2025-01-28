@@ -1,0 +1,11 @@
+{
+  "id": "42937021-06f8-4e04-94da-c73ef734fa04",
+  "object": "beer",
+  "name": "Splish",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

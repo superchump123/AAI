@@ -1,0 +1,11 @@
+{
+  "id": "50974f59-23b5-4bb7-954d-c54537ac88d1",
+  "object": "beer",
+  "name": "Orange Dream",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65e0d8d6-891e-4047-bddd-f8992a859fef",
+  "object": "beer",
+  "name": "Beach Cruiser",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

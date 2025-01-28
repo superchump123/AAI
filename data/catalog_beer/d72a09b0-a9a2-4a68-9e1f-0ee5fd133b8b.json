@@ -1,0 +1,11 @@
+{
+  "id": "d72a09b0-a9a2-4a68-9e1f-0ee5fd133b8b",
+  "object": "beer",
+  "name": "Three Feet Deep",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

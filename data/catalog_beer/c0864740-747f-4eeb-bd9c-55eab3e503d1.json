@@ -1,0 +1,11 @@
+{
+  "id": "c0864740-747f-4eeb-bd9c-55eab3e503d1",
+  "object": "beer",
+  "name": "Rye Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

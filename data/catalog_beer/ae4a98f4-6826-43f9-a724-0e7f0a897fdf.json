@@ -1,0 +1,11 @@
+{
+  "id": "ae4a98f4-6826-43f9-a724-0e7f0a897fdf",
+  "object": "beer",
+  "name": "Summer Hop",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

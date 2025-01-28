@@ -1,0 +1,11 @@
+{
+  "id": "043e6289-dbc1-4c74-89fb-ceea3f3e5c46",
+  "object": "beer",
+  "name": "Easy Jack",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

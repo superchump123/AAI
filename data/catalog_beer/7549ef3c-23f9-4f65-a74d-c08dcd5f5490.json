@@ -1,0 +1,11 @@
+{
+  "id": "7549ef3c-23f9-4f65-a74d-c08dcd5f5490",
+  "object": "beer",
+  "name": "Session Stout",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

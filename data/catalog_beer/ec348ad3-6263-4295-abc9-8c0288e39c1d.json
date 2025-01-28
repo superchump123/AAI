@@ -1,0 +1,11 @@
+{
+  "id": "ec348ad3-6263-4295-abc9-8c0288e39c1d",
+  "object": "beer",
+  "name": "Black Cauldron Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4e2ec605-6481-44b1-83ff-6606403d628d",
+  "object": "beer",
+  "name": "R&D Series: IRA",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

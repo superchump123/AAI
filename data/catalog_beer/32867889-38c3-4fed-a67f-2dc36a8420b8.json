@@ -1,0 +1,11 @@
+{
+  "id": "32867889-38c3-4fed-a67f-2dc36a8420b8",
+  "object": "beer",
+  "name": "Pale Ryeder",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

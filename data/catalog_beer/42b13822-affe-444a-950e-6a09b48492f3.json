@@ -1,0 +1,11 @@
+{
+  "id": "42b13822-affe-444a-950e-6a09b48492f3",
+  "object": "beer",
+  "name": "Banjo",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

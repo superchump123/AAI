@@ -1,0 +1,11 @@
+{
+  "id": "67e71829-90c6-49a0-8304-75de2819d18f",
+  "object": "beer",
+  "name": "SuperFun Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

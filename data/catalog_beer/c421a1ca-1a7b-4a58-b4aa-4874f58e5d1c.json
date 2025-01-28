@@ -1,0 +1,11 @@
+{
+  "id": "c421a1ca-1a7b-4a58-b4aa-4874f58e5d1c",
+  "object": "beer",
+  "name": "In the Flesh (With Peaches)",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

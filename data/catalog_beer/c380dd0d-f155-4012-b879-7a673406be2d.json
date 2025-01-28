@@ -1,0 +1,11 @@
+{
+  "id": "c380dd0d-f155-4012-b879-7a673406be2d",
+  "object": "beer",
+  "name": "Beck's Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

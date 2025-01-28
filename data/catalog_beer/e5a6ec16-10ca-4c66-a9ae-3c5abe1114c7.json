@@ -1,0 +1,11 @@
+{
+  "id": "e5a6ec16-10ca-4c66-a9ae-3c5abe1114c7",
+  "object": "beer",
+  "name": "Redcoat Resistance",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

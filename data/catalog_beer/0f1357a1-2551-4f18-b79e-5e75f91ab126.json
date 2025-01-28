@@ -1,0 +1,11 @@
+{
+  "id": "0f1357a1-2551-4f18-b79e-5e75f91ab126",
+  "object": "beer",
+  "name": "Iniquity",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

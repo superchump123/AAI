@@ -1,0 +1,11 @@
+{
+  "id": "99b4aaaf-cb76-486e-85e4-ed5007e10ee2",
+  "object": "beer",
+  "name": "Hazelnut Mild",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "28b1eeba-5051-4c8c-8abb-0f27e3ed6135",
+  "object": "beer",
+  "name": "Float Summer Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "935008d6-a845-4b6a-b024-c8db921542a2",
+  "object": "beer",
+  "name": "Bamberger Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

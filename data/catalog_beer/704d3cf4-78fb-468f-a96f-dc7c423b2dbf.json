@@ -1,0 +1,11 @@
+{
+  "id": "704d3cf4-78fb-468f-a96f-dc7c423b2dbf",
+  "object": "beer",
+  "name": "Faithfull Ale",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

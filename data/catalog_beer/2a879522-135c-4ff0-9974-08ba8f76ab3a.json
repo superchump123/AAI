@@ -1,0 +1,11 @@
+{
+  "id": "2a879522-135c-4ff0-9974-08ba8f76ab3a",
+  "object": "beer",
+  "name": "Wayan",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c78f1228-4ef5-41a0-81ed-b2f53dd854ca",
+  "object": "beer",
+  "name": "Angry Brown Clown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

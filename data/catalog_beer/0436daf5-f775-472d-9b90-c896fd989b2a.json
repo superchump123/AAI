@@ -1,0 +1,11 @@
+{
+  "id": "0436daf5-f775-472d-9b90-c896fd989b2a",
+  "object": "beer",
+  "name": "Terminally Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

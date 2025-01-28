@@ -1,0 +1,11 @@
+{
+  "id": "14673dff-aa76-43c8-9403-8d3100097818",
+  "object": "beer",
+  "name": "Mount Hood Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

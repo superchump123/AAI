@@ -1,0 +1,11 @@
+{
+  "id": "88424b56-a563-47f1-8f2d-68cd56aa954b",
+  "object": "beer",
+  "name": "Barrel Of Love",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

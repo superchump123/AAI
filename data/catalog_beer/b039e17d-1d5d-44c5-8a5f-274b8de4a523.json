@@ -1,0 +1,11 @@
+{
+  "id": "b039e17d-1d5d-44c5-8a5f-274b8de4a523",
+  "object": "beer",
+  "name": "Monk in the Trunk",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

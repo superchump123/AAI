@@ -1,0 +1,11 @@
+{
+  "id": "1d5a64d6-59b9-4c5f-9b7a-c045ede41727",
+  "object": "beer",
+  "name": "Two Fisted Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

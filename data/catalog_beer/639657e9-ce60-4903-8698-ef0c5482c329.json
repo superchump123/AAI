@@ -1,0 +1,11 @@
+{
+  "id": "639657e9-ce60-4903-8698-ef0c5482c329",
+  "object": "beer",
+  "name": "Forbidden Root",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

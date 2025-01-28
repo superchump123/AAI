@@ -1,0 +1,11 @@
+{
+  "id": "5f8a9031-51fd-47b7-b359-638612d3e6b7",
+  "object": "beer",
+  "name": "Rock Mild",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

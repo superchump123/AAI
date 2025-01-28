@@ -1,0 +1,11 @@
+{
+  "id": "8c2bf729-211d-4fce-af8a-d4328ebf27cc",
+  "object": "beer",
+  "name": "Dundee Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

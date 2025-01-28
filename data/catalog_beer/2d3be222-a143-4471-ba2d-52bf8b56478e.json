@@ -1,0 +1,11 @@
+{
+  "id": "2d3be222-a143-4471-ba2d-52bf8b56478e",
+  "object": "beer",
+  "name": "Colorado Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

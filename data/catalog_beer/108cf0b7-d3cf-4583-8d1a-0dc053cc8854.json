@@ -1,0 +1,11 @@
+{
+  "id": "108cf0b7-d3cf-4583-8d1a-0dc053cc8854",
+  "object": "beer",
+  "name": "Belford Striper",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "673bb1b6-b20c-42b1-8f29-40d0f9dd21f7",
+  "object": "beer",
+  "name": "Atomic Mutation",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

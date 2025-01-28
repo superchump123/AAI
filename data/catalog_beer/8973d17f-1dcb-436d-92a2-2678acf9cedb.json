@@ -1,0 +1,11 @@
+{
+  "id": "8973d17f-1dcb-436d-92a2-2678acf9cedb",
+  "object": "beer",
+  "name": "The Mitten",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

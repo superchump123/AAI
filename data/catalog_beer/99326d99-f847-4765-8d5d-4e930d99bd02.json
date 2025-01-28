@@ -1,0 +1,11 @@
+{
+  "id": "99326d99-f847-4765-8d5d-4e930d99bd02",
+  "object": "beer",
+  "name": "Farmhouse",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

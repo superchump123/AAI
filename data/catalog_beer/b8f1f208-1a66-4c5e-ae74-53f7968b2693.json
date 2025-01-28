@@ -1,0 +1,11 @@
+{
+  "id": "b8f1f208-1a66-4c5e-ae74-53f7968b2693",
+  "object": "beer",
+  "name": "Venomous",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

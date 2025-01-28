@@ -1,0 +1,11 @@
+{
+  "id": "6165e29c-c955-4fd8-96b7-bee9c5f79c02",
+  "object": "beer",
+  "name": "Celestial Critter",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

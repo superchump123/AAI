@@ -1,0 +1,11 @@
+{
+  "id": "1b5ea652-ff7f-4a1b-8a0e-ae8fab2f5999",
+  "object": "beer",
+  "name": "Impey Barbicane's Moon Gun",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

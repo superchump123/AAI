@@ -1,0 +1,11 @@
+{
+  "id": "6e041dcb-207a-4445-9e8c-c9e24b073625",
+  "object": "beer",
+  "name": "Samurai Gazebo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

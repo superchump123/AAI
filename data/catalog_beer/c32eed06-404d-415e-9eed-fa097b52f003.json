@@ -1,0 +1,11 @@
+{
+  "id": "c32eed06-404d-415e-9eed-fa097b52f003",
+  "object": "beer",
+  "name": "Georgia Peach",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

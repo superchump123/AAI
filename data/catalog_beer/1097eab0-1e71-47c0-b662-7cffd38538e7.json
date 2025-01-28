@@ -1,0 +1,11 @@
+{
+  "id": "1097eab0-1e71-47c0-b662-7cffd38538e7",
+  "object": "beer",
+  "name": "Juice Monster",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

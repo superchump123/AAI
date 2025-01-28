@@ -1,0 +1,11 @@
+{
+  "id": "91b105cc-0e7e-494e-8c0c-42a97fbb6c18",
+  "object": "beer",
+  "name": "Phat DJ IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

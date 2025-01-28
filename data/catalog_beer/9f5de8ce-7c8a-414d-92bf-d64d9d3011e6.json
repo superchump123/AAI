@@ -1,0 +1,11 @@
+{
+  "id": "9f5de8ce-7c8a-414d-92bf-d64d9d3011e6",
+  "object": "beer",
+  "name": "Traditional Honey Wine",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

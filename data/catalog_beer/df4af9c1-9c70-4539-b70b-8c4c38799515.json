@@ -1,0 +1,11 @@
+{
+  "id": "df4af9c1-9c70-4539-b70b-8c4c38799515",
+  "object": "beer",
+  "name": "Kern",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

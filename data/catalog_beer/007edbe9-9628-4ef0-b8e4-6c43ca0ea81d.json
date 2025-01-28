@@ -1,0 +1,11 @@
+{
+  "id": "007edbe9-9628-4ef0-b8e4-6c43ca0ea81d",
+  "object": "beer",
+  "name": "Eastside",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

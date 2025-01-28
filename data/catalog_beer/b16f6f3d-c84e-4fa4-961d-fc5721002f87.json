@@ -1,0 +1,11 @@
+{
+  "id": "b16f6f3d-c84e-4fa4-961d-fc5721002f87",
+  "object": "beer",
+  "name": "IPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

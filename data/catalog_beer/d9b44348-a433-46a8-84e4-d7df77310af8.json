@@ -1,0 +1,11 @@
+{
+  "id": "d9b44348-a433-46a8-84e4-d7df77310af8",
+  "object": "beer",
+  "name": "Coffeehouse Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "68b81ffa-0a25-4357-89c6-09c8385e1f32",
+  "object": "beer",
+  "name": "Lil Tart",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

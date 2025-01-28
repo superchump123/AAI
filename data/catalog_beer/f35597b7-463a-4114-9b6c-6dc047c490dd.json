@@ -1,0 +1,11 @@
+{
+  "id": "f35597b7-463a-4114-9b6c-6dc047c490dd",
+  "object": "beer",
+  "name": "Mosaic Marathon",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

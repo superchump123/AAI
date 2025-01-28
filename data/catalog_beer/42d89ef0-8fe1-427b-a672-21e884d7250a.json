@@ -1,0 +1,11 @@
+{
+  "id": "42d89ef0-8fe1-427b-a672-21e884d7250a",
+  "object": "beer",
+  "name": "Sky Ladder",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

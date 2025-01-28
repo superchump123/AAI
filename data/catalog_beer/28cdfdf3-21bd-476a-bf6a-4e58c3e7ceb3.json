@@ -1,0 +1,11 @@
+{
+  "id": "28cdfdf3-21bd-476a-bf6a-4e58c3e7ceb3",
+  "object": "beer",
+  "name": "Sainte-Nitouche",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "24205fbd-6cf3-443d-a3ff-6268736cf062",
+  "object": "beer",
+  "name": "Devil's Triangle IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

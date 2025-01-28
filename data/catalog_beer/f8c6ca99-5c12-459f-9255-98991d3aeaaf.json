@@ -1,0 +1,11 @@
+{
+  "id": "f8c6ca99-5c12-459f-9255-98991d3aeaaf",
+  "object": "beer",
+  "name": "Dank Tank Ghoulash",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 167,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

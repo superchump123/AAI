@@ -1,0 +1,11 @@
+{
+  "id": "da1dda4e-553d-4404-b42d-7c4dc211cd3e",
+  "object": "beer",
+  "name": "Deadeye Stout on Nitro",
+  "style": "Nitro Stout",
+  "description": "Dark and opaque, with a big roasty malty nose, a slight hint of coffee and notes of sweet toffee, all swaddled in oaty creaminess, this beer delivers the full-bodied mouth-feel you expect from a stout.",
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": true,
+  "last_modified": 1511568668
+}

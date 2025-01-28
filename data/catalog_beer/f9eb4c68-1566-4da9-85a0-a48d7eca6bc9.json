@@ -1,0 +1,11 @@
+{
+  "id": "f9eb4c68-1566-4da9-85a0-a48d7eca6bc9",
+  "object": "beer",
+  "name": "Manitou Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

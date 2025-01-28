@@ -1,0 +1,11 @@
+{
+  "id": "8b16ab8b-9c2c-4c0d-8285-e4349381a279",
+  "object": "beer",
+  "name": "Blanca Biere De Table",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

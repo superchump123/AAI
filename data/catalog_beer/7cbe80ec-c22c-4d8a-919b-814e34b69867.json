@@ -1,0 +1,11 @@
+{
+  "id": "7cbe80ec-c22c-4d8a-919b-814e34b69867",
+  "object": "beer",
+  "name": "Le Seul XIII (Guava)",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

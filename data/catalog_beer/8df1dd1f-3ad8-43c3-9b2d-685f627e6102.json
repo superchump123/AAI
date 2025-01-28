@@ -1,0 +1,11 @@
+{
+  "id": "8df1dd1f-3ad8-43c3-9b2d-685f627e6102",
+  "object": "beer",
+  "name": "Hoppelganger IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

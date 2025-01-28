@@ -1,0 +1,11 @@
+{
+  "id": "b6bfbf62-5b7d-47bb-9be0-a094ee95e574",
+  "object": "beer",
+  "name": "Brett Gruit Stout",
+  "style": "Field Beer",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

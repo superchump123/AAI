@@ -1,0 +1,11 @@
+{
+  "id": "c897c6f3-74ee-4f7f-bd1c-640b7ddfaa4e",
+  "object": "beer",
+  "name": "Fallen Queen",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

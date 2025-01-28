@@ -1,0 +1,11 @@
+{
+  "id": "d7ea2e46-970e-48c7-a1cc-b249a5ff7253",
+  "object": "beer",
+  "name": "Rumbah Double Rum Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

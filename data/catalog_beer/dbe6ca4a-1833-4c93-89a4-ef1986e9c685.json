@@ -1,0 +1,11 @@
+{
+  "id": "dbe6ca4a-1833-4c93-89a4-ef1986e9c685",
+  "object": "beer",
+  "name": "Champaign Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

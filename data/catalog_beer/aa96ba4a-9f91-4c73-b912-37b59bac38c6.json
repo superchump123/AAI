@@ -1,0 +1,11 @@
+{
+  "id": "aa96ba4a-9f91-4c73-b912-37b59bac38c6",
+  "object": "beer",
+  "name": "Baby Genius Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

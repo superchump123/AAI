@@ -1,0 +1,11 @@
+{
+  "id": "337da2ca-d23d-4ddc-aa7a-2ec7cbeff61d",
+  "object": "beer",
+  "name": "LEMON HEAD",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7d40f9b9-7c5d-4d8a-a89d-3431a97f693c",
+  "object": "beer",
+  "name": "Apollo Tsai",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

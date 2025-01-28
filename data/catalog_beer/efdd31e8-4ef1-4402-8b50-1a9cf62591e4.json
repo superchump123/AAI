@@ -1,0 +1,11 @@
+{
+  "id": "efdd31e8-4ef1-4402-8b50-1a9cf62591e4",
+  "object": "beer",
+  "name": "Spitfire Best Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

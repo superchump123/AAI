@@ -1,0 +1,11 @@
+{
+  "id": "0ce8f71b-dd0f-479d-898c-95d525cff5ee",
+  "object": "beer",
+  "name": "Pacific Rain Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

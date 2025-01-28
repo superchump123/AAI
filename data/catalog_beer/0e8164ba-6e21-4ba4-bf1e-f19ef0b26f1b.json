@@ -1,0 +1,11 @@
+{
+  "id": "0e8164ba-6e21-4ba4-bf1e-f19ef0b26f1b",
+  "object": "beer",
+  "name": "Dragon's Breath",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

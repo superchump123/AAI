@@ -1,0 +1,11 @@
+{
+  "id": "81382076-d095-4fe6-89ba-36f4f9d4bf7e",
+  "object": "beer",
+  "name": "Rye Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d08702e1-7d09-49b0-bbb8-a92da4631f61",
+  "object": "beer",
+  "name": "Pub Crawl",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2f7cefab-fd67-4b02-9893-51e50768fc3b",
+  "object": "beer",
+  "name": "Grizzly Pear",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9fad5cde-262b-46e6-b057-c52d2ebaab33",
+  "object": "beer",
+  "name": "Grey Skies",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1027d8cf-5528-43d4-b9d0-b15f14dfaf1a",
+  "object": "beer",
+  "name": "Miss Beehavior",
+  "style": "Braggot",
+  "description": null,
+  "abv": 8,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

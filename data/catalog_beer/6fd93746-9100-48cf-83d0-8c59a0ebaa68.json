@@ -1,0 +1,11 @@
+{
+  "id": "6fd93746-9100-48cf-83d0-8c59a0ebaa68",
+  "object": "beer",
+  "name": "Crossroads Coffee Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

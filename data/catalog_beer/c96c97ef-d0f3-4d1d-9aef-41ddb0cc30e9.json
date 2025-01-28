@@ -1,0 +1,11 @@
+{
+  "id": "c96c97ef-d0f3-4d1d-9aef-41ddb0cc30e9",
+  "object": "beer",
+  "name": "Dragon's Breath",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

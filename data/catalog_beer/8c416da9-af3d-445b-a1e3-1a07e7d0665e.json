@@ -1,0 +1,11 @@
+{
+  "id": "8c416da9-af3d-445b-a1e3-1a07e7d0665e",
+  "object": "beer",
+  "name": "Dvanactka",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

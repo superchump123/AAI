@@ -1,0 +1,11 @@
+{
+  "id": "665b9140-eeab-4409-aad3-a5aa61c76c63",
+  "object": "beer",
+  "name": "Queen of the South",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

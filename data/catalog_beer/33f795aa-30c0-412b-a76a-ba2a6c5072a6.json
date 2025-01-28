@@ -1,0 +1,11 @@
+{
+  "id": "33f795aa-30c0-412b-a76a-ba2a6c5072a6",
+  "object": "beer",
+  "name": "Dead Kettle",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

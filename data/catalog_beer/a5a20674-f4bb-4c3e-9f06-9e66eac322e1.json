@@ -1,0 +1,11 @@
+{
+  "id": "a5a20674-f4bb-4c3e-9f06-9e66eac322e1",
+  "object": "beer",
+  "name": "Texas Shade",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

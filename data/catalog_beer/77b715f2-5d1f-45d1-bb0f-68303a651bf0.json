@@ -1,0 +1,11 @@
+{
+  "id": "77b715f2-5d1f-45d1-bb0f-68303a651bf0",
+  "object": "beer",
+  "name": "Hop A Wheelie",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

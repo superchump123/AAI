@@ -1,0 +1,11 @@
+{
+  "id": "56a59531-cdd6-4bcb-8401-2107f72d7ecc",
+  "object": "beer",
+  "name": "The Judge",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

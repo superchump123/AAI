@@ -1,0 +1,11 @@
+{
+  "id": "60634c22-2c14-436a-ac2a-583e63eae260",
+  "object": "beer",
+  "name": "Ned Ryerson",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40500460-0e6a-4617-a635-0dca8aeb5d77",
+  "object": "beer",
+  "name": "Meyer Lemons",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

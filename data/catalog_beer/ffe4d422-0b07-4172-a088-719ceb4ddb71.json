@@ -1,0 +1,11 @@
+{
+  "id": "ffe4d422-0b07-4172-a088-719ceb4ddb71",
+  "object": "beer",
+  "name": "Mafic",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

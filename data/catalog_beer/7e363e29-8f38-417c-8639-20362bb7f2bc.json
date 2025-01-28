@@ -1,0 +1,11 @@
+{
+  "id": "7e363e29-8f38-417c-8639-20362bb7f2bc",
+  "object": "beer",
+  "name": "TOATS",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

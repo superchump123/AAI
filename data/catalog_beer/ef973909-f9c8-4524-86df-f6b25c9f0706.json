@@ -1,0 +1,11 @@
+{
+  "id": "ef973909-f9c8-4524-86df-f6b25c9f0706",
+  "object": "beer",
+  "name": "Herforder Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9e77446d-1aee-4a95-b76e-f24a72f88f35",
+  "object": "beer",
+  "name": "Local Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "29990ce1-5c9a-4697-985a-e9110772008e",
+  "object": "beer",
+  "name": "Unfiltered Hells Lager",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

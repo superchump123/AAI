@@ -1,0 +1,11 @@
+{
+  "id": "7e8b83bf-cf10-45eb-babc-d3a0e6841a07",
+  "object": "beer",
+  "name": "XMas Chub",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

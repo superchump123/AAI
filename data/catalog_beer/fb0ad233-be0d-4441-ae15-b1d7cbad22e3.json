@@ -1,0 +1,11 @@
+{
+  "id": "fb0ad233-be0d-4441-ae15-b1d7cbad22e3",
+  "object": "beer",
+  "name": "Mad Fat Anniversary",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

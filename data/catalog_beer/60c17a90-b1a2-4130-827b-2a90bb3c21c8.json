@@ -1,0 +1,11 @@
+{
+  "id": "60c17a90-b1a2-4130-827b-2a90bb3c21c8",
+  "object": "beer",
+  "name": "Vojtech",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

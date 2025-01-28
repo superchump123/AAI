@@ -1,0 +1,11 @@
+{
+  "id": "f9880925-5163-4ac5-9df2-0a5c05e0a636",
+  "object": "beer",
+  "name": "Lost In the Haze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

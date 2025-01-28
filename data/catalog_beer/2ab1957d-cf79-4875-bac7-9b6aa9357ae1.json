@@ -1,0 +1,11 @@
+{
+  "id": "2ab1957d-cf79-4875-bac7-9b6aa9357ae1",
+  "object": "beer",
+  "name": "Jazz Amber Light",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "db3c7106-edcf-4625-96c4-5bec709fb763",
+  "object": "beer",
+  "name": "Pineapple Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

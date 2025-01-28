@@ -1,0 +1,11 @@
+{
+  "id": "1b0c9194-7013-4e38-8299-21aa4e7fffae",
+  "object": "beer",
+  "name": "Fresh Plowed",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b3dc078e-6c22-4fce-865b-a7c903d64619",
+  "object": "beer",
+  "name": "MashCraft Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

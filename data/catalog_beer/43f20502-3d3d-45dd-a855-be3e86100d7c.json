@@ -1,0 +1,11 @@
+{
+  "id": "43f20502-3d3d-45dd-a855-be3e86100d7c",
+  "object": "beer",
+  "name": "Raquette River Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

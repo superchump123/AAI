@@ -1,0 +1,11 @@
+{
+  "id": "1bfc0610-355a-43c2-98e2-c41feafe1bba",
+  "object": "beer",
+  "name": "Saison De Lente",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

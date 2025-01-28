@@ -1,0 +1,11 @@
+{
+  "id": "92ff1be1-a113-47db-9094-446085f09ee8",
+  "object": "beer",
+  "name": "Overhead",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1acd53f6-2eef-42a9-aed7-e5e9b2d09c97",
+  "object": "beer",
+  "name": "Space Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

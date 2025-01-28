@@ -1,0 +1,11 @@
+{
+  "id": "4c4b3cd8-ae2f-484a-af0b-0f2c0f49ae25",
+  "object": "beer",
+  "name": "Yakima Wheat Ale",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

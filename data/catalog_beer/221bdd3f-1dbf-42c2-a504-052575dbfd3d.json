@@ -1,0 +1,11 @@
+{
+  "id": "221bdd3f-1dbf-42c2-a504-052575dbfd3d",
+  "object": "beer",
+  "name": "Rocky Road Ice Cream",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

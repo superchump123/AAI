@@ -1,0 +1,11 @@
+{
+  "id": "62c54550-c980-411a-bcf2-3bfb5a8ab40c",
+  "object": "beer",
+  "name": "Relativity",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

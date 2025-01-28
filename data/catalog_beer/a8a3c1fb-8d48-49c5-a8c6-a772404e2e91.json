@@ -1,0 +1,11 @@
+{
+  "id": "a8a3c1fb-8d48-49c5-a8c6-a772404e2e91",
+  "object": "beer",
+  "name": "Sneaky Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

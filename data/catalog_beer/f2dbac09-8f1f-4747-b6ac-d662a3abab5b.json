@@ -1,0 +1,11 @@
+{
+  "id": "f2dbac09-8f1f-4747-b6ac-d662a3abab5b",
+  "object": "beer",
+  "name": "Bohemsky Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

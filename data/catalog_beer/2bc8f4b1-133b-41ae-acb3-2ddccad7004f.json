@@ -1,0 +1,11 @@
+{
+  "id": "2bc8f4b1-133b-41ae-acb3-2ddccad7004f",
+  "object": "beer",
+  "name": "The Plunge",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

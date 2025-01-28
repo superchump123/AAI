@@ -1,0 +1,11 @@
+{
+  "id": "83234d74-12ea-41c2-8d28-7041aeadb0ae",
+  "object": "beer",
+  "name": "Liberation Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

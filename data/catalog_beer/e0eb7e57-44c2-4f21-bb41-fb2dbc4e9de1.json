@@ -1,0 +1,11 @@
+{
+  "id": "e0eb7e57-44c2-4f21-bb41-fb2dbc4e9de1",
+  "object": "beer",
+  "name": "Batch #1",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

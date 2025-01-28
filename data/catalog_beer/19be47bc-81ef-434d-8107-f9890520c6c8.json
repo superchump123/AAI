@@ -1,0 +1,11 @@
+{
+  "id": "19be47bc-81ef-434d-8107-f9890520c6c8",
+  "object": "beer",
+  "name": "Clustered Spires",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

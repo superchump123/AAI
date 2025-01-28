@@ -1,0 +1,11 @@
+{
+  "id": "e403a9d0-0a91-4423-8d52-77ba5bfacc0a",
+  "object": "beer",
+  "name": "LUX",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

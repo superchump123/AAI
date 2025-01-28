@@ -1,0 +1,11 @@
+{
+  "id": "3906d969-76c0-45cd-98ea-065cedfbd992",
+  "object": "beer",
+  "name": "Bushwacker",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

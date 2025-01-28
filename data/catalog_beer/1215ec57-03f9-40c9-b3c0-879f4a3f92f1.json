@@ -1,0 +1,11 @@
+{
+  "id": "1215ec57-03f9-40c9-b3c0-879f4a3f92f1",
+  "object": "beer",
+  "name": "Boltens Ur-Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

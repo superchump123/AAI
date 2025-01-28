@@ -1,0 +1,11 @@
+{
+  "id": "b35a55e4-04ee-4bfd-8f4a-da7a3d41c5a7",
+  "object": "beer",
+  "name": "Alt-ernative Amber",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

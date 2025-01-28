@@ -1,0 +1,11 @@
+{
+  "id": "2a528d68-9c0b-415e-b622-a0eb0413f95d",
+  "object": "beer",
+  "name": "Power Pop!",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

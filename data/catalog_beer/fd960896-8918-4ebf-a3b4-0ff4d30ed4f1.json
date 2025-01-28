@@ -1,0 +1,11 @@
+{
+  "id": "fd960896-8918-4ebf-a3b4-0ff4d30ed4f1",
+  "object": "beer",
+  "name": "Daylight Savings IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1ae92787-b5d5-44e3-bd66-0813a9fb9117",
+  "object": "beer",
+  "name": "Hop-N-Awe",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

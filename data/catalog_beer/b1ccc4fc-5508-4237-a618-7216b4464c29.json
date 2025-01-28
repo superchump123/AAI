@@ -1,0 +1,11 @@
+{
+  "id": "b1ccc4fc-5508-4237-a618-7216b4464c29",
+  "object": "beer",
+  "name": "Elephant",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

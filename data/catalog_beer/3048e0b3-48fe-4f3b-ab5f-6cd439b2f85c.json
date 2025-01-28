@@ -1,0 +1,11 @@
+{
+  "id": "3048e0b3-48fe-4f3b-ab5f-6cd439b2f85c",
+  "object": "beer",
+  "name": "Snozzberry",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

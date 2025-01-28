@@ -1,0 +1,11 @@
+{
+  "id": "30866023-a1a5-430f-8816-29c272371098",
+  "object": "beer",
+  "name": "Three Sundays Oaked Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

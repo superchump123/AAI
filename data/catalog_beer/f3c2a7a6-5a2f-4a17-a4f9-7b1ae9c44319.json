@@ -1,0 +1,11 @@
+{
+  "id": "f3c2a7a6-5a2f-4a17-a4f9-7b1ae9c44319",
+  "object": "beer",
+  "name": "Super IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a9ac0521-125f-4232-bff0-d1b434901ad3",
+  "object": "beer",
+  "name": "One",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

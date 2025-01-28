@@ -1,0 +1,11 @@
+{
+  "id": "3642b777-b73a-4d6f-ba2b-3887fd93e0de",
+  "object": "beer",
+  "name": "Mephistopheles'",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 15.1,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

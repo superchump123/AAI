@@ -1,0 +1,11 @@
+{
+  "id": "b428b29b-d2e1-46b6-8ec4-767f9fdb3609",
+  "object": "beer",
+  "name": "Michigan Amber Lager",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

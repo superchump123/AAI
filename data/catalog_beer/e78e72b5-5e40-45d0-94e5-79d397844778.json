@@ -1,0 +1,11 @@
+{
+  "id": "e78e72b5-5e40-45d0-94e5-79d397844778",
+  "object": "beer",
+  "name": "Shotgun Wedding",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

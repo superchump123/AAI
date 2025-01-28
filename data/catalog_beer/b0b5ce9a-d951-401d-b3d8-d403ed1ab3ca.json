@@ -1,0 +1,11 @@
+{
+  "id": "b0b5ce9a-d951-401d-b3d8-d403ed1ab3ca",
+  "object": "beer",
+  "name": "Bischoff Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5f32ac68-033c-4f34-98fc-8e2793adc548",
+  "object": "beer",
+  "name": "Hofbr\u00e4u Schwarze Weisse",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

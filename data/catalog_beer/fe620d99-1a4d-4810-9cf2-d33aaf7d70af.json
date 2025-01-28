@@ -1,0 +1,11 @@
+{
+  "id": "fe620d99-1a4d-4810-9cf2-d33aaf7d70af",
+  "object": "beer",
+  "name": "E.S.Bee",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

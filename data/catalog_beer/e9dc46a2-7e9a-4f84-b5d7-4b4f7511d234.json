@@ -1,0 +1,11 @@
+{
+  "id": "e9dc46a2-7e9a-4f84-b5d7-4b4f7511d234",
+  "object": "beer",
+  "name": "Wonderstuff",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9349039f-3da9-456f-8b59-8a054c627cc0",
+  "object": "beer",
+  "name": "Framboise",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

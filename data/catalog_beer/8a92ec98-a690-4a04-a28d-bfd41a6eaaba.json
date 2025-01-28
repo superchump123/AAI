@@ -1,0 +1,11 @@
+{
+  "id": "8a92ec98-a690-4a04-a28d-bfd41a6eaaba",
+  "object": "beer",
+  "name": "DelMarVa Pure Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

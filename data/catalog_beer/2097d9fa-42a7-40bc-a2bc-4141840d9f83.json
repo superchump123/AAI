@@ -1,0 +1,11 @@
+{
+  "id": "2097d9fa-42a7-40bc-a2bc-4141840d9f83",
+  "object": "beer",
+  "name": "Sweet Knockers",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c9110b0c-4b78-4dad-ac67-053c6961a3ee",
+  "object": "beer",
+  "name": "Guinness Blonde",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

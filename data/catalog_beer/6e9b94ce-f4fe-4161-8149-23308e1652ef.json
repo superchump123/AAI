@@ -1,0 +1,11 @@
+{
+  "id": "6e9b94ce-f4fe-4161-8149-23308e1652ef",
+  "object": "beer",
+  "name": "Greg's Tripel Play",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

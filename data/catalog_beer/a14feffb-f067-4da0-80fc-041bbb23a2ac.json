@@ -1,0 +1,11 @@
+{
+  "id": "a14feffb-f067-4da0-80fc-041bbb23a2ac",
+  "object": "beer",
+  "name": "Hoepfner Jubelbier",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "47cc1a20-5369-4000-87c3-70c98fc308e3",
+  "object": "beer",
+  "name": "Lemke Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

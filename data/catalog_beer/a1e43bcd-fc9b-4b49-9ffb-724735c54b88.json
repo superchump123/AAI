@@ -1,0 +1,11 @@
+{
+  "id": "a1e43bcd-fc9b-4b49-9ffb-724735c54b88",
+  "object": "beer",
+  "name": "Argus Holsteiner Lager",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2d5eacf5-c23f-45a9-99fd-93e721b0f4e8",
+  "object": "beer",
+  "name": "Take 5",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

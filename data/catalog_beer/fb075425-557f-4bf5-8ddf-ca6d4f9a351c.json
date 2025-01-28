@@ -1,0 +1,11 @@
+{
+  "id": "fb075425-557f-4bf5-8ddf-ca6d4f9a351c",
+  "object": "beer",
+  "name": "RYPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

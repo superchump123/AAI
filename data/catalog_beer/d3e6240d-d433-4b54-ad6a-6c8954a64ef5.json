@@ -1,0 +1,11 @@
+{
+  "id": "d3e6240d-d433-4b54-ad6a-6c8954a64ef5",
+  "object": "beer",
+  "name": "Juicin' ipa",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

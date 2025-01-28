@@ -1,0 +1,11 @@
+{
+  "id": "810f80c0-21db-4910-8fd2-10841f6f8859",
+  "object": "beer",
+  "name": "Wheat IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

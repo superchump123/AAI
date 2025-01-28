@@ -1,0 +1,11 @@
+{
+  "id": "367d2633-f6f4-4113-b101-d8dd32d9737d",
+  "object": "beer",
+  "name": "Strawberry Bomber",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

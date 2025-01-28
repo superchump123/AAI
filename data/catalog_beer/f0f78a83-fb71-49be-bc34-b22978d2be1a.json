@@ -1,0 +1,11 @@
+{
+  "id": "f0f78a83-fb71-49be-bc34-b22978d2be1a",
+  "object": "beer",
+  "name": "Charlie's Good Tonight",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 94,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

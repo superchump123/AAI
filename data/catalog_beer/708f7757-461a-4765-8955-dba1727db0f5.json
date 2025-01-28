@@ -1,0 +1,11 @@
+{
+  "id": "708f7757-461a-4765-8955-dba1727db0f5",
+  "object": "beer",
+  "name": "OJ Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ffe90e6-0df3-4545-94f4-9b2d74a8f5f7",
+  "object": "beer",
+  "name": "Smoky Maple Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

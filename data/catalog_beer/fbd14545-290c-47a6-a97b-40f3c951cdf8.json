@@ -1,0 +1,11 @@
+{
+  "id": "fbd14545-290c-47a6-a97b-40f3c951cdf8",
+  "object": "beer",
+  "name": "Rise of the Phoenix",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

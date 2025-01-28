@@ -1,0 +1,11 @@
+{
+  "id": "25b141f2-2040-4de5-bcef-310224133f0e",
+  "object": "beer",
+  "name": "Minerva Stout Imperial",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

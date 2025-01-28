@@ -1,0 +1,11 @@
+{
+  "id": "ca3beec3-b4cb-4ed8-8b30-96f165883569",
+  "object": "beer",
+  "name": "Samuel Adams Millennium",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 20,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

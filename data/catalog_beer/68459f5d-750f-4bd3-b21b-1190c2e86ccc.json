@@ -1,0 +1,11 @@
+{
+  "id": "68459f5d-750f-4bd3-b21b-1190c2e86ccc",
+  "object": "beer",
+  "name": "Whipsaw",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7dfee39f-7597-4704-be82-6065972ae25e",
+  "object": "beer",
+  "name": "Parabola",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

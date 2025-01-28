@@ -1,0 +1,11 @@
+{
+  "id": "c4c65d86-3760-4da3-ab6c-3116c9a674b0",
+  "object": "beer",
+  "name": "Dallas Blonde",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

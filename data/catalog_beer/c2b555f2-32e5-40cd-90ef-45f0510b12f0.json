@@ -1,0 +1,11 @@
+{
+  "id": "c2b555f2-32e5-40cd-90ef-45f0510b12f0",
+  "object": "beer",
+  "name": "Black Ops",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bef91f5c-9ec7-4ccb-bad1-537153ed6f37",
+  "object": "beer",
+  "name": "Buckwheat Grisette",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

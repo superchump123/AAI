@@ -1,0 +1,11 @@
+{
+  "id": "559a9eb6-f0f4-48af-90fb-ab86f99020ff",
+  "object": "beer",
+  "name": "Red Tail Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

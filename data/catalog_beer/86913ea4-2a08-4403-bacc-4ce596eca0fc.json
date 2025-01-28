@@ -1,0 +1,11 @@
+{
+  "id": "86913ea4-2a08-4403-bacc-4ce596eca0fc",
+  "object": "beer",
+  "name": "Hobo Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

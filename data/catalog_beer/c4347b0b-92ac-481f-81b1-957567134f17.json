@@ -1,0 +1,11 @@
+{
+  "id": "c4347b0b-92ac-481f-81b1-957567134f17",
+  "object": "beer",
+  "name": "Man of the Cliff",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

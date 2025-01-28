@@ -1,0 +1,11 @@
+{
+  "id": "41d0466b-badc-4f5c-8ea2-998d80faa26b",
+  "object": "beer",
+  "name": "Lilikoi Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

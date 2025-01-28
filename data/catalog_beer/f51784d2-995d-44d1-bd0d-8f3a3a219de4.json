@@ -1,0 +1,11 @@
+{
+  "id": "f51784d2-995d-44d1-bd0d-8f3a3a219de4",
+  "object": "beer",
+  "name": "Alt",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

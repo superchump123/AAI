@@ -1,0 +1,11 @@
+{
+  "id": "04200f43-2c4c-415d-b8d0-ca2db3640d04",
+  "object": "beer",
+  "name": "Sandy",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

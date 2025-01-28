@@ -1,0 +1,11 @@
+{
+  "id": "34e94595-1dbd-4ee0-8fde-d8a84de94a14",
+  "object": "beer",
+  "name": "Bizz Johnson Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

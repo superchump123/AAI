@@ -1,0 +1,11 @@
+{
+  "id": "f835fea1-b71a-4836-b5fb-fec08257de6b",
+  "object": "beer",
+  "name": "Sagres Preta",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

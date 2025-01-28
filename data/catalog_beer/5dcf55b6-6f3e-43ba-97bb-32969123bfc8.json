@@ -1,0 +1,11 @@
+{
+  "id": "5dcf55b6-6f3e-43ba-97bb-32969123bfc8",
+  "object": "beer",
+  "name": "Samuel Adams Revolutionary Rye Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

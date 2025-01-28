@@ -1,0 +1,11 @@
+{
+  "id": "2b8fdb3b-142a-45f1-9b22-3d4f3ebfce65",
+  "object": "beer",
+  "name": "Spellbinder",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

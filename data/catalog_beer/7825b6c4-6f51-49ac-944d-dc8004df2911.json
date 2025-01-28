@@ -1,0 +1,11 @@
+{
+  "id": "7825b6c4-6f51-49ac-944d-dc8004df2911",
+  "object": "beer",
+  "name": "Boondoggle",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

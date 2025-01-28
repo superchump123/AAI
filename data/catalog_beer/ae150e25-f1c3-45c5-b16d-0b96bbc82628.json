@@ -1,0 +1,11 @@
+{
+  "id": "ae150e25-f1c3-45c5-b16d-0b96bbc82628",
+  "object": "beer",
+  "name": "It's Belgian! Blonde Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

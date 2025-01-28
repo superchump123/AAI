@@ -1,0 +1,11 @@
+{
+  "id": "6986b09f-5573-42a2-b4e6-a2eed9bc4835",
+  "object": "beer",
+  "name": "Maracuya",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

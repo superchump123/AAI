@@ -1,0 +1,11 @@
+{
+  "id": "284bd7e3-6775-488a-b69f-7437c2b273b2",
+  "object": "beer",
+  "name": "Old Oriole Park Bohemian",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

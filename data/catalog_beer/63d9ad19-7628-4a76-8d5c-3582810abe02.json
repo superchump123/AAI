@@ -1,0 +1,11 @@
+{
+  "id": "63d9ad19-7628-4a76-8d5c-3582810abe02",
+  "object": "beer",
+  "name": "Germinator Doppelbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

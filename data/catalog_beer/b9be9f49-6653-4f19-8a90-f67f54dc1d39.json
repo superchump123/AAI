@@ -1,0 +1,11 @@
+{
+  "id": "b9be9f49-6653-4f19-8a90-f67f54dc1d39",
+  "object": "beer",
+  "name": "Sea Cow",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

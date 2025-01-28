@@ -1,0 +1,11 @@
+{
+  "id": "8f5f7471-67a0-4adb-83cf-de99fbf2d89e",
+  "object": "beer",
+  "name": "Tropic Thunder",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

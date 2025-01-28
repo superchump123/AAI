@@ -1,0 +1,11 @@
+{
+  "id": "b31f94e8-1598-4001-8457-0749a49b827d",
+  "object": "beer",
+  "name": "Southbound Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

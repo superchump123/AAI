@@ -1,0 +1,11 @@
+{
+  "id": "4096c46f-0f9f-4eed-99ae-2814328e499f",
+  "object": "beer",
+  "name": "Beanz Coffee Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

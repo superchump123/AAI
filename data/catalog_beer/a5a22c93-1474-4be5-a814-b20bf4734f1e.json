@@ -1,0 +1,11 @@
+{
+  "id": "a5a22c93-1474-4be5-a814-b20bf4734f1e",
+  "object": "beer",
+  "name": "Ionizer Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

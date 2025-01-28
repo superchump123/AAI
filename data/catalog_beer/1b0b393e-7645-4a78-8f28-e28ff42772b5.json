@@ -1,0 +1,11 @@
+{
+  "id": "1b0b393e-7645-4a78-8f28-e28ff42772b5",
+  "object": "beer",
+  "name": "Osiris Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

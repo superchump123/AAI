@@ -1,0 +1,11 @@
+{
+  "id": "726cc038-c7fe-4d4a-b97d-dfbb99b9d363",
+  "object": "beer",
+  "name": "Idaho 7",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

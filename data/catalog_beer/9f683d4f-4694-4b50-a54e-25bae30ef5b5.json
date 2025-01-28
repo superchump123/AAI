@@ -1,0 +1,11 @@
+{
+  "id": "9f683d4f-4694-4b50-a54e-25bae30ef5b5",
+  "object": "beer",
+  "name": "Okto Festival Ale",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

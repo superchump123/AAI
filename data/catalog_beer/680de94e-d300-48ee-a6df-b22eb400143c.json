@@ -1,0 +1,11 @@
+{
+  "id": "680de94e-d300-48ee-a6df-b22eb400143c",
+  "object": "beer",
+  "name": "Baby Tree",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

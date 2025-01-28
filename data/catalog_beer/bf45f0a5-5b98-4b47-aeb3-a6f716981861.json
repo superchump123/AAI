@@ -1,0 +1,11 @@
+{
+  "id": "bf45f0a5-5b98-4b47-aeb3-a6f716981861",
+  "object": "beer",
+  "name": "Saint Arnold Summer Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

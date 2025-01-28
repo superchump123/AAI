@@ -1,0 +1,11 @@
+{
+  "id": "6099bf39-543c-4f4e-bf87-18fc2bfe16cb",
+  "object": "beer",
+  "name": "Clamor",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4d751c84-da13-4002-824a-4ad997c7086c",
+  "object": "beer",
+  "name": "Honey Wheat Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

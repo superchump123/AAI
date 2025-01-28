@@ -1,0 +1,11 @@
+{
+  "id": "e70c2967-f672-4e3b-b699-64092e40f235",
+  "object": "beer",
+  "name": "The Great Work",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

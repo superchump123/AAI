@@ -1,0 +1,11 @@
+{
+  "id": "0ba03594-36e6-476b-bad3-1e545a553324",
+  "object": "beer",
+  "name": "Sacred Saguaro Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

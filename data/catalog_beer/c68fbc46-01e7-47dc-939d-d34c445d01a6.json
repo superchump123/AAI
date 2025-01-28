@@ -1,0 +1,11 @@
+{
+  "id": "c68fbc46-01e7-47dc-939d-d34c445d01a6",
+  "object": "beer",
+  "name": "Franconia Koelsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

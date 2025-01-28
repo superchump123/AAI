@@ -1,0 +1,11 @@
+{
+  "id": "1f827dda-c95b-43bc-86a9-b0cfc220c5b4",
+  "object": "beer",
+  "name": "Coffee Dino'smores",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

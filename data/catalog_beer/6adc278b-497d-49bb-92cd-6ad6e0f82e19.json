@@ -1,0 +1,11 @@
+{
+  "id": "6adc278b-497d-49bb-92cd-6ad6e0f82e19",
+  "object": "beer",
+  "name": "Stormy Oat IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

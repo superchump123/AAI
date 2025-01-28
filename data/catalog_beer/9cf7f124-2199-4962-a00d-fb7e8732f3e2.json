@@ -1,0 +1,11 @@
+{
+  "id": "9cf7f124-2199-4962-a00d-fb7e8732f3e2",
+  "object": "beer",
+  "name": "Bird of Prey",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.7,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "04293ff4-f104-4226-9b0d-804436ed1ae9",
+  "object": "beer",
+  "name": "The Witching Hour",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

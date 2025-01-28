@@ -1,0 +1,11 @@
+{
+  "id": "dd797db1-a33e-4d90-82de-9fbd72829b48",
+  "object": "beer",
+  "name": "Rauchbier!",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

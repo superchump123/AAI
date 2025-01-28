@@ -1,0 +1,11 @@
+{
+  "id": "2b0d93fa-e6fe-416c-92d0-f48855af6ee9",
+  "object": "beer",
+  "name": "River Bend Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

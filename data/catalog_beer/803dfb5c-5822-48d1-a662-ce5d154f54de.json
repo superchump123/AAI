@@ -1,0 +1,11 @@
+{
+  "id": "803dfb5c-5822-48d1-a662-ce5d154f54de",
+  "object": "beer",
+  "name": "Black Cascade",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

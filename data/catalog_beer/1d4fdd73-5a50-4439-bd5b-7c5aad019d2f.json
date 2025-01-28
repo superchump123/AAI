@@ -1,0 +1,11 @@
+{
+  "id": "1d4fdd73-5a50-4439-bd5b-7c5aad019d2f",
+  "object": "beer",
+  "name": "Grove Stand",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

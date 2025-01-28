@@ -1,0 +1,11 @@
+{
+  "id": "d7985419-0c75-4882-9f05-7c0b2fc477e7",
+  "object": "beer",
+  "name": "Elihue",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

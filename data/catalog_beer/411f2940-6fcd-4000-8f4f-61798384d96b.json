@@ -1,0 +1,11 @@
+{
+  "id": "411f2940-6fcd-4000-8f4f-61798384d96b",
+  "object": "beer",
+  "name": "Moat Rauchbier",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

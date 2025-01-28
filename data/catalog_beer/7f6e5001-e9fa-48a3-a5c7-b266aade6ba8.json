@@ -1,0 +1,11 @@
+{
+  "id": "7f6e5001-e9fa-48a3-a5c7-b266aade6ba8",
+  "object": "beer",
+  "name": "Rojo Especial",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

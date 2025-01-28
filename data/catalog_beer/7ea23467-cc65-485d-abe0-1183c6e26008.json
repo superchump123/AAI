@@ -1,0 +1,11 @@
+{
+  "id": "7ea23467-cc65-485d-abe0-1183c6e26008",
+  "object": "beer",
+  "name": "Sinistor",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

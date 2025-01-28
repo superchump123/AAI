@@ -1,0 +1,11 @@
+{
+  "id": "0431b08a-c995-40af-b06f-1de5880b67dd",
+  "object": "beer",
+  "name": "The Quickening",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

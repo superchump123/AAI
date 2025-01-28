@@ -1,0 +1,11 @@
+{
+  "id": "4a2a87d1-3735-4d81-9ef8-3521e24d43f9",
+  "object": "beer",
+  "name": "Peace Accord Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

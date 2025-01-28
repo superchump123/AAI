@@ -1,0 +1,11 @@
+{
+  "id": "b5979adb-ef33-4d2a-8938-3c641ad225da",
+  "object": "beer",
+  "name": "Overlord",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a2c22628-e7ee-4c9d-a307-a7a90b015cd0",
+  "object": "beer",
+  "name": "Harder Better Faster",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

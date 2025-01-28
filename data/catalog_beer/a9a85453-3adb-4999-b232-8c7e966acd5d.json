@@ -1,0 +1,11 @@
+{
+  "id": "a9a85453-3adb-4999-b232-8c7e966acd5d",
+  "object": "beer",
+  "name": "Mudslinger",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

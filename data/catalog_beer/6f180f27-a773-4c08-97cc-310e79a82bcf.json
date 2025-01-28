@@ -1,0 +1,11 @@
+{
+  "id": "6f180f27-a773-4c08-97cc-310e79a82bcf",
+  "object": "beer",
+  "name": "B.Fox Hiver",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

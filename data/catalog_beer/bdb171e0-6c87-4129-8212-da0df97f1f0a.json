@@ -1,0 +1,11 @@
+{
+  "id": "bdb171e0-6c87-4129-8212-da0df97f1f0a",
+  "object": "beer",
+  "name": "Paeonian Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

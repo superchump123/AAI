@@ -1,0 +1,11 @@
+{
+  "id": "c8ac097b-6f70-4126-b1bb-c8d3045ecba0",
+  "object": "beer",
+  "name": "2012 Dead Santa",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

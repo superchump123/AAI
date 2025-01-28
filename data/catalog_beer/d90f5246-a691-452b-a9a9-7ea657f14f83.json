@@ -1,0 +1,11 @@
+{
+  "id": "d90f5246-a691-452b-a9a9-7ea657f14f83",
+  "object": "beer",
+  "name": "Castel Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

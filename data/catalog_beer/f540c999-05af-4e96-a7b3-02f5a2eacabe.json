@@ -1,0 +1,11 @@
+{
+  "id": "f540c999-05af-4e96-a7b3-02f5a2eacabe",
+  "object": "beer",
+  "name": "West O Smoked Red",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67ed7513-3c56-49b0-9590-7cbbdadbe738",
+  "object": "beer",
+  "name": "Helluva Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cbd552ab-e0f5-483a-a4f2-d7d29ba33612",
+  "object": "beer",
+  "name": "Greenroom Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

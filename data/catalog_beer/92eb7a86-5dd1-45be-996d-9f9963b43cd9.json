@@ -1,0 +1,11 @@
+{
+  "id": "92eb7a86-5dd1-45be-996d-9f9963b43cd9",
+  "object": "beer",
+  "name": "Witless Ale",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

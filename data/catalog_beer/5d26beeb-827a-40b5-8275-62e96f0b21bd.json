@@ -1,0 +1,11 @@
+{
+  "id": "5d26beeb-827a-40b5-8275-62e96f0b21bd",
+  "object": "beer",
+  "name": "Citra Must Be Destroyed",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 102,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

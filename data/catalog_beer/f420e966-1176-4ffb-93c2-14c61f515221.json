@@ -1,0 +1,11 @@
+{
+  "id": "f420e966-1176-4ffb-93c2-14c61f515221",
+  "object": "beer",
+  "name": "Imperial",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

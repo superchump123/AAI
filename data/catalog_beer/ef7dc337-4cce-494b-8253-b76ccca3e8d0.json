@@ -1,0 +1,11 @@
+{
+  "id": "ef7dc337-4cce-494b-8253-b76ccca3e8d0",
+  "object": "beer",
+  "name": "Saalfelder Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

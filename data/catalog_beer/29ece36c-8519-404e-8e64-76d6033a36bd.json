@@ -1,0 +1,11 @@
+{
+  "id": "29ece36c-8519-404e-8e64-76d6033a36bd",
+  "object": "beer",
+  "name": "N7",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

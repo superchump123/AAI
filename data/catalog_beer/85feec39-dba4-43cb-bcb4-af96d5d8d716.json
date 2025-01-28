@@ -1,0 +1,11 @@
+{
+  "id": "85feec39-dba4-43cb-bcb4-af96d5d8d716",
+  "object": "beer",
+  "name": "Milk The Venom",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00be6936-5b3b-4c30-81fd-252f872ad597",
+  "object": "beer",
+  "name": "Henbragon Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

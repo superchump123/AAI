@@ -1,0 +1,11 @@
+{
+  "id": "749cbdf7-41bb-4671-aac3-f7158b4285af",
+  "object": "beer",
+  "name": "Highcountry Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

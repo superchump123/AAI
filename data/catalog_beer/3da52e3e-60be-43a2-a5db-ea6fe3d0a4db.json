@@ -1,0 +1,11 @@
+{
+  "id": "3da52e3e-60be-43a2-a5db-ea6fe3d0a4db",
+  "object": "beer",
+  "name": "Black Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

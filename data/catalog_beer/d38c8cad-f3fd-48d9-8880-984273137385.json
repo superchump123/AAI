@@ -1,0 +1,11 @@
+{
+  "id": "d38c8cad-f3fd-48d9-8880-984273137385",
+  "object": "beer",
+  "name": "Stay Puft",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

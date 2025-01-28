@@ -1,0 +1,11 @@
+{
+  "id": "b74bdd1e-6b3b-4750-a409-0fbb993fb7f6",
+  "object": "beer",
+  "name": "King's Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

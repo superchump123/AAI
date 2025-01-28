@@ -1,0 +1,11 @@
+{
+  "id": "d3e9712b-d2a2-4589-81d5-947a42745904",
+  "object": "beer",
+  "name": "Abby\u2019s Cure",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

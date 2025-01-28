@@ -1,0 +1,11 @@
+{
+  "id": "2e7676da-cd7d-4fb0-91d5-e09f4b2c4e1a",
+  "object": "beer",
+  "name": "Brazos Valley Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

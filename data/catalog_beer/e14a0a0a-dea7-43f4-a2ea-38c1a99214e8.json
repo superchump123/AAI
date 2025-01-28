@@ -1,0 +1,11 @@
+{
+  "id": "e14a0a0a-dea7-43f4-a2ea-38c1a99214e8",
+  "object": "beer",
+  "name": "Self Portrait",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

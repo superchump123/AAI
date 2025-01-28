@@ -1,0 +1,11 @@
+{
+  "id": "630280d9-3d6f-4584-ade0-762e2069ee5a",
+  "object": "beer",
+  "name": "Florinda",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

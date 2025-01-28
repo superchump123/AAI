@@ -1,0 +1,11 @@
+{
+  "id": "d003befd-a6f1-499f-9c91-5d666f746906",
+  "object": "beer",
+  "name": "Caribou Kilt",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e81a4077-c5e1-489d-891e-ccd3f326f264",
+  "object": "beer",
+  "name": "Dreadnaught IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9d168aa3-49cb-460e-810c-6f390c3c3ee4",
+  "object": "beer",
+  "name": "Well Played Red IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

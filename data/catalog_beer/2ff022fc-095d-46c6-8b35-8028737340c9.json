@@ -1,0 +1,11 @@
+{
+  "id": "2ff022fc-095d-46c6-8b35-8028737340c9",
+  "object": "beer",
+  "name": "Brontide",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dc92174c-b215-43f1-b1a5-dd6f32a75771",
+  "object": "beer",
+  "name": "TwoCan Slam",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

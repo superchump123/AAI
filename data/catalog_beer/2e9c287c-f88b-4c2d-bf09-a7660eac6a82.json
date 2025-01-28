@@ -1,0 +1,11 @@
+{
+  "id": "2e9c287c-f88b-4c2d-bf09-a7660eac6a82",
+  "object": "beer",
+  "name": "Spicy Lemon Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

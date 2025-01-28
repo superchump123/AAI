@@ -1,0 +1,11 @@
+{
+  "id": "08d4751a-04e8-4b17-8163-c7a4f712e713",
+  "object": "beer",
+  "name": "Golden ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

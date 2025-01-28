@@ -1,0 +1,11 @@
+{
+  "id": "7a91cfa8-3966-4001-93a9-90daeaad49d9",
+  "object": "beer",
+  "name": "Green Tea IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

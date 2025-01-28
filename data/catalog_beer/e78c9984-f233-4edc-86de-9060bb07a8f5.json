@@ -1,0 +1,11 @@
+{
+  "id": "e78c9984-f233-4edc-86de-9060bb07a8f5",
+  "object": "beer",
+  "name": "Jones Dog",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

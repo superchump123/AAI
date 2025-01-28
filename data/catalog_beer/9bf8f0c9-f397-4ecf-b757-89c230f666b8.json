@@ -1,0 +1,11 @@
+{
+  "id": "9bf8f0c9-f397-4ecf-b757-89c230f666b8",
+  "object": "beer",
+  "name": "Saint of Circumstance",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1324d24e-1d93-4f80-9b80-14d738cdd6eb",
+  "object": "beer",
+  "name": "Czech Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

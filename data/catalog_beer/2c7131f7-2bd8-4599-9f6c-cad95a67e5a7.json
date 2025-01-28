@@ -1,0 +1,11 @@
+{
+  "id": "2c7131f7-2bd8-4599-9f6c-cad95a67e5a7",
+  "object": "beer",
+  "name": "The Red C",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

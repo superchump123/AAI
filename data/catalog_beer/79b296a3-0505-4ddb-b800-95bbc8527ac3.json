@@ -1,0 +1,11 @@
+{
+  "id": "79b296a3-0505-4ddb-b800-95bbc8527ac3",
+  "object": "beer",
+  "name": "Heiferweizen",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

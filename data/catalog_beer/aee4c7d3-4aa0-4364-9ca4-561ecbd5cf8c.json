@@ -1,0 +1,11 @@
+{
+  "id": "aee4c7d3-4aa0-4364-9ca4-561ecbd5cf8c",
+  "object": "beer",
+  "name": "Summer Solstice",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

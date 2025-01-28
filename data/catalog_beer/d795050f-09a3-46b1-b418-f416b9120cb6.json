@@ -1,0 +1,11 @@
+{
+  "id": "d795050f-09a3-46b1-b418-f416b9120cb6",
+  "object": "beer",
+  "name": "Rye Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

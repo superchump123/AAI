@@ -1,0 +1,11 @@
+{
+  "id": "6442e99f-2382-4543-9325-76f8dacf88c7",
+  "object": "beer",
+  "name": "Siegburger Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "244cf22c-276d-497e-a81f-48a375a1d729",
+  "object": "beer",
+  "name": "Ripple",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

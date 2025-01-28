@@ -1,0 +1,11 @@
+{
+  "id": "6ce3903e-c00b-4a01-99a9-0e7154c48710",
+  "object": "beer",
+  "name": "Shipwreck IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

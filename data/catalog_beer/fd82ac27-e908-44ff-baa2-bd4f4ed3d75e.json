@@ -1,0 +1,11 @@
+{
+  "id": "fd82ac27-e908-44ff-baa2-bd4f4ed3d75e",
+  "object": "beer",
+  "name": "Fear of Ghosts",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

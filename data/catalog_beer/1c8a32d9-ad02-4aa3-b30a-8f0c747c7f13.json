@@ -1,0 +1,11 @@
+{
+  "id": "1c8a32d9-ad02-4aa3-b30a-8f0c747c7f13",
+  "object": "beer",
+  "name": "Knot Beer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

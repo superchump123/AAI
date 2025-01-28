@@ -1,0 +1,11 @@
+{
+  "id": "21e0b657-68eb-456d-af11-434fc134575d",
+  "object": "beer",
+  "name": "Agave Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

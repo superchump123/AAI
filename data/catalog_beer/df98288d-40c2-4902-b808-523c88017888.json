@@ -1,0 +1,11 @@
+{
+  "id": "df98288d-40c2-4902-b808-523c88017888",
+  "object": "beer",
+  "name": "Indian Summer",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

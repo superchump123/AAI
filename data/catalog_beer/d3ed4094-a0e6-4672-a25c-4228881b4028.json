@@ -1,0 +1,11 @@
+{
+  "id": "d3ed4094-a0e6-4672-a25c-4228881b4028",
+  "object": "beer",
+  "name": "Tokyo 18.2",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 18,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

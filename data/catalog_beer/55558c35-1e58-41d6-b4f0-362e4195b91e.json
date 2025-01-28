@@ -1,0 +1,11 @@
+{
+  "id": "55558c35-1e58-41d6-b4f0-362e4195b91e",
+  "object": "beer",
+  "name": "Miscreant",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

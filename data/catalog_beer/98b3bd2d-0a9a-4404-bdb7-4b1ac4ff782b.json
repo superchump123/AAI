@@ -1,0 +1,11 @@
+{
+  "id": "98b3bd2d-0a9a-4404-bdb7-4b1ac4ff782b",
+  "object": "beer",
+  "name": "Belgium Sour Blonde with Peaches",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

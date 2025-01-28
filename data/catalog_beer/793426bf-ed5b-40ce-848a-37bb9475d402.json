@@ -1,0 +1,11 @@
+{
+  "id": "793426bf-ed5b-40ce-848a-37bb9475d402",
+  "object": "beer",
+  "name": "LIPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

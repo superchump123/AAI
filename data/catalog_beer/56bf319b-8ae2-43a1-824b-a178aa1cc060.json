@@ -1,0 +1,11 @@
+{
+  "id": "56bf319b-8ae2-43a1-824b-a178aa1cc060",
+  "object": "beer",
+  "name": "Gold Rush",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

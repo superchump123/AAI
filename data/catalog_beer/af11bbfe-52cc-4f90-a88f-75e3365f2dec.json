@@ -1,0 +1,11 @@
+{
+  "id": "af11bbfe-52cc-4f90-a88f-75e3365f2dec",
+  "object": "beer",
+  "name": "Buffalo Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

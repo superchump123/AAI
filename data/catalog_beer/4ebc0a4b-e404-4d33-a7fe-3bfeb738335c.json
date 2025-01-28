@@ -1,0 +1,11 @@
+{
+  "id": "4ebc0a4b-e404-4d33-a7fe-3bfeb738335c",
+  "object": "beer",
+  "name": "South of Eleven",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

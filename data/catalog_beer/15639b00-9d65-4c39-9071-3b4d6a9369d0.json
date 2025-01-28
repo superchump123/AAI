@@ -1,0 +1,11 @@
+{
+  "id": "15639b00-9d65-4c39-9071-3b4d6a9369d0",
+  "object": "beer",
+  "name": "Brown Hound",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

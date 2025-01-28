@@ -1,0 +1,11 @@
+{
+  "id": "67e70563-0ad4-45a2-abfa-357cda103010",
+  "object": "beer",
+  "name": "James Blonde 007",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

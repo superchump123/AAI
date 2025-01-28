@@ -1,0 +1,11 @@
+{
+  "id": "8ca5f784-7cd7-4e5a-b878-2ddc17a3d220",
+  "object": "beer",
+  "name": "Hessian Smog",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

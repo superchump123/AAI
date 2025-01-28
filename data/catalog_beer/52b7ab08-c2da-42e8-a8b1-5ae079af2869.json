@@ -1,0 +1,11 @@
+{
+  "id": "52b7ab08-c2da-42e8-a8b1-5ae079af2869",
+  "object": "beer",
+  "name": "Gateway Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

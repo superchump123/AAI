@@ -1,0 +1,11 @@
+{
+  "id": "8b635c92-2ff9-4425-8802-4b4f71779735",
+  "object": "beer",
+  "name": "Black Lung III",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

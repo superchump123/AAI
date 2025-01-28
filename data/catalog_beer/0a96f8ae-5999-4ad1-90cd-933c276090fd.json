@@ -1,0 +1,11 @@
+{
+  "id": "0a96f8ae-5999-4ad1-90cd-933c276090fd",
+  "object": "beer",
+  "name": "Prototype: Black Rye IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

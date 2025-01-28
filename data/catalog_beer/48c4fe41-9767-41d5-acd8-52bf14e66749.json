@@ -1,0 +1,11 @@
+{
+  "id": "48c4fe41-9767-41d5-acd8-52bf14e66749",
+  "object": "beer",
+  "name": "Summer Solstice (Nitro)",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

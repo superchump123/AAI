@@ -1,0 +1,11 @@
+{
+  "id": "81727346-0982-4bf9-aa86-eaebd92a78c3",
+  "object": "beer",
+  "name": "Lulu",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

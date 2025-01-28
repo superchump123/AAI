@@ -1,0 +1,11 @@
+{
+  "id": "6b478d9b-0d5f-444c-b8aa-574bba81a9ed",
+  "object": "beer",
+  "name": "Slammer Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c3567380-c76c-4772-9fa1-fe96d8498cc0",
+  "object": "beer",
+  "name": "Xingu Black Beer",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

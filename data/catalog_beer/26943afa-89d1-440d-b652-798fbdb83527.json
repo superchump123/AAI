@@ -1,0 +1,11 @@
+{
+  "id": "26943afa-89d1-440d-b652-798fbdb83527",
+  "object": "beer",
+  "name": "Resolute",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

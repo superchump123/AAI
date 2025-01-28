@@ -1,0 +1,11 @@
+{
+  "id": "7fa29ed9-2305-4537-b8ca-b1ccdac0aab1",
+  "object": "beer",
+  "name": "Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

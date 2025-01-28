@@ -1,0 +1,11 @@
+{
+  "id": "83145b5c-0fe9-4166-8e78-d8d68b5da62e",
+  "object": "beer",
+  "name": "Home Grown",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

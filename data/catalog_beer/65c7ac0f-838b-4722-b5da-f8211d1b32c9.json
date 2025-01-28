@@ -1,0 +1,11 @@
+{
+  "id": "65c7ac0f-838b-4722-b5da-f8211d1b32c9",
+  "object": "beer",
+  "name": "Foxy Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

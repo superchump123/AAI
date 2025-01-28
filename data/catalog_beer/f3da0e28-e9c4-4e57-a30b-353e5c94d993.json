@@ -1,0 +1,11 @@
+{
+  "id": "f3da0e28-e9c4-4e57-a30b-353e5c94d993",
+  "object": "beer",
+  "name": "Spree Coast IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

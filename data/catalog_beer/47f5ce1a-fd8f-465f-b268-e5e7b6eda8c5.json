@@ -1,0 +1,11 @@
+{
+  "id": "47f5ce1a-fd8f-465f-b268-e5e7b6eda8c5",
+  "object": "beer",
+  "name": "Rebellion Mead",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

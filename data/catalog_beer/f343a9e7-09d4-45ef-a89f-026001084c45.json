@@ -1,0 +1,11 @@
+{
+  "id": "f343a9e7-09d4-45ef-a89f-026001084c45",
+  "object": "beer",
+  "name": "Irish Twin",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

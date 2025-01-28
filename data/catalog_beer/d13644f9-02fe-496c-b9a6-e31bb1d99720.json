@@ -1,0 +1,11 @@
+{
+  "id": "d13644f9-02fe-496c-b9a6-e31bb1d99720",
+  "object": "beer",
+  "name": "Point Special Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

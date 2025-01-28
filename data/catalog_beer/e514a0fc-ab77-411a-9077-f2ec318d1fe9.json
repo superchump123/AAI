@@ -1,0 +1,11 @@
+{
+  "id": "e514a0fc-ab77-411a-9077-f2ec318d1fe9",
+  "object": "beer",
+  "name": "Saranac Chocolate Amber",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

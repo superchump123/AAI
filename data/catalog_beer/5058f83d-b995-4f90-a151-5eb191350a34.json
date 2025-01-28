@@ -1,0 +1,11 @@
+{
+  "id": "5058f83d-b995-4f90-a151-5eb191350a34",
+  "object": "beer",
+  "name": "Amber",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

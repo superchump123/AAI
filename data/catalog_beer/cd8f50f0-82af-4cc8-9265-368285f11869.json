@@ -1,0 +1,11 @@
+{
+  "id": "cd8f50f0-82af-4cc8-9265-368285f11869",
+  "object": "beer",
+  "name": "Grandmas Glazed Ham",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

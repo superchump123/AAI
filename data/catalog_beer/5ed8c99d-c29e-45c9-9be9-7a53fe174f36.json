@@ -1,0 +1,11 @@
+{
+  "id": "5ed8c99d-c29e-45c9-9be9-7a53fe174f36",
+  "object": "beer",
+  "name": "Twin Lakes Pale Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

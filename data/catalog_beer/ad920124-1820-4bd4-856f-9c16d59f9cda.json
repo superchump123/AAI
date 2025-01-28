@@ -1,0 +1,11 @@
+{
+  "id": "ad920124-1820-4bd4-856f-9c16d59f9cda",
+  "object": "beer",
+  "name": "Oak Aged Belgian Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "acbb831a-1569-4119-bff8-7f64eb0618a2",
+  "object": "beer",
+  "name": "Bombogenesis",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

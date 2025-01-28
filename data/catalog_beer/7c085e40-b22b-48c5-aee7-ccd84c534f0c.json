@@ -1,0 +1,11 @@
+{
+  "id": "7c085e40-b22b-48c5-aee7-ccd84c534f0c",
+  "object": "beer",
+  "name": "Barking Frog",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

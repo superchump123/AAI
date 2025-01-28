@@ -1,0 +1,11 @@
+{
+  "id": "ff7db26b-8dd4-4498-9c3a-e78efbb979e1",
+  "object": "beer",
+  "name": "Warm Front Extra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

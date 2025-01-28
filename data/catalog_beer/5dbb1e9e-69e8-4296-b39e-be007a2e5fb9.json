@@ -1,0 +1,11 @@
+{
+  "id": "5dbb1e9e-69e8-4296-b39e-be007a2e5fb9",
+  "object": "beer",
+  "name": "Organic Spring Brew",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

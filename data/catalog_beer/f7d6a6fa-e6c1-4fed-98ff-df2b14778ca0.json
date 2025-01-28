@@ -1,0 +1,11 @@
+{
+  "id": "f7d6a6fa-e6c1-4fed-98ff-df2b14778ca0",
+  "object": "beer",
+  "name": "Protocol Droid",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

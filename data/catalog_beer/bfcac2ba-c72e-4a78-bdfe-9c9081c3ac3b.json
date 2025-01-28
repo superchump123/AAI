@@ -1,0 +1,11 @@
+{
+  "id": "bfcac2ba-c72e-4a78-bdfe-9c9081c3ac3b",
+  "object": "beer",
+  "name": "Klosterbryg",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

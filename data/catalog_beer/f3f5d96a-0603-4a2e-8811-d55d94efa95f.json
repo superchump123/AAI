@@ -1,0 +1,11 @@
+{
+  "id": "f3f5d96a-0603-4a2e-8811-d55d94efa95f",
+  "object": "beer",
+  "name": "Boondock Saint Honey Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

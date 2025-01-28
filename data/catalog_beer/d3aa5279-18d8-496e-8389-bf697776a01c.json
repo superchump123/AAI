@@ -1,0 +1,11 @@
+{
+  "id": "d3aa5279-18d8-496e-8389-bf697776a01c",
+  "object": "beer",
+  "name": "Halbpfenning Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

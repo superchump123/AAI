@@ -1,0 +1,11 @@
+{
+  "id": "add360e4-e303-4eca-9d5d-17f33a651578",
+  "object": "beer",
+  "name": "Smokey the Beer",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

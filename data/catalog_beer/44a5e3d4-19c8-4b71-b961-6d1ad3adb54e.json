@@ -1,0 +1,11 @@
+{
+  "id": "44a5e3d4-19c8-4b71-b961-6d1ad3adb54e",
+  "object": "beer",
+  "name": "Skyspace",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

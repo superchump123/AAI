@@ -1,0 +1,11 @@
+{
+  "id": "81d54d14-239c-4f49-aeba-37eb42f9e35f",
+  "object": "beer",
+  "name": "Rye India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

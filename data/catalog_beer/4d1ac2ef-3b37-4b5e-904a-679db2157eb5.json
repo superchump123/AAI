@@ -1,0 +1,11 @@
+{
+  "id": "4d1ac2ef-3b37-4b5e-904a-679db2157eb5",
+  "object": "beer",
+  "name": "Darth Malt",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

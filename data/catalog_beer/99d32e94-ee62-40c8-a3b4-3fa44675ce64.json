@@ -1,0 +1,11 @@
+{
+  "id": "99d32e94-ee62-40c8-a3b4-3fa44675ce64",
+  "object": "beer",
+  "name": "Black Fang",
+  "style": "Semi-Sweet Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

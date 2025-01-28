@@ -1,0 +1,11 @@
+{
+  "id": "5b207203-3382-40af-a835-58c6d716ef8a",
+  "object": "beer",
+  "name": "Pert Near Pils",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

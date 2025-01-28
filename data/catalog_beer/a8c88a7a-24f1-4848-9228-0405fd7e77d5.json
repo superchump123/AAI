@@ -1,0 +1,11 @@
+{
+  "id": "a8c88a7a-24f1-4848-9228-0405fd7e77d5",
+  "object": "beer",
+  "name": "Obsession",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "894b5271-d747-4680-8976-ce2940faf27a",
+  "object": "beer",
+  "name": "TPA Texas Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

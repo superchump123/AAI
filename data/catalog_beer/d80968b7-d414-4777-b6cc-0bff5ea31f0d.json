@@ -1,0 +1,11 @@
+{
+  "id": "d80968b7-d414-4777-b6cc-0bff5ea31f0d",
+  "object": "beer",
+  "name": "Bogus Jim",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

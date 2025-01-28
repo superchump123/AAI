@@ -1,0 +1,11 @@
+{
+  "id": "73640d76-edab-4477-890e-501057ed576b",
+  "object": "beer",
+  "name": "Soproni",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

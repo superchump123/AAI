@@ -1,0 +1,11 @@
+{
+  "id": "57f70780-961a-4efd-9d63-eac2fe6e8534",
+  "object": "beer",
+  "name": "Bishop's Barrel No. 17",
+  "style": "Adambier",
+  "description": null,
+  "abv": 13.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

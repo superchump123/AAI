@@ -1,0 +1,11 @@
+{
+  "id": "18d19fed-f5aa-46d6-8149-02a1b146db1a",
+  "object": "beer",
+  "name": "Highwater Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bd0ae0e6-472a-487c-824e-40ed83dbb763",
+  "object": "beer",
+  "name": "Cherry Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

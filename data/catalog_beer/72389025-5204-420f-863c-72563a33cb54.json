@@ -1,0 +1,11 @@
+{
+  "id": "72389025-5204-420f-863c-72563a33cb54",
+  "object": "beer",
+  "name": "Campfire Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

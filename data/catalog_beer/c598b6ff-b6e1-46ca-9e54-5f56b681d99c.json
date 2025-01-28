@@ -1,0 +1,11 @@
+{
+  "id": "c598b6ff-b6e1-46ca-9e54-5f56b681d99c",
+  "object": "beer",
+  "name": "Mayflower Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b8958b7f-3fdd-4816-8e13-83a34c733cb5",
+  "object": "beer",
+  "name": "Winter Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dcc7f82c-42c8-43cb-aa1a-996c8a250a33",
+  "object": "beer",
+  "name": "10,000 Summers",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "04598c05-36cb-457a-96a0-737dd8720801",
+  "object": "beer",
+  "name": "Belgian Strawberry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

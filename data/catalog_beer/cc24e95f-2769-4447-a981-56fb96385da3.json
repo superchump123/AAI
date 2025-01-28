@@ -1,0 +1,11 @@
+{
+  "id": "cc24e95f-2769-4447-a981-56fb96385da3",
+  "object": "beer",
+  "name": "Brett Session Saison au Seigle",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

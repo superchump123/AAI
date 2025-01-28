@@ -1,0 +1,11 @@
+{
+  "id": "719bad5f-9821-4625-bf78-8c0ee1c7f637",
+  "object": "beer",
+  "name": "Buffalo Sunset",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

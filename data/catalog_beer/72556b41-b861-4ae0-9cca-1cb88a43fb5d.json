@@ -1,0 +1,11 @@
+{
+  "id": "72556b41-b861-4ae0-9cca-1cb88a43fb5d",
+  "object": "beer",
+  "name": "Bourbon Barrel-Aged Ground Control",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

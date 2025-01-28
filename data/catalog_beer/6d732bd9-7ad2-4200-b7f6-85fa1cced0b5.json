@@ -1,0 +1,11 @@
+{
+  "id": "6d732bd9-7ad2-4200-b7f6-85fa1cced0b5",
+  "object": "beer",
+  "name": "Cascade Whirlpool",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

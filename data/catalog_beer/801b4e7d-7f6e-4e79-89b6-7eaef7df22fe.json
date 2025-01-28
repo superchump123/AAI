@@ -1,0 +1,11 @@
+{
+  "id": "801b4e7d-7f6e-4e79-89b6-7eaef7df22fe",
+  "object": "beer",
+  "name": "Abbaye de Saint-Martin Brune",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

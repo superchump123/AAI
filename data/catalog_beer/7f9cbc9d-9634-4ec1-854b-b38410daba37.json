@@ -1,0 +1,11 @@
+{
+  "id": "7f9cbc9d-9634-4ec1-854b-b38410daba37",
+  "object": "beer",
+  "name": "Waldmoor Dunkel",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "31bd7066-2a4c-4edd-90a7-001c5a875836",
+  "object": "beer",
+  "name": "Clan Warrior Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

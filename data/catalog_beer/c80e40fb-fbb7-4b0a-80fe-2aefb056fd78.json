@@ -1,0 +1,11 @@
+{
+  "id": "c80e40fb-fbb7-4b0a-80fe-2aefb056fd78",
+  "object": "beer",
+  "name": "Broken Spoke",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

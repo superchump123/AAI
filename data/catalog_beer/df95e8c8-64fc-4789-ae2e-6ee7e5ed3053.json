@@ -1,0 +1,11 @@
+{
+  "id": "df95e8c8-64fc-4789-ae2e-6ee7e5ed3053",
+  "object": "beer",
+  "name": "Icelandic White Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

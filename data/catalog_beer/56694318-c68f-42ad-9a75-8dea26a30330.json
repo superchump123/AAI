@@ -1,0 +1,11 @@
+{
+  "id": "56694318-c68f-42ad-9a75-8dea26a30330",
+  "object": "beer",
+  "name": "Warka Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

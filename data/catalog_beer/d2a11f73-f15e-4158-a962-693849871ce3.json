@@ -1,0 +1,11 @@
+{
+  "id": "d2a11f73-f15e-4158-a962-693849871ce3",
+  "object": "beer",
+  "name": "Dry Lock IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

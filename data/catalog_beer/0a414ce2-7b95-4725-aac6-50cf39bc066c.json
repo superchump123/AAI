@@ -1,0 +1,11 @@
+{
+  "id": "0a414ce2-7b95-4725-aac6-50cf39bc066c",
+  "object": "beer",
+  "name": "All I See Is Carrion",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 12.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

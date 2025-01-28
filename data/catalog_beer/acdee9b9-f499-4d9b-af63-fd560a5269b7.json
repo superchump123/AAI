@@ -1,0 +1,11 @@
+{
+  "id": "acdee9b9-f499-4d9b-af63-fd560a5269b7",
+  "object": "beer",
+  "name": "Old Dog Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

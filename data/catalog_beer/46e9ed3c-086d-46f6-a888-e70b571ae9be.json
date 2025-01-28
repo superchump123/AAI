@@ -1,0 +1,11 @@
+{
+  "id": "46e9ed3c-086d-46f6-a888-e70b571ae9be",
+  "object": "beer",
+  "name": "Hopped Up Pippen",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

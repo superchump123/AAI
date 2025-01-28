@@ -1,0 +1,11 @@
+{
+  "id": "dcc1daa1-f5e8-461e-ba19-5c4e6ab5b20f",
+  "object": "beer",
+  "name": "Kristall Weiss",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

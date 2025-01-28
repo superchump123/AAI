@@ -1,0 +1,11 @@
+{
+  "id": "82a1b0f9-4b45-47f7-bb12-2f06233594c0",
+  "object": "beer",
+  "name": "Mangoberry",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "120ad1a1-c5a2-4565-a51b-4767362b9382",
+  "object": "beer",
+  "name": "ALTitude Red Ale",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

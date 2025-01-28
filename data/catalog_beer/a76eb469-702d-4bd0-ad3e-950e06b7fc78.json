@@ -1,0 +1,11 @@
+{
+  "id": "a76eb469-702d-4bd0-ad3e-950e06b7fc78",
+  "object": "beer",
+  "name": "Blind Salamander",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

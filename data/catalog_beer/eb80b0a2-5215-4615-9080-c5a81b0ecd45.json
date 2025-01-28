@@ -1,0 +1,11 @@
+{
+  "id": "eb80b0a2-5215-4615-9080-c5a81b0ecd45",
+  "object": "beer",
+  "name": "Semi-Lunar Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

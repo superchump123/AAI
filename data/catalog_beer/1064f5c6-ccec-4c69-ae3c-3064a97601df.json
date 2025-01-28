@@ -1,0 +1,11 @@
+{
+  "id": "1064f5c6-ccec-4c69-ae3c-3064a97601df",
+  "object": "beer",
+  "name": "Hop Hazard",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

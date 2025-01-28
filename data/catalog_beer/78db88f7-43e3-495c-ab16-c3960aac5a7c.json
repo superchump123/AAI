@@ -1,0 +1,11 @@
+{
+  "id": "78db88f7-43e3-495c-ab16-c3960aac5a7c",
+  "object": "beer",
+  "name": "Brahma Premium Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

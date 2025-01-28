@@ -1,0 +1,11 @@
+{
+  "id": "6a370ae0-76a6-4ed6-ac45-53e2bdfea8a0",
+  "object": "beer",
+  "name": "Filou",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

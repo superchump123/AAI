@@ -1,0 +1,11 @@
+{
+  "id": "ee070f46-f685-41c1-9846-a1c5058ee45b",
+  "object": "beer",
+  "name": "Killian's Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9c916d97-0bd5-4dad-9807-1692ef7b3fe4",
+  "object": "beer",
+  "name": "Pig Bird",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

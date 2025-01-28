@@ -1,0 +1,11 @@
+{
+  "id": "ecb0c90b-a015-4a86-b577-be751c6cefcc",
+  "object": "beer",
+  "name": "Boucanier Dark",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

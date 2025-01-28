@@ -1,0 +1,11 @@
+{
+  "id": "0bbacaa1-5c31-4e19-9956-1bdec12e7ba6",
+  "object": "beer",
+  "name": "Hazy Dream",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

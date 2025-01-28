@@ -1,0 +1,11 @@
+{
+  "id": "1e48b1d5-1332-417c-873e-091689e13c57",
+  "object": "beer",
+  "name": "Aroma Prieta India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

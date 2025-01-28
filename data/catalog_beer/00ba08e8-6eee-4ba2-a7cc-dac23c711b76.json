@@ -1,0 +1,11 @@
+{
+  "id": "00ba08e8-6eee-4ba2-a7cc-dac23c711b76",
+  "object": "beer",
+  "name": "Ketterer Weihnachtsbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

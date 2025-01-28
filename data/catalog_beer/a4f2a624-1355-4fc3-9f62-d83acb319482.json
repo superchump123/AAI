@@ -1,0 +1,11 @@
+{
+  "id": "a4f2a624-1355-4fc3-9f62-d83acb319482",
+  "object": "beer",
+  "name": "Skagit Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

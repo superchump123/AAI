@@ -1,0 +1,11 @@
+{
+  "id": "545bcfc7-872c-4fdd-8546-44b3b79c0e8d",
+  "object": "beer",
+  "name": "Grapefruit Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

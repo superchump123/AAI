@@ -1,0 +1,11 @@
+{
+  "id": "a8579163-ddba-4f12-99a0-e04cd8718cd2",
+  "object": "beer",
+  "name": "Evil Cousin Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

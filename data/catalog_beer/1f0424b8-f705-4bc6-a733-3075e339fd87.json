@@ -1,0 +1,11 @@
+{
+  "id": "1f0424b8-f705-4bc6-a733-3075e339fd87",
+  "object": "beer",
+  "name": "The Vixen",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

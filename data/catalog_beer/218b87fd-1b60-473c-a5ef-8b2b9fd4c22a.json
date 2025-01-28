@@ -1,0 +1,11 @@
+{
+  "id": "218b87fd-1b60-473c-a5ef-8b2b9fd4c22a",
+  "object": "beer",
+  "name": "Clovis Point IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

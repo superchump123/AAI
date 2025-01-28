@@ -1,0 +1,11 @@
+{
+  "id": "cac2baa7-a7ac-42d8-b12d-de8560a1e33c",
+  "object": "beer",
+  "name": "Triple Imp\u00e9riale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

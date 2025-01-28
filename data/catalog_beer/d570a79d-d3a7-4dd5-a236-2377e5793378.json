@@ -1,0 +1,11 @@
+{
+  "id": "d570a79d-d3a7-4dd5-a236-2377e5793378",
+  "object": "beer",
+  "name": "Poleeko Gold Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cf584a21-e5ec-42f6-b6fc-9b245921e209",
+  "object": "beer",
+  "name": "Red Keg Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

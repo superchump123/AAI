@@ -1,0 +1,11 @@
+{
+  "id": "1f746ff4-d5d2-47eb-92a2-7230b6648fc3",
+  "object": "beer",
+  "name": "Nitro Cowbell",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

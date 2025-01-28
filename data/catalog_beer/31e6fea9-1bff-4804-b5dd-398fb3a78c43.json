@@ -1,0 +1,11 @@
+{
+  "id": "31e6fea9-1bff-4804-b5dd-398fb3a78c43",
+  "object": "beer",
+  "name": "Ales For A.L.S. I.P.A",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

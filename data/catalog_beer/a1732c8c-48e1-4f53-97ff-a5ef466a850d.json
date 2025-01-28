@@ -1,0 +1,11 @@
+{
+  "id": "a1732c8c-48e1-4f53-97ff-a5ef466a850d",
+  "object": "beer",
+  "name": "Codebreaker",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 108,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "660d0c94-db41-4673-ab54-a1ff95927d6a",
+  "object": "beer",
+  "name": "Saint Arnold Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

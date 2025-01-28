@@ -1,0 +1,11 @@
+{
+  "id": "e563f482-8d09-4b31-ae61-f64742bebc74",
+  "object": "beer",
+  "name": "Jewel City Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

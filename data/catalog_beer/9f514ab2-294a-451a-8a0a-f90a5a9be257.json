@@ -1,0 +1,11 @@
+{
+  "id": "9f514ab2-294a-451a-8a0a-f90a5a9be257",
+  "object": "beer",
+  "name": "Pheasant Hog",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

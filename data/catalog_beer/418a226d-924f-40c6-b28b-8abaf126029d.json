@@ -1,0 +1,11 @@
+{
+  "id": "418a226d-924f-40c6-b28b-8abaf126029d",
+  "object": "beer",
+  "name": "Brimstone Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

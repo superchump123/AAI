@@ -1,0 +1,11 @@
+{
+  "id": "61b8948f-ec07-4db8-8a03-64f762f03134",
+  "object": "beer",
+  "name": "Barrel-Licked Bock",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

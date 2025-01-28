@@ -1,0 +1,11 @@
+{
+  "id": "21670cb0-7eb0-47fa-a65c-2081bd57c969",
+  "object": "beer",
+  "name": "Riverfront Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

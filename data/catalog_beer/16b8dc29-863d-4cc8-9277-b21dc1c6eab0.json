@@ -1,0 +1,11 @@
+{
+  "id": "16b8dc29-863d-4cc8-9277-b21dc1c6eab0",
+  "object": "beer",
+  "name": "Vienna Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

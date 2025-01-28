@@ -1,0 +1,11 @@
+{
+  "id": "3c7975b1-cbd1-490b-9c0e-475d2ab273de",
+  "object": "beer",
+  "name": "Route 104",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

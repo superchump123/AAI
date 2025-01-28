@@ -1,0 +1,11 @@
+{
+  "id": "132a526c-0178-45aa-8713-d20fcabc88f5",
+  "object": "beer",
+  "name": "Ultraviolet",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

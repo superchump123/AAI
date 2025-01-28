@@ -1,0 +1,11 @@
+{
+  "id": "cce6cb43-3fa7-42cd-89b5-007ec695a5df",
+  "object": "beer",
+  "name": "Hyena",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

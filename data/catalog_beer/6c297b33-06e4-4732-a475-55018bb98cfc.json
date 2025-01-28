@@ -1,0 +1,11 @@
+{
+  "id": "6c297b33-06e4-4732-a475-55018bb98cfc",
+  "object": "beer",
+  "name": "Ninja Chicken Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

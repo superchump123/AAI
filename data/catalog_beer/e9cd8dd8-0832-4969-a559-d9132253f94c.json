@@ -1,0 +1,11 @@
+{
+  "id": "e9cd8dd8-0832-4969-a559-d9132253f94c",
+  "object": "beer",
+  "name": "Hudsons E.S.B.",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

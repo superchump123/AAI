@@ -1,0 +1,11 @@
+{
+  "id": "34e604b6-285c-40ee-936a-7026a2738f65",
+  "object": "beer",
+  "name": "Cucumber Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

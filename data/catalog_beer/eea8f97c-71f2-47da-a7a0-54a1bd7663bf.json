@@ -1,0 +1,11 @@
+{
+  "id": "eea8f97c-71f2-47da-a7a0-54a1bd7663bf",
+  "object": "beer",
+  "name": "Punk Pig Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

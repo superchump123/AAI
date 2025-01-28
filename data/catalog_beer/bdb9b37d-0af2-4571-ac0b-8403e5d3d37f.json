@@ -1,0 +1,11 @@
+{
+  "id": "bdb9b37d-0af2-4571-ac0b-8403e5d3d37f",
+  "object": "beer",
+  "name": "Hail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

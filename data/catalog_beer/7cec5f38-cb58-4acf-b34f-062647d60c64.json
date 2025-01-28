@@ -1,0 +1,11 @@
+{
+  "id": "7cec5f38-cb58-4acf-b34f-062647d60c64",
+  "object": "beer",
+  "name": "Hudson Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

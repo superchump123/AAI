@@ -1,0 +1,11 @@
+{
+  "id": "24f5bb27-efc9-4d57-9590-0cf6bc5df089",
+  "object": "beer",
+  "name": "Weisse",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2984ff27-153e-4d66-a992-db0107725616",
+  "object": "beer",
+  "name": "Snead Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

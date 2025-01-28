@@ -1,0 +1,11 @@
+{
+  "id": "78fa7264-93b0-4177-9d19-033ec7d46f7a",
+  "object": "beer",
+  "name": "Iris",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

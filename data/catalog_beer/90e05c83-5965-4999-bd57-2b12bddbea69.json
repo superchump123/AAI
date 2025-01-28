@@ -1,0 +1,11 @@
+{
+  "id": "90e05c83-5965-4999-bd57-2b12bddbea69",
+  "object": "beer",
+  "name": "Charlie Wells Dry Hopped Lager",
+  "style": "Dry Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

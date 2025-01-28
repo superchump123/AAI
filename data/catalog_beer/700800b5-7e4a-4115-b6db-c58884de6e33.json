@@ -1,0 +1,11 @@
+{
+  "id": "700800b5-7e4a-4115-b6db-c58884de6e33",
+  "object": "beer",
+  "name": "Valencia Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

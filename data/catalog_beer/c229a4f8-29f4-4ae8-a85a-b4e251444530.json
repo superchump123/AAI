@@ -1,0 +1,11 @@
+{
+  "id": "c229a4f8-29f4-4ae8-a85a-b4e251444530",
+  "object": "beer",
+  "name": "Carnutes Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

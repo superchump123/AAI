@@ -1,0 +1,11 @@
+{
+  "id": "dec2b08d-5116-4c3f-8b87-ece494de3a99",
+  "object": "beer",
+  "name": "Bonfire Brown W/ Vanilla Beans",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

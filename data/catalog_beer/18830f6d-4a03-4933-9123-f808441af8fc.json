@@ -1,0 +1,11 @@
+{
+  "id": "18830f6d-4a03-4933-9123-f808441af8fc",
+  "object": "beer",
+  "name": "Trueland",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

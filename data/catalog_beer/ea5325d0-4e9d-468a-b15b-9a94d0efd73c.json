@@ -1,0 +1,11 @@
+{
+  "id": "ea5325d0-4e9d-468a-b15b-9a94d0efd73c",
+  "object": "beer",
+  "name": "Archer's Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

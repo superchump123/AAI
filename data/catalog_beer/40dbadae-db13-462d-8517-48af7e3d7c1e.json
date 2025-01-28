@@ -1,0 +1,11 @@
+{
+  "id": "40dbadae-db13-462d-8517-48af7e3d7c1e",
+  "object": "beer",
+  "name": "Axe Edge",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

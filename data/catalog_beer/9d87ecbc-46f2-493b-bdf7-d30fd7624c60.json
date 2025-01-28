@@ -1,0 +1,11 @@
+{
+  "id": "9d87ecbc-46f2-493b-bdf7-d30fd7624c60",
+  "object": "beer",
+  "name": "Auburn Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

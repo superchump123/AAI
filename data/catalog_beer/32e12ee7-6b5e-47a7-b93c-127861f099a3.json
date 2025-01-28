@@ -1,0 +1,11 @@
+{
+  "id": "32e12ee7-6b5e-47a7-b93c-127861f099a3",
+  "object": "beer",
+  "name": "Cherry Coconut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

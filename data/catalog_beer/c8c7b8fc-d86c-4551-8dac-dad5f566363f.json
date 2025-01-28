@@ -1,0 +1,11 @@
+{
+  "id": "c8c7b8fc-d86c-4551-8dac-dad5f566363f",
+  "object": "beer",
+  "name": "Black Hop",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

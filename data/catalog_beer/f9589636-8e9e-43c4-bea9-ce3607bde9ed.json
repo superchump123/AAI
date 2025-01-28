@@ -1,0 +1,11 @@
+{
+  "id": "f9589636-8e9e-43c4-bea9-ce3607bde9ed",
+  "object": "beer",
+  "name": "Conquerant",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

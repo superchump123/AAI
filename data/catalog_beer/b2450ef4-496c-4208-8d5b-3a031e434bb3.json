@@ -1,0 +1,11 @@
+{
+  "id": "b2450ef4-496c-4208-8d5b-3a031e434bb3",
+  "object": "beer",
+  "name": "St. Maeve Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

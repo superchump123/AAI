@@ -1,0 +1,11 @@
+{
+  "id": "194b7024-a15f-44c2-8786-dbf1edb17c11",
+  "object": "beer",
+  "name": "Pi-Dog Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

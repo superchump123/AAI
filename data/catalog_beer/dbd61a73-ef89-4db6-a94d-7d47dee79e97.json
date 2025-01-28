@@ -1,0 +1,11 @@
+{
+  "id": "dbd61a73-ef89-4db6-a94d-7d47dee79e97",
+  "object": "beer",
+  "name": "Bastille",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

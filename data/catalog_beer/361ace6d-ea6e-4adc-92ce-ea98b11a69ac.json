@@ -1,0 +1,11 @@
+{
+  "id": "361ace6d-ea6e-4adc-92ce-ea98b11a69ac",
+  "object": "beer",
+  "name": "Peaches'n' Brett",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

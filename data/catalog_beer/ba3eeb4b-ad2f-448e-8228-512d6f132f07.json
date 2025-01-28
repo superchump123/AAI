@@ -1,0 +1,11 @@
+{
+  "id": "ba3eeb4b-ad2f-448e-8228-512d6f132f07",
+  "object": "beer",
+  "name": "Southern Roots",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "07e7c8ea-8e0e-43e8-be0c-4b96c10a777b",
+  "object": "beer",
+  "name": "Lilikoi Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

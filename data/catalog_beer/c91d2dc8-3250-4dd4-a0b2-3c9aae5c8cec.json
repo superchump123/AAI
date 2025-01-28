@@ -1,0 +1,11 @@
+{
+  "id": "c91d2dc8-3250-4dd4-a0b2-3c9aae5c8cec",
+  "object": "beer",
+  "name": "Bard's Song",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

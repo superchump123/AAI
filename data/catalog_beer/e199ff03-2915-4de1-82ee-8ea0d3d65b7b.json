@@ -1,0 +1,11 @@
+{
+  "id": "e199ff03-2915-4de1-82ee-8ea0d3d65b7b",
+  "object": "beer",
+  "name": "Brewed X 2",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

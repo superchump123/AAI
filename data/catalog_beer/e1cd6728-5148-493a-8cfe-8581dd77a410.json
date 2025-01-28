@@ -1,0 +1,11 @@
+{
+  "id": "e1cd6728-5148-493a-8cfe-8581dd77a410",
+  "object": "beer",
+  "name": "Winter Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

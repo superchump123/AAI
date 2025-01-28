@@ -1,0 +1,11 @@
+{
+  "id": "5c92ec5e-df26-4da0-89b5-c58254808932",
+  "object": "beer",
+  "name": "Bruine",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

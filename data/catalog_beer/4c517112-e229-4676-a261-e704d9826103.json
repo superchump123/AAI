@@ -1,0 +1,11 @@
+{
+  "id": "4c517112-e229-4676-a261-e704d9826103",
+  "object": "beer",
+  "name": "Black Friar",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

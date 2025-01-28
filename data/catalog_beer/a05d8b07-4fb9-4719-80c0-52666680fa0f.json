@@ -1,0 +1,11 @@
+{
+  "id": "a05d8b07-4fb9-4719-80c0-52666680fa0f",
+  "object": "beer",
+  "name": "Westmalle Trappist Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

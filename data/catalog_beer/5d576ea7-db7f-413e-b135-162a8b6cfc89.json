@@ -1,0 +1,11 @@
+{
+  "id": "5d576ea7-db7f-413e-b135-162a8b6cfc89",
+  "object": "beer",
+  "name": "M'Lady",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

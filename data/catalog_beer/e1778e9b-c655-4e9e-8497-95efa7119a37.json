@@ -1,0 +1,11 @@
+{
+  "id": "e1778e9b-c655-4e9e-8497-95efa7119a37",
+  "object": "beer",
+  "name": "Kashmir IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

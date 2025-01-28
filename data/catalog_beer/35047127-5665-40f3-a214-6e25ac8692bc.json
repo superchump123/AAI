@@ -1,0 +1,11 @@
+{
+  "id": "35047127-5665-40f3-a214-6e25ac8692bc",
+  "object": "beer",
+  "name": "Massive IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

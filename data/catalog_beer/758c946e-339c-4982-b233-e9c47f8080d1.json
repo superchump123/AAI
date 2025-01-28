@@ -1,0 +1,11 @@
+{
+  "id": "758c946e-339c-4982-b233-e9c47f8080d1",
+  "object": "beer",
+  "name": "Rose",
+  "style": "Other Fruit Melomel",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

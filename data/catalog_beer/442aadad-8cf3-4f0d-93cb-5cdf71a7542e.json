@@ -1,0 +1,11 @@
+{
+  "id": "442aadad-8cf3-4f0d-93cb-5cdf71a7542e",
+  "object": "beer",
+  "name": "Kodiak Bear IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

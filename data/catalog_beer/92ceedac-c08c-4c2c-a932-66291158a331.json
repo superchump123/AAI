@@ -1,0 +1,11 @@
+{
+  "id": "92ceedac-c08c-4c2c-a932-66291158a331",
+  "object": "beer",
+  "name": "Spinner",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

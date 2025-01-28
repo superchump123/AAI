@@ -1,0 +1,11 @@
+{
+  "id": "47f2bd74-537a-4452-a975-15b388fdecf1",
+  "object": "beer",
+  "name": "Something In The Way She Pours",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b0df8f2-de45-4bda-bfa7-c243bc4cfa01",
+  "object": "beer",
+  "name": "Black Forest",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

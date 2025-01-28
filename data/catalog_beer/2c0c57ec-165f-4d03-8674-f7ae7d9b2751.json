@@ -1,0 +1,11 @@
+{
+  "id": "2c0c57ec-165f-4d03-8674-f7ae7d9b2751",
+  "object": "beer",
+  "name": "Shadow of a Doubt",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

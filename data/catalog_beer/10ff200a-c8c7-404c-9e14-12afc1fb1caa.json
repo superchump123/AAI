@@ -1,0 +1,11 @@
+{
+  "id": "10ff200a-c8c7-404c-9e14-12afc1fb1caa",
+  "object": "beer",
+  "name": "Java Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

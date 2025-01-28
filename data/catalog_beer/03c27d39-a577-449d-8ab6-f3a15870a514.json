@@ -1,0 +1,11 @@
+{
+  "id": "03c27d39-a577-449d-8ab6-f3a15870a514",
+  "object": "beer",
+  "name": "Kaktus Basil Lager",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

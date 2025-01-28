@@ -1,0 +1,11 @@
+{
+  "id": "d5ed6678-8b03-47b0-9853-7c0e5f88b571",
+  "object": "beer",
+  "name": "Cuvee De Bubba",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

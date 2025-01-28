@@ -1,0 +1,11 @@
+{
+  "id": "20c311cf-fa13-467f-a7fc-7081b10576ec",
+  "object": "beer",
+  "name": "Dry-Hopped Mountain Livin' Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "58f35273-360d-41d2-9146-41f197b79c29",
+  "object": "beer",
+  "name": "Date Night",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

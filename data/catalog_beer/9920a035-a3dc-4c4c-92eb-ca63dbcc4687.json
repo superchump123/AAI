@@ -1,0 +1,11 @@
+{
+  "id": "9920a035-a3dc-4c4c-92eb-ca63dbcc4687",
+  "object": "beer",
+  "name": "Saskatooner Sour",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

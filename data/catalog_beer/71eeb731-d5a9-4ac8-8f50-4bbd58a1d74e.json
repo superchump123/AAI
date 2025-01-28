@@ -1,0 +1,11 @@
+{
+  "id": "71eeb731-d5a9-4ac8-8f50-4bbd58a1d74e",
+  "object": "beer",
+  "name": "Always The Hard Way",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

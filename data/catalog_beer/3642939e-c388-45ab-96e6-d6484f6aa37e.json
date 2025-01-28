@@ -1,0 +1,11 @@
+{
+  "id": "3642939e-c388-45ab-96e6-d6484f6aa37e",
+  "object": "beer",
+  "name": "Wormtown Pumpkin Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

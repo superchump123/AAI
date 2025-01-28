@@ -1,0 +1,11 @@
+{
+  "id": "9557a5eb-e60e-441b-8cd6-62eb823e0b2b",
+  "object": "beer",
+  "name": "Blonde Hunny Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6303a97-eca9-4892-8b2d-22bb9b4b7b9b",
+  "object": "beer",
+  "name": "Weissbier",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

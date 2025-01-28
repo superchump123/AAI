@@ -1,0 +1,11 @@
+{
+  "id": "f6d3a99d-65e0-42c9-b085-1df3c72bb23b",
+  "object": "beer",
+  "name": "Rabbit Mountain",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

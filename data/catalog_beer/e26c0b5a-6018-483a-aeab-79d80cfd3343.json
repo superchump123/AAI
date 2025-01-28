@@ -1,0 +1,11 @@
+{
+  "id": "e26c0b5a-6018-483a-aeab-79d80cfd3343",
+  "object": "beer",
+  "name": "La Pienture",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

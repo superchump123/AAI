@@ -1,0 +1,11 @@
+{
+  "id": "b9a9f956-cd3e-4e05-b04e-f449ca5ca8d6",
+  "object": "beer",
+  "name": "Retribution",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

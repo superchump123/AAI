@@ -1,0 +1,11 @@
+{
+  "id": "65b99f4b-95bc-4103-ba11-9bec2d087033",
+  "object": "beer",
+  "name": "Harvest Gold",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

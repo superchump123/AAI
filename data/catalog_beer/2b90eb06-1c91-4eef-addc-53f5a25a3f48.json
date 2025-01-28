@@ -1,0 +1,11 @@
+{
+  "id": "2b90eb06-1c91-4eef-addc-53f5a25a3f48",
+  "object": "beer",
+  "name": "Das Danke",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

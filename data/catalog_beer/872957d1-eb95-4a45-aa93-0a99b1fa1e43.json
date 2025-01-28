@@ -1,0 +1,11 @@
+{
+  "id": "872957d1-eb95-4a45-aa93-0a99b1fa1e43",
+  "object": "beer",
+  "name": "Bascom Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

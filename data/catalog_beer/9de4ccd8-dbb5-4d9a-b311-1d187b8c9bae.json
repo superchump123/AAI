@@ -1,0 +1,11 @@
+{
+  "id": "9de4ccd8-dbb5-4d9a-b311-1d187b8c9bae",
+  "object": "beer",
+  "name": "Road Runner IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

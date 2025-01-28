@@ -1,0 +1,11 @@
+{
+  "id": "be990df3-6d7c-4027-9fc4-3b84dffd4037",
+  "object": "beer",
+  "name": "Bugger Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

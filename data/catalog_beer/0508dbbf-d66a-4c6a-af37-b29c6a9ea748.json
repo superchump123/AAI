@@ -1,0 +1,11 @@
+{
+  "id": "0508dbbf-d66a-4c6a-af37-b29c6a9ea748",
+  "object": "beer",
+  "name": "Ryde Beer",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

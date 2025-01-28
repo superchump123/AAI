@@ -1,0 +1,11 @@
+{
+  "id": "2a01c9a7-daa1-4e5c-8f0c-79a29860344e",
+  "object": "beer",
+  "name": "Orange Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

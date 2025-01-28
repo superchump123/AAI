@@ -1,0 +1,11 @@
+{
+  "id": "56a0f9d7-1ce2-49ae-8a12-b3c5f836c586",
+  "object": "beer",
+  "name": "Dirt Track",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

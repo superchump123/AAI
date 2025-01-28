@@ -1,0 +1,11 @@
+{
+  "id": "5aff2b3a-ad3d-459c-9ad5-92bc75e54635",
+  "object": "beer",
+  "name": "Starke Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "efa0590f-079a-4506-9423-41e1a3e07617",
+  "object": "beer",
+  "name": "Two-One Niner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

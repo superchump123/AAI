@@ -1,0 +1,11 @@
+{
+  "id": "adf46f42-a57a-4799-9fb6-40530f5a2341",
+  "object": "beer",
+  "name": "Hop Forest",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

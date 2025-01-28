@@ -1,0 +1,11 @@
+{
+  "id": "89c10138-28c0-4fc1-9848-df9e24ecc66a",
+  "object": "beer",
+  "name": "Bucket of Blood",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

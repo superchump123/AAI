@@ -1,0 +1,11 @@
+{
+  "id": "84a4fec9-a896-4285-8c1b-71858583fb60",
+  "object": "beer",
+  "name": "Old Brewer Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

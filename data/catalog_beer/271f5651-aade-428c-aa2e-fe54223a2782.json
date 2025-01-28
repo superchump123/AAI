@@ -1,0 +1,11 @@
+{
+  "id": "271f5651-aade-428c-aa2e-fe54223a2782",
+  "object": "beer",
+  "name": "Flying Frog Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

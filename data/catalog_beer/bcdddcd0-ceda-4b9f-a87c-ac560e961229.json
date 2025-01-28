@@ -1,0 +1,11 @@
+{
+  "id": "bcdddcd0-ceda-4b9f-a87c-ac560e961229",
+  "object": "beer",
+  "name": "More Than Meets The Rye",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

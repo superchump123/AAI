@@ -1,0 +1,11 @@
+{
+  "id": "aa94e967-fc47-4aa7-bfb8-404dcd94161b",
+  "object": "beer",
+  "name": "Hop Ryot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

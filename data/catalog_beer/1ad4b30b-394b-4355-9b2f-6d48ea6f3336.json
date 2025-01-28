@@ -1,0 +1,11 @@
+{
+  "id": "1ad4b30b-394b-4355-9b2f-6d48ea6f3336",
+  "object": "beer",
+  "name": "Kirkwood Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

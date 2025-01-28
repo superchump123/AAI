@@ -1,0 +1,11 @@
+{
+  "id": "9ef3b6f5-e63f-4f70-b568-7ebec68bb028",
+  "object": "beer",
+  "name": "Johnny Rico Red IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

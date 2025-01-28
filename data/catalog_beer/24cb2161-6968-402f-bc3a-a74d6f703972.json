@@ -1,0 +1,11 @@
+{
+  "id": "24cb2161-6968-402f-bc3a-a74d6f703972",
+  "object": "beer",
+  "name": "MI Loonie Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

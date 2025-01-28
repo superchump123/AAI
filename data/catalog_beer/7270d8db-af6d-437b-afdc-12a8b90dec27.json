@@ -1,0 +1,11 @@
+{
+  "id": "7270d8db-af6d-437b-afdc-12a8b90dec27",
+  "object": "beer",
+  "name": "Bottoms Up",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

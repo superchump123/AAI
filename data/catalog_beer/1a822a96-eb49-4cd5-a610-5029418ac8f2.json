@@ -1,0 +1,11 @@
+{
+  "id": "1a822a96-eb49-4cd5-a610-5029418ac8f2",
+  "object": "beer",
+  "name": "Winter Ale (5th Anniversary Ale)",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

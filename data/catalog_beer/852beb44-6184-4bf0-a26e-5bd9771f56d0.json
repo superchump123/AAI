@@ -1,0 +1,11 @@
+{
+  "id": "852beb44-6184-4bf0-a26e-5bd9771f56d0",
+  "object": "beer",
+  "name": "Together Belgian Dubbel",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

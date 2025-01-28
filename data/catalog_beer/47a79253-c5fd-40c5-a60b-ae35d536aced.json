@@ -1,0 +1,11 @@
+{
+  "id": "47a79253-c5fd-40c5-a60b-ae35d536aced",
+  "object": "beer",
+  "name": "Wizard Smith's Ale",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

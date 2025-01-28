@@ -1,0 +1,11 @@
+{
+  "id": "fd59116d-974c-4ddc-9708-7f47dbef56b5",
+  "object": "beer",
+  "name": "Red Rocker",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

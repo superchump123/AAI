@@ -1,0 +1,11 @@
+{
+  "id": "6d26ee2d-c410-4cac-877e-d9a6d3c72b98",
+  "object": "beer",
+  "name": "Undersized iPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

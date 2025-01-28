@@ -1,0 +1,11 @@
+{
+  "id": "32bf3321-9d8b-46eb-aa52-1c2d99e2e672",
+  "object": "beer",
+  "name": "Red Rock Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

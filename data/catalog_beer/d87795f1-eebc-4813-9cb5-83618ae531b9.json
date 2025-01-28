@@ -1,0 +1,11 @@
+{
+  "id": "d87795f1-eebc-4813-9cb5-83618ae531b9",
+  "object": "beer",
+  "name": "Hoptimus Prime",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

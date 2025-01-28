@@ -1,0 +1,11 @@
+{
+  "id": "a77c5c3a-e22f-49d2-8d8f-7910310989f7",
+  "object": "beer",
+  "name": "Runoff",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

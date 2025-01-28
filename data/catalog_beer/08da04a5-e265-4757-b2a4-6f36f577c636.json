@@ -1,0 +1,11 @@
+{
+  "id": "08da04a5-e265-4757-b2a4-6f36f577c636",
+  "object": "beer",
+  "name": "One Buffalo",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

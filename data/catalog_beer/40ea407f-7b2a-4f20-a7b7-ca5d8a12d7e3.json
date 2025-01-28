@@ -1,0 +1,11 @@
+{
+  "id": "40ea407f-7b2a-4f20-a7b7-ca5d8a12d7e3",
+  "object": "beer",
+  "name": "Unicorn Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

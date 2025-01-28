@@ -1,0 +1,11 @@
+{
+  "id": "65b6a4e8-5aee-4437-8fba-5fa012220e99",
+  "object": "beer",
+  "name": "Baltic 11",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

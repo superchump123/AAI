@@ -1,0 +1,11 @@
+{
+  "id": "ced46547-415b-4c42-9c81-8ee991e7f021",
+  "object": "beer",
+  "name": "Christoph's Waltz",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

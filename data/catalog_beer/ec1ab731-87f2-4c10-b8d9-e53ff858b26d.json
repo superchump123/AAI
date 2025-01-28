@@ -1,0 +1,11 @@
+{
+  "id": "ec1ab731-87f2-4c10-b8d9-e53ff858b26d",
+  "object": "beer",
+  "name": "Colonel Paris Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

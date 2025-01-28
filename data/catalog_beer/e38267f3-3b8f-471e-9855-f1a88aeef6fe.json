@@ -1,0 +1,11 @@
+{
+  "id": "e38267f3-3b8f-471e-9855-f1a88aeef6fe",
+  "object": "beer",
+  "name": "Kashmir",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

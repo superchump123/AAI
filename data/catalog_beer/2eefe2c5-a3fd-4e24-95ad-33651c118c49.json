@@ -1,0 +1,11 @@
+{
+  "id": "2eefe2c5-a3fd-4e24-95ad-33651c118c49",
+  "object": "beer",
+  "name": "Gold Digger",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

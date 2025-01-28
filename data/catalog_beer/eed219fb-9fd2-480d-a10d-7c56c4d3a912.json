@@ -1,0 +1,11 @@
+{
+  "id": "eed219fb-9fd2-480d-a10d-7c56c4d3a912",
+  "object": "beer",
+  "name": "Soroboruo",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

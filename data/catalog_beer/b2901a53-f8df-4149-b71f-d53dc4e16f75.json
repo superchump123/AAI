@@ -1,0 +1,11 @@
+{
+  "id": "b2901a53-f8df-4149-b71f-d53dc4e16f75",
+  "object": "beer",
+  "name": "Angus McDouglas",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

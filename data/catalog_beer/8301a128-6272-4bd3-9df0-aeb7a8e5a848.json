@@ -1,0 +1,11 @@
+{
+  "id": "8301a128-6272-4bd3-9df0-aeb7a8e5a848",
+  "object": "beer",
+  "name": "Willy Nilly",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

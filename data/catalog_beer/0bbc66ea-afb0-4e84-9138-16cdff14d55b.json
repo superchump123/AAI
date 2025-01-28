@@ -1,0 +1,11 @@
+{
+  "id": "0bbc66ea-afb0-4e84-9138-16cdff14d55b",
+  "object": "beer",
+  "name": "Smiley Blue Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

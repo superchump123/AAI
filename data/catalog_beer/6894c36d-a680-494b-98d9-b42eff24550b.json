@@ -1,0 +1,11 @@
+{
+  "id": "6894c36d-a680-494b-98d9-b42eff24550b",
+  "object": "beer",
+  "name": "Vintage Ale 2004",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

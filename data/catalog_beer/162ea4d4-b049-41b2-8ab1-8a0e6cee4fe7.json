@@ -1,0 +1,11 @@
+{
+  "id": "162ea4d4-b049-41b2-8ab1-8a0e6cee4fe7",
+  "object": "beer",
+  "name": "Blueberry Lou",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

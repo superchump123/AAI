@@ -1,0 +1,11 @@
+{
+  "id": "25a3907f-71b3-4d03-a10a-9aa3fd17bc01",
+  "object": "beer",
+  "name": "Lucky Cloud",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

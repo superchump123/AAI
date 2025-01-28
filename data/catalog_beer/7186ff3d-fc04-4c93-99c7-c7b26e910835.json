@@ -1,0 +1,11 @@
+{
+  "id": "7186ff3d-fc04-4c93-99c7-c7b26e910835",
+  "object": "beer",
+  "name": "EPA English Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

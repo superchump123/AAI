@@ -1,0 +1,11 @@
+{
+  "id": "1ebc8524-3586-4f60-89b8-8b30df5ab2e7",
+  "object": "beer",
+  "name": "Loomi Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

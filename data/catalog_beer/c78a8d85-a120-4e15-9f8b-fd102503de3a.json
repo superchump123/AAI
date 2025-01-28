@@ -1,0 +1,11 @@
+{
+  "id": "c78a8d85-a120-4e15-9f8b-fd102503de3a",
+  "object": "beer",
+  "name": "Celt's Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

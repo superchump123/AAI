@@ -1,0 +1,11 @@
+{
+  "id": "7ff8a42a-4277-482d-b6ed-238ecc2aa3f9",
+  "object": "beer",
+  "name": "Huusbier Hell",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e2c81a3a-8d5e-460f-8e8c-6217da1d504a",
+  "object": "beer",
+  "name": "Millennium Bridge Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

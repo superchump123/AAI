@@ -1,0 +1,11 @@
+{
+  "id": "d987d82f-37cd-497b-8a19-bbd32b65e7ee",
+  "object": "beer",
+  "name": "The New Black",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

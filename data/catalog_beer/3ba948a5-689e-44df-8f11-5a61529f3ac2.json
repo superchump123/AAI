@@ -1,0 +1,11 @@
+{
+  "id": "3ba948a5-689e-44df-8f11-5a61529f3ac2",
+  "object": "beer",
+  "name": "Corona Extra",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "887566b5-6d1b-4104-a38b-511279512f69",
+  "object": "beer",
+  "name": "Belgian's Maibock",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

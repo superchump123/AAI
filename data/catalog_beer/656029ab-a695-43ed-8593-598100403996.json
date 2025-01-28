@@ -1,0 +1,11 @@
+{
+  "id": "656029ab-a695-43ed-8593-598100403996",
+  "object": "beer",
+  "name": "Golden Peach Ale",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

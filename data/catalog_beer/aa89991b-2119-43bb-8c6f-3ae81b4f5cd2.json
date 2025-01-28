@@ -1,0 +1,11 @@
+{
+  "id": "aa89991b-2119-43bb-8c6f-3ae81b4f5cd2",
+  "object": "beer",
+  "name": "Bada Bing Cherry Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

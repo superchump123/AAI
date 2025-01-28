@@ -1,0 +1,11 @@
+{
+  "id": "42a06659-a1f6-436f-ba4e-7b0301f27cf2",
+  "object": "beer",
+  "name": "Tailgate Sweet Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

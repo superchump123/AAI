@@ -1,0 +1,11 @@
+{
+  "id": "434a5037-46b3-490a-a465-0ab680c94e7a",
+  "object": "beer",
+  "name": "Dude! Where's My Grandma Belgian Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

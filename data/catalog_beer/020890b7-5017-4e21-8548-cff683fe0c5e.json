@@ -1,0 +1,11 @@
+{
+  "id": "020890b7-5017-4e21-8548-cff683fe0c5e",
+  "object": "beer",
+  "name": "Waterhouse",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

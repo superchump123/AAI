@@ -1,0 +1,11 @@
+{
+  "id": "d45b38ef-8d14-4152-acda-c592c9291cb0",
+  "object": "beer",
+  "name": "Carrick",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

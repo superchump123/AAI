@@ -1,0 +1,11 @@
+{
+  "id": "ee2897be-9250-45ff-8b54-ae3706f0927d",
+  "object": "beer",
+  "name": "Coq Hardi",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

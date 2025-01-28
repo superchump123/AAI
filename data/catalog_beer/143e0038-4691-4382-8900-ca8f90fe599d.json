@@ -1,0 +1,11 @@
+{
+  "id": "143e0038-4691-4382-8900-ca8f90fe599d",
+  "object": "beer",
+  "name": "Pumpkin Spice",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

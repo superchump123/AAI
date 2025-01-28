@@ -1,0 +1,11 @@
+{
+  "id": "de1b7c83-c22b-4bbc-905d-cc49208ff488",
+  "object": "beer",
+  "name": "Buried at Sea",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

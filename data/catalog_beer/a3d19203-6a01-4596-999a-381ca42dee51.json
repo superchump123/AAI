@@ -1,0 +1,11 @@
+{
+  "id": "a3d19203-6a01-4596-999a-381ca42dee51",
+  "object": "beer",
+  "name": "Christmas Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

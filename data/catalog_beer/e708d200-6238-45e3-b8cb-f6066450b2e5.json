@@ -1,0 +1,11 @@
+{
+  "id": "e708d200-6238-45e3-b8cb-f6066450b2e5",
+  "object": "beer",
+  "name": "Doom (Bourbon Barrel Aged)",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 12.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

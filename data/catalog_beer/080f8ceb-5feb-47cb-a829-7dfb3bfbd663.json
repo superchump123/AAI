@@ -1,0 +1,11 @@
+{
+  "id": "080f8ceb-5feb-47cb-a829-7dfb3bfbd663",
+  "object": "beer",
+  "name": "Conscription",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

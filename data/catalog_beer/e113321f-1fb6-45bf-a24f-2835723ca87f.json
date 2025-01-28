@@ -1,0 +1,11 @@
+{
+  "id": "e113321f-1fb6-45bf-a24f-2835723ca87f",
+  "object": "beer",
+  "name": "Skidmark",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

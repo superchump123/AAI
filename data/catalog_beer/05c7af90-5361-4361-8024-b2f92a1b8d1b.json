@@ -1,0 +1,11 @@
+{
+  "id": "05c7af90-5361-4361-8024-b2f92a1b8d1b",
+  "object": "beer",
+  "name": "GBR",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

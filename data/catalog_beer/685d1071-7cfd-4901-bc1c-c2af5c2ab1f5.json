@@ -1,0 +1,11 @@
+{
+  "id": "685d1071-7cfd-4901-bc1c-c2af5c2ab1f5",
+  "object": "beer",
+  "name": "Schlenkerla Helles Lagerbier",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2f2ebaee-4a9d-4b99-b266-e23771a80417",
+  "object": "beer",
+  "name": "4th Noel",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

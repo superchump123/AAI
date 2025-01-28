@@ -1,0 +1,11 @@
+{
+  "id": "a04fbb2d-ad49-4a96-8806-98a20274f078",
+  "object": "beer",
+  "name": "Experimental Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

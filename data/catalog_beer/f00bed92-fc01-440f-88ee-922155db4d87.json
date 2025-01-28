@@ -1,0 +1,11 @@
+{
+  "id": "f00bed92-fc01-440f-88ee-922155db4d87",
+  "object": "beer",
+  "name": "The Reaper",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

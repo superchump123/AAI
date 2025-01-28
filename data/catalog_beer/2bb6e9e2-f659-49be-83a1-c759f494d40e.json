@@ -1,0 +1,11 @@
+{
+  "id": "2bb6e9e2-f659-49be-83a1-c759f494d40e",
+  "object": "beer",
+  "name": "Ignite IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

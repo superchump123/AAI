@@ -1,0 +1,11 @@
+{
+  "id": "712eba84-9796-4f54-9aa2-50f61c5580fe",
+  "object": "beer",
+  "name": "Spezial Hell",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

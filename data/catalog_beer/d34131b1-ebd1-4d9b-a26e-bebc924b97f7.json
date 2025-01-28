@@ -1,0 +1,11 @@
+{
+  "id": "d34131b1-ebd1-4d9b-a26e-bebc924b97f7",
+  "object": "beer",
+  "name": "Hop Geek Breakfast",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

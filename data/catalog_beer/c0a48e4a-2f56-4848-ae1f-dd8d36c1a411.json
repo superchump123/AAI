@@ -1,0 +1,11 @@
+{
+  "id": "c0a48e4a-2f56-4848-ae1f-dd8d36c1a411",
+  "object": "beer",
+  "name": "Urban Crusader",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

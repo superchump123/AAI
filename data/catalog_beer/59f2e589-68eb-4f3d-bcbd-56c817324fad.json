@@ -1,0 +1,11 @@
+{
+  "id": "59f2e589-68eb-4f3d-bcbd-56c817324fad",
+  "object": "beer",
+  "name": "The Creeper",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ae5a217-b16f-4443-b3f0-e57f89277f24",
+  "object": "beer",
+  "name": "Blackbeary Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

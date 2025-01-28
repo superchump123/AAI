@@ -1,0 +1,11 @@
+{
+  "id": "043020ce-8863-4f41-9d42-7749305aede9",
+  "object": "beer",
+  "name": "Hazards Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b914f1ce-ab88-43d2-bcaa-bc07f8bac754",
+  "object": "beer",
+  "name": "Full Time IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aec7d9b7-1f6d-493d-9e54-3e02325eb0fd",
+  "object": "beer",
+  "name": "Cappuccino Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

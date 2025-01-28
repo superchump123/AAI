@@ -1,0 +1,11 @@
+{
+  "id": "90620e3f-4964-439f-b66d-050c4363c671",
+  "object": "beer",
+  "name": "Coffee Brown",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

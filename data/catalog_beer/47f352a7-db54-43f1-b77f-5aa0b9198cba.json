@@ -1,0 +1,11 @@
+{
+  "id": "47f352a7-db54-43f1-b77f-5aa0b9198cba",
+  "object": "beer",
+  "name": "Commotion",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

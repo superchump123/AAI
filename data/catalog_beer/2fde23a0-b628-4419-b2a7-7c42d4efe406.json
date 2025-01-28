@@ -1,0 +1,11 @@
+{
+  "id": "2fde23a0-b628-4419-b2a7-7c42d4efe406",
+  "object": "beer",
+  "name": "Michigan Sunshine",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

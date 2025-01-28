@@ -1,0 +1,11 @@
+{
+  "id": "5691afae-8a8b-4f3f-81c6-1592e31c95cd",
+  "object": "beer",
+  "name": "Geary's Pale Ale",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

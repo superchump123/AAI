@@ -1,0 +1,11 @@
+{
+  "id": "8170adbd-7afb-42ad-baf7-ef728c16778f",
+  "object": "beer",
+  "name": "Cascadian Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

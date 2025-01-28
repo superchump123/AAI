@@ -1,0 +1,11 @@
+{
+  "id": "80df2b21-dcd4-4f45-9d7c-42b363db10b2",
+  "object": "beer",
+  "name": "Cubano-Style Espresso",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

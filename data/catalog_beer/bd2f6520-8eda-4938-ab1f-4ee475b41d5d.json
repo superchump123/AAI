@@ -1,0 +1,11 @@
+{
+  "id": "bd2f6520-8eda-4938-ab1f-4ee475b41d5d",
+  "object": "beer",
+  "name": "Go Man Go",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "461e3011-b5a5-4d30-83a1-28334ca951da",
+  "object": "beer",
+  "name": "The Perfect Crime",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

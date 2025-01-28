@@ -1,0 +1,11 @@
+{
+  "id": "048c9f22-065d-4278-a334-18d7b88a1806",
+  "object": "beer",
+  "name": "Crabby ol' Granny",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

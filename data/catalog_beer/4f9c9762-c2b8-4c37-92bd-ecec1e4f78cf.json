@@ -1,0 +1,11 @@
+{
+  "id": "4f9c9762-c2b8-4c37-92bd-ecec1e4f78cf",
+  "object": "beer",
+  "name": "Cognitive Dissonance",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

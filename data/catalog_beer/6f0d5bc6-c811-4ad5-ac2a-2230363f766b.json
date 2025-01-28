@@ -1,0 +1,11 @@
+{
+  "id": "6f0d5bc6-c811-4ad5-ac2a-2230363f766b",
+  "object": "beer",
+  "name": "Bossa Haze",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

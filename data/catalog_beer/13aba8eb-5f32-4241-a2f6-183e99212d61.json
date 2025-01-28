@@ -1,0 +1,11 @@
+{
+  "id": "13aba8eb-5f32-4241-a2f6-183e99212d61",
+  "object": "beer",
+  "name": "Hoppy Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

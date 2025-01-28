@@ -1,0 +1,11 @@
+{
+  "id": "ef90f816-a122-48a6-8077-df587e84b6ae",
+  "object": "beer",
+  "name": "C: (Command Prompt)",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

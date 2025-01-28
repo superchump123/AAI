@@ -1,0 +1,11 @@
+{
+  "id": "076a9677-6ba5-463a-a461-e0c04e905e2d",
+  "object": "beer",
+  "name": "Big Hoppa",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

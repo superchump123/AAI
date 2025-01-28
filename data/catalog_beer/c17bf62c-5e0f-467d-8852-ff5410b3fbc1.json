@@ -1,0 +1,11 @@
+{
+  "id": "c17bf62c-5e0f-467d-8852-ff5410b3fbc1",
+  "object": "beer",
+  "name": "Sin Eater",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

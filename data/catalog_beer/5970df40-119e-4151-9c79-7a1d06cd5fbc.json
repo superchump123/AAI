@@ -1,0 +1,11 @@
+{
+  "id": "5970df40-119e-4151-9c79-7a1d06cd5fbc",
+  "object": "beer",
+  "name": "Gunslinger Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d3b442b2-a6de-4a69-8084-7190520850bb",
+  "object": "beer",
+  "name": "Oktillion",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

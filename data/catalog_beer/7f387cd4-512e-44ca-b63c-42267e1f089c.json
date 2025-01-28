@@ -1,0 +1,11 @@
+{
+  "id": "7f387cd4-512e-44ca-b63c-42267e1f089c",
+  "object": "beer",
+  "name": "Karl Framboise",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

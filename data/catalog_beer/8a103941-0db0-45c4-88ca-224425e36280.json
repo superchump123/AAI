@@ -1,0 +1,11 @@
+{
+  "id": "8a103941-0db0-45c4-88ca-224425e36280",
+  "object": "beer",
+  "name": "Walden",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

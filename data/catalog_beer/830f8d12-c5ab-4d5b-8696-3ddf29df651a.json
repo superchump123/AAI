@@ -1,0 +1,11 @@
+{
+  "id": "830f8d12-c5ab-4d5b-8696-3ddf29df651a",
+  "object": "beer",
+  "name": "City Wide",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

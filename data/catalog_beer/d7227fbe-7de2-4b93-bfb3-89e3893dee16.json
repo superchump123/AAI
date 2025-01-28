@@ -1,0 +1,11 @@
+{
+  "id": "d7227fbe-7de2-4b93-bfb3-89e3893dee16",
+  "object": "beer",
+  "name": "Glow",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

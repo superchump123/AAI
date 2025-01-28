@@ -1,0 +1,11 @@
+{
+  "id": "e9a39c50-a4c0-4074-a8ef-454922eeb699",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Tsar Bomba",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 12,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

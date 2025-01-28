@@ -1,0 +1,11 @@
+{
+  "id": "48591ad4-2ab7-4223-900a-1c693a7436c3",
+  "object": "beer",
+  "name": "Skye Black",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

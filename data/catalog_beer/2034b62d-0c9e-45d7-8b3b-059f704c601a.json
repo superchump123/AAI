@@ -1,0 +1,11 @@
+{
+  "id": "2034b62d-0c9e-45d7-8b3b-059f704c601a",
+  "object": "beer",
+  "name": "Krombacher Alkoholfrei",
+  "style": "Non-Alcoholic (Beer) Malt Beverages",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

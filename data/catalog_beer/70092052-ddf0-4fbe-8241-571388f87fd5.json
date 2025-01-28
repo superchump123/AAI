@@ -1,0 +1,11 @@
+{
+  "id": "70092052-ddf0-4fbe-8241-571388f87fd5",
+  "object": "beer",
+  "name": "The Wu Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

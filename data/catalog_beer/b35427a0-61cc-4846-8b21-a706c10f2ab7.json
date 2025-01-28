@@ -1,0 +1,11 @@
+{
+  "id": "b35427a0-61cc-4846-8b21-a706c10f2ab7",
+  "object": "beer",
+  "name": "Rhein River Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

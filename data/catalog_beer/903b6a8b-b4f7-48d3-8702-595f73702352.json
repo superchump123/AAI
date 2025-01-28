@@ -1,0 +1,11 @@
+{
+  "id": "903b6a8b-b4f7-48d3-8702-595f73702352",
+  "object": "beer",
+  "name": "Manifesto Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

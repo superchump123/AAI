@@ -1,0 +1,11 @@
+{
+  "id": "420d90a5-b593-44bf-96f9-f1102063f984",
+  "object": "beer",
+  "name": "Russian Winter",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

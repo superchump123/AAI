@@ -1,0 +1,11 @@
+{
+  "id": "33de07eb-72d2-4098-827e-cc9fd064c66f",
+  "object": "beer",
+  "name": "Millennium Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

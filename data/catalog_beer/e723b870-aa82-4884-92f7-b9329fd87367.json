@@ -1,0 +1,11 @@
+{
+  "id": "e723b870-aa82-4884-92f7-b9329fd87367",
+  "object": "beer",
+  "name": "Vendel Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

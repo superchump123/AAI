@@ -1,0 +1,11 @@
+{
+  "id": "9e5dda2a-6511-403a-b6bf-9c34654f9fe3",
+  "object": "beer",
+  "name": "Cittavecchia Rossa",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

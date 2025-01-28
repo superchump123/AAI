@@ -1,0 +1,11 @@
+{
+  "id": "739fde6f-9cd2-4d57-899d-84217ed69658",
+  "object": "beer",
+  "name": "Burton Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "735f3ae2-037d-42c8-845b-51aa818d8186",
+  "object": "beer",
+  "name": "Toasted Gold",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

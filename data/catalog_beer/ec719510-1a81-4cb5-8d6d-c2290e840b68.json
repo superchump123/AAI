@@ -1,0 +1,11 @@
+{
+  "id": "ec719510-1a81-4cb5-8d6d-c2290e840b68",
+  "object": "beer",
+  "name": "Inari Okami",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

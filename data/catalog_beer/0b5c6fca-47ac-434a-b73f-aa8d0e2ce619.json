@@ -1,0 +1,11 @@
+{
+  "id": "0b5c6fca-47ac-434a-b73f-aa8d0e2ce619",
+  "object": "beer",
+  "name": "Dutch Master",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "966ad5c2-fc59-4cd2-8f9d-e339dab2c772",
+  "object": "beer",
+  "name": "Hard Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

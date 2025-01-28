@@ -1,0 +1,11 @@
+{
+  "id": "7c9ea368-702c-48b0-a888-aff860aa6110",
+  "object": "beer",
+  "name": "Double Diffie",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

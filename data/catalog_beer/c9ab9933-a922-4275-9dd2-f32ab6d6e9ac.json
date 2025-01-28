@@ -1,0 +1,11 @@
+{
+  "id": "c9ab9933-a922-4275-9dd2-f32ab6d6e9ac",
+  "object": "beer",
+  "name": "Jalapeno IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

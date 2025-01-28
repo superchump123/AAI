@@ -1,0 +1,11 @@
+{
+  "id": "2a343296-2141-427a-9bc1-e17ff0ce376c",
+  "object": "beer",
+  "name": "Terminally Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

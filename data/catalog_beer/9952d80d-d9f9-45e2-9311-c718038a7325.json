@@ -1,0 +1,11 @@
+{
+  "id": "9952d80d-d9f9-45e2-9311-c718038a7325",
+  "object": "beer",
+  "name": "Sawtooth",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

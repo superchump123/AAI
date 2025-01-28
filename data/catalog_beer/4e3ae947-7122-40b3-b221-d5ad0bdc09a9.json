@@ -1,0 +1,11 @@
+{
+  "id": "4e3ae947-7122-40b3-b221-d5ad0bdc09a9",
+  "object": "beer",
+  "name": "Port Barrel Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

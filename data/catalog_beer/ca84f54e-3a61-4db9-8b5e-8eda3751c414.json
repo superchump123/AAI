@@ -1,0 +1,11 @@
+{
+  "id": "ca84f54e-3a61-4db9-8b5e-8eda3751c414",
+  "object": "beer",
+  "name": "Practice Yoga",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f417c631-bc26-4107-b12d-2e210f05f872",
+  "object": "beer",
+  "name": "Saison d'Etre",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

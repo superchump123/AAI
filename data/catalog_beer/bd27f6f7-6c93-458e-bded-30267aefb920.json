@@ -1,0 +1,11 @@
+{
+  "id": "bd27f6f7-6c93-458e-bded-30267aefb920",
+  "object": "beer",
+  "name": "Bell's Ales for ALS IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

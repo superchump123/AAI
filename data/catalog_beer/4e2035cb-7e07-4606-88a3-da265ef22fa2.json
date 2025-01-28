@@ -1,0 +1,11 @@
+{
+  "id": "4e2035cb-7e07-4606-88a3-da265ef22fa2",
+  "object": "beer",
+  "name": "Akane",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

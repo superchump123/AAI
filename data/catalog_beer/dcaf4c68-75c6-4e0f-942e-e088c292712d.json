@@ -1,0 +1,11 @@
+{
+  "id": "dcaf4c68-75c6-4e0f-942e-e088c292712d",
+  "object": "beer",
+  "name": "First Cast",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c739d9d2-65a3-4c0d-91b6-1040557d1935",
+  "object": "beer",
+  "name": "Slippery When Wheat",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 12.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

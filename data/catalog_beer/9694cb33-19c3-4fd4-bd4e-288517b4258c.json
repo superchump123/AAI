@@ -1,0 +1,11 @@
+{
+  "id": "9694cb33-19c3-4fd4-bd4e-288517b4258c",
+  "object": "beer",
+  "name": "World Wide Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

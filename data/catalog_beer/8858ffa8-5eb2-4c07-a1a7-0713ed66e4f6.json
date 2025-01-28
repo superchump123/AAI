@@ -1,0 +1,11 @@
+{
+  "id": "8858ffa8-5eb2-4c07-a1a7-0713ed66e4f6",
+  "object": "beer",
+  "name": "Adaptation IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

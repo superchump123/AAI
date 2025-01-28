@@ -1,0 +1,11 @@
+{
+  "id": "cfdf90c9-e057-4626-a9e7-fc406a3e46d1",
+  "object": "beer",
+  "name": "Superstition Dry Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

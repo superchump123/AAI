@@ -1,0 +1,11 @@
+{
+  "id": "dcc4c8ca-1e70-47f0-8445-510899df1181",
+  "object": "beer",
+  "name": "Juice Box",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

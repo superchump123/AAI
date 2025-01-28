@@ -1,0 +1,11 @@
+{
+  "id": "ffae6910-f8c5-45fd-bd22-b891f3db8f67",
+  "object": "beer",
+  "name": "Magnum Peach Inferno",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

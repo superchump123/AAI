@@ -1,0 +1,11 @@
+{
+  "id": "a319ef76-75a1-4a9e-9632-f47f4e22b9e4",
+  "object": "beer",
+  "name": "Chili Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

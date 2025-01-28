@@ -1,0 +1,11 @@
+{
+  "id": "22ead400-8a20-4046-aab3-17553a649eb7",
+  "object": "beer",
+  "name": "1000 Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2f075292-065a-417d-8f84-4d1cceba56f1",
+  "object": "beer",
+  "name": "Gringolandia Fabulosa Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

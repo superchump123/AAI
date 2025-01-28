@@ -1,0 +1,11 @@
+{
+  "id": "f2aa4469-b1d2-4220-ba3f-868c402510c3",
+  "object": "beer",
+  "name": "Peaches & Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

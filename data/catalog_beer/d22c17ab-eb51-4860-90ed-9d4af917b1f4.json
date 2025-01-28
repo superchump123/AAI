@@ -1,0 +1,11 @@
+{
+  "id": "d22c17ab-eb51-4860-90ed-9d4af917b1f4",
+  "object": "beer",
+  "name": "Imperial Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

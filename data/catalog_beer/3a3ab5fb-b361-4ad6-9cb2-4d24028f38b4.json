@@ -1,0 +1,11 @@
+{
+  "id": "3a3ab5fb-b361-4ad6-9cb2-4d24028f38b4",
+  "object": "beer",
+  "name": "Denali",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

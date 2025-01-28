@@ -1,0 +1,11 @@
+{
+  "id": "64630f99-d482-4151-ba93-eb9730374d9e",
+  "object": "beer",
+  "name": "Summer Brew Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ea03ef58-af65-4a9e-afea-31017e706ed7",
+  "object": "beer",
+  "name": "Red Stripe Lager Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3b6216bb-477f-4e60-ab39-1838b5a02913",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

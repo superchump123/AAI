@@ -1,0 +1,11 @@
+{
+  "id": "054abc73-a218-4a4c-b152-4c68ca704a62",
+  "object": "beer",
+  "name": "Shanty Irish",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

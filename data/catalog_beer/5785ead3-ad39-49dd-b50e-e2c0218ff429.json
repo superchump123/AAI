@@ -1,0 +1,11 @@
+{
+  "id": "5785ead3-ad39-49dd-b50e-e2c0218ff429",
+  "object": "beer",
+  "name": "Hearthbound",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

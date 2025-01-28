@@ -1,0 +1,11 @@
+{
+  "id": "5ca00728-1af8-44ca-b142-b2660c7f2a83",
+  "object": "beer",
+  "name": "Perfecta",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1cd88329-cc02-420f-b425-dea3006e9066",
+  "object": "beer",
+  "name": "Dancing Pierre",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

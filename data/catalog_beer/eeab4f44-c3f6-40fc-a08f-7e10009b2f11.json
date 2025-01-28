@@ -1,0 +1,11 @@
+{
+  "id": "eeab4f44-c3f6-40fc-a08f-7e10009b2f11",
+  "object": "beer",
+  "name": "La Penguina En Fuego",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

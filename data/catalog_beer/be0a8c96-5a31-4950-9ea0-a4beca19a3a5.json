@@ -1,0 +1,11 @@
+{
+  "id": "be0a8c96-5a31-4950-9ea0-a4beca19a3a5",
+  "object": "beer",
+  "name": "Citra Dog",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

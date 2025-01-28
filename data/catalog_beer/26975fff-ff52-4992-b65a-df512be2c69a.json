@@ -1,0 +1,11 @@
+{
+  "id": "26975fff-ff52-4992-b65a-df512be2c69a",
+  "object": "beer",
+  "name": "Cains Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

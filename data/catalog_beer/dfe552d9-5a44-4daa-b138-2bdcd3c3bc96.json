@@ -1,0 +1,11 @@
+{
+  "id": "dfe552d9-5a44-4daa-b138-2bdcd3c3bc96",
+  "object": "beer",
+  "name": "Coal City Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

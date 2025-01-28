@@ -1,0 +1,11 @@
+{
+  "id": "3b0880f9-c75e-44b0-9290-a7b964714361",
+  "object": "beer",
+  "name": "Actually Chocolatey",
+  "style": "Chocolate Stout",
+  "description": "Basically, this is our chocolatey stout with actual cocoa nibs added and a touch of Coffee from Black Ring Roasters.",
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": true,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2b22ce12-8124-4fc4-b195-c29f0c1c3d49",
+  "object": "beer",
+  "name": "Florida Avenue Blueberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

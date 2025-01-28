@@ -1,0 +1,11 @@
+{
+  "id": "ee6f7b63-2ed5-4b59-a48d-b65b3a3c9b0a",
+  "object": "beer",
+  "name": "Something Hoppy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

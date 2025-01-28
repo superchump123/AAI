@@ -1,0 +1,11 @@
+{
+  "id": "8396aee0-0a70-4e5d-91b4-f1cc7ad2b922",
+  "object": "beer",
+  "name": "Premium Pils Edelherb",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

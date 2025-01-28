@@ -1,0 +1,11 @@
+{
+  "id": "fd1a5963-5a1f-4f01-80cb-9c8d1d946769",
+  "object": "beer",
+  "name": "Ancho Mamma's Beer",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

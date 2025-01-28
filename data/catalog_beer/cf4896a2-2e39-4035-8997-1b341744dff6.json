@@ -1,0 +1,11 @@
+{
+  "id": "cf4896a2-2e39-4035-8997-1b341744dff6",
+  "object": "beer",
+  "name": "Cubby Blueberry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

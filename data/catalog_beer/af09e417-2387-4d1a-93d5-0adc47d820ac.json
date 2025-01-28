@@ -1,0 +1,11 @@
+{
+  "id": "af09e417-2387-4d1a-93d5-0adc47d820ac",
+  "object": "beer",
+  "name": "Double Decker",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

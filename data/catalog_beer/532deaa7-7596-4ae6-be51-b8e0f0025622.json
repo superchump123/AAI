@@ -1,0 +1,11 @@
+{
+  "id": "532deaa7-7596-4ae6-be51-b8e0f0025622",
+  "object": "beer",
+  "name": "Norderneyer Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "efa591a4-aaa3-4fda-a155-3e70748dca85",
+  "object": "beer",
+  "name": "Winter Rose",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

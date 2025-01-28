@@ -1,0 +1,11 @@
+{
+  "id": "e00742f0-44eb-4776-b21b-020d74079e8a",
+  "object": "beer",
+  "name": "Rocky Mountain Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

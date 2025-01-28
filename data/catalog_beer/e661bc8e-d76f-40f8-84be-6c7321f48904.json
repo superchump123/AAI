@@ -1,0 +1,11 @@
+{
+  "id": "e661bc8e-d76f-40f8-84be-6c7321f48904",
+  "object": "beer",
+  "name": "Cranberry Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

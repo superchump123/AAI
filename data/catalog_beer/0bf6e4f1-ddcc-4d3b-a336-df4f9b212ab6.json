@@ -1,0 +1,11 @@
+{
+  "id": "0bf6e4f1-ddcc-4d3b-a336-df4f9b212ab6",
+  "object": "beer",
+  "name": "Boucanier Golden",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

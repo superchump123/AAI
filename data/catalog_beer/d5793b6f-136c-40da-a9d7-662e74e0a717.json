@@ -1,0 +1,11 @@
+{
+  "id": "d5793b6f-136c-40da-a9d7-662e74e0a717",
+  "object": "beer",
+  "name": "Southern Pecan Pie",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e748a81f-cdf8-41c8-bd0b-f5d46a89d465",
+  "object": "beer",
+  "name": "Double Scoop",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

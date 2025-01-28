@@ -1,0 +1,11 @@
+{
+  "id": "164607a0-f8e6-4e92-9be8-7b3218e99d6c",
+  "object": "beer",
+  "name": "Dirty Bird",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

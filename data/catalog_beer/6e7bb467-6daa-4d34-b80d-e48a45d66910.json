@@ -1,0 +1,11 @@
+{
+  "id": "6e7bb467-6daa-4d34-b80d-e48a45d66910",
+  "object": "beer",
+  "name": "Mr. Marmalade",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

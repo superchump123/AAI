@@ -1,0 +1,11 @@
+{
+  "id": "e42a1e0e-0dc3-4272-9f0a-d59e708478a3",
+  "object": "beer",
+  "name": "Fury & Son Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

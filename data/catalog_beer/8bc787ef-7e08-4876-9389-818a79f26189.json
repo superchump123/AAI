@@ -1,0 +1,11 @@
+{
+  "id": "8bc787ef-7e08-4876-9389-818a79f26189",
+  "object": "beer",
+  "name": "Montauk Summer Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

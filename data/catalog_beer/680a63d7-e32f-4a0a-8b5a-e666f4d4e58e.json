@@ -1,0 +1,11 @@
+{
+  "id": "680a63d7-e32f-4a0a-8b5a-e666f4d4e58e",
+  "object": "beer",
+  "name": "Double Paw",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

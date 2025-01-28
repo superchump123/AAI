@@ -1,0 +1,11 @@
+{
+  "id": "b3b8be99-24d5-4e2f-901b-3924460560be",
+  "object": "beer",
+  "name": "Swamp Fox IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

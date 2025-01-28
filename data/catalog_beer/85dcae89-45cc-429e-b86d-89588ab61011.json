@@ -1,0 +1,11 @@
+{
+  "id": "85dcae89-45cc-429e-b86d-89588ab61011",
+  "object": "beer",
+  "name": "Sauerstrom Ale",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

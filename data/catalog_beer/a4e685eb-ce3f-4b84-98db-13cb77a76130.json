@@ -1,0 +1,11 @@
+{
+  "id": "a4e685eb-ce3f-4b84-98db-13cb77a76130",
+  "object": "beer",
+  "name": "Sour Pale with Cranberries",
+  "style": "Belgian Pale Ale",
+  "description": "Barn Phantom Series is part of our Waiting On Wood Series. It is a Belgian-style Pale Ale that has been appropriately soured with lactobacillus acidophilus providing green apple, tart cherry, grapefruit and even apricot notes. Then the Barn Phantom is infused with fresh cranberries to provide another layer of sophistication to the flavor profile.",
+  "abv": 6.2,
+  "ibu": 19,
+  "cb_verified": true,
+  "last_modified": 1511569840
+}

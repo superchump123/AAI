@@ -1,0 +1,11 @@
+{
+  "id": "40393f90-0c11-427e-ae94-8c2a6d00b94d",
+  "object": "beer",
+  "name": "Kiss My Scottish Arse",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f4869c07-cf0d-4b5f-a2cf-33c77c9a3da2",
+  "object": "beer",
+  "name": "Cultivateur",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

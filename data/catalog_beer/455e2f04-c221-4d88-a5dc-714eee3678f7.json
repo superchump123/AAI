@@ -1,0 +1,11 @@
+{
+  "id": "455e2f04-c221-4d88-a5dc-714eee3678f7",
+  "object": "beer",
+  "name": "Bourbon Barrel Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

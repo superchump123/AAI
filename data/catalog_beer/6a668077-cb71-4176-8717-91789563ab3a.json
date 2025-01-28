@@ -1,0 +1,11 @@
+{
+  "id": "6a668077-cb71-4176-8717-91789563ab3a",
+  "object": "beer",
+  "name": "I Am Providence",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

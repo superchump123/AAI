@@ -1,0 +1,11 @@
+{
+  "id": "312b41d0-047a-4b5d-a332-266f62ea8c6b",
+  "object": "beer",
+  "name": "Toira Halloween",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

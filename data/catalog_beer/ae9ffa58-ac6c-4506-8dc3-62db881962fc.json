@@ -1,0 +1,11 @@
+{
+  "id": "ae9ffa58-ac6c-4506-8dc3-62db881962fc",
+  "object": "beer",
+  "name": "Give Me IPA or Give Me Death",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

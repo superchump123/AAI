@@ -1,0 +1,11 @@
+{
+  "id": "5c88a31b-0a81-40b6-8c43-98bb1aff45bb",
+  "object": "beer",
+  "name": "Hollow Jack",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

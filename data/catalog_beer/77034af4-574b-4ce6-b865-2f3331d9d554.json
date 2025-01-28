@@ -1,0 +1,11 @@
+{
+  "id": "77034af4-574b-4ce6-b865-2f3331d9d554",
+  "object": "beer",
+  "name": "Master Brew Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f9a9ffee-0824-4613-849a-94d228c24736",
+  "object": "beer",
+  "name": "The Italian Job",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

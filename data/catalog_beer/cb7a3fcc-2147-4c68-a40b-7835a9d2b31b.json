@@ -1,0 +1,11 @@
+{
+  "id": "cb7a3fcc-2147-4c68-a40b-7835a9d2b31b",
+  "object": "beer",
+  "name": "Citrus Spectrum",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a500b812-0d57-4077-bad8-124cbe7d87f9",
+  "object": "beer",
+  "name": "Novemberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

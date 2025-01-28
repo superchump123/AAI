@@ -1,0 +1,11 @@
+{
+  "id": "d7f7e970-a9a7-4c80-af1e-4ca19c3228bb",
+  "object": "beer",
+  "name": "Dry While",
+  "style": "French Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

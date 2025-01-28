@@ -1,0 +1,11 @@
+{
+  "id": "ed7b772f-b9f0-42a7-b1e7-474d723a51e5",
+  "object": "beer",
+  "name": "Sociable Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

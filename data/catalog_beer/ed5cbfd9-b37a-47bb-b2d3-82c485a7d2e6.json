@@ -1,0 +1,11 @@
+{
+  "id": "ed5cbfd9-b37a-47bb-b2d3-82c485a7d2e6",
+  "object": "beer",
+  "name": "Berliner Wiesse With Guava",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

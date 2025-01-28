@@ -1,0 +1,11 @@
+{
+  "id": "65fea459-716e-49e2-9c42-7409f8a703af",
+  "object": "beer",
+  "name": "Tropical Wonderland",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b832d576-4f31-4430-9d41-9754f488f772",
+  "object": "beer",
+  "name": "Peach Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

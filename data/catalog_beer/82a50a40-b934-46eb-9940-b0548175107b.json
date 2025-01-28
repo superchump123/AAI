@@ -1,0 +1,11 @@
+{
+  "id": "82a50a40-b934-46eb-9940-b0548175107b",
+  "object": "beer",
+  "name": "Coney Island Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

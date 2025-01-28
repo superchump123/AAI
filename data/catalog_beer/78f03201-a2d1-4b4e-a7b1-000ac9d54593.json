@@ -1,0 +1,11 @@
+{
+  "id": "78f03201-a2d1-4b4e-a7b1-000ac9d54593",
+  "object": "beer",
+  "name": "Saison Dolores",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

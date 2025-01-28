@@ -1,0 +1,11 @@
+{
+  "id": "fbac78ca-f4f8-4774-8bbf-c28cdef27bd9",
+  "object": "beer",
+  "name": "Mocha Good Morning Vietnam",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

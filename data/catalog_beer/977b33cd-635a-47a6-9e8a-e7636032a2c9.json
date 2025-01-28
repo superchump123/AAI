@@ -1,0 +1,11 @@
+{
+  "id": "977b33cd-635a-47a6-9e8a-e7636032a2c9",
+  "object": "beer",
+  "name": "Torgauer Fresh Lemon",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

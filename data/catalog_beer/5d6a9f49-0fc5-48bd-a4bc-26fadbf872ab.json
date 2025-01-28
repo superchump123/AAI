@@ -1,0 +1,11 @@
+{
+  "id": "5d6a9f49-0fc5-48bd-a4bc-26fadbf872ab",
+  "object": "beer",
+  "name": "Double Mocha Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

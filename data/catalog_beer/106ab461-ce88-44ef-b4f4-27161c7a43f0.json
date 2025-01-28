@@ -1,0 +1,11 @@
+{
+  "id": "106ab461-ce88-44ef-b4f4-27161c7a43f0",
+  "object": "beer",
+  "name": "Sam Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

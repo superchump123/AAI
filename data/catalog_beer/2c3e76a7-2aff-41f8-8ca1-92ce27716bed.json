@@ -1,0 +1,11 @@
+{
+  "id": "2c3e76a7-2aff-41f8-8ca1-92ce27716bed",
+  "object": "beer",
+  "name": "Texas Red Dirt Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

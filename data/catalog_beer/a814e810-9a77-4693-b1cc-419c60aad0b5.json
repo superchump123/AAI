@@ -1,0 +1,11 @@
+{
+  "id": "a814e810-9a77-4693-b1cc-419c60aad0b5",
+  "object": "beer",
+  "name": "McFuggle",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

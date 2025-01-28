@@ -1,0 +1,11 @@
+{
+  "id": "52561e0c-c67e-4fa1-8084-58cfca5e7f4c",
+  "object": "beer",
+  "name": "Colorado Native Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

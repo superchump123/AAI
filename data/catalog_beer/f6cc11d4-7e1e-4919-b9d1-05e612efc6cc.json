@@ -1,0 +1,11 @@
+{
+  "id": "f6cc11d4-7e1e-4919-b9d1-05e612efc6cc",
+  "object": "beer",
+  "name": "Seven Bridges Oktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

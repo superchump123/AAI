@@ -1,0 +1,11 @@
+{
+  "id": "5e72ccf0-4ce0-46c2-b41c-f66e8fe21879",
+  "object": "beer",
+  "name": "Awkward Uncle",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

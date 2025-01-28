@@ -1,0 +1,11 @@
+{
+  "id": "be75bf9c-68e1-4d10-91ea-88c0fca434c7",
+  "object": "beer",
+  "name": "Chazz Cat Rye",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

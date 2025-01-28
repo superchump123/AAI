@@ -1,0 +1,11 @@
+{
+  "id": "c751e515-a7bf-4200-99b2-09b9903b6e7e",
+  "object": "beer",
+  "name": "Hooleygan",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "22f45c8c-41ff-4632-825b-fffeb71a404b",
+  "object": "beer",
+  "name": "Riddance",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 150,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

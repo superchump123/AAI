@@ -1,0 +1,11 @@
+{
+  "id": "acaca6af-6941-4b44-8cdc-d9192ddb66d1",
+  "object": "beer",
+  "name": "Ah-Nab-Awheat",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ba134b05-27e9-4ce8-aaac-a81e2f528f6d",
+  "object": "beer",
+  "name": "Ginger Yellow Belly",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

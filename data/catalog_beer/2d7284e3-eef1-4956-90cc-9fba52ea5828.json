@@ -1,0 +1,11 @@
+{
+  "id": "2d7284e3-eef1-4956-90cc-9fba52ea5828",
+  "object": "beer",
+  "name": "Blitz Gin",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

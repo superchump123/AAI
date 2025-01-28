@@ -1,0 +1,11 @@
+{
+  "id": "4342cee3-cf66-4098-859d-82e898c5348c",
+  "object": "beer",
+  "name": "Schell's Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

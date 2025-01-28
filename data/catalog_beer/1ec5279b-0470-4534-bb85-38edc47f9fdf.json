@@ -1,0 +1,11 @@
+{
+  "id": "1ec5279b-0470-4534-bb85-38edc47f9fdf",
+  "object": "beer",
+  "name": "Nutcase Peanut Butter Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

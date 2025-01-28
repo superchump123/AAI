@@ -1,0 +1,11 @@
+{
+  "id": "c365e152-1828-44d0-b02a-8ba7c1ee80a6",
+  "object": "beer",
+  "name": "Citra IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

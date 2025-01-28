@@ -1,0 +1,11 @@
+{
+  "id": "f7355dea-7325-4ae9-b13b-cecdd3ca20d3",
+  "object": "beer",
+  "name": "Bakla Bot",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

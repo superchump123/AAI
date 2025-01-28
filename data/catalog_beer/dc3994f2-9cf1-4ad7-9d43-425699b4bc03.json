@@ -1,0 +1,11 @@
+{
+  "id": "dc3994f2-9cf1-4ad7-9d43-425699b4bc03",
+  "object": "beer",
+  "name": "Oak Barrel Reserve",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

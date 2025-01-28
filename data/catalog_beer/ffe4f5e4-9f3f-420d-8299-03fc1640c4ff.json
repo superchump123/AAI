@@ -1,0 +1,11 @@
+{
+  "id": "ffe4f5e4-9f3f-420d-8299-03fc1640c4ff",
+  "object": "beer",
+  "name": "Green Man Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

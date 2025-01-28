@@ -1,0 +1,11 @@
+{
+  "id": "20309763-ca7e-4892-a8b4-d4f8c0b38382",
+  "object": "beer",
+  "name": "The BrightCider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

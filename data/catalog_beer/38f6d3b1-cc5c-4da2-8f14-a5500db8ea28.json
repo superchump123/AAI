@@ -1,0 +1,11 @@
+{
+  "id": "38f6d3b1-cc5c-4da2-8f14-a5500db8ea28",
+  "object": "beer",
+  "name": "Blueberry Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

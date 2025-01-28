@@ -1,0 +1,11 @@
+{
+  "id": "981ccf1e-8724-4344-b7a3-ab1b34b8864d",
+  "object": "beer",
+  "name": "Dowser",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1cdb8874-0925-4e94-bf01-889526832c95",
+  "object": "beer",
+  "name": "Cafe Mule",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bcb85c51-11f2-44e3-a29f-1a865a542c01",
+  "object": "beer",
+  "name": "Fuggles Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

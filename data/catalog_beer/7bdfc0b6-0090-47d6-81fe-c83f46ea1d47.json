@@ -1,0 +1,11 @@
+{
+  "id": "7bdfc0b6-0090-47d6-81fe-c83f46ea1d47",
+  "object": "beer",
+  "name": "Crooked Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

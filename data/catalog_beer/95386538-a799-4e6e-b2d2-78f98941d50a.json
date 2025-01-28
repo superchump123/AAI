@@ -1,0 +1,11 @@
+{
+  "id": "95386538-a799-4e6e-b2d2-78f98941d50a",
+  "object": "beer",
+  "name": "Battering Ram Rye",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

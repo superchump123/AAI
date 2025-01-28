@@ -1,0 +1,11 @@
+{
+  "id": "d61ba179-f0a2-45dc-ae3e-18ede0b67c4a",
+  "object": "beer",
+  "name": "Broken Paddle",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

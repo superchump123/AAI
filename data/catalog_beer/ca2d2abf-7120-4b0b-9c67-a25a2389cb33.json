@@ -1,0 +1,11 @@
+{
+  "id": "ca2d2abf-7120-4b0b-9c67-a25a2389cb33",
+  "object": "beer",
+  "name": "Lower Unit Pale Ale",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8a5b4680-9131-4a59-8e29-0b10139d52fa",
+  "object": "beer",
+  "name": "Lionel-broue",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

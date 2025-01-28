@@ -1,0 +1,11 @@
+{
+  "id": "a296c81d-a43f-44df-8075-e4d4d7c29dcf",
+  "object": "beer",
+  "name": "Fubar",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

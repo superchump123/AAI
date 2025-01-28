@@ -1,0 +1,11 @@
+{
+  "id": "1d278354-2514-4745-ab68-a6b64c66a8ec",
+  "object": "beer",
+  "name": "Fatamorgana",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

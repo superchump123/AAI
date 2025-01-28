@@ -1,0 +1,11 @@
+{
+  "id": "305b50d2-a06d-4422-901d-6fcf2597057f",
+  "object": "beer",
+  "name": "Oyster Point Oyster Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

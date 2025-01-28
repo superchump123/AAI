@@ -1,0 +1,11 @@
+{
+  "id": "9139d2fd-b1fc-45d0-9672-af945f2b28e9",
+  "object": "beer",
+  "name": "Enkel",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

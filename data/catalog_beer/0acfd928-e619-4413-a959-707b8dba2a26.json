@@ -1,0 +1,11 @@
+{
+  "id": "0acfd928-e619-4413-a959-707b8dba2a26",
+  "object": "beer",
+  "name": "PCH",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

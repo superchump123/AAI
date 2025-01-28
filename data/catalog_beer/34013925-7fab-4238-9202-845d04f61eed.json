@@ -1,0 +1,11 @@
+{
+  "id": "34013925-7fab-4238-9202-845d04f61eed",
+  "object": "beer",
+  "name": "Anonymous Lemur",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

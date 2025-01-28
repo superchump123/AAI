@@ -1,0 +1,11 @@
+{
+  "id": "d5d60958-7610-4d13-afc5-6d32ed76dc5a",
+  "object": "beer",
+  "name": "Tropical Drank",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

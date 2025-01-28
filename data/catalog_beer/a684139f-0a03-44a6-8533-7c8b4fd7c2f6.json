@@ -1,0 +1,11 @@
+{
+  "id": "a684139f-0a03-44a6-8533-7c8b4fd7c2f6",
+  "object": "beer",
+  "name": "Red White and Berry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

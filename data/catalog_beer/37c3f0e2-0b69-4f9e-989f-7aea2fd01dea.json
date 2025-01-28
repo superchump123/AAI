@@ -1,0 +1,11 @@
+{
+  "id": "37c3f0e2-0b69-4f9e-989f-7aea2fd01dea",
+  "object": "beer",
+  "name": "Slow Jam",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

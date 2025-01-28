@@ -1,0 +1,11 @@
+{
+  "id": "4f49ed7f-82d4-4a3e-bbd4-90cba1e03834",
+  "object": "beer",
+  "name": "Raspberry Tart",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c5d4ad5a-605d-4b7d-8977-2e9d819912c6",
+  "object": "beer",
+  "name": "Talisman",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

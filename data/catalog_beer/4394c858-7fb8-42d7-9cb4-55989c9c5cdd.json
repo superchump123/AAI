@@ -1,0 +1,11 @@
+{
+  "id": "4394c858-7fb8-42d7-9cb4-55989c9c5cdd",
+  "object": "beer",
+  "name": "Malice",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

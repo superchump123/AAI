@@ -1,0 +1,11 @@
+{
+  "id": "26d3fe39-583a-4a38-ab71-15339cc5a79d",
+  "object": "beer",
+  "name": "Blessed Brown",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

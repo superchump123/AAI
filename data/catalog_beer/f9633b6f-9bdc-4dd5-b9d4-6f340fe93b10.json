@@ -1,0 +1,11 @@
+{
+  "id": "f9633b6f-9bdc-4dd5-b9d4-6f340fe93b10",
+  "object": "beer",
+  "name": "Schnitz Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

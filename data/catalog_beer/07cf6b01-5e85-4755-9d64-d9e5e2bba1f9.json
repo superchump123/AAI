@@ -1,0 +1,11 @@
+{
+  "id": "07cf6b01-5e85-4755-9d64-d9e5e2bba1f9",
+  "object": "beer",
+  "name": "Southbound Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

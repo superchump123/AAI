@@ -1,0 +1,11 @@
+{
+  "id": "ed666497-7e68-433e-ab65-d04794842ce1",
+  "object": "beer",
+  "name": "Sleeping Forever",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6e2e5abd-f335-4281-bab6-e631d3c14a77",
+  "object": "beer",
+  "name": "Pigeon Bridge Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

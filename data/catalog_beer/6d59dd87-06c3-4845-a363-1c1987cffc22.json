@@ -1,0 +1,11 @@
+{
+  "id": "6d59dd87-06c3-4845-a363-1c1987cffc22",
+  "object": "beer",
+  "name": "Drop Top",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

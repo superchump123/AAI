@@ -1,0 +1,11 @@
+{
+  "id": "190ecadd-67cd-4695-a26d-e636a81969ab",
+  "object": "beer",
+  "name": "Pumpkin Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f00dccca-d15e-4569-afb0-dee6f83d7255",
+  "object": "beer",
+  "name": "Full Sail Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

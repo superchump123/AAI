@@ -1,0 +1,11 @@
+{
+  "id": "1883ed5c-4753-4d38-924a-3e8334311070",
+  "object": "beer",
+  "name": "Local Yella",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

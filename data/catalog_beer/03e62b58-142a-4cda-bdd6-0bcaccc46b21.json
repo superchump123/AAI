@@ -1,0 +1,11 @@
+{
+  "id": "03e62b58-142a-4cda-bdd6-0bcaccc46b21",
+  "object": "beer",
+  "name": "Citra Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

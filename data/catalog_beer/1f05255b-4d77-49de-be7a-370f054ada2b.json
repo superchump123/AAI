@@ -1,0 +1,11 @@
+{
+  "id": "1f05255b-4d77-49de-be7a-370f054ada2b",
+  "object": "beer",
+  "name": "Azacca",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

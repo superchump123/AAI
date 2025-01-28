@@ -1,0 +1,11 @@
+{
+  "id": "84dd6ae4-4f20-4486-9acb-548b3fa79a99",
+  "object": "beer",
+  "name": "Robinson's Circus",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

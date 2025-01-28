@@ -1,0 +1,11 @@
+{
+  "id": "d5cb1927-8a30-4bdd-a4ed-7aef10da13ee",
+  "object": "beer",
+  "name": "Fairhop #2",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

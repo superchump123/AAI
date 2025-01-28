@@ -1,0 +1,11 @@
+{
+  "id": "8b1a344e-e2d5-481b-8607-45910f37a61a",
+  "object": "beer",
+  "name": "Frizz-Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

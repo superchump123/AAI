@@ -1,0 +1,11 @@
+{
+  "id": "36873672-d75e-42bf-8700-b8e7a55066d9",
+  "object": "beer",
+  "name": "Prunus",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

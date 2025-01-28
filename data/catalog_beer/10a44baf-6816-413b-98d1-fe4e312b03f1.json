@@ -1,0 +1,11 @@
+{
+  "id": "10a44baf-6816-413b-98d1-fe4e312b03f1",
+  "object": "beer",
+  "name": "Frail Sister",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

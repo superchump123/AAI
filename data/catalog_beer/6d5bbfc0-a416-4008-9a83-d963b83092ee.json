@@ -1,0 +1,11 @@
+{
+  "id": "6d5bbfc0-a416-4008-9a83-d963b83092ee",
+  "object": "beer",
+  "name": "Hoosier Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

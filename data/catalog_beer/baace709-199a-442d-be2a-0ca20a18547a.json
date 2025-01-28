@@ -1,0 +1,11 @@
+{
+  "id": "baace709-199a-442d-be2a-0ca20a18547a",
+  "object": "beer",
+  "name": "Bimini Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

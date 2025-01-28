@@ -1,0 +1,11 @@
+{
+  "id": "26afa9e2-74b7-44d4-b815-56246bcfd0d2",
+  "object": "beer",
+  "name": "Locrian Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

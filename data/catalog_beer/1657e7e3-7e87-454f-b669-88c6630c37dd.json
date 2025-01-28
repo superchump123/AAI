@@ -1,0 +1,11 @@
+{
+  "id": "1657e7e3-7e87-454f-b669-88c6630c37dd",
+  "object": "beer",
+  "name": "Smile",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

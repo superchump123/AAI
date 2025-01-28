@@ -1,0 +1,11 @@
+{
+  "id": "ca1f8198-bfa0-4305-8133-e2589c494377",
+  "object": "beer",
+  "name": "Coastal Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

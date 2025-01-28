@@ -1,0 +1,11 @@
+{
+  "id": "dadde70e-9ab6-49b2-ac32-2ba00d841e03",
+  "object": "beer",
+  "name": "Local 45",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

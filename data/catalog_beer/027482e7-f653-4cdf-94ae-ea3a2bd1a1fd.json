@@ -1,0 +1,11 @@
+{
+  "id": "027482e7-f653-4cdf-94ae-ea3a2bd1a1fd",
+  "object": "beer",
+  "name": "Peated Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

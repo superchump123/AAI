@@ -1,0 +1,11 @@
+{
+  "id": "101a6213-2f05-4fc9-ac06-61797019ddbe",
+  "object": "beer",
+  "name": "Hefebiken",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

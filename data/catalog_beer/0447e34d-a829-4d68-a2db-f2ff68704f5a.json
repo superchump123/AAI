@@ -1,0 +1,11 @@
+{
+  "id": "0447e34d-a829-4d68-a2db-f2ff68704f5a",
+  "object": "beer",
+  "name": "Mad Bark",
+  "style": "New England Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

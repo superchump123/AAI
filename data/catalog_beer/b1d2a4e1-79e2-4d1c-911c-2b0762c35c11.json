@@ -1,0 +1,11 @@
+{
+  "id": "b1d2a4e1-79e2-4d1c-911c-2b0762c35c11",
+  "object": "beer",
+  "name": "Got Nelson?",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

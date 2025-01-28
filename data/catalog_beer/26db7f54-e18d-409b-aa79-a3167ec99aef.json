@@ -1,0 +1,11 @@
+{
+  "id": "26db7f54-e18d-409b-aa79-a3167ec99aef",
+  "object": "beer",
+  "name": "Purple Prose",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3dedb7c9-dbda-4b3f-9611-40d1ba81bc5d",
+  "object": "beer",
+  "name": "ReNEWale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

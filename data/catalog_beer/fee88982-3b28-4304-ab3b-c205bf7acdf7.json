@@ -1,0 +1,11 @@
+{
+  "id": "fee88982-3b28-4304-ab3b-c205bf7acdf7",
+  "object": "beer",
+  "name": "Frangipana",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

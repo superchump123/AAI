@@ -1,0 +1,11 @@
+{
+  "id": "dd304e0e-24c9-4bfe-8af7-2ba600227283",
+  "object": "beer",
+  "name": "Out of Order IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c01f18ee-5a2e-43a1-9205-caf3393e2dac",
+  "object": "beer",
+  "name": "Detasseler",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

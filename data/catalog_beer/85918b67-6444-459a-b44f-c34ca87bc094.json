@@ -1,0 +1,11 @@
+{
+  "id": "85918b67-6444-459a-b44f-c34ca87bc094",
+  "object": "beer",
+  "name": "Ramstein Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

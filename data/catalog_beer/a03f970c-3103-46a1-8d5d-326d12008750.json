@@ -1,0 +1,11 @@
+{
+  "id": "a03f970c-3103-46a1-8d5d-326d12008750",
+  "object": "beer",
+  "name": "Anonymous IIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

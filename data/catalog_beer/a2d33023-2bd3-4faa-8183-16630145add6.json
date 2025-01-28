@@ -1,0 +1,11 @@
+{
+  "id": "a2d33023-2bd3-4faa-8183-16630145add6",
+  "object": "beer",
+  "name": "Aorta Ale",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

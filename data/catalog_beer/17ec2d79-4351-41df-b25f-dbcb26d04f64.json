@@ -1,0 +1,11 @@
+{
+  "id": "17ec2d79-4351-41df-b25f-dbcb26d04f64",
+  "object": "beer",
+  "name": "Morgan's Savvy Golden Peach Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

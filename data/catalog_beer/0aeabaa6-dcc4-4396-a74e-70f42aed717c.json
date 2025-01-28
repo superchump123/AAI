@@ -1,0 +1,11 @@
+{
+  "id": "0aeabaa6-dcc4-4396-a74e-70f42aed717c",
+  "object": "beer",
+  "name": "Hotter Than Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

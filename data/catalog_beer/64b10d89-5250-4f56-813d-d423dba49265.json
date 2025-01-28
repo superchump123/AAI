@@ -1,0 +1,11 @@
+{
+  "id": "64b10d89-5250-4f56-813d-d423dba49265",
+  "object": "beer",
+  "name": "Morning Dew",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

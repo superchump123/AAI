@@ -1,0 +1,11 @@
+{
+  "id": "adfc032a-3450-46ef-b9b3-dc48d14a200b",
+  "object": "beer",
+  "name": "Double Sess(ion)",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

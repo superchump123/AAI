@@ -1,0 +1,11 @@
+{
+  "id": "dc25babf-4c44-4752-8a54-fe81b4f83db1",
+  "object": "beer",
+  "name": "Ruby Red Fluffer",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

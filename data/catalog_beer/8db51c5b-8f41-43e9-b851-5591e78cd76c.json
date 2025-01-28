@@ -1,0 +1,11 @@
+{
+  "id": "8db51c5b-8f41-43e9-b851-5591e78cd76c",
+  "object": "beer",
+  "name": "Oh My Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 13.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

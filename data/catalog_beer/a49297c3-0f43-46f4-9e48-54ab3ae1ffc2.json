@@ -1,0 +1,11 @@
+{
+  "id": "a49297c3-0f43-46f4-9e48-54ab3ae1ffc2",
+  "object": "beer",
+  "name": "Conquest Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

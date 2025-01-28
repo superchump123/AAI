@@ -1,0 +1,11 @@
+{
+  "id": "3f000a5f-c29a-4c24-8f9f-117a6f6a3db8",
+  "object": "beer",
+  "name": "Imperial IPA \u00b7 Monkey King",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e9fefdf6-b95c-4710-920d-6031a4bdb0d1",
+  "object": "beer",
+  "name": "12th Night",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

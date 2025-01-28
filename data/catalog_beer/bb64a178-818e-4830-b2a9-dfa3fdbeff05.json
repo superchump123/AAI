@@ -1,0 +1,11 @@
+{
+  "id": "bb64a178-818e-4830-b2a9-dfa3fdbeff05",
+  "object": "beer",
+  "name": "Craic! Vanilla Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9ef6b62b-92a0-4263-9e59-95f9327486d4",
+  "object": "beer",
+  "name": "Rye Pils(ner)",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65ac245f-7054-4a9d-93bd-aeb7c1b37f87",
+  "object": "beer",
+  "name": "The Nothing",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

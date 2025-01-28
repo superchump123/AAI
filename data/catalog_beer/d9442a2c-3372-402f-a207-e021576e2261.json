@@ -1,0 +1,11 @@
+{
+  "id": "d9442a2c-3372-402f-a207-e021576e2261",
+  "object": "beer",
+  "name": "Christmas Ale",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

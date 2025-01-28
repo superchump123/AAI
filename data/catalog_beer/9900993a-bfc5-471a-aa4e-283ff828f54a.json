@@ -1,0 +1,11 @@
+{
+  "id": "9900993a-bfc5-471a-aa4e-283ff828f54a",
+  "object": "beer",
+  "name": "Tooth and Ale on Cask",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

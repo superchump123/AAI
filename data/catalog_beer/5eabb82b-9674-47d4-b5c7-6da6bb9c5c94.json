@@ -1,0 +1,11 @@
+{
+  "id": "5eabb82b-9674-47d4-b5c7-6da6bb9c5c94",
+  "object": "beer",
+  "name": "Dick's Danger Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0271e647-bc69-4e85-ba5f-6266cfbcfc90",
+  "object": "beer",
+  "name": "Alright Alright",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0b399134-e2b8-4bf3-9627-3982b30d7a8e",
+  "object": "beer",
+  "name": "Rye IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

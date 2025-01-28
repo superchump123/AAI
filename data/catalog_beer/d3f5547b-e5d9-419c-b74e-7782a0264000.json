@@ -1,0 +1,11 @@
+{
+  "id": "d3f5547b-e5d9-419c-b74e-7782a0264000",
+  "object": "beer",
+  "name": "Poppels American Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

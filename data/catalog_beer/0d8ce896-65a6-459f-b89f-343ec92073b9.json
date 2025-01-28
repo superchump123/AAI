@@ -1,0 +1,11 @@
+{
+  "id": "0d8ce896-65a6-459f-b89f-343ec92073b9",
+  "object": "beer",
+  "name": "Grappa Sour Red",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

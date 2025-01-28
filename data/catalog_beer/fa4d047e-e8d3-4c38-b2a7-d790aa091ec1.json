@@ -1,0 +1,11 @@
+{
+  "id": "fa4d047e-e8d3-4c38-b2a7-d790aa091ec1",
+  "object": "beer",
+  "name": "Sternquell Premium Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

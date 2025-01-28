@@ -1,0 +1,11 @@
+{
+  "id": "7f464d50-8dec-4d67-8be3-e845ea364b85",
+  "object": "beer",
+  "name": "Winfield Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

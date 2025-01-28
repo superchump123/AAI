@@ -1,0 +1,11 @@
+{
+  "id": "1a7250cc-fbfd-4812-80cf-9060c7d8f1df",
+  "object": "beer",
+  "name": "Chief's Cherry Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

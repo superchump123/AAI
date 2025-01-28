@@ -1,0 +1,11 @@
+{
+  "id": "468fa7e1-e8cd-4fab-9d05-ddf8ac620ce1",
+  "object": "beer",
+  "name": "Coffee Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

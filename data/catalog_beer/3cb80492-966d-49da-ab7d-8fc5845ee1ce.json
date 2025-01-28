@@ -1,0 +1,11 @@
+{
+  "id": "3cb80492-966d-49da-ab7d-8fc5845ee1ce",
+  "object": "beer",
+  "name": "Double Dead Guy Ale",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

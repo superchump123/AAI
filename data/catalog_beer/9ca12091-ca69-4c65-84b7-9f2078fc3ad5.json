@@ -1,0 +1,11 @@
+{
+  "id": "9ca12091-ca69-4c65-84b7-9f2078fc3ad5",
+  "object": "beer",
+  "name": "Wolkenbrau",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

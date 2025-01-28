@@ -1,0 +1,11 @@
+{
+  "id": "b6c6332b-2cfa-494c-b073-c0bcf4084dbf",
+  "object": "beer",
+  "name": "False Prophet",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

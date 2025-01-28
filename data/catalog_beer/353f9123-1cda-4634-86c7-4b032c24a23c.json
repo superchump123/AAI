@@ -1,0 +1,11 @@
+{
+  "id": "353f9123-1cda-4634-86c7-4b032c24a23c",
+  "object": "beer",
+  "name": "Golden Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "978c1aa3-bccd-4534-887b-6988876f8a20",
+  "object": "beer",
+  "name": "Rhuberry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

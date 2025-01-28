@@ -1,0 +1,11 @@
+{
+  "id": "826ac8ec-ff84-49aa-92a1-e7de8cfb17ce",
+  "object": "beer",
+  "name": "Dundee Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

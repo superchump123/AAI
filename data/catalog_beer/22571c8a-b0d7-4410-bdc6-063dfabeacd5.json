@@ -1,0 +1,11 @@
+{
+  "id": "22571c8a-b0d7-4410-bdc6-063dfabeacd5",
+  "object": "beer",
+  "name": "BlackJAK Chocolate Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

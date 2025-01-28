@@ -1,0 +1,11 @@
+{
+  "id": "17c7ce48-c1a4-4705-b293-fc4ec90e0721",
+  "object": "beer",
+  "name": "One and Done IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

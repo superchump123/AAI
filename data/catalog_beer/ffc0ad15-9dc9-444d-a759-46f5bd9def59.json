@@ -1,0 +1,11 @@
+{
+  "id": "ffc0ad15-9dc9-444d-a759-46f5bd9def59",
+  "object": "beer",
+  "name": "Barrel Noir",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

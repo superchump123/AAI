@@ -1,0 +1,11 @@
+{
+  "id": "717edff1-1ade-431b-87c0-865354b14128",
+  "object": "beer",
+  "name": "Caramel Apple Pi",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

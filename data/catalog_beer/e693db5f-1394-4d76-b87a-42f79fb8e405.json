@@ -1,0 +1,11 @@
+{
+  "id": "e693db5f-1394-4d76-b87a-42f79fb8e405",
+  "object": "beer",
+  "name": "Grodziskie",
+  "style": "Grodziskie",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

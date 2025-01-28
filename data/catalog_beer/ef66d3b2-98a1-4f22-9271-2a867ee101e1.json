@@ -1,0 +1,11 @@
+{
+  "id": "ef66d3b2-98a1-4f22-9271-2a867ee101e1",
+  "object": "beer",
+  "name": "Pigmosa",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

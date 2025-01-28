@@ -1,0 +1,11 @@
+{
+  "id": "322a8251-e3c5-4cd1-8356-c8feaebad7aa",
+  "object": "beer",
+  "name": "Sunset",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

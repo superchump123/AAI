@@ -1,0 +1,11 @@
+{
+  "id": "32cb940e-a1bc-4d6b-a05b-5d0b35fd709a",
+  "object": "beer",
+  "name": "Hopgoblin",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

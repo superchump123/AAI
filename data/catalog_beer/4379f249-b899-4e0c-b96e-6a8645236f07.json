@@ -1,0 +1,11 @@
+{
+  "id": "4379f249-b899-4e0c-b96e-6a8645236f07",
+  "object": "beer",
+  "name": "Rio Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

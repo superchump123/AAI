@@ -1,0 +1,11 @@
+{
+  "id": "be5efb48-43a1-4efa-b993-0b242748af8b",
+  "object": "beer",
+  "name": "Contemplation",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

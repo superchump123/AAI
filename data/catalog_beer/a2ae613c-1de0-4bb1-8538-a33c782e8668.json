@@ -1,0 +1,11 @@
+{
+  "id": "a2ae613c-1de0-4bb1-8538-a33c782e8668",
+  "object": "beer",
+  "name": "Rentsch Session",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

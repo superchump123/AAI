@@ -1,0 +1,11 @@
+{
+  "id": "de73888d-83a5-4f3e-bba6-4ffc215ab97d",
+  "object": "beer",
+  "name": "Delta IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

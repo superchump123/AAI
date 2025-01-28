@@ -1,0 +1,11 @@
+{
+  "id": "52f3ad89-d467-4e22-b8e6-b65813ef24f8",
+  "object": "beer",
+  "name": "Swami's IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

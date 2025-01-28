@@ -1,0 +1,11 @@
+{
+  "id": "c0d5ae0b-458e-4b0c-bbce-8d3b00c5cdea",
+  "object": "beer",
+  "name": "Lower De Boom",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

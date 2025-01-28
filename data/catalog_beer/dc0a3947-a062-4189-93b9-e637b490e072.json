@@ -1,0 +1,11 @@
+{
+  "id": "dc0a3947-a062-4189-93b9-e637b490e072",
+  "object": "beer",
+  "name": "Monarch White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

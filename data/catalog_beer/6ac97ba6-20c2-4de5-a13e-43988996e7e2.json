@@ -1,0 +1,11 @@
+{
+  "id": "6ac97ba6-20c2-4de5-a13e-43988996e7e2",
+  "object": "beer",
+  "name": "Five Points IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

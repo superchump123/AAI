@@ -1,0 +1,11 @@
+{
+  "id": "8f45268a-aadd-4362-8dd6-dd714650a106",
+  "object": "beer",
+  "name": "Double Up",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

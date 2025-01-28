@@ -1,0 +1,11 @@
+{
+  "id": "74509b57-07ec-4e25-9865-e529ce8b34cd",
+  "object": "beer",
+  "name": "Flemish Amber",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

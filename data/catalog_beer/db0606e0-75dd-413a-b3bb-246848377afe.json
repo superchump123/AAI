@@ -1,0 +1,11 @@
+{
+  "id": "db0606e0-75dd-413a-b3bb-246848377afe",
+  "object": "beer",
+  "name": "Death By Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

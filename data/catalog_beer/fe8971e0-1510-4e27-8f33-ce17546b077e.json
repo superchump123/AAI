@@ -1,0 +1,11 @@
+{
+  "id": "fe8971e0-1510-4e27-8f33-ce17546b077e",
+  "object": "beer",
+  "name": "Palm Speciale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

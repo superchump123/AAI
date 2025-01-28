@@ -1,0 +1,11 @@
+{
+  "id": "c058c97f-706a-4fda-a3b1-1a459596879a",
+  "object": "beer",
+  "name": "Hunting Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

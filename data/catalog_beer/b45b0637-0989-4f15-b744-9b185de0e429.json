@@ -1,0 +1,11 @@
+{
+  "id": "b45b0637-0989-4f15-b744-9b185de0e429",
+  "object": "beer",
+  "name": "Pale Fire",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

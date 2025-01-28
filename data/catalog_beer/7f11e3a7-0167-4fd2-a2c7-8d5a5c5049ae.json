@@ -1,0 +1,11 @@
+{
+  "id": "7f11e3a7-0167-4fd2-a2c7-8d5a5c5049ae",
+  "object": "beer",
+  "name": "Organic Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

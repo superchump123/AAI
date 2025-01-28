@@ -1,0 +1,11 @@
+{
+  "id": "70f95224-9756-48af-a495-cbd1a7860109",
+  "object": "beer",
+  "name": "Dank",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

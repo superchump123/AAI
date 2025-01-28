@@ -1,0 +1,11 @@
+{
+  "id": "6694b1a2-29ab-40a6-9186-2151d96e674a",
+  "object": "beer",
+  "name": "Perrin IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

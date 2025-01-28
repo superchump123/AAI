@@ -1,0 +1,11 @@
+{
+  "id": "826f9572-4f8e-44a6-9993-faf34b1df5f9",
+  "object": "beer",
+  "name": "Bacchus",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

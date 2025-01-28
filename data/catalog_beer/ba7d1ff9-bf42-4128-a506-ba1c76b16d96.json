@@ -1,0 +1,11 @@
+{
+  "id": "ba7d1ff9-bf42-4128-a506-ba1c76b16d96",
+  "object": "beer",
+  "name": "Preyer American Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

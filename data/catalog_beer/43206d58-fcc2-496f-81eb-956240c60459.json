@@ -1,0 +1,11 @@
+{
+  "id": "43206d58-fcc2-496f-81eb-956240c60459",
+  "object": "beer",
+  "name": "O-Town Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

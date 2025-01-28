@@ -1,0 +1,11 @@
+{
+  "id": "9a78f058-5fc5-4dd2-adfb-ddb8ae55d167",
+  "object": "beer",
+  "name": "Holtmans Apple Fritter Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

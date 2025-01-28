@@ -1,0 +1,11 @@
+{
+  "id": "c5d8e6f2-0cc3-4dbb-9960-ee4b946a03d4",
+  "object": "beer",
+  "name": "South",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b846be44-0b20-491a-9fe0-58b4c78abb7f",
+  "object": "beer",
+  "name": "Gramarye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

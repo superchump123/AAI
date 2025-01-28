@@ -1,0 +1,11 @@
+{
+  "id": "a80873ee-49d8-42d8-92d6-fe001d492051",
+  "object": "beer",
+  "name": "Bonus Pastor",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c0dc5ccb-98bf-4ab1-a1f3-0822ae0103ed",
+  "object": "beer",
+  "name": "Wicked Ginger",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "498b322a-2578-4bcd-811f-1000127945a6",
+  "object": "beer",
+  "name": "Rye-ku Rye Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

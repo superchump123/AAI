@@ -1,0 +1,11 @@
+{
+  "id": "8fe2f1f9-a3d9-4811-bf0c-e772b9d0ff9b",
+  "object": "beer",
+  "name": "Kodiak Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ba57aff-78da-4bee-aa5d-f02b692f6ae4",
+  "object": "beer",
+  "name": "Bubba",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

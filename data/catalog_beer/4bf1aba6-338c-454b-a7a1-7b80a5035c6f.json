@@ -1,0 +1,11 @@
+{
+  "id": "4bf1aba6-338c-454b-a7a1-7b80a5035c6f",
+  "object": "beer",
+  "name": "Epic Thornbridge Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a06deac3-cc6f-4053-902c-2b80af6aa5aa",
+  "object": "beer",
+  "name": "Bandit Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

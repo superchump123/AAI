@@ -1,0 +1,11 @@
+{
+  "id": "707de154-fb7f-4d13-b2f2-60e8353c7bd3",
+  "object": "beer",
+  "name": "Retro IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

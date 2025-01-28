@@ -1,0 +1,11 @@
+{
+  "id": "01d08e98-f532-4e00-b5e5-80d4f2e48e23",
+  "object": "beer",
+  "name": "Tangerine Wheat Ale",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

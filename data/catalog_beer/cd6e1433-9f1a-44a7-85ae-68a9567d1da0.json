@@ -1,0 +1,11 @@
+{
+  "id": "cd6e1433-9f1a-44a7-85ae-68a9567d1da0",
+  "object": "beer",
+  "name": "Anvil ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

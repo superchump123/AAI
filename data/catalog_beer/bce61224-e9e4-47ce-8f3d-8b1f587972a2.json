@@ -1,0 +1,11 @@
+{
+  "id": "bce61224-e9e4-47ce-8f3d-8b1f587972a2",
+  "object": "beer",
+  "name": "Death from Above",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

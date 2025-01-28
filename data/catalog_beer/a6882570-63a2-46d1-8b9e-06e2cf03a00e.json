@@ -1,0 +1,11 @@
+{
+  "id": "a6882570-63a2-46d1-8b9e-06e2cf03a00e",
+  "object": "beer",
+  "name": "Khatta Kala",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

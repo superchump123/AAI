@@ -1,0 +1,11 @@
+{
+  "id": "afa49e0b-ce82-45a0-afc7-ebb4fbcd828d",
+  "object": "beer",
+  "name": "Abner Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

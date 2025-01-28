@@ -1,0 +1,11 @@
+{
+  "id": "bc08295d-beac-4265-9ee8-4a2dca760312",
+  "object": "beer",
+  "name": "Kiss",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

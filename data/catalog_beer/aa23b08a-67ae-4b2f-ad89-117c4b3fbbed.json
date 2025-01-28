@@ -1,0 +1,11 @@
+{
+  "id": "aa23b08a-67ae-4b2f-ad89-117c4b3fbbed",
+  "object": "beer",
+  "name": "Chronometer",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

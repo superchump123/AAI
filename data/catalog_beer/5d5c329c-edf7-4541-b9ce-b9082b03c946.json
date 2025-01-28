@@ -1,0 +1,11 @@
+{
+  "id": "5d5c329c-edf7-4541-b9ce-b9082b03c946",
+  "object": "beer",
+  "name": "Hoplanta",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

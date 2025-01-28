@@ -1,0 +1,11 @@
+{
+  "id": "5fd1a430-4ed0-43bb-a39a-12f8bd1ee517",
+  "object": "beer",
+  "name": "L Yeah Hoppy Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

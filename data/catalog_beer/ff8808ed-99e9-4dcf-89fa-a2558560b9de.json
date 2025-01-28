@@ -1,0 +1,11 @@
+{
+  "id": "ff8808ed-99e9-4dcf-89fa-a2558560b9de",
+  "object": "beer",
+  "name": "The King",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

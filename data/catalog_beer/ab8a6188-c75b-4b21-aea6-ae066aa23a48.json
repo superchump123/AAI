@@ -1,0 +1,11 @@
+{
+  "id": "ab8a6188-c75b-4b21-aea6-ae066aa23a48",
+  "object": "beer",
+  "name": "Red Army IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "410b76af-2839-49d2-9e59-84a0e4789dba",
+  "object": "beer",
+  "name": "Laser Kitten",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

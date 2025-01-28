@@ -1,0 +1,11 @@
+{
+  "id": "18a5bba5-3a11-491b-961f-97c5ec26198c",
+  "object": "beer",
+  "name": "Sweet Salvation",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

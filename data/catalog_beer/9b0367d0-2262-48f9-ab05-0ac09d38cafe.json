@@ -1,0 +1,11 @@
+{
+  "id": "9b0367d0-2262-48f9-ab05-0ac09d38cafe",
+  "object": "beer",
+  "name": "Hera-Pils",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

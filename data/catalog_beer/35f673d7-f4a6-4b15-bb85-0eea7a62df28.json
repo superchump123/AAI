@@ -1,0 +1,11 @@
+{
+  "id": "35f673d7-f4a6-4b15-bb85-0eea7a62df28",
+  "object": "beer",
+  "name": "Kato Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

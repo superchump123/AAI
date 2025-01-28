@@ -1,0 +1,11 @@
+{
+  "id": "02d28e70-c588-4d10-b2c3-66ca175e64c7",
+  "object": "beer",
+  "name": "Peach Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

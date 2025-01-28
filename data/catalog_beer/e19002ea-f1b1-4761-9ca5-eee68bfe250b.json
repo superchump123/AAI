@@ -1,0 +1,11 @@
+{
+  "id": "e19002ea-f1b1-4761-9ca5-eee68bfe250b",
+  "object": "beer",
+  "name": "Manuary Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

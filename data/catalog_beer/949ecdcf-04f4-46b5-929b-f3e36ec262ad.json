@@ -1,0 +1,11 @@
+{
+  "id": "949ecdcf-04f4-46b5-929b-f3e36ec262ad",
+  "object": "beer",
+  "name": "Celis White",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

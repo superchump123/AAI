@@ -1,0 +1,11 @@
+{
+  "id": "a6e5f85e-aa73-430c-a7e2-aa0cefbafc23",
+  "object": "beer",
+  "name": "Pale Ale",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

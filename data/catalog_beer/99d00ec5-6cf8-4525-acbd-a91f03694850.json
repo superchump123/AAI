@@ -1,0 +1,11 @@
+{
+  "id": "99d00ec5-6cf8-4525-acbd-a91f03694850",
+  "object": "beer",
+  "name": "Big Chocolate Porter",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92516b92-8210-4f88-8cf2-f3106afacbb5",
+  "object": "beer",
+  "name": "Roustabout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

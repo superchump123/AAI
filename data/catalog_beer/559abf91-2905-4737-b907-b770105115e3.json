@@ -1,0 +1,11 @@
+{
+  "id": "559abf91-2905-4737-b907-b770105115e3",
+  "object": "beer",
+  "name": "Black Saison",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

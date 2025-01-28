@@ -1,0 +1,11 @@
+{
+  "id": "f9a107cc-0ca3-49e4-992a-791c56f8e6d0",
+  "object": "beer",
+  "name": "Chocolate Milk Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ff7978bd-9a3e-48d2-9da1-711decc1ac88",
+  "object": "beer",
+  "name": "Ceremonial Session IPA - Citra",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

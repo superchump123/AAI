@@ -1,0 +1,11 @@
+{
+  "id": "47ac9233-7a50-4361-8891-7cc5862da01f",
+  "object": "beer",
+  "name": "Dandy Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

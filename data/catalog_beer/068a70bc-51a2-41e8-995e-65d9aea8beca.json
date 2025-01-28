@@ -1,0 +1,11 @@
+{
+  "id": "068a70bc-51a2-41e8-995e-65d9aea8beca",
+  "object": "beer",
+  "name": "Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

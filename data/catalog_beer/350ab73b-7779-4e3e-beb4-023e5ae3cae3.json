@@ -1,0 +1,11 @@
+{
+  "id": "350ab73b-7779-4e3e-beb4-023e5ae3cae3",
+  "object": "beer",
+  "name": "Peche Mode",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

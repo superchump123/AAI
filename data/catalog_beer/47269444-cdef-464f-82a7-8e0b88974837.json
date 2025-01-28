@@ -1,0 +1,11 @@
+{
+  "id": "47269444-cdef-464f-82a7-8e0b88974837",
+  "object": "beer",
+  "name": "Mitternacht",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

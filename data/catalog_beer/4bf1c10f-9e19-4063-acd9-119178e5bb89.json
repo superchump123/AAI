@@ -1,0 +1,11 @@
+{
+  "id": "4bf1c10f-9e19-4063-acd9-119178e5bb89",
+  "object": "beer",
+  "name": "Dagger Falls IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "21f5eb22-3acb-4a6f-aee1-4f1c926092af",
+  "object": "beer",
+  "name": "Buckerfield's Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

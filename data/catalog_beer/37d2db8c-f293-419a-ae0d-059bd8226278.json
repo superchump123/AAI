@@ -1,0 +1,11 @@
+{
+  "id": "37d2db8c-f293-419a-ae0d-059bd8226278",
+  "object": "beer",
+  "name": "Exum",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

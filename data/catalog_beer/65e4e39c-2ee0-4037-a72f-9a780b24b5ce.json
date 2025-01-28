@@ -1,0 +1,11 @@
+{
+  "id": "65e4e39c-2ee0-4037-a72f-9a780b24b5ce",
+  "object": "beer",
+  "name": "Neapolitan Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

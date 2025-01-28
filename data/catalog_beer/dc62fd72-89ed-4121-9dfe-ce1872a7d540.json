@@ -1,0 +1,11 @@
+{
+  "id": "dc62fd72-89ed-4121-9dfe-ce1872a7d540",
+  "object": "beer",
+  "name": "Mellifera",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

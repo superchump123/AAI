@@ -1,0 +1,11 @@
+{
+  "id": "b41ae04a-9fa2-414c-a9cb-afe62a77de59",
+  "object": "beer",
+  "name": "Downright Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

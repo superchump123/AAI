@@ -1,0 +1,11 @@
+{
+  "id": "bdefc580-d8f7-4c7b-b1eb-b28f1e0cc8eb",
+  "object": "beer",
+  "name": "Keller Instinct",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

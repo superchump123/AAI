@@ -1,0 +1,11 @@
+{
+  "id": "5b6b5bfb-c1c2-4cce-9aba-0f62035aca78",
+  "object": "beer",
+  "name": "Prouty's Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

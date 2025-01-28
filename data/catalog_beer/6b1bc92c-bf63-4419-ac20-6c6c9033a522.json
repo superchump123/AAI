@@ -1,0 +1,11 @@
+{
+  "id": "6b1bc92c-bf63-4419-ac20-6c6c9033a522",
+  "object": "beer",
+  "name": "Tuborg Classic",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

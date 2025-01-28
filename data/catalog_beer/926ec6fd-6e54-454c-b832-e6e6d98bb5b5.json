@@ -1,0 +1,11 @@
+{
+  "id": "926ec6fd-6e54-454c-b832-e6e6d98bb5b5",
+  "object": "beer",
+  "name": "Can I Get a Wheatness",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

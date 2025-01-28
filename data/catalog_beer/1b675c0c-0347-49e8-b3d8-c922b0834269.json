@@ -1,0 +1,11 @@
+{
+  "id": "1b675c0c-0347-49e8-b3d8-c922b0834269",
+  "object": "beer",
+  "name": "Swashbuckler",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

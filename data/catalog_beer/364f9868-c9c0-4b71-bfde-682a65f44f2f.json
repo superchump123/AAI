@@ -1,0 +1,11 @@
+{
+  "id": "364f9868-c9c0-4b71-bfde-682a65f44f2f",
+  "object": "beer",
+  "name": "Island Rain",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

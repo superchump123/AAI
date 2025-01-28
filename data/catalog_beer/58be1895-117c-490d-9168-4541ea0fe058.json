@@ -1,0 +1,11 @@
+{
+  "id": "58be1895-117c-490d-9168-4541ea0fe058",
+  "object": "beer",
+  "name": "Irish Red I Jedeye",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

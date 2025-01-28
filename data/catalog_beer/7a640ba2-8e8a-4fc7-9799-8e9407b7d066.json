@@ -1,0 +1,11 @@
+{
+  "id": "7a640ba2-8e8a-4fc7-9799-8e9407b7d066",
+  "object": "beer",
+  "name": "PANCHO VERDE CHILE CERVEZA",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

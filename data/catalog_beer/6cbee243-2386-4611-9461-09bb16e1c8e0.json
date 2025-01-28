@@ -1,0 +1,11 @@
+{
+  "id": "6cbee243-2386-4611-9461-09bb16e1c8e0",
+  "object": "beer",
+  "name": "Gingerbull Cookie",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "22b005e9-ad51-48ab-b158-b9866271f17e",
+  "object": "beer",
+  "name": "Tele-Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

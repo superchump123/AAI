@@ -1,0 +1,11 @@
+{
+  "id": "fa4b875d-febe-4ca0-a1fb-2580823e1db1",
+  "object": "beer",
+  "name": "Murderous",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

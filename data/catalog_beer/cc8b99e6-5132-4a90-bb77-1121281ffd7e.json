@@ -1,0 +1,11 @@
+{
+  "id": "cc8b99e6-5132-4a90-bb77-1121281ffd7e",
+  "object": "beer",
+  "name": "Animal Balloon",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

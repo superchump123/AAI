@@ -1,0 +1,11 @@
+{
+  "id": "b4070ee3-8d11-4c12-b2f7-d1dbeac46d70",
+  "object": "beer",
+  "name": "Boathouse Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

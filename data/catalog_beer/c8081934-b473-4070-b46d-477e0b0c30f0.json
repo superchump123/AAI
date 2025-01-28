@@ -1,0 +1,11 @@
+{
+  "id": "c8081934-b473-4070-b46d-477e0b0c30f0",
+  "object": "beer",
+  "name": "Northern California",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

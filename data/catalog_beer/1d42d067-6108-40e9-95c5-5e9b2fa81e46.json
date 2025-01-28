@@ -1,0 +1,11 @@
+{
+  "id": "1d42d067-6108-40e9-95c5-5e9b2fa81e46",
+  "object": "beer",
+  "name": "Hooloomooloo",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

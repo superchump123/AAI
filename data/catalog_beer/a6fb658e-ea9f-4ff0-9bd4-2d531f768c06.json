@@ -1,0 +1,11 @@
+{
+  "id": "a6fb658e-ea9f-4ff0-9bd4-2d531f768c06",
+  "object": "beer",
+  "name": "Doc's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

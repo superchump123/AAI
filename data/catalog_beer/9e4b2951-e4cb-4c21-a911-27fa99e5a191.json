@@ -1,0 +1,11 @@
+{
+  "id": "9e4b2951-e4cb-4c21-a911-27fa99e5a191",
+  "object": "beer",
+  "name": "Sessionista",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

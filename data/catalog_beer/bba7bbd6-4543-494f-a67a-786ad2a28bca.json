@@ -1,0 +1,11 @@
+{
+  "id": "bba7bbd6-4543-494f-a67a-786ad2a28bca",
+  "object": "beer",
+  "name": "Blitz Strawberry",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

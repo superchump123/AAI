@@ -1,0 +1,11 @@
+{
+  "id": "80a26e5d-5f3d-4fdd-a4ea-f8cfd70bae8c",
+  "object": "beer",
+  "name": "Depth Charge",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

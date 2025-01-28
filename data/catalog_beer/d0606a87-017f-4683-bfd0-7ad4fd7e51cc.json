@@ -1,0 +1,11 @@
+{
+  "id": "d0606a87-017f-4683-bfd0-7ad4fd7e51cc",
+  "object": "beer",
+  "name": "Brakspear Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}
