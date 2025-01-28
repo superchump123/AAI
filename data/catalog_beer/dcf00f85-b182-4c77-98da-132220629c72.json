@@ -1,0 +1,11 @@
+{
+  "id": "dcf00f85-b182-4c77-98da-132220629c72",
+  "object": "beer",
+  "name": "La Joufflue",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

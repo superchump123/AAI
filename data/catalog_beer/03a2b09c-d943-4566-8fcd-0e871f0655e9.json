@@ -1,0 +1,11 @@
+{
+  "id": "03a2b09c-d943-4566-8fcd-0e871f0655e9",
+  "object": "beer",
+  "name": "Soul Shakedown Party",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

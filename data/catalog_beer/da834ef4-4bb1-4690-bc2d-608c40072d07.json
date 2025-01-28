@@ -1,0 +1,11 @@
+{
+  "id": "da834ef4-4bb1-4690-bc2d-608c40072d07",
+  "object": "beer",
+  "name": "Criminally Bad Elf",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "38fe5d11-aca2-44e8-a798-ff16e7b021da",
+  "object": "beer",
+  "name": "Easy Goer",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

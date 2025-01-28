@@ -1,0 +1,11 @@
+{
+  "id": "35e8d121-3596-43d2-a0c5-ac90c0f5a7a7",
+  "object": "beer",
+  "name": "Chubby Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

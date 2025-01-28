@@ -1,0 +1,11 @@
+{
+  "id": "ccdc29c9-4d4d-467f-a722-261a0d9f73cd",
+  "object": "beer",
+  "name": "Saturnaleia",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

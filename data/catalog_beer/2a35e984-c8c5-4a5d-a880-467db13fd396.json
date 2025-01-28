@@ -1,0 +1,11 @@
+{
+  "id": "2a35e984-c8c5-4a5d-a880-467db13fd396",
+  "object": "beer",
+  "name": "Temporal",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

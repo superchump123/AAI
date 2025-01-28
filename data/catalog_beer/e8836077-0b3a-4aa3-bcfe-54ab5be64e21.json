@@ -1,0 +1,11 @@
+{
+  "id": "e8836077-0b3a-4aa3-bcfe-54ab5be64e21",
+  "object": "beer",
+  "name": "Batch #100",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

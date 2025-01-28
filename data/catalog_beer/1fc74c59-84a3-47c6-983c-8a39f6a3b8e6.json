@@ -1,0 +1,11 @@
+{
+  "id": "1fc74c59-84a3-47c6-983c-8a39f6a3b8e6",
+  "object": "beer",
+  "name": "Dolden Dark",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

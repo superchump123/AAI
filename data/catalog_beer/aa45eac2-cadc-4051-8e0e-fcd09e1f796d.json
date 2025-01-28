@@ -1,0 +1,11 @@
+{
+  "id": "aa45eac2-cadc-4051-8e0e-fcd09e1f796d",
+  "object": "beer",
+  "name": "Chronic",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

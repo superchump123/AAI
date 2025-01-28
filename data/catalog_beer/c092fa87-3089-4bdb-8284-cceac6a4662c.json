@@ -1,0 +1,11 @@
+{
+  "id": "c092fa87-3089-4bdb-8284-cceac6a4662c",
+  "object": "beer",
+  "name": "Nitro Gypsy Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

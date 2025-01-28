@@ -1,0 +1,11 @@
+{
+  "id": "57e4fd9c-b86e-48d8-adaa-b88865ee4178",
+  "object": "beer",
+  "name": "Annie Oatley",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

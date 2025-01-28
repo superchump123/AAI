@@ -1,0 +1,11 @@
+{
+  "id": "72f1d8ca-650e-4255-b009-9df5460eb9e2",
+  "object": "beer",
+  "name": "Ville Dd Rivere Geuze",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

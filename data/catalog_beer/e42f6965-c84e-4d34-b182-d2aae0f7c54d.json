@@ -1,0 +1,11 @@
+{
+  "id": "e42f6965-c84e-4d34-b182-d2aae0f7c54d",
+  "object": "beer",
+  "name": "Honey Farmhouse Ale",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

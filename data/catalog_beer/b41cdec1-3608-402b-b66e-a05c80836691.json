@@ -1,0 +1,11 @@
+{
+  "id": "b41cdec1-3608-402b-b66e-a05c80836691",
+  "object": "beer",
+  "name": "Texas Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

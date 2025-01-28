@@ -1,0 +1,11 @@
+{
+  "id": "424f2c88-e847-4dbb-8ff8-288f76ecb753",
+  "object": "beer",
+  "name": "Ruby Sunset",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

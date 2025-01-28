@@ -1,0 +1,11 @@
+{
+  "id": "3f18b05f-ae78-4305-bdba-3d4100a697a2",
+  "object": "beer",
+  "name": "Broken Rudder",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

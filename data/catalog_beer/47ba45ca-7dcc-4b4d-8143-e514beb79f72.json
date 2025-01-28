@@ -1,0 +1,11 @@
+{
+  "id": "47ba45ca-7dcc-4b4d-8143-e514beb79f72",
+  "object": "beer",
+  "name": "Walter's Beer",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "edcbc59e-b6c0-4ba7-a89e-49e115e6ae0e",
+  "object": "beer",
+  "name": "Biere de Mars",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

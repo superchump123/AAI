@@ -1,0 +1,11 @@
+{
+  "id": "400e6426-51f5-4855-9876-bf664193a67b",
+  "object": "beer",
+  "name": "Pliny the Younger",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

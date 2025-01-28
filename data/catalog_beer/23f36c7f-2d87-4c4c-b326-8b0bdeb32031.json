@@ -1,0 +1,11 @@
+{
+  "id": "23f36c7f-2d87-4c4c-b326-8b0bdeb32031",
+  "object": "beer",
+  "name": "Dark Angel",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

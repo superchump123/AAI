@@ -1,0 +1,11 @@
+{
+  "id": "6145040a-f9ef-4669-bb8a-4520c0b2a600",
+  "object": "beer",
+  "name": "Alfred's Elswith Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

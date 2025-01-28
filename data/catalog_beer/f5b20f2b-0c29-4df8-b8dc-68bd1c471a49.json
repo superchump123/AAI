@@ -1,0 +1,11 @@
+{
+  "id": "f5b20f2b-0c29-4df8-b8dc-68bd1c471a49",
+  "object": "beer",
+  "name": "Lobotomy Bock Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

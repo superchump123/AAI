@@ -1,0 +1,11 @@
+{
+  "id": "1c724728-434a-4f9c-b237-75fa1a3127a3",
+  "object": "beer",
+  "name": "Upright Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

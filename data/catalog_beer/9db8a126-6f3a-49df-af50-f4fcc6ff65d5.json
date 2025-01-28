@@ -1,0 +1,11 @@
+{
+  "id": "9db8a126-6f3a-49df-af50-f4fcc6ff65d5",
+  "object": "beer",
+  "name": "Cleveland Bay",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

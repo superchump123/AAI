@@ -1,0 +1,11 @@
+{
+  "id": "3e5261c3-4f76-44a2-ab7f-6b30306ef905",
+  "object": "beer",
+  "name": "Big John",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

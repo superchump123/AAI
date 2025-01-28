@@ -1,0 +1,11 @@
+{
+  "id": "b2164cf5-c53f-46a6-ba6c-f9c83535166a",
+  "object": "beer",
+  "name": "Local Fields - Essence",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

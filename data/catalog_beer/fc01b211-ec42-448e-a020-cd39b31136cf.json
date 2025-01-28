@@ -1,0 +1,11 @@
+{
+  "id": "fc01b211-ec42-448e-a020-cd39b31136cf",
+  "object": "beer",
+  "name": "Long Swim",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

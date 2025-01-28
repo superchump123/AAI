@@ -1,0 +1,11 @@
+{
+  "id": "9e398f38-64f6-451c-90dd-d83c3a277652",
+  "object": "beer",
+  "name": "Hyperion Bourbon Bellaire Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

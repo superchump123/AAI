@@ -1,0 +1,11 @@
+{
+  "id": "f24c4e7a-a29a-4e9b-adb3-ed7a3321f410",
+  "object": "beer",
+  "name": "Cherry Picker",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

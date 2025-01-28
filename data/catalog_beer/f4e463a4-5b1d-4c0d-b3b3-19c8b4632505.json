@@ -1,0 +1,11 @@
+{
+  "id": "f4e463a4-5b1d-4c0d-b3b3-19c8b4632505",
+  "object": "beer",
+  "name": "Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

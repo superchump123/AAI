@@ -1,0 +1,11 @@
+{
+  "id": "ad50aa8b-2cc4-459c-a024-fd7efa47dab5",
+  "object": "beer",
+  "name": "West Latitude Session Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "142b331f-ac90-404d-b29a-e903c720b4c4",
+  "object": "beer",
+  "name": "Belgian Burgundy Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

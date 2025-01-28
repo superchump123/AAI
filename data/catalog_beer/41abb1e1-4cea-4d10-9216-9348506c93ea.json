@@ -1,0 +1,11 @@
+{
+  "id": "41abb1e1-4cea-4d10-9216-9348506c93ea",
+  "object": "beer",
+  "name": "Critical Mass",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

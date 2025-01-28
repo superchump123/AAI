@@ -1,0 +1,11 @@
+{
+  "id": "4a4c3ddf-1d86-493c-84c3-0a57292f35fc",
+  "object": "beer",
+  "name": "Rickey Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

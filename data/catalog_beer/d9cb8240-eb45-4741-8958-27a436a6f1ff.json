@@ -1,0 +1,11 @@
+{
+  "id": "d9cb8240-eb45-4741-8958-27a436a6f1ff",
+  "object": "beer",
+  "name": "Augustiner",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

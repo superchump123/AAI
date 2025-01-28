@@ -1,0 +1,11 @@
+{
+  "id": "feeeaf60-3aad-4f37-84e3-d8d7776c89f1",
+  "object": "beer",
+  "name": "Vigil",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

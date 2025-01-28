@@ -1,0 +1,11 @@
+{
+  "id": "e23457e8-7656-42ea-8187-51ecf57faca4",
+  "object": "beer",
+  "name": "Thrice Fried",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

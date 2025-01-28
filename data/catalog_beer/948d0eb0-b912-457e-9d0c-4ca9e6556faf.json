@@ -1,0 +1,11 @@
+{
+  "id": "948d0eb0-b912-457e-9d0c-4ca9e6556faf",
+  "object": "beer",
+  "name": "Master Splinter",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

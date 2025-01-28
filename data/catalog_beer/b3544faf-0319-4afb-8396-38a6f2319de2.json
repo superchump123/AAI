@@ -1,0 +1,11 @@
+{
+  "id": "b3544faf-0319-4afb-8396-38a6f2319de2",
+  "object": "beer",
+  "name": "Take 'Er Easy",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d2cfc2a-a59c-45df-8a06-4b295dc2b16f",
+  "object": "beer",
+  "name": "Ursus",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

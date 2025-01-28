@@ -1,0 +1,11 @@
+{
+  "id": "7336c972-6f5d-4952-bc18-cf4974818624",
+  "object": "beer",
+  "name": "Winter Gruit",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

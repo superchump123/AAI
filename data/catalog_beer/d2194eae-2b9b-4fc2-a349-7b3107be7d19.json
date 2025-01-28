@@ -1,0 +1,11 @@
+{
+  "id": "d2194eae-2b9b-4fc2-a349-7b3107be7d19",
+  "object": "beer",
+  "name": "Detroit Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

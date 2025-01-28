@@ -1,0 +1,11 @@
+{
+  "id": "73ab676c-ffa8-4701-a1bb-ce508db4584e",
+  "object": "beer",
+  "name": "Southsidenstein Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

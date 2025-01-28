@@ -1,0 +1,11 @@
+{
+  "id": "e92e2454-2033-421a-8c61-e4b475a0fd68",
+  "object": "beer",
+  "name": "Full Moon Belgian White Ale",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "afeb708a-e066-45fa-88ea-be4efe89b9df",
+  "object": "beer",
+  "name": "Hot Pink",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

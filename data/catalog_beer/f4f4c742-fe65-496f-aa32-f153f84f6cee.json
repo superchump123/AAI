@@ -1,0 +1,11 @@
+{
+  "id": "f4f4c742-fe65-496f-aa32-f153f84f6cee",
+  "object": "beer",
+  "name": "Possession Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

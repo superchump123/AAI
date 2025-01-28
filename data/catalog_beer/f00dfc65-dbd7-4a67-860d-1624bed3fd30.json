@@ -1,0 +1,11 @@
+{
+  "id": "f00dfc65-dbd7-4a67-860d-1624bed3fd30",
+  "object": "beer",
+  "name": "Saxony Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

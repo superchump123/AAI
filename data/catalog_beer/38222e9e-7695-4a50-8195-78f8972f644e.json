@@ -1,0 +1,11 @@
+{
+  "id": "38222e9e-7695-4a50-8195-78f8972f644e",
+  "object": "beer",
+  "name": "Hop House Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

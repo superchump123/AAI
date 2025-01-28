@@ -1,0 +1,11 @@
+{
+  "id": "01f67cf1-11d0-434b-a796-99a43a4b240d",
+  "object": "beer",
+  "name": "Golden Spike Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

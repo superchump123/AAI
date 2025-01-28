@@ -1,0 +1,11 @@
+{
+  "id": "eac02a0a-0724-42c0-a7ed-79434f05a54f",
+  "object": "beer",
+  "name": "Trees Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

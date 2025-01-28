@@ -1,0 +1,11 @@
+{
+  "id": "38e5e74b-b51f-4052-9d06-fbad40fd0754",
+  "object": "beer",
+  "name": "Strawberry Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

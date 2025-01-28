@@ -1,0 +1,11 @@
+{
+  "id": "07bc6d53-1eea-4dd2-a06c-405043f0f529",
+  "object": "beer",
+  "name": "Springer Fever Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

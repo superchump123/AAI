@@ -1,0 +1,11 @@
+{
+  "id": "4d7b67c8-2641-4e92-8ae2-59677d2d1f56",
+  "object": "beer",
+  "name": "Raspberry Mint IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

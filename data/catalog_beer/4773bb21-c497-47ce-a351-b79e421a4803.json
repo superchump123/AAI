@@ -1,0 +1,11 @@
+{
+  "id": "4773bb21-c497-47ce-a351-b79e421a4803",
+  "object": "beer",
+  "name": "Hip Czech",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

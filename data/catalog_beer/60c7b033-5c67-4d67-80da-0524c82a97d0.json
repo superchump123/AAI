@@ -1,0 +1,11 @@
+{
+  "id": "60c7b033-5c67-4d67-80da-0524c82a97d0",
+  "object": "beer",
+  "name": "Oaklore",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

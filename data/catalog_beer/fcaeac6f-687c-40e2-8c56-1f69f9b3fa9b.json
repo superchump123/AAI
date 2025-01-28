@@ -1,0 +1,11 @@
+{
+  "id": "fcaeac6f-687c-40e2-8c56-1f69f9b3fa9b",
+  "object": "beer",
+  "name": "Red's Dirty Lil' Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b9f0380a-7f37-433c-98fa-d64ca04c8738",
+  "object": "beer",
+  "name": "Night Method",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

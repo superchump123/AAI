@@ -1,0 +1,11 @@
+{
+  "id": "34b2ebd8-918a-4496-9c00-585ff5ef18cb",
+  "object": "beer",
+  "name": "Watermelon Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

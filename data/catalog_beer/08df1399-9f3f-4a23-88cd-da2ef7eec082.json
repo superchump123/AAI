@@ -1,0 +1,11 @@
+{
+  "id": "08df1399-9f3f-4a23-88cd-da2ef7eec082",
+  "object": "beer",
+  "name": "Old Bridge Rider",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

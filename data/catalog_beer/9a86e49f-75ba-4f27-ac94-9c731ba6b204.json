@@ -1,0 +1,11 @@
+{
+  "id": "9a86e49f-75ba-4f27-ac94-9c731ba6b204",
+  "object": "beer",
+  "name": "Da Fuzz",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

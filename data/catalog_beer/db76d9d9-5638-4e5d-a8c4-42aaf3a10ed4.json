@@ -1,0 +1,11 @@
+{
+  "id": "db76d9d9-5638-4e5d-a8c4-42aaf3a10ed4",
+  "object": "beer",
+  "name": "Perfect Tin",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

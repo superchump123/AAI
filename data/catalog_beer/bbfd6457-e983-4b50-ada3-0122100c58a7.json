@@ -1,0 +1,11 @@
+{
+  "id": "bbfd6457-e983-4b50-ada3-0122100c58a7",
+  "object": "beer",
+  "name": "Boom Over Pow",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

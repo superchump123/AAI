@@ -1,0 +1,11 @@
+{
+  "id": "47f98c8e-84f8-4c86-8f03-f8ed91e2ccf4",
+  "object": "beer",
+  "name": "Saixon",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

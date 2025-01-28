@@ -1,0 +1,11 @@
+{
+  "id": "9d63014b-927e-4ec7-8c9a-e1e893d1703f",
+  "object": "beer",
+  "name": "AmEn! Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 93,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

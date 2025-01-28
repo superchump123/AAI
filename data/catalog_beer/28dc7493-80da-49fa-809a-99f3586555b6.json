@@ -1,0 +1,11 @@
+{
+  "id": "28dc7493-80da-49fa-809a-99f3586555b6",
+  "object": "beer",
+  "name": "Big Bang",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

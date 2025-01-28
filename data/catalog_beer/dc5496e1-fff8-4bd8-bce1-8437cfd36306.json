@@ -1,0 +1,11 @@
+{
+  "id": "dc5496e1-fff8-4bd8-bce1-8437cfd36306",
+  "object": "beer",
+  "name": "Raspberry Berlinerweiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

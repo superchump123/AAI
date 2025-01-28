@@ -1,0 +1,11 @@
+{
+  "id": "aca9e198-e071-4866-bc2b-4de07b1d457b",
+  "object": "beer",
+  "name": "Hop Stimulator",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

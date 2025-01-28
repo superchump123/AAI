@@ -1,0 +1,11 @@
+{
+  "id": "623ec2a1-6c81-4c5d-94b8-4748fad56c9c",
+  "object": "beer",
+  "name": "Problem Child Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

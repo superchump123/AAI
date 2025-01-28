@@ -1,0 +1,11 @@
+{
+  "id": "fdbc7a3c-a583-48f7-8766-771f783fd65b",
+  "object": "beer",
+  "name": "Beam Me Up",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

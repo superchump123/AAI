@@ -1,0 +1,11 @@
+{
+  "id": "34c1c0c2-219d-4132-87e8-44814e90fd91",
+  "object": "beer",
+  "name": "Boatslip",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 97,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

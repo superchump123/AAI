@@ -1,0 +1,11 @@
+{
+  "id": "6b9f27ae-c899-42f4-9197-2adace4d85e5",
+  "object": "beer",
+  "name": "Ghost Ship",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "14ac4d75-7a96-4096-bd87-b7c2be4aab85",
+  "object": "beer",
+  "name": "Hop Tycoon",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e7684ae0-ebc1-4556-8596-3469e637378b",
+  "object": "beer",
+  "name": "North Ramp Coffee Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

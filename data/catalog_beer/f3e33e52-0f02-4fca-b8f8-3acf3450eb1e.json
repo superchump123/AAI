@@ -1,0 +1,11 @@
+{
+  "id": "f3e33e52-0f02-4fca-b8f8-3acf3450eb1e",
+  "object": "beer",
+  "name": "Agrestic",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

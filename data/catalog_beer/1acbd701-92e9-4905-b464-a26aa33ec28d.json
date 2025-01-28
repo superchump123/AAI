@@ -1,0 +1,11 @@
+{
+  "id": "1acbd701-92e9-4905-b464-a26aa33ec28d",
+  "object": "beer",
+  "name": "AXL Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fe65fafb-38a1-4b9d-b7a5-92bfe21d7f48",
+  "object": "beer",
+  "name": "Classic Pilsener",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

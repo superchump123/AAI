@@ -1,0 +1,11 @@
+{
+  "id": "903aa952-c59b-4777-b3f7-6f893f3c2af4",
+  "object": "beer",
+  "name": "St. Dorado",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

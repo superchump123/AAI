@@ -1,0 +1,11 @@
+{
+  "id": "c6d27a74-4117-4912-bbe5-4c2aacd61c02",
+  "object": "beer",
+  "name": "ChiPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

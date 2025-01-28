@@ -1,0 +1,11 @@
+{
+  "id": "fcf6cfac-2478-40c9-8e5e-1f3dd6252ace",
+  "object": "beer",
+  "name": "Ivanhoe",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

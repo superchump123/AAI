@@ -1,0 +1,11 @@
+{
+  "id": "7076caf7-0213-450a-aaec-fd93685b1d5b",
+  "object": "beer",
+  "name": "Fathead Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.3,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

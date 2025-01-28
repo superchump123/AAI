@@ -1,0 +1,11 @@
+{
+  "id": "58b43ddc-a01e-453b-aab3-fbae40df0862",
+  "object": "beer",
+  "name": "O'Hara's Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "49572c5b-d439-4be3-ab1d-6ad8a42bacd7",
+  "object": "beer",
+  "name": "Anniversary Blarney Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

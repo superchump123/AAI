@@ -1,0 +1,11 @@
+{
+  "id": "3aa69ab6-1bd0-4bd8-bf29-1c0a3ed4719d",
+  "object": "beer",
+  "name": "Land Ho!",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

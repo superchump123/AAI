@@ -1,0 +1,11 @@
+{
+  "id": "7f9ef078-ff60-4fd5-9892-9ca63cefc4af",
+  "object": "beer",
+  "name": "Brewer's Tears",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

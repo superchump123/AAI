@@ -1,0 +1,11 @@
+{
+  "id": "7e1b3b31-4251-4816-8cd0-dba5e675e55f",
+  "object": "beer",
+  "name": "LoMoMO Palooza",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

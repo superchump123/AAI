@@ -1,0 +1,11 @@
+{
+  "id": "9f7d1d8a-af09-4243-b854-023baf168a0f",
+  "object": "beer",
+  "name": "Hemp Gose",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

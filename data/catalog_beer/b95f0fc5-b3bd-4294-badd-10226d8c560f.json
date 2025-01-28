@@ -1,0 +1,11 @@
+{
+  "id": "b95f0fc5-b3bd-4294-badd-10226d8c560f",
+  "object": "beer",
+  "name": "Rando IPA #20",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9c9451eb-fd61-4adf-a6fb-71b2f35cd16a",
+  "object": "beer",
+  "name": "Scarlet Honey",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

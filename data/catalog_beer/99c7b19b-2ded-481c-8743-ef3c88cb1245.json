@@ -1,0 +1,11 @@
+{
+  "id": "99c7b19b-2ded-481c-8743-ef3c88cb1245",
+  "object": "beer",
+  "name": "Totality Imperial Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

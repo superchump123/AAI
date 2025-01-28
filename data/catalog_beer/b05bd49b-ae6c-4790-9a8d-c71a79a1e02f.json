@@ -1,0 +1,11 @@
+{
+  "id": "b05bd49b-ae6c-4790-9a8d-c71a79a1e02f",
+  "object": "beer",
+  "name": "Go Go Juice",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

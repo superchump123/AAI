@@ -1,0 +1,11 @@
+{
+  "id": "74209df4-f83d-409c-bcbf-b92f1027a5aa",
+  "object": "beer",
+  "name": "Epiphany Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

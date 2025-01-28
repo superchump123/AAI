@@ -1,0 +1,11 @@
+{
+  "id": "52e18be3-8e76-4dee-a2bc-55166acfa427",
+  "object": "beer",
+  "name": "Corolla Gold",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

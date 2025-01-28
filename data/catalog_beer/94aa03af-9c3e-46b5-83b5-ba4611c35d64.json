@@ -1,0 +1,11 @@
+{
+  "id": "94aa03af-9c3e-46b5-83b5-ba4611c35d64",
+  "object": "beer",
+  "name": "Blackberry Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

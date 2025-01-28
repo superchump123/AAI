@@ -1,0 +1,11 @@
+{
+  "id": "60e102f8-1cdd-41df-af09-8d49c2a381f9",
+  "object": "beer",
+  "name": "Red Chair NWPA Nitro",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

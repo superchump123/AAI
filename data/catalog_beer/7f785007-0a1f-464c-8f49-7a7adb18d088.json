@@ -1,0 +1,11 @@
+{
+  "id": "7f785007-0a1f-464c-8f49-7a7adb18d088",
+  "object": "beer",
+  "name": "Thick White Freeks",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

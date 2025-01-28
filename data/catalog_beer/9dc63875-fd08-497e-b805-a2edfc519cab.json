@@ -1,0 +1,11 @@
+{
+  "id": "9dc63875-fd08-497e-b805-a2edfc519cab",
+  "object": "beer",
+  "name": "Seasonal Sneak",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

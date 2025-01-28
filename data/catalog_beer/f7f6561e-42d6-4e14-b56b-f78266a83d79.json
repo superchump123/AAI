@@ -1,0 +1,11 @@
+{
+  "id": "f7f6561e-42d6-4e14-b56b-f78266a83d79",
+  "object": "beer",
+  "name": "Texas Strawberry Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

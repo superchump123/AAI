@@ -1,0 +1,11 @@
+{
+  "id": "e396cd2d-67d3-414f-aecf-9949a831ef01",
+  "object": "beer",
+  "name": "Florida Avenue India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

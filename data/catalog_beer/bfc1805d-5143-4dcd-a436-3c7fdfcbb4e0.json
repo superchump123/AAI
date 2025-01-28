@@ -1,0 +1,11 @@
+{
+  "id": "bfc1805d-5143-4dcd-a436-3c7fdfcbb4e0",
+  "object": "beer",
+  "name": "Heritage Wonderland",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

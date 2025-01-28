@@ -1,0 +1,11 @@
+{
+  "id": "233f952d-90ae-4dcf-83be-3b44e46f8f38",
+  "object": "beer",
+  "name": "Mom & Pop's Pumpkin Crop Lager",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

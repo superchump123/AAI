@@ -1,0 +1,11 @@
+{
+  "id": "c122575e-6133-4009-b6ef-14006ff8835a",
+  "object": "beer",
+  "name": "ESB - Nitrogenated",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

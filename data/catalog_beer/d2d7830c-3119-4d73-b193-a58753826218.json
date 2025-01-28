@@ -1,0 +1,11 @@
+{
+  "id": "d2d7830c-3119-4d73-b193-a58753826218",
+  "object": "beer",
+  "name": "Blackbeard Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

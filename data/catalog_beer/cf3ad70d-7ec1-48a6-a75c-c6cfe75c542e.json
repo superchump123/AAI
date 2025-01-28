@@ -1,0 +1,11 @@
+{
+  "id": "cf3ad70d-7ec1-48a6-a75c-c6cfe75c542e",
+  "object": "beer",
+  "name": "Black Mass",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

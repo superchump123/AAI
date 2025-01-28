@@ -1,0 +1,11 @@
+{
+  "id": "7e9094b2-c688-46df-9611-a5de039dd2d4",
+  "object": "beer",
+  "name": "Lamb & Flag",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

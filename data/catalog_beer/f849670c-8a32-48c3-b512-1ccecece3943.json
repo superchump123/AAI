@@ -1,0 +1,11 @@
+{
+  "id": "f849670c-8a32-48c3-b512-1ccecece3943",
+  "object": "beer",
+  "name": "Bay Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

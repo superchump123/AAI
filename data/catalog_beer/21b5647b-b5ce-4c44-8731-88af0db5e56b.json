@@ -1,0 +1,11 @@
+{
+  "id": "21b5647b-b5ce-4c44-8731-88af0db5e56b",
+  "object": "beer",
+  "name": "Mash Bandicoot",
+  "style": "Pale Ale",
+  "description": "Our annual Gen Con Beer in honor of Gen Con 50 and the 20th Anniversary of Crash Bandicoot video game franchise!",
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": true,
+  "last_modified": 1511568485
+}

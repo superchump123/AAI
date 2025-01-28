@@ -1,0 +1,11 @@
+{
+  "id": "b0b5ea41-f987-45d1-8da9-0e18a76d622a",
+  "object": "beer",
+  "name": "Taddy Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

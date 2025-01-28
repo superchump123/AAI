@@ -1,0 +1,11 @@
+{
+  "id": "b4653ebe-d3d3-4424-a53e-1fc2cacea2db",
+  "object": "beer",
+  "name": "California Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

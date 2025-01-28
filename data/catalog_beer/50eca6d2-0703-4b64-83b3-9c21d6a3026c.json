@@ -1,0 +1,11 @@
+{
+  "id": "50eca6d2-0703-4b64-83b3-9c21d6a3026c",
+  "object": "beer",
+  "name": "Riggwelter Yorkshire Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

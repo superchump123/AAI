@@ -1,0 +1,11 @@
+{
+  "id": "2cbd76a8-5391-423b-9fdd-8e4f8187fd08",
+  "object": "beer",
+  "name": "Little Red Rooster",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

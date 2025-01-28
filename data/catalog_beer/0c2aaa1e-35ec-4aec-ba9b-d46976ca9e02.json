@@ -1,0 +1,11 @@
+{
+  "id": "0c2aaa1e-35ec-4aec-ba9b-d46976ca9e02",
+  "object": "beer",
+  "name": "Armchair Nitro Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

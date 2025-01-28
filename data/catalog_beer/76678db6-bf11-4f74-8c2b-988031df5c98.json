@@ -1,0 +1,11 @@
+{
+  "id": "76678db6-bf11-4f74-8c2b-988031df5c98",
+  "object": "beer",
+  "name": "Strongbow Ginger",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

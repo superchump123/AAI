@@ -1,0 +1,11 @@
+{
+  "id": "0d8c4e61-dc46-4e42-8680-bc3f2e90421d",
+  "object": "beer",
+  "name": "Iron Horse",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

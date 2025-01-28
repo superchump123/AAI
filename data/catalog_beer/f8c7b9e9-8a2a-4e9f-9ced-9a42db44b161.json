@@ -1,0 +1,11 @@
+{
+  "id": "f8c7b9e9-8a2a-4e9f-9ced-9a42db44b161",
+  "object": "beer",
+  "name": "Little Dove",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

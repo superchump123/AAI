@@ -1,0 +1,11 @@
+{
+  "id": "61fc37f1-03b1-42b2-935a-73aa9b067a4b",
+  "object": "beer",
+  "name": "Trotwood Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

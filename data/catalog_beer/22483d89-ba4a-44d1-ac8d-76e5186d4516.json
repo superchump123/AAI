@@ -1,0 +1,11 @@
+{
+  "id": "22483d89-ba4a-44d1-ac8d-76e5186d4516",
+  "object": "beer",
+  "name": "El Mole Ocho",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

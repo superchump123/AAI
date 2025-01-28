@@ -1,0 +1,11 @@
+{
+  "id": "80a71d34-56e0-4b25-996b-0762ebae323f",
+  "object": "beer",
+  "name": "Gnarly Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

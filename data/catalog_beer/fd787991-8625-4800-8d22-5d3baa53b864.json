@@ -1,0 +1,11 @@
+{
+  "id": "fd787991-8625-4800-8d22-5d3baa53b864",
+  "object": "beer",
+  "name": "Both Barrels",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

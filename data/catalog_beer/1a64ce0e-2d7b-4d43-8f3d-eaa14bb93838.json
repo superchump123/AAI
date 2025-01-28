@@ -1,0 +1,11 @@
+{
+  "id": "1a64ce0e-2d7b-4d43-8f3d-eaa14bb93838",
+  "object": "beer",
+  "name": "Honey Weiss",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

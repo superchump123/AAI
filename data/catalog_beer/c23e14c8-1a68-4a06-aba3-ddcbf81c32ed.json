@@ -1,0 +1,11 @@
+{
+  "id": "c23e14c8-1a68-4a06-aba3-ddcbf81c32ed",
+  "object": "beer",
+  "name": "Rentsch Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

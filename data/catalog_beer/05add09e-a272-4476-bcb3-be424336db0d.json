@@ -1,0 +1,11 @@
+{
+  "id": "05add09e-a272-4476-bcb3-be424336db0d",
+  "object": "beer",
+  "name": "Fancy Smoking Jacket",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

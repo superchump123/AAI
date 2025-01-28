@@ -1,0 +1,11 @@
+{
+  "id": "f50d1a2d-5c6e-48cc-86d4-dfc427912d9d",
+  "object": "beer",
+  "name": "Snug Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

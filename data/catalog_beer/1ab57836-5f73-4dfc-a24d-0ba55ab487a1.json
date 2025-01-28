@@ -1,0 +1,11 @@
+{
+  "id": "1ab57836-5f73-4dfc-a24d-0ba55ab487a1",
+  "object": "beer",
+  "name": "Sticky Treats",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

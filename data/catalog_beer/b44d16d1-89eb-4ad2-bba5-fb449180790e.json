@@ -1,0 +1,11 @@
+{
+  "id": "b44d16d1-89eb-4ad2-bba5-fb449180790e",
+  "object": "beer",
+  "name": "Hotspur",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

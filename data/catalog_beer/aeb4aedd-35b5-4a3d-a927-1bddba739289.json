@@ -1,0 +1,11 @@
+{
+  "id": "aeb4aedd-35b5-4a3d-a927-1bddba739289",
+  "object": "beer",
+  "name": "70 Shilling Ale",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

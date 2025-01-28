@@ -1,0 +1,11 @@
+{
+  "id": "6e618358-0693-45e0-9afc-3fadfabe68a5",
+  "object": "beer",
+  "name": "German Chocolate Cake",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

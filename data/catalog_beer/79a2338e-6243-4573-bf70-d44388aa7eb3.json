@@ -1,0 +1,11 @@
+{
+  "id": "79a2338e-6243-4573-bf70-d44388aa7eb3",
+  "object": "beer",
+  "name": "Allegheny Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

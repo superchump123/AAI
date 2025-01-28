@@ -1,0 +1,11 @@
+{
+  "id": "a1ed8370-9173-43b7-9d60-7bcad3d2db96",
+  "object": "beer",
+  "name": "3.0 Hoppy Weizen",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

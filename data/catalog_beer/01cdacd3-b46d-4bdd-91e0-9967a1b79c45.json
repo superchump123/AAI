@@ -1,0 +1,11 @@
+{
+  "id": "01cdacd3-b46d-4bdd-91e0-9967a1b79c45",
+  "object": "beer",
+  "name": "St Edmunds Head",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

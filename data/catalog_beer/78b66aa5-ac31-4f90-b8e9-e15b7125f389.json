@@ -1,0 +1,11 @@
+{
+  "id": "78b66aa5-ac31-4f90-b8e9-e15b7125f389",
+  "object": "beer",
+  "name": "Saranac Season's Best",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

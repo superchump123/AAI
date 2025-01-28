@@ -1,0 +1,11 @@
+{
+  "id": "153ab676-7447-46a7-92ea-b9c2462e2b47",
+  "object": "beer",
+  "name": "1911 Raspberry Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

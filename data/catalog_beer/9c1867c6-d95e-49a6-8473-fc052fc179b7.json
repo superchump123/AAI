@@ -1,0 +1,11 @@
+{
+  "id": "9c1867c6-d95e-49a6-8473-fc052fc179b7",
+  "object": "beer",
+  "name": "Big DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

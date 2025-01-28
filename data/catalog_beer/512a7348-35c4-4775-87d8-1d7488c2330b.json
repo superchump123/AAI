@@ -1,0 +1,11 @@
+{
+  "id": "512a7348-35c4-4775-87d8-1d7488c2330b",
+  "object": "beer",
+  "name": "Tommy's Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8fa17875-52ce-4a10-a331-ed1b721efc99",
+  "object": "beer",
+  "name": "Barkeep Bavarian Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

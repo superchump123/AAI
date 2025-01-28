@@ -1,0 +1,11 @@
+{
+  "id": "67e1109d-5cd5-4b8e-a598-9224e5e96e7c",
+  "object": "beer",
+  "name": "Brickstone APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dac2eb93-0d08-4bae-8be8-03b647e2b391",
+  "object": "beer",
+  "name": "Dew Right",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

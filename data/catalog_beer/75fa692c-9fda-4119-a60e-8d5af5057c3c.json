@@ -1,0 +1,11 @@
+{
+  "id": "75fa692c-9fda-4119-a60e-8d5af5057c3c",
+  "object": "beer",
+  "name": "Prison Rodeo",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

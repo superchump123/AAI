@@ -1,0 +1,11 @@
+{
+  "id": "62d78a28-3bfb-49e5-b320-0d4c5cb55ecb",
+  "object": "beer",
+  "name": "Trips",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

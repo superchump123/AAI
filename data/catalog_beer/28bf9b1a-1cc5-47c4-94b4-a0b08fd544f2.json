@@ -1,0 +1,11 @@
+{
+  "id": "28bf9b1a-1cc5-47c4-94b4-a0b08fd544f2",
+  "object": "beer",
+  "name": "Tropical Paradise IPA",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

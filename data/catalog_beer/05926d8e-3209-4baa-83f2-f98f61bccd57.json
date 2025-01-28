@@ -1,0 +1,11 @@
+{
+  "id": "05926d8e-3209-4baa-83f2-f98f61bccd57",
+  "object": "beer",
+  "name": "Wild Banshee Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

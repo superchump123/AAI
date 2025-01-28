@@ -1,0 +1,11 @@
+{
+  "id": "6d181b7f-ba27-462f-a74a-07cf1bef8769",
+  "object": "beer",
+  "name": "Montmaretto",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

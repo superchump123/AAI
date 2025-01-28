@@ -1,0 +1,11 @@
+{
+  "id": "d16db6fa-9be5-45e4-ac0d-8cb47712591c",
+  "object": "beer",
+  "name": "Ember",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

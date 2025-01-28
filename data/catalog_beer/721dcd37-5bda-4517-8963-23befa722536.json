@@ -1,0 +1,11 @@
+{
+  "id": "721dcd37-5bda-4517-8963-23befa722536",
+  "object": "beer",
+  "name": "Funky Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

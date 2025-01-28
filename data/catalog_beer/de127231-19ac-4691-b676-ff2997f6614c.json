@@ -1,0 +1,11 @@
+{
+  "id": "de127231-19ac-4691-b676-ff2997f6614c",
+  "object": "beer",
+  "name": "Forty-Niner Gold Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

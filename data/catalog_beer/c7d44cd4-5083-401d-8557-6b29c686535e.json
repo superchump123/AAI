@@ -1,0 +1,11 @@
+{
+  "id": "c7d44cd4-5083-401d-8557-6b29c686535e",
+  "object": "beer",
+  "name": "Bad Omen",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

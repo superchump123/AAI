@@ -1,0 +1,11 @@
+{
+  "id": "9f6e79cd-0db3-4032-ac19-2511eba4ef03",
+  "object": "beer",
+  "name": "Wreak Havoc",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

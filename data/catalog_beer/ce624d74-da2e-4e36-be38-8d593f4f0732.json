@@ -1,0 +1,11 @@
+{
+  "id": "ce624d74-da2e-4e36-be38-8d593f4f0732",
+  "object": "beer",
+  "name": "Lancaster Winter Warmer",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

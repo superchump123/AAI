@@ -1,0 +1,11 @@
+{
+  "id": "f60fb44b-1309-4033-a9b3-30f2f605c70c",
+  "object": "beer",
+  "name": "2012 Black Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 9,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

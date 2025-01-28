@@ -1,0 +1,11 @@
+{
+  "id": "009600c0-fe40-4920-ac55-b00a35d7354b",
+  "object": "beer",
+  "name": "A Cappella",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

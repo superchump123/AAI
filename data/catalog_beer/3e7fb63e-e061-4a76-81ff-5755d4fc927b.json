@@ -1,0 +1,11 @@
+{
+  "id": "3e7fb63e-e061-4a76-81ff-5755d4fc927b",
+  "object": "beer",
+  "name": "Eichbaum Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

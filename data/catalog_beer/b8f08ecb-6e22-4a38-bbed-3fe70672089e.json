@@ -1,0 +1,11 @@
+{
+  "id": "b8f08ecb-6e22-4a38-bbed-3fe70672089e",
+  "object": "beer",
+  "name": "\u00c9lixir C\u00e9leste",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

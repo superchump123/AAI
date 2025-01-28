@@ -1,0 +1,11 @@
+{
+  "id": "4434db8a-24c8-429b-8c20-0d97ca4971c1",
+  "object": "beer",
+  "name": "Trot Hopple",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

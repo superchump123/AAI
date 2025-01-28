@@ -1,0 +1,11 @@
+{
+  "id": "e7878b77-039e-452d-9206-593f219e89cc",
+  "object": "beer",
+  "name": "6 Hop IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 87,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

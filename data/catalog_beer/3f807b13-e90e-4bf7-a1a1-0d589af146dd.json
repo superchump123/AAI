@@ -1,0 +1,11 @@
+{
+  "id": "3f807b13-e90e-4bf7-a1a1-0d589af146dd",
+  "object": "beer",
+  "name": "Pre Game",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

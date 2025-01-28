@@ -1,0 +1,11 @@
+{
+  "id": "ec512b54-dab8-4553-94f6-7870961114bd",
+  "object": "beer",
+  "name": "English Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

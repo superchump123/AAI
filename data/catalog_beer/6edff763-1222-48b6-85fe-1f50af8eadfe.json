@@ -1,0 +1,11 @@
+{
+  "id": "6edff763-1222-48b6-85fe-1f50af8eadfe",
+  "object": "beer",
+  "name": "Hibernia Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

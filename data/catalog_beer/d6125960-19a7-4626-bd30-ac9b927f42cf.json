@@ -1,0 +1,11 @@
+{
+  "id": "d6125960-19a7-4626-bd30-ac9b927f42cf",
+  "object": "beer",
+  "name": "Hoppy Session Red Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

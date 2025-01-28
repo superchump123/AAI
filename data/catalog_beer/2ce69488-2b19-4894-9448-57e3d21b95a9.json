@@ -1,0 +1,11 @@
+{
+  "id": "2ce69488-2b19-4894-9448-57e3d21b95a9",
+  "object": "beer",
+  "name": "Smoglifter",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

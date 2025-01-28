@@ -1,0 +1,11 @@
+{
+  "id": "faa5f87d-2047-499f-ace9-6ce0787a50d6",
+  "object": "beer",
+  "name": "Color Field",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

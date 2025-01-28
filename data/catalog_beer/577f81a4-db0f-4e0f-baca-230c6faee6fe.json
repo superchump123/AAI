@@ -1,0 +1,11 @@
+{
+  "id": "577f81a4-db0f-4e0f-baca-230c6faee6fe",
+  "object": "beer",
+  "name": "Gunslinger",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

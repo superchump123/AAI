@@ -1,0 +1,11 @@
+{
+  "id": "4ec33f60-ae9d-4d4b-a1f1-87e85c1ad450",
+  "object": "beer",
+  "name": "Sunspot Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

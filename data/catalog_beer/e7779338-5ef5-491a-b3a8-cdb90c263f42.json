@@ -1,0 +1,11 @@
+{
+  "id": "e7779338-5ef5-491a-b3a8-cdb90c263f42",
+  "object": "beer",
+  "name": "The Real Peel",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

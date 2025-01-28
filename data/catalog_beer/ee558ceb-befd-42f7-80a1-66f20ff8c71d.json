@@ -1,0 +1,11 @@
+{
+  "id": "ee558ceb-befd-42f7-80a1-66f20ff8c71d",
+  "object": "beer",
+  "name": "Nanny Gold",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6b441f0b-68e0-435a-a345-e5551a29e22a",
+  "object": "beer",
+  "name": "St Bernard Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

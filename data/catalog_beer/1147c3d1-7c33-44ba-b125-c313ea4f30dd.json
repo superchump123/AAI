@@ -1,0 +1,11 @@
+{
+  "id": "1147c3d1-7c33-44ba-b125-c313ea4f30dd",
+  "object": "beer",
+  "name": "Winter Warmer",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

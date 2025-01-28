@@ -1,0 +1,11 @@
+{
+  "id": "d89341cd-a592-4417-92eb-fbc0192a5bf3",
+  "object": "beer",
+  "name": "Hoppy Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

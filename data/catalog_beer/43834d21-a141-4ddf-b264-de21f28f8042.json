@@ -1,0 +1,11 @@
+{
+  "id": "43834d21-a141-4ddf-b264-de21f28f8042",
+  "object": "beer",
+  "name": "Trout Town American Amber Ale",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

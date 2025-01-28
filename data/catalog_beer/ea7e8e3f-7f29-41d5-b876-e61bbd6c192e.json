@@ -1,0 +1,11 @@
+{
+  "id": "ea7e8e3f-7f29-41d5-b876-e61bbd6c192e",
+  "object": "beer",
+  "name": "Riverton Flyer",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

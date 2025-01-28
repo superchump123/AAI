@@ -1,0 +1,11 @@
+{
+  "id": "d56acb13-0797-4101-a979-7cdf02d9556a",
+  "object": "beer",
+  "name": "Cowpoke Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

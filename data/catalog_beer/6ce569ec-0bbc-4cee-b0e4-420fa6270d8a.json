@@ -1,0 +1,11 @@
+{
+  "id": "6ce569ec-0bbc-4cee-b0e4-420fa6270d8a",
+  "object": "beer",
+  "name": "Silver Lining IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

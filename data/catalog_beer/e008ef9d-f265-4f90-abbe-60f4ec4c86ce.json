@@ -1,0 +1,11 @@
+{
+  "id": "e008ef9d-f265-4f90-abbe-60f4ec4c86ce",
+  "object": "beer",
+  "name": "Altenburger Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

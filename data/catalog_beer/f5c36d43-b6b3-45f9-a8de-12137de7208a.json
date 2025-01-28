@@ -1,0 +1,11 @@
+{
+  "id": "f5c36d43-b6b3-45f9-a8de-12137de7208a",
+  "object": "beer",
+  "name": "Strada San Felice",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

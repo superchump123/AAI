@@ -1,0 +1,11 @@
+{
+  "id": "630e82ce-f343-434f-8c6c-e83892059653",
+  "object": "beer",
+  "name": "Red Glare",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

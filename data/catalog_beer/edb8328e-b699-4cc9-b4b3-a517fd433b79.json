@@ -1,0 +1,11 @@
+{
+  "id": "edb8328e-b699-4cc9-b4b3-a517fd433b79",
+  "object": "beer",
+  "name": "White Rocket in Flight, Afternoon Delight",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

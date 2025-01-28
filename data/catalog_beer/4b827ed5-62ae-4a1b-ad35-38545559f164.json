@@ -1,0 +1,11 @@
+{
+  "id": "4b827ed5-62ae-4a1b-ad35-38545559f164",
+  "object": "beer",
+  "name": "Honey Please",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d058b880-3c29-41fe-ba60-963f9f23fe40",
+  "object": "beer",
+  "name": "Nameless City",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

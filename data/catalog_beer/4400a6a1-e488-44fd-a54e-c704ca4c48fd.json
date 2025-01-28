@@ -1,0 +1,11 @@
+{
+  "id": "4400a6a1-e488-44fd-a54e-c704ca4c48fd",
+  "object": "beer",
+  "name": "Squawker IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

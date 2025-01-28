@@ -1,0 +1,11 @@
+{
+  "id": "75f8a7ea-9f8a-4edb-afb1-f002e64753a3",
+  "object": "beer",
+  "name": "Murky Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

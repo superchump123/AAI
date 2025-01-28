@@ -1,0 +1,11 @@
+{
+  "id": "7bcc511c-30ec-4e5c-a680-350f0650387c",
+  "object": "beer",
+  "name": "Kiss the Lips",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

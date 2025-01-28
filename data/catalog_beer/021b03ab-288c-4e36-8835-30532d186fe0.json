@@ -1,0 +1,11 @@
+{
+  "id": "021b03ab-288c-4e36-8835-30532d186fe0",
+  "object": "beer",
+  "name": "Revelation",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

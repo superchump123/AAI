@@ -1,0 +1,11 @@
+{
+  "id": "bfc1aecd-405a-4c03-a3cc-3328a0f177cd",
+  "object": "beer",
+  "name": "Play For Me",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "78258f49-a1d6-40e2-987e-578d2b771b4c",
+  "object": "beer",
+  "name": "My belgian blonde got Ten Miled",
+  "style": "Belgian Blonde",
+  "description": "Blond Belgian with pepper and bubblegum with hints of funk. Yeast cultured from old wine with Brett.",
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": true,
+  "last_modified": 1588448205
+}

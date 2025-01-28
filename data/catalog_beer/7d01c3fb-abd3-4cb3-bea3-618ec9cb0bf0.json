@@ -1,0 +1,11 @@
+{
+  "id": "7d01c3fb-abd3-4cb3-bea3-618ec9cb0bf0",
+  "object": "beer",
+  "name": "Dill Pickle Boomtown",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

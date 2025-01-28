@@ -1,0 +1,11 @@
+{
+  "id": "9baf0a12-27b7-41fb-8493-4e68b1cc2880",
+  "object": "beer",
+  "name": "I Love Lamp",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "897f65a1-933d-4e68-ba7e-a784c76a3a39",
+  "object": "beer",
+  "name": "Foundation 11",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

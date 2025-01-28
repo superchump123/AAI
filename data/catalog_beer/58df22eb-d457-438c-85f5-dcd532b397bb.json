@@ -1,0 +1,11 @@
+{
+  "id": "58df22eb-d457-438c-85f5-dcd532b397bb",
+  "object": "beer",
+  "name": "Kaktus Amber Late Hop Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

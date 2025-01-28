@@ -1,0 +1,11 @@
+{
+  "id": "ae4ab0ae-fb51-47de-9f49-7404ce3b6f04",
+  "object": "beer",
+  "name": "MMXV Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

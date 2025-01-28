@@ -1,0 +1,11 @@
+{
+  "id": "b8d59392-066d-4fdc-a99f-df9a12ca633c",
+  "object": "beer",
+  "name": "XLCR",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

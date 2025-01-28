@@ -1,0 +1,11 @@
+{
+  "id": "ad9d9ee6-6bea-4ccd-8bb7-71fea3ffc73b",
+  "object": "beer",
+  "name": "Independence Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

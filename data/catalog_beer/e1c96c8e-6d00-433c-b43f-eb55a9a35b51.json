@@ -1,0 +1,11 @@
+{
+  "id": "e1c96c8e-6d00-433c-b43f-eb55a9a35b51",
+  "object": "beer",
+  "name": "Gingerbread Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

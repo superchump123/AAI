@@ -1,0 +1,11 @@
+{
+  "id": "3b4e7813-7c0c-48b7-8d85-9e04b37748f5",
+  "object": "beer",
+  "name": "Love of My Life Rye IPA",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e4ea867b-6f24-48fb-8956-1d5dfa4c8a06",
+  "object": "beer",
+  "name": "Dirty Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "89f91879-2b78-470f-b3c6-9bf2b068dff4",
+  "object": "beer",
+  "name": "Adam's Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

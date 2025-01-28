@@ -1,0 +1,11 @@
+{
+  "id": "5ae7e96b-28b0-4df4-b5ee-d515fd2b88b1",
+  "object": "beer",
+  "name": "Hop Lobster",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

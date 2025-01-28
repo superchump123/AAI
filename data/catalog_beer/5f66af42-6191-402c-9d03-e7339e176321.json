@@ -1,0 +1,11 @@
+{
+  "id": "5f66af42-6191-402c-9d03-e7339e176321",
+  "object": "beer",
+  "name": "Ritter First",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "419f9552-67c6-4893-9ee5-d5314dc1b969",
+  "object": "beer",
+  "name": "Suncaster Summer Wheat Ale",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

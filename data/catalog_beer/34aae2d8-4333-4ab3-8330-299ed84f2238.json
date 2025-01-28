@@ -1,0 +1,11 @@
+{
+  "id": "34aae2d8-4333-4ab3-8330-299ed84f2238",
+  "object": "beer",
+  "name": "Old Brown Dog Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

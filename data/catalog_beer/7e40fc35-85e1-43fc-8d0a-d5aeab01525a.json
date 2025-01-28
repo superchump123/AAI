@@ -1,0 +1,11 @@
+{
+  "id": "7e40fc35-85e1-43fc-8d0a-d5aeab01525a",
+  "object": "beer",
+  "name": "Lubelskie Pils",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

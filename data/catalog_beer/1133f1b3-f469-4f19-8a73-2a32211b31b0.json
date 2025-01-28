@@ -1,0 +1,11 @@
+{
+  "id": "1133f1b3-f469-4f19-8a73-2a32211b31b0",
+  "object": "beer",
+  "name": "Matt Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

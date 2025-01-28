@@ -1,0 +1,11 @@
+{
+  "id": "4b0a4445-bf3e-4789-a896-e8b75c732aff",
+  "object": "beer",
+  "name": "It\u2019sWhatWeGot IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67c3ec75-1564-4258-9a81-4858146326b7",
+  "object": "beer",
+  "name": "Trader Joe's Hibiscus Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6a5e0686-5427-43c9-b2c1-cb4d3671c67b",
+  "object": "beer",
+  "name": "Monsho",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

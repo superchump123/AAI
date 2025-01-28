@@ -1,0 +1,11 @@
+{
+  "id": "785604cd-6b15-474f-8b5e-2e45ad43a716",
+  "object": "beer",
+  "name": "Smith & Forge",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

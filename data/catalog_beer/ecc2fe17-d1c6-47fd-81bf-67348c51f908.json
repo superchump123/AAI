@@ -1,0 +1,11 @@
+{
+  "id": "ecc2fe17-d1c6-47fd-81bf-67348c51f908",
+  "object": "beer",
+  "name": "Freedom Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

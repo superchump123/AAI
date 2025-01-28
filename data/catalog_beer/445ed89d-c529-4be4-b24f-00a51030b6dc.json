@@ -1,0 +1,11 @@
+{
+  "id": "445ed89d-c529-4be4-b24f-00a51030b6dc",
+  "object": "beer",
+  "name": "Butterfield Blonde",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f4cc523b-c87b-4477-b0b3-5ae5fa7ac351",
+  "object": "beer",
+  "name": "General Pippo's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

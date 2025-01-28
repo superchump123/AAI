@@ -1,0 +1,11 @@
+{
+  "id": "05f759e0-7da0-45bb-9f60-736d3bdba405",
+  "object": "beer",
+  "name": "Test Batch 1.0 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

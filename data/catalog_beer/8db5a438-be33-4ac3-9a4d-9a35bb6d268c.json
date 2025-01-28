@@ -1,0 +1,11 @@
+{
+  "id": "8db5a438-be33-4ac3-9a4d-9a35bb6d268c",
+  "object": "beer",
+  "name": "Occidental Dortmunder",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "60fbefec-aa57-4077-8f8d-e63403459c55",
+  "object": "beer",
+  "name": "Jalapeno Lager",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

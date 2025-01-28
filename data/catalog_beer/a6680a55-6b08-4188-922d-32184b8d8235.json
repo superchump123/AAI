@@ -1,0 +1,11 @@
+{
+  "id": "a6680a55-6b08-4188-922d-32184b8d8235",
+  "object": "beer",
+  "name": "Black & Brew Coffee Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e2ad0d00-a61c-47a9-97d7-29de6b9e3819",
+  "object": "beer",
+  "name": "Light Side of the Sun",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

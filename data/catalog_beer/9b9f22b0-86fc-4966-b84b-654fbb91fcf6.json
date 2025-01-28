@@ -1,0 +1,11 @@
+{
+  "id": "9b9f22b0-86fc-4966-b84b-654fbb91fcf6",
+  "object": "beer",
+  "name": "Garden State Rhapsody",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

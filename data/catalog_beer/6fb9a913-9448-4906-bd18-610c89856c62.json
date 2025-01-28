@@ -1,0 +1,11 @@
+{
+  "id": "6fb9a913-9448-4906-bd18-610c89856c62",
+  "object": "beer",
+  "name": "Double Agent IPL",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

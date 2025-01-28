@@ -1,0 +1,11 @@
+{
+  "id": "a6e81f82-96e0-4ff0-8f74-e188788e960f",
+  "object": "beer",
+  "name": "Loki",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

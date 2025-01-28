@@ -1,0 +1,11 @@
+{
+  "id": "3dec2940-f088-48f0-974d-f5506b1c8a87",
+  "object": "beer",
+  "name": "Powder Run Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

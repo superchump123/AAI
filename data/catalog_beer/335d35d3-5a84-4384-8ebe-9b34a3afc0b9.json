@@ -1,0 +1,11 @@
+{
+  "id": "335d35d3-5a84-4384-8ebe-9b34a3afc0b9",
+  "object": "beer",
+  "name": "Oktoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

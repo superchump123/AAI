@@ -1,0 +1,11 @@
+{
+  "id": "e0532934-440e-48c9-a2dc-b4eb90a2470e",
+  "object": "beer",
+  "name": "Coffee Del",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 77,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

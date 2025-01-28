@@ -1,0 +1,11 @@
+{
+  "id": "cb303510-17ef-4c9d-a1e3-a51a1f0b920e",
+  "object": "beer",
+  "name": "Consolation Prize",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

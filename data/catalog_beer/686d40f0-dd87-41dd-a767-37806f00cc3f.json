@@ -1,0 +1,11 @@
+{
+  "id": "686d40f0-dd87-41dd-a767-37806f00cc3f",
+  "object": "beer",
+  "name": "Mystic Lime",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

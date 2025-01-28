@@ -1,0 +1,11 @@
+{
+  "id": "58a422cc-6bfa-4958-a852-ebb105b5daf2",
+  "object": "beer",
+  "name": "High Seas IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

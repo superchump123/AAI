@@ -1,0 +1,11 @@
+{
+  "id": "a55022ac-8900-44e8-8fcb-32908b81be42",
+  "object": "beer",
+  "name": "Dante's Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

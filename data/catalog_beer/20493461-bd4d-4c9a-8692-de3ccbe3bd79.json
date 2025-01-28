@@ -1,0 +1,11 @@
+{
+  "id": "20493461-bd4d-4c9a-8692-de3ccbe3bd79",
+  "object": "beer",
+  "name": "Far Away",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

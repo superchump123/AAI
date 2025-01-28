@@ -1,0 +1,11 @@
+{
+  "id": "959e0c2f-fee8-4cbe-8722-fac1d9a98cfd",
+  "object": "beer",
+  "name": "Prairie Hop",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

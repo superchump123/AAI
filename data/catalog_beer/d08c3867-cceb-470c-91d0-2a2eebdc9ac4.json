@@ -1,0 +1,11 @@
+{
+  "id": "d08c3867-cceb-470c-91d0-2a2eebdc9ac4",
+  "object": "beer",
+  "name": "Farmhand Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

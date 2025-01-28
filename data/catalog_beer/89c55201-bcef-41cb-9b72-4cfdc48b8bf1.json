@@ -1,0 +1,11 @@
+{
+  "id": "89c55201-bcef-41cb-9b72-4cfdc48b8bf1",
+  "object": "beer",
+  "name": "Dancer Man",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

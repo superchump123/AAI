@@ -1,0 +1,11 @@
+{
+  "id": "226ff528-cc23-498d-b927-41a7cb7f8338",
+  "object": "beer",
+  "name": "Solo Ascent",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

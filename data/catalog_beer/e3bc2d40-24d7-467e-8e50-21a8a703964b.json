@@ -1,0 +1,11 @@
+{
+  "id": "e3bc2d40-24d7-467e-8e50-21a8a703964b",
+  "object": "beer",
+  "name": "Proximity",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

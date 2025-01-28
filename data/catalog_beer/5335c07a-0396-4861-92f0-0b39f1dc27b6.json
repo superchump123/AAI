@@ -1,0 +1,11 @@
+{
+  "id": "5335c07a-0396-4861-92f0-0b39f1dc27b6",
+  "object": "beer",
+  "name": "Leffe Ruby",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

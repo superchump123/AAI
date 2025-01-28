@@ -1,0 +1,11 @@
+{
+  "id": "074c21eb-d93b-492d-8c9f-1d8ce2937b6f",
+  "object": "beer",
+  "name": "Black Beauty",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

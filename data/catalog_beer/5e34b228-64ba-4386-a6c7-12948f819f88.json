@@ -1,0 +1,11 @@
+{
+  "id": "5e34b228-64ba-4386-a6c7-12948f819f88",
+  "object": "beer",
+  "name": "Jean-Claude Van Blond",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

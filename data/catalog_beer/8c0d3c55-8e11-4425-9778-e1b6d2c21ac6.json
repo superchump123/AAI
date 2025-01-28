@@ -1,0 +1,11 @@
+{
+  "id": "8c0d3c55-8e11-4425-9778-e1b6d2c21ac6",
+  "object": "beer",
+  "name": "Black Betty",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

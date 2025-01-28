@@ -1,0 +1,11 @@
+{
+  "id": "a6116ccf-5b8c-4090-9315-669532d0c083",
+  "object": "beer",
+  "name": "Bosque Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

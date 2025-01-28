@@ -1,0 +1,11 @@
+{
+  "id": "7f740db8-d8a0-47a8-a3bf-8452b09cc1f3",
+  "object": "beer",
+  "name": "Irvington Juniper Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5dba913a-bde4-4acc-8efe-539fe5bc4a6a",
+  "object": "beer",
+  "name": "Ridgeline Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "30b30fb3-071d-4428-be93-fb4923380909",
+  "object": "beer",
+  "name": "Opening Act",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

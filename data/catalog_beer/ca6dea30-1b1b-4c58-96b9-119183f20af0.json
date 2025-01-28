@@ -1,0 +1,11 @@
+{
+  "id": "ca6dea30-1b1b-4c58-96b9-119183f20af0",
+  "object": "beer",
+  "name": "Abbaye de Saint-Martin Triple",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

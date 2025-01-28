@@ -1,0 +1,11 @@
+{
+  "id": "9b0cdb3c-a101-4fec-9c42-6c9a679837c5",
+  "object": "beer",
+  "name": "Fusilier",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

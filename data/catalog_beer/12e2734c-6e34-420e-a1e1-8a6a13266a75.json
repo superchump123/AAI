@@ -1,0 +1,11 @@
+{
+  "id": "12e2734c-6e34-420e-a1e1-8a6a13266a75",
+  "object": "beer",
+  "name": "Glissade Golden Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

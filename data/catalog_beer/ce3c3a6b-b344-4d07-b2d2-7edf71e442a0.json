@@ -1,0 +1,11 @@
+{
+  "id": "ce3c3a6b-b344-4d07-b2d2-7edf71e442a0",
+  "object": "beer",
+  "name": "50 Back",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

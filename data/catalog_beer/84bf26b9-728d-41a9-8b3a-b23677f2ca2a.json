@@ -1,0 +1,11 @@
+{
+  "id": "84bf26b9-728d-41a9-8b3a-b23677f2ca2a",
+  "object": "beer",
+  "name": "City Limits",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

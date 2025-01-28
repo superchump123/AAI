@@ -1,0 +1,11 @@
+{
+  "id": "d8c298f5-8c03-41be-857e-2fabc1f0f8b4",
+  "object": "beer",
+  "name": "Curly's Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

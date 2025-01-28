@@ -1,0 +1,11 @@
+{
+  "id": "12a90ef1-0889-48d5-b5cd-ba694c472ef5",
+  "object": "beer",
+  "name": "Progression",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c2437ff7-77b0-43f6-9a13-2bc2a4315cc7",
+  "object": "beer",
+  "name": "Cabin Fever Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

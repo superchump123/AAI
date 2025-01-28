@@ -1,0 +1,11 @@
+{
+  "id": "e7835b95-c156-41f7-a7be-e57e432b8bab",
+  "object": "beer",
+  "name": "Frankie Clause",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

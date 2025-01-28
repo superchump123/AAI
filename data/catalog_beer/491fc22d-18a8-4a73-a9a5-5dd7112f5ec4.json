@@ -1,0 +1,11 @@
+{
+  "id": "491fc22d-18a8-4a73-a9a5-5dd7112f5ec4",
+  "object": "beer",
+  "name": "Population Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

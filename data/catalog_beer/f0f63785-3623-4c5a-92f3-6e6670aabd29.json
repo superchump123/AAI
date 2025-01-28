@@ -1,0 +1,11 @@
+{
+  "id": "f0f63785-3623-4c5a-92f3-6e6670aabd29",
+  "object": "beer",
+  "name": "Rose City Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

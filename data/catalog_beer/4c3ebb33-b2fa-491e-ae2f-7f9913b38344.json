@@ -1,0 +1,11 @@
+{
+  "id": "4c3ebb33-b2fa-491e-ae2f-7f9913b38344",
+  "object": "beer",
+  "name": "Boudica's Uprising",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

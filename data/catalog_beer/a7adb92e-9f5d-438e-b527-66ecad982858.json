@@ -1,0 +1,11 @@
+{
+  "id": "a7adb92e-9f5d-438e-b527-66ecad982858",
+  "object": "beer",
+  "name": "RiverSteam",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

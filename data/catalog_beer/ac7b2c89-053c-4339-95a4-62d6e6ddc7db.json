@@ -1,0 +1,11 @@
+{
+  "id": "ac7b2c89-053c-4339-95a4-62d6e6ddc7db",
+  "object": "beer",
+  "name": "Py Jingo Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

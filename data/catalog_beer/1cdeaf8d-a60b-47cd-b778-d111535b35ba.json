@@ -1,0 +1,11 @@
+{
+  "id": "1cdeaf8d-a60b-47cd-b778-d111535b35ba",
+  "object": "beer",
+  "name": "White Wedding",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

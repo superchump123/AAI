@@ -1,0 +1,11 @@
+{
+  "id": "41678a72-2d2c-4e43-8abf-974c0185c612",
+  "object": "beer",
+  "name": "St. Klippenstein",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

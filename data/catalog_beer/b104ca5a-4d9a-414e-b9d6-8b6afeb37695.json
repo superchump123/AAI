@@ -1,0 +1,11 @@
+{
+  "id": "b104ca5a-4d9a-414e-b9d6-8b6afeb37695",
+  "object": "beer",
+  "name": "Corky\u2019s Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

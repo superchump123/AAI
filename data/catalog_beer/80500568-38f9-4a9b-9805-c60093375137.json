@@ -1,0 +1,11 @@
+{
+  "id": "80500568-38f9-4a9b-9805-c60093375137",
+  "object": "beer",
+  "name": "Scarlet Letter",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c51d75bc-556c-4cc1-854d-766f8019a9da",
+  "object": "beer",
+  "name": "Purity Longhorn",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1b5f65e5-bdcb-4ee2-a97c-a88f2f8df21f",
+  "object": "beer",
+  "name": "Conflux",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "52b3fd6a-691e-4993-abe9-77786dad909c",
+  "object": "beer",
+  "name": "Piedmont Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

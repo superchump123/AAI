@@ -1,0 +1,11 @@
+{
+  "id": "311fc248-ad0c-4294-b03d-6c1785b39963",
+  "object": "beer",
+  "name": "Mother Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

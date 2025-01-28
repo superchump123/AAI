@@ -1,0 +1,11 @@
+{
+  "id": "a5a3b587-406d-4aa8-9e99-e2dc2b12e849",
+  "object": "beer",
+  "name": "WBC Shiva",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

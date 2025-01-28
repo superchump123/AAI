@@ -1,0 +1,11 @@
+{
+  "id": "85063a6b-233d-40d8-9037-9c669cc05af6",
+  "object": "beer",
+  "name": "Biere du Desert",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

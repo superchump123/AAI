@@ -1,0 +1,11 @@
+{
+  "id": "1977520f-4eab-4a7b-89e4-8c7c343a2602",
+  "object": "beer",
+  "name": "21st Birthday IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

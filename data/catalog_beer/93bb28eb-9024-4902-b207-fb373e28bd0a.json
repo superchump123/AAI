@@ -1,0 +1,11 @@
+{
+  "id": "93bb28eb-9024-4902-b207-fb373e28bd0a",
+  "object": "beer",
+  "name": "Green Islands",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

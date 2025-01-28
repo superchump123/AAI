@@ -1,0 +1,11 @@
+{
+  "id": "57b50146-5cf1-483b-ae1a-b2eaaee1f3aa",
+  "object": "beer",
+  "name": "Hazeshift",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

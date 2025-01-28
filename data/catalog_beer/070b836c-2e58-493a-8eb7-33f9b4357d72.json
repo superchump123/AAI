@@ -1,0 +1,11 @@
+{
+  "id": "070b836c-2e58-493a-8eb7-33f9b4357d72",
+  "object": "beer",
+  "name": "Midnight Ryder",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

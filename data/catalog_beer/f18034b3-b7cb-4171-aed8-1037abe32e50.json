@@ -1,0 +1,11 @@
+{
+  "id": "f18034b3-b7cb-4171-aed8-1037abe32e50",
+  "object": "beer",
+  "name": "Tower 23",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "03b7c612-9551-4e8f-b788-9914b96b515f",
+  "object": "beer",
+  "name": "October Cadis Oktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "be6a8949-67bc-4bab-a9c4-2dfc7bdf1d8f",
+  "object": "beer",
+  "name": "Duzer",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

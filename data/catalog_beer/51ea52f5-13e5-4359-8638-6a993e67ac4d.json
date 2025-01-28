@@ -1,0 +1,11 @@
+{
+  "id": "51ea52f5-13e5-4359-8638-6a993e67ac4d",
+  "object": "beer",
+  "name": "Danimal",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

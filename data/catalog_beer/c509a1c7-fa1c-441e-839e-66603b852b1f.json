@@ -1,0 +1,11 @@
+{
+  "id": "c509a1c7-fa1c-441e-839e-66603b852b1f",
+  "object": "beer",
+  "name": "Cheeseburger Cavalry",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6bf1ec81-45a5-4677-8e94-cde3a916f3ab",
+  "object": "beer",
+  "name": "Blossom Trail",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

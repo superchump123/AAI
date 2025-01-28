@@ -1,0 +1,11 @@
+{
+  "id": "10ced2a0-035a-4e10-9f92-6a2ed1bef625",
+  "object": "beer",
+  "name": "Saranac White IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

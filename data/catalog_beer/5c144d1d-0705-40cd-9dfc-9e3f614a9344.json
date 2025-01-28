@@ -1,0 +1,11 @@
+{
+  "id": "5c144d1d-0705-40cd-9dfc-9e3f614a9344",
+  "object": "beer",
+  "name": "Papier",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 14.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

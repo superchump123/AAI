@@ -1,0 +1,11 @@
+{
+  "id": "b912db4a-871d-4da0-830b-4dc651538416",
+  "object": "beer",
+  "name": "Liquid Crystal",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

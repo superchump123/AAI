@@ -1,0 +1,11 @@
+{
+  "id": "7ae538a3-ba5b-4f02-a274-54fdbcb7149e",
+  "object": "beer",
+  "name": "Baby Huemey",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

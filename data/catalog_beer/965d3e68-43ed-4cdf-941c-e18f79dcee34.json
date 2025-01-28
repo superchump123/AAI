@@ -1,0 +1,11 @@
+{
+  "id": "965d3e68-43ed-4cdf-941c-e18f79dcee34",
+  "object": "beer",
+  "name": "Good Ol\u2019 Boy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

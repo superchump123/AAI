@@ -1,0 +1,11 @@
+{
+  "id": "73895784-42b7-4b6a-823a-141224f66d64",
+  "object": "beer",
+  "name": "Hazel",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

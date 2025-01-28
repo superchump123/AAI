@@ -1,0 +1,11 @@
+{
+  "id": "5d2ca72a-4ed0-462a-b5bb-fad6a59eff6c",
+  "object": "beer",
+  "name": "Kasteel Raspbarista",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

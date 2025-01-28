@@ -1,0 +1,11 @@
+{
+  "id": "db3fd339-d55d-47ca-a5c0-68252424f7a9",
+  "object": "beer",
+  "name": "Copper Cone Pale Ale Release #9",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

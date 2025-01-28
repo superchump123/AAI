@@ -1,0 +1,11 @@
+{
+  "id": "861f6bf1-d15c-488a-a90b-c53e429fd7a0",
+  "object": "beer",
+  "name": "Valley Junction",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

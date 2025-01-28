@@ -1,0 +1,11 @@
+{
+  "id": "d19ae5d7-7bd5-4617-b902-36cdcf3b000b",
+  "object": "beer",
+  "name": "Dominican Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "43eae0cf-6570-4477-8b67-472223bd327f",
+  "object": "beer",
+  "name": "Savour Moderation",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

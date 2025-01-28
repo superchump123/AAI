@@ -1,0 +1,11 @@
+{
+  "id": "ec648929-ad88-4f11-801a-dd81693b1d71",
+  "object": "beer",
+  "name": "IPL",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

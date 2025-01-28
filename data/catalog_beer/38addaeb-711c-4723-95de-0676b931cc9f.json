@@ -1,0 +1,11 @@
+{
+  "id": "38addaeb-711c-4723-95de-0676b931cc9f",
+  "object": "beer",
+  "name": "Snozzberries",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

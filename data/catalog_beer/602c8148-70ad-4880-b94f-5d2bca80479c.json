@@ -1,0 +1,11 @@
+{
+  "id": "602c8148-70ad-4880-b94f-5d2bca80479c",
+  "object": "beer",
+  "name": "Libertas",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3048c5ee-e668-4890-b15b-2d2413011c13",
+  "object": "beer",
+  "name": "Hop Dropper",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

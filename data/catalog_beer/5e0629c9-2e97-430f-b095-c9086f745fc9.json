@@ -1,0 +1,11 @@
+{
+  "id": "5e0629c9-2e97-430f-b095-c9086f745fc9",
+  "object": "beer",
+  "name": "Export Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

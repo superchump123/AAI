@@ -1,0 +1,11 @@
+{
+  "id": "3b9cc0b6-e7b1-44f7-b127-74fb7de6895b",
+  "object": "beer",
+  "name": "Nahual Tlaxcallan",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

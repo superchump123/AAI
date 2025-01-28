@@ -1,0 +1,11 @@
+{
+  "id": "290b947c-5120-45a8-a700-3235e0f379b6",
+  "object": "beer",
+  "name": "Aston Bitter & Dabinett",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

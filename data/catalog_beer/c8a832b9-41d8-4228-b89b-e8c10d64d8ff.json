@@ -1,0 +1,11 @@
+{
+  "id": "c8a832b9-41d8-4228-b89b-e8c10d64d8ff",
+  "object": "beer",
+  "name": "Good Dog Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

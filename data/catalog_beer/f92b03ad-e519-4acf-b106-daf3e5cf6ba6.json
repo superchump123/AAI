@@ -1,0 +1,11 @@
+{
+  "id": "f92b03ad-e519-4acf-b106-daf3e5cf6ba6",
+  "object": "beer",
+  "name": "Slip of the Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

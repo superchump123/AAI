@@ -1,0 +1,11 @@
+{
+  "id": "78c65c43-4f2b-46f0-9aab-b03ccbe60378",
+  "object": "beer",
+  "name": "Soft-Serv",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

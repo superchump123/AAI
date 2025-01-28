@@ -1,0 +1,11 @@
+{
+  "id": "4d35e78a-832a-49b1-b3b8-0ddf2eeca851",
+  "object": "beer",
+  "name": "Intergalactic",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 84,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

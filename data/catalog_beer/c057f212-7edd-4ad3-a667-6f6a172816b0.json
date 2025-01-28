@@ -1,0 +1,11 @@
+{
+  "id": "c057f212-7edd-4ad3-a667-6f6a172816b0",
+  "object": "beer",
+  "name": "Ode to Citra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

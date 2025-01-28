@@ -1,0 +1,11 @@
+{
+  "id": "8b0196b0-92f9-4d97-b287-c5d6672ae98b",
+  "object": "beer",
+  "name": "Artisanal Belgian Brown",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

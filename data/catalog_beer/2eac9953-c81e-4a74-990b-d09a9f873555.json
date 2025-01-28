@@ -1,0 +1,11 @@
+{
+  "id": "2eac9953-c81e-4a74-990b-d09a9f873555",
+  "object": "beer",
+  "name": "Beyond The Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

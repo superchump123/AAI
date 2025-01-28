@@ -1,0 +1,11 @@
+{
+  "id": "72decaca-f773-4f8e-b243-7886b1d85168",
+  "object": "beer",
+  "name": "Slow Ride",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

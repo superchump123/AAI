@@ -1,0 +1,11 @@
+{
+  "id": "caa62e47-7159-4a5b-8206-636389bca46f",
+  "object": "beer",
+  "name": "Celebration!",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

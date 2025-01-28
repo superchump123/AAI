@@ -1,0 +1,11 @@
+{
+  "id": "14f8d9f3-e3f9-4887-ad54-bf29158b219d",
+  "object": "beer",
+  "name": "I.Porter.A",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9d3def47-5550-4ab7-8a08-69a164d8b106",
+  "object": "beer",
+  "name": "Originaal",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

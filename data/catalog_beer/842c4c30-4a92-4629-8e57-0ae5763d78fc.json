@@ -1,0 +1,11 @@
+{
+  "id": "842c4c30-4a92-4629-8e57-0ae5763d78fc",
+  "object": "beer",
+  "name": "Mad Meg",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

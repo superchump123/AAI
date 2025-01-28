@@ -1,0 +1,11 @@
+{
+  "id": "c8b055d2-9664-4352-925f-797cbc901df3",
+  "object": "beer",
+  "name": "Winter",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

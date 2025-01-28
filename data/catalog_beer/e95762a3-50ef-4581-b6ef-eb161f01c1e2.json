@@ -1,0 +1,11 @@
+{
+  "id": "e95762a3-50ef-4581-b6ef-eb161f01c1e2",
+  "object": "beer",
+  "name": "Boho Rye",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5165f67a-15c8-44e3-953e-f47b0a0ea127",
+  "object": "beer",
+  "name": "Arose",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

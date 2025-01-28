@@ -1,0 +1,11 @@
+{
+  "id": "c6639906-cb06-4b6b-a933-4fd34cf79d7f",
+  "object": "beer",
+  "name": "Chiron",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

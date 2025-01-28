@@ -1,0 +1,11 @@
+{
+  "id": "31c41924-af0d-4689-bed4-93aac2e4c657",
+  "object": "beer",
+  "name": "Bitter",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

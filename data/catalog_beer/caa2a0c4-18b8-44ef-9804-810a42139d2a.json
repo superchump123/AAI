@@ -1,0 +1,11 @@
+{
+  "id": "caa2a0c4-18b8-44ef-9804-810a42139d2a",
+  "object": "beer",
+  "name": "Black Sun Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

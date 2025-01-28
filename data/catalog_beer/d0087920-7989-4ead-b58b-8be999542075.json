@@ -1,0 +1,11 @@
+{
+  "id": "d0087920-7989-4ead-b58b-8be999542075",
+  "object": "beer",
+  "name": "French Aramis",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

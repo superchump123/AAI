@@ -1,0 +1,11 @@
+{
+  "id": "785098ef-4e8e-4603-a235-ee848ad473e7",
+  "object": "beer",
+  "name": "Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

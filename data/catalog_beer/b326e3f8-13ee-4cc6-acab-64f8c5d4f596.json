@@ -1,0 +1,11 @@
+{
+  "id": "b326e3f8-13ee-4cc6-acab-64f8c5d4f596",
+  "object": "beer",
+  "name": "Great Eastern India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

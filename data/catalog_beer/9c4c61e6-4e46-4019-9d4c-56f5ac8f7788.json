@@ -1,0 +1,11 @@
+{
+  "id": "9c4c61e6-4e46-4019-9d4c-56f5ac8f7788",
+  "object": "beer",
+  "name": "Barb's Barrel",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

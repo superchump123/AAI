@@ -1,0 +1,11 @@
+{
+  "id": "0d1797e5-e0f6-43e7-8138-cf98fb55ca91",
+  "object": "beer",
+  "name": "West Coast IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

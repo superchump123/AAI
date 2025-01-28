@@ -1,0 +1,11 @@
+{
+  "id": "fd913b43-73f6-4e2a-a593-c6e4c882542d",
+  "object": "beer",
+  "name": "Madtown Mule",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40cd6700-59b1-4956-931e-e95b3b251397",
+  "object": "beer",
+  "name": "Domaine DuPage",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

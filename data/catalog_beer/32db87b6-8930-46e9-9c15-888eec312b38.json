@@ -1,0 +1,11 @@
+{
+  "id": "32db87b6-8930-46e9-9c15-888eec312b38",
+  "object": "beer",
+  "name": "Tropic King",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

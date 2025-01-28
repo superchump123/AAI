@@ -1,0 +1,11 @@
+{
+  "id": "1dcf73f1-a56e-4e3c-b210-376415cc20c9",
+  "object": "beer",
+  "name": "Beans' Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

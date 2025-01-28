@@ -1,0 +1,11 @@
+{
+  "id": "68e24a0c-8fe8-40d7-aeaf-4219027fc2b5",
+  "object": "beer",
+  "name": "Push Reel",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

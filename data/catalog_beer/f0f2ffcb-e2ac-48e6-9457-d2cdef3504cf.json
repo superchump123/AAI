@@ -1,0 +1,11 @@
+{
+  "id": "f0f2ffcb-e2ac-48e6-9457-d2cdef3504cf",
+  "object": "beer",
+  "name": "Raspberry Tambois",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

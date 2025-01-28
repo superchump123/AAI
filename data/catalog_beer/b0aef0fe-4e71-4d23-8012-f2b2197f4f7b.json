@@ -1,0 +1,11 @@
+{
+  "id": "b0aef0fe-4e71-4d23-8012-f2b2197f4f7b",
+  "object": "beer",
+  "name": "Gneiss IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

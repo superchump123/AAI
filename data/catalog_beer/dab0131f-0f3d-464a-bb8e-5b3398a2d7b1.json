@@ -1,0 +1,11 @@
+{
+  "id": "dab0131f-0f3d-464a-bb8e-5b3398a2d7b1",
+  "object": "beer",
+  "name": "Moral Compass",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

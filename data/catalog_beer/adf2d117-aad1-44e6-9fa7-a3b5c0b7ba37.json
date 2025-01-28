@@ -1,0 +1,11 @@
+{
+  "id": "adf2d117-aad1-44e6-9fa7-a3b5c0b7ba37",
+  "object": "beer",
+  "name": "Drink Well Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

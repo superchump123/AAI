@@ -1,0 +1,11 @@
+{
+  "id": "2ddc8268-6ed8-4f8b-8de9-a2d816c6e853",
+  "object": "beer",
+  "name": "Commodore Perry with Grapefruit Peel",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8ebe6a66-6601-45c8-ac9b-d181fff3abc4",
+  "object": "beer",
+  "name": "Last and Final Judgement",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "31622e66-2594-417d-8d57-582b30b26057",
+  "object": "beer",
+  "name": "Screeching Otter DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 155,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

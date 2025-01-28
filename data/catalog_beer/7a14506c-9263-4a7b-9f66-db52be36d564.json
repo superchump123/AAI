@@ -1,0 +1,11 @@
+{
+  "id": "7a14506c-9263-4a7b-9f66-db52be36d564",
+  "object": "beer",
+  "name": "Schimpf Krone Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

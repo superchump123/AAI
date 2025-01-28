@@ -1,0 +1,11 @@
+{
+  "id": "8b1748de-32b4-43f1-aa33-e0f9227702a6",
+  "object": "beer",
+  "name": "Interloper Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

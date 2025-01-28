@@ -1,0 +1,11 @@
+{
+  "id": "5e999180-06ce-4f4a-8682-ebe02fb322f5",
+  "object": "beer",
+  "name": "Belfast Black",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

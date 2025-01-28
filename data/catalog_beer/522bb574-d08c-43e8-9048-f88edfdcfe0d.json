@@ -1,0 +1,11 @@
+{
+  "id": "522bb574-d08c-43e8-9048-f88edfdcfe0d",
+  "object": "beer",
+  "name": "Hassle Hop Pale Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

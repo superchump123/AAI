@@ -1,0 +1,11 @@
+{
+  "id": "57531c10-095d-4fb0-b692-a19f8c4ed17e",
+  "object": "beer",
+  "name": "Honest Abe Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

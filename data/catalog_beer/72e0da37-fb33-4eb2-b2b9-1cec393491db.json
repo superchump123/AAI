@@ -1,0 +1,11 @@
+{
+  "id": "72e0da37-fb33-4eb2-b2b9-1cec393491db",
+  "object": "beer",
+  "name": "Liquid Spiritual Delight (Blueprint Coffee)",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

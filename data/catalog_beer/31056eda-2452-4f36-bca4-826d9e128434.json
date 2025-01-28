@@ -1,0 +1,11 @@
+{
+  "id": "31056eda-2452-4f36-bca4-826d9e128434",
+  "object": "beer",
+  "name": "Curious Apple",
+  "style": "English Cider",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

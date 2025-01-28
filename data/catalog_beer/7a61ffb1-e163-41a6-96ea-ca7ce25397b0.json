@@ -1,0 +1,11 @@
+{
+  "id": "7a61ffb1-e163-41a6-96ea-ca7ce25397b0",
+  "object": "beer",
+  "name": "Deadhead APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

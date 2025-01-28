@@ -1,0 +1,11 @@
+{
+  "id": "bd4fb6a6-9d84-4934-a668-e2fccf8aabb3",
+  "object": "beer",
+  "name": "Green Chile Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

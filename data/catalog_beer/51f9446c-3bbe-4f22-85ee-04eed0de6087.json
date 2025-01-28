@@ -1,0 +1,11 @@
+{
+  "id": "51f9446c-3bbe-4f22-85ee-04eed0de6087",
+  "object": "beer",
+  "name": "Carnie Fire",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

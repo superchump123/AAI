@@ -1,0 +1,11 @@
+{
+  "id": "f4ce0ccc-5ab3-42d2-ae0a-0043f6c3cd2b",
+  "object": "beer",
+  "name": "Gold Fever",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

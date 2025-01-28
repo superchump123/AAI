@@ -1,0 +1,11 @@
+{
+  "id": "2abd5fa3-6a52-4e9f-b679-967378c06c08",
+  "object": "beer",
+  "name": "Butty Bach",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

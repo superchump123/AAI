@@ -1,0 +1,11 @@
+{
+  "id": "6de3bbb6-e492-4846-9782-8f23bfc2d324",
+  "object": "beer",
+  "name": "No S'more Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

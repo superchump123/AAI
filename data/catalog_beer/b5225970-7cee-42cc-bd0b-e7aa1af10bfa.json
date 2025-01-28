@@ -1,0 +1,11 @@
+{
+  "id": "b5225970-7cee-42cc-bd0b-e7aa1af10bfa",
+  "object": "beer",
+  "name": "Royal Tennenbaum Christmas Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

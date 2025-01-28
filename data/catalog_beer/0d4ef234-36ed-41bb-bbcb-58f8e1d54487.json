@@ -1,0 +1,11 @@
+{
+  "id": "0d4ef234-36ed-41bb-bbcb-58f8e1d54487",
+  "object": "beer",
+  "name": "Guava Grove",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "30ecd31c-902f-40d0-ac98-e9fbbf651234",
+  "object": "beer",
+  "name": "Vintage Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

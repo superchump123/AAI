@@ -1,0 +1,11 @@
+{
+  "id": "ac84f705-5323-48ed-9041-0106fb0b9e10",
+  "object": "beer",
+  "name": "Mandarina Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

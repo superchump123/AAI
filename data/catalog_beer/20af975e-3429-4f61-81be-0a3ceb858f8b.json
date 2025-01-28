@@ -1,0 +1,11 @@
+{
+  "id": "20af975e-3429-4f61-81be-0a3ceb858f8b",
+  "object": "beer",
+  "name": "Sonnebahn Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

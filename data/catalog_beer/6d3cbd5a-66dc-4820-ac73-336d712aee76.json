@@ -1,0 +1,11 @@
+{
+  "id": "6d3cbd5a-66dc-4820-ac73-336d712aee76",
+  "object": "beer",
+  "name": "Barrel Aged Black Hawk Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

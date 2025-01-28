@@ -1,0 +1,11 @@
+{
+  "id": "e139f68f-f99f-4d72-a5bd-959c2aa09c73",
+  "object": "beer",
+  "name": "Winter Warmer",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

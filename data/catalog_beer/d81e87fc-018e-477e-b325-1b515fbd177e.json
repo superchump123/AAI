@@ -1,0 +1,11 @@
+{
+  "id": "d81e87fc-018e-477e-b325-1b515fbd177e",
+  "object": "beer",
+  "name": "Batch 10,000",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

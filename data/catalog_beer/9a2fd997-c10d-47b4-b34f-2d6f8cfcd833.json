@@ -1,0 +1,11 @@
+{
+  "id": "9a2fd997-c10d-47b4-b34f-2d6f8cfcd833",
+  "object": "beer",
+  "name": "Black Venom",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9b07251e-c7c2-4a31-9cc6-397d93d1947c",
+  "object": "beer",
+  "name": "Belly of the Beast",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

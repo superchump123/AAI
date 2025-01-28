@@ -1,0 +1,11 @@
+{
+  "id": "d50cdf64-10e2-4e29-ae63-3e086ca6a22a",
+  "object": "beer",
+  "name": "St. Festivus",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

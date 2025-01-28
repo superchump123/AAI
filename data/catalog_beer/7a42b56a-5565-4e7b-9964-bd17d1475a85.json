@@ -1,0 +1,11 @@
+{
+  "id": "7a42b56a-5565-4e7b-9964-bd17d1475a85",
+  "object": "beer",
+  "name": "Harimanna Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

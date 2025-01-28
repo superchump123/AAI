@@ -1,0 +1,11 @@
+{
+  "id": "ff212558-0ad4-478f-934f-a3e4d8e46a0b",
+  "object": "beer",
+  "name": "X-4",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

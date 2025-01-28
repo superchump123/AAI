@@ -1,0 +1,11 @@
+{
+  "id": "2e45fc67-d0ff-491d-95e0-fabbd5b47bfa",
+  "object": "beer",
+  "name": "Imperial Butternut Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ef9aa98e-66fe-4863-829e-e4e5fdb2f6f7",
+  "object": "beer",
+  "name": "Imperial Premiant",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

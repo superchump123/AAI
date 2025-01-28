@@ -1,0 +1,11 @@
+{
+  "id": "ae79a7a3-3f14-4f86-a002-6b765befb908",
+  "object": "beer",
+  "name": "Pop 'N' L'Oktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

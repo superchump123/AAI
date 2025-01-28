@@ -1,0 +1,11 @@
+{
+  "id": "6caf7609-8bc5-46bb-94da-46f7b0ba1cb1",
+  "object": "beer",
+  "name": "Indian Runner",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

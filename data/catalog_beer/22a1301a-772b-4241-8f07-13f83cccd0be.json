@@ -1,0 +1,11 @@
+{
+  "id": "22a1301a-772b-4241-8f07-13f83cccd0be",
+  "object": "beer",
+  "name": "Kirin Ichiban",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

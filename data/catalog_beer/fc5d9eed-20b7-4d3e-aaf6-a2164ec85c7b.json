@@ -1,0 +1,11 @@
+{
+  "id": "fc5d9eed-20b7-4d3e-aaf6-a2164ec85c7b",
+  "object": "beer",
+  "name": "Pyrus",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

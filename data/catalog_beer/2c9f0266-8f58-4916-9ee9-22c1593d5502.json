@@ -1,0 +1,11 @@
+{
+  "id": "2c9f0266-8f58-4916-9ee9-22c1593d5502",
+  "object": "beer",
+  "name": "Mangy Rabbit",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

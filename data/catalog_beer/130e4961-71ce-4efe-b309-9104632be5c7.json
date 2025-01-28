@@ -1,0 +1,11 @@
+{
+  "id": "130e4961-71ce-4efe-b309-9104632be5c7",
+  "object": "beer",
+  "name": "Heartland Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

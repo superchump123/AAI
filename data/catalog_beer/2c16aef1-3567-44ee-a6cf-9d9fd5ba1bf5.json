@@ -1,0 +1,11 @@
+{
+  "id": "2c16aef1-3567-44ee-a6cf-9d9fd5ba1bf5",
+  "object": "beer",
+  "name": "Red Pig Mexican Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

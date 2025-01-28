@@ -1,0 +1,11 @@
+{
+  "id": "0aa699ed-bfc7-4c9e-a219-dc547e8981d1",
+  "object": "beer",
+  "name": "Single Hop Columbus IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

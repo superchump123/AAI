@@ -1,0 +1,11 @@
+{
+  "id": "8eca392d-73f8-4505-b510-a15665d5ad6e",
+  "object": "beer",
+  "name": "Naughty Marilyn",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

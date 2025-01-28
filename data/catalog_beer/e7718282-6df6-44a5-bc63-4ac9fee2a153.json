@@ -1,0 +1,11 @@
+{
+  "id": "e7718282-6df6-44a5-bc63-4ac9fee2a153",
+  "object": "beer",
+  "name": "Pigs Might Fly",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ad8a1f5b-5a87-4875-bdef-990082e3ba09",
+  "object": "beer",
+  "name": "Three Kord Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

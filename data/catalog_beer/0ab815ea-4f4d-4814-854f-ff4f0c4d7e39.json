@@ -1,0 +1,11 @@
+{
+  "id": "0ab815ea-4f4d-4814-854f-ff4f0c4d7e39",
+  "object": "beer",
+  "name": "Mason Brook",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "764e470b-dd05-41eb-94fb-f2af58a69511",
+  "object": "beer",
+  "name": "Dubbelicious",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

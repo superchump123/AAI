@@ -1,0 +1,11 @@
+{
+  "id": "c602faca-20d3-4f55-987d-784bb251a312",
+  "object": "beer",
+  "name": "William the Butcher",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8bb6a70d-7c1b-4893-8ef7-e64518d38295",
+  "object": "beer",
+  "name": "ACE Pineapple Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

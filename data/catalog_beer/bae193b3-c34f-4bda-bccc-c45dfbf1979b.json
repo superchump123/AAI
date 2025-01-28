@@ -1,0 +1,11 @@
+{
+  "id": "bae193b3-c34f-4bda-bccc-c45dfbf1979b",
+  "object": "beer",
+  "name": "Fat Jack",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

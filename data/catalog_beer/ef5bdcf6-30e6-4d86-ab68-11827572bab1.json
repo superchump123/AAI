@@ -1,0 +1,11 @@
+{
+  "id": "ef5bdcf6-30e6-4d86-ab68-11827572bab1",
+  "object": "beer",
+  "name": "Papa Burgundy",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "44a410d3-8944-41ca-8989-d74dbe7606ef",
+  "object": "beer",
+  "name": "Karlsberg Urpils Light",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

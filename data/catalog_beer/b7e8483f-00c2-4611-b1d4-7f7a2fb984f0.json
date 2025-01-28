@@ -1,0 +1,11 @@
+{
+  "id": "b7e8483f-00c2-4611-b1d4-7f7a2fb984f0",
+  "object": "beer",
+  "name": "The Palisade Wasp",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

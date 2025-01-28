@@ -1,0 +1,11 @@
+{
+  "id": "7c285ff6-e522-4c60-9cb2-c5469abbe643",
+  "object": "beer",
+  "name": "Eternal",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

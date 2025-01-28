@@ -1,0 +1,11 @@
+{
+  "id": "1320ed96-c756-44bc-aa24-5d3d83f7e19b",
+  "object": "beer",
+  "name": "India Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

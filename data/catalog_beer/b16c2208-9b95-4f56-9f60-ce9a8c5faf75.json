@@ -1,0 +1,11 @@
+{
+  "id": "b16c2208-9b95-4f56-9f60-ce9a8c5faf75",
+  "object": "beer",
+  "name": "Hindb\u00e6r Trippel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

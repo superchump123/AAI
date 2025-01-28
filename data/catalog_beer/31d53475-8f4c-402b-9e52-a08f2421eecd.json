@@ -1,0 +1,11 @@
+{
+  "id": "31d53475-8f4c-402b-9e52-a08f2421eecd",
+  "object": "beer",
+  "name": "Galaxy Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

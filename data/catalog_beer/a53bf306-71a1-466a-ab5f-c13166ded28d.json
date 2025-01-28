@@ -1,0 +1,11 @@
+{
+  "id": "a53bf306-71a1-466a-ab5f-c13166ded28d",
+  "object": "beer",
+  "name": "Greyrock GF",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

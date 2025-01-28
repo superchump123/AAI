@@ -1,0 +1,11 @@
+{
+  "id": "71eee1a0-dd7f-4c8e-bae1-3e5c45fc3a43",
+  "object": "beer",
+  "name": "Guinevere's Golden Belgian Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

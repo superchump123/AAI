@@ -1,0 +1,11 @@
+{
+  "id": "3bb85cf6-ee87-4ab7-9112-1aee6f80704c",
+  "object": "beer",
+  "name": "Tripel Entendre",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

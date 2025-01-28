@@ -1,0 +1,11 @@
+{
+  "id": "2a941571-3932-48f3-b6c3-f53f90bcaebb",
+  "object": "beer",
+  "name": "Tiramasu Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "05b44a6c-6609-433c-8d67-45be48ae17ad",
+  "object": "beer",
+  "name": "508 Belgian Dark Strong Ale",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

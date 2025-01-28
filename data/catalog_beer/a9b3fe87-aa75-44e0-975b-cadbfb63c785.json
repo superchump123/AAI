@@ -1,0 +1,11 @@
+{
+  "id": "a9b3fe87-aa75-44e0-975b-cadbfb63c785",
+  "object": "beer",
+  "name": "Batch 420",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

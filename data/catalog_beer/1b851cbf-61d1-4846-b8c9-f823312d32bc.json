@@ -1,0 +1,11 @@
+{
+  "id": "1b851cbf-61d1-4846-b8c9-f823312d32bc",
+  "object": "beer",
+  "name": "Imperial Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

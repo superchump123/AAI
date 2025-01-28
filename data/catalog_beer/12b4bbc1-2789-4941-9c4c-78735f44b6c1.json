@@ -1,0 +1,11 @@
+{
+  "id": "12b4bbc1-2789-4941-9c4c-78735f44b6c1",
+  "object": "beer",
+  "name": "Chokecherry Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4af34b66-de13-4f3b-9481-97f36b0245de",
+  "object": "beer",
+  "name": "Scharer's Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e177947d-f42c-4e8e-a14a-ff5aad6d4f47",
+  "object": "beer",
+  "name": "Orange Peelsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

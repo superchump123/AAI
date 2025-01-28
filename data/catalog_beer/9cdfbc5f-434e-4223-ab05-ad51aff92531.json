@@ -1,0 +1,11 @@
+{
+  "id": "9cdfbc5f-434e-4223-ab05-ad51aff92531",
+  "object": "beer",
+  "name": "Eeek!",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

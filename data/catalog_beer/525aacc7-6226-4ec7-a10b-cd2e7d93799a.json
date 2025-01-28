@@ -1,0 +1,11 @@
+{
+  "id": "525aacc7-6226-4ec7-a10b-cd2e7d93799a",
+  "object": "beer",
+  "name": "Bourbon Barrel Deliverance",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 14.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

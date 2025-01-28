@@ -1,0 +1,11 @@
+{
+  "id": "2339d486-cb7b-4f4e-be60-3a8663573646",
+  "object": "beer",
+  "name": "Equinox DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

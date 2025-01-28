@@ -1,0 +1,11 @@
+{
+  "id": "da1f3988-b601-44fd-a563-8c0336d6d09e",
+  "object": "beer",
+  "name": "Resin",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 103,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

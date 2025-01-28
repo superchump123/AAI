@@ -1,0 +1,11 @@
+{
+  "id": "90ebea0e-da45-4aa2-a8a5-16acbde4bb51",
+  "object": "beer",
+  "name": "Claudia",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

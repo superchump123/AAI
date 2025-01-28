@@ -1,0 +1,11 @@
+{
+  "id": "e9fb473c-7186-4d59-bbfe-9e0f3931dfa5",
+  "object": "beer",
+  "name": "Caitlin",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

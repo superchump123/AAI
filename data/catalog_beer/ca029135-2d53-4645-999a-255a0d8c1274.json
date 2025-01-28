@@ -1,0 +1,11 @@
+{
+  "id": "ca029135-2d53-4645-999a-255a0d8c1274",
+  "object": "beer",
+  "name": "Anniversary Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

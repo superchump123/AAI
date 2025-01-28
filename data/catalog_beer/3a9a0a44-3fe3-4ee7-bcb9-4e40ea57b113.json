@@ -1,0 +1,11 @@
+{
+  "id": "3a9a0a44-3fe3-4ee7-bcb9-4e40ea57b113",
+  "object": "beer",
+  "name": "Gouden Carolus Blauw",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

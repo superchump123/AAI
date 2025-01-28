@@ -1,0 +1,11 @@
+{
+  "id": "1acd4cdd-74b7-46fa-86c9-cb6142b3373a",
+  "object": "beer",
+  "name": "Gr8ful Anniversary Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

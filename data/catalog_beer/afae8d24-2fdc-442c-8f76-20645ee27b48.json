@@ -1,0 +1,11 @@
+{
+  "id": "afae8d24-2fdc-442c-8f76-20645ee27b48",
+  "object": "beer",
+  "name": "Illusive Traveler",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

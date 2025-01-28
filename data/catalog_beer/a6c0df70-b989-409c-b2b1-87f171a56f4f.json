@@ -1,0 +1,11 @@
+{
+  "id": "a6c0df70-b989-409c-b2b1-87f171a56f4f",
+  "object": "beer",
+  "name": "Mr. Todd's",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

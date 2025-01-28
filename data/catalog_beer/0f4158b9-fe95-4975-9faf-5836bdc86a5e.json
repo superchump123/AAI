@@ -1,0 +1,11 @@
+{
+  "id": "0f4158b9-fe95-4975-9faf-5836bdc86a5e",
+  "object": "beer",
+  "name": "The Highwayman",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

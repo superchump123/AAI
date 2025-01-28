@@ -1,0 +1,11 @@
+{
+  "id": "c68f6279-fbc8-45bc-9998-8fba7caa32f5",
+  "object": "beer",
+  "name": "Peanut Butter Beer",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bf7d27cf-d3bd-46f9-b6ff-37a17ae82b1a",
+  "object": "beer",
+  "name": "Space Rock",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

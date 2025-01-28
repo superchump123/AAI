@@ -1,0 +1,11 @@
+{
+  "id": "e78283cc-8b46-4b7c-bc7b-0385525144a0",
+  "object": "beer",
+  "name": "Ridewitme",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

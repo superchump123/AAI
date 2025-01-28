@@ -1,0 +1,11 @@
+{
+  "id": "314bc37e-e6f8-47f7-b1ec-2b80320a91de",
+  "object": "beer",
+  "name": "Porter Square Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8e4e299d-d4d5-44a4-bf70-b04f046234d8",
+  "object": "beer",
+  "name": "Roger's Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

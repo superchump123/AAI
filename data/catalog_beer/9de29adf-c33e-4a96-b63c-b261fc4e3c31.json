@@ -1,0 +1,11 @@
+{
+  "id": "9de29adf-c33e-4a96-b63c-b261fc4e3c31",
+  "object": "beer",
+  "name": "Hop Brownie",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

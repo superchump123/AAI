@@ -1,0 +1,11 @@
+{
+  "id": "cd6e6929-2679-4821-901d-e23c6c25754b",
+  "object": "beer",
+  "name": "Enkel Biter",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

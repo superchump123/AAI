@@ -1,0 +1,11 @@
+{
+  "id": "c5fe778a-25cb-437d-a72a-4a0f0aa3572f",
+  "object": "beer",
+  "name": "Breeches ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "82b4139d-a886-4782-8637-93ad95072cf5",
+  "object": "beer",
+  "name": "Teddy",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

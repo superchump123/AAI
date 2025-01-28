@@ -1,0 +1,11 @@
+{
+  "id": "723e7356-4ad0-4299-8f3c-34efcbb1c89e",
+  "object": "beer",
+  "name": "Jackhammer Old Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

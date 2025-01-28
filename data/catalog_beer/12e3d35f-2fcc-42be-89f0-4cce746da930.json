@@ -1,0 +1,11 @@
+{
+  "id": "12e3d35f-2fcc-42be-89f0-4cce746da930",
+  "object": "beer",
+  "name": "Caledonia Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

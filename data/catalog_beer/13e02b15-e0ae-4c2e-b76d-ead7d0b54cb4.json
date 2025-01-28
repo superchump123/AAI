@@ -1,0 +1,11 @@
+{
+  "id": "13e02b15-e0ae-4c2e-b76d-ead7d0b54cb4",
+  "object": "beer",
+  "name": "Pinacate",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

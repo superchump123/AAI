@@ -1,0 +1,11 @@
+{
+  "id": "2a220060-378e-4693-8c43-238c3dd118d7",
+  "object": "beer",
+  "name": "M-43 Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

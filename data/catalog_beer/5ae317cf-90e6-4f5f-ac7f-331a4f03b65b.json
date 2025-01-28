@@ -1,0 +1,11 @@
+{
+  "id": "5ae317cf-90e6-4f5f-ac7f-331a4f03b65b",
+  "object": "beer",
+  "name": "Mean Manalishi Double I.P.A.",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 168,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

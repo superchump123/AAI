@@ -1,0 +1,11 @@
+{
+  "id": "66635f29-ec82-43cf-b75e-0ad4a304c0df",
+  "object": "beer",
+  "name": "Shenanigan's",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

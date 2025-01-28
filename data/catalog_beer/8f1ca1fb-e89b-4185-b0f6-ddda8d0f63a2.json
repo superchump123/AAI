@@ -1,0 +1,11 @@
+{
+  "id": "8f1ca1fb-e89b-4185-b0f6-ddda8d0f63a2",
+  "object": "beer",
+  "name": "Crosscut Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

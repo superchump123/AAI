@@ -1,0 +1,11 @@
+{
+  "id": "20fc3d27-cf0d-49d6-bf1a-ef920561734b",
+  "object": "beer",
+  "name": "Wee Muckle",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

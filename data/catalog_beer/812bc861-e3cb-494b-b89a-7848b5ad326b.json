@@ -1,0 +1,11 @@
+{
+  "id": "812bc861-e3cb-494b-b89a-7848b5ad326b",
+  "object": "beer",
+  "name": "Udderly Awesome",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

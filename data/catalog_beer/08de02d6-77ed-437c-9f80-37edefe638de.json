@@ -1,0 +1,11 @@
+{
+  "id": "08de02d6-77ed-437c-9f80-37edefe638de",
+  "object": "beer",
+  "name": "Golden XPA",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fc247f9e-3c99-4326-ae3e-772a15945646",
+  "object": "beer",
+  "name": "Whitest Bier Alive",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "388268e7-2806-495a-ba72-373bf9063f57",
+  "object": "beer",
+  "name": "NazionAle",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92fd8025-9d88-4b96-bdd2-4f5cc217a51a",
+  "object": "beer",
+  "name": "1850 Runner",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

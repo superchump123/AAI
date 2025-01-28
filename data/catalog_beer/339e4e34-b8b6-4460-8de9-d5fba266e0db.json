@@ -1,0 +1,11 @@
+{
+  "id": "339e4e34-b8b6-4460-8de9-d5fba266e0db",
+  "object": "beer",
+  "name": "American Summer Hoppy Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

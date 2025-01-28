@@ -1,0 +1,11 @@
+{
+  "id": "85c93ed9-1c47-456f-81a0-ccd6b852ac78",
+  "object": "beer",
+  "name": "Over the Rail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 86,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

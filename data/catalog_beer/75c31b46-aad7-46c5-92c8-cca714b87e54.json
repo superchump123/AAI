@@ -1,0 +1,11 @@
+{
+  "id": "75c31b46-aad7-46c5-92c8-cca714b87e54",
+  "object": "beer",
+  "name": "Heirloom Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

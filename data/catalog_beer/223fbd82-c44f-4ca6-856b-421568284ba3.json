@@ -1,0 +1,11 @@
+{
+  "id": "223fbd82-c44f-4ca6-856b-421568284ba3",
+  "object": "beer",
+  "name": "Sparks",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

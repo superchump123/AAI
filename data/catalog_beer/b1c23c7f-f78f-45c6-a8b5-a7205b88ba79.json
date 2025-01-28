@@ -1,0 +1,11 @@
+{
+  "id": "b1c23c7f-f78f-45c6-a8b5-a7205b88ba79",
+  "object": "beer",
+  "name": "20th Anniversary Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "301480ce-8906-455a-b970-4d3201775b55",
+  "object": "beer",
+  "name": "MFer",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

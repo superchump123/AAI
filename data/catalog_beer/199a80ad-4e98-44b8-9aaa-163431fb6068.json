@@ -1,0 +1,11 @@
+{
+  "id": "199a80ad-4e98-44b8-9aaa-163431fb6068",
+  "object": "beer",
+  "name": "Moravian Rhapsody",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

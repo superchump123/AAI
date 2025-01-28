@@ -1,0 +1,11 @@
+{
+  "id": "21eb5163-fcb3-4dfe-a2d4-b05c664bc15b",
+  "object": "beer",
+  "name": "Yankee Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

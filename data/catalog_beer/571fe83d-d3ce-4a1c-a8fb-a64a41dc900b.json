@@ -1,0 +1,11 @@
+{
+  "id": "571fe83d-d3ce-4a1c-a8fb-a64a41dc900b",
+  "object": "beer",
+  "name": "Spiced Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

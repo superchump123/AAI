@@ -1,0 +1,11 @@
+{
+  "id": "eb5a6ded-4e98-43dd-bde0-1a59e8cdb957",
+  "object": "beer",
+  "name": "Single Hop Simcoe",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

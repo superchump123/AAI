@@ -1,0 +1,11 @@
+{
+  "id": "e7714721-9ff1-41ec-8d8d-268b9398d415",
+  "object": "beer",
+  "name": "Acidulous Hop Trip",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

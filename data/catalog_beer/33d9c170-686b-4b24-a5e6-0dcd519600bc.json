@@ -1,0 +1,11 @@
+{
+  "id": "33d9c170-686b-4b24-a5e6-0dcd519600bc",
+  "object": "beer",
+  "name": "Rondy Brew",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

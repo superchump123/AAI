@@ -1,0 +1,11 @@
+{
+  "id": "c76d0693-2d83-4df6-8ea9-22114511a977",
+  "object": "beer",
+  "name": "Jack Knife",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

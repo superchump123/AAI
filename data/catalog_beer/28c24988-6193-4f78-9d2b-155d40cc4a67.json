@@ -1,0 +1,11 @@
+{
+  "id": "28c24988-6193-4f78-9d2b-155d40cc4a67",
+  "object": "beer",
+  "name": "Habanero King of Hop",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

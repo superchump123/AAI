@@ -1,0 +1,11 @@
+{
+  "id": "981ddff2-4ea7-4a05-ae16-722c133d8bae",
+  "object": "beer",
+  "name": "Bad Mo Faux",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

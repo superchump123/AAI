@@ -1,0 +1,11 @@
+{
+  "id": "5c652166-4ca4-445a-9024-71e3cde55642",
+  "object": "beer",
+  "name": "Rock Cut Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

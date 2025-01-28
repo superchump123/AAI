@@ -1,0 +1,11 @@
+{
+  "id": "2ab084f1-9190-4197-87f0-85652107b9e7",
+  "object": "beer",
+  "name": "Oatmeal Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

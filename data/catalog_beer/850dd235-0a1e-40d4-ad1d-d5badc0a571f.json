@@ -1,0 +1,11 @@
+{
+  "id": "850dd235-0a1e-40d4-ad1d-d5badc0a571f",
+  "object": "beer",
+  "name": "Weissbier",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

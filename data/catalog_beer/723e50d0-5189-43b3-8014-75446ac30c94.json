@@ -1,0 +1,11 @@
+{
+  "id": "723e50d0-5189-43b3-8014-75446ac30c94",
+  "object": "beer",
+  "name": "St. Bob's Imperial Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

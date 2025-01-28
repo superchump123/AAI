@@ -1,0 +1,11 @@
+{
+  "id": "1ef60101-b966-498e-ae3c-421fe09f81b6",
+  "object": "beer",
+  "name": "Hopstrike",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

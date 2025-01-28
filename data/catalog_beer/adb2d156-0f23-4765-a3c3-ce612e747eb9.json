@@ -1,0 +1,11 @@
+{
+  "id": "adb2d156-0f23-4765-a3c3-ce612e747eb9",
+  "object": "beer",
+  "name": "Imperial Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

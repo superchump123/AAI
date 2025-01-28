@@ -1,0 +1,11 @@
+{
+  "id": "6540e603-6c81-4727-a497-5d517b32f124",
+  "object": "beer",
+  "name": "Hazelnut Brown Nectar",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

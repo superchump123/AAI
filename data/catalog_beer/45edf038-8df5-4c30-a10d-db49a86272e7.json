@@ -1,0 +1,11 @@
+{
+  "id": "45edf038-8df5-4c30-a10d-db49a86272e7",
+  "object": "beer",
+  "name": "Heartbreaker",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

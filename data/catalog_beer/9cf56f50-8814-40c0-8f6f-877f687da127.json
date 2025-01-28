@@ -1,0 +1,11 @@
+{
+  "id": "9cf56f50-8814-40c0-8f6f-877f687da127",
+  "object": "beer",
+  "name": "Good Faith",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

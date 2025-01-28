@@ -1,0 +1,11 @@
+{
+  "id": "b9d8d411-19fd-4e09-a152-0a374d0d472f",
+  "object": "beer",
+  "name": "kvass",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

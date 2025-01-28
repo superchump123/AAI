@@ -1,0 +1,11 @@
+{
+  "id": "d989d3a2-b852-4325-82c0-87efad3a486b",
+  "object": "beer",
+  "name": "TriUmphant",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6299ad50-2d1c-4797-9965-e2af72d9a89a",
+  "object": "beer",
+  "name": "Vacuum",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

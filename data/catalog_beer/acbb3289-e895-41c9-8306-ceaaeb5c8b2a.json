@@ -1,0 +1,11 @@
+{
+  "id": "acbb3289-e895-41c9-8306-ceaaeb5c8b2a",
+  "object": "beer",
+  "name": "Lederhosen Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

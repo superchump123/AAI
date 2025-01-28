@@ -1,0 +1,11 @@
+{
+  "id": "2af285e4-563d-4087-90e8-4fa4d8bed7f4",
+  "object": "beer",
+  "name": "Boo Brew",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

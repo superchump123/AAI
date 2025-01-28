@@ -1,0 +1,11 @@
+{
+  "id": "5913ae7e-9858-4a0a-9a3f-9020310eec07",
+  "object": "beer",
+  "name": "Papaw's Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e87b5975-6cd5-4e3d-8adf-dec3b3d9f81c",
+  "object": "beer",
+  "name": "Kellen's Kilt",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

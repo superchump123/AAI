@@ -1,0 +1,11 @@
+{
+  "id": "a1d5e9c7-fa46-45d1-ab85-c25fada58cf9",
+  "object": "beer",
+  "name": "Oak Aged Faricy Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

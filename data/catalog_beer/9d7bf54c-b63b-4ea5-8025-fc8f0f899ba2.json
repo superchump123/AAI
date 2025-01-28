@@ -1,0 +1,11 @@
+{
+  "id": "9d7bf54c-b63b-4ea5-8025-fc8f0f899ba2",
+  "object": "beer",
+  "name": "Bonito",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

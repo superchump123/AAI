@@ -1,0 +1,11 @@
+{
+  "id": "f462b833-21e9-4e26-9f0c-4678b7a3ba5c",
+  "object": "beer",
+  "name": "Tripel  Squared",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

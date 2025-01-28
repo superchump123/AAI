@@ -1,0 +1,11 @@
+{
+  "id": "883cf222-dbc1-4716-991f-cb2710307a1a",
+  "object": "beer",
+  "name": "Newcastle Summer Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c9d429cd-49a8-4fdb-8f10-45c08089d5a3",
+  "object": "beer",
+  "name": "Greed",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

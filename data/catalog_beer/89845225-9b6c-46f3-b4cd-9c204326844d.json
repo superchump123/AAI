@@ -1,0 +1,11 @@
+{
+  "id": "89845225-9b6c-46f3-b4cd-9c204326844d",
+  "object": "beer",
+  "name": "Good N' You",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

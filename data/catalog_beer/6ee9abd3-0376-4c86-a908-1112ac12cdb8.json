@@ -1,0 +1,11 @@
+{
+  "id": "6ee9abd3-0376-4c86-a908-1112ac12cdb8",
+  "object": "beer",
+  "name": "Ariadne's Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

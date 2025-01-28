@@ -1,0 +1,11 @@
+{
+  "id": "4298905d-2da4-4284-aba4-6472d0b313e5",
+  "object": "beer",
+  "name": "Tegernseer Leicht",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

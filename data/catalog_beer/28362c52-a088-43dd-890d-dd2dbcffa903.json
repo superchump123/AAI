@@ -1,0 +1,11 @@
+{
+  "id": "28362c52-a088-43dd-890d-dd2dbcffa903",
+  "object": "beer",
+  "name": "Moritz Fiege Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

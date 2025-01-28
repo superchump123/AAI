@@ -1,0 +1,11 @@
+{
+  "id": "68ebedb7-33c7-44c7-a68f-5d241d884aec",
+  "object": "beer",
+  "name": "Ommegang BPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

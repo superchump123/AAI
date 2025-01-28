@@ -1,0 +1,11 @@
+{
+  "id": "41dffeef-eab3-4aff-8fa3-94838d4f5287",
+  "object": "beer",
+  "name": "Bee's Knees Belgian Blonde",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

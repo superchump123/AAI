@@ -1,0 +1,11 @@
+{
+  "id": "81f36b94-fc58-46f5-80b2-fa753501f5b2",
+  "object": "beer",
+  "name": "PRBC Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

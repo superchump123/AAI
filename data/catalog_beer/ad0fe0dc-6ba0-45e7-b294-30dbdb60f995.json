@@ -1,0 +1,11 @@
+{
+  "id": "ad0fe0dc-6ba0-45e7-b294-30dbdb60f995",
+  "object": "beer",
+  "name": "Rustication Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

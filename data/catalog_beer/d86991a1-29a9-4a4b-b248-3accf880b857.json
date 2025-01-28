@@ -1,0 +1,11 @@
+{
+  "id": "d86991a1-29a9-4a4b-b248-3accf880b857",
+  "object": "beer",
+  "name": "ABLE Best Britter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4521426-2531-4e50-913c-b9c2982accfe",
+  "object": "beer",
+  "name": "Red Collar",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

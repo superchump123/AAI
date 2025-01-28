@@ -1,0 +1,11 @@
+{
+  "id": "762bbc72-ae34-4f0f-b977-bd3251c2a33a",
+  "object": "beer",
+  "name": "FM 359",
+  "style": "Belgian-style Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

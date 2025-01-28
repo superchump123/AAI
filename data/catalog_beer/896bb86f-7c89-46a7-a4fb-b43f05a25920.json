@@ -1,0 +1,11 @@
+{
+  "id": "896bb86f-7c89-46a7-a4fb-b43f05a25920",
+  "object": "beer",
+  "name": "Pinkus Leicht",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

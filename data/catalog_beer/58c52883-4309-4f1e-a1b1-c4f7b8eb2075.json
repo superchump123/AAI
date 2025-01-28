@@ -1,0 +1,11 @@
+{
+  "id": "58c52883-4309-4f1e-a1b1-c4f7b8eb2075",
+  "object": "beer",
+  "name": "Geisterzug Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

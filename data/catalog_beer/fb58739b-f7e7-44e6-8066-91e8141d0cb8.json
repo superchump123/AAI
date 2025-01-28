@@ -1,0 +1,11 @@
+{
+  "id": "fb58739b-f7e7-44e6-8066-91e8141d0cb8",
+  "object": "beer",
+  "name": "Bourbon Barrel GIngerbread Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

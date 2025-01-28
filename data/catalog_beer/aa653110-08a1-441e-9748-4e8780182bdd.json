@@ -1,0 +1,11 @@
+{
+  "id": "aa653110-08a1-441e-9748-4e8780182bdd",
+  "object": "beer",
+  "name": "Dr. Caligari",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "24259e21-1315-42e9-81cb-2cab51ff3525",
+  "object": "beer",
+  "name": "Smuttface",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

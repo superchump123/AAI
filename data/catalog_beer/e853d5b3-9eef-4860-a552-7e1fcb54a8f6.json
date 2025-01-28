@@ -1,0 +1,11 @@
+{
+  "id": "e853d5b3-9eef-4860-a552-7e1fcb54a8f6",
+  "object": "beer",
+  "name": "Juicy Watermelon",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

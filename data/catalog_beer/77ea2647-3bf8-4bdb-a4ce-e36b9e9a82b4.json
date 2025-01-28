@@ -1,0 +1,11 @@
+{
+  "id": "77ea2647-3bf8-4bdb-a4ce-e36b9e9a82b4",
+  "object": "beer",
+  "name": "Rio Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

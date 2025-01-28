@@ -1,0 +1,11 @@
+{
+  "id": "971adc8c-b89a-42af-bd29-89fc6d1b2ffb",
+  "object": "beer",
+  "name": "Bean Me Up Scotchy",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b3d601b8-6173-4392-b4f0-b8506f416bc9",
+  "object": "beer",
+  "name": "Brickhouse Harvest",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

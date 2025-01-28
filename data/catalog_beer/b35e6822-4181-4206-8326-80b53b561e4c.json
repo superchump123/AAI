@@ -1,0 +1,11 @@
+{
+  "id": "b35e6822-4181-4206-8326-80b53b561e4c",
+  "object": "beer",
+  "name": "Homework Series Batch #1",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "673d42cf-1aac-460b-8cec-38147808c082",
+  "object": "beer",
+  "name": "Oatgoop",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cfcbff48-24af-4a25-8a98-f3e4d629efc1",
+  "object": "beer",
+  "name": "Galaxy Crooked Tree",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

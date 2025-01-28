@@ -1,0 +1,11 @@
+{
+  "id": "5e20b37f-9200-400d-996b-da1d3ec0e775",
+  "object": "beer",
+  "name": "Prosit!",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

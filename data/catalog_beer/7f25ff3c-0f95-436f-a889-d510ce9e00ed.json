@@ -1,0 +1,11 @@
+{
+  "id": "7f25ff3c-0f95-436f-a889-d510ce9e00ed",
+  "object": "beer",
+  "name": "Kickin' Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

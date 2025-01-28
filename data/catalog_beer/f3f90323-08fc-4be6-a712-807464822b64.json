@@ -1,0 +1,11 @@
+{
+  "id": "f3f90323-08fc-4be6-a712-807464822b64",
+  "object": "beer",
+  "name": "Big A IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 126,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

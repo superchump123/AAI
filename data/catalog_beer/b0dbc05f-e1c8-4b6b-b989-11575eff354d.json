@@ -1,0 +1,11 @@
+{
+  "id": "b0dbc05f-e1c8-4b6b-b989-11575eff354d",
+  "object": "beer",
+  "name": "Select Monk 2",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

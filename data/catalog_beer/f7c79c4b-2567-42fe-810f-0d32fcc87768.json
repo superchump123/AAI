@@ -1,0 +1,11 @@
+{
+  "id": "f7c79c4b-2567-42fe-810f-0d32fcc87768",
+  "object": "beer",
+  "name": "Abstrator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

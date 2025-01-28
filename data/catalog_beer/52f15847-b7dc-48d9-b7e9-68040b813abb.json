@@ -1,0 +1,11 @@
+{
+  "id": "52f15847-b7dc-48d9-b7e9-68040b813abb",
+  "object": "beer",
+  "name": "The Friendly Freeballing Frenchman",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

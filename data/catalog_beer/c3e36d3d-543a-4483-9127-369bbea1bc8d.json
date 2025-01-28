@@ -1,0 +1,11 @@
+{
+  "id": "c3e36d3d-543a-4483-9127-369bbea1bc8d",
+  "object": "beer",
+  "name": "William Wallace",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

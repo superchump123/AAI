@@ -1,0 +1,11 @@
+{
+  "id": "25a4bde6-a589-46eb-8323-db1a3d6e3d7c",
+  "object": "beer",
+  "name": "Lupulus",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

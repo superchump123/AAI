@@ -1,0 +1,11 @@
+{
+  "id": "45c3db86-f20c-4c79-aca3-08aab36af721",
+  "object": "beer",
+  "name": "Wit Out a Trace",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

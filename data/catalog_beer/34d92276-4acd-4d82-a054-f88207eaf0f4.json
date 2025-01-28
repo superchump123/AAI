@@ -1,0 +1,11 @@
+{
+  "id": "34d92276-4acd-4d82-a054-f88207eaf0f4",
+  "object": "beer",
+  "name": "Blip",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

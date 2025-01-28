@@ -1,0 +1,11 @@
+{
+  "id": "3edc117e-8d9f-46d1-9b77-079215810181",
+  "object": "beer",
+  "name": "German Pale Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

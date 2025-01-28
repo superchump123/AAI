@@ -1,0 +1,11 @@
+{
+  "id": "94d319b1-5ee2-4523-9c66-a7b22e5b3967",
+  "object": "beer",
+  "name": "Minnesota Tan",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

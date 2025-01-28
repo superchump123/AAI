@@ -1,0 +1,11 @@
+{
+  "id": "507c866e-913f-43f4-8b6b-5b80b17eaa72",
+  "object": "beer",
+  "name": "Mad Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a35f93a6-d49d-412f-8103-9041e0c66a70",
+  "object": "beer",
+  "name": "No.44 - Islay",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 10.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

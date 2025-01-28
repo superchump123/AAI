@@ -1,0 +1,11 @@
+{
+  "id": "7836f8b6-e57f-4381-b055-8098f61b3bdb",
+  "object": "beer",
+  "name": "Herman Joseph's Private Reserve",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

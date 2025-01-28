@@ -1,0 +1,11 @@
+{
+  "id": "9308052b-b8df-4c41-bb90-2d2bef2d64a0",
+  "object": "beer",
+  "name": "What-A-Melon Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

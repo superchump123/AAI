@@ -1,0 +1,11 @@
+{
+  "id": "b649d4b7-c92e-48ce-9ca0-58309db3c6f2",
+  "object": "beer",
+  "name": "Stout Phoenix",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

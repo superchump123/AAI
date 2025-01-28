@@ -1,0 +1,11 @@
+{
+  "id": "22c3a95f-49e1-4e5a-9aa9-9e07e3c4b109",
+  "object": "beer",
+  "name": "Saranac Black Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

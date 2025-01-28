@@ -1,0 +1,11 @@
+{
+  "id": "a5e66b62-a910-4623-a952-0e9b25568a50",
+  "object": "beer",
+  "name": "Wyatt's Eviction ESB",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

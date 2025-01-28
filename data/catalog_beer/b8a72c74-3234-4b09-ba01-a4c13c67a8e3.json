@@ -1,0 +1,11 @@
+{
+  "id": "b8a72c74-3234-4b09-ba01-a4c13c67a8e3",
+  "object": "beer",
+  "name": "Keller Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

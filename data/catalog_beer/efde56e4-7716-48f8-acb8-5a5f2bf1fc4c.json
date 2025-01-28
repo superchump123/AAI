@@ -1,0 +1,11 @@
+{
+  "id": "efde56e4-7716-48f8-acb8-5a5f2bf1fc4c",
+  "object": "beer",
+  "name": "Pump Action",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

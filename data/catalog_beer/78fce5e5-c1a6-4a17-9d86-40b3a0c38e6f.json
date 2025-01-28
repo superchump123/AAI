@@ -1,0 +1,11 @@
+{
+  "id": "78fce5e5-c1a6-4a17-9d86-40b3a0c38e6f",
+  "object": "beer",
+  "name": "Fistful of Peel",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 82,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

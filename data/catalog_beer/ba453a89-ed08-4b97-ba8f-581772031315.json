@@ -1,0 +1,11 @@
+{
+  "id": "ba453a89-ed08-4b97-ba8f-581772031315",
+  "object": "beer",
+  "name": "St. Isidore",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 10.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

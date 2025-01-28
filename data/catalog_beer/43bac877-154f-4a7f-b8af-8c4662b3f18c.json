@@ -1,0 +1,11 @@
+{
+  "id": "43bac877-154f-4a7f-b8af-8c4662b3f18c",
+  "object": "beer",
+  "name": "Widespread Red",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

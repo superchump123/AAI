@@ -1,0 +1,11 @@
+{
+  "id": "9317349b-7b36-42a6-82a5-b15375329188",
+  "object": "beer",
+  "name": "Timberwolf",
+  "style": "American-Style Low-Carbohydrate Light Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "05c9c470-a9b6-48cc-b6c3-a19c9689194c",
+  "object": "beer",
+  "name": "Major Holmes DIPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

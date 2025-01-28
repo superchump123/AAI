@@ -1,0 +1,11 @@
+{
+  "id": "905a643d-db07-43b4-8f33-d57e89384037",
+  "object": "beer",
+  "name": "Darkness",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

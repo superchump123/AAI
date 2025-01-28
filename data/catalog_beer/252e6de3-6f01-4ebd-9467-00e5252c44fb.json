@@ -1,0 +1,11 @@
+{
+  "id": "252e6de3-6f01-4ebd-9467-00e5252c44fb",
+  "object": "beer",
+  "name": "Java Sir James Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

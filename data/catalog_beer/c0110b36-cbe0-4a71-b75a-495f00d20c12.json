@@ -1,0 +1,11 @@
+{
+  "id": "c0110b36-cbe0-4a71-b75a-495f00d20c12",
+  "object": "beer",
+  "name": "Molson Golden",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

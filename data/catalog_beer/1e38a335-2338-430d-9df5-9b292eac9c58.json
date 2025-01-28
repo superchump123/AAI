@@ -1,0 +1,11 @@
+{
+  "id": "1e38a335-2338-430d-9df5-9b292eac9c58",
+  "object": "beer",
+  "name": "Summer Teeth",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "41a9eef1-189d-4559-8a1f-c54ef71e5d6b",
+  "object": "beer",
+  "name": "Cowbell",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

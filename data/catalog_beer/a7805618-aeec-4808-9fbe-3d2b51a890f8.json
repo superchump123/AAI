@@ -1,0 +1,11 @@
+{
+  "id": "a7805618-aeec-4808-9fbe-3d2b51a890f8",
+  "object": "beer",
+  "name": "Experimental Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

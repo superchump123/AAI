@@ -1,0 +1,11 @@
+{
+  "id": "653a2115-53d9-490c-b873-4861d9827d02",
+  "object": "beer",
+  "name": "1888 Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ed80cb1c-9762-47d3-9ea8-84eb8769dad9",
+  "object": "beer",
+  "name": "Experimental Pils C",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

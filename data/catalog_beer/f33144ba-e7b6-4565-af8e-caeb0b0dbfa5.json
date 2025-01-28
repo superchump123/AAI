@@ -1,0 +1,11 @@
+{
+  "id": "f33144ba-e7b6-4565-af8e-caeb0b0dbfa5",
+  "object": "beer",
+  "name": "Solar Express",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

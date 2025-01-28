@@ -1,0 +1,11 @@
+{
+  "id": "4d1c3f17-fc1c-422a-9b31-e8f0cd0a6b31",
+  "object": "beer",
+  "name": "Imperial Blonde",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

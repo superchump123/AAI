@@ -1,0 +1,11 @@
+{
+  "id": "f6e0c017-1b06-41b0-91cf-6c8d2b173b48",
+  "object": "beer",
+  "name": "Midnight Special",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

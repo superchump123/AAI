@@ -1,0 +1,11 @@
+{
+  "id": "b1df4250-d8bc-4a61-a4cc-9dd7e67a4d54",
+  "object": "beer",
+  "name": "McEwan\u2019s Signature",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

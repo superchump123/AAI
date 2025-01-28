@@ -1,0 +1,11 @@
+{
+  "id": "5d5dcfcc-89c8-4cd7-b82b-cea89a77c87d",
+  "object": "beer",
+  "name": "Urban Achiever",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dc8b7929-8643-498b-8662-918272e92219",
+  "object": "beer",
+  "name": "Jigsaw Jazz",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5c9341b2-f536-404f-9e9b-d9074f060bfd",
+  "object": "beer",
+  "name": "Hop Candy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

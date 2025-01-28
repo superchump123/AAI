@@ -1,0 +1,11 @@
+{
+  "id": "0eb1b0e5-bacd-49cf-ac38-dd181054feca",
+  "object": "beer",
+  "name": "7e Wing",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

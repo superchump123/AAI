@@ -1,0 +1,11 @@
+{
+  "id": "b98e6c26-b8fb-4034-be97-a6a5a64b14f8",
+  "object": "beer",
+  "name": "El Gordo Barracho",
+  "style": "Dry Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

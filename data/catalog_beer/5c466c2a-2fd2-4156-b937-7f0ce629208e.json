@@ -1,0 +1,11 @@
+{
+  "id": "5c466c2a-2fd2-4156-b937-7f0ce629208e",
+  "object": "beer",
+  "name": "Pint O Joe",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

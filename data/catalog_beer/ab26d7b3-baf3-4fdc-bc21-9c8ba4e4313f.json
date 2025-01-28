@@ -1,0 +1,11 @@
+{
+  "id": "ab26d7b3-baf3-4fdc-bc21-9c8ba4e4313f",
+  "object": "beer",
+  "name": "Crispin Brut",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

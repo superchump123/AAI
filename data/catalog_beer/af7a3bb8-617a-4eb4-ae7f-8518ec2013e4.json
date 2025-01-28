@@ -1,0 +1,11 @@
+{
+  "id": "af7a3bb8-617a-4eb4-ae7f-8518ec2013e4",
+  "object": "beer",
+  "name": "Schizophrenic Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

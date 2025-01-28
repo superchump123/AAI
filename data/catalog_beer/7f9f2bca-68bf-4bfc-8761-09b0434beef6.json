@@ -1,0 +1,11 @@
+{
+  "id": "7f9f2bca-68bf-4bfc-8761-09b0434beef6",
+  "object": "beer",
+  "name": "Thrilla in Vanilla Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0843e02c-e716-42d8-909f-9dbae878f2bf",
+  "object": "beer",
+  "name": "Quincy Street IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

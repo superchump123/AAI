@@ -1,0 +1,11 @@
+{
+  "id": "19db6430-6cbe-43a3-8f4b-df0b432fe3db",
+  "object": "beer",
+  "name": "Haymaker Extra Pale Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

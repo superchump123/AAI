@@ -1,0 +1,11 @@
+{
+  "id": "b7cf0639-d05a-4be8-bfd8-0054e6dfe3bf",
+  "object": "beer",
+  "name": "Liquid Sunshine",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

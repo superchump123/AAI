@@ -1,0 +1,11 @@
+{
+  "id": "fd328e2e-5cb4-4ceb-9cd8-8adfa4322fcd",
+  "object": "beer",
+  "name": "XPA (Alpha Pale)",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

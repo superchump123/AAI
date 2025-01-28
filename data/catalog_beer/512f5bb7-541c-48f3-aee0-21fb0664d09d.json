@@ -1,0 +1,11 @@
+{
+  "id": "512f5bb7-541c-48f3-aee0-21fb0664d09d",
+  "object": "beer",
+  "name": "Book'em Brettan-O",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f9550b32-eabc-416b-8d66-c8596b3c33e7",
+  "object": "beer",
+  "name": "Saison Secale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

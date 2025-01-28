@@ -1,0 +1,11 @@
+{
+  "id": "02fce27d-11b4-4e04-a8cc-51ca5bdcaf6a",
+  "object": "beer",
+  "name": "Mason",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

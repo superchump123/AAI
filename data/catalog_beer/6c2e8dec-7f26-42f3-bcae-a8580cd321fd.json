@@ -1,0 +1,11 @@
+{
+  "id": "6c2e8dec-7f26-42f3-bcae-a8580cd321fd",
+  "object": "beer",
+  "name": "Growl",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

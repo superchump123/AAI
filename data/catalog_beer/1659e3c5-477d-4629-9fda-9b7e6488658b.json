@@ -1,0 +1,11 @@
+{
+  "id": "1659e3c5-477d-4629-9fda-9b7e6488658b",
+  "object": "beer",
+  "name": "Sweet Fang",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

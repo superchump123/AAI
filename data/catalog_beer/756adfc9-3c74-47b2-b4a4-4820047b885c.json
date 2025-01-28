@@ -1,0 +1,11 @@
+{
+  "id": "756adfc9-3c74-47b2-b4a4-4820047b885c",
+  "object": "beer",
+  "name": "Sinuous",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

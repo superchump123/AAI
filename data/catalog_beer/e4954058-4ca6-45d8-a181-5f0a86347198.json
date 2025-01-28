@@ -1,0 +1,11 @@
+{
+  "id": "e4954058-4ca6-45d8-a181-5f0a86347198",
+  "object": "beer",
+  "name": "Alpha Zuur",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

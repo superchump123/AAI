@@ -1,0 +1,11 @@
+{
+  "id": "9707a0ce-09b1-4237-965f-4926e02c431d",
+  "object": "beer",
+  "name": "Hoggetowne Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

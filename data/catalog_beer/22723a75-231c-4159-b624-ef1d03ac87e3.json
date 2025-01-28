@@ -1,0 +1,11 @@
+{
+  "id": "22723a75-231c-4159-b624-ef1d03ac87e3",
+  "object": "beer",
+  "name": "Made of Sun",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

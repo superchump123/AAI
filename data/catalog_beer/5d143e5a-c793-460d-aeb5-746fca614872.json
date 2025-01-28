@@ -1,0 +1,11 @@
+{
+  "id": "5d143e5a-c793-460d-aeb5-746fca614872",
+  "object": "beer",
+  "name": "Mongoose IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "72300193-91ae-4e40-8216-cf4a82fdcf63",
+  "object": "beer",
+  "name": "Rock Queen",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

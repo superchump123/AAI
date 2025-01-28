@@ -1,0 +1,11 @@
+{
+  "id": "5a3c99cd-f65f-48b2-8401-6633df9ae718",
+  "object": "beer",
+  "name": "Headslap",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

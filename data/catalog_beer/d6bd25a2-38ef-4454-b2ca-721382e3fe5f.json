@@ -1,0 +1,11 @@
+{
+  "id": "d6bd25a2-38ef-4454-b2ca-721382e3fe5f",
+  "object": "beer",
+  "name": "Black Bear Honey Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "238ba356-ad7c-4827-b804-d0cb3b102da2",
+  "object": "beer",
+  "name": "Stockyard IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

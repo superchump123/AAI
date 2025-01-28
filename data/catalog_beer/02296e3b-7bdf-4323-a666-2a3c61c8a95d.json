@@ -1,0 +1,11 @@
+{
+  "id": "02296e3b-7bdf-4323-a666-2a3c61c8a95d",
+  "object": "beer",
+  "name": "Bread & Cheese",
+  "style": "English-Style Pale Mild Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

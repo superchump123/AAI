@@ -1,0 +1,11 @@
+{
+  "id": "9db19905-e116-4564-93fa-1656f31cd62b",
+  "object": "beer",
+  "name": "Pflug Spezial",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "97705c70-ba16-486e-99bc-0cfb7aaa31b5",
+  "object": "beer",
+  "name": "Unicorn Milk",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

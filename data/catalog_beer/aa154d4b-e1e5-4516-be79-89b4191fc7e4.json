@@ -1,0 +1,11 @@
+{
+  "id": "aa154d4b-e1e5-4516-be79-89b4191fc7e4",
+  "object": "beer",
+  "name": "Orange Avenue Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0d9972ba-2945-4a39-a618-4a7e97bd9150",
+  "object": "beer",
+  "name": "Le Boucher",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "51838ee2-ccf7-4913-a384-e81953838a53",
+  "object": "beer",
+  "name": "Michelob AmberBock",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

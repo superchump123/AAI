@@ -1,0 +1,11 @@
+{
+  "id": "fa085232-dd68-4d48-81e6-79f12edbe635",
+  "object": "beer",
+  "name": "Burning Bird Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

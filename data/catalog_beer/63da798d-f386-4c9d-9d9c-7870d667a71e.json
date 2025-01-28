@@ -1,0 +1,11 @@
+{
+  "id": "63da798d-f386-4c9d-9d9c-7870d667a71e",
+  "object": "beer",
+  "name": "Duckabush Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

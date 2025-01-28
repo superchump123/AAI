@@ -1,0 +1,11 @@
+{
+  "id": "c8ccc34f-1b9c-4c97-8d4d-8bf0df5a047f",
+  "object": "beer",
+  "name": "Bulldog Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

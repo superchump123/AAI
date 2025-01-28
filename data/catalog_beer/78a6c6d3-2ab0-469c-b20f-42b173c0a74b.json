@@ -1,0 +1,11 @@
+{
+  "id": "78a6c6d3-2ab0-469c-b20f-42b173c0a74b",
+  "object": "beer",
+  "name": "Hopsided",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

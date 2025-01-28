@@ -1,0 +1,11 @@
+{
+  "id": "f75b5daa-68e3-4d60-aa16-bc2a2e39709a",
+  "object": "beer",
+  "name": "UMBEL MAGNA",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

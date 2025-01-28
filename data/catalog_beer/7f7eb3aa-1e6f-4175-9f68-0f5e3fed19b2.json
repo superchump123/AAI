@@ -1,0 +1,11 @@
+{
+  "id": "7f7eb3aa-1e6f-4175-9f68-0f5e3fed19b2",
+  "object": "beer",
+  "name": "Hoptimal Results Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

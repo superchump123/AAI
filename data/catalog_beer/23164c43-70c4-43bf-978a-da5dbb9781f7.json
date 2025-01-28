@@ -1,0 +1,11 @@
+{
+  "id": "23164c43-70c4-43bf-978a-da5dbb9781f7",
+  "object": "beer",
+  "name": "Saint Augustine",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

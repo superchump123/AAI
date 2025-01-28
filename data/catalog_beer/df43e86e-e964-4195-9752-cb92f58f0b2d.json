@@ -1,0 +1,11 @@
+{
+  "id": "df43e86e-e964-4195-9752-cb92f58f0b2d",
+  "object": "beer",
+  "name": "Nerd Alert",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

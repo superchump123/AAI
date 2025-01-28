@@ -1,0 +1,11 @@
+{
+  "id": "081721a0-2917-4233-8946-90977ece6dd5",
+  "object": "beer",
+  "name": "Haze",
+  "style": "English Cider",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

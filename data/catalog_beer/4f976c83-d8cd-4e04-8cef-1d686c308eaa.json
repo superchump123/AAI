@@ -1,0 +1,11 @@
+{
+  "id": "4f976c83-d8cd-4e04-8cef-1d686c308eaa",
+  "object": "beer",
+  "name": "Saison Voisin",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "66d01497-d898-46c0-89d2-a2e8263da443",
+  "object": "beer",
+  "name": "Apropos of Nothing",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

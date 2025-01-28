@@ -1,0 +1,11 @@
+{
+  "id": "a2a74b3b-d048-4fd2-8f68-4a961f34a43a",
+  "object": "beer",
+  "name": "Pride of CinDay",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

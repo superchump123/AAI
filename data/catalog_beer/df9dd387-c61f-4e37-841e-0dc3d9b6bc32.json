@@ -1,0 +1,11 @@
+{
+  "id": "df9dd387-c61f-4e37-841e-0dc3d9b6bc32",
+  "object": "beer",
+  "name": "Small Animal Big Machine",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

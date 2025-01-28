@@ -1,0 +1,11 @@
+{
+  "id": "e9bae9c2-20d3-4c8f-817e-059eed85f363",
+  "object": "beer",
+  "name": "Humpenscrump",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

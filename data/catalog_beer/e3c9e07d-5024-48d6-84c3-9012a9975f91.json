@@ -1,0 +1,11 @@
+{
+  "id": "e3c9e07d-5024-48d6-84c3-9012a9975f91",
+  "object": "beer",
+  "name": "Apache Trout Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

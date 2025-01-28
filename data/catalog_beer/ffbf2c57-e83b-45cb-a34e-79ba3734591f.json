@@ -1,0 +1,11 @@
+{
+  "id": "ffbf2c57-e83b-45cb-a34e-79ba3734591f",
+  "object": "beer",
+  "name": "Lager Diabla*",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

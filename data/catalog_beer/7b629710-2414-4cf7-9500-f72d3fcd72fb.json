@@ -1,0 +1,11 @@
+{
+  "id": "7b629710-2414-4cf7-9500-f72d3fcd72fb",
+  "object": "beer",
+  "name": "FireFly Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

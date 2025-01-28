@@ -1,0 +1,11 @@
+{
+  "id": "61531034-f2b6-4a9a-bfe1-0e43cd0251e1",
+  "object": "beer",
+  "name": "Anonymous IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

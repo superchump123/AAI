@@ -1,0 +1,11 @@
+{
+  "id": "faad2d16-cb2c-42e1-a321-49f780e235dc",
+  "object": "beer",
+  "name": "Folkmalt Mango Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa0506b3-01e3-40cf-95d7-edc24de5fd70",
+  "object": "beer",
+  "name": "GMBC Weizenbock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

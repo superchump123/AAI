@@ -1,0 +1,11 @@
+{
+  "id": "8b15a6d6-8f5b-4a8b-a87b-c02574507b97",
+  "object": "beer",
+  "name": "Wallonian",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "510b8d87-ea5e-46be-bc74-e768100aca3e",
+  "object": "beer",
+  "name": "Joe Mama's Milk",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

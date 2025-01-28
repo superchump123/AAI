@@ -1,0 +1,11 @@
+{
+  "id": "500bc607-7fcf-40f1-9862-14b4fb7624e6",
+  "object": "beer",
+  "name": "Quinn's Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

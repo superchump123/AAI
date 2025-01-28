@@ -1,0 +1,11 @@
+{
+  "id": "981010ae-aec1-43d3-b36f-c7841bc898b4",
+  "object": "beer",
+  "name": "Proto Gradus",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

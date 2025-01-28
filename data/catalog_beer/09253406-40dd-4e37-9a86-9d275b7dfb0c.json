@@ -1,0 +1,11 @@
+{
+  "id": "09253406-40dd-4e37-9a86-9d275b7dfb0c",
+  "object": "beer",
+  "name": "Game Changer Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

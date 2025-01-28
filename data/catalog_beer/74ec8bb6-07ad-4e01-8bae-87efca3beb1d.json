@@ -1,0 +1,11 @@
+{
+  "id": "74ec8bb6-07ad-4e01-8bae-87efca3beb1d",
+  "object": "beer",
+  "name": "Ol' Fog Burner",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

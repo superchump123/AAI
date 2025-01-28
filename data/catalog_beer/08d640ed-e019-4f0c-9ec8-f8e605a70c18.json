@@ -1,0 +1,11 @@
+{
+  "id": "08d640ed-e019-4f0c-9ec8-f8e605a70c18",
+  "object": "beer",
+  "name": "Mosaic",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

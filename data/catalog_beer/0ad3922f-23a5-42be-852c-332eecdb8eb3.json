@@ -1,0 +1,11 @@
+{
+  "id": "0ad3922f-23a5-42be-852c-332eecdb8eb3",
+  "object": "beer",
+  "name": "Three Strings Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

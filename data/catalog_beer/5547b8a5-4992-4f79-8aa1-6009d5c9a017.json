@@ -1,0 +1,11 @@
+{
+  "id": "5547b8a5-4992-4f79-8aa1-6009d5c9a017",
+  "object": "beer",
+  "name": "Hot Shot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

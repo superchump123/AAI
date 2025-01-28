@@ -1,0 +1,11 @@
+{
+  "id": "ac8239c9-0d93-4589-9413-c16e97fca150",
+  "object": "beer",
+  "name": "Downtown Coffee Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

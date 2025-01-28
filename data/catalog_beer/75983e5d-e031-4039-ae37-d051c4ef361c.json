@@ -1,0 +1,11 @@
+{
+  "id": "75983e5d-e031-4039-ae37-d051c4ef361c",
+  "object": "beer",
+  "name": "Real Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "93c3948d-dbc4-48b2-83ba-ffcc5252a0cb",
+  "object": "beer",
+  "name": "Mena DHU",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

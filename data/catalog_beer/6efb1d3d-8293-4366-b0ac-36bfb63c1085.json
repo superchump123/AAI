@@ -1,0 +1,11 @@
+{
+  "id": "6efb1d3d-8293-4366-b0ac-36bfb63c1085",
+  "object": "beer",
+  "name": "Rhyme & Reason",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

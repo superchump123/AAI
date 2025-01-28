@@ -1,0 +1,11 @@
+{
+  "id": "ea6192fa-b20a-47b3-a0c9-e58572c83707",
+  "object": "beer",
+  "name": "Basement IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

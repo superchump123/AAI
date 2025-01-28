@@ -1,0 +1,11 @@
+{
+  "id": "55851075-9df2-4ba0-bb5f-55699f5133fb",
+  "object": "beer",
+  "name": "Cohan's Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "810dee35-befc-4685-af04-f87b9a8fd8d2",
+  "object": "beer",
+  "name": "Misty Brook Harvest Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

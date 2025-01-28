@@ -1,0 +1,11 @@
+{
+  "id": "c76e899f-4e56-467d-a19c-a9599708ae66",
+  "object": "beer",
+  "name": "Gotta Jibrown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

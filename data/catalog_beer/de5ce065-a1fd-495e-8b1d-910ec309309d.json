@@ -1,0 +1,11 @@
+{
+  "id": "de5ce065-a1fd-495e-8b1d-910ec309309d",
+  "object": "beer",
+  "name": "Afanasy Svetloe Beer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ed7b5fd9-2d8d-4cab-bc8b-b75874ad1085",
+  "object": "beer",
+  "name": "Morimoto Black Obi Soba",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

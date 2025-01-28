@@ -1,0 +1,11 @@
+{
+  "id": "b8af0c89-8a82-4b21-8387-e7858fb9bd73",
+  "object": "beer",
+  "name": "3-Way IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

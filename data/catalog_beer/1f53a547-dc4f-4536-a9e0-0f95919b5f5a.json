@@ -1,0 +1,11 @@
+{
+  "id": "1f53a547-dc4f-4536-a9e0-0f95919b5f5a",
+  "object": "beer",
+  "name": "CastagnAle",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

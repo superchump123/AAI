@@ -1,0 +1,11 @@
+{
+  "id": "be2b477c-04c5-43d3-bb1f-8112bc8d9b9f",
+  "object": "beer",
+  "name": "Part Time Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

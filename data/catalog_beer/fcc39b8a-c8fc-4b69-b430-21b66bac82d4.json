@@ -1,0 +1,11 @@
+{
+  "id": "fcc39b8a-c8fc-4b69-b430-21b66bac82d4",
+  "object": "beer",
+  "name": "Brass Ring",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

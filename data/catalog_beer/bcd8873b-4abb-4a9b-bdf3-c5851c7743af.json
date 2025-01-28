@@ -1,0 +1,11 @@
+{
+  "id": "bcd8873b-4abb-4a9b-bdf3-c5851c7743af",
+  "object": "beer",
+  "name": "Trainwreck",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

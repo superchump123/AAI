@@ -1,0 +1,11 @@
+{
+  "id": "249e30af-a99d-4042-b980-5b2753273d61",
+  "object": "beer",
+  "name": "Pierpont's Reserve Imperial Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

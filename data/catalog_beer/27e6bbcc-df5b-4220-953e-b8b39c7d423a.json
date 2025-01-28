@@ -1,0 +1,11 @@
+{
+  "id": "27e6bbcc-df5b-4220-953e-b8b39c7d423a",
+  "object": "beer",
+  "name": "3 Bagger",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

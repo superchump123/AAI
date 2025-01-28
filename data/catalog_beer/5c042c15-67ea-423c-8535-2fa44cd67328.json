@@ -1,0 +1,11 @@
+{
+  "id": "5c042c15-67ea-423c-8535-2fa44cd67328",
+  "object": "beer",
+  "name": "Organic California Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3bd4fdeb-178b-4698-90c1-a600a0305e81",
+  "object": "beer",
+  "name": "Castle Bravo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

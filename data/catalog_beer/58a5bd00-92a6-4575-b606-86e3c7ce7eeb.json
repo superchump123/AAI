@@ -1,0 +1,11 @@
+{
+  "id": "58a5bd00-92a6-4575-b606-86e3c7ce7eeb",
+  "object": "beer",
+  "name": "Post-Hopocalypse",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

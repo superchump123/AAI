@@ -1,0 +1,11 @@
+{
+  "id": "6e636612-0516-49cb-8e34-38e332a6338e",
+  "object": "beer",
+  "name": "Mango Habanero Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

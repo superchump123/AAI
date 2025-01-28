@@ -1,0 +1,11 @@
+{
+  "id": "60b3501a-f3e2-4046-8016-278602b0f045",
+  "object": "beer",
+  "name": "King's County Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

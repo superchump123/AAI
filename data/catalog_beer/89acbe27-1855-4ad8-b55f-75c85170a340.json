@@ -1,0 +1,11 @@
+{
+  "id": "89acbe27-1855-4ad8-b55f-75c85170a340",
+  "object": "beer",
+  "name": "The Butcher",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

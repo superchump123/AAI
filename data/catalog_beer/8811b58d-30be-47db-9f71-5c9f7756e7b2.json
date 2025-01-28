@@ -1,0 +1,11 @@
+{
+  "id": "8811b58d-30be-47db-9f71-5c9f7756e7b2",
+  "object": "beer",
+  "name": "New Speedway Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

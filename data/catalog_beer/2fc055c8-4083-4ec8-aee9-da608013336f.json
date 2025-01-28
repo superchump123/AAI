@@ -1,0 +1,11 @@
+{
+  "id": "2fc055c8-4083-4ec8-aee9-da608013336f",
+  "object": "beer",
+  "name": "Wachauer Landbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

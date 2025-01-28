@@ -1,0 +1,11 @@
+{
+  "id": "2a2957cb-abaf-4058-8c15-89a9d13e2667",
+  "object": "beer",
+  "name": "Steamy Windows",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

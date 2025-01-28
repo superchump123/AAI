@@ -1,0 +1,11 @@
+{
+  "id": "4bc3fcbb-d7e8-4e37-90f8-047dec0bff61",
+  "object": "beer",
+  "name": "Gratzer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

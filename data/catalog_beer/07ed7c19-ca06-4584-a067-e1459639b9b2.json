@@ -1,0 +1,11 @@
+{
+  "id": "07ed7c19-ca06-4584-a067-e1459639b9b2",
+  "object": "beer",
+  "name": "Hoot Attack",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

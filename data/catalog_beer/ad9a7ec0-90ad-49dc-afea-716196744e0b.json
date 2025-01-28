@@ -1,0 +1,11 @@
+{
+  "id": "ad9a7ec0-90ad-49dc-afea-716196744e0b",
+  "object": "beer",
+  "name": "Vulcan",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

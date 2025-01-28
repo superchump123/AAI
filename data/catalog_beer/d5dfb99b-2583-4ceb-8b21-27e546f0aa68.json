@@ -1,0 +1,11 @@
+{
+  "id": "d5dfb99b-2583-4ceb-8b21-27e546f0aa68",
+  "object": "beer",
+  "name": "Impulse IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

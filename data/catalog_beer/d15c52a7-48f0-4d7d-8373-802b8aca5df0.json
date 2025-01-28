@@ -1,0 +1,11 @@
+{
+  "id": "d15c52a7-48f0-4d7d-8373-802b8aca5df0",
+  "object": "beer",
+  "name": "Mahou 5 Estrellas",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

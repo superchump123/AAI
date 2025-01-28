@@ -1,0 +1,11 @@
+{
+  "id": "49be9220-1735-45f9-92d9-8882b4a68a42",
+  "object": "beer",
+  "name": "New England Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

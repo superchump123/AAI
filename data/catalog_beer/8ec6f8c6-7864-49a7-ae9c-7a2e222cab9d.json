@@ -1,0 +1,11 @@
+{
+  "id": "8ec6f8c6-7864-49a7-ae9c-7a2e222cab9d",
+  "object": "beer",
+  "name": "99 Shilling",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

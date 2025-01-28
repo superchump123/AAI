@@ -1,0 +1,11 @@
+{
+  "id": "82fa6c28-a3aa-4473-958a-48f860813d5f",
+  "object": "beer",
+  "name": "Craftsman",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

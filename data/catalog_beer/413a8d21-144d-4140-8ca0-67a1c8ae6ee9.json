@@ -1,0 +1,11 @@
+{
+  "id": "413a8d21-144d-4140-8ca0-67a1c8ae6ee9",
+  "object": "beer",
+  "name": "Mozaika Pilz",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

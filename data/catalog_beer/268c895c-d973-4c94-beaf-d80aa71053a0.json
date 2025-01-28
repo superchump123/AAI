@@ -1,0 +1,11 @@
+{
+  "id": "268c895c-d973-4c94-beaf-d80aa71053a0",
+  "object": "beer",
+  "name": "Blackberry Heathenweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

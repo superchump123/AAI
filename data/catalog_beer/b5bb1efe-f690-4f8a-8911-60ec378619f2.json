@@ -1,0 +1,11 @@
+{
+  "id": "b5bb1efe-f690-4f8a-8911-60ec378619f2",
+  "object": "beer",
+  "name": "Guinness Draught",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a7fbb15d-95a6-411b-8091-8176b37f8bc0",
+  "object": "beer",
+  "name": "Lemon Drop Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "addd4101-73b8-4bdc-8412-f3dbe04f59a8",
+  "object": "beer",
+  "name": "Hot Rod Lincoln",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

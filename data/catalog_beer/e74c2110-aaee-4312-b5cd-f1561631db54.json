@@ -1,0 +1,11 @@
+{
+  "id": "e74c2110-aaee-4312-b5cd-f1561631db54",
+  "object": "beer",
+  "name": "LIC Native Coffee Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

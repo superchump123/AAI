@@ -1,0 +1,11 @@
+{
+  "id": "86584beb-470b-48f4-8ce9-6e82df107a48",
+  "object": "beer",
+  "name": "Greenman",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6e1e72ef-4bbf-4c3f-9b1e-0de4ec171b29",
+  "object": "beer",
+  "name": "Wei\u00dfbier",
+  "style": "South German-Style Bernsteinfarbenes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

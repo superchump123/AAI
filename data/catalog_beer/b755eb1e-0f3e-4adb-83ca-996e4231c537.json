@@ -1,0 +1,11 @@
+{
+  "id": "b755eb1e-0f3e-4adb-83ca-996e4231c537",
+  "object": "beer",
+  "name": "South Peak Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

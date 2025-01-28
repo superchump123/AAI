@@ -1,0 +1,11 @@
+{
+  "id": "42e88a56-829c-4a88-b689-8fbebd882adc",
+  "object": "beer",
+  "name": "Cougar Paw",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

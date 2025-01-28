@@ -1,0 +1,11 @@
+{
+  "id": "4cc1580d-986d-4275-b413-3b3ca9cb6881",
+  "object": "beer",
+  "name": "Valve California Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

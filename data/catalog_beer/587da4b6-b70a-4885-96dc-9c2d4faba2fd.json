@@ -1,0 +1,11 @@
+{
+  "id": "587da4b6-b70a-4885-96dc-9c2d4faba2fd",
+  "object": "beer",
+  "name": "Icon Gold - Belgian IPA",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

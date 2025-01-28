@@ -1,0 +1,11 @@
+{
+  "id": "18b682ff-09d7-43f2-98f2-cb135bbfe40a",
+  "object": "beer",
+  "name": "Delikat",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

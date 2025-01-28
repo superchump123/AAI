@@ -1,0 +1,11 @@
+{
+  "id": "4d56a56b-eea5-48c9-b13a-6375381aa947",
+  "object": "beer",
+  "name": "Otterade",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

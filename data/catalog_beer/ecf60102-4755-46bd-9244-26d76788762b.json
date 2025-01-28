@@ -1,0 +1,11 @@
+{
+  "id": "ecf60102-4755-46bd-9244-26d76788762b",
+  "object": "beer",
+  "name": "Cobra Kai",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

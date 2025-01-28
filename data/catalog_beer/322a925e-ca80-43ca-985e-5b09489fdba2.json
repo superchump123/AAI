@@ -1,0 +1,11 @@
+{
+  "id": "322a925e-ca80-43ca-985e-5b09489fdba2",
+  "object": "beer",
+  "name": "Pernicious IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

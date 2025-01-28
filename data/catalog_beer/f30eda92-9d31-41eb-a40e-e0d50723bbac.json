@@ -1,0 +1,11 @@
+{
+  "id": "f30eda92-9d31-41eb-a40e-e0d50723bbac",
+  "object": "beer",
+  "name": "7 Century",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 700,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

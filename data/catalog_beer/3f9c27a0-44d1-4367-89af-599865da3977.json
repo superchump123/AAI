@@ -1,0 +1,11 @@
+{
+  "id": "3f9c27a0-44d1-4367-89af-599865da3977",
+  "object": "beer",
+  "name": "Pirogue",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 9,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

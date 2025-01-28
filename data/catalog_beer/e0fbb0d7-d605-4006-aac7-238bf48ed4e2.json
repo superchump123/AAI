@@ -1,0 +1,11 @@
+{
+  "id": "e0fbb0d7-d605-4006-aac7-238bf48ed4e2",
+  "object": "beer",
+  "name": "Aphrodite",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

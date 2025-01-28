@@ -1,0 +1,11 @@
+{
+  "id": "392e0461-de16-46b5-9065-9c82454bfe83",
+  "object": "beer",
+  "name": "Broz Night Out",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

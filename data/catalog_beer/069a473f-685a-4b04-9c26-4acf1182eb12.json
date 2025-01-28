@@ -1,0 +1,11 @@
+{
+  "id": "069a473f-685a-4b04-9c26-4acf1182eb12",
+  "object": "beer",
+  "name": "Stavropol",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

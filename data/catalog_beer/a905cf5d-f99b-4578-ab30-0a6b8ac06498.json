@@ -1,0 +1,11 @@
+{
+  "id": "a905cf5d-f99b-4578-ab30-0a6b8ac06498",
+  "object": "beer",
+  "name": "Sasquatch",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

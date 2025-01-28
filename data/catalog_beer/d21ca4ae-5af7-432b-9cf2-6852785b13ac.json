@@ -1,0 +1,11 @@
+{
+  "id": "d21ca4ae-5af7-432b-9cf2-6852785b13ac",
+  "object": "beer",
+  "name": "Stoop Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

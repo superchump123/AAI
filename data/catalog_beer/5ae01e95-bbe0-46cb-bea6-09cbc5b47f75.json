@@ -1,0 +1,11 @@
+{
+  "id": "5ae01e95-bbe0-46cb-bea6-09cbc5b47f75",
+  "object": "beer",
+  "name": "Barrel Harbor Dry Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

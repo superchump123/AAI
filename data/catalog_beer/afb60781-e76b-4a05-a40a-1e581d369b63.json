@@ -1,0 +1,11 @@
+{
+  "id": "afb60781-e76b-4a05-a40a-1e581d369b63",
+  "object": "beer",
+  "name": "Krook's Mill",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

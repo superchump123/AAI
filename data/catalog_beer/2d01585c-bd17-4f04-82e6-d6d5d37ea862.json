@@ -1,0 +1,11 @@
+{
+  "id": "2d01585c-bd17-4f04-82e6-d6d5d37ea862",
+  "object": "beer",
+  "name": "Little Brett",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

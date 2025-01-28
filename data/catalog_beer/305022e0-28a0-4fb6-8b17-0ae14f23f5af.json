@@ -1,0 +1,11 @@
+{
+  "id": "305022e0-28a0-4fb6-8b17-0ae14f23f5af",
+  "object": "beer",
+  "name": "Slow Roll Session IPA",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

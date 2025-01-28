@@ -1,0 +1,11 @@
+{
+  "id": "59af245e-1136-4a99-ae06-53365faad1d6",
+  "object": "beer",
+  "name": "Bzart Lambiek",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

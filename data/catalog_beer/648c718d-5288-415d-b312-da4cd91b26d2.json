@@ -1,0 +1,11 @@
+{
+  "id": "648c718d-5288-415d-b312-da4cd91b26d2",
+  "object": "beer",
+  "name": "Dara\u2019s Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

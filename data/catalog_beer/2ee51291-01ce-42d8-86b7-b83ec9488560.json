@@ -1,0 +1,11 @@
+{
+  "id": "2ee51291-01ce-42d8-86b7-b83ec9488560",
+  "object": "beer",
+  "name": "Grits 'N Greens",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

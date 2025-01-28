@@ -1,0 +1,11 @@
+{
+  "id": "386db7fc-8f31-4bb2-b2e3-b0ece6fe834e",
+  "object": "beer",
+  "name": "Something Wild",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

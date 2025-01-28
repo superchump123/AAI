@@ -1,0 +1,11 @@
+{
+  "id": "6584d2c2-2cc1-47b1-bda2-54192c314fd2",
+  "object": "beer",
+  "name": "Xalapa",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

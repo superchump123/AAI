@@ -1,0 +1,11 @@
+{
+  "id": "24d50592-23af-4967-8ba0-16448d572495",
+  "object": "beer",
+  "name": "East Kent IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

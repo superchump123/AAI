@@ -1,0 +1,11 @@
+{
+  "id": "d8bbddb4-20aa-495e-9ac1-fa9c21f189f5",
+  "object": "beer",
+  "name": "Brigand",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c18116a0-6b3c-4666-8da6-2fd281c5c4d0",
+  "object": "beer",
+  "name": "Bishop Bob's Holy Smoke",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

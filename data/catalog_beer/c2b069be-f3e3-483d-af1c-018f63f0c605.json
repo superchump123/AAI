@@ -1,0 +1,11 @@
+{
+  "id": "c2b069be-f3e3-483d-af1c-018f63f0c605",
+  "object": "beer",
+  "name": "Are You Ready Steve?",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

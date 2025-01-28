@@ -1,0 +1,11 @@
+{
+  "id": "421b7908-a435-4985-b901-ac43a7abe2da",
+  "object": "beer",
+  "name": "Old Jalopy Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

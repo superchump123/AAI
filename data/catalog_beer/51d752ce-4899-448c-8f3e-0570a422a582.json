@@ -1,0 +1,11 @@
+{
+  "id": "51d752ce-4899-448c-8f3e-0570a422a582",
+  "object": "beer",
+  "name": "Phantom Rojo",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

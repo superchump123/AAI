@@ -1,0 +1,11 @@
+{
+  "id": "063b9855-4812-4f73-b3c4-4e511ef17b32",
+  "object": "beer",
+  "name": "Birthday Suit",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 92,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

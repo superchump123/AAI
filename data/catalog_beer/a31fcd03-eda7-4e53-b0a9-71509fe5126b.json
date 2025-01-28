@@ -1,0 +1,11 @@
+{
+  "id": "a31fcd03-eda7-4e53-b0a9-71509fe5126b",
+  "object": "beer",
+  "name": "Cloudy Alcoholic Lemonade",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

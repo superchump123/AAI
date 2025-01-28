@@ -1,0 +1,11 @@
+{
+  "id": "ba614d19-27f8-46e4-9be3-d04959515459",
+  "object": "beer",
+  "name": "Punchline",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e1d3581e-63c3-4b3b-b16b-a5cd42896fc7",
+  "object": "beer",
+  "name": "Brown Aged Girl",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

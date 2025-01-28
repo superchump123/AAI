@@ -1,0 +1,11 @@
+{
+  "id": "26eafe12-7206-4f51-a440-75308217e7b5",
+  "object": "beer",
+  "name": "Saint Arnold Elissa IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

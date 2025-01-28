@@ -1,0 +1,11 @@
+{
+  "id": "0f05a130-4aaf-49b4-bdd1-a43ae014650e",
+  "object": "beer",
+  "name": "Cape Cod Session IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

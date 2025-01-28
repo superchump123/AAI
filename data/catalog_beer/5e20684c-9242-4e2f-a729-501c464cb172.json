@@ -1,0 +1,11 @@
+{
+  "id": "5e20684c-9242-4e2f-a729-501c464cb172",
+  "object": "beer",
+  "name": "Chang Draught",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

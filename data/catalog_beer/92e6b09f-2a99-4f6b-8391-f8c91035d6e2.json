@@ -1,0 +1,11 @@
+{
+  "id": "92e6b09f-2a99-4f6b-8391-f8c91035d6e2",
+  "object": "beer",
+  "name": "Big Easy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

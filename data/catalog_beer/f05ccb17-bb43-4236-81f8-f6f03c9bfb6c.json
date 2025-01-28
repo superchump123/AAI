@@ -1,0 +1,11 @@
+{
+  "id": "f05ccb17-bb43-4236-81f8-f6f03c9bfb6c",
+  "object": "beer",
+  "name": "Citra Legacy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

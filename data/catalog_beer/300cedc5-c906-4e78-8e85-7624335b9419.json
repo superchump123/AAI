@@ -1,0 +1,11 @@
+{
+  "id": "300cedc5-c906-4e78-8e85-7624335b9419",
+  "object": "beer",
+  "name": "TXPA Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

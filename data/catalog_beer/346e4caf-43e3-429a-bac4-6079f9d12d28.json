@@ -1,0 +1,11 @@
+{
+  "id": "346e4caf-43e3-429a-bac4-6079f9d12d28",
+  "object": "beer",
+  "name": "Pink Killer",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

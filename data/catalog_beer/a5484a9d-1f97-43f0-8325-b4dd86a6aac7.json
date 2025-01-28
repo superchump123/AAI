@@ -1,0 +1,11 @@
+{
+  "id": "a5484a9d-1f97-43f0-8325-b4dd86a6aac7",
+  "object": "beer",
+  "name": "White Blackbird",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

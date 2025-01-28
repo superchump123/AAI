@@ -1,0 +1,11 @@
+{
+  "id": "e1c93b46-97ef-4010-9414-7337cc3e5f23",
+  "object": "beer",
+  "name": "Van Dayum!",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

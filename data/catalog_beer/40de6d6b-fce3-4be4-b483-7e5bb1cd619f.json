@@ -1,0 +1,11 @@
+{
+  "id": "40de6d6b-fce3-4be4-b483-7e5bb1cd619f",
+  "object": "beer",
+  "name": "Pack Leader",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

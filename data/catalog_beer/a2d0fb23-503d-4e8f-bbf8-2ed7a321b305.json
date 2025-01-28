@@ -1,0 +1,11 @@
+{
+  "id": "a2d0fb23-503d-4e8f-bbf8-2ed7a321b305",
+  "object": "beer",
+  "name": "Wet Hop Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "de86c7b6-3eb0-4eec-a201-0d31def24422",
+  "object": "beer",
+  "name": "O'Hara's Celtic Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

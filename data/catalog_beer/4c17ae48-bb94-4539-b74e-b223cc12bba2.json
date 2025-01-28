@@ -1,0 +1,11 @@
+{
+  "id": "4c17ae48-bb94-4539-b74e-b223cc12bba2",
+  "object": "beer",
+  "name": "Upper Falls IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

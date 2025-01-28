@@ -1,0 +1,11 @@
+{
+  "id": "d14026ba-5f4e-492c-bc46-3c38b9d1a312",
+  "object": "beer",
+  "name": "Savage",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

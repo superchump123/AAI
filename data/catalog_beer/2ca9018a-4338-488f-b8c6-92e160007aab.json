@@ -1,0 +1,11 @@
+{
+  "id": "2ca9018a-4338-488f-b8c6-92e160007aab",
+  "object": "beer",
+  "name": "Barrel-Aged Old Rasputin XVIII",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

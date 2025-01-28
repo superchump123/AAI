@@ -1,0 +1,11 @@
+{
+  "id": "09e3a4af-6f7d-4258-bc16-4b8d4fa3fece",
+  "object": "beer",
+  "name": "Airship Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

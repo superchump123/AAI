@@ -1,0 +1,11 @@
+{
+  "id": "5b6605ce-4fa4-4f7e-a039-f8cbd3295064",
+  "object": "beer",
+  "name": "Abbaye d'Aulne Triple Brune",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

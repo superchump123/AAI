@@ -1,0 +1,11 @@
+{
+  "id": "9a14a556-0c11-4ab2-abe6-16964b9083a2",
+  "object": "beer",
+  "name": "Castlebrite Apricot Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

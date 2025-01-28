@@ -1,0 +1,11 @@
+{
+  "id": "41c546c7-2e15-4643-a9b6-d292057ba6bd",
+  "object": "beer",
+  "name": "Evan Altmighty",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

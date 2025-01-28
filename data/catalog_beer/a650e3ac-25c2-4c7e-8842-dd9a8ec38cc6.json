@@ -1,0 +1,11 @@
+{
+  "id": "a650e3ac-25c2-4c7e-8842-dd9a8ec38cc6",
+  "object": "beer",
+  "name": "Loose Caboose",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

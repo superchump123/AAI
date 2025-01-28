@@ -1,0 +1,11 @@
+{
+  "id": "d1c9692a-df47-4244-ab76-17f76b7e83a4",
+  "object": "beer",
+  "name": "Winter Warmer",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e129465b-42d0-4364-be57-9fcf5e21ca4d",
+  "object": "beer",
+  "name": "Nitro Red Ruckus",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

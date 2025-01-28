@@ -1,0 +1,11 @@
+{
+  "id": "04dff708-d98a-471e-838e-5846486448c1",
+  "object": "beer",
+  "name": "Tropicale IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

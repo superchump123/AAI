@@ -1,0 +1,11 @@
+{
+  "id": "39cf6271-a48e-456c-be28-62a1b16a2638",
+  "object": "beer",
+  "name": "Sour One",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

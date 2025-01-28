@@ -1,0 +1,11 @@
+{
+  "id": "b8d5e7a8-ea0c-42de-af76-2afa7d5c626b",
+  "object": "beer",
+  "name": "A Saison Darkly",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

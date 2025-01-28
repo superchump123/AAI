@@ -1,0 +1,11 @@
+{
+  "id": "d02f5e7a-0015-4db0-86c8-1f34626cc129",
+  "object": "beer",
+  "name": "Star Trek Klingon",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 7.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

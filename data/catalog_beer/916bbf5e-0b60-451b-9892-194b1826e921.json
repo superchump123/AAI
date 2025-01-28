@@ -1,0 +1,11 @@
+{
+  "id": "916bbf5e-0b60-451b-9892-194b1826e921",
+  "object": "beer",
+  "name": "Sea Haggis",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "27ee4c7b-5f51-4e77-94e4-442c90ecbcd8",
+  "object": "beer",
+  "name": "The Baywolf",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

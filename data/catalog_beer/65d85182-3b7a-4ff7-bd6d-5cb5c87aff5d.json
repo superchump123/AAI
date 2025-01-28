@@ -1,0 +1,11 @@
+{
+  "id": "65d85182-3b7a-4ff7-bd6d-5cb5c87aff5d",
+  "object": "beer",
+  "name": "Reverberation",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

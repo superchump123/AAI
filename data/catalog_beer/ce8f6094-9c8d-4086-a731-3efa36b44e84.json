@@ -1,0 +1,11 @@
+{
+  "id": "ce8f6094-9c8d-4086-a731-3efa36b44e84",
+  "object": "beer",
+  "name": "Brewed Awakening",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

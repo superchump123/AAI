@@ -1,0 +1,11 @@
+{
+  "id": "1fbe0cbf-4c64-4d92-b76c-c80894b1cffc",
+  "object": "beer",
+  "name": "Barrel-Aged Old Baba Yaga (Cognac)",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 115,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

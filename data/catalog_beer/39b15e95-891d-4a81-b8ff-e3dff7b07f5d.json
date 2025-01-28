@@ -1,0 +1,11 @@
+{
+  "id": "39b15e95-891d-4a81-b8ff-e3dff7b07f5d",
+  "object": "beer",
+  "name": "Citrus Maxima",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

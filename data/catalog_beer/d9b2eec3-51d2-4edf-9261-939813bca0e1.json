@@ -1,0 +1,11 @@
+{
+  "id": "d9b2eec3-51d2-4edf-9261-939813bca0e1",
+  "object": "beer",
+  "name": "Polly's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

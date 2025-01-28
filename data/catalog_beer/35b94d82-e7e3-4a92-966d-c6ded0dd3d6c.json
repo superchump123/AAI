@@ -1,0 +1,11 @@
+{
+  "id": "35b94d82-e7e3-4a92-966d-c6ded0dd3d6c",
+  "object": "beer",
+  "name": "Peaches",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

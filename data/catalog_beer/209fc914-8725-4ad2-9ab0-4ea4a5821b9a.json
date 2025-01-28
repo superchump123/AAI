@@ -1,0 +1,11 @@
+{
+  "id": "209fc914-8725-4ad2-9ab0-4ea4a5821b9a",
+  "object": "beer",
+  "name": "Witicus",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

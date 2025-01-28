@@ -1,0 +1,11 @@
+{
+  "id": "0575a883-f49a-4a92-8f6f-f50bf23b68a3",
+  "object": "beer",
+  "name": "Christoffel Blond",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

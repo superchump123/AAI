@@ -1,0 +1,11 @@
+{
+  "id": "c2d9f41b-2048-41d9-a03b-4c08a1f53b8b",
+  "object": "beer",
+  "name": "Twisted Strawberry Lemonade",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

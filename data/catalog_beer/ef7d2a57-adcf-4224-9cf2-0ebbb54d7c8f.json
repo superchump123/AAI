@@ -1,0 +1,11 @@
+{
+  "id": "ef7d2a57-adcf-4224-9cf2-0ebbb54d7c8f",
+  "object": "beer",
+  "name": "Golden Spike Light Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

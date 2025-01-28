@@ -1,0 +1,11 @@
+{
+  "id": "9bd5237b-e397-476f-9288-46fcc7b0c294",
+  "object": "beer",
+  "name": "Lamparito Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9dc1e8da-bbc3-432a-8e12-1408fde5618b",
+  "object": "beer",
+  "name": "Doubloon Double Pale Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

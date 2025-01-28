@@ -1,0 +1,11 @@
+{
+  "id": "64b5dc41-7922-4d0c-a902-f96fca3eee5e",
+  "object": "beer",
+  "name": "Ragnarok",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "01317d9b-53aa-4635-8b23-6076fe17b8b1",
+  "object": "beer",
+  "name": "Maltos Paradiso Zwickl",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

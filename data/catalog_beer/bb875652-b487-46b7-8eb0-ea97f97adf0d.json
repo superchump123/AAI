@@ -1,0 +1,11 @@
+{
+  "id": "bb875652-b487-46b7-8eb0-ea97f97adf0d",
+  "object": "beer",
+  "name": "Strawgator",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

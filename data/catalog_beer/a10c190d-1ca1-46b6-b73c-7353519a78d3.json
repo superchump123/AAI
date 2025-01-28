@@ -1,0 +1,11 @@
+{
+  "id": "a10c190d-1ca1-46b6-b73c-7353519a78d3",
+  "object": "beer",
+  "name": "Stone IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 77,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

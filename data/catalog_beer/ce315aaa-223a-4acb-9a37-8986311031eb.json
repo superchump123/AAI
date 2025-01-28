@@ -1,0 +1,11 @@
+{
+  "id": "ce315aaa-223a-4acb-9a37-8986311031eb",
+  "object": "beer",
+  "name": "Surfrider",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

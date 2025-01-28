@@ -1,0 +1,11 @@
+{
+  "id": "6ecf72b7-e658-4874-a778-39fdbee44503",
+  "object": "beer",
+  "name": "Hi-Pitch IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

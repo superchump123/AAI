@@ -1,0 +1,11 @@
+{
+  "id": "bb841699-d455-4688-9f10-7a96590bbc2a",
+  "object": "beer",
+  "name": "The Imperial Texan",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dec06669-2a02-42ca-b81d-56e42a1fcd50",
+  "object": "beer",
+  "name": "Joe Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

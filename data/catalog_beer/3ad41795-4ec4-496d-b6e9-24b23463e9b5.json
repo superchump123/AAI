@@ -1,0 +1,11 @@
+{
+  "id": "3ad41795-4ec4-496d-b6e9-24b23463e9b5",
+  "object": "beer",
+  "name": "Specht Pilsener",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

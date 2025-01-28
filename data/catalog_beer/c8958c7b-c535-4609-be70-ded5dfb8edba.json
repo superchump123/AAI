@@ -1,0 +1,11 @@
+{
+  "id": "c8958c7b-c535-4609-be70-ded5dfb8edba",
+  "object": "beer",
+  "name": "King Slayer",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

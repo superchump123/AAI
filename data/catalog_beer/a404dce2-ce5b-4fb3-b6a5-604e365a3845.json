@@ -1,0 +1,11 @@
+{
+  "id": "a404dce2-ce5b-4fb3-b6a5-604e365a3845",
+  "object": "beer",
+  "name": "Dirt Dauber",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

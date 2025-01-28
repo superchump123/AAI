@@ -1,0 +1,11 @@
+{
+  "id": "f4a853b3-e13e-495b-86a9-71fce478dfb9",
+  "object": "beer",
+  "name": "A. Strange Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

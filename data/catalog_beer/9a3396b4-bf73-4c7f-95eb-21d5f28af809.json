@@ -1,0 +1,11 @@
+{
+  "id": "9a3396b4-bf73-4c7f-95eb-21d5f28af809",
+  "object": "beer",
+  "name": "Pahlay'Ahlay",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

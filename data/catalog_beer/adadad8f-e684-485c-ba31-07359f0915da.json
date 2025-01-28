@@ -1,0 +1,11 @@
+{
+  "id": "adadad8f-e684-485c-ba31-07359f0915da",
+  "object": "beer",
+  "name": "Radler Bier",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

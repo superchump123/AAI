@@ -1,0 +1,11 @@
+{
+  "id": "e4333852-a044-4783-ad9a-787ed88d7d3a",
+  "object": "beer",
+  "name": "Soleil Couchant",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

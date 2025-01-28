@@ -1,0 +1,11 @@
+{
+  "id": "82c324b5-98e2-4def-9958-f06fc74bf57c",
+  "object": "beer",
+  "name": "Dingo Aussie Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

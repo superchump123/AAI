@@ -1,0 +1,11 @@
+{
+  "id": "4686abdd-2712-4e47-9b37-21f70c5f6e0c",
+  "object": "beer",
+  "name": "Brown Bag",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

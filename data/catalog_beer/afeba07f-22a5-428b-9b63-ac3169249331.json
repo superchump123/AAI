@@ -1,0 +1,11 @@
+{
+  "id": "afeba07f-22a5-428b-9b63-ac3169249331",
+  "object": "beer",
+  "name": "The Buk",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

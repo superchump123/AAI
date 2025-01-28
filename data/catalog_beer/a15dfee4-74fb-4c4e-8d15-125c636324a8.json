@@ -1,0 +1,11 @@
+{
+  "id": "a15dfee4-74fb-4c4e-8d15-125c636324a8",
+  "object": "beer",
+  "name": "Dunkel",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a6175b6e-a50e-483d-ab5b-29afd639f13a",
+  "object": "beer",
+  "name": "Rascal's Wild Red",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

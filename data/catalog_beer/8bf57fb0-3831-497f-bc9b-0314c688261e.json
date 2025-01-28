@@ -1,0 +1,11 @@
+{
+  "id": "8bf57fb0-3831-497f-bc9b-0314c688261e",
+  "object": "beer",
+  "name": "Bean Gene",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

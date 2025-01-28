@@ -1,0 +1,11 @@
+{
+  "id": "b6706361-07ab-4b25-8a79-64b167aa1940",
+  "object": "beer",
+  "name": "Booyah",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

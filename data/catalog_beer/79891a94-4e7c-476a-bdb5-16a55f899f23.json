@@ -1,0 +1,11 @@
+{
+  "id": "79891a94-4e7c-476a-bdb5-16a55f899f23",
+  "object": "beer",
+  "name": "Soup Du Jour",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

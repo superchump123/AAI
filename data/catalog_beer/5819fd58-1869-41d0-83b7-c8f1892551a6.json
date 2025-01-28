@@ -1,0 +1,11 @@
+{
+  "id": "5819fd58-1869-41d0-83b7-c8f1892551a6",
+  "object": "beer",
+  "name": "Robot Surf Factory",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

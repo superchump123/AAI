@@ -1,0 +1,11 @@
+{
+  "id": "f0551a55-c4c7-42f0-a3f3-116e475e394d",
+  "object": "beer",
+  "name": "Citropica",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

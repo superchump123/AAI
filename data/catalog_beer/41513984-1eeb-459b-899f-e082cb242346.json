@@ -1,0 +1,11 @@
+{
+  "id": "41513984-1eeb-459b-899f-e082cb242346",
+  "object": "beer",
+  "name": "Morning NoDaVation",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

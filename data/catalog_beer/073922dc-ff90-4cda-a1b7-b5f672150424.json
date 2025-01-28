@@ -1,0 +1,11 @@
+{
+  "id": "073922dc-ff90-4cda-a1b7-b5f672150424",
+  "object": "beer",
+  "name": "Premium Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

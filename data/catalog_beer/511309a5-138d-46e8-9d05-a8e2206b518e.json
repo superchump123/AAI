@@ -1,0 +1,11 @@
+{
+  "id": "511309a5-138d-46e8-9d05-a8e2206b518e",
+  "object": "beer",
+  "name": "Blackberry Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

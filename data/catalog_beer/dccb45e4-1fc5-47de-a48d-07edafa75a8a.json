@@ -1,0 +1,11 @@
+{
+  "id": "dccb45e4-1fc5-47de-a48d-07edafa75a8a",
+  "object": "beer",
+  "name": "FacePuncher IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

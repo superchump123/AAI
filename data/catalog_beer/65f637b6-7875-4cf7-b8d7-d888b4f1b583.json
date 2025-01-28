@@ -1,0 +1,11 @@
+{
+  "id": "65f637b6-7875-4cf7-b8d7-d888b4f1b583",
+  "object": "beer",
+  "name": "Sierra Nevada Oktoberfest",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

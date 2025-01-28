@@ -1,0 +1,11 @@
+{
+  "id": "f4e325f6-4c92-421a-b2cf-fc18f237ea6f",
+  "object": "beer",
+  "name": "Lake Street Express",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

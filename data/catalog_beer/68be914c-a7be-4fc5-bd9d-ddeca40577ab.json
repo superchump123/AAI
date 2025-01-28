@@ -1,0 +1,11 @@
+{
+  "id": "68be914c-a7be-4fc5-bd9d-ddeca40577ab",
+  "object": "beer",
+  "name": "NVC IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

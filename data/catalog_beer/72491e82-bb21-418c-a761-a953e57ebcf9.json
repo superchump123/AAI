@@ -1,0 +1,11 @@
+{
+  "id": "72491e82-bb21-418c-a761-a953e57ebcf9",
+  "object": "beer",
+  "name": "Junior Hoppia",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

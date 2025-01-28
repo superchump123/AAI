@@ -1,0 +1,11 @@
+{
+  "id": "4cf25c3f-e17d-4dcb-8a6b-74459cd9a5b6",
+  "object": "beer",
+  "name": "Miners Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

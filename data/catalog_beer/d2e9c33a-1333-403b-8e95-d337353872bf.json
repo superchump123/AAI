@@ -1,0 +1,11 @@
+{
+  "id": "d2e9c33a-1333-403b-8e95-d337353872bf",
+  "object": "beer",
+  "name": "Session CHC",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "68aae0bc-5742-48c4-8c83-1a9501bff618",
+  "object": "beer",
+  "name": "BarrelHouse Honey Ginger",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

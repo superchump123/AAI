@@ -1,0 +1,11 @@
+{
+  "id": "ef35b724-05ad-44c1-b6e8-ff7b2fe0051e",
+  "object": "beer",
+  "name": "River Bend Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

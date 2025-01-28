@@ -1,0 +1,11 @@
+{
+  "id": "8ecef648-8e30-40fc-b4b1-e91ea8cbe727",
+  "object": "beer",
+  "name": "Dutch Girl Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

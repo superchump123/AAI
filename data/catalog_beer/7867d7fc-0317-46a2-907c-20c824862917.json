@@ -1,0 +1,11 @@
+{
+  "id": "7867d7fc-0317-46a2-907c-20c824862917",
+  "object": "beer",
+  "name": "Winter Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

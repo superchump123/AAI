@@ -1,0 +1,11 @@
+{
+  "id": "1a98c14b-0723-417c-b7af-2c7126f0a4cf",
+  "object": "beer",
+  "name": "TAP3 Mein Alkoholfrei",
+  "style": "Non-Alcoholic (Beer) Malt Beverages",
+  "description": null,
+  "abv": 0.3,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

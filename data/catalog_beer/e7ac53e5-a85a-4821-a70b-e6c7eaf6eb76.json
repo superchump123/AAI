@@ -1,0 +1,11 @@
+{
+  "id": "e7ac53e5-a85a-4821-a70b-e6c7eaf6eb76",
+  "object": "beer",
+  "name": "Eugene Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

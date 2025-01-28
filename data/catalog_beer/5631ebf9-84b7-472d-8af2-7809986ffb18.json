@@ -1,0 +1,11 @@
+{
+  "id": "5631ebf9-84b7-472d-8af2-7809986ffb18",
+  "object": "beer",
+  "name": "Benedict Cumberbatch",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

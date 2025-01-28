@@ -1,0 +1,11 @@
+{
+  "id": "172dab7d-2fe2-41b7-95eb-ca89678b0cf9",
+  "object": "beer",
+  "name": "Lemon Sage Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

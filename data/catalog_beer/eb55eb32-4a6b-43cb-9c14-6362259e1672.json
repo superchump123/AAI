@@ -1,0 +1,11 @@
+{
+  "id": "eb55eb32-4a6b-43cb-9c14-6362259e1672",
+  "object": "beer",
+  "name": "Sarah Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1bfad719-4534-442f-a082-d2cca3ffed42",
+  "object": "beer",
+  "name": "Semi-Dry Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

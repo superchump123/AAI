@@ -1,0 +1,11 @@
+{
+  "id": "615e8a75-24ec-4cc8-8cc2-ad4ebb71a3c1",
+  "object": "beer",
+  "name": "Agave Wheat",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

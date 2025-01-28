@@ -1,0 +1,11 @@
+{
+  "id": "ea87897e-90ca-4a74-a128-d8e8507250c2",
+  "object": "beer",
+  "name": "The Shack IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

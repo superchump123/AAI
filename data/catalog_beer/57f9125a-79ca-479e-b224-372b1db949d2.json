@@ -1,0 +1,11 @@
+{
+  "id": "57f9125a-79ca-479e-b224-372b1db949d2",
+  "object": "beer",
+  "name": "Cold Fusion Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

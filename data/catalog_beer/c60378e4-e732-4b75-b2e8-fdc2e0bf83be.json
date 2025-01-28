@@ -1,0 +1,11 @@
+{
+  "id": "c60378e4-e732-4b75-b2e8-fdc2e0bf83be",
+  "object": "beer",
+  "name": "Wiesen Edel Weisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "02b86677-6c1b-4095-af7a-dbd362a3ced7",
+  "object": "beer",
+  "name": "Q2 Brettanomyces Saison Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

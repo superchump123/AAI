@@ -1,0 +1,11 @@
+{
+  "id": "33d7a53c-ac67-41f1-b288-8dde3653d6f9",
+  "object": "beer",
+  "name": "Four Alarm Alt",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

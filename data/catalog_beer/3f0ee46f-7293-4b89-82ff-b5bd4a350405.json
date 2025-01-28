@@ -1,0 +1,11 @@
+{
+  "id": "3f0ee46f-7293-4b89-82ff-b5bd4a350405",
+  "object": "beer",
+  "name": "Acorn Squash Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

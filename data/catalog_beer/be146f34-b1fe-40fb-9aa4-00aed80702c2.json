@@ -1,0 +1,11 @@
+{
+  "id": "be146f34-b1fe-40fb-9aa4-00aed80702c2",
+  "object": "beer",
+  "name": "Skankin Dirty",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

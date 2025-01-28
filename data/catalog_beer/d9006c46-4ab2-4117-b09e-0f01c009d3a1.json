@@ -1,0 +1,11 @@
+{
+  "id": "d9006c46-4ab2-4117-b09e-0f01c009d3a1",
+  "object": "beer",
+  "name": "Rauchstack",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

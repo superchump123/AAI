@@ -1,0 +1,11 @@
+{
+  "id": "ce4d4e6e-a714-4f54-a458-113fdb9adf5c",
+  "object": "beer",
+  "name": "Fatali Four",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3b786bfc-0961-44c9-b0b6-128e22463602",
+  "object": "beer",
+  "name": "Dry Hopped IPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

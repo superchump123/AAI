@@ -1,0 +1,11 @@
+{
+  "id": "5c0d5d6d-dedb-47f5-96c1-83e9d097e28a",
+  "object": "beer",
+  "name": "Felony IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

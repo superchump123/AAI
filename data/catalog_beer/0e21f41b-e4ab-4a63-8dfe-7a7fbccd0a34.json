@@ -1,0 +1,11 @@
+{
+  "id": "0e21f41b-e4ab-4a63-8dfe-7a7fbccd0a34",
+  "object": "beer",
+  "name": "The Enforcer Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

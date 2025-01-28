@@ -1,0 +1,11 @@
+{
+  "id": "7e7084e7-23f1-4cfc-9955-bcef0f769915",
+  "object": "beer",
+  "name": "Skinny Monk",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

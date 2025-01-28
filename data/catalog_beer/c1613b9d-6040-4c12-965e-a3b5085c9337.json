@@ -1,0 +1,11 @@
+{
+  "id": "c1613b9d-6040-4c12-965e-a3b5085c9337",
+  "object": "beer",
+  "name": "Up All Night",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

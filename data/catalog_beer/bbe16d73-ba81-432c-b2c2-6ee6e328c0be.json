@@ -1,0 +1,11 @@
+{
+  "id": "bbe16d73-ba81-432c-b2c2-6ee6e328c0be",
+  "object": "beer",
+  "name": "Two Headed Unicorn",
+  "style": "Braggot",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

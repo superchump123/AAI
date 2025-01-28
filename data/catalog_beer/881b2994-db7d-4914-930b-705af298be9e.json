@@ -1,0 +1,11 @@
+{
+  "id": "881b2994-db7d-4914-930b-705af298be9e",
+  "object": "beer",
+  "name": "The Ocho",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

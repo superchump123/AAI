@@ -1,0 +1,11 @@
+{
+  "id": "da03cabe-bd97-46a0-8665-9b526383c582",
+  "object": "beer",
+  "name": "Hawt Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

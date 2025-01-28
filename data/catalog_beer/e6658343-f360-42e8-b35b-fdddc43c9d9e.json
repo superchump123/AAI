@@ -1,0 +1,11 @@
+{
+  "id": "e6658343-f360-42e8-b35b-fdddc43c9d9e",
+  "object": "beer",
+  "name": "Alice Porter",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

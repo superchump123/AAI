@@ -1,0 +1,11 @@
+{
+  "id": "f10675a3-9bb8-4625-a0d5-e011c775b808",
+  "object": "beer",
+  "name": "Hallertau Blanc Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

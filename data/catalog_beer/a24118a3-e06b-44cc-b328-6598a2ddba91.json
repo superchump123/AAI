@@ -1,0 +1,11 @@
+{
+  "id": "a24118a3-e06b-44cc-b328-6598a2ddba91",
+  "object": "beer",
+  "name": "Fox Tail",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

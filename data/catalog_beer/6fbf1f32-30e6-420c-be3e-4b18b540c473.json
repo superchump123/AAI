@@ -1,0 +1,11 @@
+{
+  "id": "6fbf1f32-30e6-420c-be3e-4b18b540c473",
+  "object": "beer",
+  "name": "Weekender",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

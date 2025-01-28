@@ -1,0 +1,11 @@
+{
+  "id": "ba39a1c4-311b-4c0e-8b8a-3a68c324c084",
+  "object": "beer",
+  "name": "BK Sour",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

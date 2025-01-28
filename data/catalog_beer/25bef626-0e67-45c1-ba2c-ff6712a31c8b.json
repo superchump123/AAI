@@ -1,0 +1,11 @@
+{
+  "id": "25bef626-0e67-45c1-ba2c-ff6712a31c8b",
+  "object": "beer",
+  "name": "Batch 014: Whirlpool of Hops",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

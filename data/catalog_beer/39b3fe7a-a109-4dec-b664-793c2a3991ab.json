@@ -1,0 +1,11 @@
+{
+  "id": "39b3fe7a-a109-4dec-b664-793c2a3991ab",
+  "object": "beer",
+  "name": "Cestero Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

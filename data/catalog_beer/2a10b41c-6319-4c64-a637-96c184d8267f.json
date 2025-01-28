@@ -1,0 +1,11 @@
+{
+  "id": "2a10b41c-6319-4c64-a637-96c184d8267f",
+  "object": "beer",
+  "name": "Bomber Marzen",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "471b6507-7160-457f-af0c-41bf52f60c36",
+  "object": "beer",
+  "name": "Wicket IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

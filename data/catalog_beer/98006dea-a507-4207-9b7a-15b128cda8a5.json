@@ -1,0 +1,11 @@
+{
+  "id": "98006dea-a507-4207-9b7a-15b128cda8a5",
+  "object": "beer",
+  "name": "Cat Lady",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

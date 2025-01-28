@@ -1,0 +1,11 @@
+{
+  "id": "5b0a7a19-0450-4e87-915e-eb0179003d4e",
+  "object": "beer",
+  "name": "Tyrant Double Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

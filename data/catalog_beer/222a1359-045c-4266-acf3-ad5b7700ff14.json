@@ -1,0 +1,11 @@
+{
+  "id": "222a1359-045c-4266-acf3-ad5b7700ff14",
+  "object": "beer",
+  "name": "Monk from the 'Yunk",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

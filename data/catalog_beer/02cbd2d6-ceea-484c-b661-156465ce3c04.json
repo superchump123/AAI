@@ -1,0 +1,11 @@
+{
+  "id": "02cbd2d6-ceea-484c-b661-156465ce3c04",
+  "object": "beer",
+  "name": "Stretch Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

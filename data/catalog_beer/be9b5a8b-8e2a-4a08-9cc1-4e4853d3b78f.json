@@ -1,0 +1,11 @@
+{
+  "id": "be9b5a8b-8e2a-4a08-9cc1-4e4853d3b78f",
+  "object": "beer",
+  "name": "Katrina",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

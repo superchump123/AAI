@@ -1,0 +1,11 @@
+{
+  "id": "4515690d-5b27-4985-b24a-2bba8b4c0e5e",
+  "object": "beer",
+  "name": "MoonJuice IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

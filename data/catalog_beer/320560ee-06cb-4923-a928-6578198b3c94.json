@@ -1,0 +1,11 @@
+{
+  "id": "320560ee-06cb-4923-a928-6578198b3c94",
+  "object": "beer",
+  "name": "Pacer",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

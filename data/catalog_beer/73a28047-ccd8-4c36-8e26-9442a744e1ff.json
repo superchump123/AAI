@@ -1,0 +1,11 @@
+{
+  "id": "73a28047-ccd8-4c36-8e26-9442a744e1ff",
+  "object": "beer",
+  "name": "Backyard Bonfire Smoked IPA",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 7,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

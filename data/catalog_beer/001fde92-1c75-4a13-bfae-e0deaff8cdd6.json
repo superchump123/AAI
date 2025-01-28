@@ -1,0 +1,11 @@
+{
+  "id": "001fde92-1c75-4a13-bfae-e0deaff8cdd6",
+  "object": "beer",
+  "name": "Kasteel Hoppy",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

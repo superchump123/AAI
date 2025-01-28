@@ -1,0 +1,11 @@
+{
+  "id": "7f297fbb-d22b-4a89-8d3a-f2f4a3fad89b",
+  "object": "beer",
+  "name": "Freckled Rooster",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

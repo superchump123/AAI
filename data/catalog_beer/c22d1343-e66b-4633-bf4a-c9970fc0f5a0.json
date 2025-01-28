@@ -1,0 +1,11 @@
+{
+  "id": "c22d1343-e66b-4633-bf4a-c9970fc0f5a0",
+  "object": "beer",
+  "name": "Pucwudgie",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b337d0ad-57a7-4617-8970-05e85cf65d96",
+  "object": "beer",
+  "name": "Weiss Cracker",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

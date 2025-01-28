@@ -1,0 +1,11 @@
+{
+  "id": "e0bdb4fa-e516-4acd-addf-f31282e94cd7",
+  "object": "beer",
+  "name": "B9 Belgian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

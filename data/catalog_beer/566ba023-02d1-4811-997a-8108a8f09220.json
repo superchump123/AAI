@@ -1,0 +1,11 @@
+{
+  "id": "566ba023-02d1-4811-997a-8108a8f09220",
+  "object": "beer",
+  "name": "BerlinerWeiss",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5e5fdae3-0330-48da-84d9-755f31bd8887",
+  "object": "beer",
+  "name": "Black Bavarian",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

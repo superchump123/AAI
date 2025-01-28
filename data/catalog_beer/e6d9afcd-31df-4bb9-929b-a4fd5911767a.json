@@ -1,0 +1,11 @@
+{
+  "id": "e6d9afcd-31df-4bb9-929b-a4fd5911767a",
+  "object": "beer",
+  "name": "Shucker's Dozen",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

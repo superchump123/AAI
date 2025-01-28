@@ -1,0 +1,11 @@
+{
+  "id": "6caf3146-dff2-4c0b-9f8d-5698ec36b94c",
+  "object": "beer",
+  "name": "One Claw",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

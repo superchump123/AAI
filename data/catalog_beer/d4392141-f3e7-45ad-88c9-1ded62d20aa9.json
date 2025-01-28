@@ -1,0 +1,11 @@
+{
+  "id": "d4392141-f3e7-45ad-88c9-1ded62d20aa9",
+  "object": "beer",
+  "name": "Henry's Wheat Ale",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

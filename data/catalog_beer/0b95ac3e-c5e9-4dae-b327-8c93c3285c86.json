@@ -1,0 +1,11 @@
+{
+  "id": "0b95ac3e-c5e9-4dae-b327-8c93c3285c86",
+  "object": "beer",
+  "name": "As the Crow Flies Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5a4af535-a671-402c-898a-1de81b72c6c5",
+  "object": "beer",
+  "name": "Flawless Victory IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

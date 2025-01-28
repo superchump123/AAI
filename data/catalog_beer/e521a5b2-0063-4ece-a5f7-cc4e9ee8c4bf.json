@@ -1,0 +1,11 @@
+{
+  "id": "e521a5b2-0063-4ece-a5f7-cc4e9ee8c4bf",
+  "object": "beer",
+  "name": "Somerset",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

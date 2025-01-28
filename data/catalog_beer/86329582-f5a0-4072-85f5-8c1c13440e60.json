@@ -1,0 +1,11 @@
+{
+  "id": "86329582-f5a0-4072-85f5-8c1c13440e60",
+  "object": "beer",
+  "name": "Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

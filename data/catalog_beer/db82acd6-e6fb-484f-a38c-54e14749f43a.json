@@ -1,0 +1,11 @@
+{
+  "id": "db82acd6-e6fb-484f-a38c-54e14749f43a",
+  "object": "beer",
+  "name": "Kinroo Blue",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

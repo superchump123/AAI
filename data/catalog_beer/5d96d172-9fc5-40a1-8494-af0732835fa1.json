@@ -1,0 +1,11 @@
+{
+  "id": "5d96d172-9fc5-40a1-8494-af0732835fa1",
+  "object": "beer",
+  "name": "Subluminal Coffee",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

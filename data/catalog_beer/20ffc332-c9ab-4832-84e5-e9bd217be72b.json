@@ -1,0 +1,11 @@
+{
+  "id": "20ffc332-c9ab-4832-84e5-e9bd217be72b",
+  "object": "beer",
+  "name": "RYEsing Up",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e225d22d-423f-4784-807b-040d5eec34e1",
+  "object": "beer",
+  "name": "Arch Sunshine",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

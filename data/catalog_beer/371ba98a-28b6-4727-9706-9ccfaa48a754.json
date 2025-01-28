@@ -1,0 +1,11 @@
+{
+  "id": "371ba98a-28b6-4727-9706-9ccfaa48a754",
+  "object": "beer",
+  "name": "Granero",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

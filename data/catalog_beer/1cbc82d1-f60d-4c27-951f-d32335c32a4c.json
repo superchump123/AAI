@@ -1,0 +1,11 @@
+{
+  "id": "1cbc82d1-f60d-4c27-951f-d32335c32a4c",
+  "object": "beer",
+  "name": "Gold Rush",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

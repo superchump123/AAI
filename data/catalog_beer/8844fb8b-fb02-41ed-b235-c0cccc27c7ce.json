@@ -1,0 +1,11 @@
+{
+  "id": "8844fb8b-fb02-41ed-b235-c0cccc27c7ce",
+  "object": "beer",
+  "name": "Segway to Munich",
+  "style": "Helles Munich Lager",
+  "description": "A clean, malt-forward German lager with a smooth, dry finish. The subtle use of the popular Bavarian hop variety, Haullertau, the flavor is well balanced between malt and light sweetness. This is a crisp and refreshing, everyday beer.",
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1511484230
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c6cf2a6b-3532-4eb4-b67e-08fc2227539b",
+  "object": "beer",
+  "name": "Wild Ride India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

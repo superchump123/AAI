@@ -1,0 +1,11 @@
+{
+  "id": "195dfe92-bc22-4b28-8600-da945340c3bd",
+  "object": "beer",
+  "name": "The Platypus",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

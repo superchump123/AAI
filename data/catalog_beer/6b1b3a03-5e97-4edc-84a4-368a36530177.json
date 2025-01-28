@@ -1,0 +1,11 @@
+{
+  "id": "6b1b3a03-5e97-4edc-84a4-368a36530177",
+  "object": "beer",
+  "name": "Magic Twanger",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

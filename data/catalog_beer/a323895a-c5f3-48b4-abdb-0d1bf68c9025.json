@@ -1,0 +1,11 @@
+{
+  "id": "a323895a-c5f3-48b4-abdb-0d1bf68c9025",
+  "object": "beer",
+  "name": "Garnet",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

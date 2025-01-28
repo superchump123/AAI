@@ -1,0 +1,11 @@
+{
+  "id": "bd312885-b13b-486d-9e74-32d97243eca2",
+  "object": "beer",
+  "name": "Armstrong Double Pale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

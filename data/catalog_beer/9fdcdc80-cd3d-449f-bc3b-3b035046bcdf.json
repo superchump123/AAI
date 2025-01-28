@@ -1,0 +1,11 @@
+{
+  "id": "9fdcdc80-cd3d-449f-bc3b-3b035046bcdf",
+  "object": "beer",
+  "name": "Derby Girl ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

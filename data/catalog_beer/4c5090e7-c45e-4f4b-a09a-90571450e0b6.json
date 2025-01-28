@@ -1,0 +1,11 @@
+{
+  "id": "4c5090e7-c45e-4f4b-a09a-90571450e0b6",
+  "object": "beer",
+  "name": "Foggy Scotsman Porter",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

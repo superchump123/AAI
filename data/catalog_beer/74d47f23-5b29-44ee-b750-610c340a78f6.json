@@ -1,0 +1,11 @@
+{
+  "id": "74d47f23-5b29-44ee-b750-610c340a78f6",
+  "object": "beer",
+  "name": "Silly Yak GFA",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

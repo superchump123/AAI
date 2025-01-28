@@ -1,0 +1,11 @@
+{
+  "id": "c5a356cc-798a-4a63-9918-c523dd88c57d",
+  "object": "beer",
+  "name": "Big Jim",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

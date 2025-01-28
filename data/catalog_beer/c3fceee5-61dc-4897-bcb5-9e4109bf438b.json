@@ -1,0 +1,11 @@
+{
+  "id": "c3fceee5-61dc-4897-bcb5-9e4109bf438b",
+  "object": "beer",
+  "name": "Lucky 45 Graham Cracker Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

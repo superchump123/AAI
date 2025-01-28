@@ -1,0 +1,11 @@
+{
+  "id": "9fd0b454-ddf6-4c47-821c-90fb3344488d",
+  "object": "beer",
+  "name": "Three Socks IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

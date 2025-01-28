@@ -1,0 +1,11 @@
+{
+  "id": "ca719d3e-dfa9-40c5-bd1f-7e96faf841a6",
+  "object": "beer",
+  "name": "Tryst Amarillo",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ac7266a-3b60-459e-b810-122998ff24d4",
+  "object": "beer",
+  "name": "White Sun",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

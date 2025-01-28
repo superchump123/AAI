@@ -1,0 +1,11 @@
+{
+  "id": "fec3c6b8-57b2-42f0-ab18-6ea24649dd45",
+  "object": "beer",
+  "name": "Wild Puppy",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

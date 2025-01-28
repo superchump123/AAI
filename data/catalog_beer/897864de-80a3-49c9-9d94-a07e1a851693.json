@@ -1,0 +1,11 @@
+{
+  "id": "897864de-80a3-49c9-9d94-a07e1a851693",
+  "object": "beer",
+  "name": "Hopular Kid",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

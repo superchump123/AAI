@@ -1,0 +1,11 @@
+{
+  "id": "29ec98ac-05d8-4cfb-a06d-3d246f5d6e7c",
+  "object": "beer",
+  "name": "Michigan Pine Dry Hopped Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

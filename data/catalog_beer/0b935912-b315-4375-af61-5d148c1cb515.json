@@ -1,0 +1,11 @@
+{
+  "id": "0b935912-b315-4375-af61-5d148c1cb515",
+  "object": "beer",
+  "name": "White Lightning \uf078",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

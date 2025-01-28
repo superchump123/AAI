@@ -1,0 +1,11 @@
+{
+  "id": "0f851514-128e-4a02-9362-e7e31926b550",
+  "object": "beer",
+  "name": "Poulsbo Abbey Ale",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

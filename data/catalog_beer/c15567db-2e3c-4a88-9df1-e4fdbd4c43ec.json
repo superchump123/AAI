@@ -1,0 +1,11 @@
+{
+  "id": "c15567db-2e3c-4a88-9df1-e4fdbd4c43ec",
+  "object": "beer",
+  "name": "Black Tail Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

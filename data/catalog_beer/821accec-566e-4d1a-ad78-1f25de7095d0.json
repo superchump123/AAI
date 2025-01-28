@@ -1,0 +1,11 @@
+{
+  "id": "821accec-566e-4d1a-ad78-1f25de7095d0",
+  "object": "beer",
+  "name": "Bays Dark Ale",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 4,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "baecdf78-3cb4-4b2f-9c8b-46f1d2fe149c",
+  "object": "beer",
+  "name": "Aviator",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

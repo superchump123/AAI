@@ -1,0 +1,11 @@
+{
+  "id": "26b257a6-33b8-46d8-a9b0-dc8e1013b4c6",
+  "object": "beer",
+  "name": "Wade's RyePA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

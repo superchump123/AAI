@@ -1,0 +1,11 @@
+{
+  "id": "a9b4e986-b4cf-4d92-9428-ab7fcc7a7e71",
+  "object": "beer",
+  "name": "Corners Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

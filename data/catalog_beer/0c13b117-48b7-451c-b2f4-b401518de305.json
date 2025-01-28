@@ -1,0 +1,11 @@
+{
+  "id": "0c13b117-48b7-451c-b2f4-b401518de305",
+  "object": "beer",
+  "name": "Phantom Raspberry",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

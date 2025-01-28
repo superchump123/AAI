@@ -1,0 +1,11 @@
+{
+  "id": "7d9ea9dd-1e03-44b5-a807-b560fa9f1110",
+  "object": "beer",
+  "name": "Jonah",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

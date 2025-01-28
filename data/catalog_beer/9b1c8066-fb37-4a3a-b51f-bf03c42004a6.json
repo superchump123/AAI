@@ -1,0 +1,11 @@
+{
+  "id": "9b1c8066-fb37-4a3a-b51f-bf03c42004a6",
+  "object": "beer",
+  "name": "Cape Cod Stock Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

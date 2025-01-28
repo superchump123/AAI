@@ -1,0 +1,11 @@
+{
+  "id": "e1323bd5-e478-41f0-8569-8c783f715ee3",
+  "object": "beer",
+  "name": "Double Cross IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

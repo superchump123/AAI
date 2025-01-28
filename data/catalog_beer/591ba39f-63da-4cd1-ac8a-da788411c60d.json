@@ -1,0 +1,11 @@
+{
+  "id": "591ba39f-63da-4cd1-ac8a-da788411c60d",
+  "object": "beer",
+  "name": "Honey Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

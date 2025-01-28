@@ -1,0 +1,11 @@
+{
+  "id": "ed05e38f-c7f3-40ac-97f4-11b41d25b1b2",
+  "object": "beer",
+  "name": "More Consistenter",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

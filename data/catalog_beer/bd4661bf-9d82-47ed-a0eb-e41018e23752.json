@@ -1,0 +1,11 @@
+{
+  "id": "bd4661bf-9d82-47ed-a0eb-e41018e23752",
+  "object": "beer",
+  "name": "Flat Track Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

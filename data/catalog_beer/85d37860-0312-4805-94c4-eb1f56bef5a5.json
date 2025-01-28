@@ -1,0 +1,11 @@
+{
+  "id": "85d37860-0312-4805-94c4-eb1f56bef5a5",
+  "object": "beer",
+  "name": "Trafalgar IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

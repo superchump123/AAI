@@ -1,0 +1,11 @@
+{
+  "id": "c373095a-def7-4428-b600-522fc162bc6f",
+  "object": "beer",
+  "name": "Alpha Male Bourbon Barrel Aged",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

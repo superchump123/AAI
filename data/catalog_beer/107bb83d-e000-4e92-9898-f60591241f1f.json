@@ -1,0 +1,11 @@
+{
+  "id": "107bb83d-e000-4e92-9898-f60591241f1f",
+  "object": "beer",
+  "name": "Karbachtoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

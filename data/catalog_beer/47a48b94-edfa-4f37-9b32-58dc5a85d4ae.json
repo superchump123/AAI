@@ -1,0 +1,11 @@
+{
+  "id": "47a48b94-edfa-4f37-9b32-58dc5a85d4ae",
+  "object": "beer",
+  "name": "TED\u2019s Watermelon Ale",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

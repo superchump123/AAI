@@ -1,0 +1,11 @@
+{
+  "id": "4cb2099a-d04c-4789-b2b0-95c2527d5d6c",
+  "object": "beer",
+  "name": "Brickway Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

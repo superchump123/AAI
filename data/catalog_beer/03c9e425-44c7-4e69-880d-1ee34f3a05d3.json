@@ -1,0 +1,11 @@
+{
+  "id": "03c9e425-44c7-4e69-880d-1ee34f3a05d3",
+  "object": "beer",
+  "name": "MadDog Curtis' IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

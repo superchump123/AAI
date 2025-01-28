@@ -1,0 +1,11 @@
+{
+  "id": "596122ee-6456-4dd4-9baf-fec7463f4c9c",
+  "object": "beer",
+  "name": "Somethin' Shandy",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

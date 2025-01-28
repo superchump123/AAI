@@ -1,0 +1,11 @@
+{
+  "id": "4d548193-f93b-48ea-92b4-4455c1aab347",
+  "object": "beer",
+  "name": "Mexi Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

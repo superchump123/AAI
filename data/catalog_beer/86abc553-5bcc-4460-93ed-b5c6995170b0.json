@@ -1,0 +1,11 @@
+{
+  "id": "86abc553-5bcc-4460-93ed-b5c6995170b0",
+  "object": "beer",
+  "name": "Boulder Common",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

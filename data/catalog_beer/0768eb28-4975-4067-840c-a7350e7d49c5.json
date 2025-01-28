@@ -1,0 +1,11 @@
+{
+  "id": "0768eb28-4975-4067-840c-a7350e7d49c5",
+  "object": "beer",
+  "name": "Give Me Stout or Give Me Death",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

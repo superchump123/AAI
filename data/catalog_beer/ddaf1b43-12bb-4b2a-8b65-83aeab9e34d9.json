@@ -1,0 +1,11 @@
+{
+  "id": "ddaf1b43-12bb-4b2a-8b65-83aeab9e34d9",
+  "object": "beer",
+  "name": "HopFive IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

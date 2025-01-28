@@ -1,0 +1,11 @@
+{
+  "id": "4c91b8d8-6c5a-454a-98d3-679185b6b2da",
+  "object": "beer",
+  "name": "The Peace That Money Can't Buy",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

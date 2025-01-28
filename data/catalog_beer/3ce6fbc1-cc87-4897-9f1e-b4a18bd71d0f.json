@@ -1,0 +1,11 @@
+{
+  "id": "3ce6fbc1-cc87-4897-9f1e-b4a18bd71d0f",
+  "object": "beer",
+  "name": "Abbey Roade Belgian Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "697cf572-ce08-44d9-aa3a-c474190cc827",
+  "object": "beer",
+  "name": "Tomfoolery",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

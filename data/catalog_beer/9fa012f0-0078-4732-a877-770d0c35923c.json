@@ -1,0 +1,11 @@
+{
+  "id": "9fa012f0-0078-4732-a877-770d0c35923c",
+  "object": "beer",
+  "name": "Spiced Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

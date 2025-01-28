@@ -1,0 +1,11 @@
+{
+  "id": "b8c5e4fa-12d4-4c5f-80e5-c471790e0d6b",
+  "object": "beer",
+  "name": "Huckleberry Honey Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

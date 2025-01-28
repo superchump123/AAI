@@ -1,0 +1,11 @@
+{
+  "id": "55b53c86-ba6c-49e8-9e21-99e9b03e6a00",
+  "object": "beer",
+  "name": "Schweet Ale",
+  "style": "Fruit Wheat Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

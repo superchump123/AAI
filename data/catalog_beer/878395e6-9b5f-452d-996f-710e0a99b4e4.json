@@ -1,0 +1,11 @@
+{
+  "id": "878395e6-9b5f-452d-996f-710e0a99b4e4",
+  "object": "beer",
+  "name": "Indiana PA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

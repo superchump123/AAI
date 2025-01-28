@@ -1,0 +1,11 @@
+{
+  "id": "b4ab50c2-1140-4cb1-b794-ecbeda413959",
+  "object": "beer",
+  "name": "Manch-Vegas I.P.A.",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

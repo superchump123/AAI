@@ -1,0 +1,11 @@
+{
+  "id": "543bf3df-929e-4f02-b5d5-e8d9515ae518",
+  "object": "beer",
+  "name": "Enlighten Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

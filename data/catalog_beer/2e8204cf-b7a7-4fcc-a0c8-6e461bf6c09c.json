@@ -1,0 +1,11 @@
+{
+  "id": "2e8204cf-b7a7-4fcc-a0c8-6e461bf6c09c",
+  "object": "beer",
+  "name": "Saison Vielle Provision",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

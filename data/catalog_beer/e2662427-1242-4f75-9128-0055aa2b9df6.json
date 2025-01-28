@@ -1,0 +1,11 @@
+{
+  "id": "e2662427-1242-4f75-9128-0055aa2b9df6",
+  "object": "beer",
+  "name": "Thai Breaker",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

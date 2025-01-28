@@ -1,0 +1,11 @@
+{
+  "id": "4bddc76c-9140-416d-b75c-65e9cf23a642",
+  "object": "beer",
+  "name": "Nordstern Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

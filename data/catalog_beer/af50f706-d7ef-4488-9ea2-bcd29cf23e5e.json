@@ -1,0 +1,11 @@
+{
+  "id": "af50f706-d7ef-4488-9ea2-bcd29cf23e5e",
+  "object": "beer",
+  "name": "Mother of the Gut",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

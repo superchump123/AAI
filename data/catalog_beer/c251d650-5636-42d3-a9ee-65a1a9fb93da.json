@@ -1,0 +1,11 @@
+{
+  "id": "c251d650-5636-42d3-a9ee-65a1a9fb93da",
+  "object": "beer",
+  "name": "Mike's Hard Classic Margarita",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

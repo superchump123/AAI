@@ -1,0 +1,11 @@
+{
+  "id": "12b0865d-b705-4ca9-b80d-1a65ffa5b653",
+  "object": "beer",
+  "name": "First Shift Coffee Porter",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "235e137a-a62b-4835-87f5-2d159ff7ab18",
+  "object": "beer",
+  "name": "Magna Pomum",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

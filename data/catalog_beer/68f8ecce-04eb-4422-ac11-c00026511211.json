@@ -1,0 +1,11 @@
+{
+  "id": "68f8ecce-04eb-4422-ac11-c00026511211",
+  "object": "beer",
+  "name": "Cream Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

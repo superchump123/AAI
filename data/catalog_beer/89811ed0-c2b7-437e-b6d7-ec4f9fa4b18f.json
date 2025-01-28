@@ -1,0 +1,11 @@
+{
+  "id": "89811ed0-c2b7-437e-b6d7-ec4f9fa4b18f",
+  "object": "beer",
+  "name": "Lux Mundi",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

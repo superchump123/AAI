@@ -1,0 +1,11 @@
+{
+  "id": "850828ad-569b-4b86-8abc-2ae03e4c78ce",
+  "object": "beer",
+  "name": "Single Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

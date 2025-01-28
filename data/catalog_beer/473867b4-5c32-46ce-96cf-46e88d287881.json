@@ -1,0 +1,11 @@
+{
+  "id": "473867b4-5c32-46ce-96cf-46e88d287881",
+  "object": "beer",
+  "name": "Tas",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d1e97227-82c4-472c-96a5-a1cc2deb8c62",
+  "object": "beer",
+  "name": "LP India Pale Lager",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

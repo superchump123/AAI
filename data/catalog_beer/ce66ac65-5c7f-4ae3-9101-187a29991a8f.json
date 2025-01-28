@@ -1,0 +1,11 @@
+{
+  "id": "ce66ac65-5c7f-4ae3-9101-187a29991a8f",
+  "object": "beer",
+  "name": "Extra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

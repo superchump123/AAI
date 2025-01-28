@@ -1,0 +1,11 @@
+{
+  "id": "b74e77a6-0fbb-455e-ae33-0e421f78e84f",
+  "object": "beer",
+  "name": "White Tips IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

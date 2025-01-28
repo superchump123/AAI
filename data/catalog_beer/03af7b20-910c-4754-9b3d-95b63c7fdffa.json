@@ -1,0 +1,11 @@
+{
+  "id": "03af7b20-910c-4754-9b3d-95b63c7fdffa",
+  "object": "beer",
+  "name": "Budweiser Budvar (Czechvar)",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

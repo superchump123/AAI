@@ -1,0 +1,11 @@
+{
+  "id": "96db3bf3-229d-481b-a749-471666c03c10",
+  "object": "beer",
+  "name": "Avenger",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

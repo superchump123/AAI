@@ -1,0 +1,11 @@
+{
+  "id": "fe31d10b-8e03-4b0d-a7e0-2cd463558bcf",
+  "object": "beer",
+  "name": "Crystal Dagger",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

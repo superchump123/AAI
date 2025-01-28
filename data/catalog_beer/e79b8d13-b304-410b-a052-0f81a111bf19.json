@@ -1,0 +1,11 @@
+{
+  "id": "e79b8d13-b304-410b-a052-0f81a111bf19",
+  "object": "beer",
+  "name": "First Ascent",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "86503c57-27ff-4e63-afd0-c8e41ab9db09",
+  "object": "beer",
+  "name": "S'Muttonator",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

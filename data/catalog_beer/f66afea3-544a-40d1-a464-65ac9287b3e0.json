@@ -1,0 +1,11 @@
+{
+  "id": "f66afea3-544a-40d1-a464-65ac9287b3e0",
+  "object": "beer",
+  "name": "Sunbrite Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

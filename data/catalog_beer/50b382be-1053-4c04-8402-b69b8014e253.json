@@ -1,0 +1,11 @@
+{
+  "id": "50b382be-1053-4c04-8402-b69b8014e253",
+  "object": "beer",
+  "name": "Rowdy Piper",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

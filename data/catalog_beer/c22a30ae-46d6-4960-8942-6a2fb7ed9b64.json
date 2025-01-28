@@ -1,0 +1,11 @@
+{
+  "id": "c22a30ae-46d6-4960-8942-6a2fb7ed9b64",
+  "object": "beer",
+  "name": "Flaming Fury",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 8,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

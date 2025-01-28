@@ -1,0 +1,11 @@
+{
+  "id": "08deffb2-8dca-4902-9dff-bbb6a8d8b4c2",
+  "object": "beer",
+  "name": "Road Kill Barleywine Style Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

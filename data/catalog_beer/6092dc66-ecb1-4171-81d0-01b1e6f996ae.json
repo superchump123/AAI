@@ -1,0 +1,11 @@
+{
+  "id": "6092dc66-ecb1-4171-81d0-01b1e6f996ae",
+  "object": "beer",
+  "name": "Boxcarton",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

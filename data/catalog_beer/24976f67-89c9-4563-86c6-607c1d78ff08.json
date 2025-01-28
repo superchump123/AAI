@@ -1,0 +1,11 @@
+{
+  "id": "24976f67-89c9-4563-86c6-607c1d78ff08",
+  "object": "beer",
+  "name": "POG IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

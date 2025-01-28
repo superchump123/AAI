@@ -1,0 +1,11 @@
+{
+  "id": "a34a8885-0cbb-4870-94a4-f2f27ffb771f",
+  "object": "beer",
+  "name": "Hop Fiction Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

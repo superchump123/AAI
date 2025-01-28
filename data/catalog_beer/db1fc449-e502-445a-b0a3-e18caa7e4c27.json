@@ -1,0 +1,11 @@
+{
+  "id": "db1fc449-e502-445a-b0a3-e18caa7e4c27",
+  "object": "beer",
+  "name": "Kumquat Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

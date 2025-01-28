@@ -1,0 +1,11 @@
+{
+  "id": "4be233b0-e511-44cd-a111-aa25357bbdd2",
+  "object": "beer",
+  "name": "Bloesem Bink",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

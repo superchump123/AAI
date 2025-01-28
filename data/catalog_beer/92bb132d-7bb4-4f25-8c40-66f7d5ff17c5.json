@@ -1,0 +1,11 @@
+{
+  "id": "92bb132d-7bb4-4f25-8c40-66f7d5ff17c5",
+  "object": "beer",
+  "name": "Justice Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

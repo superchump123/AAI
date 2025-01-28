@@ -1,0 +1,11 @@
+{
+  "id": "64e36f74-1561-41ea-9f44-4c7a4490af83",
+  "object": "beer",
+  "name": "Little Ghost",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

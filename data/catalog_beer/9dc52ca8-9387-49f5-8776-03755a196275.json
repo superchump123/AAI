@@ -1,0 +1,11 @@
+{
+  "id": "9dc52ca8-9387-49f5-8776-03755a196275",
+  "object": "beer",
+  "name": "Bengal IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

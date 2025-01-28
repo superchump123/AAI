@@ -1,0 +1,11 @@
+{
+  "id": "b4b67516-3f39-4126-8161-7d0a59efb1e7",
+  "object": "beer",
+  "name": "Von Pampelmuse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "810e8bd2-7cab-4d29-9a16-2a4dab58261f",
+  "object": "beer",
+  "name": "La Petite Vertus",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

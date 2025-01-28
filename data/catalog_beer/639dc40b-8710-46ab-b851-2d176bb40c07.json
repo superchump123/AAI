@@ -1,0 +1,11 @@
+{
+  "id": "639dc40b-8710-46ab-b851-2d176bb40c07",
+  "object": "beer",
+  "name": "The Oracle DIPA Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

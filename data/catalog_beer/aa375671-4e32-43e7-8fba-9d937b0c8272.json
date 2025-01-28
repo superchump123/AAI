@@ -1,0 +1,11 @@
+{
+  "id": "aa375671-4e32-43e7-8fba-9d937b0c8272",
+  "object": "beer",
+  "name": "Three Lions",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

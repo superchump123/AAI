@@ -1,0 +1,11 @@
+{
+  "id": "61b8bc23-5c4d-4564-a9ff-a7a1742bb2c9",
+  "object": "beer",
+  "name": "Merry Monks",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

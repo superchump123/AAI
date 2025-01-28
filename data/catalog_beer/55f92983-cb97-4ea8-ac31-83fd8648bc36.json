@@ -1,0 +1,11 @@
+{
+  "id": "55f92983-cb97-4ea8-ac31-83fd8648bc36",
+  "object": "beer",
+  "name": "Island of Misfit Hops",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d4e9066a-1e2a-40dd-88ae-5427bc6aaa9a",
+  "object": "beer",
+  "name": "Mission Point Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

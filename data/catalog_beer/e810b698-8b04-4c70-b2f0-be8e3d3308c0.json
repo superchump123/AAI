@@ -1,0 +1,11 @@
+{
+  "id": "e810b698-8b04-4c70-b2f0-be8e3d3308c0",
+  "object": "beer",
+  "name": "Clouds of Pale Gold",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b7b9466c-32e2-4fb4-94ea-a87491d57afa",
+  "object": "beer",
+  "name": "A.T. Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

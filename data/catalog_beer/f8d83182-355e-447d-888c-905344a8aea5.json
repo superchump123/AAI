@@ -1,0 +1,11 @@
+{
+  "id": "f8d83182-355e-447d-888c-905344a8aea5",
+  "object": "beer",
+  "name": "Abzug",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

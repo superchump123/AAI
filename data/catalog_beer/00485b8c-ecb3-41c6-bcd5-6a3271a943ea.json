@@ -1,0 +1,11 @@
+{
+  "id": "00485b8c-ecb3-41c6-bcd5-6a3271a943ea",
+  "object": "beer",
+  "name": "Cerro Blanco",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

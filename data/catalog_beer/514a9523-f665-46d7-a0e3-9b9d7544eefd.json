@@ -1,0 +1,11 @@
+{
+  "id": "514a9523-f665-46d7-a0e3-9b9d7544eefd",
+  "object": "beer",
+  "name": "Imperial Vanilla Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "35e30c88-4b5e-43ac-8a6a-48bab623d497",
+  "object": "beer",
+  "name": "Beach Hippie",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 52,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

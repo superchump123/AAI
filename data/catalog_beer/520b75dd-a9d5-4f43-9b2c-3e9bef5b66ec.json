@@ -1,0 +1,11 @@
+{
+  "id": "520b75dd-a9d5-4f43-9b2c-3e9bef5b66ec",
+  "object": "beer",
+  "name": "Anniversary Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

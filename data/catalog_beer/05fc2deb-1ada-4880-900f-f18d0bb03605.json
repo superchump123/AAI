@@ -1,0 +1,11 @@
+{
+  "id": "05fc2deb-1ada-4880-900f-f18d0bb03605",
+  "object": "beer",
+  "name": "Independence Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36ea2dcb-3ee6-4447-ac20-e120b580cf6b",
+  "object": "beer",
+  "name": "Fides In Fermento",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

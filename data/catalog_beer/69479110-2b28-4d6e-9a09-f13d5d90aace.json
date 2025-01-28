@@ -1,0 +1,11 @@
+{
+  "id": "69479110-2b28-4d6e-9a09-f13d5d90aace",
+  "object": "beer",
+  "name": "Aphasia",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

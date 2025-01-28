@@ -1,0 +1,11 @@
+{
+  "id": "8fadd025-4127-4513-b8e9-bcaac353050e",
+  "object": "beer",
+  "name": "Cold Front",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

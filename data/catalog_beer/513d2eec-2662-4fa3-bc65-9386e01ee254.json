@@ -1,0 +1,11 @@
+{
+  "id": "513d2eec-2662-4fa3-bc65-9386e01ee254",
+  "object": "beer",
+  "name": "Blueberry Hill Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

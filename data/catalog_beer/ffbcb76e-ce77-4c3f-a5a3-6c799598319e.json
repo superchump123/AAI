@@ -1,0 +1,11 @@
+{
+  "id": "ffbcb76e-ce77-4c3f-a5a3-6c799598319e",
+  "object": "beer",
+  "name": "Circuit",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

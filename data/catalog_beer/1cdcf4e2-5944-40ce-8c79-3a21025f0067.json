@@ -1,0 +1,11 @@
+{
+  "id": "1cdcf4e2-5944-40ce-8c79-3a21025f0067",
+  "object": "beer",
+  "name": "Red Racer Northwest Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

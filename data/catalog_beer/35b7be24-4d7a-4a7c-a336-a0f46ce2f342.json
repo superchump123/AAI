@@ -1,0 +1,11 @@
+{
+  "id": "35b7be24-4d7a-4a7c-a336-a0f46ce2f342",
+  "object": "beer",
+  "name": "Vacation",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

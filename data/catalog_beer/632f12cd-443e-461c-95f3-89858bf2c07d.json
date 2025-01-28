@@ -1,0 +1,11 @@
+{
+  "id": "632f12cd-443e-461c-95f3-89858bf2c07d",
+  "object": "beer",
+  "name": "Adoration",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

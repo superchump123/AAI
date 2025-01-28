@@ -1,0 +1,11 @@
+{
+  "id": "4c17b49c-43e0-4410-881b-50a2026dc0a0",
+  "object": "beer",
+  "name": "Neon Gypsy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

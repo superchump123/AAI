@@ -1,0 +1,11 @@
+{
+  "id": "5d8f741e-f904-41df-ac3c-487ffd7990e1",
+  "object": "beer",
+  "name": "ISA (India Session Ale)",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

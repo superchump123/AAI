@@ -1,0 +1,11 @@
+{
+  "id": "fd843b53-9fce-4fa4-81d5-8836e3a1722a",
+  "object": "beer",
+  "name": "Hatchling #2",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

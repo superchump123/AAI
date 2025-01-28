@@ -1,0 +1,11 @@
+{
+  "id": "0710fd99-a6b8-4797-a8e9-f15e7bb0396d",
+  "object": "beer",
+  "name": "Balmain Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

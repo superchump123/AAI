@@ -1,0 +1,11 @@
+{
+  "id": "b9835116-b69d-47e5-86b5-b278fd419a14",
+  "object": "beer",
+  "name": "Easy Rider",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

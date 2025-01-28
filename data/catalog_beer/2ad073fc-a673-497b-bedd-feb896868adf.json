@@ -1,0 +1,11 @@
+{
+  "id": "2ad073fc-a673-497b-bedd-feb896868adf",
+  "object": "beer",
+  "name": "Majestic Monk",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

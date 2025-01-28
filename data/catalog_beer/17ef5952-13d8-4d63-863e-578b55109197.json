@@ -1,0 +1,11 @@
+{
+  "id": "17ef5952-13d8-4d63-863e-578b55109197",
+  "object": "beer",
+  "name": "Noble Experiment",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

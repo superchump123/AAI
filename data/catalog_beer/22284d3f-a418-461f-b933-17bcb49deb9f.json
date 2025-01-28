@@ -1,0 +1,11 @@
+{
+  "id": "22284d3f-a418-461f-b933-17bcb49deb9f",
+  "object": "beer",
+  "name": "Puma IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

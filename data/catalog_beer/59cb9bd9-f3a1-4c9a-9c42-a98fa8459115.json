@@ -1,0 +1,11 @@
+{
+  "id": "59cb9bd9-f3a1-4c9a-9c42-a98fa8459115",
+  "object": "beer",
+  "name": "Bronco Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

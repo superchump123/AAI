@@ -1,0 +1,11 @@
+{
+  "id": "493b239d-5b24-4744-9865-c66f791f3cb3",
+  "object": "beer",
+  "name": "The Revenuer IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

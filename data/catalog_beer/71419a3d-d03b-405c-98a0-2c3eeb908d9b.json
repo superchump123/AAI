@@ -1,0 +1,11 @@
+{
+  "id": "71419a3d-d03b-405c-98a0-2c3eeb908d9b",
+  "object": "beer",
+  "name": "NXS",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 54,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

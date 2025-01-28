@@ -1,0 +1,11 @@
+{
+  "id": "a8ea9ebf-d8d6-4e57-baba-430dd8affadf",
+  "object": "beer",
+  "name": "Hootenanny",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

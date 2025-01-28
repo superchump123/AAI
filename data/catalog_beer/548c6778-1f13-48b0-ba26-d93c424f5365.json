@@ -1,0 +1,11 @@
+{
+  "id": "548c6778-1f13-48b0-ba26-d93c424f5365",
+  "object": "beer",
+  "name": "Tickle The Tuba",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

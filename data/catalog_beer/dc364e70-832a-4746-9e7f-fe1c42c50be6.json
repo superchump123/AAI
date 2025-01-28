@@ -1,0 +1,11 @@
+{
+  "id": "dc364e70-832a-4746-9e7f-fe1c42c50be6",
+  "object": "beer",
+  "name": "Mirror Mirror",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

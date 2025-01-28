@@ -1,0 +1,11 @@
+{
+  "id": "0cfcef48-c677-484c-be41-f7fcf1a6dc97",
+  "object": "beer",
+  "name": "Trifecta",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

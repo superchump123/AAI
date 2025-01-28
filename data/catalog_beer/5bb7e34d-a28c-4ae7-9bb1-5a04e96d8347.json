@@ -1,0 +1,11 @@
+{
+  "id": "5bb7e34d-a28c-4ae7-9bb1-5a04e96d8347",
+  "object": "beer",
+  "name": "Bar Fly",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11.6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

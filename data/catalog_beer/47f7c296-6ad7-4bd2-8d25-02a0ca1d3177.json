@@ -1,0 +1,11 @@
+{
+  "id": "47f7c296-6ad7-4bd2-8d25-02a0ca1d3177",
+  "object": "beer",
+  "name": "Lady of Avalon",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

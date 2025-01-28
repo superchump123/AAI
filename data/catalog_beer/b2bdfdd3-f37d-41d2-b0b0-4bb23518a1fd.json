@@ -1,0 +1,11 @@
+{
+  "id": "b2bdfdd3-f37d-41d2-b0b0-4bb23518a1fd",
+  "object": "beer",
+  "name": "Blind Tiger Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cfa3dc10-855a-4a8b-a4da-35628dc8d984",
+  "object": "beer",
+  "name": "Peach Rush",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

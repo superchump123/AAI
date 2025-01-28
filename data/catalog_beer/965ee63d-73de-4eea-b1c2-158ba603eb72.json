@@ -1,0 +1,11 @@
+{
+  "id": "965ee63d-73de-4eea-b1c2-158ba603eb72",
+  "object": "beer",
+  "name": "Blugave",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

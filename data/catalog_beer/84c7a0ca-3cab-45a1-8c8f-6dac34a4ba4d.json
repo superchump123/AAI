@@ -1,0 +1,11 @@
+{
+  "id": "84c7a0ca-3cab-45a1-8c8f-6dac34a4ba4d",
+  "object": "beer",
+  "name": "Talon Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 95,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

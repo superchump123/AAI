@@ -1,0 +1,11 @@
+{
+  "id": "db03ffa7-533f-411c-ad01-c82532ac696e",
+  "object": "beer",
+  "name": "Peach Pit Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

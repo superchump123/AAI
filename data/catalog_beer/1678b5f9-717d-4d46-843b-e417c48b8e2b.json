@@ -1,0 +1,11 @@
+{
+  "id": "1678b5f9-717d-4d46-843b-e417c48b8e2b",
+  "object": "beer",
+  "name": "Deminimus Blanc",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 3.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

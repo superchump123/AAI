@@ -1,0 +1,11 @@
+{
+  "id": "04d22329-41b4-40be-9b57-be24b47a98d1",
+  "object": "beer",
+  "name": "Cold One Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ecaf6845-dab9-4844-9fd9-c0dee6ccac88",
+  "object": "beer",
+  "name": "Sunflower",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

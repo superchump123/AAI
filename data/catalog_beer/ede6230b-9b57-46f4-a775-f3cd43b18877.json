@@ -1,0 +1,11 @@
+{
+  "id": "ede6230b-9b57-46f4-a775-f3cd43b18877",
+  "object": "beer",
+  "name": "Ojo Blanco",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

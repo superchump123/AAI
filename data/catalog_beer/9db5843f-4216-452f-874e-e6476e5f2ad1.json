@@ -1,0 +1,11 @@
+{
+  "id": "9db5843f-4216-452f-874e-e6476e5f2ad1",
+  "object": "beer",
+  "name": "Even More JCS",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

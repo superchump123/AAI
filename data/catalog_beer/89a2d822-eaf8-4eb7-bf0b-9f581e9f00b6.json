@@ -1,0 +1,11 @@
+{
+  "id": "89a2d822-eaf8-4eb7-bf0b-9f581e9f00b6",
+  "object": "beer",
+  "name": "BantamWeight Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

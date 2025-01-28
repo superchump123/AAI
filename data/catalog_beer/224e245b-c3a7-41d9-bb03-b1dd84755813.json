@@ -1,0 +1,11 @@
+{
+  "id": "224e245b-c3a7-41d9-bb03-b1dd84755813",
+  "object": "beer",
+  "name": "Vienna IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

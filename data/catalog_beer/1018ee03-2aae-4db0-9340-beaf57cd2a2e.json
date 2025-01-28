@@ -1,0 +1,11 @@
+{
+  "id": "1018ee03-2aae-4db0-9340-beaf57cd2a2e",
+  "object": "beer",
+  "name": "Supertonic India Black Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

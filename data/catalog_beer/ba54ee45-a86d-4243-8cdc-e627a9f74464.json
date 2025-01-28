@@ -1,0 +1,11 @@
+{
+  "id": "ba54ee45-a86d-4243-8cdc-e627a9f74464",
+  "object": "beer",
+  "name": "Schmucker Kellerbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

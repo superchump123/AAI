@@ -1,0 +1,11 @@
+{
+  "id": "2ff379c1-7ba2-4285-87db-fc2f5d7711ba",
+  "object": "beer",
+  "name": "Schofferhofer Kristallweizen",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

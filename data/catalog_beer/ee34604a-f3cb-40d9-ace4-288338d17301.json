@@ -1,0 +1,11 @@
+{
+  "id": "ee34604a-f3cb-40d9-ace4-288338d17301",
+  "object": "beer",
+  "name": "Iron Rat Imperial Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

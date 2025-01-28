@@ -1,0 +1,11 @@
+{
+  "id": "d3c0ab0a-7093-43b0-b1f6-2bd7b88a1c64",
+  "object": "beer",
+  "name": "Bog Wild",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

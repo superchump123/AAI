@@ -1,0 +1,11 @@
+{
+  "id": "b22c8955-26c7-4c9d-9ab8-6991a85e7b31",
+  "object": "beer",
+  "name": "Pike Naughty Nellie",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d0b98086-323f-4b07-bebc-32a1b6a5ab21",
+  "object": "beer",
+  "name": "Inaugural Red",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

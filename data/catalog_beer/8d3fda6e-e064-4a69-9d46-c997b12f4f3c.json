@@ -1,0 +1,11 @@
+{
+  "id": "8d3fda6e-e064-4a69-9d46-c997b12f4f3c",
+  "object": "beer",
+  "name": "No Regerts",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

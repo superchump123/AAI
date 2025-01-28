@@ -1,0 +1,11 @@
+{
+  "id": "05c4887c-ee21-496f-b68a-94d53d444087",
+  "object": "beer",
+  "name": "Demeter's Lament",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 15,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

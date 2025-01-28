@@ -1,0 +1,11 @@
+{
+  "id": "6e5a0696-8a55-4a01-9ba0-65ad14244248",
+  "object": "beer",
+  "name": "B2B Coconut Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

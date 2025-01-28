@@ -1,0 +1,11 @@
+{
+  "id": "ed9f3274-075b-4c19-a24c-921cd246e57f",
+  "object": "beer",
+  "name": "Second Street Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

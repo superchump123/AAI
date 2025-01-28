@@ -1,0 +1,11 @@
+{
+  "id": "4c1c64c2-4227-41a6-bc28-d882fa7d1d73",
+  "object": "beer",
+  "name": "Chodovar \u010cern\u00fd Ber\u00e1nek",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

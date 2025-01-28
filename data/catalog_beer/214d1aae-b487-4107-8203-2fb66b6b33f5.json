@@ -1,0 +1,11 @@
+{
+  "id": "214d1aae-b487-4107-8203-2fb66b6b33f5",
+  "object": "beer",
+  "name": "Lupulin Trip",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 11.3,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

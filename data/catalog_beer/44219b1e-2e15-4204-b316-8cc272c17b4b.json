@@ -1,0 +1,11 @@
+{
+  "id": "44219b1e-2e15-4204-b316-8cc272c17b4b",
+  "object": "beer",
+  "name": "Battlecat Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

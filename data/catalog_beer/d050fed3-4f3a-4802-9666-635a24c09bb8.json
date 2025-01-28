@@ -1,0 +1,11 @@
+{
+  "id": "d050fed3-4f3a-4802-9666-635a24c09bb8",
+  "object": "beer",
+  "name": "Hoppy Holidays",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

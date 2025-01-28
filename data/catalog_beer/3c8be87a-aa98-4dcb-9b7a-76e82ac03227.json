@@ -1,0 +1,11 @@
+{
+  "id": "3c8be87a-aa98-4dcb-9b7a-76e82ac03227",
+  "object": "beer",
+  "name": "Berry Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

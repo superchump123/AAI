@@ -1,0 +1,11 @@
+{
+  "id": "3f769f97-1861-4617-a67e-33dbd205c7ed",
+  "object": "beer",
+  "name": "Fullsuit Belgian-Style Brown Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

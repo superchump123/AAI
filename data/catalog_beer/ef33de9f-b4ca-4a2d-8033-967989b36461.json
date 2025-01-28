@@ -1,0 +1,11 @@
+{
+  "id": "ef33de9f-b4ca-4a2d-8033-967989b36461",
+  "object": "beer",
+  "name": "Pikes Peak Gold Rush",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

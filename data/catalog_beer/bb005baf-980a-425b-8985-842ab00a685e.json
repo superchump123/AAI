@@ -1,0 +1,11 @@
+{
+  "id": "bb005baf-980a-425b-8985-842ab00a685e",
+  "object": "beer",
+  "name": "T-Time",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

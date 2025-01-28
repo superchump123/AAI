@@ -1,0 +1,11 @@
+{
+  "id": "a8c2fa7d-b620-456c-9273-ee2cf9bde893",
+  "object": "beer",
+  "name": "Organic Agave Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

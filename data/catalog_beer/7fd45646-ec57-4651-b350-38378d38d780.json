@@ -1,0 +1,11 @@
+{
+  "id": "7fd45646-ec57-4651-b350-38378d38d780",
+  "object": "beer",
+  "name": "Kentish Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

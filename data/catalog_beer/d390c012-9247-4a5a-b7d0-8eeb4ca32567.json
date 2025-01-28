@@ -1,0 +1,11 @@
+{
+  "id": "d390c012-9247-4a5a-b7d0-8eeb4ca32567",
+  "object": "beer",
+  "name": "Munich Lager",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

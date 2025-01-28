@@ -1,0 +1,11 @@
+{
+  "id": "2e06ba0d-d53a-425c-9ee1-e3945f9dd223",
+  "object": "beer",
+  "name": "Fort Tildenist",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

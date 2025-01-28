@@ -1,0 +1,11 @@
+{
+  "id": "c4c77cb6-d683-48b0-8c91-1917a329f965",
+  "object": "beer",
+  "name": "Golden Grove Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64ba80a2-eab7-41dc-a134-972d75656f3b",
+  "object": "beer",
+  "name": "Propagator Generation 1",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

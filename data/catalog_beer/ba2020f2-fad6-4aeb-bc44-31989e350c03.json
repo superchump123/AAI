@@ -1,0 +1,11 @@
+{
+  "id": "ba2020f2-fad6-4aeb-bc44-31989e350c03",
+  "object": "beer",
+  "name": "Mosaic Hopped Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

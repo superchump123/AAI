@@ -1,0 +1,11 @@
+{
+  "id": "82f806f6-6f0a-4715-9435-29ce476911db",
+  "object": "beer",
+  "name": "Hoppy Joe",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

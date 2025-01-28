@@ -1,0 +1,11 @@
+{
+  "id": "ab97151b-6a99-48ad-a3d1-0c2da3082052",
+  "object": "beer",
+  "name": "Legal in Europe",
+  "style": "Chili Pepper Beer",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ea4ed6b6-473a-4c18-8f10-dff15655ef2d",
+  "object": "beer",
+  "name": "Imperial Jo",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

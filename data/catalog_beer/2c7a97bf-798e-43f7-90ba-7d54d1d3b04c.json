@@ -1,0 +1,11 @@
+{
+  "id": "2c7a97bf-798e-43f7-90ba-7d54d1d3b04c",
+  "object": "beer",
+  "name": "Beavers Milk",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

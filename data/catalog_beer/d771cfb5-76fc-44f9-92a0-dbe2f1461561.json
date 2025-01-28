@@ -1,0 +1,11 @@
+{
+  "id": "d771cfb5-76fc-44f9-92a0-dbe2f1461561",
+  "object": "beer",
+  "name": "Bush Envy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

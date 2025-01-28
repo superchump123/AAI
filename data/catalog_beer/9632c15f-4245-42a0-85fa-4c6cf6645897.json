@@ -1,0 +1,11 @@
+{
+  "id": "9632c15f-4245-42a0-85fa-4c6cf6645897",
+  "object": "beer",
+  "name": "Massatucky Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d9f478b-4213-4d3b-a0c0-d20cb7a87a4e",
+  "object": "beer",
+  "name": "Push It",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

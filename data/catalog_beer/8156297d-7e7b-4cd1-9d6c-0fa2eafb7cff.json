@@ -1,0 +1,11 @@
+{
+  "id": "8156297d-7e7b-4cd1-9d6c-0fa2eafb7cff",
+  "object": "beer",
+  "name": "Gava Joe",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4fcab8f9-43ce-4bef-b854-66ec1bffb192",
+  "object": "beer",
+  "name": "Horchata Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

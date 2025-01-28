@@ -1,0 +1,11 @@
+{
+  "id": "c88a3acd-7cce-46d7-95fc-8b79dcd65934",
+  "object": "beer",
+  "name": "CHOCOLATE MILK STOUT",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

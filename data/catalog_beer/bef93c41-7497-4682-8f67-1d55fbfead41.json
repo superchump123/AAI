@@ -1,0 +1,11 @@
+{
+  "id": "bef93c41-7497-4682-8f67-1d55fbfead41",
+  "object": "beer",
+  "name": "It Is Wheat It Is",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

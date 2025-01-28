@@ -1,0 +1,11 @@
+{
+  "id": "fe10f690-73f0-4b71-8bb9-09a7a1a25780",
+  "object": "beer",
+  "name": "O Trabalho",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

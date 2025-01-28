@@ -1,0 +1,11 @@
+{
+  "id": "bc8bb619-a588-410e-ac5b-78a757c54c78",
+  "object": "beer",
+  "name": "Popcorn Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

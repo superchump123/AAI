@@ -1,0 +1,11 @@
+{
+  "id": "614bc30d-4baa-4b60-8c1f-c92d70a9bef6",
+  "object": "beer",
+  "name": "White Falcon",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

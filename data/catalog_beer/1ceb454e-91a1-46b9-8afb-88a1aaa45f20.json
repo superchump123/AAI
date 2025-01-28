@@ -1,0 +1,11 @@
+{
+  "id": "1ceb454e-91a1-46b9-8afb-88a1aaa45f20",
+  "object": "beer",
+  "name": "Deluge Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

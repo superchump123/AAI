@@ -1,0 +1,11 @@
+{
+  "id": "1b6ec599-a24d-4ddb-98a3-da785c30ac88",
+  "object": "beer",
+  "name": "Blue Ridge Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

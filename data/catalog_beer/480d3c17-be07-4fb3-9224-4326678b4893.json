@@ -1,0 +1,11 @@
+{
+  "id": "480d3c17-be07-4fb3-9224-4326678b4893",
+  "object": "beer",
+  "name": "Kokomo Weekend",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

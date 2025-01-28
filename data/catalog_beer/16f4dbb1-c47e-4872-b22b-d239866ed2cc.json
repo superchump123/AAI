@@ -1,0 +1,11 @@
+{
+  "id": "16f4dbb1-c47e-4872-b22b-d239866ed2cc",
+  "object": "beer",
+  "name": "Andy's Honey Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

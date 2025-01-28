@@ -1,0 +1,11 @@
+{
+  "id": "e46cb20c-c9c1-4ad3-b51a-0b3fc2a2b833",
+  "object": "beer",
+  "name": "Hootenanny Harvest",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 73,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

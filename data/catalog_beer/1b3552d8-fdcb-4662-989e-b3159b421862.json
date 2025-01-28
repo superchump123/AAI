@@ -1,0 +1,11 @@
+{
+  "id": "1b3552d8-fdcb-4662-989e-b3159b421862",
+  "object": "beer",
+  "name": "Kuld Filtreerimata",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

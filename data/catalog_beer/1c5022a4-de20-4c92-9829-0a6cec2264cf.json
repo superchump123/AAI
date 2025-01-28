@@ -1,0 +1,11 @@
+{
+  "id": "1c5022a4-de20-4c92-9829-0a6cec2264cf",
+  "object": "beer",
+  "name": "Moritz Fiege Schwarzbier & Cola",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 1.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

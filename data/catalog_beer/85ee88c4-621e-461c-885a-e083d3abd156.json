@@ -1,0 +1,11 @@
+{
+  "id": "85ee88c4-621e-461c-885a-e083d3abd156",
+  "object": "beer",
+  "name": "Brain Bread",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

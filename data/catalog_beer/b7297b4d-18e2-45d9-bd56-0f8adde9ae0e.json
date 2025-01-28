@@ -1,0 +1,11 @@
+{
+  "id": "b7297b4d-18e2-45d9-bd56-0f8adde9ae0e",
+  "object": "beer",
+  "name": "Terrier Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

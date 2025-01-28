@@ -1,0 +1,11 @@
+{
+  "id": "8343ca6d-b5d0-4582-8601-7d94cc1eb716",
+  "object": "beer",
+  "name": "Cutaway",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

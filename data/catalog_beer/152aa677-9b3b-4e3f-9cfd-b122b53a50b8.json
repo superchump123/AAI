@@ -1,0 +1,11 @@
+{
+  "id": "152aa677-9b3b-4e3f-9cfd-b122b53a50b8",
+  "object": "beer",
+  "name": "Rapunzel",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

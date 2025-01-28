@@ -1,0 +1,11 @@
+{
+  "id": "303f36db-fbea-479c-b93c-da8f9f60500e",
+  "object": "beer",
+  "name": "Lizard Breath",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "40ff1d98-3758-43f7-b4db-4071b1cbda0a",
+  "object": "beer",
+  "name": "Lake Bluff A Wee-Bit Heavier",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10.4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

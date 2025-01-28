@@ -1,0 +1,11 @@
+{
+  "id": "31af9675-8978-4a3c-bc3b-8a1c1befad58",
+  "object": "beer",
+  "name": "Waffle Beer",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

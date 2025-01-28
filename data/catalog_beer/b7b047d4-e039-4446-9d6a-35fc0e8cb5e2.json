@@ -1,0 +1,11 @@
+{
+  "id": "b7b047d4-e039-4446-9d6a-35fc0e8cb5e2",
+  "object": "beer",
+  "name": "AAAH... Bacon",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

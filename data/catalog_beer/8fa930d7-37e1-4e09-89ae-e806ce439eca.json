@@ -1,0 +1,11 @@
+{
+  "id": "8fa930d7-37e1-4e09-89ae-e806ce439eca",
+  "object": "beer",
+  "name": "Excursion Coffee Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

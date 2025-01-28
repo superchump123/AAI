@@ -1,0 +1,11 @@
+{
+  "id": "361ca191-3db8-4071-a807-685703e7d814",
+  "object": "beer",
+  "name": "2XRye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

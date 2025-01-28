@@ -1,0 +1,11 @@
+{
+  "id": "d463fd19-8089-4d0c-9d68-851242a3c9af",
+  "object": "beer",
+  "name": "Haole Punch",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 3,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

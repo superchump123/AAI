@@ -1,0 +1,11 @@
+{
+  "id": "66da308b-677c-4f5c-a87a-69ad8f7407bd",
+  "object": "beer",
+  "name": "Dinelbier",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

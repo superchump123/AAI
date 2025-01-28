@@ -1,0 +1,11 @@
+{
+  "id": "5bd4ff0c-b5c3-438e-aa2c-a6fc3844fafa",
+  "object": "beer",
+  "name": "Tripel Overhead (Bourbon Barrel Aged)",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

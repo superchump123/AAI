@@ -1,0 +1,11 @@
+{
+  "id": "b4216e71-ca18-42b5-8c1b-97b39e933a88",
+  "object": "beer",
+  "name": "Really Old Brown Dog Ale",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

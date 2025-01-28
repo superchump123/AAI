@@ -1,0 +1,11 @@
+{
+  "id": "be286a05-33fc-4725-9e58-a52c70c94dfc",
+  "object": "beer",
+  "name": "Brett SMaSHY",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

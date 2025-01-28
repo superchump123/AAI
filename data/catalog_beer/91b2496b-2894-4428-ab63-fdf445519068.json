@@ -1,0 +1,11 @@
+{
+  "id": "91b2496b-2894-4428-ab63-fdf445519068",
+  "object": "beer",
+  "name": "Graduation Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

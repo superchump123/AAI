@@ -1,0 +1,11 @@
+{
+  "id": "f1ba8aa2-fffb-431e-b05e-321f39d5d759",
+  "object": "beer",
+  "name": "Trinken L\u00f6wen",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

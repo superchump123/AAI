@@ -1,0 +1,11 @@
+{
+  "id": "b3dde8b3-1c7a-4861-85e6-9d55e450499d",
+  "object": "beer",
+  "name": "Beerito",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

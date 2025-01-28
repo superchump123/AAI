@@ -1,0 +1,11 @@
+{
+  "id": "ace4abf1-9104-4665-8514-bfae5ca5c0df",
+  "object": "beer",
+  "name": "Charlie Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

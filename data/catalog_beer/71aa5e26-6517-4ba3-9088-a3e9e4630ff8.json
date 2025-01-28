@@ -1,0 +1,11 @@
+{
+  "id": "71aa5e26-6517-4ba3-9088-a3e9e4630ff8",
+  "object": "beer",
+  "name": "Snap Crackle Hop",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

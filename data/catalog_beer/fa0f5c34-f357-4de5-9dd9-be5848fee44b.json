@@ -1,0 +1,11 @@
+{
+  "id": "fa0f5c34-f357-4de5-9dd9-be5848fee44b",
+  "object": "beer",
+  "name": "Hansel",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

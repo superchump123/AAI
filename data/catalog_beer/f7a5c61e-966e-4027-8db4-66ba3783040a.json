@@ -1,0 +1,11 @@
+{
+  "id": "f7a5c61e-966e-4027-8db4-66ba3783040a",
+  "object": "beer",
+  "name": "Vienna Zinger",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

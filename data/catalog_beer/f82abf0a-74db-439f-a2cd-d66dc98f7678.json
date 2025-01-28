@@ -1,0 +1,11 @@
+{
+  "id": "f82abf0a-74db-439f-a2cd-d66dc98f7678",
+  "object": "beer",
+  "name": "Skin Deep",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a307f305-5319-4595-a450-1d41959c7fea",
+  "object": "beer",
+  "name": "Iroquois Wheat Beer",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd1e50c5-ce22-41f1-bc2e-0318e4762d5d",
+  "object": "beer",
+  "name": "Chocolate Covered Cherry Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

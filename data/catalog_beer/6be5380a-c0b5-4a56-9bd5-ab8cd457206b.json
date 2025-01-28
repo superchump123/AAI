@@ -1,0 +1,11 @@
+{
+  "id": "6be5380a-c0b5-4a56-9bd5-ab8cd457206b",
+  "object": "beer",
+  "name": "Red Grade Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

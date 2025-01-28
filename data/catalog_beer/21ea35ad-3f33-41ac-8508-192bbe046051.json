@@ -1,0 +1,11 @@
+{
+  "id": "21ea35ad-3f33-41ac-8508-192bbe046051",
+  "object": "beer",
+  "name": "L'Ambree",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

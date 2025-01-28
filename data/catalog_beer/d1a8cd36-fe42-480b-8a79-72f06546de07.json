@@ -1,0 +1,11 @@
+{
+  "id": "d1a8cd36-fe42-480b-8a79-72f06546de07",
+  "object": "beer",
+  "name": "Watermelon Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c1b49bc-230c-48f8-94b0-f1d8126bf886",
+  "object": "beer",
+  "name": "Easy Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

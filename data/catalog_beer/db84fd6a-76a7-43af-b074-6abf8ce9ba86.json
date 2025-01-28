@@ -1,0 +1,11 @@
+{
+  "id": "db84fd6a-76a7-43af-b074-6abf8ce9ba86",
+  "object": "beer",
+  "name": "Roxy Rolles",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c2fddacf-b55e-4def-9d01-3c8bd6d62bde",
+  "object": "beer",
+  "name": "Blueberry Ginger",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

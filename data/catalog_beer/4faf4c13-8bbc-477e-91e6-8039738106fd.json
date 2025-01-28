@@ -1,0 +1,11 @@
+{
+  "id": "4faf4c13-8bbc-477e-91e6-8039738106fd",
+  "object": "beer",
+  "name": "Rumplestiltskin Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

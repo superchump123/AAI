@@ -1,0 +1,11 @@
+{
+  "id": "b38c97d5-708a-43a7-a3af-38fa9ea4c2d2",
+  "object": "beer",
+  "name": "Monkadelic",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

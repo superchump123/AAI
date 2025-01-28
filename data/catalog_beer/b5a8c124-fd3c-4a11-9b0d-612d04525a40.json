@@ -1,0 +1,11 @@
+{
+  "id": "b5a8c124-fd3c-4a11-9b0d-612d04525a40",
+  "object": "beer",
+  "name": "The Admiral",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

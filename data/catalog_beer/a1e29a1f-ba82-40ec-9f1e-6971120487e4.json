@@ -1,0 +1,11 @@
+{
+  "id": "a1e29a1f-ba82-40ec-9f1e-6971120487e4",
+  "object": "beer",
+  "name": "Swindler's Spice",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

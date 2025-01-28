@@ -1,0 +1,11 @@
+{
+  "id": "79d1b16f-78d9-4174-a967-b00bebb562aa",
+  "object": "beer",
+  "name": "Auges de Roggen",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

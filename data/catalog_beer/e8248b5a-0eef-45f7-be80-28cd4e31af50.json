@@ -1,0 +1,11 @@
+{
+  "id": "e8248b5a-0eef-45f7-be80-28cd4e31af50",
+  "object": "beer",
+  "name": "Chipotle Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

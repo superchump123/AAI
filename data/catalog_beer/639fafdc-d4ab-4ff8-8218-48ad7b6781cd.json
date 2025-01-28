@@ -1,0 +1,11 @@
+{
+  "id": "639fafdc-d4ab-4ff8-8218-48ad7b6781cd",
+  "object": "beer",
+  "name": "El Robo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

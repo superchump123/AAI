@@ -1,0 +1,11 @@
+{
+  "id": "484f0256-7561-4ba1-a49c-6145e49d4f35",
+  "object": "beer",
+  "name": "Railway Porter",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

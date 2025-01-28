@@ -1,0 +1,11 @@
+{
+  "id": "3fca74a5-ed74-4906-b4ea-c9bfd551674d",
+  "object": "beer",
+  "name": "Fisherman's NAVIGATOR",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 7,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

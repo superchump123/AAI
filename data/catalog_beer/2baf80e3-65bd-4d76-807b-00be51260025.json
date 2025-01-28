@@ -1,0 +1,11 @@
+{
+  "id": "2baf80e3-65bd-4d76-807b-00be51260025",
+  "object": "beer",
+  "name": "Parvati Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

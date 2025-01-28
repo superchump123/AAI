@@ -1,0 +1,11 @@
+{
+  "id": "e9f54311-8ca7-4a26-ab24-bb2b07b5273a",
+  "object": "beer",
+  "name": "Buster's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0ccd9484-657b-4415-bbaf-b34a5e06a692",
+  "object": "beer",
+  "name": "Oktoberfest Lager",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

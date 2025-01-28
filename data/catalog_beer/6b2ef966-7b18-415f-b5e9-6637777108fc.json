@@ -1,0 +1,11 @@
+{
+  "id": "6b2ef966-7b18-415f-b5e9-6637777108fc",
+  "object": "beer",
+  "name": "Fresh",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

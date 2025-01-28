@@ -1,0 +1,11 @@
+{
+  "id": "b8ec695a-eb91-4438-8afe-9a8fc1929fef",
+  "object": "beer",
+  "name": "Iserlohner Pilscola",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

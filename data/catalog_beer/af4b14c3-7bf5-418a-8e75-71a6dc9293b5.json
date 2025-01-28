@@ -1,0 +1,11 @@
+{
+  "id": "af4b14c3-7bf5-418a-8e75-71a6dc9293b5",
+  "object": "beer",
+  "name": "American Red Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

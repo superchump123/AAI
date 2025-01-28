@@ -1,0 +1,11 @@
+{
+  "id": "69e78b44-1fe6-4e86-9a61-ce6c9523e4fa",
+  "object": "beer",
+  "name": "Gilda's Club",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

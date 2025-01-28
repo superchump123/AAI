@@ -1,0 +1,11 @@
+{
+  "id": "70fffcb8-b25e-4ffd-9f67-6e29a28f95e5",
+  "object": "beer",
+  "name": "Joey Greenhorn",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

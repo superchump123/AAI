@@ -1,0 +1,11 @@
+{
+  "id": "68bbb5f0-aa74-4421-a5b0-697c18810bf1",
+  "object": "beer",
+  "name": "Knoblocked Out",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

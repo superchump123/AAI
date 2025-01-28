@@ -1,0 +1,11 @@
+{
+  "id": "16ac36b9-7f57-4e1e-a984-8b096af75600",
+  "object": "beer",
+  "name": "Two Lights",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

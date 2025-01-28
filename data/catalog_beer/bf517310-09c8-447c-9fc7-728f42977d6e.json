@@ -1,0 +1,11 @@
+{
+  "id": "bf517310-09c8-447c-9fc7-728f42977d6e",
+  "object": "beer",
+  "name": "Slaughter House",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

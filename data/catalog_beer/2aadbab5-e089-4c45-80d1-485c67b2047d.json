@@ -1,0 +1,11 @@
+{
+  "id": "2aadbab5-e089-4c45-80d1-485c67b2047d",
+  "object": "beer",
+  "name": "Bayou Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

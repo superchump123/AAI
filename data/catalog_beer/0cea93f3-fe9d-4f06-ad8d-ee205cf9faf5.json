@@ -1,0 +1,11 @@
+{
+  "id": "0cea93f3-fe9d-4f06-ad8d-ee205cf9faf5",
+  "object": "beer",
+  "name": "Patriarch",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

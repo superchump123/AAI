@@ -1,0 +1,11 @@
+{
+  "id": "dce8d88c-0e69-4d2d-883b-72957f607053",
+  "object": "beer",
+  "name": "Bootleg Blue",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

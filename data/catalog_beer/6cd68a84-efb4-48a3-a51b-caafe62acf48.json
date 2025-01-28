@@ -1,0 +1,11 @@
+{
+  "id": "6cd68a84-efb4-48a3-a51b-caafe62acf48",
+  "object": "beer",
+  "name": "Anise IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

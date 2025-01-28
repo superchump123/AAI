@@ -1,0 +1,11 @@
+{
+  "id": "bda900d9-fe37-47d9-a3cc-0f75fe75c51b",
+  "object": "beer",
+  "name": "Funk'n Patch",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "558675eb-6f27-4e92-b7e5-737333c028c1",
+  "object": "beer",
+  "name": "Buffalohead",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

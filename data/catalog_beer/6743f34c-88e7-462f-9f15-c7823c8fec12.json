@@ -1,0 +1,11 @@
+{
+  "id": "6743f34c-88e7-462f-9f15-c7823c8fec12",
+  "object": "beer",
+  "name": "Ryezome Rye Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00e412fc-ce0d-49ca-a678-1462631d35c7",
+  "object": "beer",
+  "name": "Shimaguni Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "41f5be8f-3b85-4c8e-9a88-91a56a057794",
+  "object": "beer",
+  "name": "Jolly Llama",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

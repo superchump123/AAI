@@ -1,0 +1,11 @@
+{
+  "id": "13c40be5-6f1a-4ef4-b8a2-69cecce62566",
+  "object": "beer",
+  "name": "Farmhouse",
+  "style": "French-Style Bi\u00e8re de Garde",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

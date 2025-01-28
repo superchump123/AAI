@@ -1,0 +1,11 @@
+{
+  "id": "01fbfe9c-545e-4050-9f61-2c6e64d01ccd",
+  "object": "beer",
+  "name": "Gunny Gold K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

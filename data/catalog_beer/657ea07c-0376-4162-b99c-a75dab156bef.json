@@ -1,0 +1,11 @@
+{
+  "id": "657ea07c-0376-4162-b99c-a75dab156bef",
+  "object": "beer",
+  "name": "Witches Brew",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

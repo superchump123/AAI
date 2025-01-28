@@ -1,0 +1,11 @@
+{
+  "id": "582d145b-2e0c-4901-885c-792d9f38d7bf",
+  "object": "beer",
+  "name": "Main Street Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

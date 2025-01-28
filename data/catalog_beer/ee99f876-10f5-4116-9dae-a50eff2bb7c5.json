@@ -1,0 +1,11 @@
+{
+  "id": "ee99f876-10f5-4116-9dae-a50eff2bb7c5",
+  "object": "beer",
+  "name": "Alfred's Honey Golden",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

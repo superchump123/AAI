@@ -1,0 +1,11 @@
+{
+  "id": "34b3cad0-bd91-47c0-b117-b7a7eac09a4f",
+  "object": "beer",
+  "name": "Grand Cr\u00fce",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 12.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

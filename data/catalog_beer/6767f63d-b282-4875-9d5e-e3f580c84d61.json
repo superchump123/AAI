@@ -1,0 +1,11 @@
+{
+  "id": "6767f63d-b282-4875-9d5e-e3f580c84d61",
+  "object": "beer",
+  "name": "Unite Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b7e9957c-11eb-4edb-bc5c-21be569fba8e",
+  "object": "beer",
+  "name": "Sheer Madness Wheat Noir",
+  "style": "Dark American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

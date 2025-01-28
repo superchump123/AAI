@@ -1,0 +1,11 @@
+{
+  "id": "963772f0-2694-422d-8dae-98c0b4d73635",
+  "object": "beer",
+  "name": "Son of a Mudder",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

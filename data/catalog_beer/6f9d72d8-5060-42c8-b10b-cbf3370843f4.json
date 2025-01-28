@@ -1,0 +1,11 @@
+{
+  "id": "6f9d72d8-5060-42c8-b10b-cbf3370843f4",
+  "object": "beer",
+  "name": "Barrel Aged 10-10-10",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

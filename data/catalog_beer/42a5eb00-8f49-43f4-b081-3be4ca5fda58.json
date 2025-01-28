@@ -1,0 +1,11 @@
+{
+  "id": "42a5eb00-8f49-43f4-b081-3be4ca5fda58",
+  "object": "beer",
+  "name": "Statesville Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 7.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

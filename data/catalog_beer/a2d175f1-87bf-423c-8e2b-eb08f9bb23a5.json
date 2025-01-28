@@ -1,0 +1,11 @@
+{
+  "id": "a2d175f1-87bf-423c-8e2b-eb08f9bb23a5",
+  "object": "beer",
+  "name": "Red Squirrel",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

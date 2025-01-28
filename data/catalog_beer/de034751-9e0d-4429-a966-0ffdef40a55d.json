@@ -1,0 +1,11 @@
+{
+  "id": "de034751-9e0d-4429-a966-0ffdef40a55d",
+  "object": "beer",
+  "name": "Tenured",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

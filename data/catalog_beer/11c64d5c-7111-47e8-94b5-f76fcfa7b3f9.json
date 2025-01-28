@@ -1,0 +1,11 @@
+{
+  "id": "11c64d5c-7111-47e8-94b5-f76fcfa7b3f9",
+  "object": "beer",
+  "name": "Sidra Brut Nature",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

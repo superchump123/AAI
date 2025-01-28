@@ -1,0 +1,11 @@
+{
+  "id": "1ba1a8c2-9ce1-45d7-a1aa-5bb6122eed71",
+  "object": "beer",
+  "name": "Oak Tree Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "50cb8793-67b8-49bf-b76b-041ac8c9c451",
+  "object": "beer",
+  "name": "Chinook Harvest Ale",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

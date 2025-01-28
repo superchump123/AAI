@@ -1,0 +1,11 @@
+{
+  "id": "fa917eb9-86aa-4308-a389-8455514001fe",
+  "object": "beer",
+  "name": "Oktoberfest (Marzen)",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5403c1db-b671-4a68-90c4-e20960ddf61b",
+  "object": "beer",
+  "name": "Pond Hopper Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

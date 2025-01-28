@@ -1,0 +1,11 @@
+{
+  "id": "936ad0d3-64c0-42b6-bafd-18142cbf6d54",
+  "object": "beer",
+  "name": "ALMA",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

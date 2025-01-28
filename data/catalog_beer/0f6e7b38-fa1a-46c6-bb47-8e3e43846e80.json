@@ -1,0 +1,11 @@
+{
+  "id": "0f6e7b38-fa1a-46c6-bb47-8e3e43846e80",
+  "object": "beer",
+  "name": "Central Coast Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

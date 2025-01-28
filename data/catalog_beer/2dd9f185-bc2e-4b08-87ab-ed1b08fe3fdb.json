@@ -1,0 +1,11 @@
+{
+  "id": "2dd9f185-bc2e-4b08-87ab-ed1b08fe3fdb",
+  "object": "beer",
+  "name": "O'Fallon Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "530475e8-fb25-4a80-b314-8103abb3d88b",
+  "object": "beer",
+  "name": "Summer Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

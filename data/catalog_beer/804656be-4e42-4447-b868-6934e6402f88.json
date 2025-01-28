@@ -1,0 +1,11 @@
+{
+  "id": "804656be-4e42-4447-b868-6934e6402f88",
+  "object": "beer",
+  "name": "5 Guinea ESB",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

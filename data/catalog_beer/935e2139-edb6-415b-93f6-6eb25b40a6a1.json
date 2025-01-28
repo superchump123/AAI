@@ -1,0 +1,11 @@
+{
+  "id": "935e2139-edb6-415b-93f6-6eb25b40a6a1",
+  "object": "beer",
+  "name": "The Aftermath IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

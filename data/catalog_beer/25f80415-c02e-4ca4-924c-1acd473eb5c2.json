@@ -1,0 +1,11 @@
+{
+  "id": "25f80415-c02e-4ca4-924c-1acd473eb5c2",
+  "object": "beer",
+  "name": "Blind Ambition",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "adb0d427-0cb3-462c-958a-9cbb78dfadaf",
+  "object": "beer",
+  "name": "Gulo Noir",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92f7c6f1-95bd-4bee-b8d0-195ee1dde549",
+  "object": "beer",
+  "name": "Factory Girl",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

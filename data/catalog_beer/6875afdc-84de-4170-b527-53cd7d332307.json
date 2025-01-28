@@ -1,0 +1,11 @@
+{
+  "id": "6875afdc-84de-4170-b527-53cd7d332307",
+  "object": "beer",
+  "name": "New Style American Girlfriend",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

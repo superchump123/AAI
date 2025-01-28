@@ -1,0 +1,11 @@
+{
+  "id": "6ee596bb-a26c-46a8-9efb-cf25fcb82c42",
+  "object": "beer",
+  "name": "Headless Gentleman",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

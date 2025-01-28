@@ -1,0 +1,11 @@
+{
+  "id": "04f47e2f-ab9d-4c53-963c-5894519bc015",
+  "object": "beer",
+  "name": "Tefnut",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

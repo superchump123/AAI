@@ -1,0 +1,11 @@
+{
+  "id": "6a46711a-2cc2-43bb-8817-d89870947504",
+  "object": "beer",
+  "name": "Peanut Butter Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

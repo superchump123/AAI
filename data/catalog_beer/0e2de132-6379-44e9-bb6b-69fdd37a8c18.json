@@ -1,0 +1,11 @@
+{
+  "id": "0e2de132-6379-44e9-bb6b-69fdd37a8c18",
+  "object": "beer",
+  "name": "Bull in a China Shop",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

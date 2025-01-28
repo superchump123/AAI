@@ -1,0 +1,11 @@
+{
+  "id": "61de0e40-1f83-4f6d-9db1-8ca2242d5732",
+  "object": "beer",
+  "name": "Blackstone Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

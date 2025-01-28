@@ -1,0 +1,11 @@
+{
+  "id": "c5b3365d-f133-4533-bc31-91a77d4db3f2",
+  "object": "beer",
+  "name": "Flagship",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

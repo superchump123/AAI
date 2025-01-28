@@ -1,0 +1,11 @@
+{
+  "id": "93a4e4d3-94ee-4bb0-ad2f-c1d1ef20bf3c",
+  "object": "beer",
+  "name": "N\u00f8gne Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

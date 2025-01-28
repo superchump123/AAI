@@ -1,0 +1,11 @@
+{
+  "id": "b136fb54-2864-49c0-9b46-1930eb37224b",
+  "object": "beer",
+  "name": "Jever Lime",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

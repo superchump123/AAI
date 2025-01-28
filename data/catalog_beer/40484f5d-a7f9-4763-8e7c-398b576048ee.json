@@ -1,0 +1,11 @@
+{
+  "id": "40484f5d-a7f9-4763-8e7c-398b576048ee",
+  "object": "beer",
+  "name": "Luverne Lager",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

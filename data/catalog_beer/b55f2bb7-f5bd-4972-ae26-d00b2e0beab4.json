@@ -1,0 +1,11 @@
+{
+  "id": "b55f2bb7-f5bd-4972-ae26-d00b2e0beab4",
+  "object": "beer",
+  "name": "Rudolph's Imperial Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

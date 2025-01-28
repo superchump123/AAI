@@ -1,0 +1,11 @@
+{
+  "id": "cd8c0b39-e973-4d32-aab8-9a45e7e57c15",
+  "object": "beer",
+  "name": "Daytona Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

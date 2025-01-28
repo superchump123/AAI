@@ -1,0 +1,11 @@
+{
+  "id": "c8bd0203-d645-46b8-bffd-cdf5cac67f26",
+  "object": "beer",
+  "name": "BRIXTON PALE",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

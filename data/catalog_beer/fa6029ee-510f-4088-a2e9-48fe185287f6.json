@@ -1,0 +1,11 @@
+{
+  "id": "fa6029ee-510f-4088-a2e9-48fe185287f6",
+  "object": "beer",
+  "name": "Passport",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

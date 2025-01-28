@@ -1,0 +1,11 @@
+{
+  "id": "1c20b022-de4c-499b-ae87-720bb8c95669",
+  "object": "beer",
+  "name": "El Pistolero",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

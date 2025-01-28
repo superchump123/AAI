@@ -1,0 +1,11 @@
+{
+  "id": "3fc85db4-495d-4dc8-9c64-5abcab4ed49e",
+  "object": "beer",
+  "name": "Hoppy Hoppy Nanobeer",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

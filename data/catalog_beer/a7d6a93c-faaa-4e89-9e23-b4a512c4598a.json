@@ -1,0 +1,11 @@
+{
+  "id": "a7d6a93c-faaa-4e89-9e23-b4a512c4598a",
+  "object": "beer",
+  "name": "Asylum Harbor",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

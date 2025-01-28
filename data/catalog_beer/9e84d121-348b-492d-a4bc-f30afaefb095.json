@@ -1,0 +1,11 @@
+{
+  "id": "9e84d121-348b-492d-a4bc-f30afaefb095",
+  "object": "beer",
+  "name": "Honey Do Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

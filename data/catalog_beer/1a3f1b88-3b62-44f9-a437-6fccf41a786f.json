@@ -1,0 +1,11 @@
+{
+  "id": "1a3f1b88-3b62-44f9-a437-6fccf41a786f",
+  "object": "beer",
+  "name": "Bellrinnger",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e7285b68-02a4-430d-8bfc-8886141be00a",
+  "object": "beer",
+  "name": "Nelson Sauvin",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

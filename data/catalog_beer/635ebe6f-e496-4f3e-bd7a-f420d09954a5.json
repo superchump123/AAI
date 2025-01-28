@@ -1,0 +1,11 @@
+{
+  "id": "635ebe6f-e496-4f3e-bd7a-f420d09954a5",
+  "object": "beer",
+  "name": "Venetucci Pumpkin Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

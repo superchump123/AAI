@@ -1,0 +1,11 @@
+{
+  "id": "b3fa632c-7a4c-4304-b5a2-87517953bcb2",
+  "object": "beer",
+  "name": "Moose Mousse",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b64d4da8-5e9b-47e2-ab2b-d24b56a8083d",
+  "object": "beer",
+  "name": "Alaskan Sister Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8cc77fcc-fd1f-49cb-a953-13bdf4b1942a",
+  "object": "beer",
+  "name": "Hay Man",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

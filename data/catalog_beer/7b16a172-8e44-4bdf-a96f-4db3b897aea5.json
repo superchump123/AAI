@@ -1,0 +1,11 @@
+{
+  "id": "7b16a172-8e44-4bdf-a96f-4db3b897aea5",
+  "object": "beer",
+  "name": "Moby Dick Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

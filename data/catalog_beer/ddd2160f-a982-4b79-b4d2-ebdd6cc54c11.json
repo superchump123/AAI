@@ -1,0 +1,11 @@
+{
+  "id": "ddd2160f-a982-4b79-b4d2-ebdd6cc54c11",
+  "object": "beer",
+  "name": "Wide Awake It's Morning",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 10,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

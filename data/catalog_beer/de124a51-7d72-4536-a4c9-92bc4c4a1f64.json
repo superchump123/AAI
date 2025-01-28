@@ -1,0 +1,11 @@
+{
+  "id": "de124a51-7d72-4536-a4c9-92bc4c4a1f64",
+  "object": "beer",
+  "name": "Michelada",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5b9423d0-c98a-4801-9a2f-e95d5f5b6498",
+  "object": "beer",
+  "name": "Hop Cakes",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 118,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

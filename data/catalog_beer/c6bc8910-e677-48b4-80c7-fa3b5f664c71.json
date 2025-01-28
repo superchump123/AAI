@@ -1,0 +1,11 @@
+{
+  "id": "c6bc8910-e677-48b4-80c7-fa3b5f664c71",
+  "object": "beer",
+  "name": "Superior Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

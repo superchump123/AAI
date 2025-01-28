@@ -1,0 +1,11 @@
+{
+  "id": "87b00c29-d4d0-4a43-8e4d-71693bd06f0e",
+  "object": "beer",
+  "name": "Kolsch-Style Ale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

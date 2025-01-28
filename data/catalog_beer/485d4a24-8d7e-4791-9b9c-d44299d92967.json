@@ -1,0 +1,11 @@
+{
+  "id": "485d4a24-8d7e-4791-9b9c-d44299d92967",
+  "object": "beer",
+  "name": "Drop Dead Gordgeous",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

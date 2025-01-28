@@ -1,0 +1,11 @@
+{
+  "id": "58adbaf4-bd7f-4777-b7ae-32542b3fed57",
+  "object": "beer",
+  "name": "Fist Fight",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

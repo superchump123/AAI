@@ -1,0 +1,11 @@
+{
+  "id": "a6bdc31c-8863-432a-b1c6-d8d2f0df5192",
+  "object": "beer",
+  "name": "Prohibition Pauly",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

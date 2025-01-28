@@ -1,0 +1,11 @@
+{
+  "id": "3dc60321-cf09-455d-af19-88f03ced65d6",
+  "object": "beer",
+  "name": "Smokey",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

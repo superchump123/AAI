@@ -1,0 +1,11 @@
+{
+  "id": "d14ffa01-fe3c-4d74-bade-d4506cb301e9",
+  "object": "beer",
+  "name": "One Line Coffee",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

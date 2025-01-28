@@ -1,0 +1,11 @@
+{
+  "id": "213a8531-ecc4-48c3-a90e-29aed4ef6607",
+  "object": "beer",
+  "name": "Pipehawk Mountain Ale",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

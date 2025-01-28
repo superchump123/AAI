@@ -1,0 +1,11 @@
+{
+  "id": "f626f4f7-f536-444b-979c-6fbad1112c8d",
+  "object": "beer",
+  "name": "Hansens Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

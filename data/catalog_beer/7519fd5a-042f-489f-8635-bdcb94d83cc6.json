@@ -1,0 +1,11 @@
+{
+  "id": "7519fd5a-042f-489f-8635-bdcb94d83cc6",
+  "object": "beer",
+  "name": "Extra India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

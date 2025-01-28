@@ -1,0 +1,11 @@
+{
+  "id": "242c2ed9-5ffe-437f-953b-5064abf2704d",
+  "object": "beer",
+  "name": "Hop Karma Brown IPA",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

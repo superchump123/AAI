@@ -1,0 +1,11 @@
+{
+  "id": "d7fb589b-76db-4526-af61-128ea2657cd5",
+  "object": "beer",
+  "name": "Brett Favrehouse",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

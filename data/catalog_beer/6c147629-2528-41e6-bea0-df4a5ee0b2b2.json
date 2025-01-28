@@ -1,0 +1,11 @@
+{
+  "id": "6c147629-2528-41e6-bea0-df4a5ee0b2b2",
+  "object": "beer",
+  "name": "Single Hop Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 81,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

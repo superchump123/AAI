@@ -1,0 +1,11 @@
+{
+  "id": "23d4f43b-fe12-4870-9124-b3999ca59525",
+  "object": "beer",
+  "name": "Emma Wood",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

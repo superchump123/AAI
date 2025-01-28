@@ -1,0 +1,11 @@
+{
+  "id": "6d3635ad-cacf-4777-b2a3-2d3a1a175a86",
+  "object": "beer",
+  "name": "Wee Stein WIt",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

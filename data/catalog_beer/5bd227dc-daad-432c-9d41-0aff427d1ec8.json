@@ -1,0 +1,11 @@
+{
+  "id": "5bd227dc-daad-432c-9d41-0aff427d1ec8",
+  "object": "beer",
+  "name": "Shipshape",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

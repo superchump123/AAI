@@ -1,0 +1,11 @@
+{
+  "id": "17dfd9cf-01d7-439d-9436-ce931ab09493",
+  "object": "beer",
+  "name": "Bride of Dankenstein",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

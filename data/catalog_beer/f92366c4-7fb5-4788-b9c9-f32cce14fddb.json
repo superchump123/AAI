@@ -1,0 +1,11 @@
+{
+  "id": "f92366c4-7fb5-4788-b9c9-f32cce14fddb",
+  "object": "beer",
+  "name": "Black Hole Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

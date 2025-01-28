@@ -1,0 +1,11 @@
+{
+  "id": "e6e86b23-a432-4f91-8980-fa21b7a3c10a",
+  "object": "beer",
+  "name": "Danger Zone",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

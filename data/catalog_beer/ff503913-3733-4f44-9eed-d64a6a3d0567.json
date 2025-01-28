@@ -1,0 +1,11 @@
+{
+  "id": "ff503913-3733-4f44-9eed-d64a6a3d0567",
+  "object": "beer",
+  "name": "Wildcat Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 78,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

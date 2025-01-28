@@ -1,0 +1,11 @@
+{
+  "id": "af6d3761-6e98-4997-8819-676ac4d3cb27",
+  "object": "beer",
+  "name": "Sun Juice",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

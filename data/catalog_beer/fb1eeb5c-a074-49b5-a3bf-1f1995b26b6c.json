@@ -1,0 +1,11 @@
+{
+  "id": "fb1eeb5c-a074-49b5-a3bf-1f1995b26b6c",
+  "object": "beer",
+  "name": "Florence",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

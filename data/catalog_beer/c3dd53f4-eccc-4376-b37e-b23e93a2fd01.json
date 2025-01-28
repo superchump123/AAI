@@ -1,0 +1,11 @@
+{
+  "id": "c3dd53f4-eccc-4376-b37e-b23e93a2fd01",
+  "object": "beer",
+  "name": "Sand Creek Hard Lemonade",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

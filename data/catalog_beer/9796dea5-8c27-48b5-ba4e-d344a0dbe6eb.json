@@ -1,0 +1,11 @@
+{
+  "id": "9796dea5-8c27-48b5-ba4e-d344a0dbe6eb",
+  "object": "beer",
+  "name": "Amber Road",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "382843cf-6eba-45f6-9ef5-b6b3dd9f6767",
+  "object": "beer",
+  "name": "Munchner",
+  "style": "Bamberg-Style M\u00e4rzen Rauchbier",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

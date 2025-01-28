@@ -1,0 +1,11 @@
+{
+  "id": "69516d4f-7502-443c-817b-c8cc2c1dfd24",
+  "object": "beer",
+  "name": "Sacrilicious Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

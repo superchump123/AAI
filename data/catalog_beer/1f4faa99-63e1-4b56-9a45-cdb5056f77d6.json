@@ -1,0 +1,11 @@
+{
+  "id": "1f4faa99-63e1-4b56-9a45-cdb5056f77d6",
+  "object": "beer",
+  "name": "Red Rocket Rye",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

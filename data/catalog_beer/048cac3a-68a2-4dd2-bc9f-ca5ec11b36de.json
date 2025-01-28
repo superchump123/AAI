@@ -1,0 +1,11 @@
+{
+  "id": "048cac3a-68a2-4dd2-bc9f-ca5ec11b36de",
+  "object": "beer",
+  "name": "Valleaudated",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67b08863-ca55-45c2-b3bf-b6e3ab6af14b",
+  "object": "beer",
+  "name": "SPARTA TARTA",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

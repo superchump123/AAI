@@ -1,0 +1,11 @@
+{
+  "id": "a1896a94-6534-4ba4-9cbd-d28ba790c9f7",
+  "object": "beer",
+  "name": "Sugarloaf Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

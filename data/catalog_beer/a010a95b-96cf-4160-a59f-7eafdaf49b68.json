@@ -1,0 +1,11 @@
+{
+  "id": "a010a95b-96cf-4160-a59f-7eafdaf49b68",
+  "object": "beer",
+  "name": "Hunter Coconut",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

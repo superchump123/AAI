@@ -1,0 +1,11 @@
+{
+  "id": "bbb081e6-6405-425e-a961-c57a50348912",
+  "object": "beer",
+  "name": "Drag\u00f8r Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bae6f5aa-e3e2-4897-8bfe-9fa36d4ad182",
+  "object": "beer",
+  "name": "Citraweisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

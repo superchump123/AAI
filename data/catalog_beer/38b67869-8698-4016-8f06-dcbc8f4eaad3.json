@@ -1,0 +1,11 @@
+{
+  "id": "38b67869-8698-4016-8f06-dcbc8f4eaad3",
+  "object": "beer",
+  "name": "Little Sis",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

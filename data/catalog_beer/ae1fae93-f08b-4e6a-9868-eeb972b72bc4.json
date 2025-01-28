@@ -1,0 +1,11 @@
+{
+  "id": "ae1fae93-f08b-4e6a-9868-eeb972b72bc4",
+  "object": "beer",
+  "name": "Rodenbach Grand Cru",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

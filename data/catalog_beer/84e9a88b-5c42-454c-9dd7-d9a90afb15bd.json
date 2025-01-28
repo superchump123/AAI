@@ -1,0 +1,11 @@
+{
+  "id": "84e9a88b-5c42-454c-9dd7-d9a90afb15bd",
+  "object": "beer",
+  "name": "Aperitif Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

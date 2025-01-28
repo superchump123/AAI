@@ -1,0 +1,11 @@
+{
+  "id": "10ba2cad-ea09-4425-a55e-4506cc9433df",
+  "object": "beer",
+  "name": "Gunther\u2019s Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

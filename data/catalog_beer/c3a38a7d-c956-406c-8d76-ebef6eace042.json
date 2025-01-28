@@ -1,0 +1,11 @@
+{
+  "id": "c3a38a7d-c956-406c-8d76-ebef6eace042",
+  "object": "beer",
+  "name": "Freewheel Pale Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

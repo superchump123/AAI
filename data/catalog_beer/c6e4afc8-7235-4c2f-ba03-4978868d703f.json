@@ -1,0 +1,11 @@
+{
+  "id": "c6e4afc8-7235-4c2f-ba03-4978868d703f",
+  "object": "beer",
+  "name": "Hippie Trail",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0a93d547-4d0d-4724-9d99-c59bf4b5dccc",
+  "object": "beer",
+  "name": "Redd's Ginger Apple Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

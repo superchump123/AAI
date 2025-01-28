@@ -1,0 +1,11 @@
+{
+  "id": "86344de7-7c22-4658-ace6-dd7a94783142",
+  "object": "beer",
+  "name": "Atlantis",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

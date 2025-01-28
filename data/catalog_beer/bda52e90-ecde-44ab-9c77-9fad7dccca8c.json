@@ -1,0 +1,11 @@
+{
+  "id": "bda52e90-ecde-44ab-9c77-9fad7dccca8c",
+  "object": "beer",
+  "name": "Plum Mead",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 16,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "504b12ff-8e4e-44e0-b0e1-c5efe9a7e4ed",
+  "object": "beer",
+  "name": "Ahtanum Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

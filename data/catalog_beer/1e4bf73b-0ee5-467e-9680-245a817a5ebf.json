@@ -1,0 +1,11 @@
+{
+  "id": "1e4bf73b-0ee5-467e-9680-245a817a5ebf",
+  "object": "beer",
+  "name": "Hopbox",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

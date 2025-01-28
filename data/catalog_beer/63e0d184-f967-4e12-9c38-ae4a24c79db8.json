@@ -1,0 +1,11 @@
+{
+  "id": "63e0d184-f967-4e12-9c38-ae4a24c79db8",
+  "object": "beer",
+  "name": "Coopers Premium Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d78fa689-f342-43a6-85c8-b8472ef6b9cf",
+  "object": "beer",
+  "name": "Huber Weisses Dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

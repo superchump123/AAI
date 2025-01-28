@@ -1,0 +1,11 @@
+{
+  "id": "0640aada-958c-481a-a65d-516050cee66d",
+  "object": "beer",
+  "name": "Tart Attack",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

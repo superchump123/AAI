@@ -1,0 +1,11 @@
+{
+  "id": "4e187352-9b38-4e58-b03c-97fcbd627fde",
+  "object": "beer",
+  "name": "Vanilla Thrilla",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

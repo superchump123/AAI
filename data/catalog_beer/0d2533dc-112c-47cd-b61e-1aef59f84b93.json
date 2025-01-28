@@ -1,0 +1,11 @@
+{
+  "id": "0d2533dc-112c-47cd-b61e-1aef59f84b93",
+  "object": "beer",
+  "name": "Amber Ale",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

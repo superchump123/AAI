@@ -1,0 +1,11 @@
+{
+  "id": "6b6af86e-4754-46e5-aaed-456a8d7c5f2a",
+  "object": "beer",
+  "name": "Neutron",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

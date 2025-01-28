@@ -1,0 +1,11 @@
+{
+  "id": "e74c36be-162b-4db5-af47-29663270aa80",
+  "object": "beer",
+  "name": "Vadia Preta",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

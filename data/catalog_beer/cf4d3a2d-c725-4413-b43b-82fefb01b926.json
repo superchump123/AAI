@@ -1,0 +1,11 @@
+{
+  "id": "cf4d3a2d-c725-4413-b43b-82fefb01b926",
+  "object": "beer",
+  "name": "Kaffe Stout",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

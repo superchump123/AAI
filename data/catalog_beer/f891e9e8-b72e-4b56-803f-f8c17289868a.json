@@ -1,0 +1,11 @@
+{
+  "id": "f891e9e8-b72e-4b56-803f-f8c17289868a",
+  "object": "beer",
+  "name": "Lagerithm",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

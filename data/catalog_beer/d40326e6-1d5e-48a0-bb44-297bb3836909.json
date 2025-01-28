@@ -1,0 +1,11 @@
+{
+  "id": "d40326e6-1d5e-48a0-bb44-297bb3836909",
+  "object": "beer",
+  "name": "Cape May Altbier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

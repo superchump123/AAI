@@ -1,0 +1,11 @@
+{
+  "id": "b04285fb-a178-43e4-88e0-252127e3a66c",
+  "object": "beer",
+  "name": "Soul Horkey",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "455ba024-b510-432c-8835-077e7e1a6eaf",
+  "object": "beer",
+  "name": "Dry Pear",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

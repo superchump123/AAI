@@ -1,0 +1,11 @@
+{
+  "id": "e5b9b9f9-afee-41c6-9944-1b31f6c30f6e",
+  "object": "beer",
+  "name": "Sixteen Point",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

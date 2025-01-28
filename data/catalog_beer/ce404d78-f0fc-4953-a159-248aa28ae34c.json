@@ -1,0 +1,11 @@
+{
+  "id": "ce404d78-f0fc-4953-a159-248aa28ae34c",
+  "object": "beer",
+  "name": "Rambler",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

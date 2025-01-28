@@ -1,0 +1,11 @@
+{
+  "id": "57a5d479-405f-42f1-8d1b-af0c87e03e80",
+  "object": "beer",
+  "name": "Northsea IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

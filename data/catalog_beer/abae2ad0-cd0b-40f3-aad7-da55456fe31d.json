@@ -1,0 +1,11 @@
+{
+  "id": "abae2ad0-cd0b-40f3-aad7-da55456fe31d",
+  "object": "beer",
+  "name": "Scottish Red",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

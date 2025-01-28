@@ -1,0 +1,11 @@
+{
+  "id": "3da743bb-88e0-450c-940e-b55d23f73b3e",
+  "object": "beer",
+  "name": "Tropic Thunder",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 3.7,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

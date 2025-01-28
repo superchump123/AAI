@@ -1,0 +1,11 @@
+{
+  "id": "ab57f542-8290-47eb-ba67-e389e9b90889",
+  "object": "beer",
+  "name": "Udder Love",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

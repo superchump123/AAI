@@ -1,0 +1,11 @@
+{
+  "id": "38b0d656-c88b-4867-830f-de6638b55fd6",
+  "object": "beer",
+  "name": "Big Yellow Truck",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

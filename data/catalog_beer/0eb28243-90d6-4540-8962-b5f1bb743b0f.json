@@ -1,0 +1,11 @@
+{
+  "id": "0eb28243-90d6-4540-8962-b5f1bb743b0f",
+  "object": "beer",
+  "name": "Andromeda Heather Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 3.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

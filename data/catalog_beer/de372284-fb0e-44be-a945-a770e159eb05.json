@@ -1,0 +1,11 @@
+{
+  "id": "de372284-fb0e-44be-a945-a770e159eb05",
+  "object": "beer",
+  "name": "Gina",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

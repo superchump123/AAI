@@ -1,0 +1,11 @@
+{
+  "id": "1377eba5-1770-48c5-bc65-358ce60eb51e",
+  "object": "beer",
+  "name": "Piper's Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "75ad2be6-c303-4fe8-8886-6b8a8c48035d",
+  "object": "beer",
+  "name": "Huber Weisses Spezial",
+  "style": "South German-Style Bernsteinfarbenes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

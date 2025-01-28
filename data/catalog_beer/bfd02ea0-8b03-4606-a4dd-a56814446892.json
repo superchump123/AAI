@@ -1,0 +1,11 @@
+{
+  "id": "bfd02ea0-8b03-4606-a4dd-a56814446892",
+  "object": "beer",
+  "name": "Mana Wheat",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

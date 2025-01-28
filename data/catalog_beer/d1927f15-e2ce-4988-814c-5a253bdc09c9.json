@@ -1,0 +1,11 @@
+{
+  "id": "d1927f15-e2ce-4988-814c-5a253bdc09c9",
+  "object": "beer",
+  "name": "Great Dane Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

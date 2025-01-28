@@ -1,0 +1,11 @@
+{
+  "id": "d36cff3f-733d-4d0d-af35-baa04abec701",
+  "object": "beer",
+  "name": "Elephunk",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

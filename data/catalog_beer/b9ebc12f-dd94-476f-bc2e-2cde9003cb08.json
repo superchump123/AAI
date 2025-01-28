@@ -1,0 +1,11 @@
+{
+  "id": "b9ebc12f-dd94-476f-bc2e-2cde9003cb08",
+  "object": "beer",
+  "name": "Harvest Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

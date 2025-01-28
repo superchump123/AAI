@@ -1,0 +1,11 @@
+{
+  "id": "d25a4ea9-ca2e-46b9-b945-1247dcf6a33b",
+  "object": "beer",
+  "name": "Dry Hopped Hard Cider",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

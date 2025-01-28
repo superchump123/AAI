@@ -1,0 +1,11 @@
+{
+  "id": "35295d01-7329-4ffb-aede-494f7a014b8a",
+  "object": "beer",
+  "name": "Ancient Bole",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

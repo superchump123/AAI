@@ -1,0 +1,11 @@
+{
+  "id": "bdf08108-9bea-4913-834f-d927b9a436bd",
+  "object": "beer",
+  "name": "Naughty Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

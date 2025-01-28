@@ -1,0 +1,11 @@
+{
+  "id": "4f700f6c-d49a-4be0-9cde-45c308028662",
+  "object": "beer",
+  "name": "IGOR",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

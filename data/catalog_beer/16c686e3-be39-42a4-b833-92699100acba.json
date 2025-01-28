@@ -1,0 +1,11 @@
+{
+  "id": "16c686e3-be39-42a4-b833-92699100acba",
+  "object": "beer",
+  "name": "Dark & Twisted",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e435d6c5-5299-4cf7-b0a0-5b577bdbd053",
+  "object": "beer",
+  "name": "Bankston 88",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

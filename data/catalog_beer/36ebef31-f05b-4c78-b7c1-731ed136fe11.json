@@ -1,0 +1,11 @@
+{
+  "id": "36ebef31-f05b-4c78-b7c1-731ed136fe11",
+  "object": "beer",
+  "name": "Ballast Point Belgian-Style Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4c160aa3-c795-4f0b-9e93-1d2ef8576378",
+  "object": "beer",
+  "name": "Dry Hopped Everyday Ale - Citra",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fd5a1daa-a09a-44e6-ac2c-5da4b7b14ccb",
+  "object": "beer",
+  "name": "Czech Mate",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

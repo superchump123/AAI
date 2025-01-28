@@ -1,0 +1,11 @@
+{
+  "id": "33274054-763d-483c-a8fa-2adac00f05dd",
+  "object": "beer",
+  "name": "Gothic",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

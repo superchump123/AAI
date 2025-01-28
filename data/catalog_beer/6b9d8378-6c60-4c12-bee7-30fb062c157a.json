@@ -1,0 +1,11 @@
+{
+  "id": "6b9d8378-6c60-4c12-bee7-30fb062c157a",
+  "object": "beer",
+  "name": "IceHogs Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0b424cf2-7342-44b8-ba93-3976341517ce",
+  "object": "beer",
+  "name": "Liquid Truth Serum",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

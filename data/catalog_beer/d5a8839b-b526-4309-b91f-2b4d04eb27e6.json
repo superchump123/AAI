@@ -1,0 +1,11 @@
+{
+  "id": "d5a8839b-b526-4309-b91f-2b4d04eb27e6",
+  "object": "beer",
+  "name": "Ala Moana Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

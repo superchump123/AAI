@@ -1,0 +1,11 @@
+{
+  "id": "b00a0985-9a1e-417e-a0a2-a29bbe5e554d",
+  "object": "beer",
+  "name": "Dog Days Summer Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

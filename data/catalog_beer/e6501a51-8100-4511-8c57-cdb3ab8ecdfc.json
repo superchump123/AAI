@@ -1,0 +1,11 @@
+{
+  "id": "e6501a51-8100-4511-8c57-cdb3ab8ecdfc",
+  "object": "beer",
+  "name": "Ale La Reverend",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 66,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

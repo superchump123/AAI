@@ -1,0 +1,11 @@
+{
+  "id": "c8a798ff-1d8b-4843-98ec-fafc6239085d",
+  "object": "beer",
+  "name": "Casey Jones Vanilla Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

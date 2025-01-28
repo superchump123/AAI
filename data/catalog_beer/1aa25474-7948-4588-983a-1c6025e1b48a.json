@@ -1,0 +1,11 @@
+{
+  "id": "1aa25474-7948-4588-983a-1c6025e1b48a",
+  "object": "beer",
+  "name": "Shaughnessy Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

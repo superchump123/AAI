@@ -1,0 +1,11 @@
+{
+  "id": "499b4f96-ffef-4902-9caf-9017319ffd62",
+  "object": "beer",
+  "name": "The Grove",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

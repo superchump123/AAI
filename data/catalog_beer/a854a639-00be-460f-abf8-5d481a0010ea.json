@@ -1,0 +1,11 @@
+{
+  "id": "a854a639-00be-460f-abf8-5d481a0010ea",
+  "object": "beer",
+  "name": "KIng of the Mountain",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

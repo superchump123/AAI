@@ -1,0 +1,11 @@
+{
+  "id": "7702eeab-b076-4c7b-9013-eacbb1480a64",
+  "object": "beer",
+  "name": "312 Urban Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

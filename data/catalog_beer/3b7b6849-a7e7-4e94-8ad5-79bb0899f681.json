@@ -1,0 +1,11 @@
+{
+  "id": "3b7b6849-a7e7-4e94-8ad5-79bb0899f681",
+  "object": "beer",
+  "name": "Brett? Present.",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

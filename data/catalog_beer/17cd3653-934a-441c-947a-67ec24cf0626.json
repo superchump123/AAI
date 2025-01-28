@@ -1,0 +1,11 @@
+{
+  "id": "17cd3653-934a-441c-947a-67ec24cf0626",
+  "object": "beer",
+  "name": "Framboise Forte d'Or",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "73b793fd-fc56-46db-ad34-e13c2c02a68c",
+  "object": "beer",
+  "name": "Michelob Ultra Amber",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

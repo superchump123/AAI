@@ -1,0 +1,11 @@
+{
+  "id": "3fb1fbc9-2f36-41b7-931a-6ca8afd2f32b",
+  "object": "beer",
+  "name": "Wedge",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

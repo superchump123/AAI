@@ -1,0 +1,11 @@
+{
+  "id": "ac27b80b-24fa-4311-b272-d4609f105a83",
+  "object": "beer",
+  "name": "Old Sammy Coffee Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

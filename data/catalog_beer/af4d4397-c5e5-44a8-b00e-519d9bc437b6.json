@@ -1,0 +1,11 @@
+{
+  "id": "af4d4397-c5e5-44a8-b00e-519d9bc437b6",
+  "object": "beer",
+  "name": "Duck IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

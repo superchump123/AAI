@@ -1,0 +1,11 @@
+{
+  "id": "7e6defca-2e94-4755-a341-a25c0b757888",
+  "object": "beer",
+  "name": "The Pitchfork Pear",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

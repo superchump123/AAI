@@ -1,0 +1,11 @@
+{
+  "id": "e5a239ef-8deb-4d39-b051-92f127352bde",
+  "object": "beer",
+  "name": "Ensorcelled",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

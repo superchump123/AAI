@@ -1,0 +1,11 @@
+{
+  "id": "134d68aa-b9b4-455c-90a9-fa16b64fc86d",
+  "object": "beer",
+  "name": "St Richard's",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

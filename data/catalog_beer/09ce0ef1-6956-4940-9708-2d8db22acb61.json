@@ -1,0 +1,11 @@
+{
+  "id": "09ce0ef1-6956-4940-9708-2d8db22acb61",
+  "object": "beer",
+  "name": "Ale Mary",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

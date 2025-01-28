@@ -1,0 +1,11 @@
+{
+  "id": "4500ef83-d4c6-4dd7-a3b1-275af1e55903",
+  "object": "beer",
+  "name": "Vesuvio",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

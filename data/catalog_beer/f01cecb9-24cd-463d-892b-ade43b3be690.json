@@ -1,0 +1,11 @@
+{
+  "id": "f01cecb9-24cd-463d-892b-ade43b3be690",
+  "object": "beer",
+  "name": "Grumpy Bear",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

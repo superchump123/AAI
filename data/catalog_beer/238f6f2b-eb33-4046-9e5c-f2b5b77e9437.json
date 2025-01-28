@@ -1,0 +1,11 @@
+{
+  "id": "238f6f2b-eb33-4046-9e5c-f2b5b77e9437",
+  "object": "beer",
+  "name": "Marian",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

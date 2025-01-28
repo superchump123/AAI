@@ -1,0 +1,11 @@
+{
+  "id": "434c32b0-9eee-4e5c-8c11-f0028fc54fe2",
+  "object": "beer",
+  "name": "German Weisse",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

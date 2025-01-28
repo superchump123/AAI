@@ -1,0 +1,11 @@
+{
+  "id": "28ca3d45-cf6c-4967-a90e-915557750639",
+  "object": "beer",
+  "name": "Vogellennium",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

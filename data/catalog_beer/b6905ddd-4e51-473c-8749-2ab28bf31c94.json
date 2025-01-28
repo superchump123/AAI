@@ -1,0 +1,11 @@
+{
+  "id": "b6905ddd-4e51-473c-8749-2ab28bf31c94",
+  "object": "beer",
+  "name": "Kaktus Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

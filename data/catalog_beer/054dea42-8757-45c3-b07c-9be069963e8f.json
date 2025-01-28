@@ -1,0 +1,11 @@
+{
+  "id": "054dea42-8757-45c3-b07c-9be069963e8f",
+  "object": "beer",
+  "name": "Gildenbier",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

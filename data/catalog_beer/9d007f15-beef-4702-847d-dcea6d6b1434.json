@@ -1,0 +1,11 @@
+{
+  "id": "9d007f15-beef-4702-847d-dcea6d6b1434",
+  "object": "beer",
+  "name": "Strawberry Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

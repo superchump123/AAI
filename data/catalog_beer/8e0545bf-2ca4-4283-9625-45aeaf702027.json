@@ -1,0 +1,11 @@
+{
+  "id": "8e0545bf-2ca4-4283-9625-45aeaf702027",
+  "object": "beer",
+  "name": "Asylum",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

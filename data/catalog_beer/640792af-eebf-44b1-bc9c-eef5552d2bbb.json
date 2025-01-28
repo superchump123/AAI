@@ -1,0 +1,11 @@
+{
+  "id": "640792af-eebf-44b1-bc9c-eef5552d2bbb",
+  "object": "beer",
+  "name": "Little Red's Rocking Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

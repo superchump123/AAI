@@ -1,0 +1,11 @@
+{
+  "id": "fbada28b-55f8-41ce-8bcb-f6ba02b4f680",
+  "object": "beer",
+  "name": "Coconut Belgian Dark",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

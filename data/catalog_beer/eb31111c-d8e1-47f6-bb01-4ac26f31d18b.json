@@ -1,0 +1,11 @@
+{
+  "id": "eb31111c-d8e1-47f6-bb01-4ac26f31d18b",
+  "object": "beer",
+  "name": "Sequoia Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ded7276a-a589-4bad-baad-b751bc79fac5",
+  "object": "beer",
+  "name": "Lemongrass Rice Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

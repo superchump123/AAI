@@ -1,0 +1,11 @@
+{
+  "id": "6403f6fb-6a48-49c2-a489-bdad9e2dc5fb",
+  "object": "beer",
+  "name": "Solar Flare",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

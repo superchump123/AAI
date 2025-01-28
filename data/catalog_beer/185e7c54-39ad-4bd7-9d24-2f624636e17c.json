@@ -1,0 +1,11 @@
+{
+  "id": "185e7c54-39ad-4bd7-9d24-2f624636e17c",
+  "object": "beer",
+  "name": "Cynic",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

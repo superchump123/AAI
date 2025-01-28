@@ -1,0 +1,11 @@
+{
+  "id": "82d0f896-9c2e-4418-a6c3-286da1d56244",
+  "object": "beer",
+  "name": "Barrel Select Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

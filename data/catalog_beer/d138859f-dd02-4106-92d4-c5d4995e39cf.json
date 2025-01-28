@@ -1,0 +1,11 @@
+{
+  "id": "d138859f-dd02-4106-92d4-c5d4995e39cf",
+  "object": "beer",
+  "name": "Golden Ratio",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "51c3a1bc-3c2c-4bdf-ba71-87aaab52cd42",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Oblivion",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

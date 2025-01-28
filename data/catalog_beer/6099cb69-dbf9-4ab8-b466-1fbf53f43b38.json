@@ -1,0 +1,11 @@
+{
+  "id": "6099cb69-dbf9-4ab8-b466-1fbf53f43b38",
+  "object": "beer",
+  "name": "The Constable Copper Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

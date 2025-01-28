@@ -1,0 +1,11 @@
+{
+  "id": "b5842785-800a-4701-8f6e-1a60993212db",
+  "object": "beer",
+  "name": "Apollo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

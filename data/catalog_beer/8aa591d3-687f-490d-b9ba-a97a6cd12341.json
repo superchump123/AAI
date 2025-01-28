@@ -1,0 +1,11 @@
+{
+  "id": "8aa591d3-687f-490d-b9ba-a97a6cd12341",
+  "object": "beer",
+  "name": "Kaiser von Schnitzelburg",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

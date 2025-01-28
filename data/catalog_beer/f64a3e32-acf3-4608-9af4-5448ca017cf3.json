@@ -1,0 +1,11 @@
+{
+  "id": "f64a3e32-acf3-4608-9af4-5448ca017cf3",
+  "object": "beer",
+  "name": "Cherry BzZz",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

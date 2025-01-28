@@ -1,0 +1,11 @@
+{
+  "id": "d593cc9f-a342-4568-80eb-95e766c63a00",
+  "object": "beer",
+  "name": "American Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 6,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

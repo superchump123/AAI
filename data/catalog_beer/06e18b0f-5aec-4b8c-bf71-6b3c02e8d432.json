@@ -1,0 +1,11 @@
+{
+  "id": "06e18b0f-5aec-4b8c-bf71-6b3c02e8d432",
+  "object": "beer",
+  "name": "7th Inning Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

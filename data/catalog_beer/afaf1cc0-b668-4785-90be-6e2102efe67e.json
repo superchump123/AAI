@@ -1,0 +1,11 @@
+{
+  "id": "afaf1cc0-b668-4785-90be-6e2102efe67e",
+  "object": "beer",
+  "name": "Bainbridge Bitter Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

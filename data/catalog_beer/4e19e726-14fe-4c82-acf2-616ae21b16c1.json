@@ -1,0 +1,11 @@
+{
+  "id": "4e19e726-14fe-4c82-acf2-616ae21b16c1",
+  "object": "beer",
+  "name": "Mason's Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

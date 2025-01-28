@@ -1,0 +1,11 @@
+{
+  "id": "0ffc240e-689e-4669-81f5-989a2e5e559c",
+  "object": "beer",
+  "name": "Apes#it",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

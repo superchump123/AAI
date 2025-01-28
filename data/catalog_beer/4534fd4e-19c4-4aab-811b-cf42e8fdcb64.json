@@ -1,0 +1,11 @@
+{
+  "id": "4534fd4e-19c4-4aab-811b-cf42e8fdcb64",
+  "object": "beer",
+  "name": "La Commune",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

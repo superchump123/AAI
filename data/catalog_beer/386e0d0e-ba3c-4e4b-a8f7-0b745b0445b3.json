@@ -1,0 +1,11 @@
+{
+  "id": "386e0d0e-ba3c-4e4b-a8f7-0b745b0445b3",
+  "object": "beer",
+  "name": "Trout Hop",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

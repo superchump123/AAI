@@ -1,0 +1,11 @@
+{
+  "id": "bc7de521-2d81-43d7-bb4b-cbec59d5b72b",
+  "object": "beer",
+  "name": "Old Redwood Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

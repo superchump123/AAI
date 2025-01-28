@@ -1,0 +1,11 @@
+{
+  "id": "0b65f014-582c-44b8-ad9f-2781801a98f4",
+  "object": "beer",
+  "name": "Good Hops IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

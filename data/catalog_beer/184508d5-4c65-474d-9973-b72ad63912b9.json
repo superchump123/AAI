@@ -1,0 +1,11 @@
+{
+  "id": "184508d5-4c65-474d-9973-b72ad63912b9",
+  "object": "beer",
+  "name": "King Crunch",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

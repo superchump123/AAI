@@ -1,0 +1,11 @@
+{
+  "id": "fd1685a9-a876-4b7d-a1fb-78443fb42dcd",
+  "object": "beer",
+  "name": "Horizon Tokyo Black",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 16,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

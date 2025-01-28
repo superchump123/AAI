@@ -1,0 +1,11 @@
+{
+  "id": "e44c7c65-d65d-4894-8184-930c93030ce3",
+  "object": "beer",
+  "name": "Rocket Science IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

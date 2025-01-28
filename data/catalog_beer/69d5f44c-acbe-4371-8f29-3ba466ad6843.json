@@ -1,0 +1,11 @@
+{
+  "id": "69d5f44c-acbe-4371-8f29-3ba466ad6843",
+  "object": "beer",
+  "name": "Galaxy Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "55dc482d-c74a-4ab0-912c-59585ae4db10",
+  "object": "beer",
+  "name": "Saranac Belgian Ale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

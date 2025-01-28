@@ -1,0 +1,11 @@
+{
+  "id": "49334e42-658c-4057-8d24-a311a684eff1",
+  "object": "beer",
+  "name": "Local's Stash: Bourbon Barrel Aged Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

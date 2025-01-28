@@ -1,0 +1,11 @@
+{
+  "id": "0e04a8be-3d0c-4911-ba9e-ef37f9672fb4",
+  "object": "beer",
+  "name": "Safe Harbor",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

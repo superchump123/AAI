@@ -1,0 +1,11 @@
+{
+  "id": "0a7e1bef-8bb0-4f40-a35a-0203dde3c0fe",
+  "object": "beer",
+  "name": "Rabbit's Bounty",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5da0d4cd-8a1e-4a83-9dbc-4cd44d5db97c",
+  "object": "beer",
+  "name": "Strawberry Rhubarb",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

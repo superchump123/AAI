@@ -1,0 +1,11 @@
+{
+  "id": "a4c80ba6-d393-487f-8ecc-f1128c1d3b66",
+  "object": "beer",
+  "name": "EVOLVER IPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

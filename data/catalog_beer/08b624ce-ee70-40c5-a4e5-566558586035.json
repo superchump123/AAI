@@ -1,0 +1,11 @@
+{
+  "id": "08b624ce-ee70-40c5-a4e5-566558586035",
+  "object": "beer",
+  "name": "Wandering Second Black IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

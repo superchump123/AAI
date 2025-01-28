@@ -1,0 +1,11 @@
+{
+  "id": "f9d0eddb-067b-4ce6-bc5c-b6f4ae8b6fbb",
+  "object": "beer",
+  "name": "Warrior Bomb",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

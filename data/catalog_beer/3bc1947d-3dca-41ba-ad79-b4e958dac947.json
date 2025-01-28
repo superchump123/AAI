@@ -1,0 +1,11 @@
+{
+  "id": "3bc1947d-3dca-41ba-ad79-b4e958dac947",
+  "object": "beer",
+  "name": "Naked Woodsman",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

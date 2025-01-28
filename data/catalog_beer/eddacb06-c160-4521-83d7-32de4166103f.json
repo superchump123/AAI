@@ -1,0 +1,11 @@
+{
+  "id": "eddacb06-c160-4521-83d7-32de4166103f",
+  "object": "beer",
+  "name": "World At Large",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

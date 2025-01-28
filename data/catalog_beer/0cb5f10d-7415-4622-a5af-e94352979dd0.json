@@ -1,0 +1,11 @@
+{
+  "id": "0cb5f10d-7415-4622-a5af-e94352979dd0",
+  "object": "beer",
+  "name": "Dawn Patrol",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fec10ac4-747f-4b4e-ba1f-8f1f4e95f9dc",
+  "object": "beer",
+  "name": "Reilly's Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

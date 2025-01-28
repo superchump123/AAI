@@ -1,0 +1,11 @@
+{
+  "id": "df36bb63-7d16-4f4d-8210-699b73cb6dac",
+  "object": "beer",
+  "name": "White Walls",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

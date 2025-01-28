@@ -1,0 +1,11 @@
+{
+  "id": "53dd99bb-9795-43a1-8e07-0063eb09053c",
+  "object": "beer",
+  "name": "Murphy's Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

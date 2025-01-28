@@ -1,0 +1,11 @@
+{
+  "id": "1c159fde-60f3-40a3-9883-4d146be67157",
+  "object": "beer",
+  "name": "Hopus Dei",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

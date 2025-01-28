@@ -1,0 +1,11 @@
+{
+  "id": "cf960e4d-aa1c-4d12-9101-2086ad691c12",
+  "object": "beer",
+  "name": "Cuke Silver",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

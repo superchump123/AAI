@@ -1,0 +1,11 @@
+{
+  "id": "5383a8b8-9f82-4528-b0b2-e12137ac9bba",
+  "object": "beer",
+  "name": "Pomegranate Planet",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

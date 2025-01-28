@@ -1,0 +1,11 @@
+{
+  "id": "520b2d02-6845-4693-8153-630e20b000ad",
+  "object": "beer",
+  "name": "SuperBrew Taiwan Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

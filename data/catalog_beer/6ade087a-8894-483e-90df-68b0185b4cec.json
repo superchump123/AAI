@@ -1,0 +1,11 @@
+{
+  "id": "6ade087a-8894-483e-90df-68b0185b4cec",
+  "object": "beer",
+  "name": "Fraoch 20",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

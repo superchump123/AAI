@@ -1,0 +1,11 @@
+{
+  "id": "58288185-0dc4-4f85-a5bc-7af8927f54a0",
+  "object": "beer",
+  "name": "Baltimore Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

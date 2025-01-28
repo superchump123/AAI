@@ -1,0 +1,11 @@
+{
+  "id": "dfc86ef9-3e70-4fdb-b949-04d8e51e3259",
+  "object": "beer",
+  "name": "Smooth Sail Summer Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

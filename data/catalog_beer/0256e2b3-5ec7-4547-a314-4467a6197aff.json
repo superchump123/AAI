@@ -1,0 +1,11 @@
+{
+  "id": "0256e2b3-5ec7-4547-a314-4467a6197aff",
+  "object": "beer",
+  "name": "The Lightest Thing We've Got",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5af0636f-858a-4bdf-bb3b-ef6c028cb6dd",
+  "object": "beer",
+  "name": "My Turn #3 - Luther",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

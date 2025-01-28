@@ -1,0 +1,11 @@
+{
+  "id": "bf53a295-b20e-41e6-b402-efaf4f818b29",
+  "object": "beer",
+  "name": "Pale Wheat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

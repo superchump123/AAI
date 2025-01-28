@@ -1,0 +1,11 @@
+{
+  "id": "f460182c-87c4-4b89-8a8c-2d2ccf98ebb9",
+  "object": "beer",
+  "name": "Big Bang Brew",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

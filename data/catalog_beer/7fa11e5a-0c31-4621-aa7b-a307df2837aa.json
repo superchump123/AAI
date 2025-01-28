@@ -1,0 +1,11 @@
+{
+  "id": "7fa11e5a-0c31-4621-aa7b-a307df2837aa",
+  "object": "beer",
+  "name": "Pearling Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

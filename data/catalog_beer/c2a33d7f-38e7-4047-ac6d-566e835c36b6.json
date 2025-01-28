@@ -1,0 +1,11 @@
+{
+  "id": "c2a33d7f-38e7-4047-ac6d-566e835c36b6",
+  "object": "beer",
+  "name": "HBC 366",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

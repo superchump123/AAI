@@ -1,0 +1,11 @@
+{
+  "id": "019e3783-2e32-463d-aa70-d3a115aa7ca5",
+  "object": "beer",
+  "name": "Charter Oak's Sanford Tavern ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

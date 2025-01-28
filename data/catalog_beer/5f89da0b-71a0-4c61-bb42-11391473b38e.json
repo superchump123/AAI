@@ -1,0 +1,11 @@
+{
+  "id": "5f89da0b-71a0-4c61-bb42-11391473b38e",
+  "object": "beer",
+  "name": "Amber Blaze",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

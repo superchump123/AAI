@@ -1,0 +1,11 @@
+{
+  "id": "458b62bb-4f6b-46ab-90ae-774082cac2d6",
+  "object": "beer",
+  "name": "Scenario",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

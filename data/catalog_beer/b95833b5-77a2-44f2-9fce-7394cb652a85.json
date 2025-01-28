@@ -1,0 +1,11 @@
+{
+  "id": "b95833b5-77a2-44f2-9fce-7394cb652a85",
+  "object": "beer",
+  "name": "McGrueh's Dry Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

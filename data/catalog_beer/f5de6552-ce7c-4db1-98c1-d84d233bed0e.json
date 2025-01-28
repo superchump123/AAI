@@ -1,0 +1,11 @@
+{
+  "id": "f5de6552-ce7c-4db1-98c1-d84d233bed0e",
+  "object": "beer",
+  "name": "Stout",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

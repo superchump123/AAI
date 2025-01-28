@@ -1,0 +1,11 @@
+{
+  "id": "f90cbaf8-46a2-42a3-b22a-8441f8daaf6f",
+  "object": "beer",
+  "name": "Aces & Eights",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 105,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

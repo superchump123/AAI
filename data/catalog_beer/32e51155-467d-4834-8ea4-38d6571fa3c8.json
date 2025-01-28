@@ -1,0 +1,11 @@
+{
+  "id": "32e51155-467d-4834-8ea4-38d6571fa3c8",
+  "object": "beer",
+  "name": "Foudreweizen",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

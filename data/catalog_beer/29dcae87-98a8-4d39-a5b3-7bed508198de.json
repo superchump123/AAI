@@ -1,0 +1,11 @@
+{
+  "id": "29dcae87-98a8-4d39-a5b3-7bed508198de",
+  "object": "beer",
+  "name": "Bruja Majik Verona Alt",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

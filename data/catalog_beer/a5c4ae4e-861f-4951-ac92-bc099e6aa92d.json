@@ -1,0 +1,11 @@
+{
+  "id": "a5c4ae4e-861f-4951-ac92-bc099e6aa92d",
+  "object": "beer",
+  "name": "German Keller Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

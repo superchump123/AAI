@@ -1,0 +1,11 @@
+{
+  "id": "e48b9c78-5e39-4759-bc8d-f1feaeed747e",
+  "object": "beer",
+  "name": "Citra",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0c021b35-f6fb-4f73-84b6-278afaea6507",
+  "object": "beer",
+  "name": "Witty",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

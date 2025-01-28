@@ -1,0 +1,11 @@
+{
+  "id": "313df7bb-e6a1-40bb-9d2d-ca5244722b22",
+  "object": "beer",
+  "name": "Alphorn Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

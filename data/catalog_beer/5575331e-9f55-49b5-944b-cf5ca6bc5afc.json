@@ -1,0 +1,11 @@
+{
+  "id": "5575331e-9f55-49b5-944b-cf5ca6bc5afc",
+  "object": "beer",
+  "name": "Bohemian Cask Lager",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

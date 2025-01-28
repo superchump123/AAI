@@ -1,0 +1,11 @@
+{
+  "id": "be5fa715-2bd3-4929-a011-5fd1af53e2bd",
+  "object": "beer",
+  "name": "Ramstein Northern Hills Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "17f0cc61-1a9d-43ee-9269-7f0fb1e0111a",
+  "object": "beer",
+  "name": "Raspberry Sour Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

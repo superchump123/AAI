@@ -1,0 +1,11 @@
+{
+  "id": "2f5eaa67-6059-4a11-b999-2d2950d94326",
+  "object": "beer",
+  "name": "1492 IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

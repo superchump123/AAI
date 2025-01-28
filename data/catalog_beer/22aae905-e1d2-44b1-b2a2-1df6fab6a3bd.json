@@ -1,0 +1,11 @@
+{
+  "id": "22aae905-e1d2-44b1-b2a2-1df6fab6a3bd",
+  "object": "beer",
+  "name": "King Dandy",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

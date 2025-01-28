@@ -1,0 +1,11 @@
+{
+  "id": "4f2fa7de-404d-4af0-9a59-76ca2510cf22",
+  "object": "beer",
+  "name": "Wheez The Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 59,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

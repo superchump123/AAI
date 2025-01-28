@@ -1,0 +1,11 @@
+{
+  "id": "be70fabc-4ba7-4b40-8c2d-525bfb89caf3",
+  "object": "beer",
+  "name": "Intolerable Imperial IRA",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

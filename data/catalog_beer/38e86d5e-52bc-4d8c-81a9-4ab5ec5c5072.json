@@ -1,0 +1,11 @@
+{
+  "id": "38e86d5e-52bc-4d8c-81a9-4ab5ec5c5072",
+  "object": "beer",
+  "name": "Crazy Seven Cream",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

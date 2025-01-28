@@ -1,0 +1,11 @@
+{
+  "id": "01cca87a-c34d-4f7b-bc6f-a397fe053975",
+  "object": "beer",
+  "name": "Venture",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

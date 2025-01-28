@@ -1,0 +1,11 @@
+{
+  "id": "e9957e4c-2a35-45c9-993b-aecaa95846b0",
+  "object": "beer",
+  "name": "Black Gold",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d6f35971-0e5a-4ca0-947f-7f2576bfdfb2",
+  "object": "beer",
+  "name": "Miyama Blonde",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

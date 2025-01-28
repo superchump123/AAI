@@ -1,0 +1,11 @@
+{
+  "id": "08e6f54d-362d-4b87-9b86-2c431fb0bb3d",
+  "object": "beer",
+  "name": "Steelworkers' Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

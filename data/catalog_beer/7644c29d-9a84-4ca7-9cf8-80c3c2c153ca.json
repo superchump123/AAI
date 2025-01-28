@@ -1,0 +1,11 @@
+{
+  "id": "7644c29d-9a84-4ca7-9cf8-80c3c2c153ca",
+  "object": "beer",
+  "name": "Persian Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

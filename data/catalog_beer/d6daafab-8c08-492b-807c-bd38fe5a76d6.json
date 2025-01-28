@@ -1,0 +1,11 @@
+{
+  "id": "d6daafab-8c08-492b-807c-bd38fe5a76d6",
+  "object": "beer",
+  "name": "Wallflower Wheat",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

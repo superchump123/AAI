@@ -1,0 +1,11 @@
+{
+  "id": "117744ff-d03d-4f52-848f-d548e12cec02",
+  "object": "beer",
+  "name": "It's A Trapp!",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 10.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

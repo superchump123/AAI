@@ -1,0 +1,11 @@
+{
+  "id": "35ec7c8f-4c48-4656-9e8f-85ed6899ed4b",
+  "object": "beer",
+  "name": "Captain's Summer Session",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

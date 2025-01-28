@@ -1,0 +1,11 @@
+{
+  "id": "0201a1b8-a981-4ad6-9d57-70ed8f17a559",
+  "object": "beer",
+  "name": "Clausthaler Classic",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 0.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "68d4ed88-0af4-4a67-b668-8a7a0dc3187c",
+  "object": "beer",
+  "name": "Devil Dog Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 99,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

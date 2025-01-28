@@ -1,0 +1,11 @@
+{
+  "id": "f351f929-2527-443e-b798-81788a2e82ff",
+  "object": "beer",
+  "name": "Samuel Adams Might Oak Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

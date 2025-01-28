@@ -1,0 +1,11 @@
+{
+  "id": "659394f2-705a-4595-afec-3ed7b004f423",
+  "object": "beer",
+  "name": "Oyster Strong Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "17f242e1-87cf-478d-9bbb-7350ec7ab6fe",
+  "object": "beer",
+  "name": "Kate's Weirdo Wit Beer",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

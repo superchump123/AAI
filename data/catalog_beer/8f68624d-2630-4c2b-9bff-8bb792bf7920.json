@@ -1,0 +1,11 @@
+{
+  "id": "8f68624d-2630-4c2b-9bff-8bb792bf7920",
+  "object": "beer",
+  "name": "Fiasco IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ac877c2-0957-47e5-b1b5-41e373207831",
+  "object": "beer",
+  "name": "Morning Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

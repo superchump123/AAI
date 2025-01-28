@@ -1,0 +1,11 @@
+{
+  "id": "db4784fa-8c0f-412f-88e8-5f94bc06926c",
+  "object": "beer",
+  "name": "Organic Discerning Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

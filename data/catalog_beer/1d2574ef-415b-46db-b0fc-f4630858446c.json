@@ -1,0 +1,11 @@
+{
+  "id": "1d2574ef-415b-46db-b0fc-f4630858446c",
+  "object": "beer",
+  "name": "Baron H",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

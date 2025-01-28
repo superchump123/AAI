@@ -1,0 +1,11 @@
+{
+  "id": "fbbb8a21-092e-43dd-be06-e50222c23a89",
+  "object": "beer",
+  "name": "Bob E. Flay",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

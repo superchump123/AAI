@@ -1,0 +1,11 @@
+{
+  "id": "d1e9d1c2-5249-41f6-8960-01fbb2c5af3d",
+  "object": "beer",
+  "name": "Dark Dream",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

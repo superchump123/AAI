@@ -1,0 +1,11 @@
+{
+  "id": "a99ee263-a1bc-42f2-9626-75f864b6848b",
+  "object": "beer",
+  "name": "Adam's Beard",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.7,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

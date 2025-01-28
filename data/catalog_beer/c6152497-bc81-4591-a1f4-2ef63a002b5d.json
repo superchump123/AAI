@@ -1,0 +1,11 @@
+{
+  "id": "c6152497-bc81-4591-a1f4-2ef63a002b5d",
+  "object": "beer",
+  "name": "East Bay IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

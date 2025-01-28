@@ -1,0 +1,11 @@
+{
+  "id": "398acbed-0911-481a-bf5f-265ca493ae21",
+  "object": "beer",
+  "name": "Virginia Apple",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

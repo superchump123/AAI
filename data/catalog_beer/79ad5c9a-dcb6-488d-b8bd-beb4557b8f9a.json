@@ -1,0 +1,11 @@
+{
+  "id": "79ad5c9a-dcb6-488d-b8bd-beb4557b8f9a",
+  "object": "beer",
+  "name": "Mariana Trench",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

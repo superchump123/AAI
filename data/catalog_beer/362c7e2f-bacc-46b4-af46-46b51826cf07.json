@@ -1,0 +1,11 @@
+{
+  "id": "362c7e2f-bacc-46b4-af46-46b51826cf07",
+  "object": "beer",
+  "name": "Dark Hollow Artisanal Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 79,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cc3d499c-225f-4ce5-b79e-95204588c14e",
+  "object": "beer",
+  "name": "Anne",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

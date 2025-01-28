@@ -1,0 +1,11 @@
+{
+  "id": "96c860c7-94af-49f3-ab79-ab5afe63e3d4",
+  "object": "beer",
+  "name": "Plaid Attack",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

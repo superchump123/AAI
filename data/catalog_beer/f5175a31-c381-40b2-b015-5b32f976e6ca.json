@@ -1,0 +1,11 @@
+{
+  "id": "f5175a31-c381-40b2-b015-5b32f976e6ca",
+  "object": "beer",
+  "name": "Mango Django",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

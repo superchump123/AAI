@@ -1,0 +1,11 @@
+{
+  "id": "729ffee1-b3fd-4560-a458-c9de38d9fea2",
+  "object": "beer",
+  "name": "Hivemind",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

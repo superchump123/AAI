@@ -1,0 +1,11 @@
+{
+  "id": "5872a8c4-2ff5-4c0e-a61a-c0c4086824a7",
+  "object": "beer",
+  "name": "Franconia Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

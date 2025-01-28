@@ -1,0 +1,11 @@
+{
+  "id": "d7e439d1-2fa5-43ff-85c6-47bc0bc35286",
+  "object": "beer",
+  "name": "Azacca D.A.V.E.",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b7aa204d-b5d7-459e-8f05-ca0ab7d5f551",
+  "object": "beer",
+  "name": "0311 Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

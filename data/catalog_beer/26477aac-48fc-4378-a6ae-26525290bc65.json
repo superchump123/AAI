@@ -1,0 +1,11 @@
+{
+  "id": "26477aac-48fc-4378-a6ae-26525290bc65",
+  "object": "beer",
+  "name": "Toasted Almond Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 51,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

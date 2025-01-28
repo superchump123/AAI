@@ -1,0 +1,11 @@
+{
+  "id": "35518ea4-815b-4250-9090-d8e548fed435",
+  "object": "beer",
+  "name": "Bourgogne des Flandres",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

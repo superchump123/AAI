@@ -1,0 +1,11 @@
+{
+  "id": "92b66a31-735f-4cbe-b704-4505d79fd964",
+  "object": "beer",
+  "name": "Dark Heron",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

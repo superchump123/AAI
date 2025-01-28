@@ -1,0 +1,11 @@
+{
+  "id": "93a28af2-1c18-4be0-9f89-d216876a0486",
+  "object": "beer",
+  "name": "American Gold",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

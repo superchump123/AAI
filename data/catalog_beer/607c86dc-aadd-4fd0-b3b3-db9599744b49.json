@@ -1,0 +1,11 @@
+{
+  "id": "607c86dc-aadd-4fd0-b3b3-db9599744b49",
+  "object": "beer",
+  "name": "Rigor Portis",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

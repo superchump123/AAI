@@ -1,0 +1,11 @@
+{
+  "id": "d56cf91c-82e1-4923-b77f-3e71e0bc85ad",
+  "object": "beer",
+  "name": "Floyd Fuel",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

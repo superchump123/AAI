@@ -1,0 +1,11 @@
+{
+  "id": "8b1c15db-903a-4390-8868-0b03382a804f",
+  "object": "beer",
+  "name": "Ginger",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

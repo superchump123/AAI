@@ -1,0 +1,11 @@
+{
+  "id": "2fd2bed2-da05-4590-a94d-7f4a612b118a",
+  "object": "beer",
+  "name": "Let's Get Tropical",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c4b54ca9-6a10-473e-bff1-96b927747d33",
+  "object": "beer",
+  "name": "Logical Choice",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

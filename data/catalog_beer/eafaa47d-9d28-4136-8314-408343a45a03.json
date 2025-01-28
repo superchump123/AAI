@@ -1,0 +1,11 @@
+{
+  "id": "eafaa47d-9d28-4136-8314-408343a45a03",
+  "object": "beer",
+  "name": "Slaughter Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "894e4f6d-cd7a-4bb5-8800-22b874cd1cb4",
+  "object": "beer",
+  "name": "Throwback IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

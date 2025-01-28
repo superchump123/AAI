@@ -1,0 +1,11 @@
+{
+  "id": "b56434c0-dd1f-4457-9ac7-07de7291cfa5",
+  "object": "beer",
+  "name": "Believer Double Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

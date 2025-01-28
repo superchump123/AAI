@@ -1,0 +1,11 @@
+{
+  "id": "5d78feb9-d92e-45fc-9836-250f372bbe5f",
+  "object": "beer",
+  "name": "2nd Anniversary Belgian IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

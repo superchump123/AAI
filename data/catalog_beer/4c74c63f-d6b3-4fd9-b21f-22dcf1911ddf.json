@@ -1,0 +1,11 @@
+{
+  "id": "4c74c63f-d6b3-4fd9-b21f-22dcf1911ddf",
+  "object": "beer",
+  "name": "Man Juice",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

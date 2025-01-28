@@ -1,0 +1,11 @@
+{
+  "id": "8c62dc33-5a71-4e8c-8523-e6b2f43816f9",
+  "object": "beer",
+  "name": "Hops and Robbers",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

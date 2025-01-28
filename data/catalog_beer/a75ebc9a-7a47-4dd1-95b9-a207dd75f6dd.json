@@ -1,0 +1,11 @@
+{
+  "id": "a75ebc9a-7a47-4dd1-95b9-a207dd75f6dd",
+  "object": "beer",
+  "name": "Czann's Brewing Company",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

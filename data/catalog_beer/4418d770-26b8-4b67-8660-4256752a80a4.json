@@ -1,0 +1,11 @@
+{
+  "id": "4418d770-26b8-4b67-8660-4256752a80a4",
+  "object": "beer",
+  "name": "Spring Break",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

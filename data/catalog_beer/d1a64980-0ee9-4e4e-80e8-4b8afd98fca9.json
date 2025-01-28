@@ -1,0 +1,11 @@
+{
+  "id": "d1a64980-0ee9-4e4e-80e8-4b8afd98fca9",
+  "object": "beer",
+  "name": "Susan",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

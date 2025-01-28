@@ -1,0 +1,11 @@
+{
+  "id": "bbd36b81-7f77-4536-bfe0-8bcf24e43a63",
+  "object": "beer",
+  "name": "Two-Sixteen Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

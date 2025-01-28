@@ -1,0 +1,11 @@
+{
+  "id": "b9cabc29-29ce-4227-9db0-7bfa7a86f114",
+  "object": "beer",
+  "name": "Yebisu Premium",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

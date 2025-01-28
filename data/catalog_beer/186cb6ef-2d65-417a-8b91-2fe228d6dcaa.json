@@ -1,0 +1,11 @@
+{
+  "id": "186cb6ef-2d65-417a-8b91-2fe228d6dcaa",
+  "object": "beer",
+  "name": "Citralicious Trip Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

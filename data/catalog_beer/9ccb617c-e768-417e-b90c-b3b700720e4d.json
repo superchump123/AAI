@@ -1,0 +1,11 @@
+{
+  "id": "9ccb617c-e768-417e-b90c-b3b700720e4d",
+  "object": "beer",
+  "name": "Vanilla Java Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0d06580f-dab2-454a-be4f-ba103346bf85",
+  "object": "beer",
+  "name": "Alton's Pride",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

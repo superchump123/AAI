@@ -1,0 +1,11 @@
+{
+  "id": "05d59fa2-84d5-41f0-be13-01ec4c2f0666",
+  "object": "beer",
+  "name": "Fruity Pooty",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

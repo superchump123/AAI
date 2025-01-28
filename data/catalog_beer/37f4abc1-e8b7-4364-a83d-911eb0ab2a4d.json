@@ -1,0 +1,11 @@
+{
+  "id": "37f4abc1-e8b7-4364-a83d-911eb0ab2a4d",
+  "object": "beer",
+  "name": "Nasty Habit IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

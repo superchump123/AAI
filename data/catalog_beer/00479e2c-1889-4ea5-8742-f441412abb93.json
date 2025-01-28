@@ -1,0 +1,11 @@
+{
+  "id": "00479e2c-1889-4ea5-8742-f441412abb93",
+  "object": "beer",
+  "name": "Bavaria Golden",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

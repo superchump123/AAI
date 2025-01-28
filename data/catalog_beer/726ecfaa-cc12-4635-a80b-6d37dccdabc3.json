@@ -1,0 +1,11 @@
+{
+  "id": "726ecfaa-cc12-4635-a80b-6d37dccdabc3",
+  "object": "beer",
+  "name": "Iowa Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a530d901-cc19-404c-baaf-da74da24c0d1",
+  "object": "beer",
+  "name": "Waterline Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

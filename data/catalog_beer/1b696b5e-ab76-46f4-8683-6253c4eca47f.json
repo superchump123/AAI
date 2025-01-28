@@ -1,0 +1,11 @@
+{
+  "id": "1b696b5e-ab76-46f4-8683-6253c4eca47f",
+  "object": "beer",
+  "name": "Win Bic",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

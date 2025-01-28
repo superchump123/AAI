@@ -1,0 +1,11 @@
+{
+  "id": "e334d14b-916d-473c-ac27-e970b9dc6e02",
+  "object": "beer",
+  "name": "English Breakfast Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

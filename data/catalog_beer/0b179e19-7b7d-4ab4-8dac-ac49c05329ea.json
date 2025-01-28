@@ -1,0 +1,11 @@
+{
+  "id": "0b179e19-7b7d-4ab4-8dac-ac49c05329ea",
+  "object": "beer",
+  "name": "Hop King",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

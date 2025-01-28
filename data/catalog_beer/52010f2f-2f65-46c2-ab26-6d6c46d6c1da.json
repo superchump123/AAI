@@ -1,0 +1,11 @@
+{
+  "id": "52010f2f-2f65-46c2-ab26-6d6c46d6c1da",
+  "object": "beer",
+  "name": "Begyle Session IPA",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

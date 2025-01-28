@@ -1,0 +1,11 @@
+{
+  "id": "0b7fe2e9-9d60-4484-977d-2bd589defcad",
+  "object": "beer",
+  "name": "Detroit Brewing Company Original Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

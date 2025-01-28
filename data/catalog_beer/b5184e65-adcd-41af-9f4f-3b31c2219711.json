@@ -1,0 +1,11 @@
+{
+  "id": "b5184e65-adcd-41af-9f4f-3b31c2219711",
+  "object": "beer",
+  "name": "Myrha",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

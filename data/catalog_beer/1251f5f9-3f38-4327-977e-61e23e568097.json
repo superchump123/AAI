@@ -1,0 +1,11 @@
+{
+  "id": "1251f5f9-3f38-4327-977e-61e23e568097",
+  "object": "beer",
+  "name": "BJ's Abbey Normal",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "730e2066-24ea-427d-8bb1-b0ca7d4654a4",
+  "object": "beer",
+  "name": "Tenth Anniversery Ale",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

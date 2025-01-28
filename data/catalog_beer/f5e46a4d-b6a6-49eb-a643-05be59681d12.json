@@ -1,0 +1,11 @@
+{
+  "id": "f5e46a4d-b6a6-49eb-a643-05be59681d12",
+  "object": "beer",
+  "name": "Citrus Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

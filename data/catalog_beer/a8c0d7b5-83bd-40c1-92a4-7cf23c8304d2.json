@@ -1,0 +1,11 @@
+{
+  "id": "a8c0d7b5-83bd-40c1-92a4-7cf23c8304d2",
+  "object": "beer",
+  "name": "Big Slick American Barleywine Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

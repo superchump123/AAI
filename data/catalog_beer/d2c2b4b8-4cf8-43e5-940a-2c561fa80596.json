@@ -1,0 +1,11 @@
+{
+  "id": "d2c2b4b8-4cf8-43e5-940a-2c561fa80596",
+  "object": "beer",
+  "name": "Scratch & Sniff",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

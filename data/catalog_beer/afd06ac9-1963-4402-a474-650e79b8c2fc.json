@@ -1,0 +1,11 @@
+{
+  "id": "afd06ac9-1963-4402-a474-650e79b8c2fc",
+  "object": "beer",
+  "name": "Smoked Oktoberfest",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

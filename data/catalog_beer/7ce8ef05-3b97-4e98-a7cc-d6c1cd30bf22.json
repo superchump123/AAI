@@ -1,0 +1,11 @@
+{
+  "id": "7ce8ef05-3b97-4e98-a7cc-d6c1cd30bf22",
+  "object": "beer",
+  "name": "Magic Trick",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

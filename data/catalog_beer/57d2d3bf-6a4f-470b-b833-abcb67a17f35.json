@@ -1,0 +1,11 @@
+{
+  "id": "57d2d3bf-6a4f-470b-b833-abcb67a17f35",
+  "object": "beer",
+  "name": "Pecan Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

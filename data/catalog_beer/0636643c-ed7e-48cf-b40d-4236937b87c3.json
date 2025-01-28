@@ -1,0 +1,11 @@
+{
+  "id": "0636643c-ed7e-48cf-b40d-4236937b87c3",
+  "object": "beer",
+  "name": "Runaround Rye",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 14,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

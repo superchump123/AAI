@@ -1,0 +1,11 @@
+{
+  "id": "a58c5614-2acc-4ab6-ae1a-77e465f87d13",
+  "object": "beer",
+  "name": "Circle of Hops",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

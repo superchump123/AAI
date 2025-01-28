@@ -1,0 +1,11 @@
+{
+  "id": "c4f1195b-c4e8-4322-972d-c50daa115ab0",
+  "object": "beer",
+  "name": "Trip Queen",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

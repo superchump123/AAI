@@ -1,0 +1,11 @@
+{
+  "id": "f02892a6-f11b-4d63-ae73-0bf52c73f8f2",
+  "object": "beer",
+  "name": "Bergen Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

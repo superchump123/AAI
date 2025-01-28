@@ -1,0 +1,11 @@
+{
+  "id": "f49cd200-44c6-4f45-b8ee-42df5c18bd21",
+  "object": "beer",
+  "name": "Brett Loves Citra",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4d63ae28-910b-4e7b-93b4-f35b7542a41e",
+  "object": "beer",
+  "name": "Choss",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": 186,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

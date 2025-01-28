@@ -1,0 +1,11 @@
+{
+  "id": "659c50bc-71ae-40dd-b67f-8db572cbef4f",
+  "object": "beer",
+  "name": "Demo",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

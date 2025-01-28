@@ -1,0 +1,11 @@
+{
+  "id": "c79e7f5d-3cb8-426d-b45a-dc4e949f0c5a",
+  "object": "beer",
+  "name": "Daytona Dirty Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

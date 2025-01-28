@@ -1,0 +1,11 @@
+{
+  "id": "14e24500-fd72-4156-8751-e7e7b3bdbc7a",
+  "object": "beer",
+  "name": "Cerveza Royale",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

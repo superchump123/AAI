@@ -1,0 +1,11 @@
+{
+  "id": "a921f07a-952c-4124-a4ca-47a5d22ec887",
+  "object": "beer",
+  "name": "Coffee Sesame Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

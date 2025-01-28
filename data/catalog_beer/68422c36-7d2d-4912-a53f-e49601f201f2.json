@@ -1,0 +1,11 @@
+{
+  "id": "68422c36-7d2d-4912-a53f-e49601f201f2",
+  "object": "beer",
+  "name": "Anvil Point Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "49f2d608-9eeb-405b-9904-25997067775b",
+  "object": "beer",
+  "name": "Static Chipmunk",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

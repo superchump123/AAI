@@ -1,0 +1,11 @@
+{
+  "id": "a97a4f93-b5df-4118-ae9a-5cc640cd8b6e",
+  "object": "beer",
+  "name": "Hippie IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

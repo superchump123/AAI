@@ -1,0 +1,11 @@
+{
+  "id": "d0965c63-590f-4fae-a9ec-c93c600d03fe",
+  "object": "beer",
+  "name": "Grambo",
+  "style": "Double Red Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

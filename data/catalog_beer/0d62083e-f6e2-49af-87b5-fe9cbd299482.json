@@ -1,0 +1,11 @@
+{
+  "id": "0d62083e-f6e2-49af-87b5-fe9cbd299482",
+  "object": "beer",
+  "name": "Antheia",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

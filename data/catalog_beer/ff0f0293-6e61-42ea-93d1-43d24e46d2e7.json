@@ -1,0 +1,11 @@
+{
+  "id": "ff0f0293-6e61-42ea-93d1-43d24e46d2e7",
+  "object": "beer",
+  "name": "Luckenwalder Edel Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

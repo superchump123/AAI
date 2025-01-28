@@ -1,0 +1,11 @@
+{
+  "id": "673460c4-b9c6-4d51-b6ff-a982199510a6",
+  "object": "beer",
+  "name": "Old Voyage",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

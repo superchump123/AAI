@@ -1,0 +1,11 @@
+{
+  "id": "e061bd4c-afb4-47ef-8da2-5ffc1110712a",
+  "object": "beer",
+  "name": "JMB Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

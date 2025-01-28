@@ -1,0 +1,11 @@
+{
+  "id": "a64b9d48-fc16-4bfa-a112-66394e707e8f",
+  "object": "beer",
+  "name": "Lion Heart",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

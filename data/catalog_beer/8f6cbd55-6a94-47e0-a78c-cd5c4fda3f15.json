@@ -1,0 +1,11 @@
+{
+  "id": "8f6cbd55-6a94-47e0-a78c-cd5c4fda3f15",
+  "object": "beer",
+  "name": "Decade-ence",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

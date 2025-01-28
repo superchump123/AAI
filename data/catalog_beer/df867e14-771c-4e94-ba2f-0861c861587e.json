@@ -1,0 +1,11 @@
+{
+  "id": "df867e14-771c-4e94-ba2f-0861c861587e",
+  "object": "beer",
+  "name": "Black IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

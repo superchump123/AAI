@@ -1,0 +1,11 @@
+{
+  "id": "4fd2b662-7c15-4a6d-8081-0708633e4e26",
+  "object": "beer",
+  "name": "Pantry Party",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

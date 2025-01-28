@@ -1,0 +1,11 @@
+{
+  "id": "b8dd00ea-1999-484e-a517-2aa1a8a1b47e",
+  "object": "beer",
+  "name": "King Balaton",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

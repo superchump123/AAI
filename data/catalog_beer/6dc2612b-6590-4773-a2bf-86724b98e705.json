@@ -1,0 +1,11 @@
+{
+  "id": "6dc2612b-6590-4773-a2bf-86724b98e705",
+  "object": "beer",
+  "name": "Legal Holiday",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7b43f1b5-4c66-40d7-ac5e-590046749a57",
+  "object": "beer",
+  "name": "Hell or High Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f007e6e7-af79-4668-acfc-a1639feb8b37",
+  "object": "beer",
+  "name": "Care Bear Blood",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

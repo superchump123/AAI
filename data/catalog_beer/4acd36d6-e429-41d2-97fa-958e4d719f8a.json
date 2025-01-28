@@ -1,0 +1,11 @@
+{
+  "id": "4acd36d6-e429-41d2-97fa-958e4d719f8a",
+  "object": "beer",
+  "name": "Project Mayhem",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

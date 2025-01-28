@@ -1,0 +1,11 @@
+{
+  "id": "6f0f9cfc-5d8d-42e5-b677-4294e31db429",
+  "object": "beer",
+  "name": "Fury & Son Grapefruit Session Ale",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fff9c890-2370-43c9-9245-6e7e89eba6e6",
+  "object": "beer",
+  "name": "Belsnickel Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

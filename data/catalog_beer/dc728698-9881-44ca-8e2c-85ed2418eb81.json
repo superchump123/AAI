@@ -1,0 +1,11 @@
+{
+  "id": "dc728698-9881-44ca-8e2c-85ed2418eb81",
+  "object": "beer",
+  "name": "Woodchuck Granny Smith",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

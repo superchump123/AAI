@@ -1,0 +1,11 @@
+{
+  "id": "55a1057b-226d-4eba-85e8-2ec3fc9a7fc3",
+  "object": "beer",
+  "name": "Hopfenmalz",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

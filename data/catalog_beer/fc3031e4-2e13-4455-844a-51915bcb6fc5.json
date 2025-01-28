@@ -1,0 +1,11 @@
+{
+  "id": "fc3031e4-2e13-4455-844a-51915bcb6fc5",
+  "object": "beer",
+  "name": "Stir Crazy",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

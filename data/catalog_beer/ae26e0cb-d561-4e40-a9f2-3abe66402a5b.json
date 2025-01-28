@@ -1,0 +1,11 @@
+{
+  "id": "ae26e0cb-d561-4e40-a9f2-3abe66402a5b",
+  "object": "beer",
+  "name": "McGrumpy's",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

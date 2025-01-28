@@ -1,0 +1,11 @@
+{
+  "id": "32978d6e-a36b-4eef-b65f-fffd2aa919b2",
+  "object": "beer",
+  "name": "Hail the Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

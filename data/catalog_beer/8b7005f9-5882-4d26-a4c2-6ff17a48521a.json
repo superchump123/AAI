@@ -1,0 +1,11 @@
+{
+  "id": "8b7005f9-5882-4d26-a4c2-6ff17a48521a",
+  "object": "beer",
+  "name": "Beck's Sapphire",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

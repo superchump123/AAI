@@ -1,0 +1,11 @@
+{
+  "id": "87a13dcc-73a6-4e6c-ac5a-821974eea7ed",
+  "object": "beer",
+  "name": "Hot Shot",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

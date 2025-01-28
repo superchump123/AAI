@@ -1,0 +1,11 @@
+{
+  "id": "d8b9c96e-38a6-4332-8514-bb3d4317ce8a",
+  "object": "beer",
+  "name": "1887",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

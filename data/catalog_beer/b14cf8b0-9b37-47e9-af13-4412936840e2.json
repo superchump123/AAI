@@ -1,0 +1,11 @@
+{
+  "id": "b14cf8b0-9b37-47e9-af13-4412936840e2",
+  "object": "beer",
+  "name": "Bears in the Woods Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

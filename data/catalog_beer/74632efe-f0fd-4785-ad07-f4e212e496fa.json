@@ -1,0 +1,11 @@
+{
+  "id": "74632efe-f0fd-4785-ad07-f4e212e496fa",
+  "object": "beer",
+  "name": "Otto Ale",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

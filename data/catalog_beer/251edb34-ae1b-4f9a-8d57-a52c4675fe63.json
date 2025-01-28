@@ -1,0 +1,11 @@
+{
+  "id": "251edb34-ae1b-4f9a-8d57-a52c4675fe63",
+  "object": "beer",
+  "name": "Stublendiou",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

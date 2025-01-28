@@ -1,0 +1,11 @@
+{
+  "id": "b5d41a8f-5a0d-46d5-8a0f-23e185341572",
+  "object": "beer",
+  "name": "Red Roadster",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

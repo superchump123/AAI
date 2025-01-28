@@ -1,0 +1,11 @@
+{
+  "id": "f53243c3-b07d-4f70-9272-d76d8fc6d055",
+  "object": "beer",
+  "name": "A57N ALT Bier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4cc220b3-d17a-4a60-9f11-21a587b2557d",
+  "object": "beer",
+  "name": "Schlafly Caraway IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

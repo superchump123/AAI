@@ -1,0 +1,11 @@
+{
+  "id": "b2a9d957-8592-42f5-b2e1-a282ed552280",
+  "object": "beer",
+  "name": "Centennial Rye",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

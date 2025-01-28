@@ -1,0 +1,11 @@
+{
+  "id": "ec8599fa-5abe-47d9-aa78-299bea9c7e9f",
+  "object": "beer",
+  "name": "Le Bretteur Ale",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

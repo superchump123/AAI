@@ -1,0 +1,11 @@
+{
+  "id": "8f73d1dc-5eee-4be6-8964-e8880c1f0807",
+  "object": "beer",
+  "name": "El Dorado",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

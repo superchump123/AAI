@@ -1,0 +1,11 @@
+{
+  "id": "338f9f0c-d6bb-4538-91a9-3eb62d2d1595",
+  "object": "beer",
+  "name": "Special Old Bitter (S.O.B)",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

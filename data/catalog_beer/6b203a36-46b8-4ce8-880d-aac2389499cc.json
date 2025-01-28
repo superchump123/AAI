@@ -1,0 +1,11 @@
+{
+  "id": "6b203a36-46b8-4ce8-880d-aac2389499cc",
+  "object": "beer",
+  "name": "Scottish Export",
+  "style": "Scottish-Style Export Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

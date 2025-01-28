@@ -1,0 +1,11 @@
+{
+  "id": "f332dc4b-f284-4c3a-9762-4270a3089fec",
+  "object": "beer",
+  "name": "Simian Fever",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

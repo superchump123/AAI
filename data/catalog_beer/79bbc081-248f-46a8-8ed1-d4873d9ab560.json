@@ -1,0 +1,11 @@
+{
+  "id": "79bbc081-248f-46a8-8ed1-d4873d9ab560",
+  "object": "beer",
+  "name": "Spill The Tea",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

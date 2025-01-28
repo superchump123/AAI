@@ -1,0 +1,11 @@
+{
+  "id": "9cd24a5e-4687-447c-8721-b5b64011a993",
+  "object": "beer",
+  "name": "New",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

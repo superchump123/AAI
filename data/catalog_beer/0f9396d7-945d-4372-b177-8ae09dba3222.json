@@ -1,0 +1,11 @@
+{
+  "id": "0f9396d7-945d-4372-b177-8ae09dba3222",
+  "object": "beer",
+  "name": "Dunkle Weisse",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

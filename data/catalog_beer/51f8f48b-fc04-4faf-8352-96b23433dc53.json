@@ -1,0 +1,11 @@
+{
+  "id": "51f8f48b-fc04-4faf-8352-96b23433dc53",
+  "object": "beer",
+  "name": "Texas Exile",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1e87fbc1-b8e4-4dc3-91a1-8c99b213fd6a",
+  "object": "beer",
+  "name": "Parti-Gyle",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "0803a254-6b10-4c46-9b47-b70bbf28f6d3",
+  "object": "beer",
+  "name": "Krakatoa",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

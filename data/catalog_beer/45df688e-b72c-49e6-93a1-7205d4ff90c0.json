@@ -1,0 +1,11 @@
+{
+  "id": "45df688e-b72c-49e6-93a1-7205d4ff90c0",
+  "object": "beer",
+  "name": "Lando Kardashian",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 11,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

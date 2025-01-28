@@ -1,0 +1,11 @@
+{
+  "id": "c7ae203b-4122-48e4-ac1d-ca20aa7d7040",
+  "object": "beer",
+  "name": "Monumental IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

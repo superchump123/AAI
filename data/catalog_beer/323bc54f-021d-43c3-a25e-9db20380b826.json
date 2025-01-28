@@ -1,0 +1,11 @@
+{
+  "id": "323bc54f-021d-43c3-a25e-9db20380b826",
+  "object": "beer",
+  "name": "Paw Swipe Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

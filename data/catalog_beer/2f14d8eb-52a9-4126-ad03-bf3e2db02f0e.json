@@ -1,0 +1,11 @@
+{
+  "id": "2f14d8eb-52a9-4126-ad03-bf3e2db02f0e",
+  "object": "beer",
+  "name": "Blonde Bie",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

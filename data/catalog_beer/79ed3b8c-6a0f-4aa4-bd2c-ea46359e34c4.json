@@ -1,0 +1,11 @@
+{
+  "id": "79ed3b8c-6a0f-4aa4-bd2c-ea46359e34c4",
+  "object": "beer",
+  "name": "Dog Way IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

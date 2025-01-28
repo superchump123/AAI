@@ -1,0 +1,11 @@
+{
+  "id": "3a60824b-f264-49a0-bf35-399320effcc5",
+  "object": "beer",
+  "name": "Bocat Chocolate Bock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

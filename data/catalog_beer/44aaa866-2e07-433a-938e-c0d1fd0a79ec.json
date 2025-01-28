@@ -1,0 +1,11 @@
+{
+  "id": "44aaa866-2e07-433a-938e-c0d1fd0a79ec",
+  "object": "beer",
+  "name": "Violin Monster",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

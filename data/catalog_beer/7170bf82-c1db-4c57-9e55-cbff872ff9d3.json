@@ -1,0 +1,11 @@
+{
+  "id": "7170bf82-c1db-4c57-9e55-cbff872ff9d3",
+  "object": "beer",
+  "name": "Barrel-Aged Muy Bonita",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "297341a4-41ae-43c8-a50d-4551628877e4",
+  "object": "beer",
+  "name": "San Francisco IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

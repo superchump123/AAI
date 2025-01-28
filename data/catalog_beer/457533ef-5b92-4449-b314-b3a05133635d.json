@@ -1,0 +1,11 @@
+{
+  "id": "457533ef-5b92-4449-b314-b3a05133635d",
+  "object": "beer",
+  "name": "Benefit Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

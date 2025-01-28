@@ -1,0 +1,11 @@
+{
+  "id": "b89a43e5-1bc0-49dc-8ab0-beb109404ad5",
+  "object": "beer",
+  "name": "Ante Up Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

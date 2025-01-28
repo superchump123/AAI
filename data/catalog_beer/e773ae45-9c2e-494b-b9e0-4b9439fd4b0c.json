@@ -1,0 +1,11 @@
+{
+  "id": "e773ae45-9c2e-494b-b9e0-4b9439fd4b0c",
+  "object": "beer",
+  "name": "Citra Haze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

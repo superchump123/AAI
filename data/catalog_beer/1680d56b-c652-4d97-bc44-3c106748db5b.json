@@ -1,0 +1,11 @@
+{
+  "id": "1680d56b-c652-4d97-bc44-3c106748db5b",
+  "object": "beer",
+  "name": "Negra",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

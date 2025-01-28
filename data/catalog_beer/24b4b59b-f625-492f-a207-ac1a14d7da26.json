@@ -1,0 +1,11 @@
+{
+  "id": "24b4b59b-f625-492f-a207-ac1a14d7da26",
+  "object": "beer",
+  "name": "V\u00e4stkust",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

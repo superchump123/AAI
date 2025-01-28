@@ -1,0 +1,11 @@
+{
+  "id": "9b01c251-c410-4503-9ebc-b97251552c20",
+  "object": "beer",
+  "name": "Jet Lag",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

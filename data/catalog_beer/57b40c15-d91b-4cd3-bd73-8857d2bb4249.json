@@ -1,0 +1,11 @@
+{
+  "id": "57b40c15-d91b-4cd3-bd73-8857d2bb4249",
+  "object": "beer",
+  "name": "Half Nelson",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

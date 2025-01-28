@@ -1,0 +1,11 @@
+{
+  "id": "437c0417-11b1-4098-8c05-c08c5deb8403",
+  "object": "beer",
+  "name": "Salt and Sand",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

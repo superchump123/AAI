@@ -1,0 +1,11 @@
+{
+  "id": "750ad595-7285-4a6a-bb53-3c62444c4f23",
+  "object": "beer",
+  "name": "Frontal Labottleme",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

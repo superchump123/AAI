@@ -1,0 +1,11 @@
+{
+  "id": "238980bc-f7e9-4166-92f2-e07f60ac367f",
+  "object": "beer",
+  "name": "Arizona Trail Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

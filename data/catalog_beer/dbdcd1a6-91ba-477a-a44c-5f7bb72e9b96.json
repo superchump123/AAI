@@ -1,0 +1,11 @@
+{
+  "id": "dbdcd1a6-91ba-477a-a44c-5f7bb72e9b96",
+  "object": "beer",
+  "name": "Hoponacci (Belma)",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

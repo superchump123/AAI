@@ -1,0 +1,11 @@
+{
+  "id": "e8e7564d-a84b-4715-9cce-c2806e03e7b9",
+  "object": "beer",
+  "name": "Loud Mouth Oakes IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

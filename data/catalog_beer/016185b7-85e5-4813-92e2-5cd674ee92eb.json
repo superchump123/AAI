@@ -1,0 +1,11 @@
+{
+  "id": "016185b7-85e5-4813-92e2-5cd674ee92eb",
+  "object": "beer",
+  "name": "Old Embalmer '12",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

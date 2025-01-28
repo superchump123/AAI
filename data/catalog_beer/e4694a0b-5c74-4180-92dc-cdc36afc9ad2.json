@@ -1,0 +1,11 @@
+{
+  "id": "e4694a0b-5c74-4180-92dc-cdc36afc9ad2",
+  "object": "beer",
+  "name": "Sepal",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

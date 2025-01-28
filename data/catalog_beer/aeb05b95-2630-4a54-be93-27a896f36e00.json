@@ -1,0 +1,11 @@
+{
+  "id": "aeb05b95-2630-4a54-be93-27a896f36e00",
+  "object": "beer",
+  "name": "Grand Cru",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

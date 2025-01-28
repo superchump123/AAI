@@ -1,0 +1,11 @@
+{
+  "id": "4b992f5a-ae4d-48e1-842d-0bf610bda99c",
+  "object": "beer",
+  "name": "Dead Elephant",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

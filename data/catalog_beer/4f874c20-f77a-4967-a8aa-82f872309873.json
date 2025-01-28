@@ -1,0 +1,11 @@
+{
+  "id": "4f874c20-f77a-4967-a8aa-82f872309873",
+  "object": "beer",
+  "name": "Gose Like Swayze",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

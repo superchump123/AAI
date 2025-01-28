@@ -1,0 +1,11 @@
+{
+  "id": "213071c1-c00f-477c-a631-39c9edecc0d5",
+  "object": "beer",
+  "name": "Double Dose",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

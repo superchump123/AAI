@@ -1,0 +1,11 @@
+{
+  "id": "b247a0dd-b394-45e7-86e7-50a0d48dc9f8",
+  "object": "beer",
+  "name": "Tryst Blathan",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

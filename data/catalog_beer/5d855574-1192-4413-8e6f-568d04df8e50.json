@@ -1,0 +1,11 @@
+{
+  "id": "5d855574-1192-4413-8e6f-568d04df8e50",
+  "object": "beer",
+  "name": "S-Turns",
+  "style": "Specialty Honey Lager or Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

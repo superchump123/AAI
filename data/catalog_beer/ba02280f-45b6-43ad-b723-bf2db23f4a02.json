@@ -1,0 +1,11 @@
+{
+  "id": "ba02280f-45b6-43ad-b723-bf2db23f4a02",
+  "object": "beer",
+  "name": "Old Town Yard",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4629e86b-ff3e-49cd-a272-a74130df6cfd",
+  "object": "beer",
+  "name": "Lager hell",
+  "style": "Other Strong Ale or Lager",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

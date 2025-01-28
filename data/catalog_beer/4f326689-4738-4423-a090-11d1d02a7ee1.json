@@ -1,0 +1,11 @@
+{
+  "id": "4f326689-4738-4423-a090-11d1d02a7ee1",
+  "object": "beer",
+  "name": "Orthodox",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

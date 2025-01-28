@@ -1,0 +1,11 @@
+{
+  "id": "3dac76e7-9614-41ce-a40d-c4f8aa0ee628",
+  "object": "beer",
+  "name": "Strip-Teaser Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e7b27849-92f2-4220-9f2f-d01eaa678a10",
+  "object": "beer",
+  "name": "Pilot Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

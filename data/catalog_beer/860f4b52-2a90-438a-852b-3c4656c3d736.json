@@ -1,0 +1,11 @@
+{
+  "id": "860f4b52-2a90-438a-852b-3c4656c3d736",
+  "object": "beer",
+  "name": "Old Dark Ale",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

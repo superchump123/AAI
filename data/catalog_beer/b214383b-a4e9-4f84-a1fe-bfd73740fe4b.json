@@ -1,0 +1,11 @@
+{
+  "id": "b214383b-a4e9-4f84-a1fe-bfd73740fe4b",
+  "object": "beer",
+  "name": "Liquid Sunshine Blonde Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

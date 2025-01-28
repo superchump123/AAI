@@ -1,0 +1,11 @@
+{
+  "id": "b400a46d-ef04-45ee-9800-3d7afc93dde2",
+  "object": "beer",
+  "name": "Choc Lobster",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

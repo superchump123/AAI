@@ -1,0 +1,11 @@
+{
+  "id": "02bea28e-f5c6-45f8-bf1b-ed6055867631",
+  "object": "beer",
+  "name": "Hachenburger Frischling",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

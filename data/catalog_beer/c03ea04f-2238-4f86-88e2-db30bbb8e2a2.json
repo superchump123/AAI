@@ -1,0 +1,11 @@
+{
+  "id": "c03ea04f-2238-4f86-88e2-db30bbb8e2a2",
+  "object": "beer",
+  "name": "De Cam Oude Lambiek",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

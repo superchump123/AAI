@@ -1,0 +1,11 @@
+{
+  "id": "c9a77224-2c1b-429c-9b42-b7b0d0943cf3",
+  "object": "beer",
+  "name": "508 Nut Brown Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b96ce22a-c89b-49db-8025-3411a0f735c0",
+  "object": "beer",
+  "name": "Gauloise 10 Triple Blond",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

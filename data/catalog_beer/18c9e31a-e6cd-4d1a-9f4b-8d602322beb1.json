@@ -1,0 +1,11 @@
+{
+  "id": "18c9e31a-e6cd-4d1a-9f4b-8d602322beb1",
+  "object": "beer",
+  "name": "Fool",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

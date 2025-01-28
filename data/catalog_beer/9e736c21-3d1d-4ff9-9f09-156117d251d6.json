@@ -1,0 +1,11 @@
+{
+  "id": "9e736c21-3d1d-4ff9-9f09-156117d251d6",
+  "object": "beer",
+  "name": "Chasing Tail Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

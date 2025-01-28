@@ -1,0 +1,11 @@
+{
+  "id": "2022625c-3cb8-4f1f-b83a-d69bad4a7b1d",
+  "object": "beer",
+  "name": "Raisin Hell",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

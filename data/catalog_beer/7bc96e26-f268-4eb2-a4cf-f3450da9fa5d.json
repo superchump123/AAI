@@ -1,0 +1,11 @@
+{
+  "id": "7bc96e26-f268-4eb2-a4cf-f3450da9fa5d",
+  "object": "beer",
+  "name": "Keltius Trashno",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

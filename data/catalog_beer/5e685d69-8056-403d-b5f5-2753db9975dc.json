@@ -1,0 +1,11 @@
+{
+  "id": "5e685d69-8056-403d-b5f5-2753db9975dc",
+  "object": "beer",
+  "name": "Staropramen Velvet",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

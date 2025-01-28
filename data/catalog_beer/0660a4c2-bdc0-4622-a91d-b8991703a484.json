@@ -1,0 +1,11 @@
+{
+  "id": "0660a4c2-bdc0-4622-a91d-b8991703a484",
+  "object": "beer",
+  "name": "Korev",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

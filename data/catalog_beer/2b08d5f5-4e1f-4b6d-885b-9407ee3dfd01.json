@@ -1,0 +1,11 @@
+{
+  "id": "2b08d5f5-4e1f-4b6d-885b-9407ee3dfd01",
+  "object": "beer",
+  "name": "Trolley Stop Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "16b5502c-f0a9-47dd-b14f-3bf9cc2c2dec",
+  "object": "beer",
+  "name": "Framboise",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7e7c79bf-33d8-4cee-af10-52e62382727c",
+  "object": "beer",
+  "name": "Dog Days",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

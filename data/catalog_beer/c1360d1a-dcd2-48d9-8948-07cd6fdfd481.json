@@ -1,0 +1,11 @@
+{
+  "id": "c1360d1a-dcd2-48d9-8948-07cd6fdfd481",
+  "object": "beer",
+  "name": "PHD",
+  "style": "American-Style Malt Liquor",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

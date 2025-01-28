@@ -1,0 +1,11 @@
+{
+  "id": "750d8244-2dec-420d-aa63-51db8fe72443",
+  "object": "beer",
+  "name": "Rasplendent",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

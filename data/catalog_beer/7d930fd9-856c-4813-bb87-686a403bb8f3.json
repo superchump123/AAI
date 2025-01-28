@@ -1,0 +1,11 @@
+{
+  "id": "7d930fd9-856c-4813-bb87-686a403bb8f3",
+  "object": "beer",
+  "name": "Freya's Stone Amber Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aefe6de7-1ce7-4368-a947-6b074e9373a3",
+  "object": "beer",
+  "name": "Plymouth Rock Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

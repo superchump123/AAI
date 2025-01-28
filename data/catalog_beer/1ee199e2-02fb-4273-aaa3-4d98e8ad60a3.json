@@ -1,0 +1,11 @@
+{
+  "id": "1ee199e2-02fb-4273-aaa3-4d98e8ad60a3",
+  "object": "beer",
+  "name": "Pater Dubbel Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

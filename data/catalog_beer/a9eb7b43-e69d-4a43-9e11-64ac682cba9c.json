@@ -1,0 +1,11 @@
+{
+  "id": "a9eb7b43-e69d-4a43-9e11-64ac682cba9c",
+  "object": "beer",
+  "name": "DEFCON I BELGIAN QUAD",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 7.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

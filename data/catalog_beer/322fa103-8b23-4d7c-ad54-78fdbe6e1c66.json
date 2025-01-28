@@ -1,0 +1,11 @@
+{
+  "id": "322fa103-8b23-4d7c-ad54-78fdbe6e1c66",
+  "object": "beer",
+  "name": "Boulevard Maibock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

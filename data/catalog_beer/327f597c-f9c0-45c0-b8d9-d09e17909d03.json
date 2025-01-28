@@ -1,0 +1,11 @@
+{
+  "id": "327f597c-f9c0-45c0-b8d9-d09e17909d03",
+  "object": "beer",
+  "name": "Pugachev's Cobra",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 14.8,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

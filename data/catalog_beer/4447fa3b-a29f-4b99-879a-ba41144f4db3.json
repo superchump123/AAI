@@ -1,0 +1,11 @@
+{
+  "id": "4447fa3b-a29f-4b99-879a-ba41144f4db3",
+  "object": "beer",
+  "name": "Black Goat",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

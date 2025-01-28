@@ -1,0 +1,11 @@
+{
+  "id": "e11e963b-e022-4127-833c-a4b291c6bc54",
+  "object": "beer",
+  "name": "Abiqua Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

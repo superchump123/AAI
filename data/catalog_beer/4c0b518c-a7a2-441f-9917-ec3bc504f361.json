@@ -1,0 +1,11 @@
+{
+  "id": "4c0b518c-a7a2-441f-9917-ec3bc504f361",
+  "object": "beer",
+  "name": "Man O' War",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

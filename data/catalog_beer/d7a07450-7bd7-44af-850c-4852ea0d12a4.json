@@ -1,0 +1,11 @@
+{
+  "id": "d7a07450-7bd7-44af-850c-4852ea0d12a4",
+  "object": "beer",
+  "name": "Weet Heavy",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e2c7cd71-9827-47c5-82ee-bac8ca5ec710",
+  "object": "beer",
+  "name": "Benno Trappistenbier",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

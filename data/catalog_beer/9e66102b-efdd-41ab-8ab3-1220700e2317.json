@@ -1,0 +1,11 @@
+{
+  "id": "9e66102b-efdd-41ab-8ab3-1220700e2317",
+  "object": "beer",
+  "name": "Painted Turtle",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

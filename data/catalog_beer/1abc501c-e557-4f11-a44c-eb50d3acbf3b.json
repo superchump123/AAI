@@ -1,0 +1,11 @@
+{
+  "id": "1abc501c-e557-4f11-a44c-eb50d3acbf3b",
+  "object": "beer",
+  "name": "Stearns Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

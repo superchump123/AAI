@@ -1,0 +1,11 @@
+{
+  "id": "e20f6c9c-c766-4984-8a53-687a51f3db1f",
+  "object": "beer",
+  "name": "Hirsch Kristall-Weisse",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

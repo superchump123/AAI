@@ -1,0 +1,11 @@
+{
+  "id": "80605f82-33a0-49fc-a432-bfb49a17a00b",
+  "object": "beer",
+  "name": "Power Pilsner",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

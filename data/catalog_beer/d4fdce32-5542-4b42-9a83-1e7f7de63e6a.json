@@ -1,0 +1,11 @@
+{
+  "id": "d4fdce32-5542-4b42-9a83-1e7f7de63e6a",
+  "object": "beer",
+  "name": "Buffalo Sunrise",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

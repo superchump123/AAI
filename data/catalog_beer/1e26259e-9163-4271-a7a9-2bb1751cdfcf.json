@@ -1,0 +1,11 @@
+{
+  "id": "1e26259e-9163-4271-a7a9-2bb1751cdfcf",
+  "object": "beer",
+  "name": "Hohenfelder Weizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

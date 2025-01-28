@@ -1,0 +1,11 @@
+{
+  "id": "29ef53d6-a9c1-4d60-853c-9b5856092291",
+  "object": "beer",
+  "name": "Belle Gunness Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ad2f8db-20fb-460c-8908-f8748a0e3633",
+  "object": "beer",
+  "name": "Magnificent Amber",
+  "style": "Amber",
+  "description": "A particularly well-balanced medium-bodied example, the Magnificent Amber Ale pours amber to copper with a slightly off-white head, leads with a hoppy nose, follows with a toasty maltiness, and wraps gracefully with a noticeably caramel finish.",
+  "abv": 5.4,
+  "ibu": 39,
+  "cb_verified": true,
+  "last_modified": 1511569341
+}

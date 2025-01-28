@@ -1,0 +1,11 @@
+{
+  "id": "a8b72793-c401-4818-999b-82c774120186",
+  "object": "beer",
+  "name": "Saison Blanc",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

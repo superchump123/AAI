@@ -1,0 +1,11 @@
+{
+  "id": "1f289c83-fb56-4d7b-8ce6-530f056b6e02",
+  "object": "beer",
+  "name": "Crafty Cider",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

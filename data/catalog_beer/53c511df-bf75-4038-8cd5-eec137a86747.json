@@ -1,0 +1,11 @@
+{
+  "id": "53c511df-bf75-4038-8cd5-eec137a86747",
+  "object": "beer",
+  "name": "D'Juicy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

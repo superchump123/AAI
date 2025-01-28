@@ -1,0 +1,11 @@
+{
+  "id": "a06441de-307d-490f-b6b4-2ac24f29d7ae",
+  "object": "beer",
+  "name": "Burn Ban Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

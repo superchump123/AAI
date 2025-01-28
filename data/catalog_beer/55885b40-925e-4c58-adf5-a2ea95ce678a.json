@@ -1,0 +1,11 @@
+{
+  "id": "55885b40-925e-4c58-adf5-a2ea95ce678a",
+  "object": "beer",
+  "name": "Beer Camp: Stout of the Union",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

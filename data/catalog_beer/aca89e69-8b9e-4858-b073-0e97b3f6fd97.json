@@ -1,0 +1,11 @@
+{
+  "id": "aca89e69-8b9e-4858-b073-0e97b3f6fd97",
+  "object": "beer",
+  "name": "Cidre Blanc",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

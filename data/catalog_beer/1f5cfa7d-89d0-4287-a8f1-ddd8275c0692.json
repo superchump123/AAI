@@ -1,0 +1,11 @@
+{
+  "id": "1f5cfa7d-89d0-4287-a8f1-ddd8275c0692",
+  "object": "beer",
+  "name": "Dire Wolf",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 79,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

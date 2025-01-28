@@ -1,0 +1,11 @@
+{
+  "id": "d2bdaa0b-0155-4b37-8a34-1282f4e6ec83",
+  "object": "beer",
+  "name": "Spring Kriek",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

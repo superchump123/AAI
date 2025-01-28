@@ -1,0 +1,11 @@
+{
+  "id": "7c0472df-faa9-4689-8d6a-01ca514c083a",
+  "object": "beer",
+  "name": "Guinness Black Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

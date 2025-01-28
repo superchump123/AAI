@@ -1,0 +1,11 @@
+{
+  "id": "7d657808-5d4b-4515-9a4f-884b74868e1d",
+  "object": "beer",
+  "name": "Flying Mouflan",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.7,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

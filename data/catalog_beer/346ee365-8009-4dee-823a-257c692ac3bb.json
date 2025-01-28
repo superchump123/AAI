@@ -1,0 +1,11 @@
+{
+  "id": "346ee365-8009-4dee-823a-257c692ac3bb",
+  "object": "beer",
+  "name": "Bass Pale Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

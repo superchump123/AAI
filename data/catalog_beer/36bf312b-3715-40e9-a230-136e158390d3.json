@@ -1,0 +1,11 @@
+{
+  "id": "36bf312b-3715-40e9-a230-136e158390d3",
+  "object": "beer",
+  "name": "Vanilla Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

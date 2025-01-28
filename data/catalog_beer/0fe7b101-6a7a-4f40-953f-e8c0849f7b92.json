@@ -1,0 +1,11 @@
+{
+  "id": "0fe7b101-6a7a-4f40-953f-e8c0849f7b92",
+  "object": "beer",
+  "name": "Beer Geek Brunch Weasel",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 10.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e6ced5c5-2b2c-46b9-8b48-f48c57d0655d",
+  "object": "beer",
+  "name": "New Stunt IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

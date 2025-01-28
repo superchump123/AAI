@@ -1,0 +1,11 @@
+{
+  "id": "1d0c11a4-9c8f-423e-a02d-6234afdee763",
+  "object": "beer",
+  "name": "Two Jacks",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

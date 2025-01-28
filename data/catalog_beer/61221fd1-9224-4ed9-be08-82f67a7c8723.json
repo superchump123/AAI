@@ -1,0 +1,11 @@
+{
+  "id": "61221fd1-9224-4ed9-be08-82f67a7c8723",
+  "object": "beer",
+  "name": "Honey Wheat",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

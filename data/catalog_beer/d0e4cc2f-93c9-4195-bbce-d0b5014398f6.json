@@ -1,0 +1,11 @@
+{
+  "id": "d0e4cc2f-93c9-4195-bbce-d0b5014398f6",
+  "object": "beer",
+  "name": "Galapapos",
+  "style": "Pale American-Belgo-Style Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "104c8611-1107-4bdb-9be1-3acf8de31f3d",
+  "object": "beer",
+  "name": "Halsdurschlag",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

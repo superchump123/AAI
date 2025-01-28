@@ -1,0 +1,11 @@
+{
+  "id": "d2eb7ebe-3309-478c-b3a2-bb5324e39188",
+  "object": "beer",
+  "name": "Gersdorfer Heller Bock",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fc6b1e7e-abc6-4ff6-b073-ee8f00268fbf",
+  "object": "beer",
+  "name": "\u201cFurbelly\u201d Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

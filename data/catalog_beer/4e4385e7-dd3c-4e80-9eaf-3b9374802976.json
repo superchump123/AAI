@@ -1,0 +1,11 @@
+{
+  "id": "4e4385e7-dd3c-4e80-9eaf-3b9374802976",
+  "object": "beer",
+  "name": "Blue Corn Maiden",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

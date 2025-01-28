@@ -1,0 +1,11 @@
+{
+  "id": "c29bf5e6-d94e-4699-ac2d-1b6fb425b863",
+  "object": "beer",
+  "name": "Insurgente Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dce8498c-cbb7-4e15-a893-6c711dab61bf",
+  "object": "beer",
+  "name": "Fauxlanders Red",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

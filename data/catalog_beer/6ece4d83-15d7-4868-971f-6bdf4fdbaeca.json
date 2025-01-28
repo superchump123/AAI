@@ -1,0 +1,11 @@
+{
+  "id": "6ece4d83-15d7-4868-971f-6bdf4fdbaeca",
+  "object": "beer",
+  "name": "O'Hara's Easter Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

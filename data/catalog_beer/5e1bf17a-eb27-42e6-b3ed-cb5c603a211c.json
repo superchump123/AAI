@@ -1,0 +1,11 @@
+{
+  "id": "5e1bf17a-eb27-42e6-b3ed-cb5c603a211c",
+  "object": "beer",
+  "name": "Prince of Pilsen",
+  "style": "International-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

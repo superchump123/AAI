@@ -1,0 +1,11 @@
+{
+  "id": "db29cb39-553b-4a8c-9f3f-5de2663c03f5",
+  "object": "beer",
+  "name": "Hop Slobber",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

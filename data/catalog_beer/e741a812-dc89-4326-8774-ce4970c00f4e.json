@@ -1,0 +1,11 @@
+{
+  "id": "e741a812-dc89-4326-8774-ce4970c00f4e",
+  "object": "beer",
+  "name": "Batch #100",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

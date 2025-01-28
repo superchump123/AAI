@@ -1,0 +1,11 @@
+{
+  "id": "ca61a605-98ae-4b24-bb75-1dd8004a768a",
+  "object": "beer",
+  "name": "Lenzkircher Dunkel",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

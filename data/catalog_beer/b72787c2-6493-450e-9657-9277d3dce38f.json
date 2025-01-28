@@ -1,0 +1,11 @@
+{
+  "id": "b72787c2-6493-450e-9657-9277d3dce38f",
+  "object": "beer",
+  "name": "Jolly Good Pale Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2199b883-9cd2-48f7-9fdd-b7c97637ef93",
+  "object": "beer",
+  "name": "Expo 58",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36de93c9-bb91-49c4-946b-f6b24520ddfc",
+  "object": "beer",
+  "name": "T.O.R.I.S The Tyrant",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

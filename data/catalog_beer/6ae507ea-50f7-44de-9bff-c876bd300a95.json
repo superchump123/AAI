@@ -1,0 +1,11 @@
+{
+  "id": "6ae507ea-50f7-44de-9bff-c876bd300a95",
+  "object": "beer",
+  "name": "Azacca Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

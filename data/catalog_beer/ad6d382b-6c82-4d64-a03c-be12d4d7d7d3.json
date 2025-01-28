@@ -1,0 +1,11 @@
+{
+  "id": "ad6d382b-6c82-4d64-a03c-be12d4d7d7d3",
+  "object": "beer",
+  "name": "Sugar Creek",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

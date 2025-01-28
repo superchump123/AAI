@@ -1,0 +1,11 @@
+{
+  "id": "01eb2d07-72ca-426e-94fe-611058d6c9ec",
+  "object": "beer",
+  "name": "Steam Pumper IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4795f67-67b0-46df-be70-fb8061e5a917",
+  "object": "beer",
+  "name": "Seaside Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

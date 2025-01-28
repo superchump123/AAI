@@ -1,0 +1,11 @@
+{
+  "id": "b38ce574-5fd5-48cd-8104-a26657421c42",
+  "object": "beer",
+  "name": "Don\u2019t Talk Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

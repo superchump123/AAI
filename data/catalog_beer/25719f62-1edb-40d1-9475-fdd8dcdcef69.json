@@ -1,0 +1,11 @@
+{
+  "id": "25719f62-1edb-40d1-9475-fdd8dcdcef69",
+  "object": "beer",
+  "name": "Replicale",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

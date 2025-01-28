@@ -1,0 +1,11 @@
+{
+  "id": "410e25d3-44ed-4c86-a375-69c1efa81a5e",
+  "object": "beer",
+  "name": "11th Anniversary Lager",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

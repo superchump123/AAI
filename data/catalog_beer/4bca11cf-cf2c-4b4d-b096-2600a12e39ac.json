@@ -1,0 +1,11 @@
+{
+  "id": "4bca11cf-cf2c-4b4d-b096-2600a12e39ac",
+  "object": "beer",
+  "name": "Bi-Polar Express",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

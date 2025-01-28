@@ -1,0 +1,11 @@
+{
+  "id": "f6855b8f-8224-4233-98bc-03ceb7b4e949",
+  "object": "beer",
+  "name": "Bamberg Helles",
+  "style": "Bamberg-Style Helles Rauchbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

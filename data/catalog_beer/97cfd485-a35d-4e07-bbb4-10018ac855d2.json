@@ -1,0 +1,11 @@
+{
+  "id": "97cfd485-a35d-4e07-bbb4-10018ac855d2",
+  "object": "beer",
+  "name": "Ohana Saison Noir",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

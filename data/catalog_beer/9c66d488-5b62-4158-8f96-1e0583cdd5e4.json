@@ -1,0 +1,11 @@
+{
+  "id": "9c66d488-5b62-4158-8f96-1e0583cdd5e4",
+  "object": "beer",
+  "name": "West Shore IPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

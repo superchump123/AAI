@@ -1,0 +1,11 @@
+{
+  "id": "b8f574fc-a257-43b8-bac3-ff8628794f11",
+  "object": "beer",
+  "name": "Holloway",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

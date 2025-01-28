@@ -1,0 +1,11 @@
+{
+  "id": "7636106d-eb15-4fb9-9544-b8f81d9eee78",
+  "object": "beer",
+  "name": "Maiz",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

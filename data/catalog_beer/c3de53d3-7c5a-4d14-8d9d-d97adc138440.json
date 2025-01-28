@@ -1,0 +1,11 @@
+{
+  "id": "c3de53d3-7c5a-4d14-8d9d-d97adc138440",
+  "object": "beer",
+  "name": "Billy Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

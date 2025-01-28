@@ -1,0 +1,11 @@
+{
+  "id": "93cb825e-9c7a-420f-a0d9-248e2bd61ec9",
+  "object": "beer",
+  "name": "Karousel Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

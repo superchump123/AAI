@@ -1,0 +1,11 @@
+{
+  "id": "67443be4-9842-4076-89f8-a25031b6a7c1",
+  "object": "beer",
+  "name": "Mead",
+  "style": "Sweet Mead",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

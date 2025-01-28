@@ -1,0 +1,11 @@
+{
+  "id": "a422f2ac-e130-4cf6-9249-825824e64de4",
+  "object": "beer",
+  "name": "Jacob Marley Barley",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

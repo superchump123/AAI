@@ -1,0 +1,11 @@
+{
+  "id": "cb6a8987-2609-4784-9578-19b760bbf762",
+  "object": "beer",
+  "name": "Bad Donkey",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "00a7adf9-1fa3-4411-9745-d50d1b68369d",
+  "object": "beer",
+  "name": "West Coast Pilz",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

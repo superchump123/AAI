@@ -1,0 +1,11 @@
+{
+  "id": "b935dd78-1dac-4804-aa0d-c2f0361d5e55",
+  "object": "beer",
+  "name": "Patrick's Poison",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

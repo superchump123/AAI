@@ -1,0 +1,11 @@
+{
+  "id": "d3c1563a-7a37-4e37-bed6-d4a852e3be21",
+  "object": "beer",
+  "name": "Madawaska Maple Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

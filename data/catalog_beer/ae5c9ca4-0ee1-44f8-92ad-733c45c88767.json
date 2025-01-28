@@ -1,0 +1,11 @@
+{
+  "id": "ae5c9ca4-0ee1-44f8-92ad-733c45c88767",
+  "object": "beer",
+  "name": "Stauder Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

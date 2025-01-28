@@ -1,0 +1,11 @@
+{
+  "id": "a69d8676-99ee-4b9d-998c-b46c5f49ee3d",
+  "object": "beer",
+  "name": "Devils Tramping Ground Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

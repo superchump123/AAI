@@ -1,0 +1,11 @@
+{
+  "id": "63941743-4f58-47ac-a79d-642e55bac1eb",
+  "object": "beer",
+  "name": "Weisser Bock",
+  "style": "South German-Style Weizenbock / Weissbock",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

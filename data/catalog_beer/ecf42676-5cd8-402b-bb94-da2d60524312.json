@@ -1,0 +1,11 @@
+{
+  "id": "ecf42676-5cd8-402b-bb94-da2d60524312",
+  "object": "beer",
+  "name": "Get Down Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

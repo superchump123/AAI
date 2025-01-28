@@ -1,0 +1,11 @@
+{
+  "id": "0b4ad650-b08a-45e3-b1c9-88d27f1be596",
+  "object": "beer",
+  "name": "Brazen",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

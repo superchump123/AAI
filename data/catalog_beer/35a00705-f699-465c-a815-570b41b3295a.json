@@ -1,0 +1,11 @@
+{
+  "id": "35a00705-f699-465c-a815-570b41b3295a",
+  "object": "beer",
+  "name": "Tupelo Dry Mead",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

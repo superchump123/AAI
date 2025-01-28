@@ -1,0 +1,11 @@
+{
+  "id": "a5728352-c625-4c95-9abf-6952493e923a",
+  "object": "beer",
+  "name": "Joe IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

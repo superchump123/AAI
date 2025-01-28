@@ -1,0 +1,11 @@
+{
+  "id": "14aa9c1d-b3b1-483d-a7bb-e60b7a9597ea",
+  "object": "beer",
+  "name": "Lighthouse Amber",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

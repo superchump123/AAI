@@ -1,0 +1,11 @@
+{
+  "id": "9e250ec9-2f0e-42a0-a586-42e2445027b2",
+  "object": "beer",
+  "name": "Pleroma",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "38bb53df-c1af-4153-aff5-fa8cf8ef6299",
+  "object": "beer",
+  "name": "Naked Lap Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

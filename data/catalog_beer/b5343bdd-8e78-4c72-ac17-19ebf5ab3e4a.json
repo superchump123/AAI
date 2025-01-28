@@ -1,0 +1,11 @@
+{
+  "id": "b5343bdd-8e78-4c72-ac17-19ebf5ab3e4a",
+  "object": "beer",
+  "name": "Sour Wheat",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

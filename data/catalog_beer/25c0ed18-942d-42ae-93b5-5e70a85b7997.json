@@ -1,0 +1,11 @@
+{
+  "id": "25c0ed18-942d-42ae-93b5-5e70a85b7997",
+  "object": "beer",
+  "name": "Heavy D",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

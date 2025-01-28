@@ -1,0 +1,11 @@
+{
+  "id": "49c3ea0b-b3f6-4e34-8b7f-2c1a5c3347ab",
+  "object": "beer",
+  "name": "Saddleback",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

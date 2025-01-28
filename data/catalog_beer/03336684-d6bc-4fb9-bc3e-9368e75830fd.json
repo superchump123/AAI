@@ -1,0 +1,11 @@
+{
+  "id": "03336684-d6bc-4fb9-bc3e-9368e75830fd",
+  "object": "beer",
+  "name": "Charmer",
+  "style": "English Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

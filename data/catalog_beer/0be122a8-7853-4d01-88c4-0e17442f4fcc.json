@@ -1,0 +1,11 @@
+{
+  "id": "0be122a8-7853-4d01-88c4-0e17442f4fcc",
+  "object": "beer",
+  "name": "Reflector Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

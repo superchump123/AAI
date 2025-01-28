@@ -1,0 +1,11 @@
+{
+  "id": "540ad5b9-1ec4-42a0-b3d3-14374621309c",
+  "object": "beer",
+  "name": "Snow Dazed Winter Ale",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

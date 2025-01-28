@@ -1,0 +1,11 @@
+{
+  "id": "5d782444-deac-4836-a44d-4d54e54a387c",
+  "object": "beer",
+  "name": "Unloosened",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5c2ce6b1-d07a-4b34-921e-45e906260d3e",
+  "object": "beer",
+  "name": "Fresh as Helles",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f5a94c7c-4f87-4d24-a9c1-30ef056ad44f",
+  "object": "beer",
+  "name": "Smoked Schwarz Lager",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

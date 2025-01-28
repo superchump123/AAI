@@ -1,0 +1,11 @@
+{
+  "id": "8204633d-e346-4b0d-836b-68fddf5dd64f",
+  "object": "beer",
+  "name": "100% New York Farmhouse Ale",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 34,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

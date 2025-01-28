@@ -1,0 +1,11 @@
+{
+  "id": "089f3264-d3b2-4f42-a6ea-f068608d085c",
+  "object": "beer",
+  "name": "Jeffrey's Bay Watermelon",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

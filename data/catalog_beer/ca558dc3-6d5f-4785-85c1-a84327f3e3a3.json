@@ -1,0 +1,11 @@
+{
+  "id": "ca558dc3-6d5f-4785-85c1-a84327f3e3a3",
+  "object": "beer",
+  "name": "Endeavor Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c682b3f0-f731-4827-9584-c674fba89ca9",
+  "object": "beer",
+  "name": "Nelson Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

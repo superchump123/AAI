@@ -1,0 +1,11 @@
+{
+  "id": "a5c5de86-65ce-4759-abdb-5a07f3f69e26",
+  "object": "beer",
+  "name": "Noche de Los Muertos",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

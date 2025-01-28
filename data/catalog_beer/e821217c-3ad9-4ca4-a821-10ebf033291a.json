@@ -1,0 +1,11 @@
+{
+  "id": "e821217c-3ad9-4ca4-a821-10ebf033291a",
+  "object": "beer",
+  "name": "Auld Alliance",
+  "style": "Scottish-Style Light Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

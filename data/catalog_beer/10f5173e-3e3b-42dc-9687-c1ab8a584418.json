@@ -1,0 +1,11 @@
+{
+  "id": "10f5173e-3e3b-42dc-9687-c1ab8a584418",
+  "object": "beer",
+  "name": "Grahamber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2b7aedbd-9c5d-434c-8b93-a4454603d9ac",
+  "object": "beer",
+  "name": "Birra",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

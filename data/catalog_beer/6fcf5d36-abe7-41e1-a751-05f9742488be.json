@@ -1,0 +1,11 @@
+{
+  "id": "6fcf5d36-abe7-41e1-a751-05f9742488be",
+  "object": "beer",
+  "name": "Barry Island IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

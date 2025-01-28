@@ -1,0 +1,11 @@
+{
+  "id": "0001ca63-ae4a-4123-af35-d5f375bbbdbd",
+  "object": "beer",
+  "name": "Leviathan Imperial Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bec0de3e-e803-4f9e-8858-35454ca89d51",
+  "object": "beer",
+  "name": "Carolina Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7be59ea1-af42-49cf-88fa-6b92eadf94af",
+  "object": "beer",
+  "name": "Kentucky Common",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

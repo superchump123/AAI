@@ -1,0 +1,11 @@
+{
+  "id": "99e3a25c-5401-448f-b7c3-7952356f429d",
+  "object": "beer",
+  "name": "KBB Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

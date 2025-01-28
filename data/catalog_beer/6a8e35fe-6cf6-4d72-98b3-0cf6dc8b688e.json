@@ -1,0 +1,11 @@
+{
+  "id": "6a8e35fe-6cf6-4d72-98b3-0cf6dc8b688e",
+  "object": "beer",
+  "name": "Westheimer Premium Pilsener",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

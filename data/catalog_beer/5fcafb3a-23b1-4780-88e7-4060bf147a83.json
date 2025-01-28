@@ -1,0 +1,11 @@
+{
+  "id": "5fcafb3a-23b1-4780-88e7-4060bf147a83",
+  "object": "beer",
+  "name": "Red Eye Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

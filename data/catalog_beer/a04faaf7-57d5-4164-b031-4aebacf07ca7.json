@@ -1,0 +1,11 @@
+{
+  "id": "a04faaf7-57d5-4164-b031-4aebacf07ca7",
+  "object": "beer",
+  "name": "Warning Sign",
+  "style": "German-Style Eisbock",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

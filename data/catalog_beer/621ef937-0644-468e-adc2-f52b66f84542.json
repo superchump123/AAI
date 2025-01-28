@@ -1,0 +1,11 @@
+{
+  "id": "621ef937-0644-468e-adc2-f52b66f84542",
+  "object": "beer",
+  "name": "Otis Alt",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

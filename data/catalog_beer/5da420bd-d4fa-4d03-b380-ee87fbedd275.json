@@ -1,0 +1,11 @@
+{
+  "id": "5da420bd-d4fa-4d03-b380-ee87fbedd275",
+  "object": "beer",
+  "name": "The Wise E.S.B.",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

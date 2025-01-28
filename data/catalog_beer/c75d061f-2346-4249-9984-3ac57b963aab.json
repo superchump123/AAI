@@ -1,0 +1,11 @@
+{
+  "id": "c75d061f-2346-4249-9984-3ac57b963aab",
+  "object": "beer",
+  "name": "Carolyn",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

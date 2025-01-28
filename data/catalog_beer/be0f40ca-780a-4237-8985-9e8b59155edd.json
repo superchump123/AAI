@@ -1,0 +1,11 @@
+{
+  "id": "be0f40ca-780a-4237-8985-9e8b59155edd",
+  "object": "beer",
+  "name": "Agrume Bocq",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 3.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

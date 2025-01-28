@@ -1,0 +1,11 @@
+{
+  "id": "224633b6-aef6-484c-8366-c1299e55cad9",
+  "object": "beer",
+  "name": "Pacific Pale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

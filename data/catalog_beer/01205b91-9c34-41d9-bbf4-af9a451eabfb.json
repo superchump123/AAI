@@ -1,0 +1,11 @@
+{
+  "id": "01205b91-9c34-41d9-bbf4-af9a451eabfb",
+  "object": "beer",
+  "name": "Wildfire IPA",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

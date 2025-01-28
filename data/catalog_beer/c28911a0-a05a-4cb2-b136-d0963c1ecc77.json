@@ -1,0 +1,11 @@
+{
+  "id": "c28911a0-a05a-4cb2-b136-d0963c1ecc77",
+  "object": "beer",
+  "name": "Red Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

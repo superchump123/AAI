@@ -1,0 +1,11 @@
+{
+  "id": "b4cb7078-e562-4e99-ba4a-f86e241b1312",
+  "object": "beer",
+  "name": "Crack The Skye",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": 39,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

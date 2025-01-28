@@ -1,0 +1,11 @@
+{
+  "id": "9ffe937d-3ad4-4617-83da-59eb67ea81f6",
+  "object": "beer",
+  "name": "Dreef Fooper Experimental IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

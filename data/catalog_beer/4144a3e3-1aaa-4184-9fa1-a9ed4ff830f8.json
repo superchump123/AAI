@@ -1,0 +1,11 @@
+{
+  "id": "4144a3e3-1aaa-4184-9fa1-a9ed4ff830f8",
+  "object": "beer",
+  "name": "Vunderbar!",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a99ac870-473b-408c-b127-684bcf14728c",
+  "object": "beer",
+  "name": "XPA Nitro",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

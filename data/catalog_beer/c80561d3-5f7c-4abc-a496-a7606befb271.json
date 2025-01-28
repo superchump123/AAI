@@ -1,0 +1,11 @@
+{
+  "id": "c80561d3-5f7c-4abc-a496-a7606befb271",
+  "object": "beer",
+  "name": "Carolus Magnus",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 14,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

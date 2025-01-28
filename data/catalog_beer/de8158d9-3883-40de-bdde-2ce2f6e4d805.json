@@ -1,0 +1,11 @@
+{
+  "id": "de8158d9-3883-40de-bdde-2ce2f6e4d805",
+  "object": "beer",
+  "name": "Coffee Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d4bbaf89-fbaa-46aa-9517-6fcf55b78469",
+  "object": "beer",
+  "name": "Jack O'Lahar Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f6ab1dc1-d789-412f-8085-6fb0313d13cf",
+  "object": "beer",
+  "name": "Velohoptor",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f6140397-5bd3-4e72-a061-93019362176e",
+  "object": "beer",
+  "name": "Last Best IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

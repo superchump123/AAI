@@ -1,0 +1,11 @@
+{
+  "id": "d63a7788-fe80-460c-8643-3c6875be5fae",
+  "object": "beer",
+  "name": "Red Carmel Irish Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

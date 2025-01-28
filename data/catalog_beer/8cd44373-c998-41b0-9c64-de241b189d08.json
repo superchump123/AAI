@@ -1,0 +1,11 @@
+{
+  "id": "8cd44373-c998-41b0-9c64-de241b189d08",
+  "object": "beer",
+  "name": "Vanilla LMFAO Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

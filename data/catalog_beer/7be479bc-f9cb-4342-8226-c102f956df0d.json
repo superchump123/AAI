@@ -1,0 +1,11 @@
+{
+  "id": "7be479bc-f9cb-4342-8226-c102f956df0d",
+  "object": "beer",
+  "name": "Beer Hoppy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

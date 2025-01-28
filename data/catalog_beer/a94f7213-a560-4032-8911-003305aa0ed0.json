@@ -1,0 +1,11 @@
+{
+  "id": "a94f7213-a560-4032-8911-003305aa0ed0",
+  "object": "beer",
+  "name": "Synner Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

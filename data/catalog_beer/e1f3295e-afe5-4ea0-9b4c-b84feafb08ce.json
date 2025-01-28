@@ -1,0 +1,11 @@
+{
+  "id": "e1f3295e-afe5-4ea0-9b4c-b84feafb08ce",
+  "object": "beer",
+  "name": "Hop Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

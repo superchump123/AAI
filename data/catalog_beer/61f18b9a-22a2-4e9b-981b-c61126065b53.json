@@ -1,0 +1,11 @@
+{
+  "id": "61f18b9a-22a2-4e9b-981b-c61126065b53",
+  "object": "beer",
+  "name": "Spring Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

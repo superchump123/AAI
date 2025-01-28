@@ -1,0 +1,11 @@
+{
+  "id": "90fc117c-a797-4ff8-b54d-12a04729d765",
+  "object": "beer",
+  "name": "First Bite",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

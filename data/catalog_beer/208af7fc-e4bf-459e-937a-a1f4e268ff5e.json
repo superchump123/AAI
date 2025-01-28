@@ -1,0 +1,11 @@
+{
+  "id": "208af7fc-e4bf-459e-937a-a1f4e268ff5e",
+  "object": "beer",
+  "name": "Prellbock",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

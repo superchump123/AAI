@@ -1,0 +1,11 @@
+{
+  "id": "b294e6d6-3aee-4a10-bb01-fdd91325b284",
+  "object": "beer",
+  "name": "Skunkape IRA",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

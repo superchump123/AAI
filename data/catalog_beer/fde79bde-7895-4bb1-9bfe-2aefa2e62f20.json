@@ -1,0 +1,11 @@
+{
+  "id": "fde79bde-7895-4bb1-9bfe-2aefa2e62f20",
+  "object": "beer",
+  "name": "Wild Nabi",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b9c0ac2a-9f81-483a-8fc8-0aa771f04882",
+  "object": "beer",
+  "name": "The Honey Do",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2ae7571f-4290-49fb-b654-77d1b940e5bc",
+  "object": "beer",
+  "name": "Peachy Keen",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

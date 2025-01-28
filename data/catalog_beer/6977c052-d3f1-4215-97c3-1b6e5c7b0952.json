@@ -1,0 +1,11 @@
+{
+  "id": "6977c052-d3f1-4215-97c3-1b6e5c7b0952",
+  "object": "beer",
+  "name": "Monk's Brew (Bourbon Barrel Aged)",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

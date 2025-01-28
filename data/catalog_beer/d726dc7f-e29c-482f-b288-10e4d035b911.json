@@ -1,0 +1,11 @@
+{
+  "id": "d726dc7f-e29c-482f-b288-10e4d035b911",
+  "object": "beer",
+  "name": "Wee Sticky Icky",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

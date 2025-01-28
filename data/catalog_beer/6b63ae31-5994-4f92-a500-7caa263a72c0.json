@@ -1,0 +1,11 @@
+{
+  "id": "6b63ae31-5994-4f92-a500-7caa263a72c0",
+  "object": "beer",
+  "name": "Good Times",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

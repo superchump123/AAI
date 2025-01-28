@@ -1,0 +1,11 @@
+{
+  "id": "4252a4c0-b440-44e9-9829-130097e615ec",
+  "object": "beer",
+  "name": "Pedavena",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

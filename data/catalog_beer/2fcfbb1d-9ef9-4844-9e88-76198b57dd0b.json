@@ -1,0 +1,11 @@
+{
+  "id": "2fcfbb1d-9ef9-4844-9e88-76198b57dd0b",
+  "object": "beer",
+  "name": "Bus Stout!",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

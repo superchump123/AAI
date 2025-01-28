@@ -1,0 +1,11 @@
+{
+  "id": "e5eabe66-e0c7-48a6-a606-414da466c4c1",
+  "object": "beer",
+  "name": "Crosstown Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

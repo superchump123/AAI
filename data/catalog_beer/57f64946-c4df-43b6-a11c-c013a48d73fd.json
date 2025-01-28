@@ -1,0 +1,11 @@
+{
+  "id": "57f64946-c4df-43b6-a11c-c013a48d73fd",
+  "object": "beer",
+  "name": "Dawg Daze",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 64,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

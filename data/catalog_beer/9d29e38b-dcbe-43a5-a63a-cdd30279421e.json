@@ -1,0 +1,11 @@
+{
+  "id": "9d29e38b-dcbe-43a5-a63a-cdd30279421e",
+  "object": "beer",
+  "name": "Elephant Rock IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 77,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6d0566f0-6931-4cc1-9ff5-e6504dce5a43",
+  "object": "beer",
+  "name": "Overlook IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

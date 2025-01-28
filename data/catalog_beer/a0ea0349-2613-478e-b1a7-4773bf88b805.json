@@ -1,0 +1,11 @@
+{
+  "id": "a0ea0349-2613-478e-b1a7-4773bf88b805",
+  "object": "beer",
+  "name": "Sun Wortshipper",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

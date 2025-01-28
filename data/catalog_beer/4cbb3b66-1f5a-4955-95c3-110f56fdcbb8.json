@@ -1,0 +1,11 @@
+{
+  "id": "4cbb3b66-1f5a-4955-95c3-110f56fdcbb8",
+  "object": "beer",
+  "name": "Black Rock Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

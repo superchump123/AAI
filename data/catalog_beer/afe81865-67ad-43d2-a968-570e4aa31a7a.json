@@ -1,0 +1,11 @@
+{
+  "id": "afe81865-67ad-43d2-a968-570e4aa31a7a",
+  "object": "beer",
+  "name": "Schlafly Rye Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

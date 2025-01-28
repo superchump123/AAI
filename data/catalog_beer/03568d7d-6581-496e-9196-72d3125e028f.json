@@ -1,0 +1,11 @@
+{
+  "id": "03568d7d-6581-496e-9196-72d3125e028f",
+  "object": "beer",
+  "name": "Noble Prize",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

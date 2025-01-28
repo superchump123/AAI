@@ -1,0 +1,11 @@
+{
+  "id": "9939b47d-cc39-48c8-ac0a-479c8aadc9e4",
+  "object": "beer",
+  "name": "Hochtoberfest Lager",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

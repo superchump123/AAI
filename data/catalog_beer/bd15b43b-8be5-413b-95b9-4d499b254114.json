@@ -1,0 +1,11 @@
+{
+  "id": "bd15b43b-8be5-413b-95b9-4d499b254114",
+  "object": "beer",
+  "name": "Sugar Plum",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

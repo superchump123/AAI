@@ -1,0 +1,11 @@
+{
+  "id": "f1045ee7-e3ac-457a-b618-a034a6010758",
+  "object": "beer",
+  "name": "Altoberfest",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

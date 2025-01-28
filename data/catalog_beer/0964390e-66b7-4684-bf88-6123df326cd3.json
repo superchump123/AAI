@@ -1,0 +1,11 @@
+{
+  "id": "0964390e-66b7-4684-bf88-6123df326cd3",
+  "object": "beer",
+  "name": "King Street Stout",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a064c414-04d4-45c1-b1c0-ff9a600a6e50",
+  "object": "beer",
+  "name": "Michelob Original Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "26c81123-a936-4fbe-85ec-a70eced4680a",
+  "object": "beer",
+  "name": "Chief Justice Juice",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

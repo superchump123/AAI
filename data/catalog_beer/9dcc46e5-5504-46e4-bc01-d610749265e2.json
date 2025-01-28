@@ -1,0 +1,11 @@
+{
+  "id": "9dcc46e5-5504-46e4-bc01-d610749265e2",
+  "object": "beer",
+  "name": "Schuppenaas Amber Ale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

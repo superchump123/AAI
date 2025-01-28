@@ -1,0 +1,11 @@
+{
+  "id": "f0df78ea-c9eb-453a-a7b6-6d7906d3619d",
+  "object": "beer",
+  "name": "Simtra 3x IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.3,
+  "ibu": 131,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

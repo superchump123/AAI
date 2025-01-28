@@ -1,0 +1,11 @@
+{
+  "id": "69a3d9cb-cfa9-4a07-a824-f7361c5f486e",
+  "object": "beer",
+  "name": "Conundrum Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

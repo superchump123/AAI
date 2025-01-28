@@ -1,0 +1,11 @@
+{
+  "id": "8aeaa6e8-ddcc-41b3-852d-de36c926952e",
+  "object": "beer",
+  "name": "Beer Thousand",
+  "style": "American-Style Ice Lager",
+  "description": null,
+  "abv": 10,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

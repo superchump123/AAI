@@ -1,0 +1,11 @@
+{
+  "id": "b5526ed3-a972-4f52-8d2f-e7c58277c7ef",
+  "object": "beer",
+  "name": "Saison d'Hiver",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

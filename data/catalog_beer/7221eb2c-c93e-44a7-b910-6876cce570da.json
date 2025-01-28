@@ -1,0 +1,11 @@
+{
+  "id": "7221eb2c-c93e-44a7-b910-6876cce570da",
+  "object": "beer",
+  "name": "Drink\u2019in Berliner",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

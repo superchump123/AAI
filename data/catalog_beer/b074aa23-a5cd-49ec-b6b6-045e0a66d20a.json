@@ -1,0 +1,11 @@
+{
+  "id": "b074aa23-a5cd-49ec-b6b6-045e0a66d20a",
+  "object": "beer",
+  "name": "Sisyphus",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

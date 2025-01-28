@@ -1,0 +1,11 @@
+{
+  "id": "5b6a1007-8ac7-493c-98a3-dd96ed7fe956",
+  "object": "beer",
+  "name": "Old School",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 3.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

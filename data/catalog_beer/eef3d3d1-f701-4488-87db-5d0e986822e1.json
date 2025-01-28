@@ -1,0 +1,11 @@
+{
+  "id": "eef3d3d1-f701-4488-87db-5d0e986822e1",
+  "object": "beer",
+  "name": "Mt. Whitney XPA",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

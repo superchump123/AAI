@@ -1,0 +1,11 @@
+{
+  "id": "f7b092cc-2583-4c8a-bc3f-f665b53d1047",
+  "object": "beer",
+  "name": "Wittekerke Speciale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

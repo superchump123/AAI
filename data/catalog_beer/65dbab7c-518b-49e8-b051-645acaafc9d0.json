@@ -1,0 +1,11 @@
+{
+  "id": "65dbab7c-518b-49e8-b051-645acaafc9d0",
+  "object": "beer",
+  "name": "Freight Handler",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa2a92bc-072c-4022-a46f-d70ea1f72b94",
+  "object": "beer",
+  "name": "American River Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

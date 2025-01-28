@@ -1,0 +1,11 @@
+{
+  "id": "a0b98c40-40f9-43dd-987e-0432f7c3e558",
+  "object": "beer",
+  "name": "The Perfect Nose",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

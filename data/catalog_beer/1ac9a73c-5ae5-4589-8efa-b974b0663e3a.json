@@ -1,0 +1,11 @@
+{
+  "id": "1ac9a73c-5ae5-4589-8efa-b974b0663e3a",
+  "object": "beer",
+  "name": "Crazy Eights",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

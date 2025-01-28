@@ -1,0 +1,11 @@
+{
+  "id": "e589b425-e945-472e-b27b-0fef335a6ac3",
+  "object": "beer",
+  "name": "High Tide Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fc5a586a-6b46-45a0-9a1a-8bf67b0af9b4",
+  "object": "beer",
+  "name": "Grandes Lagos",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

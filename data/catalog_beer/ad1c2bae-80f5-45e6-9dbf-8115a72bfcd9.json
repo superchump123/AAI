@@ -1,0 +1,11 @@
+{
+  "id": "ad1c2bae-80f5-45e6-9dbf-8115a72bfcd9",
+  "object": "beer",
+  "name": "Boat Beer",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

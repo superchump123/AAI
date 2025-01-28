@@ -1,0 +1,11 @@
+{
+  "id": "9d474840-1a2e-4ef5-8cc5-e7689244c693",
+  "object": "beer",
+  "name": "Panther",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

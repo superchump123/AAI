@@ -1,0 +1,11 @@
+{
+  "id": "30c3bbb9-91f2-40d1-b7e3-153f02fbb119",
+  "object": "beer",
+  "name": "People Are People",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

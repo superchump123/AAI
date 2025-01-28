@@ -1,0 +1,11 @@
+{
+  "id": "8519070b-99f4-4d4b-8c37-e5e1fb49b9e2",
+  "object": "beer",
+  "name": "Red Devil",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

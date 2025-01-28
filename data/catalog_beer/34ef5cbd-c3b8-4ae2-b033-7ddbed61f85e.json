@@ -1,0 +1,11 @@
+{
+  "id": "34ef5cbd-c3b8-4ae2-b033-7ddbed61f85e",
+  "object": "beer",
+  "name": "Ebulum",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

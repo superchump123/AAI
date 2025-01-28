@@ -1,0 +1,11 @@
+{
+  "id": "96d111a5-6bbf-403e-9dc2-88476de23098",
+  "object": "beer",
+  "name": "Invasion IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

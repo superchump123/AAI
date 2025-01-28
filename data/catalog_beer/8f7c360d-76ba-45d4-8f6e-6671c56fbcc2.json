@@ -1,0 +1,11 @@
+{
+  "id": "8f7c360d-76ba-45d4-8f6e-6671c56fbcc2",
+  "object": "beer",
+  "name": "Bring Back the Beach",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

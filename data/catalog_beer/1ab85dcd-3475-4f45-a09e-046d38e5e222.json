@@ -1,0 +1,11 @@
+{
+  "id": "1ab85dcd-3475-4f45-a09e-046d38e5e222",
+  "object": "beer",
+  "name": "Ghost Ship Vortex",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 8.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

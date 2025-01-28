@@ -1,0 +1,11 @@
+{
+  "id": "63018e2d-051f-4607-8eae-8ebb9e54dbff",
+  "object": "beer",
+  "name": "Organic Pale Ale (aka O.P.A)",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

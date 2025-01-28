@@ -1,0 +1,11 @@
+{
+  "id": "7dbc8bdb-990c-4f7d-aaf3-cdc61b62c61d",
+  "object": "beer",
+  "name": "Session Brown",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

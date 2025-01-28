@@ -1,0 +1,11 @@
+{
+  "id": "497953f1-312f-4915-a646-761be8257ca8",
+  "object": "beer",
+  "name": "Havel Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

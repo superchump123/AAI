@@ -1,0 +1,11 @@
+{
+  "id": "74a51123-334f-485a-b943-033cbda6419c",
+  "object": "beer",
+  "name": "Barrel Aged Trifecta",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

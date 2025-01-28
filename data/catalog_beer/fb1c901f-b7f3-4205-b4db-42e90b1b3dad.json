@@ -1,0 +1,11 @@
+{
+  "id": "fb1c901f-b7f3-4205-b4db-42e90b1b3dad",
+  "object": "beer",
+  "name": "Monkey Paw Kong Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a4145d04-59c9-43ad-b01a-b1e81f869aaf",
+  "object": "beer",
+  "name": "Grin Cocoanut Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

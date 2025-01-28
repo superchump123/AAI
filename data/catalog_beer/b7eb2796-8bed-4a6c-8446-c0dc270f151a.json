@@ -1,0 +1,11 @@
+{
+  "id": "b7eb2796-8bed-4a6c-8446-c0dc270f151a",
+  "object": "beer",
+  "name": "Batch 6000",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

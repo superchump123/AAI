@@ -1,0 +1,11 @@
+{
+  "id": "6ebfd8ac-4259-4210-8bb4-b2ea9a67b632",
+  "object": "beer",
+  "name": "Cara Cara Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bbd7f008-a776-4cec-b1b1-1d1cc44c2fa7",
+  "object": "beer",
+  "name": "Beggars & Thieves",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

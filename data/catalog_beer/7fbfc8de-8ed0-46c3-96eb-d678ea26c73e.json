@@ -1,0 +1,11 @@
+{
+  "id": "7fbfc8de-8ed0-46c3-96eb-d678ea26c73e",
+  "object": "beer",
+  "name": "Black Hole",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

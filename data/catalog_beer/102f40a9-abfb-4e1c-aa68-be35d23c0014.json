@@ -1,0 +1,11 @@
+{
+  "id": "102f40a9-abfb-4e1c-aa68-be35d23c0014",
+  "object": "beer",
+  "name": "Mega Milk",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

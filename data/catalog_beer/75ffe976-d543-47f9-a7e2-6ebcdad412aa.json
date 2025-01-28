@@ -1,0 +1,11 @@
+{
+  "id": "75ffe976-d543-47f9-a7e2-6ebcdad412aa",
+  "object": "beer",
+  "name": "Mo' Guava IPA",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

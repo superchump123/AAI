@@ -1,0 +1,11 @@
+{
+  "id": "ce501221-0027-4ec4-8b41-2ed94a8e0918",
+  "object": "beer",
+  "name": "Mosaique",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

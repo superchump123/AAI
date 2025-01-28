@@ -1,0 +1,11 @@
+{
+  "id": "85a810bb-c8b9-49d3-9266-c5a59df0978a",
+  "object": "beer",
+  "name": "KCCO Black Lager",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

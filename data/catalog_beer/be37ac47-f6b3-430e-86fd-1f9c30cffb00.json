@@ -1,0 +1,11 @@
+{
+  "id": "be37ac47-f6b3-430e-86fd-1f9c30cffb00",
+  "object": "beer",
+  "name": "Flying Pumpkin",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

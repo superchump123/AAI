@@ -1,0 +1,11 @@
+{
+  "id": "1d76c405-b788-4c78-a790-d110cd794af1",
+  "object": "beer",
+  "name": "Laxihazical",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

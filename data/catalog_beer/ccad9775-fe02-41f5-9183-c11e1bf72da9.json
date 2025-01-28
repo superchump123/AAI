@@ -1,0 +1,11 @@
+{
+  "id": "ccad9775-fe02-41f5-9183-c11e1bf72da9",
+  "object": "beer",
+  "name": "Outerweiss Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

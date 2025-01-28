@@ -1,0 +1,11 @@
+{
+  "id": "eead09b5-fe08-406b-b527-88ec0b8805d2",
+  "object": "beer",
+  "name": "Off the Hook",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

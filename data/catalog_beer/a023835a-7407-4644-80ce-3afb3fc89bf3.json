@@ -1,0 +1,11 @@
+{
+  "id": "a023835a-7407-4644-80ce-3afb3fc89bf3",
+  "object": "beer",
+  "name": "Westfield",
+  "style": "Brett Beer",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

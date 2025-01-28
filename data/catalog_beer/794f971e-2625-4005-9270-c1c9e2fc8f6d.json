@@ -1,0 +1,11 @@
+{
+  "id": "794f971e-2625-4005-9270-c1c9e2fc8f6d",
+  "object": "beer",
+  "name": "Pumpkin Jack",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

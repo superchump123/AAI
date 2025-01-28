@@ -1,0 +1,11 @@
+{
+  "id": "27b7f022-e8ed-401c-89de-73cbe084697c",
+  "object": "beer",
+  "name": "Sir Williams ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

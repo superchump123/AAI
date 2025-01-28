@@ -1,0 +1,11 @@
+{
+  "id": "ee87d39e-1678-4fbc-908d-3aa0b28da1fd",
+  "object": "beer",
+  "name": "Kilted Monk",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

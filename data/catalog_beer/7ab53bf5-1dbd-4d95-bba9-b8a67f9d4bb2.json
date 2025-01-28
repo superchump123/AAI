@@ -1,0 +1,11 @@
+{
+  "id": "7ab53bf5-1dbd-4d95-bba9-b8a67f9d4bb2",
+  "object": "beer",
+  "name": "Beach Bum Tropical IPA",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

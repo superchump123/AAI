@@ -1,0 +1,11 @@
+{
+  "id": "9c8b7def-41ef-428a-a958-0fc40635c81e",
+  "object": "beer",
+  "name": "Double Vanilla Bean Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f845c67f-7d93-4344-9f5a-2343fad222c4",
+  "object": "beer",
+  "name": "Big Bark Amber Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

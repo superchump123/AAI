@@ -1,0 +1,11 @@
+{
+  "id": "4792bc08-679d-40cf-9eda-115302ee1801",
+  "object": "beer",
+  "name": "Seamus O'Faolain Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

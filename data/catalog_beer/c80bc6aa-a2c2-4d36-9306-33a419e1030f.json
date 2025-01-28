@@ -1,0 +1,11 @@
+{
+  "id": "c80bc6aa-a2c2-4d36-9306-33a419e1030f",
+  "object": "beer",
+  "name": "Second Fiddle",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.1,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "749bd69f-9c66-4b8e-afe2-b457315021a5",
+  "object": "beer",
+  "name": "Hot Cross Bunny",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "157d2c47-a32f-4071-81a9-f973f41d944f",
+  "object": "beer",
+  "name": "First Call",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aadae4bf-9f1f-4983-a522-5c3f5e8c89e0",
+  "object": "beer",
+  "name": "Air Raid ESB",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "59f699e1-13c3-4661-b917-937cc3fb7c40",
+  "object": "beer",
+  "name": "Another State of Kind",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

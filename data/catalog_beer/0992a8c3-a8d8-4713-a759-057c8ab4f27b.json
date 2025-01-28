@@ -1,0 +1,11 @@
+{
+  "id": "0992a8c3-a8d8-4713-a759-057c8ab4f27b",
+  "object": "beer",
+  "name": "Blonde Lager",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

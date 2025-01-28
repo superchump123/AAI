@@ -1,0 +1,11 @@
+{
+  "id": "fe5e0925-67d0-4625-a3cf-5f7603f8e815",
+  "object": "beer",
+  "name": "Rock Box",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 85,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

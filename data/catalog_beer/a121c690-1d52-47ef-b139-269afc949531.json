@@ -1,0 +1,11 @@
+{
+  "id": "a121c690-1d52-47ef-b139-269afc949531",
+  "object": "beer",
+  "name": "Hop Whore",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

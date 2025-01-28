@@ -1,0 +1,11 @@
+{
+  "id": "6ae7f61d-3d5f-4d7b-9bd6-da3f56e90ab3",
+  "object": "beer",
+  "name": "Pale Ale",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

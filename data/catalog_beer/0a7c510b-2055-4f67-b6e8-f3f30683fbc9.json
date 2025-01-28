@@ -1,0 +1,11 @@
+{
+  "id": "0a7c510b-2055-4f67-b6e8-f3f30683fbc9",
+  "object": "beer",
+  "name": "Twisted River Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "10f94b02-3891-423b-870e-6103a8dfdf1b",
+  "object": "beer",
+  "name": "Hawse Buckler",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

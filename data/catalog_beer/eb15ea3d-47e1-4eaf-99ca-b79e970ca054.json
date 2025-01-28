@@ -1,0 +1,11 @@
+{
+  "id": "eb15ea3d-47e1-4eaf-99ca-b79e970ca054",
+  "object": "beer",
+  "name": "Dearfield Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

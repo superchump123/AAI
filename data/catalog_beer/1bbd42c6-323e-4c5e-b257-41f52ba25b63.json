@@ -1,0 +1,11 @@
+{
+  "id": "1bbd42c6-323e-4c5e-b257-41f52ba25b63",
+  "object": "beer",
+  "name": "Mow Master Ultra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

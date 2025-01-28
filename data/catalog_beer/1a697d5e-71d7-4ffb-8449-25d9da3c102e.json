@@ -1,0 +1,11 @@
+{
+  "id": "1a697d5e-71d7-4ffb-8449-25d9da3c102e",
+  "object": "beer",
+  "name": "Flo IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

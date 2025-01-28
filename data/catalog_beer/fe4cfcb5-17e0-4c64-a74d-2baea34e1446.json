@@ -1,0 +1,11 @@
+{
+  "id": "fe4cfcb5-17e0-4c64-a74d-2baea34e1446",
+  "object": "beer",
+  "name": "Barther Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

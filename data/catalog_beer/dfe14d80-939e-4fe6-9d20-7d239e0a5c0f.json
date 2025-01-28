@@ -1,0 +1,11 @@
+{
+  "id": "dfe14d80-939e-4fe6-9d20-7d239e0a5c0f",
+  "object": "beer",
+  "name": "Big Island Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "06ed8810-1703-4941-9ab6-9f60ca8f8886",
+  "object": "beer",
+  "name": "Pagoslow Palezner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

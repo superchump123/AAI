@@ -1,0 +1,11 @@
+{
+  "id": "a984ad76-96ff-4ecb-affd-a5ae4cfa5410",
+  "object": "beer",
+  "name": "Dexter \"Rippa\" Red IPA",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 63,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

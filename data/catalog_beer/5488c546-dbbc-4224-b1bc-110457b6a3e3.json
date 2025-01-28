@@ -1,0 +1,11 @@
+{
+  "id": "5488c546-dbbc-4224-b1bc-110457b6a3e3",
+  "object": "beer",
+  "name": "Americana",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

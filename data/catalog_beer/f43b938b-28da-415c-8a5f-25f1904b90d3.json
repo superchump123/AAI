@@ -1,0 +1,11 @@
+{
+  "id": "f43b938b-28da-415c-8a5f-25f1904b90d3",
+  "object": "beer",
+  "name": "Tropical Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

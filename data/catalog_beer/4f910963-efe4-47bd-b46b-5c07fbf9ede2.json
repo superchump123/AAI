@@ -1,0 +1,11 @@
+{
+  "id": "4f910963-efe4-47bd-b46b-5c07fbf9ede2",
+  "object": "beer",
+  "name": "Wunder Bier",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

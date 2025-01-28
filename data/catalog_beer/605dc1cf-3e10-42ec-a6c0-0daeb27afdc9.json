@@ -1,0 +1,11 @@
+{
+  "id": "605dc1cf-3e10-42ec-a6c0-0daeb27afdc9",
+  "object": "beer",
+  "name": "I-90 India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

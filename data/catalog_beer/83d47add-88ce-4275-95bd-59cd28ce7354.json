@@ -1,0 +1,11 @@
+{
+  "id": "83d47add-88ce-4275-95bd-59cd28ce7354",
+  "object": "beer",
+  "name": "Curious Traveler",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 7,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

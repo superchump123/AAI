@@ -1,0 +1,11 @@
+{
+  "id": "dc8f675d-1dba-4b7a-87bc-f1987ac9013b",
+  "object": "beer",
+  "name": "Spruce Tip India Red Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

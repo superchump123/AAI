@@ -1,0 +1,11 @@
+{
+  "id": "a4906079-7ce7-473d-b1c0-795426a38c84",
+  "object": "beer",
+  "name": "Woody's Light",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

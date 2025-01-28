@@ -1,0 +1,11 @@
+{
+  "id": "eebc42f2-9167-4cba-8c58-960e9feac326",
+  "object": "beer",
+  "name": "Cowboy in Black",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a50f4e10-4bbd-4aa3-8843-94fac7c9797d",
+  "object": "beer",
+  "name": "Berliner Style Weisse (Brettan)",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

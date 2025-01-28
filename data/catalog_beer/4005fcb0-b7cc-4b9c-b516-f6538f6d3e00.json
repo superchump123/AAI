@@ -1,0 +1,11 @@
+{
+  "id": "4005fcb0-b7cc-4b9c-b516-f6538f6d3e00",
+  "object": "beer",
+  "name": "Palahops",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

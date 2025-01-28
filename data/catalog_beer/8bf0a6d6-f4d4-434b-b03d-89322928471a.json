@@ -1,0 +1,11 @@
+{
+  "id": "8bf0a6d6-f4d4-434b-b03d-89322928471a",
+  "object": "beer",
+  "name": "Lingonberry Proto",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

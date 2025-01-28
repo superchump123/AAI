@@ -1,0 +1,11 @@
+{
+  "id": "702b6d71-9e3a-4f0b-9359-2985cd4e01a6",
+  "object": "beer",
+  "name": "Buzzer Beater",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

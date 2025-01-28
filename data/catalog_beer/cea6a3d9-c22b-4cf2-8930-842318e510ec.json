@@ -1,0 +1,11 @@
+{
+  "id": "cea6a3d9-c22b-4cf2-8930-842318e510ec",
+  "object": "beer",
+  "name": "Amber's Amber",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

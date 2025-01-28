@@ -1,0 +1,11 @@
+{
+  "id": "dc878037-fba0-4517-9ff9-63e4bdee4309",
+  "object": "beer",
+  "name": "Crooked Rook",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dcfd4a51-addc-4adc-9eab-d7655f7d922a",
+  "object": "beer",
+  "name": "La Moneuse",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

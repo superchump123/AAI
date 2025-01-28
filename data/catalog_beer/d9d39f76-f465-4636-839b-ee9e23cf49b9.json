@@ -1,0 +1,11 @@
+{
+  "id": "d9d39f76-f465-4636-839b-ee9e23cf49b9",
+  "object": "beer",
+  "name": "Incline",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

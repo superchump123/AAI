@@ -1,0 +1,11 @@
+{
+  "id": "aa384165-ea72-430a-bf62-339c11fa63e0",
+  "object": "beer",
+  "name": "Four Squared",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

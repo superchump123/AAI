@@ -1,0 +1,11 @@
+{
+  "id": "c344cad1-ec69-4527-bfcf-7fec90039a45",
+  "object": "beer",
+  "name": "Belgica",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 7.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

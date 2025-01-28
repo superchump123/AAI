@@ -1,0 +1,11 @@
+{
+  "id": "84e5a8d8-4f42-44cf-b85b-cfb0920d6d18",
+  "object": "beer",
+  "name": "Entropic Theory",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

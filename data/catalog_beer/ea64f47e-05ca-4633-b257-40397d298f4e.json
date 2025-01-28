@@ -1,0 +1,11 @@
+{
+  "id": "ea64f47e-05ca-4633-b257-40397d298f4e",
+  "object": "beer",
+  "name": "Beaver",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9e6375e9-9406-4372-ac3c-bf44781d19eb",
+  "object": "beer",
+  "name": "Night Huntress",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

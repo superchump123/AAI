@@ -1,0 +1,11 @@
+{
+  "id": "459b1def-e155-44f9-ab06-aa097652d74f",
+  "object": "beer",
+  "name": "Tripel Witch Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

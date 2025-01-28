@@ -1,0 +1,11 @@
+{
+  "id": "fcec0c5a-ca4a-478c-9b67-c090bd6165ac",
+  "object": "beer",
+  "name": "Hoptimization #2",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b2037dac-7001-479f-839e-b181a4575206",
+  "object": "beer",
+  "name": "Gangbuster IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

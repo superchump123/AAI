@@ -1,0 +1,11 @@
+{
+  "id": "d37301d9-5492-4b51-a4a5-997a3b01fe55",
+  "object": "beer",
+  "name": "Evander",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b3c7be5a-7506-4a68-82eb-46a84159e160",
+  "object": "beer",
+  "name": "Munro",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

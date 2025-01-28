@@ -1,0 +1,11 @@
+{
+  "id": "f5259a5f-ed9f-43e6-a319-bea00eda5469",
+  "object": "beer",
+  "name": "Bourbon County Brand Barleywine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 12.1,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2538b2c2-0c40-44e8-8346-c13ee1f835a3",
+  "object": "beer",
+  "name": "Feuerwehrmann Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

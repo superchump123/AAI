@@ -1,0 +1,11 @@
+{
+  "id": "9a7f515c-6b27-4b87-9a70-7bacbfa6b6cb",
+  "object": "beer",
+  "name": "Brew Kahuna NW Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

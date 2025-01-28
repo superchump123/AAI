@@ -1,0 +1,11 @@
+{
+  "id": "f411e927-38fa-43b5-88e9-9a19e8de618e",
+  "object": "beer",
+  "name": "Two Town's Bright Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "14fb0f82-2dcf-4fe9-910a-a50f8d89bce9",
+  "object": "beer",
+  "name": "Othello's Curse",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

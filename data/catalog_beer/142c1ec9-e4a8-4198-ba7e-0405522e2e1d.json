@@ -1,0 +1,11 @@
+{
+  "id": "142c1ec9-e4a8-4198-ba7e-0405522e2e1d",
+  "object": "beer",
+  "name": "Sweet Potato Pie Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

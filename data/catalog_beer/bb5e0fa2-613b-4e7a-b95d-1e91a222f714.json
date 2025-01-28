@@ -1,0 +1,11 @@
+{
+  "id": "bb5e0fa2-613b-4e7a-b95d-1e91a222f714",
+  "object": "beer",
+  "name": "OLD * TOWN * PORTER",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 7.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

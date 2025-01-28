@@ -1,0 +1,11 @@
+{
+  "id": "6d688bb3-23f1-408d-8d57-486f716aaf8d",
+  "object": "beer",
+  "name": "King Kolsch",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 6,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

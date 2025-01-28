@@ -1,0 +1,11 @@
+{
+  "id": "9b971070-1882-43c7-8005-26075eba79c4",
+  "object": "beer",
+  "name": "General Braddock's IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

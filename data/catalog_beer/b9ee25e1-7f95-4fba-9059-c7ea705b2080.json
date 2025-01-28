@@ -1,0 +1,11 @@
+{
+  "id": "b9ee25e1-7f95-4fba-9059-c7ea705b2080",
+  "object": "beer",
+  "name": "Wiedemann\u2019s Special Lager",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

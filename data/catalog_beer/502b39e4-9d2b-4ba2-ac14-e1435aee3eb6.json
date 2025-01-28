@@ -1,0 +1,11 @@
+{
+  "id": "502b39e4-9d2b-4ba2-ac14-e1435aee3eb6",
+  "object": "beer",
+  "name": "Minoterie",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

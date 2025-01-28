@@ -1,0 +1,11 @@
+{
+  "id": "134e62c5-b2a6-446d-bd93-30fb6ee7f6ea",
+  "object": "beer",
+  "name": "Bunny Hop",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

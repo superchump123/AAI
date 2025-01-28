@@ -1,0 +1,11 @@
+{
+  "id": "366c98d4-83d6-4ce5-8fbe-ee492fe743b4",
+  "object": "beer",
+  "name": "Gunpowder Creek Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

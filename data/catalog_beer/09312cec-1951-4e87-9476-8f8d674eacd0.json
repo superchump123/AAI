@@ -1,0 +1,11 @@
+{
+  "id": "09312cec-1951-4e87-9476-8f8d674eacd0",
+  "object": "beer",
+  "name": "Dolphin Drool",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

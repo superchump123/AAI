@@ -1,0 +1,11 @@
+{
+  "id": "4c30acaa-53c5-460b-8220-331d940e81be",
+  "object": "beer",
+  "name": "Cherchez La Femme",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

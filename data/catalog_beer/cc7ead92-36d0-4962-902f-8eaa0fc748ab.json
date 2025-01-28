@@ -1,0 +1,11 @@
+{
+  "id": "cc7ead92-36d0-4962-902f-8eaa0fc748ab",
+  "object": "beer",
+  "name": "Dortmunder Export Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

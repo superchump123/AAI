@@ -1,0 +1,11 @@
+{
+  "id": "9660ed95-97b2-49fa-9e4e-654978ffc0d7",
+  "object": "beer",
+  "name": "Shredder",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

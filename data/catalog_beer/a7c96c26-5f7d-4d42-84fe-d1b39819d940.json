@@ -1,0 +1,11 @@
+{
+  "id": "a7c96c26-5f7d-4d42-84fe-d1b39819d940",
+  "object": "beer",
+  "name": "Kentucky French Toast",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

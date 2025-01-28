@@ -1,0 +1,11 @@
+{
+  "id": "31bdd298-7c8c-4016-ab4c-de81e7cc3f5e",
+  "object": "beer",
+  "name": "Cow Tipper",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

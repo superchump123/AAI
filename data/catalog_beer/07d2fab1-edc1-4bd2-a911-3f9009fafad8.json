@@ -1,0 +1,11 @@
+{
+  "id": "07d2fab1-edc1-4bd2-a911-3f9009fafad8",
+  "object": "beer",
+  "name": "Karma Palace IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

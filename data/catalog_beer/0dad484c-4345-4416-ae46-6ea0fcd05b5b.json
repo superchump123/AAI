@@ -1,0 +1,11 @@
+{
+  "id": "0dad484c-4345-4416-ae46-6ea0fcd05b5b",
+  "object": "beer",
+  "name": "Woody & Wilcox",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

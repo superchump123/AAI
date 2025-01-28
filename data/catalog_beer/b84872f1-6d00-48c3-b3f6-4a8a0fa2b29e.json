@@ -1,0 +1,11 @@
+{
+  "id": "b84872f1-6d00-48c3-b3f6-4a8a0fa2b29e",
+  "object": "beer",
+  "name": "Swish",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 1,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

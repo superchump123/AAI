@@ -1,0 +1,11 @@
+{
+  "id": "ce389fbc-fda0-4fad-95ee-c0d9b5b57aff",
+  "object": "beer",
+  "name": "Coffee 'N' ream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

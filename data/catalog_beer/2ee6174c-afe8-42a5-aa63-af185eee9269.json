@@ -1,0 +1,11 @@
+{
+  "id": "2ee6174c-afe8-42a5-aa63-af185eee9269",
+  "object": "beer",
+  "name": "From Tennessee with Smoke",
+  "style": "Smoke Beer (Lager or Ale)",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

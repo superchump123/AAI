@@ -1,0 +1,11 @@
+{
+  "id": "c44260f3-a75f-40c4-881e-a4ae8d57bcef",
+  "object": "beer",
+  "name": "After Party Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

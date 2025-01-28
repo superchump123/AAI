@@ -1,0 +1,11 @@
+{
+  "id": "f6e591d8-c7d2-4b8c-b8c6-f25218047c24",
+  "object": "beer",
+  "name": "Heidi Weisse",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

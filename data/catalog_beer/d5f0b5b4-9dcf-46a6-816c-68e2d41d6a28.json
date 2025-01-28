@@ -1,0 +1,11 @@
+{
+  "id": "d5f0b5b4-9dcf-46a6-816c-68e2d41d6a28",
+  "object": "beer",
+  "name": "Sumatra Coffee Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

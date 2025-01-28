@@ -1,0 +1,11 @@
+{
+  "id": "fdb30d5f-c734-4bf1-b45b-fe57eabd262e",
+  "object": "beer",
+  "name": "Watershed Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b1b3a20d-44a6-4402-b948-07c3aef71934",
+  "object": "beer",
+  "name": "Wychcraft",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

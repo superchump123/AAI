@@ -1,0 +1,11 @@
+{
+  "id": "81dfcb55-8b22-43e9-a71d-ef29552e20ad",
+  "object": "beer",
+  "name": "Off the Grid",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 10.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

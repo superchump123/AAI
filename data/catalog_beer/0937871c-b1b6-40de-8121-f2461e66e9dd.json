@@ -1,0 +1,11 @@
+{
+  "id": "0937871c-b1b6-40de-8121-f2461e66e9dd",
+  "object": "beer",
+  "name": "Dakota Skipper",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "7e3bfeec-3be4-4303-bcbe-51ecb9ffa391",
+  "object": "beer",
+  "name": "Richbrau Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

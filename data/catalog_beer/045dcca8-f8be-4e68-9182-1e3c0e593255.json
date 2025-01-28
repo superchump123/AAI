@@ -1,0 +1,11 @@
+{
+  "id": "045dcca8-f8be-4e68-9182-1e3c0e593255",
+  "object": "beer",
+  "name": "Hop Harvest Party Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

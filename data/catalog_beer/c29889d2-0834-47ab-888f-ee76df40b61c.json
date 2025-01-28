@@ -1,0 +1,11 @@
+{
+  "id": "c29889d2-0834-47ab-888f-ee76df40b61c",
+  "object": "beer",
+  "name": "Prodigal Sun IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

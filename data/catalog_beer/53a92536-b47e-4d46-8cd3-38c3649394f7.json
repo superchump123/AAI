@@ -1,0 +1,11 @@
+{
+  "id": "53a92536-b47e-4d46-8cd3-38c3649394f7",
+  "object": "beer",
+  "name": "Eine Bamberger Weisse Hell",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

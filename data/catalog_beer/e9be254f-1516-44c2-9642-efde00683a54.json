@@ -1,0 +1,11 @@
+{
+  "id": "e9be254f-1516-44c2-9642-efde00683a54",
+  "object": "beer",
+  "name": "Scotch Ale",
+  "style": "Aged Beer (Ale or Lager)",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

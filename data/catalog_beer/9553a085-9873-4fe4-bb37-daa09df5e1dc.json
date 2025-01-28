@@ -1,0 +1,11 @@
+{
+  "id": "9553a085-9873-4fe4-bb37-daa09df5e1dc",
+  "object": "beer",
+  "name": "Maple Bacon Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

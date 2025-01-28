@@ -1,0 +1,11 @@
+{
+  "id": "5148d28b-fd7d-4ed0-93d2-84dd879a644f",
+  "object": "beer",
+  "name": "Stegmaier Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

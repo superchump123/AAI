@@ -1,0 +1,11 @@
+{
+  "id": "ada3700b-e7af-46e5-964b-1e2f0efb99af",
+  "object": "beer",
+  "name": "Ovila Abbey White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

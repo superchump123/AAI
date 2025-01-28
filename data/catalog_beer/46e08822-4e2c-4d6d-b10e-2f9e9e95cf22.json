@@ -1,0 +1,11 @@
+{
+  "id": "46e08822-4e2c-4d6d-b10e-2f9e9e95cf22",
+  "object": "beer",
+  "name": "Curses Batch #2",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

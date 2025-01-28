@@ -1,0 +1,11 @@
+{
+  "id": "f9ee56a6-2a31-4e71-96a8-2221cd29172a",
+  "object": "beer",
+  "name": "Flex-Arcana",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "91a7b12a-cd24-4a12-834a-6ad72094b6df",
+  "object": "beer",
+  "name": "Blanche Neige",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "22e447a7-b653-4d4f-aa25-115307bdf8ce",
+  "object": "beer",
+  "name": "Bottle Rocket",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

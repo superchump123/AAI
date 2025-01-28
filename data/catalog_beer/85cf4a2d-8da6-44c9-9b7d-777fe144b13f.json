@@ -1,0 +1,11 @@
+{
+  "id": "85cf4a2d-8da6-44c9-9b7d-777fe144b13f",
+  "object": "beer",
+  "name": "Pint of No Return",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

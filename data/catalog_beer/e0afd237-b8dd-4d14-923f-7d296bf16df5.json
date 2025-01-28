@@ -1,0 +1,11 @@
+{
+  "id": "e0afd237-b8dd-4d14-923f-7d296bf16df5",
+  "object": "beer",
+  "name": "Pick Axe IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

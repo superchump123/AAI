@@ -1,0 +1,11 @@
+{
+  "id": "fddb5c83-ce7e-4f21-80ba-787d369f122d",
+  "object": "beer",
+  "name": "Pier Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cf106dbb-4163-4022-abe2-f5e589b7b150",
+  "object": "beer",
+  "name": "Brontie SMaSH",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

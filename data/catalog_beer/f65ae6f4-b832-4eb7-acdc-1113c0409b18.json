@@ -1,0 +1,11 @@
+{
+  "id": "f65ae6f4-b832-4eb7-acdc-1113c0409b18",
+  "object": "beer",
+  "name": "R&D: Tripel Belgian-Style Ale",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

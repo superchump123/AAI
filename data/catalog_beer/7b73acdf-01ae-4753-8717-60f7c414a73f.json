@@ -1,0 +1,11 @@
+{
+  "id": "7b73acdf-01ae-4753-8717-60f7c414a73f",
+  "object": "beer",
+  "name": "Walk The Rhine",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

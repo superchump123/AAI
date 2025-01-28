@@ -1,0 +1,11 @@
+{
+  "id": "ced093fc-1f45-4981-8a74-6eb5fcf6fa6f",
+  "object": "beer",
+  "name": "Franboise",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

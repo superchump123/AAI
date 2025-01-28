@@ -1,0 +1,11 @@
+{
+  "id": "bcddae94-faf5-4911-bd20-312d09d26529",
+  "object": "beer",
+  "name": "Cowboys vs. Hipsters",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

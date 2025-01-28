@@ -1,0 +1,11 @@
+{
+  "id": "f24cda70-d0e7-4c64-a1ae-7b0368fd5bb2",
+  "object": "beer",
+  "name": "Roselle",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

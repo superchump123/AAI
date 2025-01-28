@@ -1,0 +1,11 @@
+{
+  "id": "a708416e-acda-4439-8462-c7db7da83258",
+  "object": "beer",
+  "name": "Curtis Bro's Kolsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

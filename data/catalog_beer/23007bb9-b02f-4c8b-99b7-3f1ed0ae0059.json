@@ -1,0 +1,11 @@
+{
+  "id": "23007bb9-b02f-4c8b-99b7-3f1ed0ae0059",
+  "object": "beer",
+  "name": "Premium Bitter",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

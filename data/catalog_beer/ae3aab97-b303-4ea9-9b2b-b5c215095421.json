@@ -1,0 +1,11 @@
+{
+  "id": "ae3aab97-b303-4ea9-9b2b-b5c215095421",
+  "object": "beer",
+  "name": "Harpoon Summer Beer",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

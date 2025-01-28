@@ -1,0 +1,11 @@
+{
+  "id": "f0440e41-8200-41b2-9906-b3dd20921a10",
+  "object": "beer",
+  "name": "Immacul\u00e9e",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

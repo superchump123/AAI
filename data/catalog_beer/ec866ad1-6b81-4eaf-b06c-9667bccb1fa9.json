@@ -1,0 +1,11 @@
+{
+  "id": "ec866ad1-6b81-4eaf-b06c-9667bccb1fa9",
+  "object": "beer",
+  "name": "Swell Rider",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

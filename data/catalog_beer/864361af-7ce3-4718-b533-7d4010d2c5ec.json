@@ -1,0 +1,11 @@
+{
+  "id": "864361af-7ce3-4718-b533-7d4010d2c5ec",
+  "object": "beer",
+  "name": "Five Points Irish Red Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

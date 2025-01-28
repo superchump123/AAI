@@ -1,0 +1,11 @@
+{
+  "id": "5c089b71-206a-4e2b-b89f-ed7a3297907d",
+  "object": "beer",
+  "name": "Tripel Grist",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8f19caa1-9143-47d5-8c9c-991484ef48e0",
+  "object": "beer",
+  "name": "Brown's Oatmeal Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

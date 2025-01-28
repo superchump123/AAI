@@ -1,0 +1,11 @@
+{
+  "id": "1afdabd8-7570-4e7d-813c-741f607885f0",
+  "object": "beer",
+  "name": "Wheatstock Hefeweizen",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

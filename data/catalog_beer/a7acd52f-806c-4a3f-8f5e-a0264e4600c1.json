@@ -1,0 +1,11 @@
+{
+  "id": "a7acd52f-806c-4a3f-8f5e-a0264e4600c1",
+  "object": "beer",
+  "name": "Nu Skool IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

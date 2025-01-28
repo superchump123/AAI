@@ -1,0 +1,11 @@
+{
+  "id": "ab0f7a69-6ce6-48af-be58-c17a5189d41d",
+  "object": "beer",
+  "name": "Guru",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

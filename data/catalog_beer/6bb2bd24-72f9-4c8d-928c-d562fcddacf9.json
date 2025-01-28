@@ -1,0 +1,11 @@
+{
+  "id": "6bb2bd24-72f9-4c8d-928c-d562fcddacf9",
+  "object": "beer",
+  "name": "Gouden Carolus Ambrio",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

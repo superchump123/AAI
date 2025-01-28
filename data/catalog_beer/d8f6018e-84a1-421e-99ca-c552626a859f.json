@@ -1,0 +1,11 @@
+{
+  "id": "d8f6018e-84a1-421e-99ca-c552626a859f",
+  "object": "beer",
+  "name": "Experimental Dark Beer",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

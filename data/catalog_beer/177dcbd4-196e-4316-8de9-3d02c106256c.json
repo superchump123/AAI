@@ -1,0 +1,11 @@
+{
+  "id": "177dcbd4-196e-4316-8de9-3d02c106256c",
+  "object": "beer",
+  "name": "Lakeboat Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

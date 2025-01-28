@@ -1,0 +1,11 @@
+{
+  "id": "c699fd6d-30ac-43f7-b733-df3acf7f78db",
+  "object": "beer",
+  "name": "Pass The Torch",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

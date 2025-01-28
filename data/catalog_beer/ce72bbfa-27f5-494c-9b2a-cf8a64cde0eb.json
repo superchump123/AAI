@@ -1,0 +1,11 @@
+{
+  "id": "ce72bbfa-27f5-494c-9b2a-cf8a64cde0eb",
+  "object": "beer",
+  "name": "Taieri George",
+  "style": "Experimental Beer (Lager or Ale)",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

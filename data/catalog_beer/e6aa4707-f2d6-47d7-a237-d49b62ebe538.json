@@ -1,0 +1,11 @@
+{
+  "id": "e6aa4707-f2d6-47d7-a237-d49b62ebe538",
+  "object": "beer",
+  "name": "Chateau Jiahu",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

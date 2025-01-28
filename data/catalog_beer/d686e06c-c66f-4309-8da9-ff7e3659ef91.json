@@ -1,0 +1,11 @@
+{
+  "id": "d686e06c-c66f-4309-8da9-ff7e3659ef91",
+  "object": "beer",
+  "name": "Tahoe Beer",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2d4246d8-8d1f-4705-9c61-92ab0fde3e49",
+  "object": "beer",
+  "name": "Southern Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "961d83d8-a87a-48c9-b555-e6eca779a921",
+  "object": "beer",
+  "name": "The Noble One",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

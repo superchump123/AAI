@@ -1,0 +1,11 @@
+{
+  "id": "d2401aeb-c815-4ee4-811c-689b6677b15b",
+  "object": "beer",
+  "name": "Ginger Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

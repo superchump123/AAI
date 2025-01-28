@@ -1,0 +1,11 @@
+{
+  "id": "1e020c54-9bd0-4524-9fdb-3a83402fd968",
+  "object": "beer",
+  "name": "Terlingua Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

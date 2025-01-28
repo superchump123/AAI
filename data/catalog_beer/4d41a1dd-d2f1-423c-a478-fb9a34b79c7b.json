@@ -1,0 +1,11 @@
+{
+  "id": "4d41a1dd-d2f1-423c-a478-fb9a34b79c7b",
+  "object": "beer",
+  "name": "Tomahawk",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

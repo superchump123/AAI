@@ -1,0 +1,11 @@
+{
+  "id": "a941e1f8-93b7-4df2-87b4-c7ade4e244d1",
+  "object": "beer",
+  "name": "Black Sail Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "94d946fa-7290-4241-91dc-f9946d5a241b",
+  "object": "beer",
+  "name": "Coffee Stout (Batch 2)",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

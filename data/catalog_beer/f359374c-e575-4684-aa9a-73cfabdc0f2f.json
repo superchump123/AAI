@@ -1,0 +1,11 @@
+{
+  "id": "f359374c-e575-4684-aa9a-73cfabdc0f2f",
+  "object": "beer",
+  "name": "Original Premium",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

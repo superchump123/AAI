@@ -1,0 +1,11 @@
+{
+  "id": "a0c91249-e5d9-40d2-9aea-79655172473a",
+  "object": "beer",
+  "name": "Richie",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

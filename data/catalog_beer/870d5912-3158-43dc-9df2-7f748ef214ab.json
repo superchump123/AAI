@@ -1,0 +1,11 @@
+{
+  "id": "870d5912-3158-43dc-9df2-7f748ef214ab",
+  "object": "beer",
+  "name": "Pretty Penny",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

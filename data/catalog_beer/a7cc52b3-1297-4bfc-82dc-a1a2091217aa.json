@@ -1,0 +1,11 @@
+{
+  "id": "a7cc52b3-1297-4bfc-82dc-a1a2091217aa",
+  "object": "beer",
+  "name": "Cole Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

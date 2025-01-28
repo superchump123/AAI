@@ -1,0 +1,11 @@
+{
+  "id": "0e118fd8-16db-4091-a567-6ecb95421472",
+  "object": "beer",
+  "name": "Say-Sahn",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

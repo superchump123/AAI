@@ -1,0 +1,11 @@
+{
+  "id": "b78470b8-26e2-48c4-a154-815aa1202a49",
+  "object": "beer",
+  "name": "Schlitz Gusto",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

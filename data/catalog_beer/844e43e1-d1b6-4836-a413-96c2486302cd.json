@@ -1,0 +1,11 @@
+{
+  "id": "844e43e1-d1b6-4836-a413-96c2486302cd",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged Three Philosophers",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 11.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

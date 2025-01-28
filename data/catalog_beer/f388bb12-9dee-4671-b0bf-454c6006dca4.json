@@ -1,0 +1,11 @@
+{
+  "id": "f388bb12-9dee-4671-b0bf-454c6006dca4",
+  "object": "beer",
+  "name": "Sanity",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fddfc140-ddc3-4d61-937d-cfdd3dbfb5dd",
+  "object": "beer",
+  "name": "Dog Days",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

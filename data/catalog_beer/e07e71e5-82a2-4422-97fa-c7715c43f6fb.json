@@ -1,0 +1,11 @@
+{
+  "id": "e07e71e5-82a2-4422-97fa-c7715c43f6fb",
+  "object": "beer",
+  "name": "Imperial Barley Wine Ale",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

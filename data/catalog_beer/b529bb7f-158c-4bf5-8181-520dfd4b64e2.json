@@ -1,0 +1,11 @@
+{
+  "id": "b529bb7f-158c-4bf5-8181-520dfd4b64e2",
+  "object": "beer",
+  "name": "No Number Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d7b4c267-8acc-4de5-9853-1de20fc8ed7d",
+  "object": "beer",
+  "name": "2013 Holiday IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

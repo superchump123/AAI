@@ -1,0 +1,11 @@
+{
+  "id": "4d221bde-2966-457c-933e-72c9dfe3375d",
+  "object": "beer",
+  "name": "Bock Party",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

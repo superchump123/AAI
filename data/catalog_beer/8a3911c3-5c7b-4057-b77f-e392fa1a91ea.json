@@ -1,0 +1,11 @@
+{
+  "id": "8a3911c3-5c7b-4057-b77f-e392fa1a91ea",
+  "object": "beer",
+  "name": "Green Apple",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ef23b954-6f59-4f70-8532-ac3fc5d7a477",
+  "object": "beer",
+  "name": "Artist Formerly Known As...",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

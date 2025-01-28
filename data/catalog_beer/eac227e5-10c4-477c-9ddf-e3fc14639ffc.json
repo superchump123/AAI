@@ -1,0 +1,11 @@
+{
+  "id": "eac227e5-10c4-477c-9ddf-e3fc14639ffc",
+  "object": "beer",
+  "name": "Cerasus Dog",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

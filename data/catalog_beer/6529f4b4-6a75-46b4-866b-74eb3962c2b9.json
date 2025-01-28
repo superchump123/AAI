@@ -1,0 +1,11 @@
+{
+  "id": "6529f4b4-6a75-46b4-866b-74eb3962c2b9",
+  "object": "beer",
+  "name": "Farmhouse IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

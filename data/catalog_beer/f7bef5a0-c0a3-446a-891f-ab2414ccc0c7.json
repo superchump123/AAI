@@ -1,0 +1,11 @@
+{
+  "id": "f7bef5a0-c0a3-446a-891f-ab2414ccc0c7",
+  "object": "beer",
+  "name": "Latona IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

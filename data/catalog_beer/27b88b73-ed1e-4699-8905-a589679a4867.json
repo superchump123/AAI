@@ -1,0 +1,11 @@
+{
+  "id": "27b88b73-ed1e-4699-8905-a589679a4867",
+  "object": "beer",
+  "name": "Bineary Double IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

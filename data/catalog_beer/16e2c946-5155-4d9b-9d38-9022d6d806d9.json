@@ -1,0 +1,11 @@
+{
+  "id": "16e2c946-5155-4d9b-9d38-9022d6d806d9",
+  "object": "beer",
+  "name": "Sternwheeler Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cdcf4b3c-9c00-4ea1-8871-2f8609ae9e25",
+  "object": "beer",
+  "name": "Red Wine Barrel Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

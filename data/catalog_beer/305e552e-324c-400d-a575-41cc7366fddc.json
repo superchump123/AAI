@@ -1,0 +1,11 @@
+{
+  "id": "305e552e-324c-400d-a575-41cc7366fddc",
+  "object": "beer",
+  "name": "LemonGrass Wheat Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

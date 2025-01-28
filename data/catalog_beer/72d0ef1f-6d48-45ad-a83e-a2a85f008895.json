@@ -1,0 +1,11 @@
+{
+  "id": "72d0ef1f-6d48-45ad-a83e-a2a85f008895",
+  "object": "beer",
+  "name": "Acres Edge",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

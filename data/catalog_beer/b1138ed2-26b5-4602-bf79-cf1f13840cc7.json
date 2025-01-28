@@ -1,0 +1,11 @@
+{
+  "id": "b1138ed2-26b5-4602-bf79-cf1f13840cc7",
+  "object": "beer",
+  "name": "Charles Quint",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

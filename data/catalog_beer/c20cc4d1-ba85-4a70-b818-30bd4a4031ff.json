@@ -1,0 +1,11 @@
+{
+  "id": "c20cc4d1-ba85-4a70-b818-30bd4a4031ff",
+  "object": "beer",
+  "name": "Southern Hemisphere Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3a7713e7-2b31-4585-8f51-6b4dd1443397",
+  "object": "beer",
+  "name": "Lemon Blueberry Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

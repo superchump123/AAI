@@ -1,0 +1,11 @@
+{
+  "id": "f90729d6-ea75-4775-bb32-753666c65b1d",
+  "object": "beer",
+  "name": "Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

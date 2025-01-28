@@ -1,0 +1,11 @@
+{
+  "id": "acac9b50-2856-428e-977f-51ae4795eda3",
+  "object": "beer",
+  "name": "Ciderberry",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

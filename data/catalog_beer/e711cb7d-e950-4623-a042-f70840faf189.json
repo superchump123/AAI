@@ -1,0 +1,11 @@
+{
+  "id": "e711cb7d-e950-4623-a042-f70840faf189",
+  "object": "beer",
+  "name": "Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

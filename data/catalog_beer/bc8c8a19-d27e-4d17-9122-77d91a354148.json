@@ -1,0 +1,11 @@
+{
+  "id": "bc8c8a19-d27e-4d17-9122-77d91a354148",
+  "object": "beer",
+  "name": "Purple Drank",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

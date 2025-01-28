@@ -1,0 +1,11 @@
+{
+  "id": "f6f4d0b7-c9d9-49f8-933a-a66c57bb93ae",
+  "object": "beer",
+  "name": "Baby Belgian",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

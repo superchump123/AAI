@@ -1,0 +1,11 @@
+{
+  "id": "cd780a58-48d4-4a02-bf58-8732e80f84f4",
+  "object": "beer",
+  "name": "Bonifatius Dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

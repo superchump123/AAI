@@ -1,0 +1,11 @@
+{
+  "id": "34bde594-759c-4aa2-a7ec-4821772f450c",
+  "object": "beer",
+  "name": "Black Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e22a0c2c-2cbc-4033-ad86-80c8e855b926",
+  "object": "beer",
+  "name": "Coconut Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dc616168-7d08-47b6-a96a-2d22cf3ba7ed",
+  "object": "beer",
+  "name": "On Ice",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

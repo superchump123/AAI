@@ -1,0 +1,11 @@
+{
+  "id": "efbe7570-4c68-4f3e-b1e5-2ef521f011c7",
+  "object": "beer",
+  "name": "Terzo Miglio",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

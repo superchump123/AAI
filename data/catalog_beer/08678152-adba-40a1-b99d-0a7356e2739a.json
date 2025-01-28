@@ -1,0 +1,11 @@
+{
+  "id": "08678152-adba-40a1-b99d-0a7356e2739a",
+  "object": "beer",
+  "name": "Fox & The Goat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

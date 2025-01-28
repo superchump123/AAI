@@ -1,0 +1,11 @@
+{
+  "id": "6ff95bcd-ae42-4b6a-8e05-7fd1e6992078",
+  "object": "beer",
+  "name": "3LB. IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

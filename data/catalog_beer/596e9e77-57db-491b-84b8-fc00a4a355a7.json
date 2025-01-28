@@ -1,0 +1,11 @@
+{
+  "id": "596e9e77-57db-491b-84b8-fc00a4a355a7",
+  "object": "beer",
+  "name": "GF Apple Ale",
+  "style": "Gluten-Free Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

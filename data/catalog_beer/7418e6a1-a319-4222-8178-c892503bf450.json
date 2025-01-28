@@ -1,0 +1,11 @@
+{
+  "id": "7418e6a1-a319-4222-8178-c892503bf450",
+  "object": "beer",
+  "name": "Crazy Jackass Ale",
+  "style": "German-Style Rye Ale (Roggenbier) with or without Yeast",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

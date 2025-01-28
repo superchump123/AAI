@@ -1,0 +1,11 @@
+{
+  "id": "34e2930f-a406-4514-9bb7-5152241ff39b",
+  "object": "beer",
+  "name": "Dirndl Bock",
+  "style": "Traditional German-Style Bock",
+  "description": null,
+  "abv": 8,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "09a9da50-1c6f-4f8b-be31-1f2946ef71fe",
+  "object": "beer",
+  "name": "Chocolate Covered Pretzel Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

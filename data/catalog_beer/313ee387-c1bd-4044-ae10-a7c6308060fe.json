@@ -1,0 +1,11 @@
+{
+  "id": "313ee387-c1bd-4044-ae10-a7c6308060fe",
+  "object": "beer",
+  "name": "Turkey Crick",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

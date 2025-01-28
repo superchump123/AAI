@@ -1,0 +1,11 @@
+{
+  "id": "15be5081-6a72-4c80-a158-404fb98cef39",
+  "object": "beer",
+  "name": "Stabello Maniscalco",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 7,
+  "ibu": 49,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

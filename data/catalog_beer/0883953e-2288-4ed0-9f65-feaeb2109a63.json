@@ -1,0 +1,11 @@
+{
+  "id": "0883953e-2288-4ed0-9f65-feaeb2109a63",
+  "object": "beer",
+  "name": "Amstel Reserva",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

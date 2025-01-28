@@ -1,0 +1,11 @@
+{
+  "id": "20328ae1-e6d8-4e2e-bde1-d6fc22ed5e11",
+  "object": "beer",
+  "name": "East Branch",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

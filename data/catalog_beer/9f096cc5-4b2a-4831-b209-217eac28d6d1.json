@@ -1,0 +1,11 @@
+{
+  "id": "9f096cc5-4b2a-4831-b209-217eac28d6d1",
+  "object": "beer",
+  "name": "Affligem Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

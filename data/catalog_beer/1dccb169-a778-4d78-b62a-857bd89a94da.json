@@ -1,0 +1,11 @@
+{
+  "id": "1dccb169-a778-4d78-b62a-857bd89a94da",
+  "object": "beer",
+  "name": "Small Town Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b0cff30b-b6e6-456b-b2f0-b34c8f11d571",
+  "object": "beer",
+  "name": "5 Lizard",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

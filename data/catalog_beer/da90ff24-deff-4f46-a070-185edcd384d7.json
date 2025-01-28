@@ -1,0 +1,11 @@
+{
+  "id": "da90ff24-deff-4f46-a070-185edcd384d7",
+  "object": "beer",
+  "name": "Tax Alement",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

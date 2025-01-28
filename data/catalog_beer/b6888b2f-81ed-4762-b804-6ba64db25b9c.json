@@ -1,0 +1,11 @@
+{
+  "id": "b6888b2f-81ed-4762-b804-6ba64db25b9c",
+  "object": "beer",
+  "name": "Stripper Dust",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

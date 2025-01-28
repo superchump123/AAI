@@ -1,0 +1,11 @@
+{
+  "id": "c75e48ad-ed08-402a-a14f-873bdcf2a8d8",
+  "object": "beer",
+  "name": "Proletary",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

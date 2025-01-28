@@ -1,0 +1,11 @@
+{
+  "id": "4774e7ff-34f7-4e79-b914-00f4635adb6a",
+  "object": "beer",
+  "name": "Buffalo Jacket IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e1ac35a9-49f5-43c7-9ec8-e1672cf24bd1",
+  "object": "beer",
+  "name": "Cocoa Psycho",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10,
+  "ibu": 330,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

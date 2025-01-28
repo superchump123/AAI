@@ -1,0 +1,11 @@
+{
+  "id": "27ad1021-e5e6-41b4-aadd-ae29c719a83b",
+  "object": "beer",
+  "name": "Manhattan Ale",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 13.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

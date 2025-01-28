@@ -1,0 +1,11 @@
+{
+  "id": "7eb81ac2-a141-4ab4-a1ce-1769a344e879",
+  "object": "beer",
+  "name": "Bruevarian",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

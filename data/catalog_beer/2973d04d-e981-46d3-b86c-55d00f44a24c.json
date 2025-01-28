@@ -1,0 +1,11 @@
+{
+  "id": "2973d04d-e981-46d3-b86c-55d00f44a24c",
+  "object": "beer",
+  "name": "Baron's Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "3800d6f6-7c9e-4b68-a7d8-092f2c5449ff",
+  "object": "beer",
+  "name": "Pedro Sousa APA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

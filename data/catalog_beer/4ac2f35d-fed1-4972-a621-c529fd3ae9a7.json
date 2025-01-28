@@ -1,0 +1,11 @@
+{
+  "id": "4ac2f35d-fed1-4972-a621-c529fd3ae9a7",
+  "object": "beer",
+  "name": "Holy Cow! Original Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

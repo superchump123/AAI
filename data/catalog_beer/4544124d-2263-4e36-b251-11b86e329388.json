@@ -1,0 +1,11 @@
+{
+  "id": "4544124d-2263-4e36-b251-11b86e329388",
+  "object": "beer",
+  "name": "Quadrupel Belgian-Style Ale",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

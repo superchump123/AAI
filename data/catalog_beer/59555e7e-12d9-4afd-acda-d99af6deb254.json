@@ -1,0 +1,11 @@
+{
+  "id": "59555e7e-12d9-4afd-acda-d99af6deb254",
+  "object": "beer",
+  "name": "Michelle's White Wedding",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

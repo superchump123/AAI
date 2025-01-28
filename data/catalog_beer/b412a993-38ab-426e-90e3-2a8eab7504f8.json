@@ -1,0 +1,11 @@
+{
+  "id": "b412a993-38ab-426e-90e3-2a8eab7504f8",
+  "object": "beer",
+  "name": "Atmosphera Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.7,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

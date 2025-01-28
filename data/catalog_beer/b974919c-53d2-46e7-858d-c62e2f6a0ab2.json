@@ -1,0 +1,11 @@
+{
+  "id": "b974919c-53d2-46e7-858d-c62e2f6a0ab2",
+  "object": "beer",
+  "name": "The Maine Thing East-coast Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

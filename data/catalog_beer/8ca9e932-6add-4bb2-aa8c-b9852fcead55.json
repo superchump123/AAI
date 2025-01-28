@@ -1,0 +1,11 @@
+{
+  "id": "8ca9e932-6add-4bb2-aa8c-b9852fcead55",
+  "object": "beer",
+  "name": "Juice Bar",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

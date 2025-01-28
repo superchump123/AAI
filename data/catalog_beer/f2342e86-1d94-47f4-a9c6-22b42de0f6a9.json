@@ -1,0 +1,11 @@
+{
+  "id": "f2342e86-1d94-47f4-a9c6-22b42de0f6a9",
+  "object": "beer",
+  "name": "Trip In The Woods",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

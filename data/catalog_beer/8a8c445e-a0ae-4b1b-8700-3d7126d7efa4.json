@@ -1,0 +1,11 @@
+{
+  "id": "8a8c445e-a0ae-4b1b-8700-3d7126d7efa4",
+  "object": "beer",
+  "name": "Old Stock",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

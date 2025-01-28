@@ -1,0 +1,11 @@
+{
+  "id": "37652e1c-8c58-46c6-992f-1f78c088b854",
+  "object": "beer",
+  "name": "Helles Waites",
+  "style": "German-Style Heller Bock/Maibock",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

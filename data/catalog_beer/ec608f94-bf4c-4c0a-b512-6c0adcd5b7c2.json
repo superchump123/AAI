@@ -1,0 +1,11 @@
+{
+  "id": "ec608f94-bf4c-4c0a-b512-6c0adcd5b7c2",
+  "object": "beer",
+  "name": "Habituale",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

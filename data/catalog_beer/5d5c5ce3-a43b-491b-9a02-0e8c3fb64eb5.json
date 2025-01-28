@@ -1,0 +1,11 @@
+{
+  "id": "5d5c5ce3-a43b-491b-9a02-0e8c3fb64eb5",
+  "object": "beer",
+  "name": "Sour Devil",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

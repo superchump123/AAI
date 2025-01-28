@@ -1,0 +1,11 @@
+{
+  "id": "d59fc06b-418b-4ad4-b65c-ebf461073b9b",
+  "object": "beer",
+  "name": "Evil Arabier",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

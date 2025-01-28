@@ -1,0 +1,11 @@
+{
+  "id": "89ac86e9-5c5c-4599-95df-1089e129b6b5",
+  "object": "beer",
+  "name": "Keller Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

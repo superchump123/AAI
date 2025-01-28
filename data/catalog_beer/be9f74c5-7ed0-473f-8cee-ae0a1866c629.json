@@ -1,0 +1,11 @@
+{
+  "id": "be9f74c5-7ed0-473f-8cee-ae0a1866c629",
+  "object": "beer",
+  "name": "Wendigo Winter Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

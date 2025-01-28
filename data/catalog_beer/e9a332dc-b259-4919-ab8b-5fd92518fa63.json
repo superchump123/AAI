@@ -1,0 +1,11 @@
+{
+  "id": "e9a332dc-b259-4919-ab8b-5fd92518fa63",
+  "object": "beer",
+  "name": "Streetlamp",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 61,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

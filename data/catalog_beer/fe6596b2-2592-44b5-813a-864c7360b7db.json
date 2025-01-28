@@ -1,0 +1,11 @@
+{
+  "id": "fe6596b2-2592-44b5-813a-864c7360b7db",
+  "object": "beer",
+  "name": "Duchessa",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

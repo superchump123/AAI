@@ -1,0 +1,11 @@
+{
+  "id": "e0bd823d-b9b8-411a-9c97-b395155cad73",
+  "object": "beer",
+  "name": "High Altitude Hellas",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

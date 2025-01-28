@@ -1,0 +1,11 @@
+{
+  "id": "087e2024-1c65-4c6a-b5da-d1e015fba9c3",
+  "object": "beer",
+  "name": "EPA",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

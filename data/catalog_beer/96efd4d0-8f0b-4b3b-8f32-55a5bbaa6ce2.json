@@ -1,0 +1,11 @@
+{
+  "id": "96efd4d0-8f0b-4b3b-8f32-55a5bbaa6ce2",
+  "object": "beer",
+  "name": "HorrorHound Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

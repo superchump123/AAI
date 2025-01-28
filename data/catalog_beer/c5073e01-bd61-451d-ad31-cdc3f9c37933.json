@@ -1,0 +1,11 @@
+{
+  "id": "c5073e01-bd61-451d-ad31-cdc3f9c37933",
+  "object": "beer",
+  "name": "R&D Series: ALT",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

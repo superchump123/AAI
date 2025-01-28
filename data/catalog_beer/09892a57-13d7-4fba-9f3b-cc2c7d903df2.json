@@ -1,0 +1,11 @@
+{
+  "id": "09892a57-13d7-4fba-9f3b-cc2c7d903df2",
+  "object": "beer",
+  "name": "Skeleton Key",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

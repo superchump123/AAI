@@ -1,0 +1,11 @@
+{
+  "id": "ba474e3e-0448-4960-bc75-753a5452bff7",
+  "object": "beer",
+  "name": "Bofferding Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

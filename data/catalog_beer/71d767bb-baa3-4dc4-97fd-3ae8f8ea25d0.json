@@ -1,0 +1,11 @@
+{
+  "id": "71d767bb-baa3-4dc4-97fd-3ae8f8ea25d0",
+  "object": "beer",
+  "name": "Keltius Quadrupel 2013",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

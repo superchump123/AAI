@@ -1,0 +1,11 @@
+{
+  "id": "e5b1af96-7ec6-4288-8b1b-6a6b62dffc16",
+  "object": "beer",
+  "name": "County Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

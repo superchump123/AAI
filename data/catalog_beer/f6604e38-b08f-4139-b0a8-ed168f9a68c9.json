@@ -1,0 +1,11 @@
+{
+  "id": "f6604e38-b08f-4139-b0a8-ed168f9a68c9",
+  "object": "beer",
+  "name": "Pomegranate Shandy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

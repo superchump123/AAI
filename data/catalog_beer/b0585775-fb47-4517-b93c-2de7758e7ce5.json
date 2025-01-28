@@ -1,0 +1,11 @@
+{
+  "id": "b0585775-fb47-4517-b93c-2de7758e7ce5",
+  "object": "beer",
+  "name": "Blonde Premium Beer",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 2,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

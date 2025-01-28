@@ -1,0 +1,11 @@
+{
+  "id": "260bf6a3-d2de-4bd3-aebd-4896fb061604",
+  "object": "beer",
+  "name": "Pineapple Express",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

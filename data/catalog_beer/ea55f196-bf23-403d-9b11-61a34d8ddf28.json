@@ -1,0 +1,11 @@
+{
+  "id": "ea55f196-bf23-403d-9b11-61a34d8ddf28",
+  "object": "beer",
+  "name": "Five AM Red Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

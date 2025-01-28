@@ -1,0 +1,11 @@
+{
+  "id": "5cfcd3ab-1243-4004-860e-59d346b8a9e6",
+  "object": "beer",
+  "name": "Don't Gose Towards The Light!",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

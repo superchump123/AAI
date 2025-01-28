@@ -1,0 +1,11 @@
+{
+  "id": "55905b3e-acaf-4fd1-9d75-899b5bcebcbc",
+  "object": "beer",
+  "name": "Strangeville Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8a90b3d8-e096-4d07-91dc-ca240f4b9582",
+  "object": "beer",
+  "name": "Powder",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

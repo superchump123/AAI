@@ -1,0 +1,11 @@
+{
+  "id": "c48833ee-9694-4a5f-817e-50c78ae5e88d",
+  "object": "beer",
+  "name": "5 Hole Smoked Stout",
+  "style": "Smoke Porter",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

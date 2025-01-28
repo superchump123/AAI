@@ -1,0 +1,11 @@
+{
+  "id": "76943a56-d925-4434-8f9d-cdc39f1dd14f",
+  "object": "beer",
+  "name": "Michigan Awesome Hatter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

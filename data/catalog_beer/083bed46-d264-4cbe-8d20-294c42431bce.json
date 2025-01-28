@@ -1,0 +1,11 @@
+{
+  "id": "083bed46-d264-4cbe-8d20-294c42431bce",
+  "object": "beer",
+  "name": "Rabbit's Reserve #6: Rauchbier",
+  "style": "Bamberg-Style M\u00e4rzen Rauchbier",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

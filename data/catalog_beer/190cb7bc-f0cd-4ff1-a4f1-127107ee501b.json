@@ -1,0 +1,11 @@
+{
+  "id": "190cb7bc-f0cd-4ff1-a4f1-127107ee501b",
+  "object": "beer",
+  "name": "Fusion",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

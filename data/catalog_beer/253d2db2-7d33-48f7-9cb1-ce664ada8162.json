@@ -1,0 +1,11 @@
+{
+  "id": "253d2db2-7d33-48f7-9cb1-ce664ada8162",
+  "object": "beer",
+  "name": "Mango A-go-go",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

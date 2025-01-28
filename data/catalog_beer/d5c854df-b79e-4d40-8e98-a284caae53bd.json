@@ -1,0 +1,11 @@
+{
+  "id": "d5c854df-b79e-4d40-8e98-a284caae53bd",
+  "object": "beer",
+  "name": "Just The Tip",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

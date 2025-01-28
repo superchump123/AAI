@@ -1,0 +1,11 @@
+{
+  "id": "bd2c78a9-6bb7-4000-ab95-21fa3c049dd4",
+  "object": "beer",
+  "name": "PiPA",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

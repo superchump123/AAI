@@ -1,0 +1,11 @@
+{
+  "id": "ad589e83-dbcc-4ae1-b432-3b4d3c63857b",
+  "object": "beer",
+  "name": "Friggin in the Riggin Tasting Notes",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

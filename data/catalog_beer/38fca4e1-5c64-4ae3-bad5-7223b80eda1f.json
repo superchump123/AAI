@@ -1,0 +1,11 @@
+{
+  "id": "38fca4e1-5c64-4ae3-bad5-7223b80eda1f",
+  "object": "beer",
+  "name": "Batch 8000",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

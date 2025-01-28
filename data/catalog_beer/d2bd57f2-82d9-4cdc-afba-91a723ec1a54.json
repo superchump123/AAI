@@ -1,0 +1,11 @@
+{
+  "id": "d2bd57f2-82d9-4cdc-afba-91a723ec1a54",
+  "object": "beer",
+  "name": "Best Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

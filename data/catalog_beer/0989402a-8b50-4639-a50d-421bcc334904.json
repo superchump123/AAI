@@ -1,0 +1,11 @@
+{
+  "id": "0989402a-8b50-4639-a50d-421bcc334904",
+  "object": "beer",
+  "name": "Maverick Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

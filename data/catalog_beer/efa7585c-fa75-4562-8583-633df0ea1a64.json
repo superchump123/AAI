@@ -1,0 +1,11 @@
+{
+  "id": "efa7585c-fa75-4562-8583-633df0ea1a64",
+  "object": "beer",
+  "name": "Amphora Centvrivm",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "eee41bc0-aabe-486e-a40d-614c66441da8",
+  "object": "beer",
+  "name": "N.W. Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

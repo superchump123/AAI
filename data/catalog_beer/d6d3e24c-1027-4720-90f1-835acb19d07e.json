@@ -1,0 +1,11 @@
+{
+  "id": "d6d3e24c-1027-4720-90f1-835acb19d07e",
+  "object": "beer",
+  "name": "Wild Yak",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

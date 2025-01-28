@@ -1,0 +1,11 @@
+{
+  "id": "83424e29-31aa-47c5-9e2c-dd5294b9b9d1",
+  "object": "beer",
+  "name": "Kickin' Cranberry Orange Mead",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

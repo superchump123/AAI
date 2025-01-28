@@ -1,0 +1,11 @@
+{
+  "id": "b2520b3f-c5fb-4922-8f4e-681fd1ca42f2",
+  "object": "beer",
+  "name": "Gillian",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

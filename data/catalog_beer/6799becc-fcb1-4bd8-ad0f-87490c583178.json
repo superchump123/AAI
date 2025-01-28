@@ -1,0 +1,11 @@
+{
+  "id": "6799becc-fcb1-4bd8-ad0f-87490c583178",
+  "object": "beer",
+  "name": "Little Oat",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

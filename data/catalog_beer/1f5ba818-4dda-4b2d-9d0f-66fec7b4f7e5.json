@@ -1,0 +1,11 @@
+{
+  "id": "1f5ba818-4dda-4b2d-9d0f-66fec7b4f7e5",
+  "object": "beer",
+  "name": "Welde No1 Slow Beer Pils",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 26,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

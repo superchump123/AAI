@@ -1,0 +1,11 @@
+{
+  "id": "42832c0d-ad87-4d08-9b2c-bb17008a2438",
+  "object": "beer",
+  "name": "Hops",
+  "style": "Open Category Mead",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

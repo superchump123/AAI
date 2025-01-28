@@ -1,0 +1,11 @@
+{
+  "id": "8458a8d7-75bc-41a8-975e-96d4f5b77cbe",
+  "object": "beer",
+  "name": "Fiddlestix",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

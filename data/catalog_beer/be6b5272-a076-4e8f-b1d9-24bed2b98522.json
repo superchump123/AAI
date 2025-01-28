@@ -1,0 +1,11 @@
+{
+  "id": "be6b5272-a076-4e8f-b1d9-24bed2b98522",
+  "object": "beer",
+  "name": "Ram Tam",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

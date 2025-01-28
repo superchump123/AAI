@@ -1,0 +1,11 @@
+{
+  "id": "89b10955-1421-4954-ac26-9d230dfeca03",
+  "object": "beer",
+  "name": "Adult World",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

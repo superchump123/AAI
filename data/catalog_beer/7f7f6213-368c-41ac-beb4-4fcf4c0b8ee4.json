@@ -1,0 +1,11 @@
+{
+  "id": "7f7f6213-368c-41ac-beb4-4fcf4c0b8ee4",
+  "object": "beer",
+  "name": "Home Run Wheat",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

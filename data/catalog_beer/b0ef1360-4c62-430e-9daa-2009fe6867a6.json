@@ -1,0 +1,11 @@
+{
+  "id": "b0ef1360-4c62-430e-9daa-2009fe6867a6",
+  "object": "beer",
+  "name": "Evolved",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

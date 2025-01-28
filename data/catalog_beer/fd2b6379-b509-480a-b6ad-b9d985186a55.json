@@ -1,0 +1,11 @@
+{
+  "id": "fd2b6379-b509-480a-b6ad-b9d985186a55",
+  "object": "beer",
+  "name": "Black Mamba",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

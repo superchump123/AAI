@@ -1,0 +1,11 @@
+{
+  "id": "6bf33da3-70b8-4cdf-b679-62160f929cad",
+  "object": "beer",
+  "name": "Save the Galaxy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 83,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

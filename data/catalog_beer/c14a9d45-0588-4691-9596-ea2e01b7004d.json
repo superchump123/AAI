@@ -1,0 +1,11 @@
+{
+  "id": "c14a9d45-0588-4691-9596-ea2e01b7004d",
+  "object": "beer",
+  "name": "Double Mountain Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

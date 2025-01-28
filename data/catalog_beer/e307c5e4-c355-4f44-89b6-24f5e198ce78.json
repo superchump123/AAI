@@ -1,0 +1,11 @@
+{
+  "id": "e307c5e4-c355-4f44-89b6-24f5e198ce78",
+  "object": "beer",
+  "name": "Upper Hand Lager",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

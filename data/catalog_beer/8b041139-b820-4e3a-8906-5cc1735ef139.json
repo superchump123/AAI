@@ -1,0 +1,11 @@
+{
+  "id": "8b041139-b820-4e3a-8906-5cc1735ef139",
+  "object": "beer",
+  "name": "Death or Glory",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "47a754d0-660e-4243-8cb1-a6eeb51fe9e4",
+  "object": "beer",
+  "name": "Lost in Dubai",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 3.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

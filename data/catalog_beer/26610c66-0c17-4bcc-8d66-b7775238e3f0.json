@@ -1,0 +1,11 @@
+{
+  "id": "26610c66-0c17-4bcc-8d66-b7775238e3f0",
+  "object": "beer",
+  "name": "Conway Witty",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

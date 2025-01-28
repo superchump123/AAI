@@ -1,0 +1,11 @@
+{
+  "id": "480a27cb-b8db-44ef-a096-b2ff1b1fed09",
+  "object": "beer",
+  "name": "Tasty Greens IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

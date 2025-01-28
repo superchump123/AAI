@@ -1,0 +1,11 @@
+{
+  "id": "834c0565-7b8a-42d7-b09d-3b2740efee0d",
+  "object": "beer",
+  "name": "Baker Street Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fa598e23-3e91-4726-b957-d3d206043bcf",
+  "object": "beer",
+  "name": "Coastal",
+  "style": "American-Style Amber Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

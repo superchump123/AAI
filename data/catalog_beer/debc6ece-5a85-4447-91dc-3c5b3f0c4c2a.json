@@ -1,0 +1,11 @@
+{
+  "id": "debc6ece-5a85-4447-91dc-3c5b3f0c4c2a",
+  "object": "beer",
+  "name": "Winter Warlock",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

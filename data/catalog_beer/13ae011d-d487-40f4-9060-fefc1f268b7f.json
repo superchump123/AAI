@@ -1,0 +1,11 @@
+{
+  "id": "13ae011d-d487-40f4-9060-fefc1f268b7f",
+  "object": "beer",
+  "name": "Critterless",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 8.6,
+  "ibu": 5,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

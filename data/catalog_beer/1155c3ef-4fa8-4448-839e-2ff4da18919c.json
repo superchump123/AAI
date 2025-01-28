@@ -1,0 +1,11 @@
+{
+  "id": "1155c3ef-4fa8-4448-839e-2ff4da18919c",
+  "object": "beer",
+  "name": "Demento",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

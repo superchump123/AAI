@@ -1,0 +1,11 @@
+{
+  "id": "28b48a5b-2abe-4897-a06d-1a7d110a186c",
+  "object": "beer",
+  "name": "Bumblestick Brown",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 31,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

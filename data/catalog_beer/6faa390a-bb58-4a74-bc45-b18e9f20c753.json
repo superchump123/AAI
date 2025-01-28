@@ -1,0 +1,11 @@
+{
+  "id": "6faa390a-bb58-4a74-bc45-b18e9f20c753",
+  "object": "beer",
+  "name": "Red Card Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

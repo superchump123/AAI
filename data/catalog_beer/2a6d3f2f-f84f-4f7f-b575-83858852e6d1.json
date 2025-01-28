@@ -1,0 +1,11 @@
+{
+  "id": "2a6d3f2f-f84f-4f7f-b575-83858852e6d1",
+  "object": "beer",
+  "name": "Dumbstruck",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

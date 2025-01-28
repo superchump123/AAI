@@ -1,0 +1,11 @@
+{
+  "id": "07c13415-b517-402e-b63a-e6a72d25abbc",
+  "object": "beer",
+  "name": "Bellheimer Silber Pils",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

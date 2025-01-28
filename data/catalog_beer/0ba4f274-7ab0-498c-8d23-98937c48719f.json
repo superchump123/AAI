@@ -1,0 +1,11 @@
+{
+  "id": "0ba4f274-7ab0-498c-8d23-98937c48719f",
+  "object": "beer",
+  "name": "Trout Slayer",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

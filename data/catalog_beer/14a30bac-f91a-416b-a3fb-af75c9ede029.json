@@ -1,0 +1,11 @@
+{
+  "id": "14a30bac-f91a-416b-a3fb-af75c9ede029",
+  "object": "beer",
+  "name": "Altered State",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b464b2c0-de45-4955-91af-3dbf8629c082",
+  "object": "beer",
+  "name": "Schilling Spiced Cider",
+  "style": "New England Cider",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

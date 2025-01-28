@@ -1,0 +1,11 @@
+{
+  "id": "f36d21ef-7047-4b51-bd14-6489bf09140a",
+  "object": "beer",
+  "name": "The IPA (With)",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

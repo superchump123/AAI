@@ -1,0 +1,11 @@
+{
+  "id": "9974aa87-d3d1-4c45-8e78-20492b9f8aa0",
+  "object": "beer",
+  "name": "Felix",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

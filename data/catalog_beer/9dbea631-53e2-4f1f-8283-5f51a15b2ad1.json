@@ -1,0 +1,11 @@
+{
+  "id": "9dbea631-53e2-4f1f-8283-5f51a15b2ad1",
+  "object": "beer",
+  "name": "Hatz Weizen dunkel",
+  "style": "South German-Style Dunkel Weizen / Dunkel Weissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

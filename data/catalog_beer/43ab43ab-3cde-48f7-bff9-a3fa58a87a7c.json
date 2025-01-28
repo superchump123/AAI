@@ -1,0 +1,11 @@
+{
+  "id": "43ab43ab-3cde-48f7-bff9-a3fa58a87a7c",
+  "object": "beer",
+  "name": "Comatose",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

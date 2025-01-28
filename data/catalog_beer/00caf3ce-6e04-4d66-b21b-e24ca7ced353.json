@@ -1,0 +1,11 @@
+{
+  "id": "00caf3ce-6e04-4d66-b21b-e24ca7ced353",
+  "object": "beer",
+  "name": "Pie-Eyed Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

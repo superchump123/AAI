@@ -1,0 +1,11 @@
+{
+  "id": "284ba75b-6165-4cc1-9ac1-e7cdaf007638",
+  "object": "beer",
+  "name": "Secret Santa",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

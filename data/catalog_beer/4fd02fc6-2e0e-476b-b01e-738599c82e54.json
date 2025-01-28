@@ -1,0 +1,11 @@
+{
+  "id": "4fd02fc6-2e0e-476b-b01e-738599c82e54",
+  "object": "beer",
+  "name": "Serious Madness Black Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 74,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

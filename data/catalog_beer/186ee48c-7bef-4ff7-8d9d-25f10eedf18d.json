@@ -1,0 +1,11 @@
+{
+  "id": "186ee48c-7bef-4ff7-8d9d-25f10eedf18d",
+  "object": "beer",
+  "name": "Shotgun Shack Black Rye",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

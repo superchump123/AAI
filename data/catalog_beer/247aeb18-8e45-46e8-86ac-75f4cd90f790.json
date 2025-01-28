@@ -1,0 +1,11 @@
+{
+  "id": "247aeb18-8e45-46e8-86ac-75f4cd90f790",
+  "object": "beer",
+  "name": "Charrette",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

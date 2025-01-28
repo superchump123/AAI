@@ -1,0 +1,11 @@
+{
+  "id": "d01487a0-9a98-4c4a-91e7-3a4a80025568",
+  "object": "beer",
+  "name": "5th Dimension Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

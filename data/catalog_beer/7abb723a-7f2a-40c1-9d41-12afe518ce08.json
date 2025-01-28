@@ -1,0 +1,11 @@
+{
+  "id": "7abb723a-7f2a-40c1-9d41-12afe518ce08",
+  "object": "beer",
+  "name": "Logger's Daughter",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a8845283-be18-4af7-b2f2-8559f6f5241f",
+  "object": "beer",
+  "name": "Mushy P.",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

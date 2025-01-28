@@ -1,0 +1,11 @@
+{
+  "id": "4ea04971-03d4-40b2-ae34-96c2e94e3183",
+  "object": "beer",
+  "name": "Toyon Brut",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

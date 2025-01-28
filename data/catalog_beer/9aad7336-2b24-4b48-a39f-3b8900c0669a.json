@@ -1,0 +1,11 @@
+{
+  "id": "9aad7336-2b24-4b48-a39f-3b8900c0669a",
+  "object": "beer",
+  "name": "Labatt Crystal",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

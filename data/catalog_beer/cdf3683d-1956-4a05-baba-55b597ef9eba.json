@@ -1,0 +1,11 @@
+{
+  "id": "cdf3683d-1956-4a05-baba-55b597ef9eba",
+  "object": "beer",
+  "name": "High Brow Barista",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 46,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

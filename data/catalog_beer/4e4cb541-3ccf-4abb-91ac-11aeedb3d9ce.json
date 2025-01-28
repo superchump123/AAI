@@ -1,0 +1,11 @@
+{
+  "id": "4e4cb541-3ccf-4abb-91ac-11aeedb3d9ce",
+  "object": "beer",
+  "name": "Silver Back",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f6666fe5-70ef-49b6-9e4d-1f4e61d02260",
+  "object": "beer",
+  "name": "Sweet Sunny South",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "33e558da-dfa2-4810-8a64-3bba6612a9ac",
+  "object": "beer",
+  "name": "Hooplehead Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

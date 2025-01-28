@@ -1,0 +1,11 @@
+{
+  "id": "b5c9ecbf-a564-4b83-8d4c-63271cb0a5c4",
+  "object": "beer",
+  "name": "Frostbite Barley Wine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 11.7,
+  "ibu": 76,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fb9bae92-b7a5-4141-8916-ca71a4d09f83",
+  "object": "beer",
+  "name": "Tiger Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

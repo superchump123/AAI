@@ -1,0 +1,11 @@
+{
+  "id": "4ece673b-9368-4897-b6f5-c27abcd2b5a7",
+  "object": "beer",
+  "name": "Slop City",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

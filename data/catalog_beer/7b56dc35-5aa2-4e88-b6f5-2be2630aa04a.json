@@ -1,0 +1,11 @@
+{
+  "id": "7b56dc35-5aa2-4e88-b6f5-2be2630aa04a",
+  "object": "beer",
+  "name": "BA Belgian Dark",
+  "style": "Dark American-Belgo-Style Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

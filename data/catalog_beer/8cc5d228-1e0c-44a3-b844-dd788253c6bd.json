@@ -1,0 +1,11 @@
+{
+  "id": "8cc5d228-1e0c-44a3-b844-dd788253c6bd",
+  "object": "beer",
+  "name": "Personal Chain Letter With Vanilla Beans",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

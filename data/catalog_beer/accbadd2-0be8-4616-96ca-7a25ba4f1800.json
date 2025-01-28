@@ -1,0 +1,11 @@
+{
+  "id": "accbadd2-0be8-4616-96ca-7a25ba4f1800",
+  "object": "beer",
+  "name": "Schussenrieder Urtyp Lager",
+  "style": "Dortmunder / European-Style Export",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

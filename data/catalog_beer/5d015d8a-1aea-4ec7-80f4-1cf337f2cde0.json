@@ -1,0 +1,11 @@
+{
+  "id": "5d015d8a-1aea-4ec7-80f4-1cf337f2cde0",
+  "object": "beer",
+  "name": "Red Barn Irish Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

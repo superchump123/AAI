@@ -1,0 +1,11 @@
+{
+  "id": "6cf8c8d3-9c60-433d-872b-d19258f6bb19",
+  "object": "beer",
+  "name": "Hoppy Red Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

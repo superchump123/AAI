@@ -1,0 +1,11 @@
+{
+  "id": "f4ab60df-ec4b-4eef-9806-6c2ba253c78f",
+  "object": "beer",
+  "name": "Argilla Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

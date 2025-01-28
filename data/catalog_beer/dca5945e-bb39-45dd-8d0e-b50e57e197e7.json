@@ -1,0 +1,11 @@
+{
+  "id": "dca5945e-bb39-45dd-8d0e-b50e57e197e7",
+  "object": "beer",
+  "name": "Bedotter\u2122",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 38,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

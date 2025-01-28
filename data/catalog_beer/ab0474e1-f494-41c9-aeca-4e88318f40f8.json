@@ -1,0 +1,11 @@
+{
+  "id": "ab0474e1-f494-41c9-aeca-4e88318f40f8",
+  "object": "beer",
+  "name": "Gunport Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

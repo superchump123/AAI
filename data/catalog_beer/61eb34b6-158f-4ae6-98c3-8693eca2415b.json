@@ -1,0 +1,11 @@
+{
+  "id": "61eb34b6-158f-4ae6-98c3-8693eca2415b",
+  "object": "beer",
+  "name": "Darkness",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

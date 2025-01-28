@@ -1,0 +1,11 @@
+{
+  "id": "a5476efa-92c2-4717-8a84-89443a8b1c5a",
+  "object": "beer",
+  "name": "Stone Fruit Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.3,
+  "ibu": 8,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

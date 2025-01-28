@@ -1,0 +1,11 @@
+{
+  "id": "3f32d938-00d5-4383-8915-bb8f8e40877d",
+  "object": "beer",
+  "name": "A Tiny Beautiful Something",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

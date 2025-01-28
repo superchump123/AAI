@@ -1,0 +1,11 @@
+{
+  "id": "f0198b21-d6f7-47f9-8a18-6e2e6adfedb5",
+  "object": "beer",
+  "name": "19th Anniversary Ale",
+  "style": "American-Style Strong Pale Ale",
+  "description": null,
+  "abv": 10.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

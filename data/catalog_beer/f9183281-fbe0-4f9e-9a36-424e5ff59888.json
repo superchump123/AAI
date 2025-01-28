@@ -1,0 +1,11 @@
+{
+  "id": "f9183281-fbe0-4f9e-9a36-424e5ff59888",
+  "object": "beer",
+  "name": "Bradford",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "896f989d-035a-412a-9abb-3bdcf47ad6cd",
+  "object": "beer",
+  "name": "Mama Tried",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 55,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

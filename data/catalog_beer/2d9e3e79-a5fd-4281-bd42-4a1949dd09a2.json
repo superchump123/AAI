@@ -1,0 +1,11 @@
+{
+  "id": "2d9e3e79-a5fd-4281-bd42-4a1949dd09a2",
+  "object": "beer",
+  "name": "Scenic Hollow Pumpkin Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

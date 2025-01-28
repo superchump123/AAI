@@ -1,0 +1,11 @@
+{
+  "id": "466539e6-f6d4-4929-9db2-21fd5de53433",
+  "object": "beer",
+  "name": "Red Coat Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

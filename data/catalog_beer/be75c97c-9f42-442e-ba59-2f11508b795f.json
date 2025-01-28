@@ -1,0 +1,11 @@
+{
+  "id": "be75c97c-9f42-442e-ba59-2f11508b795f",
+  "object": "beer",
+  "name": "Y2B (Year 2 Beer)",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.3,
+  "ibu": 88,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1d5e7e50-0f77-4d8a-b70d-1f550c25877d",
+  "object": "beer",
+  "name": "Rye Cubed",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.7,
+  "ibu": 125,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a11d3e9b-d3e1-478a-9635-209447525a01",
+  "object": "beer",
+  "name": "Pumpernickel Black Ale",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "eea1f372-4fd8-4d34-a81f-32292d61f31a",
+  "object": "beer",
+  "name": "Lost Bridge Rauch (Smoke)",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

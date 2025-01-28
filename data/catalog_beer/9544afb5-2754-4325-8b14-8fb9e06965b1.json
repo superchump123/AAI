@@ -1,0 +1,11 @@
+{
+  "id": "9544afb5-2754-4325-8b14-8fb9e06965b1",
+  "object": "beer",
+  "name": "Rustic Farmhouse Saison",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

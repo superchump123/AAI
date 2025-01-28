@@ -1,0 +1,11 @@
+{
+  "id": "ff260764-f6ea-4413-a3b2-bacda3f97b90",
+  "object": "beer",
+  "name": "Mango Smash",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

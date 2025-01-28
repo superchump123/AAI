@@ -1,0 +1,11 @@
+{
+  "id": "d47d9df6-7d8a-4eed-819c-48cee538bd64",
+  "object": "beer",
+  "name": "Bad Mamey Jamma",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "02ff101e-84af-4bf4-a6ca-01b398eb7c30",
+  "object": "beer",
+  "name": "Woodchuck Private Reserve Belgian White",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

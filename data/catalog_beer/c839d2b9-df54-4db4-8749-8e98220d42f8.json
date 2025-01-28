@@ -1,0 +1,11 @@
+{
+  "id": "c839d2b9-df54-4db4-8749-8e98220d42f8",
+  "object": "beer",
+  "name": "McSorley's Irish Pale Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

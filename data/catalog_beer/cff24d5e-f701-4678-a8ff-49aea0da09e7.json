@@ -1,0 +1,11 @@
+{
+  "id": "cff24d5e-f701-4678-a8ff-49aea0da09e7",
+  "object": "beer",
+  "name": "Christmas Ale",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

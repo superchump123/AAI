@@ -1,0 +1,11 @@
+{
+  "id": "1dba6d25-05e2-43b7-ab04-2c670222a18c",
+  "object": "beer",
+  "name": "Stump Knocker",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

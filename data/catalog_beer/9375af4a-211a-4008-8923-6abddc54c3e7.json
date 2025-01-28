@@ -1,0 +1,11 @@
+{
+  "id": "9375af4a-211a-4008-8923-6abddc54c3e7",
+  "object": "beer",
+  "name": "Raspberry",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

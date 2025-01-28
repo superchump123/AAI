@@ -1,0 +1,11 @@
+{
+  "id": "00b17bf8-0f21-4842-bb8c-aa8a2c979e80",
+  "object": "beer",
+  "name": "Gravenstime",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

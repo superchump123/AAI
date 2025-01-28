@@ -1,0 +1,11 @@
+{
+  "id": "42fe4ffe-bb96-47f4-9b79-129441b44a73",
+  "object": "beer",
+  "name": "Harvest Ale (Lagavulin Casks)",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 11.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

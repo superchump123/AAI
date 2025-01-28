@@ -1,0 +1,11 @@
+{
+  "id": "f23b1ffe-98fd-44ea-9cd2-0aaa650ef805",
+  "object": "beer",
+  "name": "Dubrue Pub Ale",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

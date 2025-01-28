@@ -1,0 +1,11 @@
+{
+  "id": "753d1b69-a0fb-41b8-8659-87b7cdf7ca79",
+  "object": "beer",
+  "name": "Tart Cherry",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

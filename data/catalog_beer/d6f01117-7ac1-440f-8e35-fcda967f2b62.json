@@ -1,0 +1,11 @@
+{
+  "id": "d6f01117-7ac1-440f-8e35-fcda967f2b62",
+  "object": "beer",
+  "name": "Millbock White",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

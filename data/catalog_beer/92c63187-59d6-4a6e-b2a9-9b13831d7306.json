@@ -1,0 +1,11 @@
+{
+  "id": "92c63187-59d6-4a6e-b2a9-9b13831d7306",
+  "object": "beer",
+  "name": "Polar Vortex",
+  "style": "European-Style Dark / M\u00fcnchner Dunkel",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

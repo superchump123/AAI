@@ -1,0 +1,11 @@
+{
+  "id": "24123af8-e68c-416d-b69f-39249af9e942",
+  "object": "beer",
+  "name": "Idle Mind",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

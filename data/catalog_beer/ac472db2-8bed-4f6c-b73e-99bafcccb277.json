@@ -1,0 +1,11 @@
+{
+  "id": "ac472db2-8bed-4f6c-b73e-99bafcccb277",
+  "object": "beer",
+  "name": "MalzHopfenWasser",
+  "style": "American-Style M\u00e4rzen / Oktoberfest",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

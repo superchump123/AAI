@@ -1,0 +1,11 @@
+{
+  "id": "aaa78104-3095-4b16-a52f-9225aa2a4904",
+  "object": "beer",
+  "name": "Cariboo Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ea089e2-3d7e-4c31-b55d-bd7f89913987",
+  "object": "beer",
+  "name": "Forbidden Wheat",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

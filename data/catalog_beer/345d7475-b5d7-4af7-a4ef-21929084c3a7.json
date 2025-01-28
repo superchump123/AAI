@@ -1,0 +1,11 @@
+{
+  "id": "345d7475-b5d7-4af7-a4ef-21929084c3a7",
+  "object": "beer",
+  "name": "Co-hoperative",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

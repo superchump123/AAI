@@ -1,0 +1,11 @@
+{
+  "id": "2a051afd-6702-4a4d-a5c8-d39611bedc26",
+  "object": "beer",
+  "name": "The Hole in Hadrian's Wall",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

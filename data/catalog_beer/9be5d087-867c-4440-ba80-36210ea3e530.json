@@ -1,0 +1,11 @@
+{
+  "id": "9be5d087-867c-4440-ba80-36210ea3e530",
+  "object": "beer",
+  "name": "Maximus",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

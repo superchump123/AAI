@@ -1,0 +1,11 @@
+{
+  "id": "1e6fe190-bfa2-471b-ba9d-a60435958d6a",
+  "object": "beer",
+  "name": "Hashy",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

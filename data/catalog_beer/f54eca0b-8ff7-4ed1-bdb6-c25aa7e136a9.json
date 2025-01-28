@@ -1,0 +1,11 @@
+{
+  "id": "f54eca0b-8ff7-4ed1-bdb6-c25aa7e136a9",
+  "object": "beer",
+  "name": "Kites Are Fun",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

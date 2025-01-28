@@ -1,0 +1,11 @@
+{
+  "id": "45aef15a-4685-4494-af48-2d3b491396e1",
+  "object": "beer",
+  "name": "Monkey King",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

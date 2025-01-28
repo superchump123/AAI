@@ -1,0 +1,11 @@
+{
+  "id": "e5214dc3-f25d-4278-8e74-ce329b8fc1f0",
+  "object": "beer",
+  "name": "The Outcast Dead",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

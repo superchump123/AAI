@@ -1,0 +1,11 @@
+{
+  "id": "4641e317-4cbe-4e4f-9543-04f66652d7c3",
+  "object": "beer",
+  "name": "Alfred's Golden",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

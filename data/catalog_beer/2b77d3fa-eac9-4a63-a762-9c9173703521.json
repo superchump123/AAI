@@ -1,0 +1,11 @@
+{
+  "id": "2b77d3fa-eac9-4a63-a762-9c9173703521",
+  "object": "beer",
+  "name": "Wit Trash",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

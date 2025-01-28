@@ -1,0 +1,11 @@
+{
+  "id": "7e84eeaa-0abe-4126-aaf5-6ab094640d90",
+  "object": "beer",
+  "name": "Ghost Hammer",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 56,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

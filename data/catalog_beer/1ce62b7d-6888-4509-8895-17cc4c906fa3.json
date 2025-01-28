@@ -1,0 +1,11 @@
+{
+  "id": "1ce62b7d-6888-4509-8895-17cc4c906fa3",
+  "object": "beer",
+  "name": "Temple Tree",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

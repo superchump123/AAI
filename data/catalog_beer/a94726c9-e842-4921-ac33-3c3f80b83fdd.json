@@ -1,0 +1,11 @@
+{
+  "id": "a94726c9-e842-4921-ac33-3c3f80b83fdd",
+  "object": "beer",
+  "name": "Redd's Wicked Mango",
+  "style": "Flavored Malt Beverage",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

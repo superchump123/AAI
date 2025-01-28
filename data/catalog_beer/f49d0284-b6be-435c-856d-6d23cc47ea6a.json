@@ -1,0 +1,11 @@
+{
+  "id": "f49d0284-b6be-435c-856d-6d23cc47ea6a",
+  "object": "beer",
+  "name": "Catfish Cream Ale",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

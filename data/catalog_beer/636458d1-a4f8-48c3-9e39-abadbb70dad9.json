@@ -1,0 +1,11 @@
+{
+  "id": "636458d1-a4f8-48c3-9e39-abadbb70dad9",
+  "object": "beer",
+  "name": "ISA",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

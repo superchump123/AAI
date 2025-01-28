@@ -1,0 +1,11 @@
+{
+  "id": "221ee497-9327-4478-9b2b-33eec5d0f606",
+  "object": "beer",
+  "name": "Black Lock",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

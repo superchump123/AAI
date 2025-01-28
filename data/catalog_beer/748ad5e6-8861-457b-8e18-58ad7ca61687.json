@@ -1,0 +1,11 @@
+{
+  "id": "748ad5e6-8861-457b-8e18-58ad7ca61687",
+  "object": "beer",
+  "name": "Texas Backyard Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

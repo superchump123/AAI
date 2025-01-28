@@ -1,0 +1,11 @@
+{
+  "id": "6ca24df1-4404-43c3-afbd-b26aba748dfc",
+  "object": "beer",
+  "name": "Bishopsgate",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 10.9,
+  "ibu": 75,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

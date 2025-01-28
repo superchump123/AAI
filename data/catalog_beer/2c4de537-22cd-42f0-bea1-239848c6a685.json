@@ -1,0 +1,11 @@
+{
+  "id": "2c4de537-22cd-42f0-bea1-239848c6a685",
+  "object": "beer",
+  "name": "Assassin",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

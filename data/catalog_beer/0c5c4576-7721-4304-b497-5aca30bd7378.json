@@ -1,0 +1,11 @@
+{
+  "id": "0c5c4576-7721-4304-b497-5aca30bd7378",
+  "object": "beer",
+  "name": "Birthday Cake",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

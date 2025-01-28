@@ -1,0 +1,11 @@
+{
+  "id": "1f5d0c43-de4a-4564-b0d0-236331d59eee",
+  "object": "beer",
+  "name": "Paddlepuss Blonde Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

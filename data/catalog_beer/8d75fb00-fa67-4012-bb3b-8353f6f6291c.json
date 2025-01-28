@@ -1,0 +1,11 @@
+{
+  "id": "8d75fb00-fa67-4012-bb3b-8353f6f6291c",
+  "object": "beer",
+  "name": "A Farewell To Farms",
+  "style": "Session Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

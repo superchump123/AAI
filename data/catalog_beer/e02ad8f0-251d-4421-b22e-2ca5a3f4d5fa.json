@@ -1,0 +1,11 @@
+{
+  "id": "e02ad8f0-251d-4421-b22e-2ca5a3f4d5fa",
+  "object": "beer",
+  "name": "Newbold India Pale Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

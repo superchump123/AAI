@@ -1,0 +1,11 @@
+{
+  "id": "d3181bc1-e38c-4b97-b958-1e5d9cfa1471",
+  "object": "beer",
+  "name": "Overboard",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

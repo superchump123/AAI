@@ -1,0 +1,11 @@
+{
+  "id": "2c142a73-1f7e-4f37-873e-bedaeec9492e",
+  "object": "beer",
+  "name": "Prowler",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

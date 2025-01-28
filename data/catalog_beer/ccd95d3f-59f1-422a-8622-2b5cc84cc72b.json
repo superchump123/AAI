@@ -1,0 +1,11 @@
+{
+  "id": "ccd95d3f-59f1-422a-8622-2b5cc84cc72b",
+  "object": "beer",
+  "name": "The Uni~Brown",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

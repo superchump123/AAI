@@ -1,0 +1,11 @@
+{
+  "id": "b941abe8-7734-48f2-a2bb-15dd32dafdb5",
+  "object": "beer",
+  "name": "West Side Beavo",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "327ff03e-8a53-44b5-86a4-6f72d8de4ca3",
+  "object": "beer",
+  "name": "XXX Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

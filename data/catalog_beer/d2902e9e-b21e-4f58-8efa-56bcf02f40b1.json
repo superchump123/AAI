@@ -1,0 +1,11 @@
+{
+  "id": "d2902e9e-b21e-4f58-8efa-56bcf02f40b1",
+  "object": "beer",
+  "name": "Cut & Dry",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

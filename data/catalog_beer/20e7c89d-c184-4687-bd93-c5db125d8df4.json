@@ -1,0 +1,11 @@
+{
+  "id": "20e7c89d-c184-4687-bd93-c5db125d8df4",
+  "object": "beer",
+  "name": "Bohemian Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

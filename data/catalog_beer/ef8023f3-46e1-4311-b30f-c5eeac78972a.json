@@ -1,0 +1,11 @@
+{
+  "id": "ef8023f3-46e1-4311-b30f-c5eeac78972a",
+  "object": "beer",
+  "name": "Checkpoint Charlie",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

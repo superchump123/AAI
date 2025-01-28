@@ -1,0 +1,11 @@
+{
+  "id": "05e2756f-fd4f-469c-bb10-d09ac836031a",
+  "object": "beer",
+  "name": "Chesebro IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "92eccbd9-56a2-498b-8d86-8a9efc8f31ba",
+  "object": "beer",
+  "name": "Wave the Wheat Ale",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

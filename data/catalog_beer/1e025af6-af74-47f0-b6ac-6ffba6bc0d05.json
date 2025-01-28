@@ -1,0 +1,11 @@
+{
+  "id": "1e025af6-af74-47f0-b6ac-6ffba6bc0d05",
+  "object": "beer",
+  "name": "Vacation with Brett",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2714d62d-c0cb-4a73-aaea-33e508eb0dda",
+  "object": "beer",
+  "name": "Kiwi Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

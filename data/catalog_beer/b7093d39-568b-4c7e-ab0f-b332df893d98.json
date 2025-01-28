@@ -1,0 +1,11 @@
+{
+  "id": "b7093d39-568b-4c7e-ab0f-b332df893d98",
+  "object": "beer",
+  "name": "Bollywood",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

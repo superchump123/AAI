@@ -1,0 +1,11 @@
+{
+  "id": "cacf1f36-157f-4719-9b86-e648da1035d5",
+  "object": "beer",
+  "name": "Hattori Hanzo",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

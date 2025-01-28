@@ -1,0 +1,11 @@
+{
+  "id": "bab3f75d-f958-46f4-8ad4-d8a54c7b333c",
+  "object": "beer",
+  "name": "Gold Rush",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ea37aa04-7fde-4c94-84fd-096846270bd6",
+  "object": "beer",
+  "name": "GHBC Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "77bc5437-fc0c-42df-b535-356143503629",
+  "object": "beer",
+  "name": "Forge",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 107,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

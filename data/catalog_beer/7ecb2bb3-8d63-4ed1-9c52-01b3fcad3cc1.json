@@ -1,0 +1,11 @@
+{
+  "id": "7ecb2bb3-8d63-4ed1-9c52-01b3fcad3cc1",
+  "object": "beer",
+  "name": "Bright Side",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

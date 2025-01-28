@@ -1,0 +1,11 @@
+{
+  "id": "12c51390-001a-4330-b8b8-cc4a557e49f2",
+  "object": "beer",
+  "name": "White Chocolate Grand Cru",
+  "style": "Chocolate / Cocoa-Flavored Beer",
+  "description": null,
+  "abv": 10,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

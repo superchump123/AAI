@@ -1,0 +1,11 @@
+{
+  "id": "73a0333b-6b0f-4cc6-9b47-1cf467e312d7",
+  "object": "beer",
+  "name": "South Hampton IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

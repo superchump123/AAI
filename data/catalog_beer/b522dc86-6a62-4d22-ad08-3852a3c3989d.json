@@ -1,0 +1,11 @@
+{
+  "id": "b522dc86-6a62-4d22-ad08-3852a3c3989d",
+  "object": "beer",
+  "name": "Rainha",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

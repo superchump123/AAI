@@ -1,0 +1,11 @@
+{
+  "id": "6df1dea8-9e7d-45a2-9e9d-5c9a4f7f3aca",
+  "object": "beer",
+  "name": "Avril",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

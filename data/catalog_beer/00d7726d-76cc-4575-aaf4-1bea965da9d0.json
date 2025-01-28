@@ -1,0 +1,11 @@
+{
+  "id": "00d7726d-76cc-4575-aaf4-1bea965da9d0",
+  "object": "beer",
+  "name": "Royal",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

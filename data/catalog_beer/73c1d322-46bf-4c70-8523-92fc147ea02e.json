@@ -1,0 +1,11 @@
+{
+  "id": "73c1d322-46bf-4c70-8523-92fc147ea02e",
+  "object": "beer",
+  "name": "Basic Bitch",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e858c021-c3ed-494c-95bc-8106091ff5d5",
+  "object": "beer",
+  "name": "Peter's Mild",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 3.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "daed73f0-5e1f-4003-b967-53b38fbaa1b2",
+  "object": "beer",
+  "name": "Gracchus",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

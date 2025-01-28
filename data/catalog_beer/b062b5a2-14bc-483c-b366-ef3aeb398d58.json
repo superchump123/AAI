@@ -1,0 +1,11 @@
+{
+  "id": "b062b5a2-14bc-483c-b366-ef3aeb398d58",
+  "object": "beer",
+  "name": "Ise Kadoya Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

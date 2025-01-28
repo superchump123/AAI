@@ -1,0 +1,11 @@
+{
+  "id": "e1b42e52-8f1c-42e8-af7f-67314f5d4ada",
+  "object": "beer",
+  "name": "Stone Fruit Sour",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 5.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

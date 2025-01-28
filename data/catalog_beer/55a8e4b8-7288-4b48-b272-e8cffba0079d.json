@@ -1,0 +1,11 @@
+{
+  "id": "55a8e4b8-7288-4b48-b272-e8cffba0079d",
+  "object": "beer",
+  "name": "Special London Ale",
+  "style": "Old Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

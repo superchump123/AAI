@@ -1,0 +1,11 @@
+{
+  "id": "2dfcd222-d082-4a91-a53f-712e0afd3eab",
+  "object": "beer",
+  "name": "Molson Ice",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "736c56ae-d729-4fcc-8c57-ddba384f5f8a",
+  "object": "beer",
+  "name": "Canadian Light",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

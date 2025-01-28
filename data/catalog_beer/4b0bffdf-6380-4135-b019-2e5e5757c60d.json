@@ -1,0 +1,11 @@
+{
+  "id": "4b0bffdf-6380-4135-b019-2e5e5757c60d",
+  "object": "beer",
+  "name": "Route 202",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

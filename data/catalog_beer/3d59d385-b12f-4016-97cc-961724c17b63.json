@@ -1,0 +1,11 @@
+{
+  "id": "3d59d385-b12f-4016-97cc-961724c17b63",
+  "object": "beer",
+  "name": "Hog Wild",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

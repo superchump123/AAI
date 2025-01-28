@@ -1,0 +1,11 @@
+{
+  "id": "ae953c88-f7d6-4d3f-96b6-eee6105bc413",
+  "object": "beer",
+  "name": "Humal & Oder Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

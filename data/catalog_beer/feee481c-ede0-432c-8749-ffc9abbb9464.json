@@ -1,0 +1,11 @@
+{
+  "id": "feee481c-ede0-432c-8749-ffc9abbb9464",
+  "object": "beer",
+  "name": "Mango Hibiscus Pale Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

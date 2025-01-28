@@ -1,0 +1,11 @@
+{
+  "id": "7dc72215-0383-46f6-b283-9f4128fdfc71",
+  "object": "beer",
+  "name": "Hazelnut Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

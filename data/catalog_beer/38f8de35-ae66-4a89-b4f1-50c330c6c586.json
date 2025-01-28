@@ -1,0 +1,11 @@
+{
+  "id": "38f8de35-ae66-4a89-b4f1-50c330c6c586",
+  "object": "beer",
+  "name": "Hoftrol",
+  "style": "International-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

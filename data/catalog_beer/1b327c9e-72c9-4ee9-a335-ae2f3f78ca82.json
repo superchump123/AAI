@@ -1,0 +1,11 @@
+{
+  "id": "1b327c9e-72c9-4ee9-a335-ae2f3f78ca82",
+  "object": "beer",
+  "name": "Naturtrubes",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

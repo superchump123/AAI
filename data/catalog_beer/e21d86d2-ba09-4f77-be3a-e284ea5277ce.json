@@ -1,0 +1,11 @@
+{
+  "id": "e21d86d2-ba09-4f77-be3a-e284ea5277ce",
+  "object": "beer",
+  "name": "Peniger Landbier",
+  "style": "Kellerbier (Cellar beer) or Zwickelbier - Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

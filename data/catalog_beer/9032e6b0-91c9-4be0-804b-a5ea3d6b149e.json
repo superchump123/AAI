@@ -1,0 +1,11 @@
+{
+  "id": "9032e6b0-91c9-4be0-804b-a5ea3d6b149e",
+  "object": "beer",
+  "name": "Delirium Deliria",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

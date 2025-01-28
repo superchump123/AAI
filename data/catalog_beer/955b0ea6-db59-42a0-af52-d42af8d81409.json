@@ -1,0 +1,11 @@
+{
+  "id": "955b0ea6-db59-42a0-af52-d42af8d81409",
+  "object": "beer",
+  "name": "Black Oat",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "966ba89f-7a3a-4485-9bb4-c128308f599b",
+  "object": "beer",
+  "name": "Diabolus",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 13,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

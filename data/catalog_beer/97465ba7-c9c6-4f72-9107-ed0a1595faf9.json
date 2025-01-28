@@ -1,0 +1,11 @@
+{
+  "id": "97465ba7-c9c6-4f72-9107-ed0a1595faf9",
+  "object": "beer",
+  "name": "Dogtoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

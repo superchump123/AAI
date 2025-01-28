@@ -1,0 +1,11 @@
+{
+  "id": "5212eccd-e276-42fa-92f6-1476ba7c6a58",
+  "object": "beer",
+  "name": "SideCar",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

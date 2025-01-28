@@ -1,0 +1,11 @@
+{
+  "id": "014cdef6-0cbf-4441-bff8-89b20db1dd3f",
+  "object": "beer",
+  "name": "508 I.P.A.",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

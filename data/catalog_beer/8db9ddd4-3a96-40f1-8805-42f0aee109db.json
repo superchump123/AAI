@@ -1,0 +1,11 @@
+{
+  "id": "8db9ddd4-3a96-40f1-8805-42f0aee109db",
+  "object": "beer",
+  "name": "Research Series Farmhouse Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

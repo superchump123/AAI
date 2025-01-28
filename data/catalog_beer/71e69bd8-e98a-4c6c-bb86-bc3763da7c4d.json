@@ -1,0 +1,11 @@
+{
+  "id": "71e69bd8-e98a-4c6c-bb86-bc3763da7c4d",
+  "object": "beer",
+  "name": "Summer Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

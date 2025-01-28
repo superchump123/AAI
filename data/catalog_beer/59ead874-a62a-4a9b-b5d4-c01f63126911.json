@@ -1,0 +1,11 @@
+{
+  "id": "59ead874-a62a-4a9b-b5d4-c01f63126911",
+  "object": "beer",
+  "name": "Big Break",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

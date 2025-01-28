@@ -1,0 +1,11 @@
+{
+  "id": "954e0b50-9280-4a2b-b8c2-5a4191e2a613",
+  "object": "beer",
+  "name": "Framboise",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 6,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

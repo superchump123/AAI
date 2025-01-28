@@ -1,0 +1,11 @@
+{
+  "id": "104886f1-ef31-4414-9f9b-aa79c9b0395c",
+  "object": "beer",
+  "name": "Scotty on the Bar-B",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 9.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

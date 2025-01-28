@@ -1,0 +1,11 @@
+{
+  "id": "7fe418aa-f12e-4c67-a621-5aeb6573e676",
+  "object": "beer",
+  "name": "Amber Tease Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

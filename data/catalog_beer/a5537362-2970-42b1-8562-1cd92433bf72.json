@@ -1,0 +1,11 @@
+{
+  "id": "a5537362-2970-42b1-8562-1cd92433bf72",
+  "object": "beer",
+  "name": "Sticky Rice",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 4.1,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

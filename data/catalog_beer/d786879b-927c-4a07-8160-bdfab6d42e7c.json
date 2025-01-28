@@ -1,0 +1,11 @@
+{
+  "id": "d786879b-927c-4a07-8160-bdfab6d42e7c",
+  "object": "beer",
+  "name": "Tasmanian Angel",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

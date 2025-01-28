@@ -1,0 +1,11 @@
+{
+  "id": "ac5f5ca9-f532-49c6-b78d-a5d903ed948b",
+  "object": "beer",
+  "name": "Alster",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 2.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e377032d-2725-4fc5-a4cf-0ab8b24988d3",
+  "object": "beer",
+  "name": "Jungle Juice",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

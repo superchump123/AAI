@@ -1,0 +1,11 @@
+{
+  "id": "1fcce50d-dc0f-4d29-b751-9de0966ba416",
+  "object": "beer",
+  "name": "Stiegl Weisse",
+  "style": "South German-Style Bernsteinfarbenes Weizen / Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

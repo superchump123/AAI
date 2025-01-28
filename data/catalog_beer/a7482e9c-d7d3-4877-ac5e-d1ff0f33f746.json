@@ -1,0 +1,11 @@
+{
+  "id": "a7482e9c-d7d3-4877-ac5e-d1ff0f33f746",
+  "object": "beer",
+  "name": "Solstice",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

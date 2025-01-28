@@ -1,0 +1,11 @@
+{
+  "id": "13d30e69-bbe5-4d41-bef6-ac239cd3af5c",
+  "object": "beer",
+  "name": "Snow Cone Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

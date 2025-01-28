@@ -1,0 +1,11 @@
+{
+  "id": "d9c6862b-cfde-4f12-ad1e-702c13d51fa9",
+  "object": "beer",
+  "name": "Last Chair Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 72,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

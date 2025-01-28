@@ -1,0 +1,11 @@
+{
+  "id": "1c3be8b6-30a1-4a03-8403-bb8365111013",
+  "object": "beer",
+  "name": "Saalfelder Premium Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "38b411ab-da12-4482-a876-cccf0bd627c5",
+  "object": "beer",
+  "name": "Vailima",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

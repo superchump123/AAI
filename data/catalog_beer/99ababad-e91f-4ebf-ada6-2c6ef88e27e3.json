@@ -1,0 +1,11 @@
+{
+  "id": "99ababad-e91f-4ebf-ada6-2c6ef88e27e3",
+  "object": "beer",
+  "name": "Michelob Ultra Light Cider",
+  "style": "English Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

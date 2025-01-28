@@ -1,0 +1,11 @@
+{
+  "id": "843d35fd-674e-4853-9ccd-de0474555dd7",
+  "object": "beer",
+  "name": "Sweet Crude Stout",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "12ffe247-b425-4bfe-bd9d-a71bd10d5cbf",
+  "object": "beer",
+  "name": "St. Bernardus Witbier",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

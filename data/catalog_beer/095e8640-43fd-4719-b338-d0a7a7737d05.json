@@ -1,0 +1,11 @@
+{
+  "id": "095e8640-43fd-4719-b338-d0a7a7737d05",
+  "object": "beer",
+  "name": "Howl",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

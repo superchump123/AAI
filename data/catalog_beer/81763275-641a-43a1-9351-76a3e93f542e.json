@@ -1,0 +1,11 @@
+{
+  "id": "81763275-641a-43a1-9351-76a3e93f542e",
+  "object": "beer",
+  "name": "X 2.1 Barley Wine",
+  "style": "British-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

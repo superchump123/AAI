@@ -1,0 +1,11 @@
+{
+  "id": "598e1aea-ce4b-4cc0-ac24-f011ec9ff72f",
+  "object": "beer",
+  "name": "Lei",
+  "style": "Fruit Cider",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

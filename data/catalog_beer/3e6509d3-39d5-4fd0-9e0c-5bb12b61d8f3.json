@@ -1,0 +1,11 @@
+{
+  "id": "3e6509d3-39d5-4fd0-9e0c-5bb12b61d8f3",
+  "object": "beer",
+  "name": "Item Nine",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

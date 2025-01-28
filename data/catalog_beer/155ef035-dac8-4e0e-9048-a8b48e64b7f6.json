@@ -1,0 +1,11 @@
+{
+  "id": "155ef035-dac8-4e0e-9048-a8b48e64b7f6",
+  "object": "beer",
+  "name": "White Squirrel",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

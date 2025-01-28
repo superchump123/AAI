@@ -1,0 +1,11 @@
+{
+  "id": "18c61df3-9571-4eeb-a7df-d3310822c3d6",
+  "object": "beer",
+  "name": "Captain Scorch",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

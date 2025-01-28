@@ -1,0 +1,11 @@
+{
+  "id": "7e791c72-80fe-43b1-a640-328edb4929b4",
+  "object": "beer",
+  "name": "Black Fox Gusto",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4d2d5c62-3f8b-45e3-b79e-257dd165a541",
+  "object": "beer",
+  "name": "Mosh Pit Tart Ale",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

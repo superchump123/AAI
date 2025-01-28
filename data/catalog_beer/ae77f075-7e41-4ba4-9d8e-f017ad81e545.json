@@ -1,0 +1,11 @@
+{
+  "id": "ae77f075-7e41-4ba4-9d8e-f017ad81e545",
+  "object": "beer",
+  "name": "Old Choco",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

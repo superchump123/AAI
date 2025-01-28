@@ -1,0 +1,11 @@
+{
+  "id": "f0e7b4aa-4060-4e62-8a5a-19b622795ac3",
+  "object": "beer",
+  "name": "Amber Amarillo",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

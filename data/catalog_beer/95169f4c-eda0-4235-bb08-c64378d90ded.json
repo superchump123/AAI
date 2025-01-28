@@ -1,0 +1,11 @@
+{
+  "id": "95169f4c-eda0-4235-bb08-c64378d90ded",
+  "object": "beer",
+  "name": "Saladito",
+  "style": "Contemporary Gose",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

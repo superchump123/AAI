@@ -1,0 +1,11 @@
+{
+  "id": "331e3ee1-123c-440d-8771-85e78ab34862",
+  "object": "beer",
+  "name": "Alpheus",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 10.1,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

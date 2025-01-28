@@ -1,0 +1,11 @@
+{
+  "id": "02abfc9c-5e2d-470c-958d-f0e2c6eaf6c7",
+  "object": "beer",
+  "name": "Whiting Wit",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

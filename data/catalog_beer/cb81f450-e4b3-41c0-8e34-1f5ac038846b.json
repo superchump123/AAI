@@ -1,0 +1,11 @@
+{
+  "id": "cb81f450-e4b3-41c0-8e34-1f5ac038846b",
+  "object": "beer",
+  "name": "High Lonesome",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8bcb6dfb-4375-4ec5-84ee-aec47fcc3df9",
+  "object": "beer",
+  "name": "Mr. Nice Guy",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.4,
+  "ibu": 98,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

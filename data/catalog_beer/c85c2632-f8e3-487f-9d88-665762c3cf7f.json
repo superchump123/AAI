@@ -1,0 +1,11 @@
+{
+  "id": "c85c2632-f8e3-487f-9d88-665762c3cf7f",
+  "object": "beer",
+  "name": "Saint Lamvinus",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

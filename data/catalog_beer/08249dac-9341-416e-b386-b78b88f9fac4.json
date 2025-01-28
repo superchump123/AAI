@@ -1,0 +1,11 @@
+{
+  "id": "08249dac-9341-416e-b386-b78b88f9fac4",
+  "object": "beer",
+  "name": "Vollbier Hell",
+  "style": "M\u00fcnchner (Munich)-Style Helles",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

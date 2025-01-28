@@ -1,0 +1,11 @@
+{
+  "id": "3c050070-de32-411f-b3f2-d152dd6f8cdf",
+  "object": "beer",
+  "name": "Larceny",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

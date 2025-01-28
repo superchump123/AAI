@@ -1,0 +1,11 @@
+{
+  "id": "f6d4762a-72af-4701-bbe2-41dd65c2c6ca",
+  "object": "beer",
+  "name": "Kitka Stout",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 7.3,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

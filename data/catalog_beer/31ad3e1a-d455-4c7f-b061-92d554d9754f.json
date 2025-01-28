@@ -1,0 +1,11 @@
+{
+  "id": "31ad3e1a-d455-4c7f-b061-92d554d9754f",
+  "object": "beer",
+  "name": "The Grove",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

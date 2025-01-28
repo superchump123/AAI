@@ -1,0 +1,11 @@
+{
+  "id": "a660f3d5-598f-4c15-af7a-613ddefe54d5",
+  "object": "beer",
+  "name": "Experimental #006",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 96,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

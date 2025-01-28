@@ -1,0 +1,11 @@
+{
+  "id": "0065de4a-998b-4075-bef1-1d11ece8fc19",
+  "object": "beer",
+  "name": "Specialty Beer: Oak-Aged Black Double IPA",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

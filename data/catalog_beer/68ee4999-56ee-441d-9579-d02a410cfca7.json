@@ -1,0 +1,11 @@
+{
+  "id": "68ee4999-56ee-441d-9579-d02a410cfca7",
+  "object": "beer",
+  "name": "Cidre Pays D'Auge",
+  "style": "French Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

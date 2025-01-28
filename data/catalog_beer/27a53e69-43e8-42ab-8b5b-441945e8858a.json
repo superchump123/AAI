@@ -1,0 +1,11 @@
+{
+  "id": "27a53e69-43e8-42ab-8b5b-441945e8858a",
+  "object": "beer",
+  "name": "Detmolder Landbier",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

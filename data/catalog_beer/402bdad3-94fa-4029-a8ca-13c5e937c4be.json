@@ -1,0 +1,11 @@
+{
+  "id": "402bdad3-94fa-4029-a8ca-13c5e937c4be",
+  "object": "beer",
+  "name": "Seven Hills Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8543e96b-f491-4e6c-9da2-aa6d2b840b3d",
+  "object": "beer",
+  "name": "Gate 37",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

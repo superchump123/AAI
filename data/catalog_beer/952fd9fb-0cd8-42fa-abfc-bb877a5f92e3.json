@@ -1,0 +1,11 @@
+{
+  "id": "952fd9fb-0cd8-42fa-abfc-bb877a5f92e3",
+  "object": "beer",
+  "name": "Heizer",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

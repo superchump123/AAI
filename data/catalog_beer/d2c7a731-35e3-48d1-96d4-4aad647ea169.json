@@ -1,0 +1,11 @@
+{
+  "id": "d2c7a731-35e3-48d1-96d4-4aad647ea169",
+  "object": "beer",
+  "name": "Cordial Julian",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

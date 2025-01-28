@@ -1,0 +1,11 @@
+{
+  "id": "285bc434-280f-44a9-9a5b-b13d5dfb86a2",
+  "object": "beer",
+  "name": "Winter Grind",
+  "style": "Sweet or Cream Stout",
+  "description": null,
+  "abv": 6,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

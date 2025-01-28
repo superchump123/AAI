@@ -1,0 +1,11 @@
+{
+  "id": "16695ad7-285d-4a78-972d-9bb3c162c704",
+  "object": "beer",
+  "name": "Brewer's Heritage",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

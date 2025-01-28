@@ -1,0 +1,11 @@
+{
+  "id": "1a270a8b-d26a-4211-af1a-05d5619130fc",
+  "object": "beer",
+  "name": "RYOT Rye Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

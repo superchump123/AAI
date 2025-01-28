@@ -1,0 +1,11 @@
+{
+  "id": "7c6f32bc-a753-4e09-9dd6-68478d6783c0",
+  "object": "beer",
+  "name": "Round Rock IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

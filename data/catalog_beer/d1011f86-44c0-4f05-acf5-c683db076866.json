@@ -1,0 +1,11 @@
+{
+  "id": "d1011f86-44c0-4f05-acf5-c683db076866",
+  "object": "beer",
+  "name": "Phoenix",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

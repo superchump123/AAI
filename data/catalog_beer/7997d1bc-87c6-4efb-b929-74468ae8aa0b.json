@@ -1,0 +1,11 @@
+{
+  "id": "7997d1bc-87c6-4efb-b929-74468ae8aa0b",
+  "object": "beer",
+  "name": "Castaway IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

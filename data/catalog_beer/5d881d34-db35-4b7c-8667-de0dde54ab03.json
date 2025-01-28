@@ -1,0 +1,11 @@
+{
+  "id": "5d881d34-db35-4b7c-8667-de0dde54ab03",
+  "object": "beer",
+  "name": "Kinda Fuzzy",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

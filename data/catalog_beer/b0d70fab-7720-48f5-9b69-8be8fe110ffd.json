@@ -1,0 +1,11 @@
+{
+  "id": "b0d70fab-7720-48f5-9b69-8be8fe110ffd",
+  "object": "beer",
+  "name": "Wheat Ale",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67680a5c-c7b5-41ea-972a-060c8e4ce9d8",
+  "object": "beer",
+  "name": "La Brune de Saint Louis",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

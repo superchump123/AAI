@@ -1,0 +1,11 @@
+{
+  "id": "6948418e-d85b-4301-853f-85ae549b28e9",
+  "object": "beer",
+  "name": "P2 with Black Currant",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "739c4dab-9a5f-46ff-b904-58e68cb6fa65",
+  "object": "beer",
+  "name": "White Russian",
+  "style": "British-Style Imperial Stout",
+  "description": null,
+  "abv": 9.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

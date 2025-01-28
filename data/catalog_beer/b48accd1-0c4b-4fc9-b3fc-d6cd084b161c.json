@@ -1,0 +1,11 @@
+{
+  "id": "b48accd1-0c4b-4fc9-b3fc-d6cd084b161c",
+  "object": "beer",
+  "name": "Hopper Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 43,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

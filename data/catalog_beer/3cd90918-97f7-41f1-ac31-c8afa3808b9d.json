@@ -1,0 +1,11 @@
+{
+  "id": "3cd90918-97f7-41f1-ac31-c8afa3808b9d",
+  "object": "beer",
+  "name": "Noire du Prospecteur",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 4.3,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

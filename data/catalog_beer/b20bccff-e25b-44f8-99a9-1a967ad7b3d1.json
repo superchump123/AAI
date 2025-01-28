@@ -1,0 +1,11 @@
+{
+  "id": "b20bccff-e25b-44f8-99a9-1a967ad7b3d1",
+  "object": "beer",
+  "name": "Polygraph Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

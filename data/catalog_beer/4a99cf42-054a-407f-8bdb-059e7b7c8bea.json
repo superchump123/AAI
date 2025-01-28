@@ -1,0 +1,11 @@
+{
+  "id": "4a99cf42-054a-407f-8bdb-059e7b7c8bea",
+  "object": "beer",
+  "name": "Elevator Wheat",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

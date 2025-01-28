@@ -1,0 +1,11 @@
+{
+  "id": "58f4e871-bd0c-4a35-87c9-ee6d043fc21a",
+  "object": "beer",
+  "name": "Maple Breakfast Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

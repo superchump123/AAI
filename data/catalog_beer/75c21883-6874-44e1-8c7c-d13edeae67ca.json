@@ -1,0 +1,11 @@
+{
+  "id": "75c21883-6874-44e1-8c7c-d13edeae67ca",
+  "object": "beer",
+  "name": "NSFW",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

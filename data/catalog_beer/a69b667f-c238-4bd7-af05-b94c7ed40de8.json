@@ -1,0 +1,11 @@
+{
+  "id": "a69b667f-c238-4bd7-af05-b94c7ed40de8",
+  "object": "beer",
+  "name": "Jack of Spades Schwarzbier",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

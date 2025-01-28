@@ -1,0 +1,11 @@
+{
+  "id": "58f9bc15-860c-4bab-b681-9f4102757ed3",
+  "object": "beer",
+  "name": "Coors Light",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

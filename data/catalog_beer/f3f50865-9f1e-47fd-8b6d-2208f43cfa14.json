@@ -1,0 +1,11 @@
+{
+  "id": "f3f50865-9f1e-47fd-8b6d-2208f43cfa14",
+  "object": "beer",
+  "name": "Luna Coffee Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

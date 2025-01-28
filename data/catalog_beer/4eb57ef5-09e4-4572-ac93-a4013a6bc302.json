@@ -1,0 +1,11 @@
+{
+  "id": "4eb57ef5-09e4-4572-ac93-a4013a6bc302",
+  "object": "beer",
+  "name": "Abbey Ale",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "17a74adc-f6f5-4684-aac7-8c9f8895cb4e",
+  "object": "beer",
+  "name": "Kirner Kyr",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 2.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

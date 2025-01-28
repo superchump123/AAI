@@ -1,0 +1,11 @@
+{
+  "id": "51378f46-4cbf-448c-8b1b-3c00b010bc62",
+  "object": "beer",
+  "name": "Double Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

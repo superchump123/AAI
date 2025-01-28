@@ -1,0 +1,11 @@
+{
+  "id": "9fa34a1d-d5b5-4956-a452-8eb5f6958d5c",
+  "object": "beer",
+  "name": "Ale Absurd",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 8.3,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "336d17b3-f54a-4284-8434-d4eca2cb572b",
+  "object": "beer",
+  "name": "Mr. Bigglesworth Belgian Pale",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

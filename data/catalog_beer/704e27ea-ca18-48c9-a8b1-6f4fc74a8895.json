@@ -1,0 +1,11 @@
+{
+  "id": "704e27ea-ca18-48c9-a8b1-6f4fc74a8895",
+  "object": "beer",
+  "name": "Tempest Coffee Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

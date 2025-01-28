@@ -1,0 +1,11 @@
+{
+  "id": "79dff78d-bdd5-47e2-83a8-f23fcaf30e83",
+  "object": "beer",
+  "name": "Hazy Eyed Sally",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "35ed3f41-f539-434f-88ea-82ceaaa5f6a0",
+  "object": "beer",
+  "name": "Thunderfoot",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

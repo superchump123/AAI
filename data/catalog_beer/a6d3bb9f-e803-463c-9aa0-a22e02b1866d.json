@@ -1,0 +1,11 @@
+{
+  "id": "a6d3bb9f-e803-463c-9aa0-a22e02b1866d",
+  "object": "beer",
+  "name": "Unseasonal Lager",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

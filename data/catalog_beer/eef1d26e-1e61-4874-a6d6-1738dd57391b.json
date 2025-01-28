@@ -1,0 +1,11 @@
+{
+  "id": "eef1d26e-1e61-4874-a6d6-1738dd57391b",
+  "object": "beer",
+  "name": "White Light",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dc3c76b3-f095-42de-91b9-0aac538afec0",
+  "object": "beer",
+  "name": "Alpenglow Summer Ale",
+  "style": "English-Style Summer Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

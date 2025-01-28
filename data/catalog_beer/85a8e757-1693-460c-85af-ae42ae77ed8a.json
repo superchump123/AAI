@@ -1,0 +1,11 @@
+{
+  "id": "85a8e757-1693-460c-85af-ae42ae77ed8a",
+  "object": "beer",
+  "name": "Wolters Schwarzer Herzog",
+  "style": "German-Style Schwarzbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

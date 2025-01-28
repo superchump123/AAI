@@ -1,0 +1,11 @@
+{
+  "id": "dffea80c-9977-4fad-9bc9-1c19ee696469",
+  "object": "beer",
+  "name": "Lucky Cat",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

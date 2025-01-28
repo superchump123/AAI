@@ -1,0 +1,11 @@
+{
+  "id": "a2eaa247-4eb9-484c-9fde-5d78c6196ef6",
+  "object": "beer",
+  "name": "Mount Whitney Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

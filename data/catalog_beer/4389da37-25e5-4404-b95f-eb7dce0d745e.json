@@ -1,0 +1,11 @@
+{
+  "id": "4389da37-25e5-4404-b95f-eb7dce0d745e",
+  "object": "beer",
+  "name": "Pedal Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

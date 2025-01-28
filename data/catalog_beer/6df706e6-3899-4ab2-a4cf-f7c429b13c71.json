@@ -1,0 +1,11 @@
+{
+  "id": "6df706e6-3899-4ab2-a4cf-f7c429b13c71",
+  "object": "beer",
+  "name": "Paideia Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e8f12d94-7e8e-4f7c-96ec-be492f1df797",
+  "object": "beer",
+  "name": "Fat Badger Irish Style Ale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

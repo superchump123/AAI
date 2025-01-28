@@ -1,0 +1,11 @@
+{
+  "id": "70a78933-a34b-49a5-9008-c08f6303fc34",
+  "object": "beer",
+  "name": "Vanilla Viper Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 19,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

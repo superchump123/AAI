@@ -1,0 +1,11 @@
+{
+  "id": "b08dce7a-84c3-43d3-b7c2-9011f4de62db",
+  "object": "beer",
+  "name": "Bertha Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

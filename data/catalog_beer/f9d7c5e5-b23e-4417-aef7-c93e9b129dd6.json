@@ -1,0 +1,11 @@
+{
+  "id": "f9d7c5e5-b23e-4417-aef7-c93e9b129dd6",
+  "object": "beer",
+  "name": "Chaotic Chemistry",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.9,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b1d41d00-ab31-4d44-a070-b38f6b184149",
+  "object": "beer",
+  "name": "Wittershins",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

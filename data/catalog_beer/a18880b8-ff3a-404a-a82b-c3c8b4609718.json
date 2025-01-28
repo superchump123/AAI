@@ -1,0 +1,11 @@
+{
+  "id": "a18880b8-ff3a-404a-a82b-c3c8b4609718",
+  "object": "beer",
+  "name": "Bridezilla",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.5,
+  "ibu": 120,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

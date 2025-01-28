@@ -1,0 +1,11 @@
+{
+  "id": "faa8bab5-569c-4efa-b075-dd7b27bfc092",
+  "object": "beer",
+  "name": "Victoria's Gold",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 11,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "5ee7a813-986e-4378-9046-328380f42951",
+  "object": "beer",
+  "name": "La Morena",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

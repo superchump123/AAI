@@ -1,0 +1,11 @@
+{
+  "id": "f200f5d5-8bac-4079-ab00-8ee42065f66a",
+  "object": "beer",
+  "name": "POP!",
+  "style": "Baltic-Style Porter",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

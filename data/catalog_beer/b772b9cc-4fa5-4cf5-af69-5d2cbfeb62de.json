@@ -1,0 +1,11 @@
+{
+  "id": "b772b9cc-4fa5-4cf5-af69-5d2cbfeb62de",
+  "object": "beer",
+  "name": "Gregorius Trappistenbier",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

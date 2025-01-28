@@ -1,0 +1,11 @@
+{
+  "id": "05605ff6-52d2-47c5-bc69-ea36cec0128a",
+  "object": "beer",
+  "name": "Hulk SMASH",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

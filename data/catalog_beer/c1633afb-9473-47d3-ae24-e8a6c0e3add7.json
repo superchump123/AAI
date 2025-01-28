@@ -1,0 +1,11 @@
+{
+  "id": "c1633afb-9473-47d3-ae24-e8a6c0e3add7",
+  "object": "beer",
+  "name": "Grand Cru",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 10.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

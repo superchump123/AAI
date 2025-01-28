@@ -1,0 +1,11 @@
+{
+  "id": "8664caa3-9dd2-40a1-ab8b-53aa0dfaaeb1",
+  "object": "beer",
+  "name": "Axis Hefe",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

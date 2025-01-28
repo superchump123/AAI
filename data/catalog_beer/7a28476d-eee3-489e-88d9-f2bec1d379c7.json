@@ -1,0 +1,11 @@
+{
+  "id": "7a28476d-eee3-489e-88d9-f2bec1d379c7",
+  "object": "beer",
+  "name": "Enigma",
+  "style": "American-Style Sour Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

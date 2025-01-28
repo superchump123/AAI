@@ -1,0 +1,11 @@
+{
+  "id": "7e096ac6-9230-4fc3-af57-55297d79a55d",
+  "object": "beer",
+  "name": "ATX Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

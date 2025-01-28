@@ -1,0 +1,11 @@
+{
+  "id": "6c25a415-83f1-43dc-a566-72b75fa41022",
+  "object": "beer",
+  "name": "Skellington Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

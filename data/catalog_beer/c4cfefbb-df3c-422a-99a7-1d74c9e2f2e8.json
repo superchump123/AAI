@@ -1,0 +1,11 @@
+{
+  "id": "c4cfefbb-df3c-422a-99a7-1d74c9e2f2e8",
+  "object": "beer",
+  "name": "lil Brick",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

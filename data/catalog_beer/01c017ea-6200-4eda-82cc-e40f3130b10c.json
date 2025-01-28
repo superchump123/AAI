@@ -1,0 +1,11 @@
+{
+  "id": "01c017ea-6200-4eda-82cc-e40f3130b10c",
+  "object": "beer",
+  "name": "Un-Human Cannonball",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

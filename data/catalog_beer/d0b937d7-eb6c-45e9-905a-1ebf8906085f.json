@@ -1,0 +1,11 @@
+{
+  "id": "d0b937d7-eb6c-45e9-905a-1ebf8906085f",
+  "object": "beer",
+  "name": "Big Jamoke Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

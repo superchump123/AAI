@@ -1,0 +1,11 @@
+{
+  "id": "c0e1b334-dd6e-4bd6-8ed6-415aecfc2b3f",
+  "object": "beer",
+  "name": "Portly Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

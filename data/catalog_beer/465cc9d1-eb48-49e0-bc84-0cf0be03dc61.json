@@ -1,0 +1,11 @@
+{
+  "id": "465cc9d1-eb48-49e0-bc84-0cf0be03dc61",
+  "object": "beer",
+  "name": "Mission Dunkelweizen",
+  "style": "Dark American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

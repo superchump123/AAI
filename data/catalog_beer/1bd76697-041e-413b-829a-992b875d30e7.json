@@ -1,0 +1,11 @@
+{
+  "id": "1bd76697-041e-413b-829a-992b875d30e7",
+  "object": "beer",
+  "name": "Velvet Yeti",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

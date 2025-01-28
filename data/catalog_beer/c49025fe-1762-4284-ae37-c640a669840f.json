@@ -1,0 +1,11 @@
+{
+  "id": "c49025fe-1762-4284-ae37-c640a669840f",
+  "object": "beer",
+  "name": "Swing State",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

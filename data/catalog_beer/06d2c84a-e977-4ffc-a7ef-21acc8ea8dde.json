@@ -1,0 +1,11 @@
+{
+  "id": "06d2c84a-e977-4ffc-a7ef-21acc8ea8dde",
+  "object": "beer",
+  "name": "Chapeau Abricot Lambic",
+  "style": "Belgian-Style Fruit Lambic",
+  "description": null,
+  "abv": 3.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

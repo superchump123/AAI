@@ -1,0 +1,11 @@
+{
+  "id": "cda996fd-b9a8-4221-9f99-9fcefd0dd3e2",
+  "object": "beer",
+  "name": "Gnarly Barley",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

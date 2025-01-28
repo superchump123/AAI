@@ -1,0 +1,11 @@
+{
+  "id": "3592a6b7-e7ff-4ae3-b390-602b233c603f",
+  "object": "beer",
+  "name": "Exodus",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

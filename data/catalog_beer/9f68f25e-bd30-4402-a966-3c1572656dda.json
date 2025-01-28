@@ -1,0 +1,11 @@
+{
+  "id": "9f68f25e-bd30-4402-a966-3c1572656dda",
+  "object": "beer",
+  "name": "Leo Beer",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "960d53d0-8dd0-4dc5-9248-360ea500abb0",
+  "object": "beer",
+  "name": "Tamarack",
+  "style": "Belgian-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

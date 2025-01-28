@@ -1,0 +1,11 @@
+{
+  "id": "94f0c640-e286-4a66-a870-c28e9bcec577",
+  "object": "beer",
+  "name": "Sultana Quad",
+  "style": "Belgian-Style Quadrupel",
+  "description": null,
+  "abv": 10,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

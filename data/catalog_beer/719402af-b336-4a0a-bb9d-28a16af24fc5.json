@@ -1,0 +1,11 @@
+{
+  "id": "719402af-b336-4a0a-bb9d-28a16af24fc5",
+  "object": "beer",
+  "name": "Everything Is Broken",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

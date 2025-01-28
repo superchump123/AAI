@@ -1,0 +1,11 @@
+{
+  "id": "500888aa-6a7f-4071-894e-dae1835291ff",
+  "object": "beer",
+  "name": "Irish Pale",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 4.4,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

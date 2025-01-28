@@ -1,0 +1,11 @@
+{
+  "id": "742d96a1-4734-4cc7-8e48-7b833da5e04d",
+  "object": "beer",
+  "name": "Bourbon Street Dusseldorf Style Alt Bier",
+  "style": "German-Style Altbier",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

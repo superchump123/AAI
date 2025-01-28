@@ -1,0 +1,11 @@
+{
+  "id": "dd8f59a3-4291-4fd8-b507-519121d925cf",
+  "object": "beer",
+  "name": "Pennypacker Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

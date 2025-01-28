@@ -1,0 +1,11 @@
+{
+  "id": "09dc30f2-f550-4efc-83c8-32e8f5fb8546",
+  "object": "beer",
+  "name": "1st Noel",
+  "style": "Strong Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

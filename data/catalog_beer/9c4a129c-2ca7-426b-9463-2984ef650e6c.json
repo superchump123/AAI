@@ -1,0 +1,11 @@
+{
+  "id": "9c4a129c-2ca7-426b-9463-2984ef650e6c",
+  "object": "beer",
+  "name": "Pineapple Berliner Weisse",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8292b95b-7360-49ae-8387-a204df30671a",
+  "object": "beer",
+  "name": "Southbound Pachyderm",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

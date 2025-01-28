@@ -1,0 +1,11 @@
+{
+  "id": "a3ca8f30-1a49-4c24-b293-fde29d5bf2b5",
+  "object": "beer",
+  "name": "The Dude Imbibes",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

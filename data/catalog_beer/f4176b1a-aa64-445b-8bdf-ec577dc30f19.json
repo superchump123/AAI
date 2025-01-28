@@ -1,0 +1,11 @@
+{
+  "id": "f4176b1a-aa64-445b-8bdf-ec577dc30f19",
+  "object": "beer",
+  "name": "Palisade Popper",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

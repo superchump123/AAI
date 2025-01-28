@@ -1,0 +1,11 @@
+{
+  "id": "635df2d9-6b88-4abd-8af5-9aed256e30b4",
+  "object": "beer",
+  "name": "Blue Bell Bitter",
+  "style": "Special Bitter or Best Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

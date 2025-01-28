@@ -1,0 +1,11 @@
+{
+  "id": "a16fb6c9-8d8f-4d67-b263-61e6ea43c444",
+  "object": "beer",
+  "name": "Rob's Blonde",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 3.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

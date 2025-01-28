@@ -1,0 +1,11 @@
+{
+  "id": "91861aac-8ad8-4d3f-a034-4a9733dade0c",
+  "object": "beer",
+  "name": "Cucumber Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 21,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

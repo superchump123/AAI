@@ -1,0 +1,11 @@
+{
+  "id": "472852fb-40f6-420a-8904-358496897b8a",
+  "object": "beer",
+  "name": "Samuel Adams Scotch Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

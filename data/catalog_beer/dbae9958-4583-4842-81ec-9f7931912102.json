@@ -1,0 +1,11 @@
+{
+  "id": "dbae9958-4583-4842-81ec-9f7931912102",
+  "object": "beer",
+  "name": "Mosby's Raider",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 91,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

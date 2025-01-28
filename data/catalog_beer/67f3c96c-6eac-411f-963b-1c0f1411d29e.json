@@ -1,0 +1,11 @@
+{
+  "id": "67f3c96c-6eac-411f-963b-1c0f1411d29e",
+  "object": "beer",
+  "name": "Egmondse Tripel",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

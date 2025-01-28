@@ -1,0 +1,11 @@
+{
+  "id": "2de3e4a4-e1f4-4096-a17a-f0ca204102c6",
+  "object": "beer",
+  "name": "Richard's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

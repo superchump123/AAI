@@ -1,0 +1,11 @@
+{
+  "id": "bfb48142-774a-4c2a-bda6-53b9c39e1bae",
+  "object": "beer",
+  "name": "Killer Canyon Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

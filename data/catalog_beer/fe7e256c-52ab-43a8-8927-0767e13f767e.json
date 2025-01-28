@@ -1,0 +1,11 @@
+{
+  "id": "fe7e256c-52ab-43a8-8927-0767e13f767e",
+  "object": "beer",
+  "name": "Golden Pear",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

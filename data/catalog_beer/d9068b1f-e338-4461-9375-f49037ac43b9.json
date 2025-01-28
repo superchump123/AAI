@@ -1,0 +1,11 @@
+{
+  "id": "d9068b1f-e338-4461-9375-f49037ac43b9",
+  "object": "beer",
+  "name": "Batch #1",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 25,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

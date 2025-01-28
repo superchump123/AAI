@@ -1,0 +1,11 @@
+{
+  "id": "7f7e2bc1-e4bd-4578-b14d-16d3f0fc34c1",
+  "object": "beer",
+  "name": "Rexx",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 12,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c2ca9efd-47dc-4617-be70-4976ffe0b5c3",
+  "object": "beer",
+  "name": "Dynamite Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

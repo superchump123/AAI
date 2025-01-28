@@ -1,0 +1,11 @@
+{
+  "id": "4457fd76-8b5f-4bc7-8e99-185edf8040f2",
+  "object": "beer",
+  "name": "Citra Fest",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

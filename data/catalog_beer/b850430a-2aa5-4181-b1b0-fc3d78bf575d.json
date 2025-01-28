@@ -1,0 +1,11 @@
+{
+  "id": "b850430a-2aa5-4181-b1b0-fc3d78bf575d",
+  "object": "beer",
+  "name": "Early Harvest",
+  "style": "Light American Wheat Ale or Lager with Yeast",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

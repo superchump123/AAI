@@ -1,0 +1,11 @@
+{
+  "id": "dd91642f-2241-488b-a985-5c73eabdc1b8",
+  "object": "beer",
+  "name": "Braustolz Kappler Braumeister",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

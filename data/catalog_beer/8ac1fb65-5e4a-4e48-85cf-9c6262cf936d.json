@@ -1,0 +1,11 @@
+{
+  "id": "8ac1fb65-5e4a-4e48-85cf-9c6262cf936d",
+  "object": "beer",
+  "name": "HopSmack IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

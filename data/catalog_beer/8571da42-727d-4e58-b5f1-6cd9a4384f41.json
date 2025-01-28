@@ -1,0 +1,11 @@
+{
+  "id": "8571da42-727d-4e58-b5f1-6cd9a4384f41",
+  "object": "beer",
+  "name": "Power House Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": 17,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

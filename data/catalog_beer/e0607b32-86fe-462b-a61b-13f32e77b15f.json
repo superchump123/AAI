@@ -1,0 +1,11 @@
+{
+  "id": "e0607b32-86fe-462b-a61b-13f32e77b15f",
+  "object": "beer",
+  "name": "Estate Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 67,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

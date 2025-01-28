@@ -1,0 +1,11 @@
+{
+  "id": "7064301e-802f-4878-9d51-238ae25cb0c7",
+  "object": "beer",
+  "name": "Coors Banquet",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

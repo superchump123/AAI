@@ -1,0 +1,11 @@
+{
+  "id": "6f5cff42-d44c-4411-a909-9c22fc2c89d0",
+  "object": "beer",
+  "name": "Cool River K\u00f6lsch",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a76be31a-bf1a-47e6-9963-0cff15c8df91",
+  "object": "beer",
+  "name": "Budweiser Select",
+  "style": "American-Style Light (Low Calorie) Lager",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

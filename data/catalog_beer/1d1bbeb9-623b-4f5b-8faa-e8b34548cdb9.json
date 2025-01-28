@@ -1,0 +1,11 @@
+{
+  "id": "1d1bbeb9-623b-4f5b-8faa-e8b34548cdb9",
+  "object": "beer",
+  "name": "Great Pumpkin",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

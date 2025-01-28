@@ -1,0 +1,11 @@
+{
+  "id": "93d5dd44-44dd-495f-9f32-dfea9ddf75d2",
+  "object": "beer",
+  "name": "Blue Ridge Blonde",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

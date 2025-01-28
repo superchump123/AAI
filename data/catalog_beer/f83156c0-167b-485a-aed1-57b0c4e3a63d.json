@@ -1,0 +1,11 @@
+{
+  "id": "f83156c0-167b-485a-aed1-57b0c4e3a63d",
+  "object": "beer",
+  "name": "Vacuum Transport",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 71,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

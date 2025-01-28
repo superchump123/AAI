@@ -1,0 +1,11 @@
+{
+  "id": "47dd5c3f-6082-48a2-ad7d-528ed48869cb",
+  "object": "beer",
+  "name": "White Impala",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

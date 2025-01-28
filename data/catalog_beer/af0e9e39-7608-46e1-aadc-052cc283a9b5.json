@@ -1,0 +1,11 @@
+{
+  "id": "af0e9e39-7608-46e1-aadc-052cc283a9b5",
+  "object": "beer",
+  "name": "Holly Beach Pumpkin Ale",
+  "style": "Pumpkin Beer",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

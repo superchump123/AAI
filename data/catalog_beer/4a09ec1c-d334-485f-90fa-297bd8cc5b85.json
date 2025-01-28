@@ -1,0 +1,11 @@
+{
+  "id": "4a09ec1c-d334-485f-90fa-297bd8cc5b85",
+  "object": "beer",
+  "name": "Cutter Imperial IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

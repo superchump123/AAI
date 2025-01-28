@@ -1,0 +1,11 @@
+{
+  "id": "e0067983-0a2d-415d-b703-10656d655295",
+  "object": "beer",
+  "name": "The GourdFather",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 11.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

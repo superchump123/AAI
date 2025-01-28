@@ -1,0 +1,11 @@
+{
+  "id": "88b05eed-8705-406f-aa1b-6dd8d4369cad",
+  "object": "beer",
+  "name": "Workhorse",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d7ce0626-2639-4eee-ab17-9b0f1e13776a",
+  "object": "beer",
+  "name": "Cabin Fever",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

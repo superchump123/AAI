@@ -1,0 +1,11 @@
+{
+  "id": "d1c19f84-3733-4248-9b75-71824a5a4710",
+  "object": "beer",
+  "name": "Oscuro",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 9.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

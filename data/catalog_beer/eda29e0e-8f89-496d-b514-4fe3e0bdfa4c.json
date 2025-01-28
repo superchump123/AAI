@@ -1,0 +1,11 @@
+{
+  "id": "eda29e0e-8f89-496d-b514-4fe3e0bdfa4c",
+  "object": "beer",
+  "name": "Handline",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 5,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

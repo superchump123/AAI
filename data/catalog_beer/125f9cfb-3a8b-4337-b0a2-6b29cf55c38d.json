@@ -1,0 +1,11 @@
+{
+  "id": "125f9cfb-3a8b-4337-b0a2-6b29cf55c38d",
+  "object": "beer",
+  "name": "Bourbon Barrel Aged IPA",
+  "style": "Wood- and Barrel-Aged Beer",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 118,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

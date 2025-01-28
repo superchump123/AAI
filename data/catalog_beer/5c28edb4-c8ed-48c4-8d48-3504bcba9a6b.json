@@ -1,0 +1,11 @@
+{
+  "id": "5c28edb4-c8ed-48c4-8d48-3504bcba9a6b",
+  "object": "beer",
+  "name": "T-Bird",
+  "style": "Fresh \"Wet\" Hop Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

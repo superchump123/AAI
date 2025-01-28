@@ -1,0 +1,11 @@
+{
+  "id": "01c8fd3e-e0e0-44d4-9cc4-80e4514ef0ce",
+  "object": "beer",
+  "name": "Emergency Hop Kit",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

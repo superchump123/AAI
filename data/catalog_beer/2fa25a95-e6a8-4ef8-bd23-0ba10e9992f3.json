@@ -1,0 +1,11 @@
+{
+  "id": "2fa25a95-e6a8-4ef8-bd23-0ba10e9992f3",
+  "object": "beer",
+  "name": "Silk Road",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.9,
+  "ibu": 58,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

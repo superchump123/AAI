@@ -1,0 +1,11 @@
+{
+  "id": "f6724060-db8f-46b9-9d1a-a385a0932377",
+  "object": "beer",
+  "name": "Grateful Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

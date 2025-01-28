@@ -1,0 +1,11 @@
+{
+  "id": "f78d4709-bddb-4cf4-a2c3-726eb8eec9bf",
+  "object": "beer",
+  "name": "Harwood Myth",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 28,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

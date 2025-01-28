@@ -1,0 +1,11 @@
+{
+  "id": "c2b186a2-e07d-4366-8ac7-e1b74b201f38",
+  "object": "beer",
+  "name": "Red Tag Ale",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

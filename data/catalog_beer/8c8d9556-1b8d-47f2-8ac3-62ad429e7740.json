@@ -1,0 +1,11 @@
+{
+  "id": "8c8d9556-1b8d-47f2-8ac3-62ad429e7740",
+  "object": "beer",
+  "name": "Cheeky",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

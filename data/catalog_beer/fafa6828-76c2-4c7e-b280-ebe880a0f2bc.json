@@ -1,0 +1,11 @@
+{
+  "id": "fafa6828-76c2-4c7e-b280-ebe880a0f2bc",
+  "object": "beer",
+  "name": "Mosaic Session Ale",
+  "style": "Session India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

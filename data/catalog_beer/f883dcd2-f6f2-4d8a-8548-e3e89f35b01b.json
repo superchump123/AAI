@@ -1,0 +1,11 @@
+{
+  "id": "f883dcd2-f6f2-4d8a-8548-e3e89f35b01b",
+  "object": "beer",
+  "name": "Heal the Bay IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

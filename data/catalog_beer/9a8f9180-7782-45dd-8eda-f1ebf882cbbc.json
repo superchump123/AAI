@@ -1,0 +1,11 @@
+{
+  "id": "9a8f9180-7782-45dd-8eda-f1ebf882cbbc",
+  "object": "beer",
+  "name": "Bulldog Pale Ale",
+  "style": "Australian-Style Pale Ale",
+  "description": null,
+  "abv": 4.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

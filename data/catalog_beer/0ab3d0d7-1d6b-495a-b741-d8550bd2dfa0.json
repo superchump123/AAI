@@ -1,0 +1,11 @@
+{
+  "id": "0ab3d0d7-1d6b-495a-b741-d8550bd2dfa0",
+  "object": "beer",
+  "name": "Charkoota Rye",
+  "style": "German-Style Doppelbock",
+  "description": null,
+  "abv": 8.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

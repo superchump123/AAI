@@ -1,0 +1,11 @@
+{
+  "id": "303d9500-2ed7-44a4-bcf4-7235c10f5810",
+  "object": "beer",
+  "name": "The Curl",
+  "style": "American-Style Pilsener",
+  "description": null,
+  "abv": 7,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

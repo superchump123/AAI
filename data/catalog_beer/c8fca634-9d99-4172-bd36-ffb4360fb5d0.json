@@ -1,0 +1,11 @@
+{
+  "id": "c8fca634-9d99-4172-bd36-ffb4360fb5d0",
+  "object": "beer",
+  "name": "RuinTen IPA",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 110,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ea1ac8ab-f5fe-4ec0-9cc4-9770f7aa4593",
+  "object": "beer",
+  "name": "Bitter Soul",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

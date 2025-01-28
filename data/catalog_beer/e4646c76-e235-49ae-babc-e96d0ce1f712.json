@@ -1,0 +1,11 @@
+{
+  "id": "e4646c76-e235-49ae-babc-e96d0ce1f712",
+  "object": "beer",
+  "name": "Idle Playthings",
+  "style": "Belgian-Style Pale Strong Ale",
+  "description": null,
+  "abv": 7.7,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

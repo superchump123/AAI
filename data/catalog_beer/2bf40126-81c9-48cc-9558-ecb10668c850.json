@@ -1,0 +1,11 @@
+{
+  "id": "2bf40126-81c9-48cc-9558-ecb10668c850",
+  "object": "beer",
+  "name": "Brown I Girl",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

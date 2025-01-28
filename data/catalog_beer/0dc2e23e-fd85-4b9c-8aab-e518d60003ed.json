@@ -1,0 +1,11 @@
+{
+  "id": "0dc2e23e-fd85-4b9c-8aab-e518d60003ed",
+  "object": "beer",
+  "name": "L'Exploite",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

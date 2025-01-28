@@ -1,0 +1,11 @@
+{
+  "id": "81677f15-a8a2-4b0e-8090-91422a7338de",
+  "object": "beer",
+  "name": "Eilmer",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

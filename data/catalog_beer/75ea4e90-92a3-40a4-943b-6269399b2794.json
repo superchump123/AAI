@@ -1,0 +1,11 @@
+{
+  "id": "75ea4e90-92a3-40a4-943b-6269399b2794",
+  "object": "beer",
+  "name": "Saint Arnold Oktoberfest",
+  "style": "German-Style M\u00e4rzen",
+  "description": null,
+  "abv": 6,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

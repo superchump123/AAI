@@ -1,0 +1,11 @@
+{
+  "id": "b53fd627-f863-4bb3-8a61-317a000110cf",
+  "object": "beer",
+  "name": "Deception",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

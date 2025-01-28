@@ -1,0 +1,11 @@
+{
+  "id": "06224ebc-04e0-487c-92ce-83e816db12c3",
+  "object": "beer",
+  "name": "Hop & Oats Pale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 41,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

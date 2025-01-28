@@ -1,0 +1,11 @@
+{
+  "id": "496da7f9-0c6c-4bcc-9e89-80f9b8702639",
+  "object": "beer",
+  "name": "LILA",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b9d33b84-ac6d-40a7-9ca1-4963deee3fd2",
+  "object": "beer",
+  "name": "Splurge",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 69,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

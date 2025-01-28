@@ -1,0 +1,11 @@
+{
+  "id": "4c42aa28-4407-485c-ab8f-7506b9169b4f",
+  "object": "beer",
+  "name": "Minnesota Special Bitter",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 47,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

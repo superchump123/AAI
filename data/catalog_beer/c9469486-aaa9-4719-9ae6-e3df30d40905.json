@@ -1,0 +1,11 @@
+{
+  "id": "c9469486-aaa9-4719-9ae6-e3df30d40905",
+  "object": "beer",
+  "name": "Red Setter Retriever",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

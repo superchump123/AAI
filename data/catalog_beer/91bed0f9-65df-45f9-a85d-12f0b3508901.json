@@ -1,0 +1,11 @@
+{
+  "id": "91bed0f9-65df-45f9-a85d-12f0b3508901",
+  "object": "beer",
+  "name": "Reunification Berlinner Weisse",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 12,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

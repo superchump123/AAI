@@ -1,0 +1,11 @@
+{
+  "id": "28d6d6ef-0ec5-417f-9c6d-f519ec1995ce",
+  "object": "beer",
+  "name": "Casper The Friendly Gose",
+  "style": "Leipzig-Style Gose",
+  "description": null,
+  "abv": 5,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

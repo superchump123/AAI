@@ -1,0 +1,11 @@
+{
+  "id": "b0099bd2-24fe-4913-b600-b51bccd454f6",
+  "object": "beer",
+  "name": "Lasso",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

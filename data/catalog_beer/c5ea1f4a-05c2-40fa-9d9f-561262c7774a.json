@@ -1,0 +1,11 @@
+{
+  "id": "c5ea1f4a-05c2-40fa-9d9f-561262c7774a",
+  "object": "beer",
+  "name": "Laser Raptor",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

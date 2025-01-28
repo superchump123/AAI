@@ -1,0 +1,11 @@
+{
+  "id": "45c7ee54-d06e-481a-ba69-d40deb995d86",
+  "object": "beer",
+  "name": "Canoe Country",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

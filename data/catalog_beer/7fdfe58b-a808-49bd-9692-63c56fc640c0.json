@@ -1,0 +1,11 @@
+{
+  "id": "7fdfe58b-a808-49bd-9692-63c56fc640c0",
+  "object": "beer",
+  "name": "Heroes Never Die",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 44,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

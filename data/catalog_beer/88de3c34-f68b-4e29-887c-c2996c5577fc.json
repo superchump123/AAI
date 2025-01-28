@@ -1,0 +1,11 @@
+{
+  "id": "88de3c34-f68b-4e29-887c-c2996c5577fc",
+  "object": "beer",
+  "name": "Surette",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

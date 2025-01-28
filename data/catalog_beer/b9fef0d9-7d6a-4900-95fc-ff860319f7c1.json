@@ -1,0 +1,11 @@
+{
+  "id": "b9fef0d9-7d6a-4900-95fc-ff860319f7c1",
+  "object": "beer",
+  "name": "The JJ Express",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

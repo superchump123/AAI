@@ -1,0 +1,11 @@
+{
+  "id": "6013f41a-4d7d-4600-aa75-8b4f9b24f397",
+  "object": "beer",
+  "name": "Imperial Dominance",
+  "style": "American-Style Imperial Stout",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

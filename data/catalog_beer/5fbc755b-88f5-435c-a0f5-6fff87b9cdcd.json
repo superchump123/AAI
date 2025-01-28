@@ -1,0 +1,11 @@
+{
+  "id": "5fbc755b-88f5-435c-a0f5-6fff87b9cdcd",
+  "object": "beer",
+  "name": "Equinox",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 8.4,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

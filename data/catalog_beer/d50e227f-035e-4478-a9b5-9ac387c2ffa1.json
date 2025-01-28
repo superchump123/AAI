@@ -1,0 +1,11 @@
+{
+  "id": "d50e227f-035e-4478-a9b5-9ac387c2ffa1",
+  "object": "beer",
+  "name": "Step Papa Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 29,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

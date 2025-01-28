@@ -1,0 +1,11 @@
+{
+  "id": "b7630c86-c0ad-4151-bb3d-6e4298d2d038",
+  "object": "beer",
+  "name": "Beetlejuice! Beetlejuice! Beetlejuice!",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

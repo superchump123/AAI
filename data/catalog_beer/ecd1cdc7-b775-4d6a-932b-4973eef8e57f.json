@@ -1,0 +1,11 @@
+{
+  "id": "ecd1cdc7-b775-4d6a-932b-4973eef8e57f",
+  "object": "beer",
+  "name": "Gordyjskie",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

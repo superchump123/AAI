@@ -1,0 +1,11 @@
+{
+  "id": "1729ec5c-0d23-4164-97b9-57dea767a3bd",
+  "object": "beer",
+  "name": "White Friar",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

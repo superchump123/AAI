@@ -1,0 +1,11 @@
+{
+  "id": "1e32530e-47e6-4d9e-9764-0d269af7a46e",
+  "object": "beer",
+  "name": "Saison du BUFF",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

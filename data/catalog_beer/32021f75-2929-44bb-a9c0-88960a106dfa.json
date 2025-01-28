@@ -1,0 +1,11 @@
+{
+  "id": "32021f75-2929-44bb-a9c0-88960a106dfa",
+  "object": "beer",
+  "name": "New Dogtown Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

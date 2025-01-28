@@ -1,0 +1,11 @@
+{
+  "id": "5845b1ed-16a7-4f94-9e7f-b187063e2554",
+  "object": "beer",
+  "name": "Slippery Rock IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 7.1,
+  "ibu": 45,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

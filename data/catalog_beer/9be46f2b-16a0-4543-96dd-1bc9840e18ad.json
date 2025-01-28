@@ -1,0 +1,11 @@
+{
+  "id": "9be46f2b-16a0-4543-96dd-1bc9840e18ad",
+  "object": "beer",
+  "name": "Barmen Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

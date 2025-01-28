@@ -1,0 +1,11 @@
+{
+  "id": "81119236-b582-4aa6-9f31-f0a8ccecb448",
+  "object": "beer",
+  "name": "Experimental Cassis",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

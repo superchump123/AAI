@@ -1,0 +1,11 @@
+{
+  "id": "ab980229-d937-4b84-86fb-75d4a00023e4",
+  "object": "beer",
+  "name": "Sojourn",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 5.7,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

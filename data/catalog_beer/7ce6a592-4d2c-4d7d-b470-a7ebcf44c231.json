@@ -1,0 +1,11 @@
+{
+  "id": "7ce6a592-4d2c-4d7d-b470-a7ebcf44c231",
+  "object": "beer",
+  "name": "Hermann's Dark Lager",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

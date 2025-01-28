@@ -1,0 +1,11 @@
+{
+  "id": "31bc2dd3-58cd-4db3-bab4-d207e4abdac3",
+  "object": "beer",
+  "name": "Grey Lady Ale",
+  "style": "Belgian-Style White (or Wit) / Belgian-Style Wheat",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

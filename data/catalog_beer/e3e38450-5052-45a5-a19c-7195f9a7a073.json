@@ -1,0 +1,11 @@
+{
+  "id": "e3e38450-5052-45a5-a19c-7195f9a7a073",
+  "object": "beer",
+  "name": "Bellows",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

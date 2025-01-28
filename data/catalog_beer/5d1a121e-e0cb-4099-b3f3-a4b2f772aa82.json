@@ -1,0 +1,11 @@
+{
+  "id": "5d1a121e-e0cb-4099-b3f3-a4b2f772aa82",
+  "object": "beer",
+  "name": "Tiny House",
+  "style": "Wild Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

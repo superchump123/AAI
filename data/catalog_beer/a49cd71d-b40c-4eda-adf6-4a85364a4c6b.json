@@ -1,0 +1,11 @@
+{
+  "id": "a49cd71d-b40c-4eda-adf6-4a85364a4c6b",
+  "object": "beer",
+  "name": "Barking Dog Brown",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

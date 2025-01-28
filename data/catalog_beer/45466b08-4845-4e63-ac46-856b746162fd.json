@@ -1,0 +1,11 @@
+{
+  "id": "45466b08-4845-4e63-ac46-856b746162fd",
+  "object": "beer",
+  "name": "Blood Orange Radler",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 5,
+  "ibu": 10,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

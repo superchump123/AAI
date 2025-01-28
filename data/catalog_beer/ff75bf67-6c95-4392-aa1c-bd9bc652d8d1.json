@@ -1,0 +1,11 @@
+{
+  "id": "ff75bf67-6c95-4392-aa1c-bd9bc652d8d1",
+  "object": "beer",
+  "name": "LB 4 LB",
+  "style": "New England Pale Ale",
+  "description": "Collaboration with Long Beach Beer Lab and Laguna Beach Beer Company.",
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": true,
+  "last_modified": 1588448205
+}

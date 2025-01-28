@@ -1,0 +1,11 @@
+{
+  "id": "6362f543-41fa-4e5d-8587-0df944dd53a2",
+  "object": "beer",
+  "name": "Spicy Brown Ale",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

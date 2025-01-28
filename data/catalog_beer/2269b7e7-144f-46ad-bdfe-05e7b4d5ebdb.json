@@ -1,0 +1,11 @@
+{
+  "id": "2269b7e7-144f-46ad-bdfe-05e7b4d5ebdb",
+  "object": "beer",
+  "name": "Atholl Brose",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8.9,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

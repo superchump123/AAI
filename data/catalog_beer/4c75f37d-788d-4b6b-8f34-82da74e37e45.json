@@ -1,0 +1,11 @@
+{
+  "id": "4c75f37d-788d-4b6b-8f34-82da74e37e45",
+  "object": "beer",
+  "name": "Palate Fatigue",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 136,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

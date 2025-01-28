@@ -1,0 +1,11 @@
+{
+  "id": "60445b88-a99a-4ce9-bf43-a6e7ec86b8ff",
+  "object": "beer",
+  "name": "Boulder Garden",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 24,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

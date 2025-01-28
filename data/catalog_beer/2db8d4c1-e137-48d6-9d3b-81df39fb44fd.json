@@ -1,0 +1,11 @@
+{
+  "id": "2db8d4c1-e137-48d6-9d3b-81df39fb44fd",
+  "object": "beer",
+  "name": "Make America Hoppy Again",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

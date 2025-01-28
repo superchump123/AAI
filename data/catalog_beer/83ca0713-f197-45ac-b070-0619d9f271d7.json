@@ -1,0 +1,11 @@
+{
+  "id": "83ca0713-f197-45ac-b070-0619d9f271d7",
+  "object": "beer",
+  "name": "Angry Pete's Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

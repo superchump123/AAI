@@ -1,0 +1,11 @@
+{
+  "id": "aa819acc-1769-4776-b2a5-44c6d2bc1bdd",
+  "object": "beer",
+  "name": "Efes Pilsen",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

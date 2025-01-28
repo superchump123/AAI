@@ -1,0 +1,11 @@
+{
+  "id": "ee19b4c9-5bcb-4792-802f-54a1b8885720",
+  "object": "beer",
+  "name": "Philsamic",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b7bd5d9d-b231-452f-a76f-fe8fbcb14a72",
+  "object": "beer",
+  "name": "King of the Yahd",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9e615fd0-af9a-4ce0-9bcb-306c63d1511e",
+  "object": "beer",
+  "name": "Blimey India Pale Ale",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 68,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

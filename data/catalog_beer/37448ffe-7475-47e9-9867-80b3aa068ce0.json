@@ -1,0 +1,11 @@
+{
+  "id": "37448ffe-7475-47e9-9867-80b3aa068ce0",
+  "object": "beer",
+  "name": "Hunny Do",
+  "style": "Light American Wheat Ale or Lager without Yeast",
+  "description": null,
+  "abv": 4.8,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "c6ceee2f-8c8e-4a45-b58d-b6fd469fb719",
+  "object": "beer",
+  "name": "CucumBerliner",
+  "style": "Berliner-Style Weisse (Wheat)",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

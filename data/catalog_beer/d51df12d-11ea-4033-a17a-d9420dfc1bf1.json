@@ -1,0 +1,11 @@
+{
+  "id": "d51df12d-11ea-4033-a17a-d9420dfc1bf1",
+  "object": "beer",
+  "name": "Elbow Lager",
+  "style": "Vienna-Style Lager",
+  "description": null,
+  "abv": 4.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

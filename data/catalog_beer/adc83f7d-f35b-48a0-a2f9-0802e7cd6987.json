@@ -1,0 +1,11 @@
+{
+  "id": "adc83f7d-f35b-48a0-a2f9-0802e7cd6987",
+  "object": "beer",
+  "name": "Itasca Light",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 3.9,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

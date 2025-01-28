@@ -1,0 +1,11 @@
+{
+  "id": "206bc766-b939-4843-9364-c4809bbb31bb",
+  "object": "beer",
+  "name": "Rip Saw Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "f8c438b6-9ce0-49b5-b3a3-8bcbf5ab6244",
+  "object": "beer",
+  "name": "Deuces Wild",
+  "style": "Extra Special Bitter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 48,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

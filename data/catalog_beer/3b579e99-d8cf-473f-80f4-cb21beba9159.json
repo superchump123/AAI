@@ -1,0 +1,11 @@
+{
+  "id": "3b579e99-d8cf-473f-80f4-cb21beba9159",
+  "object": "beer",
+  "name": "Good Question",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

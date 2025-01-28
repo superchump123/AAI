@@ -1,0 +1,11 @@
+{
+  "id": "7bd20adf-7e00-4b43-af7f-bd96411b5069",
+  "object": "beer",
+  "name": "Wheat Wine",
+  "style": "American-Style Wheat Wine Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

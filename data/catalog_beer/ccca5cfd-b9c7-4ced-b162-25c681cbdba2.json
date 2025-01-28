@@ -1,0 +1,11 @@
+{
+  "id": "ccca5cfd-b9c7-4ced-b162-25c681cbdba2",
+  "object": "beer",
+  "name": "Freemason Golden Ale",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.3,
+  "ibu": 13,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

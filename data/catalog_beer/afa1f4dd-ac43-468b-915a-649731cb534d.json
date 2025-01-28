@@ -1,0 +1,11 @@
+{
+  "id": "afa1f4dd-ac43-468b-915a-649731cb534d",
+  "object": "beer",
+  "name": "Wild Cherry Stout",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 4,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

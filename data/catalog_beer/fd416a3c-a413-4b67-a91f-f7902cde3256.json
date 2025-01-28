@@ -1,0 +1,11 @@
+{
+  "id": "fd416a3c-a413-4b67-a91f-f7902cde3256",
+  "object": "beer",
+  "name": "Be Hoppiest",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.8,
+  "ibu": 108,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

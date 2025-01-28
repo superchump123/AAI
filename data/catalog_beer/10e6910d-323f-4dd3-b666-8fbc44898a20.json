@@ -1,0 +1,11 @@
+{
+  "id": "10e6910d-323f-4dd3-b666-8fbc44898a20",
+  "object": "beer",
+  "name": "Nefarious Ten Pin",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 8,
+  "ibu": 60,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

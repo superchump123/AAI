@@ -1,0 +1,11 @@
+{
+  "id": "6d47a611-19e1-4296-bc0b-8d291a956e4d",
+  "object": "beer",
+  "name": "Mocha Machine",
+  "style": "Coffee-Flavored Beer",
+  "description": null,
+  "abv": 9.2,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

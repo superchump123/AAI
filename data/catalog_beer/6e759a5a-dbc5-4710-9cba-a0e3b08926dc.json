@@ -1,0 +1,11 @@
+{
+  "id": "6e759a5a-dbc5-4710-9cba-a0e3b08926dc",
+  "object": "beer",
+  "name": "Oatmeal Yeti",
+  "style": "Oatmeal Stout",
+  "description": null,
+  "abv": 9.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

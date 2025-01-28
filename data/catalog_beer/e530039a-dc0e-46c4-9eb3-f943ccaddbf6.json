@@ -1,0 +1,11 @@
+{
+  "id": "e530039a-dc0e-46c4-9eb3-f943ccaddbf6",
+  "object": "beer",
+  "name": "Beastie Tea",
+  "style": "Other Specialty Cider or Perry",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

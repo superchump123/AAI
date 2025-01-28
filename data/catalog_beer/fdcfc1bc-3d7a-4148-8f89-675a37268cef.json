@@ -1,0 +1,11 @@
+{
+  "id": "fdcfc1bc-3d7a-4148-8f89-675a37268cef",
+  "object": "beer",
+  "name": "Odeprot",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.2,
+  "ibu": 80,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

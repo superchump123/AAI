@@ -1,0 +1,11 @@
+{
+  "id": "680d586f-ab29-4cd7-8a7e-c2e4a3a4ee9e",
+  "object": "beer",
+  "name": "Rydaho Rye Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

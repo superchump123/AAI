@@ -1,0 +1,11 @@
+{
+  "id": "883bc453-6cf6-4cc9-8d57-294955dbb183",
+  "object": "beer",
+  "name": "Leviathan Triticus",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 11.5,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

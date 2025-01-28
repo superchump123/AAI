@@ -1,0 +1,11 @@
+{
+  "id": "24a0d56e-18c4-45fb-a56d-165ae1e550d0",
+  "object": "beer",
+  "name": "Patty's Irish Cream Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.6,
+  "ibu": 16,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

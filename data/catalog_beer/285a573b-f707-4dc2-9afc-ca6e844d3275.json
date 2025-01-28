@@ -1,0 +1,11 @@
+{
+  "id": "285a573b-f707-4dc2-9afc-ca6e844d3275",
+  "object": "beer",
+  "name": "Kroovy",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "b0e2630c-63d4-4908-b1f3-d26039741a6a",
+  "object": "beer",
+  "name": "Real Heavy",
+  "style": "Scottish-Style Heavy Ale",
+  "description": null,
+  "abv": 9.3,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

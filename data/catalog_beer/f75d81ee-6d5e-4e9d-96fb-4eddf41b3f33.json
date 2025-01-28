@@ -1,0 +1,11 @@
+{
+  "id": "f75d81ee-6d5e-4e9d-96fb-4eddf41b3f33",
+  "object": "beer",
+  "name": "King Valas Blueberry Lager",
+  "style": "Fruit Beer",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

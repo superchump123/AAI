@@ -1,0 +1,11 @@
+{
+  "id": "86160dc1-d188-426d-b29d-59c6b7b13753",
+  "object": "beer",
+  "name": "Born Again Brown",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 32,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

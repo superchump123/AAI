@@ -1,0 +1,11 @@
+{
+  "id": "a996c666-00f7-4f40-a7c7-69e7702b6923",
+  "object": "beer",
+  "name": "Gin Bunny",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 65,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

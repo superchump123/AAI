@@ -1,0 +1,11 @@
+{
+  "id": "08970353-3a80-444b-be68-c55e9e1b3bac",
+  "object": "beer",
+  "name": "Hamish the Red",
+  "style": "Imperial Red Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 107,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

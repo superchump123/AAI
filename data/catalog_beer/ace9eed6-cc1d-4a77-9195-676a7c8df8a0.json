@@ -1,0 +1,11 @@
+{
+  "id": "ace9eed6-cc1d-4a77-9195-676a7c8df8a0",
+  "object": "beer",
+  "name": "Chai Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 8.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2506cad5-f6e9-430d-8d21-444726699a29",
+  "object": "beer",
+  "name": "Ajax Pilsner",
+  "style": "Bohemian-Style Pilsener",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

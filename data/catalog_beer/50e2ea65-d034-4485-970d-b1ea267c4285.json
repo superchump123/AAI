@@ -1,0 +1,11 @@
+{
+  "id": "50e2ea65-d034-4485-970d-b1ea267c4285",
+  "object": "beer",
+  "name": "Groundswell",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

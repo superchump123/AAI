@@ -1,0 +1,11 @@
+{
+  "id": "89cbced4-ff00-43db-81eb-f06cf08f8f96",
+  "object": "beer",
+  "name": "Rarity",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "86deae54-212c-4df8-be56-0db719c25d39",
+  "object": "beer",
+  "name": "Oat Sower",
+  "style": "American-Style Imperial Porter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

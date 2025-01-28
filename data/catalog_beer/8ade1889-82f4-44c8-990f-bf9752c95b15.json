@@ -1,0 +1,11 @@
+{
+  "id": "8ade1889-82f4-44c8-990f-bf9752c95b15",
+  "object": "beer",
+  "name": "5 Barrel Pale Ale",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

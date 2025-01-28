@@ -1,0 +1,11 @@
+{
+  "id": "52c73001-f32b-495d-9a60-f83dffc73c27",
+  "object": "beer",
+  "name": "Maple Nipple Ale",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

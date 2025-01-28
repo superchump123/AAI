@@ -1,0 +1,11 @@
+{
+  "id": "ee5ded83-1f07-4df1-be24-882dbe9fca70",
+  "object": "beer",
+  "name": "Oak Aged Oatmeal Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

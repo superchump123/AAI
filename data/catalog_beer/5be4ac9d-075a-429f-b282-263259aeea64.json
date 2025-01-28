@@ -1,0 +1,11 @@
+{
+  "id": "5be4ac9d-075a-429f-b282-263259aeea64",
+  "object": "beer",
+  "name": "Kick Axe",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

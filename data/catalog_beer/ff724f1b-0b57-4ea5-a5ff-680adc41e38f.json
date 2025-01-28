@@ -1,0 +1,11 @@
+{
+  "id": "ff724f1b-0b57-4ea5-a5ff-680adc41e38f",
+  "object": "beer",
+  "name": "Double Take IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": 70,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "daec1dea-c284-4a04-be76-44f7b89f48e8",
+  "object": "beer",
+  "name": "Export Stout",
+  "style": "Foreign (Export)-Style Stout",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

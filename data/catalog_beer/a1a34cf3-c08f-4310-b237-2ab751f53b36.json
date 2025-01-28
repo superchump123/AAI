@@ -1,0 +1,11 @@
+{
+  "id": "a1a34cf3-c08f-4310-b237-2ab751f53b36",
+  "object": "beer",
+  "name": "Smurfette",
+  "style": "Belgian-Style Table Beer",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

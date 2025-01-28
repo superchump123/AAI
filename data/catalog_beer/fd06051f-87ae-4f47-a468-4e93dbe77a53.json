@@ -1,0 +1,11 @@
+{
+  "id": "fd06051f-87ae-4f47-a468-4e93dbe77a53",
+  "object": "beer",
+  "name": "Belgian Chocolate Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

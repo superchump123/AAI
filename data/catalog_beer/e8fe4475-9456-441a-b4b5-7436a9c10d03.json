@@ -1,0 +1,11 @@
+{
+  "id": "e8fe4475-9456-441a-b4b5-7436a9c10d03",
+  "object": "beer",
+  "name": "Rye Ale",
+  "style": "Rye Ale or Lager with or without Yeast",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

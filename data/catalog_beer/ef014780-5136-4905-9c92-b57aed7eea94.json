@@ -1,0 +1,11 @@
+{
+  "id": "ef014780-5136-4905-9c92-b57aed7eea94",
+  "object": "beer",
+  "name": "Paddy McClouds Irish Stout",
+  "style": "Classic Irish-Style Dry Stout",
+  "description": null,
+  "abv": 3.8,
+  "ibu": 42,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

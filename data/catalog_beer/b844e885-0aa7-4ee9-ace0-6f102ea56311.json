@@ -1,0 +1,11 @@
+{
+  "id": "b844e885-0aa7-4ee9-ace0-6f102ea56311",
+  "object": "beer",
+  "name": "Bean Smith",
+  "style": "English-Style Dark Mild Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

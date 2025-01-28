@@ -1,0 +1,11 @@
+{
+  "id": "e301ace0-8d10-46cf-a9cb-b7e1e086a85a",
+  "object": "beer",
+  "name": "Black Cat Porter",
+  "style": "Robust Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

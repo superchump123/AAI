@@ -1,0 +1,11 @@
+{
+  "id": "bf239694-25ef-477c-98d1-9c46e8c38f6f",
+  "object": "beer",
+  "name": "Head Trip",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 33,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

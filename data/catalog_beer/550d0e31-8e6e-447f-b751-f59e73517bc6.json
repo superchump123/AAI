@@ -1,0 +1,11 @@
+{
+  "id": "550d0e31-8e6e-447f-b751-f59e73517bc6",
+  "object": "beer",
+  "name": "Formidable",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

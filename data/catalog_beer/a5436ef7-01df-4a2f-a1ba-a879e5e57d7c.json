@@ -1,0 +1,11 @@
+{
+  "id": "a5436ef7-01df-4a2f-a1ba-a879e5e57d7c",
+  "object": "beer",
+  "name": "Hatton Ferry",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

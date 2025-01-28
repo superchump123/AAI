@@ -1,0 +1,11 @@
+{
+  "id": "050bda5c-1d4f-443a-82c4-e3f25aaa8d55",
+  "object": "beer",
+  "name": "Old Thumper",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

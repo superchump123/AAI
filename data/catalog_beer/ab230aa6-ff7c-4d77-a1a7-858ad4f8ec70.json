@@ -1,0 +1,11 @@
+{
+  "id": "ab230aa6-ff7c-4d77-a1a7-858ad4f8ec70",
+  "object": "beer",
+  "name": "Lost Gold",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 62,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

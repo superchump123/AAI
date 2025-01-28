@@ -1,0 +1,11 @@
+{
+  "id": "234a03c4-4965-420c-9dbb-336b75b66bea",
+  "object": "beer",
+  "name": "Cambrinus",
+  "style": "Belgian-Style Blonde Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

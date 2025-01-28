@@ -1,0 +1,11 @@
+{
+  "id": "ebf9b565-e8a7-4872-8f5c-9e2aa6b3885d",
+  "object": "beer",
+  "name": "Perronelle's Blush",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

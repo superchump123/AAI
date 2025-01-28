@@ -1,0 +1,11 @@
+{
+  "id": "e079e58a-002b-4a8d-b18c-19b4915760ad",
+  "object": "beer",
+  "name": "Olde Scoutter\u2019s Barleywine",
+  "style": "American-Style Barley Wine Ale",
+  "description": null,
+  "abv": 9.5,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

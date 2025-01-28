@@ -1,0 +1,11 @@
+{
+  "id": "fe9c20b3-153f-44fc-bcc3-71c7fdf42e3e",
+  "object": "beer",
+  "name": "Prairie Spectrum",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

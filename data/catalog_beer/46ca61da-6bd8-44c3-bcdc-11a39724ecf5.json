@@ -1,0 +1,11 @@
+{
+  "id": "46ca61da-6bd8-44c3-bcdc-11a39724ecf5",
+  "object": "beer",
+  "name": "Ebbot Ale",
+  "style": "English-Style Brown Ale",
+  "description": null,
+  "abv": 5,
+  "ibu": 30,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

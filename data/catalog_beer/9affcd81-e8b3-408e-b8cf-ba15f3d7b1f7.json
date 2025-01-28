@@ -1,0 +1,11 @@
+{
+  "id": "9affcd81-e8b3-408e-b8cf-ba15f3d7b1f7",
+  "object": "beer",
+  "name": "LambickX",
+  "style": "Belgian-Style Lambic",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

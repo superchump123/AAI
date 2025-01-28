@@ -1,0 +1,11 @@
+{
+  "id": "1de96ad8-f73c-436c-a554-53deab8f0930",
+  "object": "beer",
+  "name": "Cold Shivers Pale ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6.1,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

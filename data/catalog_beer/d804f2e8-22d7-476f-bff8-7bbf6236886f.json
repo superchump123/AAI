@@ -1,0 +1,11 @@
+{
+  "id": "d804f2e8-22d7-476f-bff8-7bbf6236886f",
+  "object": "beer",
+  "name": "Peaches the Friendly Ghost",
+  "style": "Dry Mead",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

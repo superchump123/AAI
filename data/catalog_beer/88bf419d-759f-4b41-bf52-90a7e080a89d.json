@@ -1,0 +1,11 @@
+{
+  "id": "88bf419d-759f-4b41-bf52-90a7e080a89d",
+  "object": "beer",
+  "name": "Blonde Snol",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "e695a839-e799-4b66-9bd8-43194bf3c7b2",
+  "object": "beer",
+  "name": "Dora",
+  "style": "Golden or Blonde Ale",
+  "description": null,
+  "abv": 5.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

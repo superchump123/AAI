@@ -1,0 +1,11 @@
+{
+  "id": "2ea7d3f9-cf8a-4e3a-921b-e86a00c3f871",
+  "object": "beer",
+  "name": "Family Harvest",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 7.2,
+  "ibu": 27,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

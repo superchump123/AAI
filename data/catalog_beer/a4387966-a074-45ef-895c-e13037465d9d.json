@@ -1,0 +1,11 @@
+{
+  "id": "a4387966-a074-45ef-895c-e13037465d9d",
+  "object": "beer",
+  "name": "Samuel Adams Maple Red",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 6.3,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

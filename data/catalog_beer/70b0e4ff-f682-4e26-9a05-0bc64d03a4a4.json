@@ -1,0 +1,11 @@
+{
+  "id": "70b0e4ff-f682-4e26-9a05-0bc64d03a4a4",
+  "object": "beer",
+  "name": "Grace and Grit",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

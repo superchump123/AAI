@@ -1,0 +1,11 @@
+{
+  "id": "f26a4d7f-f5a2-4c97-80ba-271c904df5cc",
+  "object": "beer",
+  "name": "Winter Warmer",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "a16f0def-11d1-4659-8bbc-c58986afa9d4",
+  "object": "beer",
+  "name": "Knob Creek BA Porter",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

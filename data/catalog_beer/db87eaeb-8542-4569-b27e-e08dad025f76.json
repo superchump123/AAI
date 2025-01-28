@@ -1,0 +1,11 @@
+{
+  "id": "db87eaeb-8542-4569-b27e-e08dad025f76",
+  "object": "beer",
+  "name": "Belikin Beer",
+  "style": "German-Style Leichtbier",
+  "description": null,
+  "abv": 4.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

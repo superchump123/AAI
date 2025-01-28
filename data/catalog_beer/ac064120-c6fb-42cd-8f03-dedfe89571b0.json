@@ -1,0 +1,11 @@
+{
+  "id": "ac064120-c6fb-42cd-8f03-dedfe89571b0",
+  "object": "beer",
+  "name": "Here Comes The Sun",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

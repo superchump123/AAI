@@ -1,0 +1,11 @@
+{
+  "id": "6b8d9024-a04d-467d-97ac-4fae2a215113",
+  "object": "beer",
+  "name": "Prairie Vous Francais",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 4,
+  "ibu": 18,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

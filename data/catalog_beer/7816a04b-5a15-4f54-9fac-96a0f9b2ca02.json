@@ -1,0 +1,11 @@
+{
+  "id": "7816a04b-5a15-4f54-9fac-96a0f9b2ca02",
+  "object": "beer",
+  "name": "Simcoe Extra Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 4.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

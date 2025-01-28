@@ -1,0 +1,11 @@
+{
+  "id": "221b7003-79b4-40e1-805f-fcf137b9aa7e",
+  "object": "beer",
+  "name": "Old Chief",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 9.1,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

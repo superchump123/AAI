@@ -1,0 +1,11 @@
+{
+  "id": "7d1f3232-2e0f-4d6f-8831-cfb940e79e48",
+  "object": "beer",
+  "name": "Belgoo Magus",
+  "style": "Other Belgian-Style Ales",
+  "description": null,
+  "abv": 6.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

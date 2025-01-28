@@ -1,0 +1,11 @@
+{
+  "id": "543dfc48-e3b2-4393-8cf4-4816450e1add",
+  "object": "beer",
+  "name": "Royal London",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

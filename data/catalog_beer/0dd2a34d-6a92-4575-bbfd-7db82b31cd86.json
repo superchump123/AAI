@@ -1,0 +1,11 @@
+{
+  "id": "0dd2a34d-6a92-4575-bbfd-7db82b31cd86",
+  "object": "beer",
+  "name": "Harvest Rain",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

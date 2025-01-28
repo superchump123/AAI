@@ -1,0 +1,11 @@
+{
+  "id": "ef93c2e7-0236-4d63-9d2c-26898557e995",
+  "object": "beer",
+  "name": "Cereal Killer",
+  "style": "Specialty Stouts",
+  "description": null,
+  "abv": 6.7,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1b0558ce-1c5c-45e8-860f-71114e5130f2",
+  "object": "beer",
+  "name": "Pale Ale",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

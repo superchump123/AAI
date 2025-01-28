@@ -1,0 +1,11 @@
+{
+  "id": "dfde6410-af9c-4405-ae2b-b126b7f8678d",
+  "object": "beer",
+  "name": "Deer Creek Saison",
+  "style": "French & Belgian-Style Saison",
+  "description": null,
+  "abv": 6.6,
+  "ibu": 37,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

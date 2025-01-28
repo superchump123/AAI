@@ -1,0 +1,11 @@
+{
+  "id": "54df9199-f76d-4b15-9832-af0b455d572b",
+  "object": "beer",
+  "name": "Nightwatch Dark Ale",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 5.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

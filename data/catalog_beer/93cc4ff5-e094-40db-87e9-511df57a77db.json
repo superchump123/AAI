@@ -1,0 +1,11 @@
+{
+  "id": "93cc4ff5-e094-40db-87e9-511df57a77db",
+  "object": "beer",
+  "name": "St. Tuber Abbey Ale",
+  "style": "Belgian-Style Dubbel",
+  "description": null,
+  "abv": 6.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

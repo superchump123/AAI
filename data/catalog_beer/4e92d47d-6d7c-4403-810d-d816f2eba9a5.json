@@ -1,0 +1,11 @@
+{
+  "id": "4e92d47d-6d7c-4403-810d-d816f2eba9a5",
+  "object": "beer",
+  "name": "Inhaler",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

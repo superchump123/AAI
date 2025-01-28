@@ -1,0 +1,11 @@
+{
+  "id": "05edd627-4ead-411a-99d2-e45a5d540678",
+  "object": "beer",
+  "name": "Vanillaphant",
+  "style": "Brown Porter",
+  "description": null,
+  "abv": 6.2,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bf696e94-9066-42b2-9fc0-cd91e18daa4e",
+  "object": "beer",
+  "name": "Big Bang",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

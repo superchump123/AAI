@@ -1,0 +1,11 @@
+{
+  "id": "d7f65534-82ef-49c6-bd1a-f407833c153c",
+  "object": "beer",
+  "name": "Waterloo Dark",
+  "style": "American-Style Dark Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

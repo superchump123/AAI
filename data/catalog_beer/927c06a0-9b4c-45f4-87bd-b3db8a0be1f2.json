@@ -1,0 +1,11 @@
+{
+  "id": "927c06a0-9b4c-45f4-87bd-b3db8a0be1f2",
+  "object": "beer",
+  "name": "Faber",
+  "style": "Belgian-Style Tripel",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

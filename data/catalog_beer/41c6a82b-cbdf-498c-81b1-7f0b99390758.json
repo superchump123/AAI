@@ -1,0 +1,11 @@
+{
+  "id": "41c6a82b-cbdf-498c-81b1-7f0b99390758",
+  "object": "beer",
+  "name": "Rolling Hills Irish Red",
+  "style": "Irish-Style Red Ale",
+  "description": null,
+  "abv": 5.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

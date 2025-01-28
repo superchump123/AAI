@@ -1,0 +1,11 @@
+{
+  "id": "7ff07d26-82f6-4007-8d76-894c8aa790f7",
+  "object": "beer",
+  "name": "Elevation Pilsner",
+  "style": "German-Style Pilsener",
+  "description": null,
+  "abv": 5,
+  "ibu": 40,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

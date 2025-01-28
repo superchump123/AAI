@@ -1,0 +1,11 @@
+{
+  "id": "8575bcd1-38c5-4708-b2b4-762fffc8a0fc",
+  "object": "beer",
+  "name": "LoCo I.P.A. (Loudoun County India Pale Ale)",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 6.4,
+  "ibu": 53,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

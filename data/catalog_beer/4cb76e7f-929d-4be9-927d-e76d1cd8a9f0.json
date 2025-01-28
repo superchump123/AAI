@@ -1,0 +1,11 @@
+{
+  "id": "4cb76e7f-929d-4be9-927d-e76d1cd8a9f0",
+  "object": "beer",
+  "name": "Nothing Too Fancy",
+  "style": "American-Style Pale Ale",
+  "description": null,
+  "abv": 5.1,
+  "ibu": 36,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

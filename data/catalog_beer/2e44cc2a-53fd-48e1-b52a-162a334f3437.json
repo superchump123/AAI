@@ -1,0 +1,11 @@
+{
+  "id": "2e44cc2a-53fd-48e1-b52a-162a334f3437",
+  "object": "beer",
+  "name": "Wunderkammer",
+  "style": "Belgian-Style Flanders Oud Bruin or Oud Red Ales",
+  "description": null,
+  "abv": 5.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

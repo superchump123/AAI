@@ -1,0 +1,11 @@
+{
+  "id": "928414a7-b08a-403b-b7a4-2944354856ab",
+  "object": "beer",
+  "name": "Smoke Out",
+  "style": "Bamberg-Style Weiss (Smoke) Rauchbier (Dunkel or Helles)",
+  "description": null,
+  "abv": 5.8,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

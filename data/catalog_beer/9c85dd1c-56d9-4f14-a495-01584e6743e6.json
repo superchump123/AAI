@@ -1,0 +1,11 @@
+{
+  "id": "9c85dd1c-56d9-4f14-a495-01584e6743e6",
+  "object": "beer",
+  "name": "Frank Double IPA",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6fcccacd-2652-4b4d-b62a-aea3ffd40496",
+  "object": "beer",
+  "name": "Double Swan",
+  "style": "Classic English-Style Pale Ale",
+  "description": null,
+  "abv": 4.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

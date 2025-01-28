@@ -1,0 +1,11 @@
+{
+  "id": "f0865b6b-dbce-47d1-a1d6-c46974c8e2cf",
+  "object": "beer",
+  "name": "American Hopped Cider",
+  "style": "Common Cider",
+  "description": null,
+  "abv": 6.4,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

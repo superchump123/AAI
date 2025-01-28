@@ -1,0 +1,11 @@
+{
+  "id": "753e650d-91e5-4011-9999-9e166fd842e7",
+  "object": "beer",
+  "name": "Red Top",
+  "style": "Ordinary Bitter",
+  "description": null,
+  "abv": 3.8,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

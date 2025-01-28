@@ -1,0 +1,11 @@
+{
+  "id": "52ebbe24-fcd4-40c3-af2d-2b29f7a6f659",
+  "object": "beer",
+  "name": "Cambridge IPA",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

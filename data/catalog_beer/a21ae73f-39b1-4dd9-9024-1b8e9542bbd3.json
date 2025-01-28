@@ -1,0 +1,11 @@
+{
+  "id": "a21ae73f-39b1-4dd9-9024-1b8e9542bbd3",
+  "object": "beer",
+  "name": "9th Circle",
+  "style": "American-Style Black Ale",
+  "description": null,
+  "abv": 8.5,
+  "ibu": 90,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

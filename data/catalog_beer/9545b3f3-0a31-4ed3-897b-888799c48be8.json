@@ -1,0 +1,11 @@
+{
+  "id": "9545b3f3-0a31-4ed3-897b-888799c48be8",
+  "object": "beer",
+  "name": "Frambozen",
+  "style": "American-Style Brown Ale",
+  "description": null,
+  "abv": 6.5,
+  "ibu": 15,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

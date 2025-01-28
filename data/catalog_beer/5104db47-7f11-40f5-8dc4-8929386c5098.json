@@ -1,0 +1,11 @@
+{
+  "id": "5104db47-7f11-40f5-8dc4-8929386c5098",
+  "object": "beer",
+  "name": "Witte Vrouwen",
+  "style": "German-Style Leichtes Weizen / Weissbier",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

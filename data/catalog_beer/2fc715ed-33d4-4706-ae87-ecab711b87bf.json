@@ -1,0 +1,11 @@
+{
+  "id": "2fc715ed-33d4-4706-ae87-ecab711b87bf",
+  "object": "beer",
+  "name": "Empire India Pale Ale",
+  "style": "English-Style India Pale Ale",
+  "description": null,
+  "abv": 7.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

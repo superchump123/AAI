@@ -1,0 +1,11 @@
+{
+  "id": "34d5959d-a521-4d5f-922e-402bbb2c5cc0",
+  "object": "beer",
+  "name": "Beltaine Scottish Ale",
+  "style": "Scotch Ale",
+  "description": null,
+  "abv": 4.7,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

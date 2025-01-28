@@ -1,0 +1,11 @@
+{
+  "id": "c4c31e99-28ba-4aae-b4a7-80de33957b46",
+  "object": "beer",
+  "name": "TripleTail",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 5.5,
+  "ibu": 57,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

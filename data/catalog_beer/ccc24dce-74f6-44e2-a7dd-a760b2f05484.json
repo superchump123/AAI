@@ -1,0 +1,11 @@
+{
+  "id": "ccc24dce-74f6-44e2-a7dd-a760b2f05484",
+  "object": "beer",
+  "name": "Gemini",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10.6,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

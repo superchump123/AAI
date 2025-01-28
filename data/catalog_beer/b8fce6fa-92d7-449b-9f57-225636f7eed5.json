@@ -1,0 +1,11 @@
+{
+  "id": "b8fce6fa-92d7-449b-9f57-225636f7eed5",
+  "object": "beer",
+  "name": "Afterburner",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 11.6,
+  "ibu": 100,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

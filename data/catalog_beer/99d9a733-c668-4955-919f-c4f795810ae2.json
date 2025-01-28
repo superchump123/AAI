@@ -1,0 +1,11 @@
+{
+  "id": "99d9a733-c668-4955-919f-c4f795810ae2",
+  "object": "beer",
+  "name": "Quackenbush Blonde",
+  "style": "German-Style K\u00f6lsch / K\u00f6ln-Style K\u00f6lsch",
+  "description": null,
+  "abv": 4.9,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

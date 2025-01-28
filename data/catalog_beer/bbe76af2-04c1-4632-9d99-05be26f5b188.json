@@ -1,0 +1,11 @@
+{
+  "id": "bbe76af2-04c1-4632-9d99-05be26f5b188",
+  "object": "beer",
+  "name": "Full Grown Jack",
+  "style": "Herb and Spice Beer",
+  "description": null,
+  "abv": 12.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

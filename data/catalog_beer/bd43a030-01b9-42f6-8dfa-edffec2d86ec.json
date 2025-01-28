@@ -1,0 +1,11 @@
+{
+  "id": "bd43a030-01b9-42f6-8dfa-edffec2d86ec",
+  "object": "beer",
+  "name": "Anker Beard Amber",
+  "style": "American-Style Amber/Red Ale",
+  "description": null,
+  "abv": 5.4,
+  "ibu": 35,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

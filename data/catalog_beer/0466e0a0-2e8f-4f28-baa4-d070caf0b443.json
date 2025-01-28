@@ -1,0 +1,11 @@
+{
+  "id": "0466e0a0-2e8f-4f28-baa4-d070caf0b443",
+  "object": "beer",
+  "name": "Hell",
+  "style": "Specialty Beer",
+  "description": null,
+  "abv": 4.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

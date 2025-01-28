@@ -1,0 +1,11 @@
+{
+  "id": "bb04370e-41e1-4102-89db-7bb211655d82",
+  "object": "beer",
+  "name": "City Lager",
+  "style": "American-Style Lager",
+  "description": null,
+  "abv": 5.2,
+  "ibu": 20,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

@@ -1,0 +1,11 @@
+{
+  "id": "809e9722-1ebd-4eca-9a48-400696cceb1b",
+  "object": "beer",
+  "name": "Amaizing Stout",
+  "style": "American-Style Stout",
+  "description": null,
+  "abv": 6.5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

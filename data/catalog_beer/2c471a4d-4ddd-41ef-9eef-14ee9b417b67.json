@@ -1,0 +1,11 @@
+{
+  "id": "2c471a4d-4ddd-41ef-9eef-14ee9b417b67",
+  "object": "beer",
+  "name": "Gelande Amber Lager",
+  "style": "California Common Beer",
+  "description": null,
+  "abv": 4,
+  "ibu": 22,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

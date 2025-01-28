@@ -1,0 +1,11 @@
+{
+  "id": "6e9585a2-fae9-4577-b03d-7b8dbac1dda4",
+  "object": "beer",
+  "name": "St. Sebastiaan Dark",
+  "style": "Belgian-Style Dark Strong Ale",
+  "description": null,
+  "abv": 6.9,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

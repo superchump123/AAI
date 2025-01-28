@@ -1,0 +1,11 @@
+{
+  "id": "b91a31fb-16a9-4999-a61d-e8e5b7e4db18",
+  "object": "beer",
+  "name": "Solar Abyss",
+  "style": "Imperial or Double India Pale Ale",
+  "description": null,
+  "abv": 10,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

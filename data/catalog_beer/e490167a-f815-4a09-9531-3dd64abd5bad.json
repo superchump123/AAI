@@ -1,0 +1,11 @@
+{
+  "id": "e490167a-f815-4a09-9531-3dd64abd5bad",
+  "object": "beer",
+  "name": "Habitus",
+  "style": "American-Style India Pale Ale",
+  "description": null,
+  "abv": 8,
+  "ibu": 86,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

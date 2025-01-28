@@ -1,0 +1,11 @@
+{
+  "id": "45add49e-1c32-4574-a75c-79572cc8cc9e",
+  "object": "beer",
+  "name": "Groovy Child - Dry Hopped Guava Ale",
+  "style": "American-Style Cream Ale or Lager",
+  "description": null,
+  "abv": 4.5,
+  "ibu": 23,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}

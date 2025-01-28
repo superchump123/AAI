@@ -1,0 +1,11 @@
+{
+  "id": "f4c96777-be66-48e3-b262-8befd492503e",
+  "object": "beer",
+  "name": "Ginger Lager",
+  "style": "American-Style Premium Lager",
+  "description": null,
+  "abv": 5,
+  "ibu": null,
+  "cb_verified": false,
+  "last_modified": 1588448205
+}
